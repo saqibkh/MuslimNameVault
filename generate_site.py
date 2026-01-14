@@ -398,9 +398,10 @@ DETAIL_CONTENT = """
                     
                     <div class="flex items-center justify-center gap-4 mt-6 relative z-10">
                         <div class="arabic-text text-6xl md:text-7xl opacity-90" id="arabicText">{{ name.arabic_spelling }}</div>
-                        <button onclick="speakName('{{ name.name }}', '{{ name.arabic_spelling }}', '{{ name.origin }}')" 
+                        
+                        <button onclick="playAudio('{{ name.name|lower|replace(' ', '-')|replace("'", "") }}')" 
                                 class="bg-white/20 hover:bg-white/30 p-2.5 rounded-full transition text-white border border-white/20 hover:scale-105 transform" 
-                                title="Listen to pronunciation">
+                                title="Listen to native pronunciation">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
                             </svg>
@@ -441,7 +442,7 @@ DETAIL_CONTENT = """
                             {% for tag in name.get('tags', []) %}
                             <span class="px-3 py-1 bg-white text-slate-700 rounded-full text-sm font-medium border border-slate-200 shadow-sm">{{ tag }}</span>
                             {% else %}
-                            <span class="text-slate-400 italic text-sm">No specific categories tags.</span>
+                            <span class="text-slate-400 italic text-sm">No specific categories.</span>
                             {% endfor %}
                         </div>
                     </div>
@@ -528,8 +529,6 @@ DETAIL_CONTENT = """
     function shareName() {
         const text = `Check out this beautiful name: ${currentData.name} - ${currentData.meaning}`;
         const url = window.location.href;
-        
-        // Try Web Share API first (Mobile)
         if (navigator.share) {
             navigator.share({
                 title: currentData.name + ' - MuslimNameVault',
@@ -537,7 +536,6 @@ DETAIL_CONTENT = """
                 url: url,
             });
         } else {
-            // Fallback to WhatsApp
             window.open(`https://wa.me/?text=${encodeURIComponent(text + ' ' + url)}`, '_blank');
         }
     }
@@ -549,32 +547,16 @@ DETAIL_CONTENT = """
         });
     }
 
-    // --- SMART PRONUNCIATION LOGIC ---
-    function speakName(latinName, arabicName, origin) {
-        let textToSpeak = latinName;
-        let langCode = 'en-US';
-        const lowerOrigin = origin ? origin.toLowerCase() : '';
-
-        // Detect correct language based on origin
-        if (lowerOrigin.includes('arabic') || lowerOrigin.includes('quranic')) {
-            langCode = 'ar-SA';
-            textToSpeak = arabicName || latinName; 
-        } else if (lowerOrigin.includes('persian') || lowerOrigin.includes('farsi')) {
-            langCode = 'fa-IR';
-            textToSpeak = arabicName || latinName; 
-        } else if (lowerOrigin.includes('urdu')) {
-            langCode = 'ur-PK';
-            textToSpeak = arabicName || latinName; 
-        } else if (lowerOrigin.includes('turkish')) {
-            langCode = 'tr-TR';
-            textToSpeak = latinName;
-        }
-
-        window.speechSynthesis.cancel();
-        const utterance = new SpeechSynthesisUtterance(textToSpeak);
-        utterance.lang = langCode;
-        utterance.rate = 0.85; // Slower for clarity
-        window.speechSynthesis.speak(utterance);
+    // --- MP3 FILE PLAYBACK ---
+    function playAudio(slug) {
+        // Points to the audio folder relative to the current HTML file
+        const audioPath = `audio/${slug}.mp3`;
+        const audio = new Audio(audioPath);
+        
+        audio.play().catch(error => {
+            console.error("Audio playback failed:", error);
+            showToast("Pronunciation not available yet 🔇");
+        });
     }
 
     function showToast(message) {
