@@ -1,0 +1,15 @@
+[
+  { "id": "ri1", "name": "Riaz", "gender": "Boy", "meaning": "Gardens, meadows", "origin": "Arabic", "verified": true },
+  { "id": "ri2", "name": "Rida", "gender": "Unisex", "meaning": "Contentment, favor", "origin": "Arabic", "verified": true },
+  { "id": "ri3", "name": "Ridwan", "gender": "Boy", "meaning": "Acceptance, keeper of Paradise", "origin": "Quranic", "verified": true },
+  { "id": "ri4", "name": "Riffat", "gender": "Unisex", "meaning": "Highness, exaltation", "origin": "Arabic", "verified": true },
+  { "id": "ri5", "name": "Rihab", "gender": "Girl", "meaning": "Vastness, spaciousness", "origin": "Arabic", "verified": true },
+  { "id": "ri6", "name": "Riham", "gender": "Girl", "meaning": "Light rain, drizzle", "origin": "Arabic", "verified": true },
+  { "id": "ri7", "name": "Rihana", "gender": "Girl", "meaning": "Sweet basil", "origin": "Arabic", "verified": true },
+  { "id": "ri8", "name": "Rim", "gender": "Girl", "meaning": "Gazelle", "origin": "Arabic", "verified": true },
+  { "id": "ri9", "name": "Rima", "gender": "Girl", "meaning": "White antelope", "origin": "Arabic", "verified": true },
+  { "id": "ri10", "name": "Rimsha", "gender": "Girl", "meaning": "Bouquet of flowers", "origin": "Urdu", "verified": true },
+  { "id": "ri11", "name": "Riyad", "gender": "Boy", "meaning": "Gardens", "origin": "Arabic", "verified": true },
+  { "id": "ri12", "name": "Rizwan", "gender": "Boy", "meaning": "Acceptance, good will", "origin": "Quranic", "verified": true },
+  { "id": "ri13", "name": "Rizwana", "gender": "Girl", "meaning": "Guardian of heaven", "origin": "Arabic", "verified": true }
+]
