@@ -1,0 +1,14 @@
+[
+  { "id": "de1", "name": "Deba", "gender": "Girl", "meaning": "Silk, eye of a mistress", "origin": "Persian", "verified": true },
+  { "id": "de2", "name": "Deen", "gender": "Boy", "meaning": "Religion, faith", "origin": "Arabic", "verified": true },
+  { "id": "de3", "name": "Deena", "gender": "Girl", "meaning": "Obedience; Faith", "origin": "Arabic", "verified": true },
+  { "id": "de4", "name": "Deenal", "gender": "Girl", "meaning": "Faith", "origin": "Arabic", "verified": true },
+  { "id": "de5", "name": "Delara", "gender": "Girl", "meaning": "Adorning the heart", "origin": "Persian", "verified": true },
+  { "id": "de6", "name": "Delbar", "gender": "Girl", "meaning": "Heart-stealer, sweetheart", "origin": "Persian", "verified": true },
+  { "id": "de7", "name": "Delkash", "gender": "Girl", "meaning": "Fascinating, attractive", "origin": "Persian", "verified": true },
+  { "id": "de8", "name": "Delruba", "gender": "Girl", "meaning": "Heart-ravishing", "origin": "Persian", "verified": true },
+  { "id": "de9", "name": "Demir", "gender": "Boy", "meaning": "Iron", "origin": "Turkish", "verified": true },
+  { "id": "de10", "name": "Deniz", "gender": "Unisex", "meaning": "Sea", "origin": "Turkish", "verified": true },
+  { "id": "de11", "name": "Derya", "gender": "Unisex", "meaning": "Sea, ocean", "origin": "Turkish", "verified": true },
+  { "id": "de12", "name": "Devlet", "gender": "Boy", "meaning": "State, happiness", "origin": "Turkish", "verified": true }
+]

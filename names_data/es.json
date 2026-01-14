@@ -1,0 +1,12 @@
+[
+  { "id": "es1", "name": "Esa", "gender": "Boy", "meaning": "Prophet Jesus (Variant of Isa)", "origin": "Arabic", "verified": true },
+  { "id": "es2", "name": "Esha", "gender": "Girl", "meaning": "Life (Variant of Aisha) or Night prayer (Isha)", "origin": "Arabic/Urdu", "verified": true },
+  { "id": "es3", "name": "Eshaal", "gender": "Girl", "meaning": "Flower of Paradise", "origin": "Arabic", "verified": true },
+  { "id": "es4", "name": "Eshal", "gender": "Girl", "meaning": "Name of a flower in Paradise", "origin": "Urdu", "verified": true },
+  { "id": "es5", "name": "Eshrat", "gender": "Unisex", "meaning": "Delight, pleasure (Variant of Ishrat)", "origin": "Persian", "verified": true },
+  { "id": "es6", "name": "Esma", "gender": "Girl", "meaning": "Names; Supreme (Variant of Asma)", "origin": "Turkish", "verified": true },
+  { "id": "es7", "name": "Esmail", "gender": "Boy", "meaning": "Prophet Ishmael (Variant of Ismail)", "origin": "Persian", "verified": true },
+  { "id": "es8", "name": "Esmeray", "gender": "Girl", "meaning": "Dark moon", "origin": "Turkish", "verified": true },
+  { "id": "es9", "name": "Esra", "gender": "Girl", "meaning": "Night journey (Variant of Isra)", "origin": "Turkish", "verified": true },
+  { "id": "es10", "name": "Essam", "gender": "Boy", "meaning": "Safeguard (Variant of Issam)", "origin": "Arabic", "verified": true }
+]

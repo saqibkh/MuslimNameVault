@@ -1,0 +1,12 @@
+[
+  { "id": "ac1", "name": "Acep", "gender": "Boy", "meaning": "Handsome, beautiful", "origin": "Indonesian", "verified": true },
+  { "id": "ac2", "name": "Acil", "gender": "Boy", "meaning": "Noble, high-born", "origin": "Turkish", "verified": true },
+  { "id": "ac3", "name": "Achmed", "gender": "Boy", "meaning": "Praiseworthy (Variant of Ahmed)", "origin": "Arabic", "verified": true },
+  { "id": "ac4", "name": "Achak", "gender": "Boy", "meaning": "Flower petal", "origin": "Pashto", "verified": true },
+  { "id": "ac5", "name": "Aclan", "gender": "Boy", "meaning": "One who is completely clear", "origin": "Turkish", "verified": true },
+  { "id": "ac6", "name": "Acun", "gender": "Boy", "meaning": "World, universe", "origin": "Turkish", "verified": true },
+  { "id": "ac7", "name": "Achazia", "gender": "Girl", "meaning": "Held by God", "origin": "Hebrew/Arabic usage", "verified": false },
+  { "id": "ac8", "name": "Achia", "gender": "Girl", "meaning": "God is my brother", "origin": "Semitic", "verified": false },
+  { "id": "ac9", "name": "Acai", "gender": "Boy", "meaning": "Dark colored", "origin": "Arabic", "verified": true },
+  { "id": "ac10", "name": "Acel", "gender": "Boy", "meaning": "Noble", "origin": "Turkish", "verified": true }
+]

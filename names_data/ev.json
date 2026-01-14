@@ -1,0 +1,4 @@
+[
+  { "id": "ev1", "name": "Evren", "gender": "Unisex", "meaning": "Universe, cosmos", "origin": "Turkish", "verified": true },
+  { "id": "ev2", "name": "Evin", "gender": "Girl", "meaning": "Love, grain", "origin": "Kurdish/Turkish", "verified": true }
+]

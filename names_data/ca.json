@@ -1,0 +1,14 @@
+[
+  { "id": "ca1", "name": "Cafer", "gender": "Boy", "meaning": "Stream, rivulet (Turkish form of Jafar)", "origin": "Turkish", "verified": true },
+  { "id": "ca2", "name": "Cahit", "gender": "Boy", "meaning": "Hardworking, striver (Variant of Jahid)", "origin": "Turkish", "verified": true },
+  { "id": "ca3", "name": "Cairo", "gender": "Boy", "meaning": "Victorious (Anglicized Al-Qahirah)", "origin": "Arabic", "verified": true },
+  { "id": "ca4", "name": "Caleb", "gender": "Boy", "meaning": "Dog, faithful (Variant of Kaleb)", "origin": "Arabic/Hebrew", "verified": true },
+  { "id": "ca5", "name": "Can", "gender": "Boy", "meaning": "Life, soul, spirit (Pronounced 'Jan')", "origin": "Turkish", "verified": true },
+  { "id": "ca6", "name": "Canan", "gender": "Girl", "meaning": "Beloved, sweetheart (Pronounced 'Janan')", "origin": "Turkish", "verified": true },
+  { "id": "ca7", "name": "Candan", "gender": "Unisex", "meaning": "Sincere, heartfelt", "origin": "Turkish", "verified": true },
+  { "id": "ca8", "name": "Cansel", "gender": "Girl", "meaning": "Flood of life", "origin": "Turkish", "verified": true },
+  { "id": "ca9", "name": "Cansu", "gender": "Girl", "meaning": "Water of life", "origin": "Turkish", "verified": true },
+  { "id": "ca10", "name": "Cavia", "gender": "Girl", "meaning": "Poem, rhyme (Variant of Qafiya)", "origin": "Urdu", "verified": true },
+  { "id": "ca11", "name": "Cavid", "gender": "Boy", "meaning": "Eternal (Turkish form of Javaid)", "origin": "Turkish", "verified": true },
+  { "id": "ca12", "name": "Cayla", "gender": "Girl", "meaning": "Castle, fortress (Variant of Qayla)", "origin": "Arabic", "verified": true }
+]

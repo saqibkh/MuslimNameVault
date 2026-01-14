@@ -1,0 +1,10 @@
+[
+  { "id": "ag1", "name": "Agharr", "gender": "Boy", "meaning": "Handsome, beautiful, noble", "origin": "Arabic", "verified": true },
+  { "id": "ag2", "name": "Agha", "gender": "Boy", "meaning": "Master, lord, chief", "origin": "Turkish", "verified": true },
+  { "id": "ag3", "name": "Aghlab", "gender": "Boy", "meaning": "Victorious, superior", "origin": "Arabic", "verified": true },
+  { "id": "ag4", "name": "Aghn", "gender": "Boy", "meaning": "Self-sufficient", "origin": "Arabic", "verified": true },
+  { "id": "ag5", "name": "Aghna", "gender": "Girl", "meaning": "Self-sufficient", "origin": "Arabic", "verified": true },
+  { "id": "ag6", "name": "Agah", "gender": "Boy", "meaning": "Aware, knowledgeable", "origin": "Persian", "verified": true },
+  { "id": "ag7", "name": "Agam", "gender": "Boy", "meaning": "Intelligent", "origin": "Urdu", "verified": true },
+  { "id": "ag8", "name": "Ahd", "gender": "Girl", "meaning": "Pledge, knowledge", "origin": "Arabic", "verified": true }
+]

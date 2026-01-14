@@ -1,0 +1,7 @@
+[
+  { "id": "br1", "name": "Brahim", "gender": "Boy", "meaning": "Father of multitudes (Variant of Ibrahim)", "origin": "Arabic (Maghrebi)", "verified": true },
+  { "id": "br2", "name": "Berna", "gender": "Girl", "meaning": "Young, brave", "origin": "Turkish", "verified": true },
+  { "id": "br3", "name": "Berin", "gender": "Girl", "meaning": "Best, highest", "origin": "Turkish", "verified": true },
+  { "id": "br4", "name": "Berk", "gender": "Boy", "meaning": "Solid, strong, firm", "origin": "Turkish", "verified": true },
+  { "id": "br5", "name": "Berker", "gender": "Boy", "meaning": "Solid man", "origin": "Turkish", "verified": true }
+]

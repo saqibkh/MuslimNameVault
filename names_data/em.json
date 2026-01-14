@@ -1,0 +1,13 @@
+[
+  { "id": "em1", "name": "Emad", "gender": "Boy", "meaning": "Pillar, support (Variant of Imad)", "origin": "Arabic", "verified": true },
+  { "id": "em2", "name": "Emal", "gender": "Boy", "meaning": "Hope, aspiration", "origin": "Arabic", "verified": true },
+  { "id": "em3", "name": "Eman", "gender": "Girl", "meaning": "Faith (Variant of Iman)", "origin": "Quranic", "verified": true },
+  { "id": "em4", "name": "Emel", "gender": "Girl", "meaning": "Desire, hope", "origin": "Turkish", "verified": true },
+  { "id": "em5", "name": "Emil", "gender": "Boy", "meaning": "Friend; Hardworking", "origin": "Arabic/Turkish", "verified": true },
+  { "id": "em6", "name": "Emina", "gender": "Girl", "meaning": "Trustworthy (Variant of Amina)", "origin": "Bosnian/Turkish", "verified": true },
+  { "id": "em7", "name": "Emir", "gender": "Boy", "meaning": "Prince, commander (Variant of Amir)", "origin": "Turkish", "verified": true },
+  { "id": "em8", "name": "Emira", "gender": "Girl", "meaning": "Princess (Variant of Amira)", "origin": "Turkish", "verified": true },
+  { "id": "em9", "name": "Emna", "gender": "Girl", "meaning": "Safe, peaceful (Variant of Amna)", "origin": "Arabic (Maghrebi)", "verified": true },
+  { "id": "em10", "name": "Emran", "gender": "Boy", "meaning": "Prosperity (Variant of Imran)", "origin": "Arabic", "verified": true },
+  { "id": "em11", "name": "Emre", "gender": "Boy", "meaning": "Friend, brother", "origin": "Turkish", "verified": true }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": "aq1", "name": "Aqaa", "gender": "Boy", "meaning": "Master, owner", "origin": "Turkish", "verified": true },
+  { "id": "aq2", "name": "Aqdas", "gender": "Unisex", "meaning": "Pure, sacred", "origin": "Arabic", "verified": true },
+  { "id": "aq3", "name": "Aqib", "gender": "Boy", "meaning": "Successor, consequence", "origin": "Arabic", "verified": true },
+  { "id": "aq4", "name": "Aqid", "gender": "Boy", "meaning": "Promise, contract", "origin": "Arabic", "verified": true },
+  { "id": "aq5", "name": "Aqil", "gender": "Boy", "meaning": "Wise, intelligent", "origin": "Arabic", "verified": true },
+  { "id": "aq6", "name": "Aqila", "gender": "Girl", "meaning": "Wise, sensible", "origin": "Arabic", "verified": true },
+  { "id": "aq7", "name": "Aqlah", "gender": "Girl", "meaning": "Wisdom", "origin": "Arabic", "verified": true },
+  { "id": "aq8", "name": "Aqmar", "gender": "Boy", "meaning": "Bright like the moon", "origin": "Arabic", "verified": true },
+  { "id": "aq9", "name": "Aqsa", "gender": "Girl", "meaning": "Farthest; Name of the holy mosque", "origin": "Quranic", "verified": true },
+  { "id": "aq10", "name": "Aqtab", "gender": "Boy", "meaning": "Polar stars, leaders", "origin": "Arabic", "verified": true }
+]

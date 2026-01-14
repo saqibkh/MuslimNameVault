@@ -1,0 +1,16 @@
+[
+  { "id": "bi1", "name": "Bi", "gender": "Girl", "meaning": "Lady (Short for Bibi)", "origin": "Urdu", "verified": true },
+  { "id": "bi2", "name": "Bibi", "gender": "Girl", "meaning": "Lady, matron", "origin": "Persian", "verified": true },
+  { "id": "bi3", "name": "Bilal", "gender": "Boy", "meaning": "Water, moisture; Prophet's Muezzin", "origin": "Arabic", "verified": true },
+  { "id": "bi4", "name": "Bilqis", "gender": "Girl", "meaning": "Queen of Sheba", "origin": "Arabic", "verified": true },
+  { "id": "bi5", "name": "Bina", "gender": "Girl", "meaning": "Vision, sight", "origin": "Persian", "verified": true },
+  { "id": "bi6", "name": "Binish", "gender": "Girl", "meaning": "Vision, cleverness", "origin": "Persian", "verified": true },
+  { "id": "bi7", "name": "Bint", "gender": "Girl", "meaning": "Daughter", "origin": "Arabic", "verified": true },
+  { "id": "bi8", "name": "Binyamin", "gender": "Boy", "meaning": "Benjamin (Prophet Yusuf's brother)", "origin": "Quranic", "verified": true },
+  { "id": "bi9", "name": "Birrah", "gender": "Girl", "meaning": "Good deed", "origin": "Arabic", "verified": true },
+  { "id": "bi10", "name": "Bishr", "gender": "Boy", "meaning": "Joy, happiness", "origin": "Arabic", "verified": true },
+  { "id": "bi11", "name": "Bisma", "gender": "Girl", "meaning": "Smile (Urdu variant of Basma)", "origin": "Urdu", "verified": true },
+  { "id": "bi12", "name": "Bismal", "gender": "Girl", "meaning": "Fragrance", "origin": "Urdu", "verified": true },
+  { "id": "bi13", "name": "Bisman", "gender": "Girl", "meaning": "Polite", "origin": "Persian", "verified": true },
+  { "id": "bi14", "name": "Bita", "gender": "Girl", "meaning": "Unique", "origin": "Persian", "verified": true }
+]

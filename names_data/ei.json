@@ -1,0 +1,7 @@
+[
+  { "id": "ei1", "name": "Eid", "gender": "Boy", "meaning": "Festivity, celebration", "origin": "Arabic", "verified": true },
+  { "id": "ei2", "name": "Eidam", "gender": "Boy", "meaning": "Determination", "origin": "Arabic", "verified": true },
+  { "id": "ei3", "name": "Eihab", "gender": "Boy", "meaning": "To give freely", "origin": "Arabic", "verified": true },
+  { "id": "ei4", "name": "Eiman", "gender": "Unisex", "meaning": "Faith (Variant of Iman)", "origin": "Quranic", "verified": true },
+  { "id": "ei5", "name": "Eisa", "gender": "Boy", "meaning": "Jesus (Variant of Isa)", "origin": "Quranic", "verified": true }
+]
