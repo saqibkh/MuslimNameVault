@@ -33,7 +33,6 @@ BASE_LAYOUT = """
     <style>
         body { font-family: 'Inter', sans-serif; }
         .arabic-text { font-family: 'Amiri', serif; }
-        /* Smooth fade for search filtering */
         .name-card { transition: all 0.3s ease; }
     </style>
 </head>
@@ -91,8 +90,12 @@ INDEX_CONTENT = """
 <script>
     function randomName() {
         const letters = {{ letters|tojson }};
-        const randomLetter = letters[Math.floor(Math.random() * letters.length)];
-        window.location.href = `names-${randomLetter.toLowerCase()}.html`;
+        if (letters.length > 0) {
+            const randomLetter = letters[Math.floor(Math.random() * letters.length)];
+            window.location.href = `names-${randomLetter.toLowerCase()}.html`;
+        } else {
+            alert("No names found!");
+        }
     }
 </script>
 """
@@ -158,7 +161,6 @@ LIST_CONTENT = """
 </div>
 
 <script>
-    // --- Search Logic ---
     const searchInput = document.getElementById('searchInput');
     const genderFilter = document.getElementById('genderFilter');
     const cards = document.querySelectorAll('.name-card');
@@ -184,7 +186,6 @@ LIST_CONTENT = """
             }
         });
         
-        // Show/Hide "No Results" message
         if (visibleCount === 0) {
             noResults.classList.remove('hidden');
         } else {
@@ -195,7 +196,6 @@ LIST_CONTENT = """
     searchInput.addEventListener('input', filterNames);
     genderFilter.addEventListener('change', filterNames);
 
-    // --- Favorites Logic (Shared) ---
     function toggleFavorite(btn, name, meaning, gender, arabic) {
         let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
         const index = favorites.findIndex(f => f.name === name);
@@ -212,7 +212,6 @@ LIST_CONTENT = """
         localStorage.setItem('muslimNamesFavs', JSON.stringify(favorites));
     }
 
-    // Initialize Heart Colors on Load
     document.addEventListener('DOMContentLoaded', () => {
         let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
         favorites.forEach(fav => {
@@ -373,7 +372,6 @@ FAVORITES_CONTENT = """
                 const card = document.createElement('div');
                 card.className = 'bg-white rounded-xl shadow-sm hover:shadow-md transition p-6 border border-slate-200 flex justify-between items-center relative overflow-hidden group';
                 
-                // Link wrapper
                 const link = document.createElement('a');
                 link.href = `name-${fav.name.toLowerCase().replace(' ', '-')}.html`;
                 link.className = 'absolute inset-0 z-0';
@@ -390,9 +388,6 @@ FAVORITES_CONTENT = """
                     <div class="text-right z-10 relative pointer-events-auto">
                         <span class="arabic-text text-2xl text-emerald-800 block mb-2 pointer-events-none">${fav.arabic}</span>
                         <button onclick="removeFav('${fav.name}')" class="text-xs text-red-500 hover:text-red-700 hover:bg-red-50 px-2 py-1 rounded transition flex items-center gap-1 ml-auto">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 000-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
-                            </svg>
                             Remove
                         </button>
                     </div>
@@ -416,7 +411,6 @@ FAVORITES_CONTENT = """
         }
     }
 
-    // Init
     renderFavorites();
 </script>
 """
@@ -424,24 +418,40 @@ FAVORITES_CONTENT = """
 # --- HELPER FUNCTIONS ---
 
 def load_all_names(folder):
-    """Loads all json files into a dictionary keyed by letter."""
+    """
+    Loads all json files and merges them by the first letter of the filename.
+    Handles multiple files per letter (e.g., aa.json, ab.json -> both go to 'A')
+    """
     data_by_letter = {}
     
     files = glob.glob(os.path.join(folder, '*.json'))
+    
+    print(f"📂 Found {len(files)} JSON files to process...")
     
     for file_path in files:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 names_list = json.load(f)
                 filename = os.path.basename(file_path)
+                
+                # Logic: Take first character of filename ('aa.json' -> 'A')
                 letter = filename[0].upper()
                 
-                # Sort names alphabetically
-                names_list.sort(key=lambda x: x['name'])
-                data_by_letter[letter] = names_list
-                print(f"Loaded {len(names_list)} names for letter {letter}")
+                # If letter list doesn't exist, create it
+                if letter not in data_by_letter:
+                    data_by_letter[letter] = []
+                
+                # Extend the list (Merge)
+                data_by_letter[letter].extend(names_list)
+                
+                print(f"   - Loaded {len(names_list)} names from {filename} into '{letter}'")
         except Exception as e:
-            print(f"Error reading {file_path}: {e}")
+            print(f"❌ Error reading {file_path}: {e}")
+    
+    # Sort all lists alphabetically after merging
+    for letter in data_by_letter:
+        data_by_letter[letter].sort(key=lambda x: x['name'])
+        print(f"🔤 Letter '{letter}' has {len(data_by_letter[letter])} total names after merging.")
             
     return data_by_letter
 
@@ -478,7 +488,7 @@ def generate_website():
     render_page(INDEX_CONTENT, {
         'letters': all_letters,
         'title': 'Muslim Name Vault - Meaningful Islamic Names',
-        'description': 'The most beautiful collection of Muslim boy and girl names with meanings, origins, and verification.'
+        'description': 'The most beautiful collection of Muslim boy and girl names.'
     }, 'index.html')
     print("✅ Generated index.html")
 
@@ -498,7 +508,7 @@ def generate_website():
             'letter': letter,
             'names': names,
             'title': f'Muslim Names Starting with {letter}',
-            'description': f'Browse {len(names)} Muslim names starting with the letter {letter}, including meanings and origins.'
+            'description': f'Browse {len(names)} Muslim names starting with {letter}.'
         }, f'names-{letter.lower()}.html')
         
         # Individual Name Pages
@@ -507,7 +517,7 @@ def generate_website():
             render_page(DETAIL_CONTENT, {
                 'name': name_entry,
                 'title': f"{name_entry['name']} - Meaning & Origin",
-                'description': f"Meaning of the Muslim name {name_entry['name']}: {name_entry['meaning']}. Origin: {name_entry['origin']}."
+                'description': f"Meaning of the name {name_entry['name']}: {name_entry['meaning']}."
             }, safe_filename)
             
     print(f"\n✨ Website generated successfully in the '{OUTPUT_FOLDER}' folder!")

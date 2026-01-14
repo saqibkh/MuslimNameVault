@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muslim Name Vault - Meaningful Islamic Names | MuslimNameVault</title>
-    <meta name="description" content="The most beautiful collection of Muslim boy and girl names with meanings, origins, and verification.">
+    <meta name="description" content="The most beautiful collection of Muslim boy and girl names.">
     
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://saqibkh.github.io/MuslimNameVault/">
     <meta property="og:title" content="Muslim Name Vault - Meaningful Islamic Names">
-    <meta property="og:description" content="The most beautiful collection of Muslim boy and girl names with meanings, origins, and verification.">
+    <meta property="og:description" content="The most beautiful collection of Muslim boy and girl names.">
     <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=MuslimNameVault">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -18,7 +18,6 @@
     <style>
         body { font-family: 'Inter', sans-serif; }
         .arabic-text { font-family: 'Amiri', serif; }
-        /* Smooth fade for search filtering */
         .name-card { transition: all 0.3s ease; }
     </style>
 </head>
@@ -65,8 +64,12 @@
 <script>
     function randomName() {
         const letters = ["A"];
-        const randomLetter = letters[Math.floor(Math.random() * letters.length)];
-        window.location.href = `names-${randomLetter.toLowerCase()}.html`;
+        if (letters.length > 0) {
+            const randomLetter = letters[Math.floor(Math.random() * letters.length)];
+            window.location.href = `names-${randomLetter.toLowerCase()}.html`;
+        } else {
+            alert("No names found!");
+        }
     }
 </script>
     </main>
