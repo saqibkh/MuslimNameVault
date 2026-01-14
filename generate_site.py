@@ -8,7 +8,7 @@ from jinja2 import Template
 # --- CONFIGURATION ---
 INPUT_FOLDER = 'names_data'
 OUTPUT_FOLDER = 'output'
-SITE_URL = "https://saqibkh.github.io/MuslimNameVault"  # Change this to your real URL
+SITE_URL = "https://saqibkh.github.io/MuslimNameVault" 
 
 # Ensure output directory exists
 if not os.path.exists(OUTPUT_FOLDER):
@@ -349,8 +349,10 @@ DETAIL_CONTENT = """
                     
                     <div class="flex items-center justify-center gap-4 mt-6 relative z-10">
                         <div class="arabic-text text-6xl md:text-7xl opacity-90" id="arabicText">{{ name.arabic_spelling }}</div>
-                        <button onclick="speakName('{{ name.name }}')" class="bg-white/20 hover:bg-white/30 p-2 rounded-full transition text-white" title="Listen to pronunciation">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <button onclick="speakName('{{ name.name }}', '{{ name.arabic_spelling }}', '{{ name.origin }}')" 
+                                class="bg-white/20 hover:bg-white/30 p-2.5 rounded-full transition text-white border border-white/20 hover:scale-105 transform" 
+                                title="Listen to pronunciation">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
                             </svg>
                         </button>
@@ -486,9 +488,48 @@ DETAIL_CONTENT = """
         });
     }
 
-    function speakName(text) {
-        const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = 'en-US'; // Using English approximation usually works better for names than forcing Arabic locale which might change pronunciation drastically
+    // --- NATIVE PRONUNCIATION LOGIC ---
+    function speakName(latinName, arabicName, origin) {
+        // Default to English
+        let textToSpeak = latinName;
+        let langCode = 'en-US';
+        const lowerOrigin = origin ? origin.toLowerCase() : '';
+
+        // Detect correct language and script
+        if (lowerOrigin.includes('arabic') || lowerOrigin.includes('quranic')) {
+            langCode = 'ar-SA';
+            textToSpeak = arabicName || latinName; // Prefer Arabic script
+        } else if (lowerOrigin.includes('persian') || lowerOrigin.includes('farsi')) {
+            langCode = 'fa-IR';
+            textToSpeak = arabicName || latinName; // Persian uses Arabic script
+        } else if (lowerOrigin.includes('urdu')) {
+            langCode = 'ur-PK';
+            textToSpeak = arabicName || latinName; // Urdu uses Arabic script
+        } else if (lowerOrigin.includes('turkish')) {
+            langCode = 'tr-TR';
+            textToSpeak = latinName; // Turkish uses Latin script
+        } else if (lowerOrigin.includes('indonesian') || lowerOrigin.includes('malay')) {
+            langCode = 'id-ID';
+            textToSpeak = latinName;
+        } else if (lowerOrigin.includes('swahili')) {
+            langCode = 'sw-KE';
+            textToSpeak = latinName;
+        }
+
+        // Cancel any current speech
+        window.speechSynthesis.cancel();
+
+        const utterance = new SpeechSynthesisUtterance(textToSpeak);
+        utterance.lang = langCode;
+        utterance.rate = 0.9; // Slightly slower for clarity
+
+        // Attempt to find a matching voice (Optional but helpful)
+        const voices = window.speechSynthesis.getVoices();
+        const specificVoice = voices.find(voice => voice.lang.includes(langCode));
+        if (specificVoice) {
+            utterance.voice = specificVoice;
+        }
+
         window.speechSynthesis.speak(utterance);
     }
 
@@ -498,7 +539,6 @@ DETAIL_CONTENT = """
         toast.innerText = message;
         document.body.appendChild(toast);
         
-        // Trigger animation
         requestAnimationFrame(() => {
             toast.classList.remove('translate-y-10', 'opacity-0');
         });
@@ -703,7 +743,6 @@ def render_page(template_str, context, output_filename):
         f.write(final_html)
 
 # --- MAIN GENERATOR ---
-# --- MAIN GENERATOR ---
 
 def generate_website():
     print("🚀 Starting Website Generation...")
@@ -720,21 +759,19 @@ def generate_website():
     generate_search_index(data)
     generate_sitemap(data)
 
-    # 3. Generate Index Page (FIXED: Changed X_CONTENT to INDEX_CONTENT)
+    # 3. Generate Index Page
     render_page(INDEX_CONTENT, {
         'letters': all_letters,
         'letters_json': json.dumps(all_letters),
         'title': 'Muslim Name Vault - Meaningful Islamic Names Dictionary',
         'description': 'The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciation.'
     }, 'index.html')
-    print("✅ Generated index.html")
 
     # 4. Generate Favorites Page
     render_page(FAVORITES_CONTENT, {
         'title': 'My Favorite Names',
         'description': 'Your shortlisted Muslim names.'
     }, 'favorites.html')
-    print("✅ Generated favorites.html")
 
     # 5. Generate Letter & Detail Pages
     for letter in all_letters:
