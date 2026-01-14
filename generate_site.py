@@ -1,7 +1,7 @@
 import json
 import os
 import glob
-from jinja2 import Environment, FileSystemLoader, Template
+from jinja2 import Template
 
 # --- CONFIGURATION ---
 INPUT_FOLDER = 'names_data'
@@ -89,7 +89,7 @@ INDEX_CONTENT = """
 
 <script>
     function randomName() {
-        const letters = {{ letters|tojson }};
+        const letters = {{ letters_json }};
         if (letters.length > 0) {
             const randomLetter = letters[Math.floor(Math.random() * letters.length)];
             window.location.href = `names-${randomLetter.toLowerCase()}.html`;
@@ -147,7 +147,7 @@ LIST_CONTENT = """
             
             <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
                 <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">{{ name.gender }}</span>
-                {% for tag in name.tags[:2] %}
+                {% for tag in name.get('tags', [])[:2] %}
                 <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">{{ tag }}</span>
                 {% endfor %}
             </div>
@@ -193,8 +193,8 @@ LIST_CONTENT = """
         }
     }
 
-    searchInput.addEventListener('input', filterNames);
-    genderFilter.addEventListener('change', filterNames);
+    if(searchInput) searchInput.addEventListener('input', filterNames);
+    if(genderFilter) genderFilter.addEventListener('change', filterNames);
 
     function toggleFavorite(btn, name, meaning, gender, arabic) {
         let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
@@ -267,7 +267,7 @@ DETAIL_CONTENT = """
                 <div>
                     <h3 class="text-xs uppercase tracking-widest text-slate-400 font-bold mb-2">Categories</h3>
                     <div class="flex flex-wrap gap-2">
-                        {% for tag in name.tags %}
+                        {% for tag in name.get('tags', []) %}
                         <span class="px-3 py-1 bg-emerald-50 text-emerald-700 rounded-lg text-sm font-medium border border-emerald-100">{{ tag }}</span>
                         {% endfor %}
                     </div>
@@ -431,24 +431,27 @@ def load_all_names(folder):
     for file_path in files:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                names_list = json.load(f)
+                content = f.read().strip()
+                if not content:
+                    print(f"⚠️ Skipping empty file: {file_path}")
+                    continue
+                    
+                names_list = json.loads(content)
                 filename = os.path.basename(file_path)
                 
-                # Logic: Take first character of filename ('aa.json' -> 'A')
                 letter = filename[0].upper()
                 
-                # If letter list doesn't exist, create it
                 if letter not in data_by_letter:
                     data_by_letter[letter] = []
                 
-                # Extend the list (Merge)
                 data_by_letter[letter].extend(names_list)
                 
                 print(f"   - Loaded {len(names_list)} names from {filename} into '{letter}'")
+        except json.JSONDecodeError as e:
+            print(f"❌ JSON Syntax Error in {file_path}: {e}")
         except Exception as e:
-            print(f"❌ Error reading {file_path}: {e}")
+            print(f"❌ Unexpected Error reading {file_path}: {e}")
     
-    # Sort all lists alphabetically after merging
     for letter in data_by_letter:
         data_by_letter[letter].sort(key=lambda x: x['name'])
         print(f"🔤 Letter '{letter}' has {len(data_by_letter[letter])} total names after merging.")
@@ -457,8 +460,8 @@ def load_all_names(folder):
 
 def render_page(template_str, context, output_filename):
     """Renders a page using Jinja2 and saves it."""
-    content_template = Template(template_str)
-    inner_html = content_template.render(**context)
+    template = Template(template_str)
+    inner_html = template.render(**context)
     
     layout_template = Template(BASE_LAYOUT)
     final_html = layout_template.render(
@@ -487,6 +490,7 @@ def generate_website():
     # 2. Generate Index Page
     render_page(INDEX_CONTENT, {
         'letters': all_letters,
+        'letters_json': json.dumps(all_letters),
         'title': 'Muslim Name Vault - Meaningful Islamic Names',
         'description': 'The most beautiful collection of Muslim boy and girl names.'
     }, 'index.html')
