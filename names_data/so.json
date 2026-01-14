@@ -1,0 +1,9 @@
+[
+  { "id": "so1", "name": "Sofia", "gender": "Girl", "meaning": "Wisdom (Greek origin, widely used by Muslims)", "origin": "Mixed", "verified": true },
+  { "id": "so2", "name": "Soha", "gender": "Girl", "meaning": "Star", "origin": "Arabic", "verified": true },
+  { "id": "so3", "name": "Sohail", "gender": "Boy", "meaning": "Gentle, easy; Star name (Canopus)", "origin": "Arabic", "verified": true },
+  { "id": "so4", "name": "Soheila", "gender": "Girl", "meaning": "Star", "origin": "Persian", "verified": true },
+  { "id": "so5", "name": "Soraya", "gender": "Girl", "meaning": "The Pleiades (Star cluster)", "origin": "Persian", "verified": true },
+  { "id": "so6", "name": "Souad", "gender": "Girl", "meaning": "Happiness (Variant of Suad)", "origin": "Arabic", "verified": true },
+  { "id": "so7", "name": "Sonia", "gender": "Girl", "meaning": "Wisdom, golden", "origin": "Mixed", "verified": true }
+]

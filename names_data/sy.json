@@ -1,0 +1,5 @@
+[
+  { "id": "sy1", "name": "Syed", "gender": "Boy", "meaning": "Master, lord (Variant of Sayyid)", "origin": "Arabic", "verified": true },
+  { "id": "sy2", "name": "Syeda", "gender": "Girl", "meaning": "Lady, mistress", "origin": "Arabic", "verified": true },
+  { "id": "sy3", "name": "Syleman", "gender": "Boy", "meaning": "Variant of Sulaiman", "origin": "Arabic", "verified": true }
+]

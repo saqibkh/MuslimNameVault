@@ -1,0 +1,12 @@
+[
+  { "id": "se1", "name": "Seema", "gender": "Girl", "meaning": "Face, forehead", "origin": "Persian", "verified": true },
+  { "id": "se2", "name": "Sehar", "gender": "Girl", "meaning": "Dawn, early morning", "origin": "Urdu", "verified": true },
+  { "id": "se3", "name": "Sehrish", "gender": "Girl", "meaning": "Sunrise", "origin": "Persian", "verified": true },
+  { "id": "se4", "name": "Selim", "gender": "Boy", "meaning": "Safe (Turkish form of Salim)", "origin": "Turkish", "verified": true },
+  { "id": "se5", "name": "Selina", "gender": "Girl", "meaning": "Moon, heaven", "origin": "Turkish/Persian", "verified": true },
+  { "id": "se6", "name": "Selma", "gender": "Girl", "meaning": "Peaceful (Variant of Salma)", "origin": "Turkish", "verified": true },
+  { "id": "se7", "name": "Semra", "gender": "Girl", "meaning": "Dark beauty (Turkish form of Samra)", "origin": "Turkish", "verified": true },
+  { "id": "se8", "name": "Serdar", "gender": "Boy", "meaning": "Commander, chief", "origin": "Turkish/Persian", "verified": true },
+  { "id": "se9", "name": "Serhat", "gender": "Boy", "meaning": "Frontier", "origin": "Turkish", "verified": true },
+  { "id": "se10", "name": "Sevda", "gender": "Girl", "meaning": "Love, passion", "origin": "Turkish", "verified": true }
+]

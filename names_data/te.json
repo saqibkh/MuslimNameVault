@@ -1,0 +1,7 @@
+[
+  { "id": "te1", "name": "Tehmina", "gender": "Girl", "meaning": "Strong, brave; Character in Shahnameh", "origin": "Persian", "verified": true },
+  { "id": "te2", "name": "Tehzeeb", "gender": "Girl", "meaning": "Etiquette, culture", "origin": "Urdu", "verified": true },
+  { "id": "te3", "name": "Temur", "gender": "Boy", "meaning": "Iron (Variant of Timur)", "origin": "Turkish", "verified": true },
+  { "id": "te4", "name": "Tesneem", "gender": "Girl", "meaning": "Fountain in Paradise (Variant of Tasneem)", "origin": "Arabic", "verified": true },
+  { "id": "te5", "name": "Tevfik", "gender": "Boy", "meaning": "Success (Turkish form of Tawfiq)", "origin": "Turkish", "verified": true }
+]
