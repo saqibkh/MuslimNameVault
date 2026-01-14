@@ -59,12 +59,17 @@
             A
         </a>
         
+        <a href="names-b.html" 
+           class="block bg-white hover:bg-emerald-600 hover:text-white transition-all transform hover:-translate-y-1 shadow-sm hover:shadow-md rounded-lg py-4 text-center text-xl font-bold border border-slate-200">
+            B
+        </a>
+        
     </div>
 </div>
 
 <script>
     function randomName() {
-        const letters = ["A"];
+        const letters = ["A", "B"];
         const randomLetter = letters[Math.floor(Math.random() * letters.length)];
         window.location.href = `names-${randomLetter.toLowerCase()}.html`;
     }
