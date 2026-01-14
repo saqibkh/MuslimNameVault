@@ -1,0 +1,7 @@
+[
+  { "id": "ho1", "name": "Hoda", "gender": "Girl", "meaning": "Guidance (Variant of Huda)", "origin": "Arabic", "verified": true },
+  { "id": "ho2", "name": "Hoor", "gender": "Girl", "meaning": "Virgin of Paradise, nymph", "origin": "Quranic", "verified": true },
+  { "id": "ho3", "name": "Hooriya", "gender": "Girl", "meaning": "Angel, nymph", "origin": "Arabic", "verified": true },
+  { "id": "ho4", "name": "Hossam", "gender": "Boy", "meaning": "Sword (Variant of Hussam)", "origin": "Arabic", "verified": true },
+  { "id": "ho5", "name": "Hotaka", "gender": "Boy", "meaning": "One of the tribes", "origin": "Pashto", "verified": true }
+]
