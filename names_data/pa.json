@@ -1,0 +1,22 @@
+[
+  { "id": "pa1", "name": "Padidah", "gender": "Girl", "meaning": "Phenomenon", "origin": "Persian", "verified": true },
+  { "id": "pa2", "name": "Pahana", "gender": "Girl", "meaning": "Precious stone", "origin": "Persian", "verified": true },
+  { "id": "pa3", "name": "Paigham", "gender": "Boy", "meaning": "Message", "origin": "Persian", "verified": true },
+  { "id": "pa4", "name": "Paiman", "gender": "Boy", "meaning": "Promise, covenant", "origin": "Persian", "verified": true },
+  { "id": "pa5", "name": "Pakiza", "gender": "Girl", "meaning": "Pure, chaste", "origin": "Persian/Urdu", "verified": true },
+  { "id": "pa6", "name": "Palwasha", "gender": "Girl", "meaning": "Light ray of moon", "origin": "Pashto", "verified": true },
+  { "id": "pa7", "name": "Panra", "gender": "Girl", "meaning": "Leaf", "origin": "Pashto", "verified": true },
+  { "id": "pa8", "name": "Parastoo", "gender": "Girl", "meaning": "Swallow (bird)", "origin": "Persian", "verified": true },
+  { "id": "pa9", "name": "Pareerou", "gender": "Girl", "meaning": "Face like a fairy", "origin": "Persian", "verified": true },
+  { "id": "pa10", "name": "Parham", "gender": "Boy", "meaning": "Abraham (Persian variant)", "origin": "Persian", "verified": true },
+  { "id": "pa11", "name": "Pari", "gender": "Girl", "meaning": "Fairy", "origin": "Persian", "verified": true },
+  { "id": "pa12", "name": "Parisa", "gender": "Girl", "meaning": "Like a fairy", "origin": "Persian", "verified": true },
+  { "id": "pa13", "name": "Parishad", "gender": "Girl", "meaning": "Happy fairy", "origin": "Persian", "verified": true },
+  { "id": "pa14", "name": "Parizad", "gender": "Unisex", "meaning": "Born of a fairy", "origin": "Persian", "verified": true },
+  { "id": "pa15", "name": "Parsa", "gender": "Unisex", "meaning": "Pious, devout", "origin": "Persian", "verified": true },
+  { "id": "pa16", "name": "Parvaiz", "gender": "Boy", "meaning": "Fortunate, victorious", "origin": "Persian", "verified": true },
+  { "id": "pa17", "name": "Parveen", "gender": "Girl", "meaning": "The Pleiades (Cluster of stars)", "origin": "Persian", "verified": true },
+  { "id": "pa18", "name": "Parvin", "gender": "Girl", "meaning": "The Pleiades", "origin": "Persian", "verified": true },
+  { "id": "pa19", "name": "Pasha", "gender": "Boy", "meaning": "Lord, king, high rank", "origin": "Turkish", "verified": true },
+  { "id": "pa20", "name": "Payam", "gender": "Boy", "meaning": "Message", "origin": "Persian", "verified": true }
+]
