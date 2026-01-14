@@ -1,0 +1,183 @@
+[
+  {
+    "id": "b1",
+    "name": "Bilal",
+    "transliteration": "Bilāl",
+    "arabic_spelling": "بلال",
+    "gender": "Boy",
+    "meaning": "Water, refreshing, moisture; name of the Prophet's Muezzin",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Classic", "Popular"],
+    "verified": true
+  },
+  {
+    "id": "b2",
+    "name": "Basim",
+    "transliteration": "Bāsim",
+    "arabic_spelling": "باسم",
+    "gender": "Boy",
+    "meaning": "Smiling, happy",
+    "origin": "Arabic",
+    "tags": ["Happy", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "b3",
+    "name": "Bushra",
+    "transliteration": "Bushrā",
+    "arabic_spelling": "بشرى",
+    "gender": "Girl",
+    "meaning": "Good news, glad tidings",
+    "origin": "Quranic",
+    "tags": ["Quranic", "Hope"],
+    "verified": true
+  },
+  {
+    "id": "b4",
+    "name": "Barakah",
+    "transliteration": "Barakah",
+    "arabic_spelling": "بركة",
+    "gender": "Unisex",
+    "meaning": "Blessing, abundance",
+    "origin": "Arabic",
+    "tags": ["Religious", "Virtue"],
+    "verified": true
+  },
+  {
+    "id": "b5",
+    "name": "Badr",
+    "transliteration": "Badr",
+    "arabic_spelling": "بدر",
+    "gender": "Boy",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "tags": ["Nature", "Celestial"],
+    "verified": true
+  },
+  {
+    "id": "b6",
+    "name": "Burhan",
+    "transliteration": "Burhān",
+    "arabic_spelling": "برهان",
+    "gender": "Boy",
+    "meaning": "Proof, evidence",
+    "origin": "Quranic",
+    "tags": ["Quranic", "Intellect"],
+    "verified": true
+  },
+  {
+    "id": "b7",
+    "name": "Balqis",
+    "transliteration": "Balqīs",
+    "arabic_spelling": "بلقيس",
+    "gender": "Girl",
+    "meaning": "Name of the Queen of Sheba",
+    "origin": "Arabic",
+    "tags": ["Royal", "Historic"],
+    "verified": true
+  },
+  {
+    "id": "b8",
+    "name": "Bahira",
+    "transliteration": "Bāhirah",
+    "arabic_spelling": "باهرة",
+    "gender": "Girl",
+    "meaning": "Dazzling, brilliant, beautiful",
+    "origin": "Arabic",
+    "tags": ["Beauty", "Unique"],
+    "verified": true
+  },
+  {
+    "id": "b9",
+    "name": "Bassam",
+    "transliteration": "Bassām",
+    "arabic_spelling": "بسام",
+    "gender": "Boy",
+    "meaning": "Smiling frequently",
+    "origin": "Arabic",
+    "tags": ["Happy", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "b10",
+    "name": "Bayan",
+    "transliteration": "Bayān",
+    "arabic_spelling": "بيان",
+    "gender": "Unisex",
+    "meaning": "Eloquence, clarity, explanation",
+    "origin": "Quranic",
+    "tags": ["Quranic", "Intellect"],
+    "verified": true
+  },
+  {
+    "id": "b11",
+    "name": "Basma",
+    "transliteration": "Basmah",
+    "arabic_spelling": "بسمة",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Arabic",
+    "tags": ["Happy", "Short"],
+    "verified": true
+  },
+  {
+    "id": "b12",
+    "name": "Batool",
+    "transliteration": "Batūl",
+    "arabic_spelling": "بتول",
+    "gender": "Girl",
+    "meaning": "Ascetic virgin, detached from the world (Title of Maryam and Fatimah)",
+    "origin": "Arabic",
+    "tags": ["Religious", "Virtue"],
+    "verified": true
+  },
+  {
+    "id": "b13",
+    "name": "Baz",
+    "transliteration": "Bāz",
+    "arabic_spelling": "باز",
+    "gender": "Boy",
+    "meaning": "Falcon, hawk",
+    "origin": "Arabic",
+    "tags": ["Nature", "Strength", "Short"],
+    "verified": true
+  },
+  {
+    "id": "b14",
+    "name": "Beena",
+    "transliteration": "Bīnā",
+    "arabic_spelling": "بينا",
+    "gender": "Girl",
+    "meaning": "Seeing, clear sighted",
+    "origin": "Persian",
+    "tags": ["Intellect", "Persian"],
+    "verified": true
+  },
+  {
+    "id": "b15",
+    "name": "Bishr",
+    "transliteration": "Bishr",
+    "arabic_spelling": "بشر",
+    "gender": "Boy",
+    "meaning": "Joy, happiness",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Happy"],
+    "verified": true
+  },
+  {
+    "id": "b16",
+    "name": "Budur",
+    "transliteration": "Budūr",
+    "arabic_spelling": "بدور",
+    "gender": "Girl",
+    "meaning": "Full moons (Plural of Badr)",
+    "origin": "Arabic",
+    "tags": ["Celestial", "Beauty"],
+    "verified": true
+  },
+  {
+    "id": "b17",
+    "name": "Buthayna",
+    "transliteration": "Buthaynah",
+    "arabic_spelling": "بثينة",
+    "gender": "Girl

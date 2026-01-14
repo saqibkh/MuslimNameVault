@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a1",
+    "name": "Alyan",
+    "transliteration": "‘Alyan",
+    "arabic_spelling": "عاليان",
+    "gender": "Boy",
+    "meaning": "High, tall, ascending, supreme",
+    "origin": "Arabic",
+    "tags": ["Modern", "Strength"],
+    "verified": true
+  },
+  {
+    "id": "a2",
+    "name": "Aisha",
+    "transliteration": "‘Ā’ishah",
+    "arabic_spelling": "عائشة",
+    "gender": "Girl",
+    "meaning": "Alive, she who lives, prosperous",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Classic", "Popular"],
+    "verified": true
+  },
+  {
+    "id": "a3",
+    "name": "Ahmed",
+    "transliteration": "Aḥmad",
+    "arabic_spelling": "أحمد",
+    "gender": "Boy",
+    "meaning": "Highly praiseworthy, most commendable",
+    "origin": "Arabic",
+    "tags": ["Prophetic", "Quranic", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "a4",
+    "name": "Amara",
+    "transliteration": "‘Amārah",
+    "arabic_spelling": "عمارة",
+    "gender": "Girl",
+    "meaning": "Long life, eternal beauty, urgent news",
+    "origin": "Arabic",
+    "tags": ["Nature", "Modern"],
+    "verified": true
+  },
+  {
+    "id": "a5",
+    "name": "Adam",
+    "transliteration": "Ādam",
+    "arabic_spelling": "آدم",
+    "gender": "Boy",
+    "meaning": "Man, earth, soil",
+    "origin": "Quranic",
+    "tags": ["Prophetic", "Quranic", "Universal"],
+    "verified": true
+  },
+  {
+    "id": "a6",
+    "name": "Ayaan",
+    "transliteration": "Ayyān",
+    "arabic_spelling": "أيان",
+    "gender": "Boy",
+    "meaning": "Time, era, God's gift (in some contexts)",
+    "origin": "Quranic",
+    "tags": ["Modern", "Quranic", "Popular"],
+    "verified": true
+  },
+  {
+    "id": "a7",
+    "name": "Ali",
+    "transliteration": "‘Alī",
+    "arabic_spelling": "علي",
+    "gender": "Boy",
+    "meaning": "High, elevated, champion",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Short", "Powerful"],
+    "verified": true
+  },
+  {
+    "id": "a8",
+    "name": "Amina",
+    "transliteration": "Āminah",
+    "arabic_spelling": "آمنة",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful, honest",
+    "origin": "Arabic",
+    "tags": ["Classic", "Virtue", "Family of Prophet"],
+    "verified": true
+  },
+  {
+    "id": "a9",
+    "name": "Arwa",
+    "transliteration": "Arwā",
+    "arabic_spelling": "أروى",
+    "gender": "Girl",
+    "meaning": "Mountain goats, gracefulness, beauty",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Nature", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "a10",
+    "name": "Asim",
+    "transliteration": "‘Āṣim",
+    "arabic_spelling": "عاصم",
+    "gender": "Boy",
+    "meaning": "Protector, guardian, defender",
+    "origin": "Quranic",
+    "tags": ["Protector", "Quranic"],
+    "verified": true
+  },
+  {
+    "id": "a11",
+    "name": "Alara",
+    "transliteration": "Alara",
+    "arabic_spelling": "ألارا",
+    "gender": "Girl",
+    "meaning": "Red ornament, water fairy (Turkic origin)",
+    "origin": "Turkish",
+    "tags": ["Modern", "Unique", "Turkish"],
+    "verified": true
+  },
+  {
+    "id": "a12",
+    "name": "Areej",
+    "transliteration": "Arīj",
+    "arabic_spelling": "أريج",
+    "gender": "Girl",
+    "meaning": "Scent, sweet smell, fragrance",
+    "origin": "Arabic",
+    "tags": ["Nature", "Beauty"],
+    "verified": true
+  },
+  {
+    "id": "a13",
+    "name": "Adnan",
+    "transliteration": "‘Adnān",
+    "arabic_spelling": "عدنان",
+    "gender": "Boy",
+    "meaning": "Settler, one who settles for a long time in a place, Paradise",
+    "origin": "Arabic",
+    "tags": ["Historic", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "a14",
+    "name": "Amani",
+    "transliteration": "Amānī",
+    "arabic_spelling": "أماني",
+    "gender": "Girl",
+    "meaning": "Wishes, aspirations, desires",
+    "origin": "Arabic",
+    "tags": ["Hope", "Quranic Root"],
+    "verified": true
+  },
+  {
+    "id": "a15",
+    "name": "Aqsa",
+    "transliteration": "Aqṣā",
+    "arabic_spelling": "أقصى",
+    "gender": "Girl",
+    "meaning": "Farthest, the name of the holy mosque in Jerusalem",
+    "origin": "Quranic",
+    "tags": ["Islamic Landmarks", "Quranic"],
+    "verified": true
+  },
+  {
+    "id": "a16",
+    "name": "Abdullah",
+    "transliteration": "‘Abd Allāh",
+    "arabic_spelling": "عبد الله",
+    "gender": "Boy",
+    "meaning": "Servant of Allah",
+    "origin": "Arabic",
+    "tags": ["Theophoric", "Classic", "Prophetic Favorite"],
+    "verified": true
+  },
+  {
+    "id": "a17",
+    "name": "Asma",
+    "transliteration": "Asmā’",
+    "arabic_spelling": "أسماء",
+    "gender": "Girl",
+    "meaning": "Names, high status, prestige",
+    "origin": "Arabic",
+    "tags": ["Sahaba", "Classic"],
+    "verified": true
+  },
+  {
+    "id": "a18",
+    "name": "Ayah",
+    "transliteration": "Āyah",
+    "arabic_spelling": "آية",
+    "gender": "Girl",
+    "meaning": "Sign, evidence, verse of the Quran",
+    "origin": "Quranic",
+    "tags": ["Religious", "Short"],
+    "verified": true
+  },
+  {
+    "id": "a19",
+    "name": "Azeem",
+    "transliteration": "‘Aẓīm",
+    "arabic_spelling": "عظيم",
+    "gender": "Boy",
+    "meaning": "Great, magnificent, one of the attributes of Allah",
+    "origin": "Quranic",
+    "tags": ["Attribute", "Strength"],
+    "verified": true
+  },
+  {
+    "id": "a20",
+    "name": "Aleena",
+    "transliteration": "Alīnā",
+    "arabic_spelling": "علينا",
+    "gender": "Girl",
+    "meaning": "Soft, delicate, silk of heaven (Persian roots)",
+    "origin": "Persian",
+    "tags": ["Modern", "Soft"],
+    "verified": true
+  }
+]
