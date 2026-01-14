@@ -703,6 +703,7 @@ def render_page(template_str, context, output_filename):
         f.write(final_html)
 
 # --- MAIN GENERATOR ---
+# --- MAIN GENERATOR ---
 
 def generate_website():
     print("🚀 Starting Website Generation...")
@@ -719,19 +720,21 @@ def generate_website():
     generate_search_index(data)
     generate_sitemap(data)
 
-    # 3. Generate Index Page
-    render_page(X_CONTENT, {
+    # 3. Generate Index Page (FIXED: Changed X_CONTENT to INDEX_CONTENT)
+    render_page(INDEX_CONTENT, {
         'letters': all_letters,
         'letters_json': json.dumps(all_letters),
         'title': 'Muslim Name Vault - Meaningful Islamic Names Dictionary',
         'description': 'The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciation.'
     }, 'index.html')
+    print("✅ Generated index.html")
 
     # 4. Generate Favorites Page
     render_page(FAVORITES_CONTENT, {
         'title': 'My Favorite Names',
         'description': 'Your shortlisted Muslim names.'
     }, 'favorites.html')
+    print("✅ Generated favorites.html")
 
     # 5. Generate Letter & Detail Pages
     for letter in all_letters:
