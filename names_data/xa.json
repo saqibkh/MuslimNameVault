@@ -1,0 +1,7 @@
+[
+  { "id": "xa1", "name": "Xasan", "gender": "Boy", "meaning": "Handsome, good (Somali form of Hasan)", "origin": "Somali", "verified": true },
+  { "id": "xa2", "name": "Xavier", "gender": "Boy", "meaning": "Bright (Sometimes used in mixed cultures)", "origin": "Mixed", "verified": false },
+  { "id": "xa3", "name": "Xawa", "gender": "Girl", "meaning": "Eve (Somali form of Hawa)", "origin": "Somali", "verified": true },
+  { "id": "xa4", "name": "Xhemal", "gender": "Boy", "meaning": "Beauty (Albanian form of Jamal)", "origin": "Albanian", "verified": true },
+  { "id": "xa5", "name": "Xuseen", "gender": "Boy", "meaning": "Little beauty (Somali form of Hussein)", "origin": "Somali", "verified": true }
+]
