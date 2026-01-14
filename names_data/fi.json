@@ -1,0 +1,13 @@
+[
+  { "id": "fi1", "name": "Fida", "gender": "Unisex", "meaning": "Sacrifice, redemption", "origin": "Arabic", "verified": true },
+  { "id": "fi2", "name": "Fidda", "gender": "Girl", "meaning": "Silver", "origin": "Arabic", "verified": true },
+  { "id": "fi3", "name": "Fikri", "gender": "Boy", "meaning": "Intellectual", "origin": "Arabic", "verified": true },
+  { "id": "fi4", "name": "Fikriya", "gender": "Girl", "meaning": "Thoughtful, intellectual", "origin": "Arabic", "verified": true },
+  { "id": "fi5", "name": "Filza", "gender": "Girl", "meaning": "Light, rose from heaven; Part of liver (dear)", "origin": "Arabic", "verified": true },
+  { "id": "fi6", "name": "Firas", "gender": "Boy", "meaning": "Perspicacity, lion-like", "origin": "Arabic", "verified": true },
+  { "id": "fi7", "name": "Firdaus", "gender": "Unisex", "meaning": "Paradise, highest garden", "origin": "Quranic", "verified": true },
+  { "id": "fi8", "name": "Firdaws", "gender": "Unisex", "meaning": "Highest garden in Paradise", "origin": "Quranic", "verified": true },
+  { "id": "fi9", "name": "Firouz", "gender": "Boy", "meaning": "Victorious", "origin": "Persian", "verified": true },
+  { "id": "fi10", "name": "Fiza", "gender": "Girl", "meaning": "Breeze, wind, atmosphere", "origin": "Arabic", "verified": true },
+  { "id": "fi11", "name": "Fizzah", "gender": "Girl", "meaning": "Silver", "origin": "Arabic", "verified": true }
+]
