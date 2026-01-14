@@ -1,0 +1,9 @@
+[
+  { "id": "li1", "name": "Lia", "gender": "Girl", "meaning": "Bearer of glad tidings", "origin": "Arabic", "verified": true },
+  { "id": "li2", "name": "Liya", "gender": "Girl", "meaning": "Beautiful, ambitious", "origin": "Arabic", "verified": true },
+  { "id": "li3", "name": "Liyana", "gender": "Girl", "meaning": "Softness, tenderness", "origin": "Arabic", "verified": true },
+  { "id": "li4", "name": "Liban", "gender": "Boy", "meaning": "Successful, charming", "origin": "Arabic", "verified": true },
+  { "id": "li5", "name": "Lina", "gender": "Girl", "meaning": "Tender; Young palm tree", "origin": "Quranic", "verified": true },
+  { "id": "li6", "name": "Lisa", "gender": "Girl", "meaning": "Devoted to God", "origin": "Mixed", "verified": true },
+  { "id": "li7", "name": "Liza", "gender": "Girl", "meaning": "Dedicated to Allah", "origin": "Arabic", "verified": true }
+]
