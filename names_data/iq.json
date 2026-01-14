@@ -1,0 +1,5 @@
+[
+  { "id": "iq1", "name": "Iqbal", "gender": "Boy", "meaning": "Prosperity, good fortune", "origin": "Arabic", "verified": true },
+  { "id": "iq2", "name": "Iqra", "gender": "Girl", "meaning": "Recite, read (First word revealed)", "origin": "Quranic", "verified": true },
+  { "id": "iq3", "name": "Iqtidar", "gender": "Boy", "meaning": "Power, authority", "origin": "Arabic", "verified": true }
+]

@@ -73,12 +73,32 @@
             D
         </a>
         
+        <a href="names-e.html" 
+           class="block bg-white hover:bg-emerald-600 hover:text-white transition-all transform hover:-translate-y-1 shadow-sm hover:shadow-md rounded-lg py-4 text-center text-xl font-bold border border-slate-200">
+            E
+        </a>
+        
+        <a href="names-f.html" 
+           class="block bg-white hover:bg-emerald-600 hover:text-white transition-all transform hover:-translate-y-1 shadow-sm hover:shadow-md rounded-lg py-4 text-center text-xl font-bold border border-slate-200">
+            F
+        </a>
+        
+        <a href="names-g.html" 
+           class="block bg-white hover:bg-emerald-600 hover:text-white transition-all transform hover:-translate-y-1 shadow-sm hover:shadow-md rounded-lg py-4 text-center text-xl font-bold border border-slate-200">
+            G
+        </a>
+        
+        <a href="names-h.html" 
+           class="block bg-white hover:bg-emerald-600 hover:text-white transition-all transform hover:-translate-y-1 shadow-sm hover:shadow-md rounded-lg py-4 text-center text-xl font-bold border border-slate-200">
+            H
+        </a>
+        
     </div>
 </div>
 
 <script>
     function randomName() {
-        const letters = ["A", "B", "C", "D"];
+        const letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
         if (letters.length > 0) {
             const randomLetter = letters[Math.floor(Math.random() * letters.length)];
             window.location.href = `names-${randomLetter.toLowerCase()}.html`;

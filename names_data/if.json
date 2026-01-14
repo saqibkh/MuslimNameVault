@@ -1,0 +1,7 @@
+[
+  { "id": "if1", "name": "Iffah", "gender": "Girl", "meaning": "Purity, modesty", "origin": "Arabic", "verified": true },
+  { "id": "if2", "name": "Iffat", "gender": "Girl", "meaning": "Chastity, virtue", "origin": "Arabic", "verified": true },
+  { "id": "if3", "name": "Ifra", "gender": "Girl", "meaning": "Giving happiness", "origin": "Arabic", "verified": true },
+  { "id": "if4", "name": "Iftikhar", "gender": "Boy", "meaning": "Honor, glory", "origin": "Arabic", "verified": true },
+  { "id": "if5", "name": "Ifza", "gender": "Girl", "meaning": "Protective angel", "origin": "Arabic", "verified": true }
+]
