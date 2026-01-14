@@ -1,0 +1,9 @@
+[
+  { "id": "jo1", "name": "Johara", "gender": "Girl", "meaning": "Jewel (Variant of Jawhara)", "origin": "Arabic", "verified": true },
+  { "id": "jo2", "name": "Jood", "gender": "Girl", "meaning": "Generosity", "origin": "Arabic", "verified": true },
+  { "id": "jo3", "name": "Joud", "gender": "Unisex", "meaning": "Generosity", "origin": "Arabic", "verified": true },
+  { "id": "jo4", "name": "Joudi", "gender": "Unisex", "meaning": "Kindness; Mount Judi (Noah's Ark)", "origin": "Quranic", "verified": true },
+  { "id": "jo5", "name": "Jouin", "gender": "Boy", "meaning": "Sibling", "origin": "Arabic", "verified": true },
+  { "id": "jo6", "name": "Juman", "gender": "Unisex", "meaning": "Pearl", "origin": "Arabic", "verified": true },
+  { "id": "jo7", "name": "Jumana", "gender": "Girl", "meaning": "Silver pearl", "origin": "Arabic", "verified": true }
+]
