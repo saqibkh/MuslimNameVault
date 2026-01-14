@@ -1,0 +1,14 @@
+[
+  { "id": "qu1", "name": "Qubul", "gender": "Girl", "meaning": "Acceptance", "origin": "Arabic", "verified": true },
+  { "id": "qu2", "name": "Qudamah", "gender": "Boy", "meaning": "Courage; Old name", "origin": "Arabic", "verified": true },
+  { "id": "qu3", "name": "Qudrah", "gender": "Unisex", "meaning": "Power, ability", "origin": "Quranic", "verified": true },
+  { "id": "qu4", "name": "Quds", "gender": "Unisex", "meaning": "Holiness; Jerusalem", "origin": "Arabic", "verified": true },
+  { "id": "qu5", "name": "Qudsiya", "gender": "Girl", "meaning": "Holy, sacred", "origin": "Arabic", "verified": true },
+  { "id": "qu6", "name": "Qudwa", "gender": "Girl", "meaning": "Model, example", "origin": "Arabic", "verified": true },
+  { "id": "qu7", "name": "Qurban", "gender": "Boy", "meaning": "Sacrifice", "origin": "Quranic", "verified": true },
+  { "id": "qu8", "name": "Qurratulain", "gender": "Girl", "meaning": "Delight of the eyes", "origin": "Quranic", "verified": true },
+  { "id": "qu9", "name": "Qusay", "gender": "Boy", "meaning": "Distant; Ancestor of the Prophet", "origin": "Arabic", "verified": true },
+  { "id": "qu10", "name": "Qutaybah", "gender": "Boy", "meaning": "Impatient; A famous narrator", "origin": "Arabic", "verified": true },
+  { "id": "qu11", "name": "Qutb", "gender": "Boy", "meaning": "Axis, pole, leader", "origin": "Arabic", "verified": true },
+  { "id": "qu12", "name": "Qutuz", "gender": "Boy", "meaning": "Vicious (Historical Mamluk Sultan)", "origin": "Turkish", "verified": true }
+]
