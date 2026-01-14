@@ -1,0 +1,13 @@
+[
+  { "id": "ne1", "name": "Nedim", "gender": "Boy", "meaning": "Companion (Turkish form of Nadim)", "origin": "Turkish", "verified": true },
+  { "id": "ne2", "name": "Neelam", "gender": "Girl", "meaning": "Sapphire", "origin": "Persian/Urdu", "verified": true },
+  { "id": "ne3", "name": "Neelofer", "gender": "Girl", "meaning": "Lotus, water lily", "origin": "Persian", "verified": true },
+  { "id": "ne4", "name": "Neemat", "gender": "Unisex", "meaning": "Blessing (Variant of Nimat)", "origin": "Arabic", "verified": true },
+  { "id": "ne5", "name": "Nehad", "gender": "Girl", "meaning": "Brave, height", "origin": "Arabic", "verified": true },
+  { "id": "ne6", "name": "Nehal", "gender": "Girl", "meaning": "Rain", "origin": "Arabic", "verified": true },
+  { "id": "ne7", "name": "Nejla", "gender": "Girl", "meaning": "Wide eyes (Variant of Najla)", "origin": "Turkish", "verified": true },
+  { "id": "ne8", "name": "Nema", "gender": "Girl", "meaning": "Blessing (Variant of Nima)", "origin": "Arabic", "verified": true },
+  { "id": "ne9", "name": "Nermin", "gender": "Girl", "meaning": "Soft, delicate", "origin": "Turkish/Persian", "verified": true },
+  { "id": "ne10", "name": "Nesrin", "gender": "Girl", "meaning": "Wild rose (Turkish form of Nasrin)", "origin": "Turkish", "verified": true },
+  { "id": "ne11", "name": "Nezam", "gender": "Boy", "meaning": "Order, arrangement (Variant of Nizam)", "origin": "Persian", "verified": true }
+]

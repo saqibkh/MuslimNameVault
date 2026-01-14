@@ -1,0 +1,16 @@
+[
+  { "id": "ni1", "name": "Nida", "gender": "Girl", "meaning": "Call, voice", "origin": "Quranic", "verified": true },
+  { "id": "ni2", "name": "Nihal", "gender": "Unisex", "meaning": "Joyful, rain", "origin": "Arabic", "verified": true },
+  { "id": "ni3", "name": "Nihel", "gender": "Girl", "meaning": "Present", "origin": "Arabic", "verified": true },
+  { "id": "ni4", "name": "Nilofar", "gender": "Girl", "meaning": "Water lily", "origin": "Persian", "verified": true },
+  { "id": "ni5", "name": "Nima", "gender": "Unisex", "meaning": "Blessing", "origin": "Arabic", "verified": true },
+  { "id": "ni6", "name": "Nimah", "gender": "Girl", "meaning": "Blessing", "origin": "Arabic", "verified": true },
+  { "id": "ni7", "name": "Nimat", "gender": "Unisex", "meaning": "Blessing", "origin": "Quranic", "verified": true },
+  { "id": "ni8", "name": "Nisbah", "gender": "Girl", "meaning": "Relationship, connection", "origin": "Arabic", "verified": true },
+  { "id": "ni9", "name": "Nisha", "gender": "Girl", "meaning": "Night", "origin": "Sanskrit/Urdu", "verified": true },
+  { "id": "ni10", "name": "Nishat", "gender": "Girl", "meaning": "Happiness", "origin": "Urdu", "verified": true },
+  { "id": "ni11", "name": "Nisreen", "gender": "Girl", "meaning": "Wild rose", "origin": "Arabic", "verified": true },
+  { "id": "ni12", "name": "Niyaz", "gender": "Boy", "meaning": "Dedication, offering", "origin": "Persian", "verified": true },
+  { "id": "ni13", "name": "Nizar", "gender": "Boy", "meaning": "Rare", "origin": "Arabic", "verified": true },
+  { "id": "ni14", "name": "Nizam", "gender": "Boy", "meaning": "Order, arrangement", "origin": "Arabic", "verified": true }
+]

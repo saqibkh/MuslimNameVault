@@ -1,0 +1,16 @@
+[
+  { "id": "nu1", "name": "Nuaym", "gender": "Boy", "meaning": "Benevolent", "origin": "Arabic", "verified": true },
+  { "id": "nu2", "name": "Nudrat", "gender": "Girl", "meaning": "Uniqueness", "origin": "Urdu", "verified": true },
+  { "id": "nu3", "name": "Nuh", "gender": "Boy", "meaning": "Prophet Noah", "origin": "Quranic", "verified": true },
+  { "id": "nu4", "name": "Nuha", "gender": "Girl", "meaning": "Intelligence, mind", "origin": "Quranic", "verified": true },
+  { "id": "nu5", "name": "Nuham", "gender": "Boy", "meaning": "Intelligent", "origin": "Arabic", "verified": true },
+  { "id": "nu6", "name": "Nujood", "gender": "Girl", "meaning": "Noble, wise", "origin": "Arabic", "verified": true },
+  { "id": "nu7", "name": "Numair", "gender": "Boy", "meaning": "Little panther", "origin": "Arabic", "verified": true },
+  { "id": "nu8", "name": "Numan", "gender": "Boy", "meaning": "Blood; Red flower", "origin": "Arabic", "verified": true },
+  { "id": "nu9", "name": "Nur", "gender": "Unisex", "meaning": "Light", "origin": "Quranic", "verified": true },
+  { "id": "nu10", "name": "Nura", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true },
+  { "id": "nu11", "name": "Nuriyah", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true },
+  { "id": "nu12", "name": "Nusaybah", "gender": "Girl", "meaning": "One with good lineage; Famous woman warrior", "origin": "Arabic", "verified": true },
+  { "id": "nu13", "name": "Nusrat", "gender": "Unisex", "meaning": "Help, victory", "origin": "Arabic", "verified": true },
+  { "id": "nu14", "name": "Nuzhat", "gender": "Girl", "meaning": "Cheerfulness", "origin": "Arabic", "verified": true }
+]
