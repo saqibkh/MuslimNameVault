@@ -5,501 +5,762 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muslim Names Starting with A | MuslimNameVault</title>
-    <meta name="description" content="Browse 20 Muslim names starting with the letter A.">
+    <meta name="description" content="Browse 20 Muslim names starting with the letter A, including meanings and origins.">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://saqibkh.github.io/MuslimNameVault/">
+    <meta property="og:title" content="Muslim Names Starting with A">
+    <meta property="og:description" content="Browse 20 Muslim names starting with the letter A, including meanings and origins.">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=MuslimNameVault">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; }
         .arabic-text { font-family: 'Amiri', serif; }
+        /* Smooth fade for search filtering */
+        .name-card { transition: all 0.3s ease; }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen">
 
-    <nav class="bg-emerald-700 text-white shadow-lg">
+    <nav class="bg-emerald-700 text-white shadow-lg sticky top-0 z-50">
         <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <a href="index.html" class="text-2xl font-bold tracking-tight">MuslimNameVault</a>
-            <div class="space-x-4 hidden md:block">
-                <a href="index.html" class="hover:text-emerald-200">Home</a>
-                <a href="#" class="hover:text-emerald-200">About</a>
-                <a href="#" class="hover:text-emerald-200">Contact</a>
+            <a href="index.html" class="text-2xl font-bold tracking-tight flex items-center gap-2">
+                <span>MuslimNameVault</span>
+            </a>
+            <div class="flex gap-6 items-center">
+                <a href="index.html" class="hover:text-emerald-200 hidden md:block font-medium">Home</a>
+                <a href="favorites.html" class="hover:text-emerald-200 font-medium flex items-center gap-1">
+                    <span>❤️ My List</span>
+                </a>
             </div>
         </div>
     </nav>
 
     <main class="flex-grow container mx-auto px-4 py-8">
         
-<div class="flex justify-between items-center mb-8 border-b border-slate-200 pb-4">
-    <h1 class="text-3xl font-bold">Names starting with "A"</h1>
-    <a href="index.html" class="text-emerald-600 hover:underline">&larr; Back to Home</a>
+<div class="flex flex-col md:flex-row justify-between items-center mb-8 border-b border-slate-200 pb-6 gap-4">
+    <div>
+        <h1 class="text-4xl font-bold text-slate-900">Letter <span class="text-emerald-600">A</span></h1>
+        <a href="index.html" class="text-slate-500 hover:text-emerald-600 hover:underline text-sm mt-1 inline-block">&larr; Back to Home</a>
+    </div>
+    
+    <div class="flex gap-3 w-full md:w-auto">
+        <div class="relative w-full md:w-64">
+            <input type="text" id="searchInput" placeholder="Search names..." 
+                   class="pl-10 pr-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none w-full transition">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-slate-400 absolute left-3 top-2.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+        </div>
+        <select id="genderFilter" class="px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 outline-none bg-white cursor-pointer">
+            <option value="all">All Genders</option>
+            <option value="Boy">Boys Only</option>
+            <option value="Girl">Girls Only</option>
+        </select>
+    </div>
 </div>
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+<div id="namesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     
-    <a href="name-abdullah.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="abdullah" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Abdullah', 'Servant of Allah', 'Boy', 'عبد الله')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Abdullah">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-abdullah.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Abdullah</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Abd Allāh</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Abd Allāh</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عبد الله</span>
+                <span class="arabic-text text-3xl text-slate-800">عبد الله</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Servant of Allah</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Servant of Allah</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Theophoric</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Theophoric</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Classic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Classic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-adam.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="adam" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Adam', 'Man, earth, soil', 'Boy', 'آدم')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Adam">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-adam.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Adam</h2>
-                    <p class="text-sm text-slate-500 mb-2">Ādam</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Ādam</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">آدم</span>
+                <span class="arabic-text text-3xl text-slate-800">آدم</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Man, earth, soil</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Man, earth, soil</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Prophetic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Prophetic</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-adnan.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="adnan" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Adnan', 'Settler, one who settles for a long time in a place, Paradise', 'Boy', 'عدنان')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Adnan">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-adnan.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Adnan</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Adnān</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Adnān</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عدنان</span>
+                <span class="arabic-text text-3xl text-slate-800">عدنان</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Settler, one who settles for a long time in a place, Paradise</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Settler, one who settles for a long time in a place, Paradise</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Historic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Historic</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Classic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Classic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-ahmed.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="ahmed" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Ahmed', 'Highly praiseworthy, most commendable', 'Boy', 'أحمد')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Ahmed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-ahmed.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Ahmed</h2>
-                    <p class="text-sm text-slate-500 mb-2">Aḥmad</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Aḥmad</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أحمد</span>
+                <span class="arabic-text text-3xl text-slate-800">أحمد</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Highly praiseworthy, most commendable</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Highly praiseworthy, most commendable</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Prophetic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Prophetic</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-aisha.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="aisha" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Aisha', 'Alive, she who lives, prosperous', 'Girl', 'عائشة')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Aisha">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-aisha.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Aisha</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Ā’ishah</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Ā’ishah</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عائشة</span>
+                <span class="arabic-text text-3xl text-slate-800">عائشة</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Alive, she who lives, prosperous</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Alive, she who lives, prosperous</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Sahaba</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Sahaba</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Classic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Classic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-alara.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="alara" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Alara', 'Red ornament, water fairy (Turkic origin)', 'Girl', 'ألارا')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Alara">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-alara.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Alara</h2>
-                    <p class="text-sm text-slate-500 mb-2">Alara</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Alara</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">ألارا</span>
+                <span class="arabic-text text-3xl text-slate-800">ألارا</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Red ornament, water fairy (Turkic origin)</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Red ornament, water fairy (Turkic origin)</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Modern</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Modern</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Unique</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Unique</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-aleena.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="aleena" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Aleena', 'Soft, delicate, silk of heaven (Persian roots)', 'Girl', 'علينا')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Aleena">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-aleena.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Aleena</h2>
-                    <p class="text-sm text-slate-500 mb-2">Alīnā</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Alīnā</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">علينا</span>
+                <span class="arabic-text text-3xl text-slate-800">علينا</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Soft, delicate, silk of heaven (Persian roots)</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Soft, delicate, silk of heaven (Persian roots)</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Modern</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Modern</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Soft</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Soft</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-ali.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="ali" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Ali', 'High, elevated, champion', 'Boy', 'علي')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Ali">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-ali.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Ali</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Alī</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Alī</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">علي</span>
+                <span class="arabic-text text-3xl text-slate-800">علي</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">High, elevated, champion</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">High, elevated, champion</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Sahaba</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Sahaba</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Short</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Short</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-alyan.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="alyan" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Alyan', 'High, tall, ascending, supreme', 'Boy', 'عاليان')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Alyan">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-alyan.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Alyan</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Alyan</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Alyan</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عاليان</span>
+                <span class="arabic-text text-3xl text-slate-800">عاليان</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">High, tall, ascending, supreme</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">High, tall, ascending, supreme</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Modern</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Modern</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Strength</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Strength</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-amani.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="amani" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Amani', 'Wishes, aspirations, desires', 'Girl', 'أماني')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Amani">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-amani.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Amani</h2>
-                    <p class="text-sm text-slate-500 mb-2">Amānī</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Amānī</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أماني</span>
+                <span class="arabic-text text-3xl text-slate-800">أماني</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Wishes, aspirations, desires</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Wishes, aspirations, desires</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Hope</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Hope</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic Root</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic Root</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-amara.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="amara" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Amara', 'Long life, eternal beauty, urgent news', 'Girl', 'عمارة')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Amara">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-amara.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Amara</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Amārah</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Amārah</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عمارة</span>
+                <span class="arabic-text text-3xl text-slate-800">عمارة</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Long life, eternal beauty, urgent news</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Long life, eternal beauty, urgent news</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Nature</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Nature</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Modern</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Modern</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-amina.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="amina" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Amina', 'Trustworthy, faithful, honest', 'Girl', 'آمنة')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Amina">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-amina.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Amina</h2>
-                    <p class="text-sm text-slate-500 mb-2">Āminah</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Āminah</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">آمنة</span>
+                <span class="arabic-text text-3xl text-slate-800">آمنة</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Trustworthy, faithful, honest</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Trustworthy, faithful, honest</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Classic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Classic</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Virtue</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Virtue</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-aqsa.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="aqsa" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Aqsa', 'Farthest, the name of the holy mosque in Jerusalem', 'Girl', 'أقصى')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Aqsa">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-aqsa.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Aqsa</h2>
-                    <p class="text-sm text-slate-500 mb-2">Aqṣā</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Aqṣā</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أقصى</span>
+                <span class="arabic-text text-3xl text-slate-800">أقصى</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Farthest, the name of the holy mosque in Jerusalem</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Farthest, the name of the holy mosque in Jerusalem</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Islamic Landmarks</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Islamic Landmarks</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-areej.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="areej" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Areej', 'Scent, sweet smell, fragrance', 'Girl', 'أريج')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Areej">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-areej.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Areej</h2>
-                    <p class="text-sm text-slate-500 mb-2">Arīj</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Arīj</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أريج</span>
+                <span class="arabic-text text-3xl text-slate-800">أريج</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Scent, sweet smell, fragrance</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Scent, sweet smell, fragrance</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Nature</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Nature</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Beauty</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Beauty</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-arwa.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="arwa" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Arwa', 'Mountain goats, gracefulness, beauty', 'Girl', 'أروى')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Arwa">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-arwa.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Arwa</h2>
-                    <p class="text-sm text-slate-500 mb-2">Arwā</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Arwā</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أروى</span>
+                <span class="arabic-text text-3xl text-slate-800">أروى</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Mountain goats, gracefulness, beauty</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Mountain goats, gracefulness, beauty</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Sahaba</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Sahaba</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Nature</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Nature</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-asim.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="asim" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Asim', 'Protector, guardian, defender', 'Boy', 'عاصم')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Asim">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-asim.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Asim</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Āṣim</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Āṣim</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عاصم</span>
+                <span class="arabic-text text-3xl text-slate-800">عاصم</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Protector, guardian, defender</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Protector, guardian, defender</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Protector</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Protector</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-asma.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="asma" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Asma', 'Names, high status, prestige', 'Girl', 'أسماء')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Asma">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-asma.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Asma</h2>
-                    <p class="text-sm text-slate-500 mb-2">Asmā’</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Asmā’</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أسماء</span>
+                <span class="arabic-text text-3xl text-slate-800">أسماء</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Names, high status, prestige</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Names, high status, prestige</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Sahaba</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Sahaba</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Classic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Classic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-ayaan.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="ayaan" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Ayaan', 'Time, era, Gods gift (in some contexts)', 'Boy', 'أيان')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Ayaan">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-ayaan.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Ayaan</h2>
-                    <p class="text-sm text-slate-500 mb-2">Ayyān</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Ayyān</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">أيان</span>
+                <span class="arabic-text text-3xl text-slate-800">أيان</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Time, era, God's gift (in some contexts)</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Time, era, God's gift (in some contexts)</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Modern</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Modern</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Quranic</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Quranic</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-ayah.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="ayah" data-gender="Girl">
+        <button onclick="toggleFavorite(this, 'Ayah', 'Sign, evidence, verse of the Quran', 'Girl', 'آية')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Ayah">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-ayah.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Ayah</h2>
-                    <p class="text-sm text-slate-500 mb-2">Āyah</p>
+                    <p class="text-sm font-medium text-emerald-600/80">Āyah</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">آية</span>
+                <span class="arabic-text text-3xl text-slate-800">آية</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Sign, evidence, verse of the Quran</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Sign, evidence, verse of the Quran</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Girl</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Girl</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Religious</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Religious</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Short</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Short</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
-    <a href="name-azeem.html" class="group block">
-        <div class="bg-white rounded-xl shadow-sm border border-slate-100 p-6 hover:shadow-md transition hover:border-emerald-500 relative overflow-hidden">
-            <div class="flex justify-between items-start">
+    <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-lg transition-all hover:border-emerald-500/50" data-name="azeem" data-gender="Boy">
+        <button onclick="toggleFavorite(this, 'Azeem', 'Great, magnificent, one of the attributes of Allah', 'Boy', 'عظيم')" 
+                class="fav-btn absolute top-5 right-5 text-slate-300 hover:text-red-500 transition focus:outline-none z-10 p-1 rounded-full hover:bg-red-50"
+                data-fav-name="Azeem">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" stroke="none">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+        </button>
+
+        <a href="name-azeem.html" class="block h-full flex flex-col">
+            <div class="flex justify-between items-start pr-10 mb-2">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-emerald-700 transition">Azeem</h2>
-                    <p class="text-sm text-slate-500 mb-2">‘Aẓīm</p>
+                    <p class="text-sm font-medium text-emerald-600/80">‘Aẓīm</p>
                 </div>
-                <span class="arabic-text text-3xl text-emerald-800">عظيم</span>
+                <span class="arabic-text text-3xl text-slate-800">عظيم</span>
             </div>
             
-            <p class="text-slate-700 mt-3 line-clamp-2">Great, magnificent, one of the attributes of Allah</p>
+            <p class="text-slate-600 mt-2 text-sm leading-relaxed line-clamp-2 flex-grow">Great, magnificent, one of the attributes of Allah</p>
             
-            <div class="mt-4 flex flex-wrap gap-2">
-                <span class="px-2 py-1 bg-slate-100 text-xs rounded-full font-medium text-slate-600 uppercase tracking-wide">Boy</span>
+            <div class="mt-5 pt-4 border-t border-slate-100 flex flex-wrap gap-2">
+                <span class="px-2.5 py-1 bg-slate-100 text-xs rounded-md font-semibold text-slate-600 uppercase tracking-wide">Boy</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Attribute</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Attribute</span>
                 
-                <span class="px-2 py-1 bg-emerald-50 text-xs rounded-full text-emerald-700">Strength</span>
+                <span class="px-2.5 py-1 bg-emerald-50 text-xs rounded-md font-medium text-emerald-700 border border-emerald-100">Strength</span>
                 
             </div>
-        </div>
-    </a>
+        </a>
+    </div>
     
 </div>
+
+<div id="noResults" class="hidden text-center py-12">
+    <p class="text-xl text-slate-400 font-medium">No names found matching your search.</p>
+</div>
+
+<script>
+    // --- Search Logic ---
+    const searchInput = document.getElementById('searchInput');
+    const genderFilter = document.getElementById('genderFilter');
+    const cards = document.querySelectorAll('.name-card');
+    const noResults = document.getElementById('noResults');
+
+    function filterNames() {
+        const query = searchInput.value.toLowerCase().trim();
+        const gender = genderFilter.value;
+        let visibleCount = 0;
+
+        cards.forEach(card => {
+            const nameText = card.getAttribute('data-name');
+            const cardGender = card.getAttribute('data-gender');
+            
+            const matchesSearch = nameText.includes(query);
+            const matchesGender = gender === 'all' || cardGender === gender;
+
+            if (matchesSearch && matchesGender) {
+                card.style.display = 'block';
+                visibleCount++;
+            } else {
+                card.style.display = 'none';
+            }
+        });
+        
+        // Show/Hide "No Results" message
+        if (visibleCount === 0) {
+            noResults.classList.remove('hidden');
+        } else {
+            noResults.classList.add('hidden');
+        }
+    }
+
+    searchInput.addEventListener('input', filterNames);
+    genderFilter.addEventListener('change', filterNames);
+
+    // --- Favorites Logic (Shared) ---
+    function toggleFavorite(btn, name, meaning, gender, arabic) {
+        let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
+        const index = favorites.findIndex(f => f.name === name);
+        
+        if (index === -1) {
+            favorites.push({ name, meaning, gender, arabic });
+            btn.classList.add('text-red-500');
+            btn.classList.remove('text-slate-300');
+        } else {
+            favorites.splice(index, 1);
+            btn.classList.remove('text-red-500');
+            btn.classList.add('text-slate-300');
+        }
+        localStorage.setItem('muslimNamesFavs', JSON.stringify(favorites));
+    }
+
+    // Initialize Heart Colors on Load
+    document.addEventListener('DOMContentLoaded', () => {
+        let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
+        favorites.forEach(fav => {
+            const btns = document.querySelectorAll(`button[data-fav-name="${fav.name}"]`);
+            btns.forEach(btn => {
+                btn.classList.add('text-red-500');
+                btn.classList.remove('text-slate-300');
+            });
+        });
+    });
+</script>
     </main>
 
-    <footer class="bg-slate-900 text-slate-400 py-8 text-center mt-auto">
-        <p>&copy; 2024 MuslimNameVault. All rights reserved.</p>
+    <footer class="bg-slate-900 text-slate-400 py-8 text-center mt-auto border-t border-slate-800">
+        <p>&copy; 2026 MuslimNameVault. Built with ❤️ and Python.</p>
     </footer>
 
 </body>
