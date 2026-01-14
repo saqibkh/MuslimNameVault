@@ -1,0 +1,10 @@
+[
+  { "id": "om1", "name": "Oma", "gender": "Girl", "meaning": "Leader, life giver", "origin": "Arabic", "verified": true },
+  { "id": "om2", "name": "Omair", "gender": "Boy", "meaning": "Long lived, populating", "origin": "Arabic", "verified": true },
+  { "id": "om3", "name": "Omar", "gender": "Boy", "meaning": "Life, long-lived; Second Caliph", "origin": "Arabic", "verified": true },
+  { "id": "om4", "name": "Omari", "gender": "Boy", "meaning": "Populous, flourishing", "origin": "Swahili/Arabic", "verified": true },
+  { "id": "om5", "name": "Omid", "gender": "Boy", "meaning": "Hope", "origin": "Persian", "verified": true },
+  { "id": "om6", "name": "Omran", "gender": "Boy", "meaning": "Prosperity, structure (Variant of Imran)", "origin": "Arabic", "verified": true },
+  { "id": "om7", "name": "Omeir", "gender": "Boy", "meaning": "Long lived", "origin": "Arabic", "verified": true },
+  { "id": "om8", "name": "Omama", "gender": "Girl", "meaning": "Granddaughter of the Prophet (Umamah)", "origin": "Arabic", "verified": true }
+]
