@@ -1,15 +1,130 @@
 [
-  { "id": "mi1", "name": "Midhat", "gender": "Boy", "meaning": "Praise, eulogy", "origin": "Arabic", "verified": true },
-  { "id": "mi2", "name": "Mika", "gender": "Boy", "meaning": "Cool, sweet, intelligent", "origin": "Arabic", "verified": true },
-  { "id": "mi3", "name": "Mikaeel", "gender": "Boy", "meaning": "Archangel Michael", "origin": "Quranic", "verified": true },
-  { "id": "mi4", "name": "Mikail", "gender": "Boy", "meaning": "Archangel Michael", "origin": "Quranic", "verified": true },
-  { "id": "mi5", "name": "Mina", "gender": "Girl", "meaning": "Pearl, enamel; Valley near Mecca", "origin": "Persian/Arabic", "verified": true },
-  { "id": "mi6", "name": "Minhal", "gender": "Unisex", "meaning": "Source of water, honorable", "origin": "Arabic", "verified": true },
-  { "id": "mi7", "name": "Mir", "gender": "Boy", "meaning": "Leader, prince", "origin": "Persian", "verified": true },
-  { "id": "mi8", "name": "Mira", "gender": "Girl", "meaning": "Provision, food", "origin": "Arabic", "verified": true },
-  { "id": "mi9", "name": "Miraj", "gender": "Boy", "meaning": "Ascension (Prophet's journey)", "origin": "Arabic", "verified": true },
-  { "id": "mi10", "name": "Miral", "gender": "Girl", "meaning": "Deer", "origin": "Turkish", "verified": true },
-  { "id": "mi11", "name": "Misbah", "gender": "Unisex", "meaning": "Lamp, light", "origin": "Quranic", "verified": true },
-  { "id": "mi12", "name": "Mishal", "gender": "Unisex", "meaning": "Torch, light", "origin": "Arabic", "verified": true },
-  { "id": "mi13", "name": "Misk", "gender": "Unisex", "meaning": "Musk", "origin": "Quranic", "verified": true }
+  {
+    "id": "mi1",
+    "name": "Midhat",
+    "gender": "Boy",
+    "meaning": "Praise, eulogy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi2",
+    "name": "Mika",
+    "gender": "Boy",
+    "meaning": "Cool, sweet, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi3",
+    "name": "Mikaeel",
+    "gender": "Boy",
+    "meaning": "Archangel Michael",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mi4",
+    "name": "Mikail",
+    "gender": "Boy",
+    "meaning": "Archangel Michael",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mi5",
+    "name": "Mina",
+    "gender": "Girl",
+    "meaning": "Pearl, enamel; Valley near Mecca",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi6",
+    "name": "Minhal",
+    "gender": "Unisex",
+    "meaning": "Source of water, honorable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi7",
+    "name": "Mir",
+    "gender": "Boy",
+    "meaning": "Leader, prince",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "mi8",
+    "name": "Mira",
+    "gender": "Girl",
+    "meaning": "Provision, food",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi9",
+    "name": "Miraj",
+    "gender": "Boy",
+    "meaning": "Ascension (Prophet's journey)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi10",
+    "name": "Miral",
+    "gender": "Girl",
+    "meaning": "Deer",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "mi11",
+    "name": "Misbah",
+    "gender": "Unisex",
+    "meaning": "Lamp, light",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mi12",
+    "name": "Mishal",
+    "gender": "Unisex",
+    "meaning": "Torch, light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mi13",
+    "name": "Misk",
+    "gender": "Unisex",
+    "meaning": "Musk",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Misr",
+    "gender": "Boy",
+    "meaning": "Egypt; Civilization",
+    "origin": "Quranic",
+    "id": "mi14",
+    "verified": true
+  },
+  {
+    "name": "Mizan",
+    "gender": "Boy",
+    "meaning": "Balance, scale",
+    "origin": "Quranic",
+    "id": "mi15",
+    "verified": true
+  },
+  {
+    "name": "Mizna",
+    "gender": "Girl",
+    "meaning": "Cloud carrying rain",
+    "origin": "Arabic",
+    "id": "mi16",
+    "verified": true
+  }
 ]

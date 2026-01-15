@@ -1,16 +1,130 @@
 [
-  { "id": "zu1", "name": "Zubaida", "gender": "Girl", "meaning": "Essence, cream; Wife of Harun al-Rashid", "origin": "Arabic", "verified": true },
-  { "id": "zu2", "name": "Zubair", "gender": "Boy", "meaning": "Strong, powerful; Famous Companion", "origin": "Arabic", "verified": true },
-  { "id": "zu3", "name": "Zuehb", "gender": "Boy", "meaning": "Smart", "origin": "Arabic", "verified": true },
-  { "id": "zu4", "name": "Zuha", "gender": "Girl", "meaning": "Morning light", "origin": "Quranic", "verified": true },
-  { "id": "zu5", "name": "Zuhair", "gender": "Boy", "meaning": "Bright, shining", "origin": "Arabic", "verified": true },
-  { "id": "zu6", "name": "Zuhayr", "gender": "Boy", "meaning": "Bright", "origin": "Arabic", "verified": true },
-  { "id": "zu7", "name": "Zuhra", "gender": "Girl", "meaning": "Brightness, planet Venus", "origin": "Arabic", "verified": true },
-  { "id": "zu8", "name": "Zulfaqar", "gender": "Boy", "meaning": "Sword of Ali", "origin": "Arabic", "verified": true },
-  { "id": "zu9", "name": "Zulfiqar", "gender": "Boy", "meaning": "Spine splitter (Name of sword)", "origin": "Arabic", "verified": true },
-  { "id": "zu10", "name": "Zuleikha", "gender": "Girl", "meaning": "Brilliant beauty", "origin": "Arabic", "verified": true },
-  { "id": "zu11", "name": "Zulqarnain", "gender": "Boy", "meaning": "Owner of two horns (World Conqueror)", "origin": "Quranic", "verified": true },
-  { "id": "zu12", "name": "Zunair", "gender": "Boy", "meaning": "Light of the moon", "origin": "Arabic", "verified": true },
-  { "id": "zu13", "name": "Zunaira", "gender": "Girl", "meaning": "Flower found in paradise", "origin": "Arabic", "verified": true },
-  { "id": "zu14", "name": "Zuti", "gender": "Boy", "meaning": "Name of the grandfather of Imam Abu Hanifah", "origin": "Arabic", "verified": true }
+  {
+    "id": "zu1",
+    "name": "Zubaida",
+    "gender": "Girl",
+    "meaning": "Essence, cream; Wife of Harun al-Rashid",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu2",
+    "name": "Zubair",
+    "gender": "Boy",
+    "meaning": "Strong, powerful; Famous Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu3",
+    "name": "Zuehb",
+    "gender": "Boy",
+    "meaning": "Smart",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu4",
+    "name": "Zuha",
+    "gender": "Girl",
+    "meaning": "Morning light",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "zu5",
+    "name": "Zuhair",
+    "gender": "Boy",
+    "meaning": "Bright, shining",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zuhal",
+    "gender": "Girl",
+    "meaning": "Saturn",
+    "origin": "Arabic",
+    "id": "zu15",
+    "verified": true
+  },
+  {
+    "id": "zu6",
+    "name": "Zuhayr",
+    "gender": "Boy",
+    "meaning": "Bright",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu7",
+    "name": "Zuhra",
+    "gender": "Girl",
+    "meaning": "Brightness, planet Venus",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zulal",
+    "gender": "Boy",
+    "meaning": "Sweet water",
+    "origin": "Arabic",
+    "id": "zu16",
+    "verified": true
+  },
+  {
+    "id": "zu10",
+    "name": "Zuleikha",
+    "gender": "Girl",
+    "meaning": "Brilliant beauty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu8",
+    "name": "Zulfaqar",
+    "gender": "Boy",
+    "meaning": "Sword of Ali",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu9",
+    "name": "Zulfiqar",
+    "gender": "Boy",
+    "meaning": "Spine splitter (Name of sword)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu11",
+    "name": "Zulqarnain",
+    "gender": "Boy",
+    "meaning": "Owner of two horns (World Conqueror)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "zu12",
+    "name": "Zunair",
+    "gender": "Boy",
+    "meaning": "Light of the moon",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu13",
+    "name": "Zunaira",
+    "gender": "Girl",
+    "meaning": "Flower found in paradise",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zu14",
+    "name": "Zuti",
+    "gender": "Boy",
+    "meaning": "Name of the grandfather of Imam Abu Hanifah",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

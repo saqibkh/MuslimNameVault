@@ -1,4 +1,26 @@
 [
-  { "id": "or1", "name": "Orhan", "gender": "Boy", "meaning": "Great leader", "origin": "Turkish", "verified": true },
-  { "id": "or2", "name": "Orzala", "gender": "Girl", "meaning": "Firefly", "origin": "Pashto", "verified": true }
+  {
+    "name": "Orayb",
+    "gender": "Boy",
+    "meaning": "Keen, sharp",
+    "origin": "Arabic",
+    "id": "or3",
+    "verified": true
+  },
+  {
+    "id": "or1",
+    "name": "Orhan",
+    "gender": "Boy",
+    "meaning": "Great leader",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "or2",
+    "name": "Orzala",
+    "gender": "Girl",
+    "meaning": "Firefly",
+    "origin": "Pashto",
+    "verified": true
+  }
 ]

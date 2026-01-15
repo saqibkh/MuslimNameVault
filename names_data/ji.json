@@ -1,10 +1,74 @@
 [
-  { "id": "ji1", "name": "Jibran", "gender": "Boy", "meaning": "Reward, result; Khalil Gibran", "origin": "Arabic", "verified": true },
-  { "id": "ji2", "name": "Jibreel", "gender": "Boy", "meaning": "Archangel Gabriel", "origin": "Quranic", "verified": true },
-  { "id": "ji3", "name": "Jibril", "gender": "Boy", "meaning": "Archangel Gabriel", "origin": "Quranic", "verified": true },
-  { "id": "ji4", "name": "Jihad", "gender": "Boy", "meaning": "Struggle, effort", "origin": "Quranic", "verified": true },
-  { "id": "ji5", "name": "Jilan", "gender": "Boy", "meaning": "Courtier", "origin": "Arabic", "verified": true },
-  { "id": "ji6", "name": "Jinan", "gender": "Girl", "meaning": "Gardens, paradise", "origin": "Arabic", "verified": true },
-  { "id": "ji7", "name": "Jinda", "gender": "Unisex", "meaning": "Life, alive", "origin": "Kurdish", "verified": true },
-  { "id": "ji8", "name": "Jiyan", "gender": "Unisex", "meaning": "Life", "origin": "Kurdish", "verified": true }
+  {
+    "id": "ji1",
+    "name": "Jibran",
+    "gender": "Boy",
+    "meaning": "Reward, result; Khalil Gibran",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ji2",
+    "name": "Jibreel",
+    "gender": "Boy",
+    "meaning": "Archangel Gabriel",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ji3",
+    "name": "Jibril",
+    "gender": "Boy",
+    "meaning": "Archangel Gabriel",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ji4",
+    "name": "Jihad",
+    "gender": "Boy",
+    "meaning": "Struggle, effort",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ji5",
+    "name": "Jilan",
+    "gender": "Boy",
+    "meaning": "Courtier",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ji6",
+    "name": "Jinan",
+    "gender": "Girl",
+    "meaning": "Gardens, paradise",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ji7",
+    "name": "Jinda",
+    "gender": "Unisex",
+    "meaning": "Life, alive",
+    "origin": "Kurdish",
+    "verified": true
+  },
+  {
+    "id": "ji8",
+    "name": "Jiyan",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "verified": true
+  },
+  {
+    "name": "Jizah",
+    "gender": "Girl",
+    "meaning": "Valley; Side",
+    "origin": "Arabic",
+    "id": "ji9",
+    "verified": true
+  }
 ]

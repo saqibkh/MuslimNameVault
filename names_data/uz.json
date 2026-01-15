@@ -1,4 +1,26 @@
 [
-  { "id": "uz1", "name": "Uzair", "gender": "Boy", "meaning": "Prophet Ezra", "origin": "Quranic", "verified": true },
-  { "id": "uz2", "name": "Uzma", "gender": "Girl", "meaning": "Greatest, supreme", "origin": "Arabic", "verified": true }
+  {
+    "id": "uz1",
+    "name": "Uzair",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Uzayr",
+    "gender": "Boy",
+    "meaning": "Ezra (Prophet)",
+    "origin": "Quranic",
+    "id": "uz3",
+    "verified": true
+  },
+  {
+    "id": "uz2",
+    "name": "Uzma",
+    "gender": "Girl",
+    "meaning": "Greatest, supreme",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

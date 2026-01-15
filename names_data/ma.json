@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Mada",
+    "gender": "Girl",
+    "meaning": "Utmost point, range",
+    "origin": "Arabic",
+    "id": "ma43",
+    "verified": true
+  },
+  {
     "id": "ma6",
     "name": "Madiha",
     "gender": "Girl",
@@ -45,6 +53,14 @@
     "gender": "Girl",
     "meaning": "City (City of the Prophet)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mah",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Persian",
+    "id": "ma44",
     "verified": true
   },
   {
@@ -160,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Mala",
+    "gender": "Girl",
+    "meaning": "Gathering, assembly",
+    "origin": "Arabic",
+    "id": "ma45",
+    "verified": true
+  },
+  {
     "id": "ma21",
     "name": "Malak",
     "gender": "Unisex",
@@ -200,11 +224,27 @@
     "verified": true
   },
   {
+    "name": "Manal",
+    "gender": "Girl",
+    "meaning": "Achievement",
+    "origin": "Arabic",
+    "id": "ma46",
+    "verified": true
+  },
+  {
     "id": "ma26",
     "name": "Manar",
     "gender": "Girl",
     "meaning": "Guiding light, lighthouse",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Manara",
+    "gender": "Girl",
+    "meaning": "Lighthouse",
+    "origin": "Arabic",
+    "id": "ma47",
     "verified": true
   },
   {
@@ -248,6 +288,22 @@
     "verified": true
   },
   {
+    "name": "Marj",
+    "gender": "Boy",
+    "meaning": "Meadow",
+    "origin": "Arabic",
+    "id": "ma49",
+    "verified": true
+  },
+  {
+    "name": "Marjan",
+    "gender": "Girl",
+    "meaning": "Coral",
+    "origin": "Quranic",
+    "id": "ma48",
+    "verified": true
+  },
+  {
     "id": "ma32",
     "name": "Marwa",
     "gender": "Girl",
@@ -272,6 +328,14 @@
     "verified": true
   },
   {
+    "name": "Mashal",
+    "gender": "Unisex",
+    "meaning": "Torch, light",
+    "origin": "Arabic",
+    "id": "ma50",
+    "verified": true
+  },
+  {
     "id": "ma34",
     "name": "Masood",
     "gender": "Boy",
@@ -288,6 +352,14 @@
     "verified": true
   },
   {
+    "name": "Matar",
+    "gender": "Boy",
+    "meaning": "Rain",
+    "origin": "Arabic",
+    "id": "ma51",
+    "verified": true
+  },
+  {
     "id": "ma36",
     "name": "Mateen",
     "gender": "Boy",
@@ -301,6 +373,22 @@
     "gender": "Girl",
     "meaning": "Affection, love",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Mawj",
+    "gender": "Girl",
+    "meaning": "Waves",
+    "origin": "Quranic",
+    "id": "ma52",
+    "verified": true
+  },
+  {
+    "name": "May",
+    "gender": "Girl",
+    "meaning": "Water",
+    "origin": "Arabic (Old)",
+    "id": "ma53",
     "verified": true
   },
   {
@@ -325,6 +413,14 @@
     "gender": "Girl",
     "meaning": "Walking with pride",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Maysan",
+    "gender": "Girl",
+    "meaning": "Shining star",
+    "origin": "Arabic",
+    "id": "ma54",
     "verified": true
   },
   {

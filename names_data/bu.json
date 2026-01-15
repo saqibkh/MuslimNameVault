@@ -1,28 +1,226 @@
 [
-  { "id": "bu1", "name": "Budur", "gender": "Girl", "meaning": "Full moons (Plural of Badr)", "origin": "Arabic", "verified": true },
-  { "id": "bu2", "name": "Buhairah", "gender": "Girl", "meaning": "Small lake", "origin": "Arabic", "verified": true },
-  { "id": "bu3", "name": "Buhaysah", "gender": "Girl", "meaning": "Walking with pride; A narrator of Hadith", "origin": "Arabic", "verified": true },
-  { "id": "bu4", "name": "Buhayyah", "gender": "Girl", "meaning": "Beautiful, radiant", "origin": "Arabic", "verified": true },
-  { "id": "bu5", "name": "Bujair", "gender": "Boy", "meaning": "Name of a Sahabi (Companion)", "origin": "Arabic", "verified": true },
-  { "id": "bu6", "name": "Bukayr", "gender": "Boy", "meaning": "Early morning; Name of a narrator", "origin": "Arabic", "verified": true },
-  { "id": "bu7", "name": "Bukhari", "gender": "Boy", "meaning": "From Bukhara; Imam Bukhari", "origin": "Persian/Arabic", "verified": true },
-  { "id": "bu8", "name": "Bulbul", "gender": "Unisex", "meaning": "Nightingale", "origin": "Arabic", "verified": true },
-  { "id": "bu9", "name": "Bulut", "gender": "Boy", "meaning": "Cloud", "origin": "Turkish", "verified": true },
-  { "id": "bu10", "name": "Buraida", "gender": "Boy", "meaning": "Little cool one; A companion", "origin": "Arabic", "verified": true },
-  { "id": "bu11", "name": "Burak", "gender": "Boy", "meaning": "Lightning; The steed of the Prophet", "origin": "Arabic/Turkish", "verified": true },
-  { "id": "bu12", "name": "Burayd", "gender": "Boy", "meaning": "Cold, mild", "origin": "Arabic", "verified": true },
-  { "id": "bu13", "name": "Burhan", "gender": "Boy", "meaning": "Proof, evidence", "origin": "Quranic", "verified": true },
-  { "id": "bu14", "name": "Burhanuddin", "gender": "Boy", "meaning": "Proof of the Faith", "origin": "Arabic", "verified": true },
-  { "id": "bu15", "name": "Buri", "gender": "Boy", "meaning": "Excellent person", "origin": "Arabic", "verified": true },
-  { "id": "bu16", "name": "Burzin", "gender": "Boy", "meaning": "Exalted", "origin": "Persian", "verified": true },
-  { "id": "bu17", "name": "Busayrah", "gender": "Girl", "meaning": "Insight, she-camel", "origin": "Arabic", "verified": true },
-  { "id": "bu18", "name": "Bushra", "gender": "Girl", "meaning": "Good news, glad tidings", "origin": "Quranic", "verified": true },
-  { "id": "bu19", "name": "Busr", "gender": "Boy", "meaning": "Unripened dates; Name of a Companion", "origin": "Arabic", "verified": true },
-  { "id": "bu20", "name": "Buthayna", "gender": "Girl", "meaning": "Of beautiful and tender body; Soft sand", "origin": "Arabic", "verified": true },
-  { "id": "bu21", "name": "Bulqis", "gender": "Girl", "meaning": "Queen of Sheba (Variant of Balqis)", "origin": "Arabic", "verified": true },
-  { "id": "bu22", "name": "Bunyamin", "gender": "Boy", "meaning": "Benjamin (Brother of Yusuf)", "origin": "Quranic", "verified": true },
-  { "id": "bu23", "name": "Burum", "gender": "Boy", "meaning": "Bud, blossom", "origin": "Arabic", "verified": true },
-  { "id": "bu24", "name": "Bushr", "gender": "Boy", "meaning": "Joy, happiness", "origin": "Arabic", "verified": true },
-  { "id": "bu25", "name": "Butrus", "gender": "Boy", "meaning": "Peter (Arabic form)", "origin": "Arabic", "verified": true },
-  { "id": "bu26", "name": "Buzurg", "gender": "Boy", "meaning": "Great, elder", "origin": "Persian", "verified": true }
+  {
+    "id": "bu1",
+    "name": "Budur",
+    "gender": "Girl",
+    "meaning": "Full moons (Plural of Badr)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu2",
+    "name": "Buhairah",
+    "gender": "Girl",
+    "meaning": "Small lake",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu3",
+    "name": "Buhaysah",
+    "gender": "Girl",
+    "meaning": "Walking with pride; A narrator of Hadith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu4",
+    "name": "Buhayyah",
+    "gender": "Girl",
+    "meaning": "Beautiful, radiant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu5",
+    "name": "Bujair",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi (Companion)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu6",
+    "name": "Bukayr",
+    "gender": "Boy",
+    "meaning": "Early morning; Name of a narrator",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu7",
+    "name": "Bukhari",
+    "gender": "Boy",
+    "meaning": "From Bukhara; Imam Bukhari",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu8",
+    "name": "Bulbul",
+    "gender": "Unisex",
+    "meaning": "Nightingale",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu21",
+    "name": "Bulqis",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba (Variant of Balqis)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu9",
+    "name": "Bulut",
+    "gender": "Boy",
+    "meaning": "Cloud",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "bu22",
+    "name": "Bunyamin",
+    "gender": "Boy",
+    "meaning": "Benjamin (Brother of Yusuf)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "bu10",
+    "name": "Buraida",
+    "gender": "Boy",
+    "meaning": "Little cool one; A companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu11",
+    "name": "Burak",
+    "gender": "Boy",
+    "meaning": "Lightning; The steed of the Prophet",
+    "origin": "Arabic/Turkish",
+    "verified": true
+  },
+  {
+    "name": "Buraq",
+    "gender": "Boy",
+    "meaning": "Creature of the Night Journey",
+    "origin": "Islamic History",
+    "id": "bu27",
+    "verified": true
+  },
+  {
+    "id": "bu12",
+    "name": "Burayd",
+    "gender": "Boy",
+    "meaning": "Cold, mild",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu13",
+    "name": "Burhan",
+    "gender": "Boy",
+    "meaning": "Proof, evidence",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "bu14",
+    "name": "Burhanuddin",
+    "gender": "Boy",
+    "meaning": "Proof of the Faith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu15",
+    "name": "Buri",
+    "gender": "Boy",
+    "meaning": "Excellent person",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Burj",
+    "gender": "Boy",
+    "meaning": "Tower, constellation",
+    "origin": "Arabic",
+    "id": "bu28",
+    "verified": true
+  },
+  {
+    "id": "bu23",
+    "name": "Burum",
+    "gender": "Boy",
+    "meaning": "Bud, blossom",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu16",
+    "name": "Burzin",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "bu17",
+    "name": "Busayrah",
+    "gender": "Girl",
+    "meaning": "Insight, she-camel",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu24",
+    "name": "Bushr",
+    "gender": "Boy",
+    "meaning": "Joy, happiness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu18",
+    "name": "Bushra",
+    "gender": "Girl",
+    "meaning": "Good news, glad tidings",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "bu19",
+    "name": "Busr",
+    "gender": "Boy",
+    "meaning": "Unripened dates; Name of a Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu20",
+    "name": "Buthayna",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body; Soft sand",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu25",
+    "name": "Butrus",
+    "gender": "Boy",
+    "meaning": "Peter (Arabic form)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "bu26",
+    "name": "Buzurg",
+    "gender": "Boy",
+    "meaning": "Great, elder",
+    "origin": "Persian",
+    "verified": true
+  }
 ]

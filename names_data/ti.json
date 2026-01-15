@@ -1,4 +1,34 @@
 [
-  { "id": "ti1", "name": "Tijani", "gender": "Boy", "meaning": "Crowned", "origin": "Arabic (Maghrebi)", "verified": true },
-  { "id": "ti2", "name": "Timur", "gender": "Boy", "meaning": "Iron", "origin": "Turkish/Persian", "verified": true }
+  {
+    "name": "Tihama",
+    "gender": "Girl",
+    "meaning": "Coastal plain of Arabia",
+    "origin": "Arabic",
+    "id": "ti3",
+    "verified": true
+  },
+  {
+    "id": "ti1",
+    "name": "Tijani",
+    "gender": "Boy",
+    "meaning": "Crowned",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true
+  },
+  {
+    "id": "ti2",
+    "name": "Timur",
+    "gender": "Boy",
+    "meaning": "Iron",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "name": "Tin",
+    "gender": "Unisex",
+    "meaning": "Fig; A Surah",
+    "origin": "Quranic",
+    "id": "ti4",
+    "verified": true
+  }
 ]

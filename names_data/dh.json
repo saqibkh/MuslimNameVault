@@ -1,14 +1,106 @@
 [
-  { "id": "dh1", "name": "Dhaakir", "gender": "Boy", "meaning": "One who praises Allah", "origin": "Quranic", "verified": true },
-  { "id": "dh2", "name": "Dhakir", "gender": "Boy", "meaning": "One who remembers God", "origin": "Quranic", "verified": true },
-  { "id": "dh3", "name": "Dhakirah", "gender": "Girl", "meaning": "One who remembers God", "origin": "Quranic", "verified": true },
-  { "id": "dh4", "name": "Dhakiy", "gender": "Boy", "meaning": "Intelligent, bright", "origin": "Arabic", "verified": true },
-  { "id": "dh5", "name": "Dhakiyah", "gender": "Girl", "meaning": "Intelligent, bright", "origin": "Arabic", "verified": true },
-  { "id": "dh6", "name": "Dhakwan", "gender": "Boy", "meaning": "Intelligent", "origin": "Arabic", "verified": true },
-  { "id": "dh7", "name": "Dhameer", "gender": "Boy", "meaning": "Conscience, heart", "origin": "Arabic", "verified": true },
-  { "id": "dh8", "name": "Dhiya", "gender": "Unisex", "meaning": "Light, splendor", "origin": "Quranic", "verified": true },
-  { "id": "dh9", "name": "Dhia", "gender": "Boy", "meaning": "Light, radiance", "origin": "Arabic", "verified": true },
-  { "id": "dh10", "name": "Dhuha", "gender": "Girl", "meaning": "Forenoon, morning sun", "origin": "Quranic", "verified": true },
-  { "id": "dh11", "name": "DhulFiqar", "gender": "Boy", "meaning": "Name of the Prophet's sword", "origin": "History", "verified": true },
-  { "id": "dh12", "name": "Dhu", "gender": "Boy", "meaning": "Possessor of", "origin": "Arabic", "verified": true }
+  {
+    "id": "dh1",
+    "name": "Dhaakir",
+    "gender": "Boy",
+    "meaning": "One who praises Allah",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Dhab",
+    "gender": "Boy",
+    "meaning": "Gold",
+    "origin": "Arabic",
+    "id": "dh13",
+    "verified": true
+  },
+  {
+    "id": "dh2",
+    "name": "Dhakir",
+    "gender": "Boy",
+    "meaning": "One who remembers God",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "dh3",
+    "name": "Dhakirah",
+    "gender": "Girl",
+    "meaning": "One who remembers God",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "dh4",
+    "name": "Dhakiy",
+    "gender": "Boy",
+    "meaning": "Intelligent, bright",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh5",
+    "name": "Dhakiyah",
+    "gender": "Girl",
+    "meaning": "Intelligent, bright",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh6",
+    "name": "Dhakwan",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh7",
+    "name": "Dhameer",
+    "gender": "Boy",
+    "meaning": "Conscience, heart",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh9",
+    "name": "Dhia",
+    "gender": "Boy",
+    "meaning": "Light, radiance",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh8",
+    "name": "Dhiya",
+    "gender": "Unisex",
+    "meaning": "Light, splendor",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "dh12",
+    "name": "Dhu",
+    "gender": "Boy",
+    "meaning": "Possessor of",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "dh10",
+    "name": "Dhuha",
+    "gender": "Girl",
+    "meaning": "Forenoon, morning sun",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "dh11",
+    "name": "DhulFiqar",
+    "gender": "Boy",
+    "meaning": "Name of the Prophet's sword",
+    "origin": "History",
+    "verified": true
+  }
 ]

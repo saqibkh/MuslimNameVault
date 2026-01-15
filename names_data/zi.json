@@ -1,12 +1,90 @@
 [
-  { "id": "zi1", "name": "Ziad", "gender": "Boy", "meaning": "Abundance, growth", "origin": "Arabic", "verified": true },
-  { "id": "zi2", "name": "Zia", "gender": "Boy", "meaning": "Light, splendor", "origin": "Arabic", "verified": true },
-  { "id": "zi3", "name": "Zidan", "gender": "Boy", "meaning": "Growth, progress", "origin": "Arabic", "verified": true },
-  { "id": "zi4", "name": "Zikra", "gender": "Girl", "meaning": "Memory, recollection", "origin": "Quranic", "verified": true },
-  { "id": "zi5", "name": "Zill", "gender": "Boy", "meaning": "Shadow (Shadow of Allah)", "origin": "Arabic", "verified": true },
-  { "id": "zi6", "name": "Zina", "gender": "Girl", "meaning": "Ornament, decoration", "origin": "Quranic", "verified": true },
-  { "id": "zi7", "name": "Zinat", "gender": "Girl", "meaning": "Adornment", "origin": "Quranic", "verified": true },
-  { "id": "zi8", "name": "Zishan", "gender": "Boy", "meaning": "Peaceful", "origin": "Arabic", "verified": true },
-  { "id": "zi9", "name": "Ziya", "gender": "Unisex", "meaning": "Light, splendor", "origin": "Arabic", "verified": true },
-  { "id": "zi10", "name": "Ziyad", "gender": "Boy", "meaning": "Increase, super abundance", "origin": "Arabic", "verified": true }
+  {
+    "id": "zi2",
+    "name": "Zia",
+    "gender": "Boy",
+    "meaning": "Light, splendor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi1",
+    "name": "Ziad",
+    "gender": "Boy",
+    "meaning": "Abundance, growth",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi3",
+    "name": "Zidan",
+    "gender": "Boy",
+    "meaning": "Growth, progress",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi4",
+    "name": "Zikra",
+    "gender": "Girl",
+    "meaning": "Memory, recollection",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "zi5",
+    "name": "Zill",
+    "gender": "Boy",
+    "meaning": "Shadow (Shadow of Allah)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi6",
+    "name": "Zina",
+    "gender": "Girl",
+    "meaning": "Ornament, decoration",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "zi7",
+    "name": "Zinat",
+    "gender": "Girl",
+    "meaning": "Adornment",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Zinh",
+    "gender": "Boy",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "zi11",
+    "verified": true
+  },
+  {
+    "id": "zi8",
+    "name": "Zishan",
+    "gender": "Boy",
+    "meaning": "Peaceful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi9",
+    "name": "Ziya",
+    "gender": "Unisex",
+    "meaning": "Light, splendor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "zi10",
+    "name": "Ziyad",
+    "gender": "Boy",
+    "meaning": "Increase, super abundance",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

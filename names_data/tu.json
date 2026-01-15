@@ -1,7 +1,58 @@
 [
-  { "id": "tu1", "name": "Tuba", "gender": "Girl", "meaning": "Blessedness; Tree in Paradise", "origin": "Quranic", "verified": true },
-  { "id": "tu2", "name": "Tufail", "gender": "Boy", "meaning": "Intercession, mediation; A Companion", "origin": "Arabic", "verified": true },
-  { "id": "tu3", "name": "Tulay", "gender": "Girl", "meaning": "Tulle moon (Halo)", "origin": "Turkish", "verified": true },
-  { "id": "tu4", "name": "Turan", "gender": "Boy", "meaning": "Land of the Turks; Brave", "origin": "Turkish/Persian", "verified": true },
-  { "id": "tu5", "name": "Turki", "gender": "Boy", "meaning": "Turkish, handsome", "origin": "Arabic", "verified": true }
+  {
+    "id": "tu1",
+    "name": "Tuba",
+    "gender": "Girl",
+    "meaning": "Blessedness; Tree in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "tu2",
+    "name": "Tufail",
+    "gender": "Boy",
+    "meaning": "Intercession, mediation; A Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "tu3",
+    "name": "Tulay",
+    "gender": "Girl",
+    "meaning": "Tulle moon (Halo)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Tur",
+    "gender": "Boy",
+    "meaning": "Mount Sinai",
+    "origin": "Quranic",
+    "id": "tu6",
+    "verified": true
+  },
+  {
+    "id": "tu4",
+    "name": "Turan",
+    "gender": "Boy",
+    "meaning": "Land of the Turks; Brave",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "id": "tu5",
+    "name": "Turki",
+    "gender": "Boy",
+    "meaning": "Turkish, handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tuwa",
+    "gender": "Girl",
+    "meaning": "Sacred valley",
+    "origin": "Quranic",
+    "id": "tu7",
+    "verified": true
+  }
 ]

@@ -1,19 +1,146 @@
 [
-  { "id": "di1", "name": "Diba", "gender": "Girl", "meaning": "Brocade, silk", "origin": "Persian", "verified": true },
-  { "id": "di2", "name": "Didar", "gender": "Girl", "meaning": "Vision, sight", "origin": "Persian", "verified": true },
-  { "id": "di3", "name": "Dihyah", "gender": "Boy", "meaning": "Commander of troops; A handsome companion", "origin": "Arabic", "verified": true },
-  { "id": "di4", "name": "Dila", "gender": "Girl", "meaning": "Heart, mind", "origin": "Persian", "verified": true },
-  { "id": "di5", "name": "Dilara", "gender": "Girl", "meaning": "Beloved, adorning the heart", "origin": "Persian", "verified": true },
-  { "id": "di6", "name": "Dilawar", "gender": "Boy", "meaning": "Brave, courageous", "origin": "Persian", "verified": true },
-  { "id": "di7", "name": "Dilbar", "gender": "Girl", "meaning": "Lover, heart-ravishing", "origin": "Persian", "verified": true },
-  { "id": "di8", "name": "Dildar", "gender": "Boy", "meaning": "Charming, beloved", "origin": "Persian", "verified": true },
-  { "id": "di9", "name": "Dilkash", "gender": "Girl", "meaning": "Attractive, captivating", "origin": "Persian", "verified": true },
-  { "id": "di10", "name": "Dilruba", "gender": "Girl", "meaning": "Heart-ravishing", "origin": "Persian", "verified": true },
-  { "id": "di11", "name": "Dilshad", "gender": "Unisex", "meaning": "Happy, glad heart", "origin": "Persian", "verified": true },
-  { "id": "di12", "name": "Dima", "gender": "Girl", "meaning": "Downpour, gentle rain", "origin": "Arabic", "verified": true },
-  { "id": "di13", "name": "Dina", "gender": "Girl", "meaning": "Love; Judge (Hebrew root used in Arabic)", "origin": "Mixed", "verified": true },
-  { "id": "di14", "name": "Dinar", "gender": "Unisex", "meaning": "Gold coin", "origin": "Arabic", "verified": true },
-  { "id": "di15", "name": "Diya", "gender": "Unisex", "meaning": "Light, lamp", "origin": "Arabic", "verified": true },
-  { "id": "di16", "name": "Diyari", "gender": "Boy", "meaning": "A gift", "origin": "Kurdish", "verified": true },
-  { "id": "di17", "name": "Dizhwar", "gender": "Boy", "meaning": "Mean, strong", "origin": "Kurdish", "verified": true }
+  {
+    "id": "di1",
+    "name": "Diba",
+    "gender": "Girl",
+    "meaning": "Brocade, silk",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di2",
+    "name": "Didar",
+    "gender": "Girl",
+    "meaning": "Vision, sight",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di3",
+    "name": "Dihyah",
+    "gender": "Boy",
+    "meaning": "Commander of troops; A handsome companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Dijla",
+    "gender": "Girl",
+    "meaning": "Tigris River",
+    "origin": "Arabic",
+    "id": "di18",
+    "verified": true
+  },
+  {
+    "id": "di4",
+    "name": "Dila",
+    "gender": "Girl",
+    "meaning": "Heart, mind",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di5",
+    "name": "Dilara",
+    "gender": "Girl",
+    "meaning": "Beloved, adorning the heart",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di6",
+    "name": "Dilawar",
+    "gender": "Boy",
+    "meaning": "Brave, courageous",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di7",
+    "name": "Dilbar",
+    "gender": "Girl",
+    "meaning": "Lover, heart-ravishing",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di8",
+    "name": "Dildar",
+    "gender": "Boy",
+    "meaning": "Charming, beloved",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di9",
+    "name": "Dilkash",
+    "gender": "Girl",
+    "meaning": "Attractive, captivating",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di10",
+    "name": "Dilruba",
+    "gender": "Girl",
+    "meaning": "Heart-ravishing",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di11",
+    "name": "Dilshad",
+    "gender": "Unisex",
+    "meaning": "Happy, glad heart",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "di12",
+    "name": "Dima",
+    "gender": "Girl",
+    "meaning": "Downpour, gentle rain",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "di13",
+    "name": "Dina",
+    "gender": "Girl",
+    "meaning": "Love; Judge (Hebrew root used in Arabic)",
+    "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "id": "di14",
+    "name": "Dinar",
+    "gender": "Unisex",
+    "meaning": "Gold coin",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "di15",
+    "name": "Diya",
+    "gender": "Unisex",
+    "meaning": "Light, lamp",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "di16",
+    "name": "Diyari",
+    "gender": "Boy",
+    "meaning": "A gift",
+    "origin": "Kurdish",
+    "verified": true
+  },
+  {
+    "id": "di17",
+    "name": "Dizhwar",
+    "gender": "Boy",
+    "meaning": "Mean, strong",
+    "origin": "Kurdish",
+    "verified": true
+  }
 ]

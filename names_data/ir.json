@@ -1,8 +1,58 @@
 [
-  { "id": "ir1", "name": "Iraj", "gender": "Boy", "meaning": "Sun", "origin": "Persian", "verified": true },
-  { "id": "ir2", "name": "Iram", "gender": "Girl", "meaning": "Garden in Heaven", "origin": "Quranic", "verified": true },
-  { "id": "ir3", "name": "Irfan", "gender": "Boy", "meaning": "Knowledge, wisdom, gratitude", "origin": "Arabic", "verified": true },
-  { "id": "ir4", "name": "Irsa", "gender": "Girl", "meaning": "Rainbow", "origin": "Persian", "verified": true },
-  { "id": "ir5", "name": "Irshad", "gender": "Boy", "meaning": "Guidance, direction", "origin": "Arabic", "verified": true },
-  { "id": "ir6", "name": "Irtiza", "gender": "Boy", "meaning": "Contentment, approval", "origin": "Arabic", "verified": true }
+  {
+    "id": "ir1",
+    "name": "Iraj",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ir2",
+    "name": "Iram",
+    "gender": "Girl",
+    "meaning": "Garden in Heaven",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ir3",
+    "name": "Irfan",
+    "gender": "Boy",
+    "meaning": "Knowledge, wisdom, gratitude",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Irmak",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ir7",
+    "verified": true
+  },
+  {
+    "id": "ir4",
+    "name": "Irsa",
+    "gender": "Girl",
+    "meaning": "Rainbow",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ir5",
+    "name": "Irshad",
+    "gender": "Boy",
+    "meaning": "Guidance, direction",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ir6",
+    "name": "Irtiza",
+    "gender": "Boy",
+    "meaning": "Contentment, approval",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

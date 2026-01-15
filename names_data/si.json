@@ -1,13 +1,106 @@
 [
-  { "id": "si1", "name": "Sibt", "gender": "Boy", "meaning": "Grandson", "origin": "Arabic", "verified": true },
-  { "id": "si2", "name": "Sidra", "gender": "Girl", "meaning": "Lote tree (at the end of Paradise)", "origin": "Quranic", "verified": true },
-  { "id": "si3", "name": "Sifwat", "gender": "Boy", "meaning": "Best friend, elite", "origin": "Arabic", "verified": true },
-  { "id": "si4", "name": "Sikandar", "gender": "Boy", "meaning": "Alexander (the Great)", "origin": "Persian", "verified": true },
-  { "id": "si5", "name": "Silma", "gender": "Girl", "meaning": "Peace", "origin": "Arabic", "verified": true },
-  { "id": "si6", "name": "Simin", "gender": "Girl", "meaning": "Silvery, made of silver", "origin": "Persian", "verified": true },
-  { "id": "si7", "name": "Sinan", "gender": "Boy", "meaning": "Spearhead", "origin": "Arabic", "verified": true },
-  { "id": "si8", "name": "Siraj", "gender": "Boy", "meaning": "Lamp, light", "origin": "Quranic", "verified": true },
-  { "id": "si9", "name": "Sirin", "gender": "Girl", "meaning": "Wife of the Prophet (Maria's sister)", "origin": "Persian/Arabic", "verified": true },
-  { "id": "si10", "name": "Sitarah", "gender": "Girl", "meaning": "Star", "origin": "Persian", "verified": true },
-  { "id": "si11", "name": "Siyam", "gender": "Unisex", "meaning": "Fasting", "origin": "Quranic", "verified": true }
+  {
+    "id": "si1",
+    "name": "Sibt",
+    "gender": "Boy",
+    "meaning": "Grandson",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "si2",
+    "name": "Sidra",
+    "gender": "Girl",
+    "meaning": "Lote tree (at the end of Paradise)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "si3",
+    "name": "Sifwat",
+    "gender": "Boy",
+    "meaning": "Best friend, elite",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "si4",
+    "name": "Sikandar",
+    "gender": "Boy",
+    "meaning": "Alexander (the Great)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "si5",
+    "name": "Silma",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "si6",
+    "name": "Simin",
+    "gender": "Girl",
+    "meaning": "Silvery, made of silver",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sina",
+    "gender": "Boy",
+    "meaning": "Sinai Peninsula",
+    "origin": "Quranic",
+    "id": "si12",
+    "verified": true
+  },
+  {
+    "id": "si7",
+    "name": "Sinan",
+    "gender": "Boy",
+    "meaning": "Spearhead",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "si8",
+    "name": "Siraj",
+    "gender": "Boy",
+    "meaning": "Lamp, light",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Sirat",
+    "gender": "Boy",
+    "meaning": "Path",
+    "origin": "Quranic",
+    "id": "si13",
+    "verified": true
+  },
+  {
+    "id": "si9",
+    "name": "Sirin",
+    "gender": "Girl",
+    "meaning": "Wife of the Prophet (Maria's sister)",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "id": "si10",
+    "name": "Sitarah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "si11",
+    "name": "Siyam",
+    "gender": "Unisex",
+    "meaning": "Fasting",
+    "origin": "Quranic",
+    "verified": true
+  }
 ]

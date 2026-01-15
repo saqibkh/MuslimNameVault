@@ -1,32 +1,250 @@
 [
-  { "id": "af1", "name": "Afaaq", "gender": "Boy", "meaning": "Horizons", "origin": "Arabic", "verified": true },
-  { "id": "af2", "name": "Afaf", "gender": "Girl", "meaning": "Chaste, virtuous, decent", "origin": "Arabic", "verified": true },
-  { "id": "af3", "name": "Afana", "gender": "Girl", "meaning": "The forgiver", "origin": "Arabic", "verified": true },
-  { "id": "af4", "name": "Afaq", "gender": "Boy", "meaning": "The place where earth and sky meet", "origin": "Arabic", "verified": true },
-  { "id": "af5", "name": "Afareen", "gender": "Girl", "meaning": "Praise, lucky", "origin": "Persian", "verified": true },
-  { "id": "af6", "name": "Afeefa", "gender": "Girl", "meaning": "Chaste, pure", "origin": "Arabic", "verified": true },
-  { "id": "af7", "name": "Afeef", "gender": "Boy", "meaning": "Chaste, modest", "origin": "Arabic", "verified": true },
-  { "id": "af8", "name": "Affan", "gender": "Boy", "meaning": "Modest; Father of Caliph Uthman", "origin": "Arabic", "verified": true },
-  { "id": "af9", "name": "Afia", "gender": "Girl", "meaning": "Health, free from illness", "origin": "Arabic", "verified": true },
-  { "id": "af10", "name": "Afif", "gender": "Boy", "meaning": "Chaste, modest", "origin": "Arabic", "verified": true },
-  { "id": "af11", "name": "Afifa", "gender": "Girl", "meaning": "Virtuous, pure", "origin": "Arabic", "verified": true },
-  { "id": "af12", "name": "Afifah", "gender": "Girl", "meaning": "Chaste, modest", "origin": "Arabic", "verified": true },
-  { "id": "af13", "name": "Aflah", "gender": "Boy", "meaning": "Gaining success", "origin": "Arabic", "verified": true },
-  { "id": "af14", "name": "Afnan", "gender": "Unisex", "meaning": "Tree branches, growth", "origin": "Quranic", "verified": true },
-  { "id": "af15", "name": "Afra", "gender": "Girl", "meaning": "Dust-colored, white earth", "origin": "Arabic", "verified": true },
-  { "id": "af16", "name": "Afrah", "gender": "Girl", "meaning": "Happiness, joy", "origin": "Arabic", "verified": true },
-  { "id": "af17", "name": "Afrin", "gender": "Girl", "meaning": "Lucky, praise", "origin": "Persian", "verified": true },
-  { "id": "af18", "name": "Afroz", "gender": "Unisex", "meaning": "Illuminated, lighting", "origin": "Persian", "verified": true },
-  { "id": "af19", "name": "Afruz", "gender": "Boy", "meaning": "Standing tall", "origin": "Persian", "verified": true },
-  { "id": "af20", "name": "Afsa", "gender": "Girl", "meaning": "Prophet's wife name (Hafsa variant)", "origin": "Arabic", "verified": true },
-  { "id": "af21", "name": "Afsana", "gender": "Girl", "meaning": "Fable, story", "origin": "Persian", "verified": true },
-  { "id": "af22", "name": "Afsar", "gender": "Boy", "meaning": "Crown, head", "origin": "Persian", "verified": true },
-  { "id": "af23", "name": "Afshan", "gender": "Girl", "meaning": "Shining star, sprinkler", "origin": "Persian", "verified": true },
-  { "id": "af24", "name": "Aftab", "gender": "Boy", "meaning": "Sun", "origin": "Persian", "verified": true },
-  { "id": "af25", "name": "Afya", "gender": "Girl", "meaning": "Shadows", "origin": "Arabic", "verified": true },
-  { "id": "af26", "name": "Afza", "gender": "Girl", "meaning": "Increase, augmentation", "origin": "Arabic", "verified": true },
-  { "id": "af27", "name": "Afzal", "gender": "Boy", "meaning": "Better, superior, excellent", "origin": "Arabic", "verified": true },
-  { "id": "af28", "name": "Afzāl", "gender": "Boy", "meaning": "Grace, favors", "origin": "Arabic", "verified": true },
-  { "id": "af29", "name": "Afra", "gender": "Boy", "meaning": "Expert", "origin": "Arabic", "verified": true },
-  { "id": "af30", "name": "Afia", "gender": "Boy", "meaning": "Vigor", "origin": "Arabic", "verified": true }
+  {
+    "id": "af1",
+    "name": "Afaaq",
+    "gender": "Boy",
+    "meaning": "Horizons",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af2",
+    "name": "Afaf",
+    "gender": "Girl",
+    "meaning": "Chaste, virtuous, decent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af3",
+    "name": "Afana",
+    "gender": "Girl",
+    "meaning": "The forgiver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af4",
+    "name": "Afaq",
+    "gender": "Boy",
+    "meaning": "The place where earth and sky meet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af5",
+    "name": "Afareen",
+    "gender": "Girl",
+    "meaning": "Praise, lucky",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af7",
+    "name": "Afeef",
+    "gender": "Boy",
+    "meaning": "Chaste, modest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af6",
+    "name": "Afeefa",
+    "gender": "Girl",
+    "meaning": "Chaste, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af8",
+    "name": "Affan",
+    "gender": "Boy",
+    "meaning": "Modest; Father of Caliph Uthman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af9",
+    "name": "Afia",
+    "gender": "Girl",
+    "meaning": "Health, free from illness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af30",
+    "name": "Afia",
+    "gender": "Boy",
+    "meaning": "Vigor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af10",
+    "name": "Afif",
+    "gender": "Boy",
+    "meaning": "Chaste, modest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af11",
+    "name": "Afifa",
+    "gender": "Girl",
+    "meaning": "Virtuous, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af12",
+    "name": "Afifah",
+    "gender": "Girl",
+    "meaning": "Chaste, modest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Afja",
+    "gender": "Unisex",
+    "meaning": "Broad paths, valleys",
+    "origin": "Quranic",
+    "id": "af31",
+    "verified": true
+  },
+  {
+    "id": "af13",
+    "name": "Aflah",
+    "gender": "Boy",
+    "meaning": "Gaining success",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af14",
+    "name": "Afnan",
+    "gender": "Unisex",
+    "meaning": "Tree branches, growth",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "af15",
+    "name": "Afra",
+    "gender": "Girl",
+    "meaning": "Dust-colored, white earth",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af29",
+    "name": "Afra",
+    "gender": "Boy",
+    "meaning": "Expert",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af16",
+    "name": "Afrah",
+    "gender": "Girl",
+    "meaning": "Happiness, joy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af17",
+    "name": "Afrin",
+    "gender": "Girl",
+    "meaning": "Lucky, praise",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af18",
+    "name": "Afroz",
+    "gender": "Unisex",
+    "meaning": "Illuminated, lighting",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af19",
+    "name": "Afruz",
+    "gender": "Boy",
+    "meaning": "Standing tall",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af20",
+    "name": "Afsa",
+    "gender": "Girl",
+    "meaning": "Prophet's wife name (Hafsa variant)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af21",
+    "name": "Afsana",
+    "gender": "Girl",
+    "meaning": "Fable, story",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af22",
+    "name": "Afsar",
+    "gender": "Boy",
+    "meaning": "Crown, head",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af23",
+    "name": "Afshan",
+    "gender": "Girl",
+    "meaning": "Shining star, sprinkler",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af24",
+    "name": "Aftab",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "af25",
+    "name": "Afya",
+    "gender": "Girl",
+    "meaning": "Shadows",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af26",
+    "name": "Afza",
+    "gender": "Girl",
+    "meaning": "Increase, augmentation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af27",
+    "name": "Afzal",
+    "gender": "Boy",
+    "meaning": "Better, superior, excellent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "af28",
+    "name": "Afzāl",
+    "gender": "Boy",
+    "meaning": "Grace, favors",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

@@ -1,42 +1,338 @@
 [
-  { "id": "mu1", "name": "Muadh", "gender": "Boy", "meaning": "Protected", "origin": "Arabic", "verified": true },
-  { "id": "mu2", "name": "Muawiya", "gender": "Boy", "meaning": "Young fox; First Umayyad Caliph", "origin": "Arabic", "verified": true },
-  { "id": "mu3", "name": "Muazzam", "gender": "Boy", "meaning": "Exalted", "origin": "Arabic", "verified": true },
-  { "id": "mu4", "name": "Mubarak", "gender": "Boy", "meaning": "Blessed", "origin": "Arabic", "verified": true },
-  { "id": "mu5", "name": "Mubashir", "gender": "Boy", "meaning": "Bringer of good news", "origin": "Quranic", "verified": true },
-  { "id": "mu6", "name": "Mubin", "gender": "Boy", "meaning": "Clear, evident", "origin": "Quranic", "verified": true },
-  { "id": "mu7", "name": "Mueen", "gender": "Boy", "meaning": "Helper", "origin": "Arabic", "verified": true },
-  { "id": "mu8", "name": "Mufid", "gender": "Boy", "meaning": "Beneficial", "origin": "Arabic", "verified": true },
-  { "id": "mu9", "name": "Mufti", "gender": "Boy", "meaning": "Jurist", "origin": "Arabic", "verified": true },
-  { "id": "mu10", "name": "Mughira", "gender": "Boy", "meaning": "Attacker", "origin": "Arabic", "verified": true },
-  { "id": "mu11", "name": "Muhammad", "gender": "Boy", "meaning": "The Praised One; The Last Prophet", "origin": "Quranic", "verified": true },
-  { "id": "mu12", "name": "Muhannad", "gender": "Boy", "meaning": "Sword made in India", "origin": "Arabic", "verified": true },
-  { "id": "mu13", "name": "Muhib", "gender": "Boy", "meaning": "Lover, friend", "origin": "Arabic", "verified": true },
-  { "id": "mu14", "name": "Muhsin", "gender": "Boy", "meaning": "Benefactor, one who does good", "origin": "Quranic", "verified": true },
-  { "id": "mu15", "name": "Muiz", "gender": "Boy", "meaning": "Giver of honor", "origin": "Attribute", "verified": true },
-  { "id": "mu16", "name": "Mujahid", "gender": "Boy", "meaning": "Striver, warrior", "origin": "Quranic", "verified": true },
-  { "id": "mu17", "name": "Mukhtar", "gender": "Boy", "meaning": "Chosen", "origin": "Arabic", "verified": true },
-  { "id": "mu18", "name": "Mumin", "gender": "Boy", "meaning": "Believer", "origin": "Quranic", "verified": true },
-  { "id": "mu19", "name": "Mumtaz", "gender": "Unisex", "meaning": "Excellent, distinguished", "origin": "Arabic", "verified": true },
-  { "id": "mu20", "name": "Muna", "gender": "Girl", "meaning": "Wishes, desires", "origin": "Arabic", "verified": true },
-  { "id": "mu21", "name": "Muneeiba", "gender": "Girl", "meaning": "One who turns to Allah", "origin": "Arabic", "verified": true },
-  { "id": "mu22", "name": "Muneer", "gender": "Boy", "meaning": "Illuminating", "origin": "Quranic", "verified": true },
-  { "id": "mu23", "name": "Muniba", "gender": "Girl", "meaning": "One who turns to Allah", "origin": "Quranic", "verified": true },
-  { "id": "mu24", "name": "Munir", "gender": "Boy", "meaning": "Shining, luminous", "origin": "Quranic", "verified": true },
-  { "id": "mu25", "name": "Munira", "gender": "Girl", "meaning": "Illuminating, brilliant", "origin": "Quranic", "verified": true },
-  { "id": "mu26", "name": "Murad", "gender": "Boy", "meaning": "Wish, desire", "origin": "Arabic", "verified": true },
-  { "id": "mu27", "name": "Murshid", "gender": "Boy", "meaning": "Guide, teacher", "origin": "Arabic", "verified": true },
-  { "id": "mu28", "name": "Murtaza", "gender": "Boy", "meaning": "The chosen one (Title of Ali)", "origin": "Arabic", "verified": true },
-  { "id": "mu29", "name": "Musa", "gender": "Boy", "meaning": "Prophet Moses", "origin": "Quranic", "verified": true },
-  { "id": "mu30", "name": "Musab", "gender": "Boy", "meaning": "Strong, able (Name of Sahabi)", "origin": "Arabic", "verified": true },
-  { "id": "mu31", "name": "Musaddiq", "gender": "Boy", "meaning": "One who confirms/verifies", "origin": "Quranic", "verified": true },
-  { "id": "mu32", "name": "Musharraf", "gender": "Boy", "meaning": "Honored", "origin": "Arabic", "verified": true },
-  { "id": "mu33", "name": "Mushtaq", "gender": "Boy", "meaning": "Longing, yearning", "origin": "Arabic", "verified": true },
-  { "id": "mu34", "name": "Muskan", "gender": "Girl", "meaning": "Smile", "origin": "Urdu", "verified": true },
-  { "id": "mu35", "name": "Muslim", "gender": "Boy", "meaning": "One who submits to God", "origin": "Quranic", "verified": true },
-  { "id": "mu36", "name": "Mustafa", "gender": "Boy", "meaning": "The Chosen One (Prophet's Title)", "origin": "Arabic", "verified": true },
-  { "id": "mu37", "name": "Mutasim", "gender": "Boy", "meaning": "Adhering (to Faith)", "origin": "Arabic", "verified": true },
-  { "id": "mu38", "name": "Mutaz", "gender": "Boy", "meaning": "Proud, powerful", "origin": "Arabic", "verified": true },
-  { "id": "mu39", "name": "Mutee", "gender": "Boy", "meaning": "Obedient", "origin": "Arabic", "verified": true },
-  { "id": "mu40", "name": "Muzammil", "gender": "Boy", "meaning": "Wrapped one (Title of Prophet)", "origin": "Quranic", "verified": true }
+  {
+    "id": "mu1",
+    "name": "Muadh",
+    "gender": "Boy",
+    "meaning": "Protected",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu2",
+    "name": "Muawiya",
+    "gender": "Boy",
+    "meaning": "Young fox; First Umayyad Caliph",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu3",
+    "name": "Muazzam",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu4",
+    "name": "Mubarak",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu5",
+    "name": "Mubashir",
+    "gender": "Boy",
+    "meaning": "Bringer of good news",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu6",
+    "name": "Mubin",
+    "gender": "Boy",
+    "meaning": "Clear, evident",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu7",
+    "name": "Mueen",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu8",
+    "name": "Mufid",
+    "gender": "Boy",
+    "meaning": "Beneficial",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu9",
+    "name": "Mufti",
+    "gender": "Boy",
+    "meaning": "Jurist",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu10",
+    "name": "Mughira",
+    "gender": "Boy",
+    "meaning": "Attacker",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu11",
+    "name": "Muhammad",
+    "gender": "Boy",
+    "meaning": "The Praised One; The Last Prophet",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu12",
+    "name": "Muhannad",
+    "gender": "Boy",
+    "meaning": "Sword made in India",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu13",
+    "name": "Muhib",
+    "gender": "Boy",
+    "meaning": "Lover, friend",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu14",
+    "name": "Muhsin",
+    "gender": "Boy",
+    "meaning": "Benefactor, one who does good",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu15",
+    "name": "Muiz",
+    "gender": "Boy",
+    "meaning": "Giver of honor",
+    "origin": "Attribute",
+    "verified": true
+  },
+  {
+    "id": "mu16",
+    "name": "Mujahid",
+    "gender": "Boy",
+    "meaning": "Striver, warrior",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu17",
+    "name": "Mukhtar",
+    "gender": "Boy",
+    "meaning": "Chosen",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu18",
+    "name": "Mumin",
+    "gender": "Boy",
+    "meaning": "Believer",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu19",
+    "name": "Mumtaz",
+    "gender": "Unisex",
+    "meaning": "Excellent, distinguished",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu20",
+    "name": "Muna",
+    "gender": "Girl",
+    "meaning": "Wishes, desires",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu21",
+    "name": "Muneeiba",
+    "gender": "Girl",
+    "meaning": "One who turns to Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu22",
+    "name": "Muneer",
+    "gender": "Boy",
+    "meaning": "Illuminating",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu23",
+    "name": "Muniba",
+    "gender": "Girl",
+    "meaning": "One who turns to Allah",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu24",
+    "name": "Munir",
+    "gender": "Boy",
+    "meaning": "Shining, luminous",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu25",
+    "name": "Munira",
+    "gender": "Girl",
+    "meaning": "Illuminating, brilliant",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu26",
+    "name": "Murad",
+    "gender": "Boy",
+    "meaning": "Wish, desire",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu27",
+    "name": "Murshid",
+    "gender": "Boy",
+    "meaning": "Guide, teacher",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu28",
+    "name": "Murtaza",
+    "gender": "Boy",
+    "meaning": "The chosen one (Title of Ali)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu29",
+    "name": "Musa",
+    "gender": "Boy",
+    "meaning": "Prophet Moses",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu30",
+    "name": "Musab",
+    "gender": "Boy",
+    "meaning": "Strong, able (Name of Sahabi)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu31",
+    "name": "Musaddiq",
+    "gender": "Boy",
+    "meaning": "One who confirms/verifies",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu32",
+    "name": "Musharraf",
+    "gender": "Boy",
+    "meaning": "Honored",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu33",
+    "name": "Mushtaq",
+    "gender": "Boy",
+    "meaning": "Longing, yearning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu34",
+    "name": "Muskan",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "mu35",
+    "name": "Muslim",
+    "gender": "Boy",
+    "meaning": "One who submits to God",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "mu36",
+    "name": "Mustafa",
+    "gender": "Boy",
+    "meaning": "The Chosen One (Prophet's Title)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu37",
+    "name": "Mutasim",
+    "gender": "Boy",
+    "meaning": "Adhering (to Faith)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu38",
+    "name": "Mutaz",
+    "gender": "Boy",
+    "meaning": "Proud, powerful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu39",
+    "name": "Mutee",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mu40",
+    "name": "Muzammil",
+    "gender": "Boy",
+    "meaning": "Wrapped one (Title of Prophet)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Muzdalifa",
+    "gender": "Girl",
+    "meaning": "Hajj site near Mecca",
+    "origin": "Islamic",
+    "id": "mu41",
+    "verified": true
+  },
+  {
+    "name": "Muzn",
+    "gender": "Unisex",
+    "meaning": "Rain clouds",
+    "origin": "Quranic",
+    "id": "mu42",
+    "verified": true
+  }
 ]

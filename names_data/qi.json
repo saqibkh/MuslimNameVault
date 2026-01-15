@@ -1,7 +1,50 @@
 [
-  { "id": "qi1", "name": "Qindil", "gender": "Boy", "meaning": "Oil lamp", "origin": "Arabic", "verified": true },
-  { "id": "qi2", "name": "Qirat", "gender": "Girl", "meaning": "Beautiful recitation", "origin": "Quranic", "verified": true },
-  { "id": "qi3", "name": "Qismet", "gender": "Girl", "meaning": "Destiny, fate", "origin": "Turkish/Arabic", "verified": true },
-  { "id": "qi4", "name": "Qiswarah", "gender": "Boy", "meaning": "Lion", "origin": "Arabic", "verified": true },
-  { "id": "qi5", "name": "Qiyam", "gender": "Boy", "meaning": "Standing (in prayer)", "origin": "Quranic", "verified": true }
+  {
+    "name": "Qibla",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6",
+    "verified": true
+  },
+  {
+    "id": "qi1",
+    "name": "Qindil",
+    "gender": "Boy",
+    "meaning": "Oil lamp",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "qi2",
+    "name": "Qirat",
+    "gender": "Girl",
+    "meaning": "Beautiful recitation",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "qi3",
+    "name": "Qismet",
+    "gender": "Girl",
+    "meaning": "Destiny, fate",
+    "origin": "Turkish/Arabic",
+    "verified": true
+  },
+  {
+    "id": "qi4",
+    "name": "Qiswarah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "qi5",
+    "name": "Qiyam",
+    "gender": "Boy",
+    "meaning": "Standing (in prayer)",
+    "origin": "Quranic",
+    "verified": true
+  }
 ]

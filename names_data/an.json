@@ -1,27 +1,218 @@
 [
-  { "id": "an1", "name": "Ana", "gender": "Girl", "meaning": "Prestige, self-respect", "origin": "Arabic", "verified": true },
-  { "id": "an2", "name": "Anan", "gender": "Unisex", "meaning": "Clouds", "origin": "Arabic", "verified": true },
-  { "id": "an3", "name": "Anas", "gender": "Boy", "meaning": "Affection, friendliness", "origin": "Arabic", "verified": true },
-  { "id": "an4", "name": "Anbar", "gender": "Girl", "meaning": "Perfume, ambergris", "origin": "Arabic", "verified": true },
-  { "id": "an5", "name": "Anbarin", "gender": "Girl", "meaning": "Perfumed", "origin": "Persian", "verified": true },
-  { "id": "an6", "name": "Andalib", "gender": "Girl", "meaning": "Nightingale", "origin": "Persian", "verified": true },
-  { "id": "an7", "name": "Anees", "gender": "Boy", "meaning": "Close friend, companion", "origin": "Arabic", "verified": true },
-  { "id": "an8", "name": "Aneesa", "gender": "Girl", "meaning": "Friendly, sociable", "origin": "Arabic", "verified": true },
-  { "id": "an9", "name": "Anfas", "gender": "Girl", "meaning": "Spirits, breaths", "origin": "Arabic", "verified": true },
-  { "id": "an10", "name": "Aniq", "gender": "Boy", "meaning": "Elegant, stylish", "origin": "Arabic", "verified": true },
-  { "id": "an11", "name": "Aniqa", "gender": "Girl", "meaning": "Neat, elegant, smart", "origin": "Arabic", "verified": true },
-  { "id": "an12", "name": "Anis", "gender": "Boy", "meaning": "Friend, companion", "origin": "Arabic", "verified": true },
-  { "id": "an13", "name": "Anisa", "gender": "Girl", "meaning": "Friendly, pleasant", "origin": "Arabic", "verified": true },
-  { "id": "an14", "name": "Anisah", "gender": "Girl", "meaning": "Close friend", "origin": "Arabic", "verified": true },
-  { "id": "an15", "name": "Anjum", "gender": "Unisex", "meaning": "Stars", "origin": "Arabic", "verified": true },
-  { "id": "an16", "name": "Anmar", "gender": "Boy", "meaning": "Leopard", "origin": "Arabic", "verified": true },
-  { "id": "an17", "name": "Annas", "gender": "Boy", "meaning": "Group of people", "origin": "Arabic", "verified": true },
-  { "id": "an18", "name": "Anoosh", "gender": "Girl", "meaning": "Eternal, happy", "origin": "Persian", "verified": true },
-  { "id": "an19", "name": "Anouar", "gender": "Boy", "meaning": "Radiant, luminous", "origin": "Arabic", "verified": true },
-  { "id": "an20", "name": "Ansam", "gender": "Girl", "meaning": "Breezes", "origin": "Arabic", "verified": true },
-  { "id": "an21", "name": "Ansar", "gender": "Boy", "meaning": "Helpers, supporters", "origin": "Quranic", "verified": true },
-  { "id": "an22", "name": "Antar", "gender": "Boy", "meaning": "Hero in a story; Brave", "origin": "Arabic", "verified": true },
-  { "id": "an23", "name": "Anum", "gender": "Girl", "meaning": "Benefit, blessing", "origin": "Arabic", "verified": true },
-  { "id": "an24", "name": "Anwar", "gender": "Boy", "meaning": "Lights, rays", "origin": "Arabic", "verified": true },
-  { "id": "an25", "name": "Anwara", "gender": "Girl", "meaning": "Ray of light", "origin": "Arabic", "verified": true }
+  {
+    "id": "an1",
+    "name": "Ana",
+    "gender": "Girl",
+    "meaning": "Prestige, self-respect",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an2",
+    "name": "Anan",
+    "gender": "Unisex",
+    "meaning": "Clouds",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an3",
+    "name": "Anas",
+    "gender": "Boy",
+    "meaning": "Affection, friendliness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an4",
+    "name": "Anbar",
+    "gender": "Girl",
+    "meaning": "Perfume, ambergris",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an5",
+    "name": "Anbarin",
+    "gender": "Girl",
+    "meaning": "Perfumed",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "an6",
+    "name": "Andalib",
+    "gender": "Girl",
+    "meaning": "Nightingale",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "an7",
+    "name": "Anees",
+    "gender": "Boy",
+    "meaning": "Close friend, companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an8",
+    "name": "Aneesa",
+    "gender": "Girl",
+    "meaning": "Friendly, sociable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Anfal",
+    "gender": "Girl",
+    "meaning": "Spoils of war; A Surah",
+    "origin": "Quranic",
+    "id": "an26",
+    "verified": true
+  },
+  {
+    "id": "an9",
+    "name": "Anfas",
+    "gender": "Girl",
+    "meaning": "Spirits, breaths",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Anhar",
+    "gender": "Girl",
+    "meaning": "Rivers",
+    "origin": "Quranic",
+    "id": "an27",
+    "verified": true
+  },
+  {
+    "id": "an10",
+    "name": "Aniq",
+    "gender": "Boy",
+    "meaning": "Elegant, stylish",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an11",
+    "name": "Aniqa",
+    "gender": "Girl",
+    "meaning": "Neat, elegant, smart",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an12",
+    "name": "Anis",
+    "gender": "Boy",
+    "meaning": "Friend, companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an13",
+    "name": "Anisa",
+    "gender": "Girl",
+    "meaning": "Friendly, pleasant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an14",
+    "name": "Anisah",
+    "gender": "Girl",
+    "meaning": "Close friend",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an15",
+    "name": "Anjum",
+    "gender": "Unisex",
+    "meaning": "Stars",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an16",
+    "name": "Anmar",
+    "gender": "Boy",
+    "meaning": "Leopard",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an17",
+    "name": "Annas",
+    "gender": "Boy",
+    "meaning": "Group of people",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an18",
+    "name": "Anoosh",
+    "gender": "Girl",
+    "meaning": "Eternal, happy",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "an19",
+    "name": "Anouar",
+    "gender": "Boy",
+    "meaning": "Radiant, luminous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an20",
+    "name": "Ansam",
+    "gender": "Girl",
+    "meaning": "Breezes",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an21",
+    "name": "Ansar",
+    "gender": "Boy",
+    "meaning": "Helpers, supporters",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "an22",
+    "name": "Antar",
+    "gender": "Boy",
+    "meaning": "Hero in a story; Brave",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an23",
+    "name": "Anum",
+    "gender": "Girl",
+    "meaning": "Benefit, blessing",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an24",
+    "name": "Anwar",
+    "gender": "Boy",
+    "meaning": "Lights, rays",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "an25",
+    "name": "Anwara",
+    "gender": "Girl",
+    "meaning": "Ray of light",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

@@ -1,40 +1,346 @@
 [
-  { "id": "za1", "name": "Zaafir", "gender": "Boy", "meaning": "Victorious", "origin": "Arabic", "verified": true },
-  { "id": "za2", "name": "Zaahir", "gender": "Boy", "meaning": "Bright, shining", "origin": "Arabic", "verified": true },
-  { "id": "za3", "name": "Zaara", "gender": "Girl", "meaning": "Flower; Brightness", "origin": "Arabic", "verified": true },
-  { "id": "za4", "name": "Zaeem", "gender": "Boy", "meaning": "Leader, chief", "origin": "Arabic", "verified": true },
-  { "id": "za5", "name": "Zafar", "gender": "Boy", "meaning": "Victory", "origin": "Arabic", "verified": true },
-  { "id": "za6", "name": "Zafeer", "gender": "Boy", "meaning": "Of firm intention", "origin": "Arabic", "verified": true },
-  { "id": "za7", "name": "Zaheer", "gender": "Boy", "meaning": "Bright, shining; Supporter", "origin": "Quranic", "verified": true },
-  { "id": "za8", "name": "Zahid", "gender": "Boy", "meaning": "Self-denying, ascetic", "origin": "Arabic", "verified": true },
-  { "id": "za9", "name": "Zahida", "gender": "Girl", "meaning": "Ascetic, devout", "origin": "Arabic", "verified": true },
-  { "id": "za10", "name": "Zahir", "gender": "Boy", "meaning": "Bright, shining, evident", "origin": "Quranic", "verified": true },
-  { "id": "za11", "name": "Zahira", "gender": "Girl", "meaning": "Shining, luminous", "origin": "Arabic", "verified": true },
-  { "id": "za12", "name": "Zahra", "gender": "Girl", "meaning": "Beautiful, bright, shining", "origin": "Arabic", "verified": true },
-  { "id": "za13", "name": "Zahrah", "gender": "Girl", "meaning": "Flower, blossom", "origin": "Quranic", "verified": true },
-  { "id": "za14", "name": "Zaib", "gender": "Girl", "meaning": "Beauty, decoration", "origin": "Persian", "verified": true },
-  { "id": "za15", "name": "Zaid", "gender": "Boy", "meaning": "Growth, increase", "origin": "Quranic", "verified": true },
-  { "id": "za16", "name": "Zaida", "gender": "Girl", "meaning": "Increasing, abundance", "origin": "Arabic", "verified": true },
-  { "id": "za17", "name": "Zaigham", "gender": "Boy", "meaning": "Lion", "origin": "Persian", "verified": true },
-  { "id": "za18", "name": "Zaim", "gender": "Boy", "meaning": "Leader", "origin": "Arabic", "verified": true },
-  { "id": "za19", "name": "Zain", "gender": "Boy", "meaning": "Beauty, grace", "origin": "Arabic", "verified": true },
-  { "id": "za20", "name": "Zainab", "gender": "Girl", "meaning": "Fragrant flower; Daughter of the Prophet", "origin": "Arabic", "verified": true },
-  { "id": "za21", "name": "Zakariya", "gender": "Boy", "meaning": "Prophet Zachariah", "origin": "Quranic", "verified": true },
-  { "id": "za22", "name": "Zaki", "gender": "Boy", "meaning": "Intelligent, pure", "origin": "Arabic", "verified": true },
-  { "id": "za23", "name": "Zakia", "gender": "Girl", "meaning": "Intelligent, pure", "origin": "Arabic", "verified": true },
-  { "id": "za24", "name": "Zakir", "gender": "Boy", "meaning": "One who remembers Allah", "origin": "Quranic", "verified": true },
-  { "id": "za25", "name": "Zalfa", "gender": "Girl", "meaning": "Distinguished woman", "origin": "Arabic", "verified": true },
-  { "id": "za26", "name": "Zaman", "gender": "Boy", "meaning": "Time, era", "origin": "Arabic", "verified": true },
-  { "id": "za27", "name": "Zameer", "gender": "Boy", "meaning": "Conscience, heart", "origin": "Arabic", "verified": true },
-  { "id": "za28", "name": "Zamil", "gender": "Boy", "meaning": "Companion, friend", "origin": "Quranic", "verified": true },
-  { "id": "za29", "name": "Zamin", "gender": "Boy", "meaning": "Guarantor", "origin": "Arabic", "verified": true },
-  { "id": "za30", "name": "Zara", "gender": "Girl", "meaning": "Blooming flower", "origin": "Arabic", "verified": true },
-  { "id": "za31", "name": "Zareen", "gender": "Girl", "meaning": "Golden", "origin": "Persian", "verified": true },
-  { "id": "za32", "name": "Zarif", "gender": "Boy", "meaning": "Humorous, witty", "origin": "Arabic", "verified": true },
-  { "id": "za33", "name": "Zariya", "gender": "Girl", "meaning": "Beauty, light", "origin": "Arabic", "verified": true },
-  { "id": "za34", "name": "Zarmina", "gender": "Girl", "meaning": "Lovely, precious gold", "origin": "Pashto", "verified": true },
-  { "id": "za35", "name": "Zaroon", "gender": "Boy", "meaning": "Visitor", "origin": "Persian", "verified": true },
-  { "id": "za36", "name": "Zarrar", "gender": "Boy", "meaning": "Brave warrior", "origin": "Arabic", "verified": true },
-  { "id": "za37", "name": "Zayan", "gender": "Boy", "meaning": "Beautiful, graceful", "origin": "Arabic", "verified": true },
-  { "id": "za38", "name": "Zaynab", "gender": "Girl", "meaning": "Beautiful plant", "origin": "Arabic", "verified": true }
+  {
+    "id": "za1",
+    "name": "Zaafir",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za2",
+    "name": "Zaahir",
+    "gender": "Boy",
+    "meaning": "Bright, shining",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za3",
+    "name": "Zaara",
+    "gender": "Girl",
+    "meaning": "Flower; Brightness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zabaj",
+    "gender": "Boy",
+    "meaning": "Top of a mountain",
+    "origin": "Arabic",
+    "id": "za39",
+    "verified": true
+  },
+  {
+    "id": "za4",
+    "name": "Zaeem",
+    "gender": "Boy",
+    "meaning": "Leader, chief",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za5",
+    "name": "Zafar",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za6",
+    "name": "Zafeer",
+    "gender": "Boy",
+    "meaning": "Of firm intention",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za7",
+    "name": "Zaheer",
+    "gender": "Boy",
+    "meaning": "Bright, shining; Supporter",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za8",
+    "name": "Zahid",
+    "gender": "Boy",
+    "meaning": "Self-denying, ascetic",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za9",
+    "name": "Zahida",
+    "gender": "Girl",
+    "meaning": "Ascetic, devout",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za10",
+    "name": "Zahir",
+    "gender": "Boy",
+    "meaning": "Bright, shining, evident",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za11",
+    "name": "Zahira",
+    "gender": "Girl",
+    "meaning": "Shining, luminous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za12",
+    "name": "Zahra",
+    "gender": "Girl",
+    "meaning": "Beautiful, bright, shining",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za13",
+    "name": "Zahrah",
+    "gender": "Girl",
+    "meaning": "Flower, blossom",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za14",
+    "name": "Zaib",
+    "gender": "Girl",
+    "meaning": "Beauty, decoration",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "za15",
+    "name": "Zaid",
+    "gender": "Boy",
+    "meaning": "Growth, increase",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za16",
+    "name": "Zaida",
+    "gender": "Girl",
+    "meaning": "Increasing, abundance",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za17",
+    "name": "Zaigham",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "za18",
+    "name": "Zaim",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za19",
+    "name": "Zain",
+    "gender": "Boy",
+    "meaning": "Beauty, grace",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za20",
+    "name": "Zainab",
+    "gender": "Girl",
+    "meaning": "Fragrant flower; Daughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za21",
+    "name": "Zakariya",
+    "gender": "Boy",
+    "meaning": "Prophet Zachariah",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za22",
+    "name": "Zaki",
+    "gender": "Boy",
+    "meaning": "Intelligent, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za23",
+    "name": "Zakia",
+    "gender": "Girl",
+    "meaning": "Intelligent, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za24",
+    "name": "Zakir",
+    "gender": "Boy",
+    "meaning": "One who remembers Allah",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za25",
+    "name": "Zalfa",
+    "gender": "Girl",
+    "meaning": "Distinguished woman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za26",
+    "name": "Zaman",
+    "gender": "Boy",
+    "meaning": "Time, era",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za27",
+    "name": "Zameer",
+    "gender": "Boy",
+    "meaning": "Conscience, heart",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za28",
+    "name": "Zamil",
+    "gender": "Boy",
+    "meaning": "Companion, friend",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "za29",
+    "name": "Zamin",
+    "gender": "Boy",
+    "meaning": "Guarantor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zamzam",
+    "gender": "Girl",
+    "meaning": "Holy well in Mecca",
+    "origin": "Islamic",
+    "id": "za40",
+    "verified": true
+  },
+  {
+    "name": "Zanbaq",
+    "gender": "Girl",
+    "meaning": "Lily",
+    "origin": "Arabic",
+    "id": "za41",
+    "verified": true
+  },
+  {
+    "name": "Zanjabil",
+    "gender": "Boy",
+    "meaning": "Ginger (Paradise drink)",
+    "origin": "Quranic",
+    "id": "za42",
+    "verified": true
+  },
+  {
+    "id": "za30",
+    "name": "Zara",
+    "gender": "Girl",
+    "meaning": "Blooming flower",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za31",
+    "name": "Zareen",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "za32",
+    "name": "Zarif",
+    "gender": "Boy",
+    "meaning": "Humorous, witty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za33",
+    "name": "Zariya",
+    "gender": "Girl",
+    "meaning": "Beauty, light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za34",
+    "name": "Zarmina",
+    "gender": "Girl",
+    "meaning": "Lovely, precious gold",
+    "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "id": "za35",
+    "name": "Zaroon",
+    "gender": "Boy",
+    "meaning": "Visitor",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "za36",
+    "name": "Zarrar",
+    "gender": "Boy",
+    "meaning": "Brave warrior",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za37",
+    "name": "Zayan",
+    "gender": "Boy",
+    "meaning": "Beautiful, graceful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "za38",
+    "name": "Zaynab",
+    "gender": "Girl",
+    "meaning": "Beautiful plant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zaytoun",
+    "gender": "Unisex",
+    "meaning": "Olive",
+    "origin": "Quranic",
+    "id": "za43",
+    "verified": true
+  }
 ]

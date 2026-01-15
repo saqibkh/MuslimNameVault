@@ -1,32 +1,274 @@
 [
-  { "id": "ar1", "name": "Ara", "gender": "Girl", "meaning": "Opinions, views", "origin": "Arabic", "verified": true },
-  { "id": "ar2", "name": "Arab", "gender": "Boy", "meaning": "Peaceful, handsome", "origin": "Arabic", "verified": true },
-  { "id": "ar3", "name": "Arafat", "gender": "Boy", "meaning": "Mount Arafat (Pilgrimage site)", "origin": "Islamic", "verified": true },
-  { "id": "ar4", "name": "Aram", "gender": "Unisex", "meaning": "Quiet, peaceful", "origin": "Persian", "verified": true },
-  { "id": "ar5", "name": "Arash", "gender": "Boy", "meaning": "Bright, truthful", "origin": "Persian", "verified": true },
-  { "id": "ar6", "name": "Arbaaz", "gender": "Boy", "meaning": "Eagle", "origin": "Arabic", "verified": true },
-  { "id": "ar7", "name": "Arbab", "gender": "Boy", "meaning": "Masters, lords", "origin": "Arabic", "verified": true },
-  { "id": "ar8", "name": "Areed", "gender": "Boy", "meaning": "Respectable", "origin": "Arabic", "verified": true },
-  { "id": "ar9", "name": "Areej", "gender": "Girl", "meaning": "Fragrance, sweet smell", "origin": "Arabic", "verified": true },
-  { "id": "ar10", "name": "Arfa", "gender": "Girl", "meaning": "High status, greatness", "origin": "Arabic", "verified": true },
-  { "id": "ar11", "name": "Arfan", "gender": "Boy", "meaning": "Gratitude", "origin": "Arabic", "verified": true },
-  { "id": "ar12", "name": "Arham", "gender": "Boy", "meaning": "Most merciful", "origin": "Quranic", "verified": true },
-  { "id": "ar13", "name": "Arib", "gender": "Boy", "meaning": "Wise, intelligent", "origin": "Arabic", "verified": true },
-  { "id": "ar14", "name": "Ariba", "gender": "Girl", "meaning": "Wise, intelligent", "origin": "Arabic", "verified": true },
-  { "id": "ar15", "name": "Arif", "gender": "Boy", "meaning": "Knowledgeable, gnostic", "origin": "Arabic", "verified": true },
-  { "id": "ar16", "name": "Arifa", "gender": "Girl", "meaning": "Learned, expert", "origin": "Arabic", "verified": true },
-  { "id": "ar17", "name": "Arij", "gender": "Girl", "meaning": "Sweet smell", "origin": "Arabic", "verified": true },
-  { "id": "ar18", "name": "Arisha", "gender": "Girl", "meaning": "Highness", "origin": "Arabic", "verified": true },
-  { "id": "ar19", "name": "Arjumand", "gender": "Girl", "meaning": "Noble, honorable", "origin": "Persian", "verified": true },
-  { "id": "ar20", "name": "Arman", "gender": "Boy", "meaning": "Wish, desire", "origin": "Persian", "verified": true },
-  { "id": "ar21", "name": "Armin", "gender": "Boy", "meaning": "Dweller of the garden of Eden", "origin": "Persian", "verified": true },
-  { "id": "ar22", "name": "Aroob", "gender": "Girl", "meaning": "Loving to her husband", "origin": "Arabic", "verified": true },
-  { "id": "ar23", "name": "Arqam", "gender": "Boy", "meaning": "Writer, speckled snake", "origin": "Arabic", "verified": true },
-  { "id": "ar24", "name": "Arsalan", "gender": "Boy", "meaning": "Lion", "origin": "Turkish", "verified": true },
-  { "id": "ar25", "name": "Arshad", "gender": "Boy", "meaning": "Better guided, honest", "origin": "Arabic", "verified": true },
-  { "id": "ar26", "name": "Arshi", "gender": "Girl", "meaning": "Of the throne (Allah's throne)", "origin": "Arabic", "verified": true },
-  { "id": "ar27", "name": "Arshia", "gender": "Girl", "meaning": "Heavenly", "origin": "Persian", "verified": true },
-  { "id": "ar28", "name": "Arwa", "gender": "Girl", "meaning": "Mountain goat, gracefulness", "origin": "Arabic", "verified": true },
-  { "id": "ar29", "name": "Arz", "gender": "Boy", "meaning": "Mountain, earth", "origin": "Arabic", "verified": true },
-  { "id": "ar30", "name": "Arzu", "gender": "Girl", "meaning": "Wish, hope", "origin": "Persian", "verified": true }
+  {
+    "id": "ar1",
+    "name": "Ara",
+    "gender": "Girl",
+    "meaning": "Opinions, views",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar2",
+    "name": "Arab",
+    "gender": "Boy",
+    "meaning": "Peaceful, handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar3",
+    "name": "Arafat",
+    "gender": "Boy",
+    "meaning": "Mount Arafat (Pilgrimage site)",
+    "origin": "Islamic",
+    "verified": true
+  },
+  {
+    "name": "Aral",
+    "gender": "Unisex",
+    "meaning": "Aral Sea; Island",
+    "origin": "Turkish",
+    "id": "ar31",
+    "verified": true
+  },
+  {
+    "id": "ar4",
+    "name": "Aram",
+    "gender": "Unisex",
+    "meaning": "Quiet, peaceful",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Aras",
+    "gender": "Boy",
+    "meaning": "River name",
+    "origin": "Turkish",
+    "id": "ar33",
+    "verified": true
+  },
+  {
+    "id": "ar5",
+    "name": "Arash",
+    "gender": "Boy",
+    "meaning": "Bright, truthful",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Araz",
+    "gender": "Boy",
+    "meaning": "River Araxes",
+    "origin": "Turkish/Persian",
+    "id": "ar32",
+    "verified": true
+  },
+  {
+    "id": "ar6",
+    "name": "Arbaaz",
+    "gender": "Boy",
+    "meaning": "Eagle",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar7",
+    "name": "Arbab",
+    "gender": "Boy",
+    "meaning": "Masters, lords",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar8",
+    "name": "Areed",
+    "gender": "Boy",
+    "meaning": "Respectable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar9",
+    "name": "Areej",
+    "gender": "Girl",
+    "meaning": "Fragrance, sweet smell",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar10",
+    "name": "Arfa",
+    "gender": "Girl",
+    "meaning": "High status, greatness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar11",
+    "name": "Arfan",
+    "gender": "Boy",
+    "meaning": "Gratitude",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar12",
+    "name": "Arham",
+    "gender": "Boy",
+    "meaning": "Most merciful",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ar13",
+    "name": "Arib",
+    "gender": "Boy",
+    "meaning": "Wise, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar14",
+    "name": "Ariba",
+    "gender": "Girl",
+    "meaning": "Wise, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar15",
+    "name": "Arif",
+    "gender": "Boy",
+    "meaning": "Knowledgeable, gnostic",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar16",
+    "name": "Arifa",
+    "gender": "Girl",
+    "meaning": "Learned, expert",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar17",
+    "name": "Arij",
+    "gender": "Girl",
+    "meaning": "Sweet smell",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Arina",
+    "gender": "Girl",
+    "meaning": "Mountain goat",
+    "origin": "Arabic",
+    "id": "ar34",
+    "verified": true
+  },
+  {
+    "id": "ar18",
+    "name": "Arisha",
+    "gender": "Girl",
+    "meaning": "Highness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar19",
+    "name": "Arjumand",
+    "gender": "Girl",
+    "meaning": "Noble, honorable",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ar20",
+    "name": "Arman",
+    "gender": "Boy",
+    "meaning": "Wish, desire",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ar21",
+    "name": "Armin",
+    "gender": "Boy",
+    "meaning": "Dweller of the garden of Eden",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ar22",
+    "name": "Aroob",
+    "gender": "Girl",
+    "meaning": "Loving to her husband",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar23",
+    "name": "Arqam",
+    "gender": "Boy",
+    "meaning": "Writer, speckled snake",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar24",
+    "name": "Arsalan",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ar25",
+    "name": "Arshad",
+    "gender": "Boy",
+    "meaning": "Better guided, honest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar26",
+    "name": "Arshi",
+    "gender": "Girl",
+    "meaning": "Of the throne (Allah's throne)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar27",
+    "name": "Arshia",
+    "gender": "Girl",
+    "meaning": "Heavenly",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ar28",
+    "name": "Arwa",
+    "gender": "Girl",
+    "meaning": "Mountain goat, gracefulness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar29",
+    "name": "Arz",
+    "gender": "Boy",
+    "meaning": "Mountain, earth",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ar30",
+    "name": "Arzu",
+    "gender": "Girl",
+    "meaning": "Wish, hope",
+    "origin": "Persian",
+    "verified": true
+  }
 ]

@@ -1,26 +1,202 @@
 [
-  { "id": "at1", "name": "Ata", "gender": "Boy", "meaning": "Gift, present", "origin": "Arabic", "verified": true },
-  { "id": "at2", "name": "Ataa", "gender": "Boy", "meaning": "Gift", "origin": "Arabic", "verified": true },
-  { "id": "at3", "name": "Ataullah", "gender": "Boy", "meaning": "Gift of Allah", "origin": "Arabic", "verified": true },
-  { "id": "at4", "name": "Ateeb", "gender": "Boy", "meaning": "Very pious", "origin": "Arabic", "verified": true },
-  { "id": "at5", "name": "Ateef", "gender": "Boy", "meaning": "Kind", "origin": "Arabic", "verified": true },
-  { "id": "at6", "name": "Ateeq", "gender": "Boy", "meaning": "Ancient, noble", "origin": "Arabic", "verified": true },
-  { "id": "at7", "name": "Athar", "gender": "Boy", "meaning": "Clean, pure", "origin": "Arabic", "verified": true },
-  { "id": "at8", "name": "Athazaz", "gender": "Boy", "meaning": "Unknown, Mystery", "origin": "Arabic", "verified": true },
-  { "id": "at9", "name": "Atheer", "gender": "Boy", "meaning": "Favored, preferred", "origin": "Arabic", "verified": true },
-  { "id": "at10", "name": "Athil", "gender": "Boy", "meaning": "Firmly rooted", "origin": "Arabic", "verified": true },
-  { "id": "at11", "name": "Athir", "gender": "Boy", "meaning": "Honored", "origin": "Arabic", "verified": true },
-  { "id": "at12", "name": "Atif", "gender": "Boy", "meaning": "Sympathetic, kind", "origin": "Arabic", "verified": true },
-  { "id": "at13", "name": "Atifa", "gender": "Girl", "meaning": "Affectionate, sympathetic", "origin": "Arabic", "verified": true },
-  { "id": "at14", "name": "Atik", "gender": "Boy", "meaning": "Ancient, noble", "origin": "Arabic", "verified": true },
-  { "id": "at15", "name": "Atika", "gender": "Girl", "meaning": "Clear, pure", "origin": "Arabic", "verified": true },
-  { "id": "at16", "name": "Atiq", "gender": "Boy", "meaning": "Ancient, liberated", "origin": "Arabic", "verified": true },
-  { "id": "at17", "name": "Atiqa", "gender": "Girl", "meaning": "Emancipated", "origin": "Arabic", "verified": true },
-  { "id": "at18", "name": "Atiya", "gender": "Girl", "meaning": "Gift", "origin": "Arabic", "verified": true },
-  { "id": "at19", "name": "Atiyah", "gender": "Girl", "meaning": "Gift", "origin": "Arabic", "verified": true },
-  { "id": "at20", "name": "Atta", "gender": "Boy", "meaning": "Father (Turkish); Gift (Arabic)", "origin": "Mixed", "verified": true },
-  { "id": "at21", "name": "Attiq", "gender": "Boy", "meaning": "Old, ancient", "origin": "Arabic", "verified": true },
-  { "id": "at22", "name": "Atuf", "gender": "Boy", "meaning": "Affectionate", "origin": "Arabic", "verified": true },
-  { "id": "at23", "name": "Atyaf", "gender": "Unisex", "meaning": "Fantasies", "origin": "Arabic", "verified": true },
-  { "id": "at24", "name": "Atwan", "gender": "Boy", "meaning": "Old historical site", "origin": "Arabic", "verified": true }
+  {
+    "id": "at1",
+    "name": "Ata",
+    "gender": "Boy",
+    "meaning": "Gift, present",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at2",
+    "name": "Ataa",
+    "gender": "Boy",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at3",
+    "name": "Ataullah",
+    "gender": "Boy",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at4",
+    "name": "Ateeb",
+    "gender": "Boy",
+    "meaning": "Very pious",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at5",
+    "name": "Ateef",
+    "gender": "Boy",
+    "meaning": "Kind",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at6",
+    "name": "Ateeq",
+    "gender": "Boy",
+    "meaning": "Ancient, noble",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at7",
+    "name": "Athar",
+    "gender": "Boy",
+    "meaning": "Clean, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at8",
+    "name": "Athazaz",
+    "gender": "Boy",
+    "meaning": "Unknown, Mystery",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at9",
+    "name": "Atheer",
+    "gender": "Boy",
+    "meaning": "Favored, preferred",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at10",
+    "name": "Athil",
+    "gender": "Boy",
+    "meaning": "Firmly rooted",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at11",
+    "name": "Athir",
+    "gender": "Boy",
+    "meaning": "Honored",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at12",
+    "name": "Atif",
+    "gender": "Boy",
+    "meaning": "Sympathetic, kind",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at13",
+    "name": "Atifa",
+    "gender": "Girl",
+    "meaning": "Affectionate, sympathetic",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at14",
+    "name": "Atik",
+    "gender": "Boy",
+    "meaning": "Ancient, noble",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at15",
+    "name": "Atika",
+    "gender": "Girl",
+    "meaning": "Clear, pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at16",
+    "name": "Atiq",
+    "gender": "Boy",
+    "meaning": "Ancient, liberated",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at17",
+    "name": "Atiqa",
+    "gender": "Girl",
+    "meaning": "Emancipated",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at18",
+    "name": "Atiya",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at19",
+    "name": "Atiyah",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Atlas",
+    "gender": "Boy",
+    "meaning": "Satin; Map",
+    "origin": "Arabic/Turkish",
+    "id": "at25",
+    "verified": true
+  },
+  {
+    "id": "at20",
+    "name": "Atta",
+    "gender": "Boy",
+    "meaning": "Father (Turkish); Gift (Arabic)",
+    "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "id": "at21",
+    "name": "Attiq",
+    "gender": "Boy",
+    "meaning": "Old, ancient",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at22",
+    "name": "Atuf",
+    "gender": "Boy",
+    "meaning": "Affectionate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at24",
+    "name": "Atwan",
+    "gender": "Boy",
+    "meaning": "Old historical site",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "at23",
+    "name": "Atyaf",
+    "gender": "Unisex",
+    "meaning": "Fantasies",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

@@ -1,14 +1,106 @@
 [
-  { "id": "aw1", "name": "Awad", "gender": "Boy", "meaning": "Reward, compensation", "origin": "Arabic", "verified": true },
-  { "id": "aw2", "name": "Awadullah", "gender": "Boy", "meaning": "Reward of Allah", "origin": "Arabic", "verified": true },
-  { "id": "aw3", "name": "Awam", "gender": "Boy", "meaning": "Swimmer", "origin": "Arabic", "verified": true },
-  { "id": "aw4", "name": "Awaqib", "gender": "Boy", "meaning": "Consequences", "origin": "Arabic", "verified": true },
-  { "id": "aw5", "name": "Awas", "gender": "Boy", "meaning": "Moderate", "origin": "Arabic", "verified": true },
-  { "id": "aw6", "name": "Awatif", "gender": "Girl", "meaning": "Emotions, sentiments", "origin": "Arabic", "verified": true },
-  { "id": "aw7", "name": "Awda", "gender": "Girl", "meaning": "Return", "origin": "Arabic", "verified": true },
-  { "id": "aw8", "name": "Awf", "gender": "Boy", "meaning": "Lion; A plant with a pleasant smell", "origin": "Arabic", "verified": true },
-  { "id": "aw9", "name": "Awn", "gender": "Boy", "meaning": "Help, assistance", "origin": "Arabic", "verified": true },
-  { "id": "aw10", "name": "Aws", "gender": "Boy", "meaning": "Wolf; Gift", "origin": "Arabic", "verified": true },
-  { "id": "aw11", "name": "Awwab", "gender": "Boy", "meaning": "Repentant, one who returns to God", "origin": "Quranic", "verified": true },
-  { "id": "aw12", "name": "Awwal", "gender": "Boy", "meaning": "First", "origin": "Arabic", "verified": true }
+  {
+    "id": "aw1",
+    "name": "Awad",
+    "gender": "Boy",
+    "meaning": "Reward, compensation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw2",
+    "name": "Awadullah",
+    "gender": "Boy",
+    "meaning": "Reward of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw3",
+    "name": "Awam",
+    "gender": "Boy",
+    "meaning": "Swimmer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw4",
+    "name": "Awaqib",
+    "gender": "Boy",
+    "meaning": "Consequences",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw5",
+    "name": "Awas",
+    "gender": "Boy",
+    "meaning": "Moderate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw6",
+    "name": "Awatif",
+    "gender": "Girl",
+    "meaning": "Emotions, sentiments",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw7",
+    "name": "Awda",
+    "gender": "Girl",
+    "meaning": "Return",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw8",
+    "name": "Awf",
+    "gender": "Boy",
+    "meaning": "Lion; A plant with a pleasant smell",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw9",
+    "name": "Awn",
+    "gender": "Boy",
+    "meaning": "Help, assistance",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aw10",
+    "name": "Aws",
+    "gender": "Boy",
+    "meaning": "Wolf; Gift",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Awtar",
+    "gender": "Girl",
+    "meaning": "Chords, musical notes",
+    "origin": "Arabic",
+    "id": "aw13",
+    "verified": true
+  },
+  {
+    "id": "aw11",
+    "name": "Awwab",
+    "gender": "Boy",
+    "meaning": "Repentant, one who returns to God",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "aw12",
+    "name": "Awwal",
+    "gender": "Boy",
+    "meaning": "First",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

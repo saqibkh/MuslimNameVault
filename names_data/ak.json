@@ -1,22 +1,170 @@
 [
-  { "id": "ak1", "name": "Akbar", "gender": "Boy", "meaning": "Greatest, bigger", "origin": "Arabic", "verified": true },
-  { "id": "ak2", "name": "Akbari", "gender": "Boy", "meaning": "Big, great", "origin": "Arabic", "verified": true },
-  { "id": "ak3", "name": "Akhas", "gender": "Boy", "meaning": "Special, specific", "origin": "Arabic", "verified": true },
-  { "id": "ak4", "name": "Akhfash", "gender": "Boy", "meaning": "One with small eyes; Famous grammarian", "origin": "Arabic", "verified": true },
-  { "id": "ak5", "name": "Akhlaq", "gender": "Boy", "meaning": "Ethics, morals, good conduct", "origin": "Arabic", "verified": true },
-  { "id": "ak6", "name": "Akhtar", "gender": "Unisex", "meaning": "Star, good luck", "origin": "Persian", "verified": true },
-  { "id": "ak7", "name": "Akhzam", "gender": "Boy", "meaning": "Strong, name of a sword", "origin": "Arabic", "verified": true },
-  { "id": "ak8", "name": "Akif", "gender": "Boy", "meaning": "Devoted, attached", "origin": "Quranic", "verified": true },
-  { "id": "ak9", "name": "Akifa", "gender": "Girl", "meaning": "Devoted, dedicated", "origin": "Quranic", "verified": true },
-  { "id": "ak10", "name": "Akil", "gender": "Boy", "meaning": "Intelligent, thoughtful (Variant of Aqil)", "origin": "Arabic", "verified": true },
-  { "id": "ak11", "name": "Akilah", "gender": "Girl", "meaning": "Intelligent, wise", "origin": "Arabic", "verified": true },
-  { "id": "ak12", "name": "Aklim", "gender": "Boy", "meaning": "Region, climate", "origin": "Arabic", "verified": true },
-  { "id": "ak13", "name": "Akmal", "gender": "Boy", "meaning": "Perfect, complete", "origin": "Arabic", "verified": true },
-  { "id": "ak14", "name": "Akram", "gender": "Boy", "meaning": "Most generous, noblest", "origin": "Quranic", "verified": true },
-  { "id": "ak15", "name": "Akramah", "gender": "Boy", "meaning": "Generosity; Name of a Companion", "origin": "Arabic", "verified": true },
-  { "id": "ak16", "name": "Aks", "gender": "Boy", "meaning": "Reflection, mirror image", "origin": "Arabic", "verified": true },
-  { "id": "ak17", "name": "Aksa", "gender": "Girl", "meaning": "Farthest; Al-Aqsa Mosque", "origin": "Quranic", "verified": true },
-  { "id": "ak18", "name": "Akwan", "gender": "Boy", "meaning": "Universes, worlds", "origin": "Arabic", "verified": true },
-  { "id": "ak19", "name": "Akzaz", "gender": "Boy", "meaning": "Respect, honor", "origin": "Arabic", "verified": true },
-  { "id": "ak20", "name": "Akina", "gender": "Girl", "meaning": "Spring flower (Turkish usage)", "origin": "Turkish", "verified": true }
+  {
+    "name": "Akasya",
+    "gender": "Girl",
+    "meaning": "Acacia flower",
+    "origin": "Turkish",
+    "id": "ak21",
+    "verified": true
+  },
+  {
+    "id": "ak1",
+    "name": "Akbar",
+    "gender": "Boy",
+    "meaning": "Greatest, bigger",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak2",
+    "name": "Akbari",
+    "gender": "Boy",
+    "meaning": "Big, great",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak3",
+    "name": "Akhas",
+    "gender": "Boy",
+    "meaning": "Special, specific",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak4",
+    "name": "Akhfash",
+    "gender": "Boy",
+    "meaning": "One with small eyes; Famous grammarian",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak5",
+    "name": "Akhlaq",
+    "gender": "Boy",
+    "meaning": "Ethics, morals, good conduct",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak6",
+    "name": "Akhtar",
+    "gender": "Unisex",
+    "meaning": "Star, good luck",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ak7",
+    "name": "Akhzam",
+    "gender": "Boy",
+    "meaning": "Strong, name of a sword",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak8",
+    "name": "Akif",
+    "gender": "Boy",
+    "meaning": "Devoted, attached",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ak9",
+    "name": "Akifa",
+    "gender": "Girl",
+    "meaning": "Devoted, dedicated",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ak10",
+    "name": "Akil",
+    "gender": "Boy",
+    "meaning": "Intelligent, thoughtful (Variant of Aqil)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak11",
+    "name": "Akilah",
+    "gender": "Girl",
+    "meaning": "Intelligent, wise",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak20",
+    "name": "Akina",
+    "gender": "Girl",
+    "meaning": "Spring flower (Turkish usage)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ak12",
+    "name": "Aklim",
+    "gender": "Boy",
+    "meaning": "Region, climate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak13",
+    "name": "Akmal",
+    "gender": "Boy",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak14",
+    "name": "Akram",
+    "gender": "Boy",
+    "meaning": "Most generous, noblest",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ak15",
+    "name": "Akramah",
+    "gender": "Boy",
+    "meaning": "Generosity; Name of a Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak16",
+    "name": "Aks",
+    "gender": "Boy",
+    "meaning": "Reflection, mirror image",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak17",
+    "name": "Aksa",
+    "gender": "Girl",
+    "meaning": "Farthest; Al-Aqsa Mosque",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ak18",
+    "name": "Akwan",
+    "gender": "Boy",
+    "meaning": "Universes, worlds",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ak19",
+    "name": "Akzaz",
+    "gender": "Boy",
+    "meaning": "Respect, honor",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]
