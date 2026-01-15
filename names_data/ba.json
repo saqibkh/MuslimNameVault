@@ -104,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Badr-ud-Din",
+    "gender": "Boy",
+    "meaning": "Full moon of the Faith",
+    "origin": "Arabic",
+    "id": "ba111",
+    "verified": true
+  },
+  {
     "id": "ba12",
     "name": "Badra",
     "gender": "Girl",
@@ -149,6 +157,14 @@
     "gender": "Boy",
     "meaning": "Beautiful, magnificent",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Baha-ud-Din",
+    "gender": "Boy",
+    "meaning": "Splendor of the Faith",
+    "origin": "Arabic",
+    "id": "ba112",
     "verified": true
   },
   {
@@ -552,6 +568,14 @@
     "verified": true
   },
   {
+    "name": "Baris",
+    "gender": "Boy",
+    "meaning": "Peace",
+    "origin": "Turkish",
+    "id": "ba110",
+    "verified": true
+  },
+  {
     "id": "ba65",
     "name": "Barkat",
     "gender": "Boy",
@@ -677,6 +701,14 @@
     "gender": "Unisex",
     "meaning": "Good news",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Basheer",
+    "gender": "Boy",
+    "meaning": "Bringer of glad tidings",
+    "origin": "Quranic",
+    "id": "ba113",
     "verified": true
   },
   {
@@ -821,6 +853,14 @@
     "meaning": "White; Name of a tribe",
     "origin": "Turkish",
     "id": "ba106",
+    "verified": true
+  },
+  {
+    "name": "Baybars",
+    "gender": "Boy",
+    "meaning": "Lord panther; Mamluk Sultan",
+    "origin": "Turkic",
+    "id": "ba114",
     "verified": true
   },
   {

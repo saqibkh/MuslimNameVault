@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Zafar-ullah",
+    "gender": "Boy",
+    "meaning": "Victory of God",
+    "origin": "Arabic",
+    "id": "za50",
+    "verified": true
+  },
+  {
     "id": "za6",
     "name": "Zafeer",
     "gender": "Boy",
@@ -56,11 +64,27 @@
     "verified": true
   },
   {
+    "name": "Zafer",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Turkish",
+    "id": "za47",
+    "verified": true
+  },
+  {
     "id": "za7",
     "name": "Zaheer",
     "gender": "Boy",
     "meaning": "Bright, shining; Supporter",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Zaheer-ud-Din",
+    "gender": "Boy",
+    "meaning": "Supporter of the Faith",
+    "origin": "Arabic",
+    "id": "za51",
     "verified": true
   },
   {
@@ -93,6 +117,22 @@
     "gender": "Girl",
     "meaning": "Shining, luminous",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zahoor",
+    "gender": "Boy",
+    "meaning": "Appearance",
+    "origin": "Arabic",
+    "id": "za52",
+    "verified": true
+  },
+  {
+    "name": "Zahoor-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Appearance of Truth",
+    "origin": "Arabic",
+    "id": "za53",
     "verified": true
   },
   {
@@ -160,11 +200,27 @@
     "verified": true
   },
   {
+    "name": "Zain-ul-Abidin",
+    "gender": "Boy",
+    "meaning": "Adornment of Worshippers",
+    "origin": "Arabic",
+    "id": "za54",
+    "verified": true
+  },
+  {
     "id": "za20",
     "name": "Zainab",
     "gender": "Girl",
     "meaning": "Fragrant flower; Daughter of the Prophet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zaka-ullah",
+    "gender": "Boy",
+    "meaning": "Purity of God",
+    "origin": "Arabic",
+    "id": "za55",
     "verified": true
   },
   {
@@ -264,6 +320,14 @@
     "verified": true
   },
   {
+    "name": "Zar",
+    "gender": "Unisex",
+    "meaning": "Gold",
+    "origin": "Persian",
+    "id": "za48",
+    "verified": true
+  },
+  {
     "id": "za30",
     "name": "Zara",
     "gender": "Girl",
@@ -293,6 +357,14 @@
     "meaning": "Golden",
     "origin": "Persian",
     "id": "za46",
+    "verified": true
+  },
+  {
+    "name": "Zarina",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Persian",
+    "id": "za49",
     "verified": true
   },
   {

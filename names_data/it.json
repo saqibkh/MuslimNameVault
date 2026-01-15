@@ -1,5 +1,34 @@
 [
-  { "id": "it1", "name": "Itidal", "gender": "Girl", "meaning": "Moderation", "origin": "Arabic", "verified": true },
-  { "id": "it2", "name": "Itimad", "gender": "Girl", "meaning": "Reliance, trust", "origin": "Arabic", "verified": true },
-  { "id": "it3", "name": "Itr", "gender": "Unisex", "meaning": "Perfume", "origin": "Arabic", "verified": true }
+  {
+    "id": "it1",
+    "name": "Itidal",
+    "gender": "Girl",
+    "meaning": "Moderation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "it2",
+    "name": "Itimad",
+    "gender": "Girl",
+    "meaning": "Reliance, trust",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "it3",
+    "name": "Itr",
+    "gender": "Unisex",
+    "meaning": "Perfume",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Itrat",
+    "gender": "Girl",
+    "meaning": "Lineage",
+    "origin": "Arabic",
+    "id": "it4",
+    "verified": true
+  }
 ]

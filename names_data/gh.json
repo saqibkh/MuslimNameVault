@@ -168,11 +168,35 @@
     "verified": true
   },
   {
+    "name": "Ghazwan",
+    "gender": "Boy",
+    "meaning": "Warrior",
+    "origin": "Arabic",
+    "id": "gh28",
+    "verified": true
+  },
+  {
     "name": "Ghina",
     "gender": "Girl",
     "meaning": "Richness, melody",
     "origin": "Arabic",
     "id": "gh26",
+    "verified": true
+  },
+  {
+    "name": "Ghiyas",
+    "gender": "Boy",
+    "meaning": "Aid, relief",
+    "origin": "Arabic",
+    "id": "gh29",
+    "verified": true
+  },
+  {
+    "name": "Ghiyas-ud-Din",
+    "gender": "Boy",
+    "meaning": "Aid of the Faith",
+    "origin": "Arabic",
+    "id": "gh30",
     "verified": true
   },
   {

@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Ahed",
+    "gender": "Boy",
+    "meaning": "One who keeps promises",
+    "origin": "Arabic",
+    "id": "ah27",
+    "verified": true
+  },
+  {
     "id": "ah17",
     "name": "Ahida",
     "gender": "Girl",
@@ -157,6 +165,14 @@
     "gender": "Boy",
     "meaning": "Best, most beautiful",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Ahsan-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Best of Truth",
+    "origin": "Arabic",
+    "id": "ah28",
     "verified": true
   },
   {

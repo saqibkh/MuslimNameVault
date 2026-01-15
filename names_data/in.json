@@ -16,6 +16,22 @@
     "verified": true
   },
   {
+    "name": "Inam",
+    "gender": "Unisex",
+    "meaning": "Prize, reward",
+    "origin": "Arabic",
+    "id": "in11",
+    "verified": true
+  },
+  {
+    "name": "Inam-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Reward of the Truth",
+    "origin": "Arabic",
+    "id": "in13",
+    "verified": true
+  },
+  {
     "id": "in2",
     "name": "Inan",
     "gender": "Boy",
@@ -77,6 +93,14 @@
     "gender": "Girl",
     "meaning": "Victory, triumph",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Intizar",
+    "gender": "Boy",
+    "meaning": "Wait, expectation",
+    "origin": "Arabic",
+    "id": "in12",
     "verified": true
   }
 ]

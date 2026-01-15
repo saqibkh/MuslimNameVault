@@ -36,6 +36,14 @@
     "verified": true
   },
   {
+    "name": "Abadal",
+    "gender": "Boy",
+    "meaning": "Devotee, religious person",
+    "origin": "Arabic",
+    "id": "ab106",
+    "verified": true
+  },
+  {
     "id": "ab3",
     "name": "Abadi",
     "transliteration": "Abadī",
@@ -117,6 +125,14 @@
       "Strength",
       "Animal"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abbasid",
+    "gender": "Boy",
+    "meaning": "Of Abbas; Historic dynasty",
+    "origin": "Islamic History",
+    "id": "ab107",
     "verified": true
   },
   {
@@ -1114,6 +1130,278 @@
     "verified": true
   },
   {
+    "name": "Abdul-Ahad",
+    "gender": "Boy",
+    "meaning": "Slave of the One",
+    "origin": "Arabic",
+    "id": "ab109",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Alim",
+    "gender": "Boy",
+    "meaning": "Slave of the All-Knowing",
+    "origin": "Arabic",
+    "id": "ab110",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Aziz",
+    "gender": "Boy",
+    "meaning": "Slave of the Mighty",
+    "origin": "Arabic",
+    "id": "ab111",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Bari",
+    "gender": "Boy",
+    "meaning": "Slave of the Creator",
+    "origin": "Arabic",
+    "id": "ab112",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Basir",
+    "gender": "Boy",
+    "meaning": "Slave of the All-Seeing",
+    "origin": "Arabic",
+    "id": "ab113",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Ghaffar",
+    "gender": "Boy",
+    "meaning": "Slave of the Forgiver",
+    "origin": "Arabic",
+    "id": "ab114",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Ghani",
+    "gender": "Boy",
+    "meaning": "Slave of the Self-Sufficient",
+    "origin": "Arabic",
+    "id": "ab115",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Hadi",
+    "gender": "Boy",
+    "meaning": "Slave of the Guide",
+    "origin": "Arabic",
+    "id": "ab116",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Hafiz",
+    "gender": "Boy",
+    "meaning": "Slave of the Protector",
+    "origin": "Arabic",
+    "id": "ab117",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Hakim",
+    "gender": "Boy",
+    "meaning": "Slave of the Wise",
+    "origin": "Arabic",
+    "id": "ab118",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Halim",
+    "gender": "Boy",
+    "meaning": "Slave of the Forbearing",
+    "origin": "Arabic",
+    "id": "ab119",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Hamid",
+    "gender": "Boy",
+    "meaning": "Slave of the Praiseworthy",
+    "origin": "Arabic",
+    "id": "ab120",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Haq",
+    "gender": "Boy",
+    "meaning": "Slave of the Truth",
+    "origin": "Arabic",
+    "id": "ab121",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Jabbar",
+    "gender": "Boy",
+    "meaning": "Slave of the Compeller",
+    "origin": "Arabic",
+    "id": "ab122",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Jalil",
+    "gender": "Boy",
+    "meaning": "Slave of the Majestic",
+    "origin": "Arabic",
+    "id": "ab123",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Karim",
+    "gender": "Boy",
+    "meaning": "Slave of the Generous",
+    "origin": "Arabic",
+    "id": "ab124",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Latif",
+    "gender": "Boy",
+    "meaning": "Slave of the Gentle",
+    "origin": "Arabic",
+    "id": "ab125",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Majid",
+    "gender": "Boy",
+    "meaning": "Slave of the Glorious",
+    "origin": "Arabic",
+    "id": "ab126",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Malik",
+    "gender": "Boy",
+    "meaning": "Slave of the King",
+    "origin": "Arabic",
+    "id": "ab127",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Matin",
+    "gender": "Boy",
+    "meaning": "Slave of the Strong",
+    "origin": "Arabic",
+    "id": "ab128",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Naser",
+    "gender": "Boy",
+    "meaning": "Slave of the Helper",
+    "origin": "Arabic",
+    "id": "ab129",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Qadir",
+    "gender": "Boy",
+    "meaning": "Slave of the Capable",
+    "origin": "Arabic",
+    "id": "ab130",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Quddus",
+    "gender": "Boy",
+    "meaning": "Slave of the Holy",
+    "origin": "Arabic",
+    "id": "ab131",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Raffay",
+    "gender": "Boy",
+    "meaning": "Slave of the Exalter",
+    "origin": "Arabic",
+    "id": "ab132",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Rahim",
+    "gender": "Boy",
+    "meaning": "Slave of the Merciful",
+    "origin": "Arabic",
+    "id": "ab133",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Rashid",
+    "gender": "Boy",
+    "meaning": "Slave of the Guide",
+    "origin": "Arabic",
+    "id": "ab134",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Rauf",
+    "gender": "Boy",
+    "meaning": "Slave of the Compassionate",
+    "origin": "Arabic",
+    "id": "ab135",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Razzaq",
+    "gender": "Boy",
+    "meaning": "Slave of the Provider",
+    "origin": "Arabic",
+    "id": "ab136",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Salam",
+    "gender": "Boy",
+    "meaning": "Slave of Peace",
+    "origin": "Arabic",
+    "id": "ab137",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Samad",
+    "gender": "Boy",
+    "meaning": "Slave of the Eternal",
+    "origin": "Arabic",
+    "id": "ab138",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Sattar",
+    "gender": "Boy",
+    "meaning": "Slave of the Veiler of Sins",
+    "origin": "Arabic",
+    "id": "ab139",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Wadud",
+    "gender": "Boy",
+    "meaning": "Slave of the Loving",
+    "origin": "Arabic",
+    "id": "ab140",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Wahab",
+    "gender": "Boy",
+    "meaning": "Slave of the Bestower",
+    "origin": "Arabic",
+    "id": "ab141",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Wahid",
+    "gender": "Boy",
+    "meaning": "Slave of the Unique",
+    "origin": "Arabic",
+    "id": "ab142",
+    "verified": true
+  },
+  {
     "id": "ab54",
     "name": "Abdullah",
     "transliteration": "‘Abd Allāh",
@@ -1315,6 +1603,14 @@
       "Beauty",
       "Rare"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abqari",
+    "gender": "Boy",
+    "meaning": "Genius; Carpet in Paradise",
+    "origin": "Quranic",
+    "id": "ab108",
     "verified": true
   },
   {

@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Laiq",
+    "gender": "Boy",
+    "meaning": "Deserving, capable",
+    "origin": "Arabic",
+    "id": "la23",
+    "verified": true
+  },
+  {
     "id": "la5",
     "name": "Laith",
     "gender": "Boy",
@@ -69,6 +77,14 @@
     "meaning": "Tulip",
     "origin": "Turkish",
     "id": "la20",
+    "verified": true
+  },
+  {
+    "name": "Lali",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Urdu",
+    "id": "la24",
     "verified": true
   },
   {

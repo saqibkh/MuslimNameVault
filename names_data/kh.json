@@ -40,6 +40,22 @@
     "verified": true
   },
   {
+    "name": "Khair-ud-Din",
+    "gender": "Boy",
+    "meaning": "Goodness of the Faith",
+    "origin": "Arabic",
+    "id": "kh54",
+    "verified": true
+  },
+  {
+    "name": "Khair-ul-Bashar",
+    "gender": "Boy",
+    "meaning": "Best of Mankind (Prophet Muhammad)",
+    "origin": "Arabic",
+    "id": "kh55",
+    "verified": true
+  },
+  {
     "id": "kh5",
     "name": "Khairat",
     "gender": "Unisex",
@@ -144,11 +160,27 @@
     "verified": true
   },
   {
+    "name": "Khalifat-ullah",
+    "gender": "Boy",
+    "meaning": "Vicegerent of God",
+    "origin": "Arabic",
+    "id": "kh56",
+    "verified": true
+  },
+  {
     "id": "kh18",
     "name": "Khalil",
     "gender": "Boy",
     "meaning": "Intimate friend",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Khalil-ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Friend of the Merciful",
+    "origin": "Arabic",
+    "id": "kh57",
     "verified": true
   },
   {
@@ -216,6 +248,14 @@
     "verified": true
   },
   {
+    "name": "Khanzada",
+    "gender": "Boy",
+    "meaning": "Son of a Khan",
+    "origin": "Persian",
+    "id": "kh58",
+    "verified": true
+  },
+  {
     "id": "kh27",
     "name": "Kharqa",
     "gender": "Girl",
@@ -229,6 +269,14 @@
     "gender": "Girl",
     "meaning": "Humble, pious",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khateeb",
+    "gender": "Boy",
+    "meaning": "Orator, preacher",
+    "origin": "Arabic",
+    "id": "kh59",
     "verified": true
   },
   {
@@ -248,11 +296,27 @@
     "verified": true
   },
   {
+    "name": "Khatoon",
+    "gender": "Girl",
+    "meaning": "Noble woman",
+    "origin": "Persian",
+    "id": "kh49",
+    "verified": true
+  },
+  {
     "id": "kh31",
     "name": "Khattab",
     "gender": "Boy",
     "meaning": "Orator",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khawar",
+    "gender": "Boy",
+    "meaning": "East; Sun",
+    "origin": "Persian",
+    "id": "kh50",
     "verified": true
   },
   {
@@ -269,6 +333,14 @@
     "gender": "Girl",
     "meaning": "Female deer",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khayaam",
+    "gender": "Boy",
+    "meaning": "Tent maker; Famous poet",
+    "origin": "Arabic",
+    "id": "kh51",
     "verified": true
   },
   {
@@ -312,6 +384,14 @@
     "verified": true
   },
   {
+    "name": "Khazina",
+    "gender": "Girl",
+    "meaning": "Treasure",
+    "origin": "Arabic",
+    "id": "kh60",
+    "verified": true
+  },
+  {
     "id": "kh37",
     "name": "Khidr",
     "gender": "Boy",
@@ -328,11 +408,35 @@
     "verified": true
   },
   {
+    "name": "Khizer",
+    "gender": "Boy",
+    "meaning": "Green; Name of a Prophet",
+    "origin": "Arabic",
+    "id": "kh52",
+    "verified": true
+  },
+  {
     "name": "Khozama",
     "gender": "Girl",
     "meaning": "Lavender",
     "origin": "Arabic",
     "id": "kh47",
+    "verified": true
+  },
+  {
+    "name": "Khuda",
+    "gender": "Boy",
+    "meaning": "God (Bakhsh - Gift of God)",
+    "origin": "Persian",
+    "id": "kh53",
+    "verified": true
+  },
+  {
+    "name": "Khuda-Bakhsh",
+    "gender": "Boy",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "kh61",
     "verified": true
   },
   {
@@ -381,6 +485,14 @@
     "gender": "Girl",
     "meaning": "Lavender",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khwaja",
+    "gender": "Boy",
+    "meaning": "Master, Lord",
+    "origin": "Persian",
+    "id": "kh62",
     "verified": true
   }
 ]

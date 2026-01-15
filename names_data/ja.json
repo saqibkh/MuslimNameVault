@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Jabar",
+    "gender": "Boy",
+    "meaning": "Comforter",
+    "origin": "Arabic",
+    "id": "ja73",
+    "verified": true
+  },
+  {
     "id": "ja5",
     "name": "Jabbar",
     "gender": "Boy",
@@ -45,6 +53,14 @@
     "gender": "Girl",
     "meaning": "Forehead",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Jabin",
+    "gender": "Girl",
+    "meaning": "Forehead",
+    "origin": "Arabic",
+    "id": "ja74",
     "verified": true
   },
   {
@@ -69,6 +85,14 @@
     "gender": "Boy",
     "meaning": "Generosity; Curly hair",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jad-Allah",
+    "gender": "Boy",
+    "meaning": "Generosity of God",
+    "origin": "Arabic",
+    "id": "ja75",
     "verified": true
   },
   {
@@ -208,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Jalal-ud-Din",
+    "gender": "Boy",
+    "meaning": "Majesty of the Faith (Rumi)",
+    "origin": "Arabic",
+    "id": "ja76",
+    "verified": true
+  },
+  {
     "id": "ja27",
     "name": "Jalaluddin",
     "gender": "Boy",
@@ -261,6 +293,14 @@
     "gender": "Boy",
     "meaning": "Beauty",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jamal-ud-Din",
+    "gender": "Boy",
+    "meaning": "Beauty of the Faith",
+    "origin": "Arabic",
+    "id": "ja77",
     "verified": true
   },
   {
@@ -325,6 +365,14 @@
     "gender": "Boy",
     "meaning": "The sun king",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Jan",
+    "gender": "Boy",
+    "meaning": "Soul; Life",
+    "origin": "Persian",
+    "id": "ja78",
     "verified": true
   },
   {
@@ -397,6 +445,14 @@
     "gender": "Boy",
     "meaning": "Name of a companion",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jarrar",
+    "gender": "Boy",
+    "meaning": "Brave; Huge army",
+    "origin": "Arabic",
+    "id": "ja79",
     "verified": true
   },
   {

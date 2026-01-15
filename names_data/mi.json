@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Miftah",
+    "gender": "Boy",
+    "meaning": "Key",
+    "origin": "Arabic",
+    "id": "mi21",
+    "verified": true
+  },
+  {
     "name": "Mihrab",
     "gender": "Boy",
     "meaning": "Prayer niche; Sanctuary",
@@ -56,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Minhaj",
+    "gender": "Boy",
+    "meaning": "Path, method",
+    "origin": "Arabic",
+    "id": "mi22",
+    "verified": true
+  },
+  {
     "id": "mi6",
     "name": "Minhal",
     "gender": "Unisex",
@@ -96,11 +112,27 @@
     "verified": true
   },
   {
+    "name": "Mirza",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Persian",
+    "id": "mi23",
+    "verified": true
+  },
+  {
     "id": "mi11",
     "name": "Misbah",
     "gender": "Unisex",
     "meaning": "Lamp, light",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Misbah-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Lamp of Truth",
+    "origin": "Arabic",
+    "id": "mi24",
     "verified": true
   },
   {

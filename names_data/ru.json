@@ -88,6 +88,14 @@
     "verified": true
   },
   {
+    "name": "Rukn-ud-Din",
+    "gender": "Boy",
+    "meaning": "Pillar of the Faith",
+    "origin": "Arabic",
+    "id": "ru23",
+    "verified": true
+  },
+  {
     "id": "ru10",
     "name": "Rumaisa",
     "gender": "Girl",
@@ -141,6 +149,14 @@
     "gender": "Boy",
     "meaning": "Hero, strong man",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Ruuhi",
+    "gender": "Girl",
+    "meaning": "Soul",
+    "origin": "Arabic",
+    "id": "ru22",
     "verified": true
   },
   {

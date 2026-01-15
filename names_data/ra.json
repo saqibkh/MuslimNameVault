@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ra'id",
+    "gender": "Boy",
+    "meaning": "Leader, Pioneer",
+    "origin": "Arabic",
+    "id": "ra81",
+    "verified": true
+  },
+  {
     "id": "ra1",
     "name": "Raad",
     "gender": "Boy",
@@ -53,6 +61,14 @@
     "gender": "Boy",
     "meaning": "Spring, breeze",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Rabi-ul-Awwal",
+    "gender": "Boy",
+    "meaning": "First Spring (Islamic Month)",
+    "origin": "Arabic",
+    "id": "ra82",
     "verified": true
   },
   {
@@ -112,6 +128,14 @@
     "verified": true
   },
   {
+    "name": "Rafat",
+    "gender": "Boy",
+    "meaning": "High rank",
+    "origin": "Arabic",
+    "id": "ra77",
+    "verified": true
+  },
+  {
     "id": "ra15",
     "name": "Rafay",
     "gender": "Boy",
@@ -125,6 +149,14 @@
     "gender": "Boy",
     "meaning": "High, noble",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Rafi",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Arabic",
+    "id": "ra78",
     "verified": true
   },
   {
@@ -256,6 +288,22 @@
     "verified": true
   },
   {
+    "name": "Rahmat",
+    "gender": "Unisex",
+    "meaning": "Mercy",
+    "origin": "Quranic",
+    "id": "ra83",
+    "verified": true
+  },
+  {
+    "name": "Rahmat-ullah",
+    "gender": "Boy",
+    "meaning": "Mercy of God",
+    "origin": "Arabic",
+    "id": "ra84",
+    "verified": true
+  },
+  {
     "id": "ra30",
     "name": "Raid",
     "gender": "Boy",
@@ -328,6 +376,14 @@
     "verified": true
   },
   {
+    "name": "Rakhshanda",
+    "gender": "Girl",
+    "meaning": "Shining",
+    "origin": "Persian",
+    "id": "ra79",
+    "verified": true
+  },
+  {
     "name": "Rama",
     "gender": "Girl",
     "meaning": "Location near Palestine",
@@ -392,6 +448,14 @@
     "verified": true
   },
   {
+    "name": "Rani",
+    "gender": "Girl",
+    "meaning": "Queen",
+    "origin": "Urdu",
+    "id": "ra80",
+    "verified": true
+  },
+  {
     "id": "ra46",
     "name": "Rania",
     "gender": "Girl",
@@ -445,6 +509,14 @@
     "gender": "Boy",
     "meaning": "Rightly guided",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Rashid-ud-Din",
+    "gender": "Boy",
+    "meaning": "Guide of the Faith",
+    "origin": "Arabic",
+    "id": "ra85",
     "verified": true
   },
   {
@@ -581,6 +653,14 @@
     "gender": "Girl",
     "meaning": "Sensibility, respect",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Razi-ud-Din",
+    "gender": "Boy",
+    "meaning": "Satisfaction of the Faith",
+    "origin": "Arabic",
+    "id": "ra86",
     "verified": true
   },
   {

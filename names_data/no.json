@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Noor-Jahan",
+    "gender": "Girl",
+    "meaning": "Light of the World",
+    "origin": "Persian",
+    "id": "no15",
+    "verified": true
+  },
+  {
+    "name": "Noor-ud-Din",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "id": "no16",
+    "verified": true
+  },
+  {
     "name": "Noor-ul-Ain",
     "gender": "Girl",
     "meaning": "Light of the eyes",
@@ -16,11 +32,35 @@
     "verified": true
   },
   {
+    "name": "Noor-ul-Huda",
+    "gender": "Unisex",
+    "meaning": "Light of Guidance",
+    "origin": "Arabic",
+    "id": "no17",
+    "verified": true
+  },
+  {
+    "name": "Noor-ullah",
+    "gender": "Boy",
+    "meaning": "Light of God",
+    "origin": "Arabic",
+    "id": "no18",
+    "verified": true
+  },
+  {
     "id": "no2",
     "name": "Noora",
     "gender": "Girl",
     "meaning": "Light",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Noori",
+    "gender": "Girl",
+    "meaning": "Of light",
+    "origin": "Arabic",
+    "id": "no12",
     "verified": true
   },
   {
@@ -53,6 +93,22 @@
     "gender": "Girl",
     "meaning": "Light",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nosheen",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "no14",
+    "verified": true
+  },
+  {
+    "name": "Noshi",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Urdu",
+    "id": "no13",
     "verified": true
   },
   {

@@ -1,12 +1,122 @@
 [
-  { "id": "mo1", "name": "Moazzam", "gender": "Boy", "meaning": "Respected, exalted", "origin": "Arabic", "verified": true },
-  { "id": "mo2", "name": "Moeen", "gender": "Boy", "meaning": "Helper, supporter", "origin": "Arabic", "verified": true },
-  { "id": "mo3", "name": "Mohammad", "gender": "Boy", "meaning": "Praised (Variant of Muhammad)", "origin": "Arabic", "verified": true },
-  { "id": "mo4", "name": "Mohammed", "gender": "Boy", "meaning": "Praised (Variant of Muhammad)", "origin": "Arabic", "verified": true },
-  { "id": "mo5", "name": "Mohsin", "gender": "Boy", "meaning": "Helper, humanitarian", "origin": "Arabic", "verified": true },
-  { "id": "mo6", "name": "Moiz", "gender": "Boy", "meaning": "One who gives honor", "origin": "Arabic", "verified": true },
-  { "id": "mo7", "name": "Mona", "gender": "Girl", "meaning": "Wish, desire (Variant of Muna)", "origin": "Arabic", "verified": true },
-  { "id": "mo8", "name": "Monir", "gender": "Boy", "meaning": "Shining (Variant of Munir)", "origin": "Arabic", "verified": true },
-  { "id": "mo9", "name": "Mounir", "gender": "Boy", "meaning": "Shining, luminous", "origin": "Arabic", "verified": true },
-  { "id": "mo10", "name": "Mousa", "gender": "Boy", "meaning": "Moses (Variant of Musa)", "origin": "Arabic", "verified": true }
+  {
+    "id": "mo1",
+    "name": "Moazzam",
+    "gender": "Boy",
+    "meaning": "Respected, exalted",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo2",
+    "name": "Moeen",
+    "gender": "Boy",
+    "meaning": "Helper, supporter",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo3",
+    "name": "Mohammad",
+    "gender": "Boy",
+    "meaning": "Praised (Variant of Muhammad)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo4",
+    "name": "Mohammed",
+    "gender": "Boy",
+    "meaning": "Praised (Variant of Muhammad)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mohi",
+    "gender": "Boy",
+    "meaning": "Reviver (Mohiuddin)",
+    "origin": "Arabic",
+    "id": "mo11",
+    "verified": true
+  },
+  {
+    "name": "Mohi-ud-Din",
+    "gender": "Boy",
+    "meaning": "Reviver of the Faith",
+    "origin": "Arabic",
+    "id": "mo14",
+    "verified": true
+  },
+  {
+    "id": "mo5",
+    "name": "Mohsin",
+    "gender": "Boy",
+    "meaning": "Helper, humanitarian",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Moin",
+    "gender": "Boy",
+    "meaning": "Helper (Moinuddin)",
+    "origin": "Arabic",
+    "id": "mo12",
+    "verified": true
+  },
+  {
+    "name": "Moin-ud-Din",
+    "gender": "Boy",
+    "meaning": "Helper of the Faith",
+    "origin": "Arabic",
+    "id": "mo15",
+    "verified": true
+  },
+  {
+    "id": "mo6",
+    "name": "Moiz",
+    "gender": "Boy",
+    "meaning": "One who gives honor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Momin",
+    "gender": "Boy",
+    "meaning": "Believer",
+    "origin": "Arabic",
+    "id": "mo13",
+    "verified": true
+  },
+  {
+    "id": "mo7",
+    "name": "Mona",
+    "gender": "Girl",
+    "meaning": "Wish, desire (Variant of Muna)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo8",
+    "name": "Monir",
+    "gender": "Boy",
+    "meaning": "Shining (Variant of Munir)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo9",
+    "name": "Mounir",
+    "gender": "Boy",
+    "meaning": "Shining, luminous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "mo10",
+    "name": "Mousa",
+    "gender": "Boy",
+    "meaning": "Moses (Variant of Musa)",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

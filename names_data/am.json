@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Amanat",
+    "gender": "Boy",
+    "meaning": "Trust; Deposit",
+    "origin": "Urdu",
+    "id": "am32",
+    "verified": true
+  },
+  {
     "id": "am6",
     "name": "Amani",
     "gender": "Girl",
@@ -112,6 +120,14 @@
     "verified": true
   },
   {
+    "name": "Ameen-ul-Ummah",
+    "gender": "Boy",
+    "meaning": "Trustee of the Community (Title of Abu Ubaidah)",
+    "origin": "Islamic History",
+    "id": "am33",
+    "verified": true
+  },
+  {
     "id": "am14",
     "name": "Ameera",
     "gender": "Girl",
@@ -160,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Amin-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Trustee of the Truth",
+    "origin": "Arabic",
+    "id": "am34",
+    "verified": true
+  },
+  {
     "id": "am20",
     "name": "Amina",
     "gender": "Girl",
@@ -173,6 +197,14 @@
     "gender": "Boy",
     "meaning": "Prince, commander",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Amir-ul-Momineen",
+    "gender": "Boy",
+    "meaning": "Commander of the Faithful",
+    "origin": "Islamic History",
+    "id": "am35",
     "verified": true
   },
   {

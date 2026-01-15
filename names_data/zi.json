@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Zia-ud-Din",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "id": "zi13",
+    "verified": true
+  },
+  {
+    "name": "Zia-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Light of the Truth",
+    "origin": "Arabic",
+    "id": "zi14",
+    "verified": true
+  },
+  {
     "id": "zi1",
     "name": "Ziad",
     "gender": "Boy",

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Sha'ban",
+    "gender": "Boy",
+    "meaning": "8th Islamic Month",
+    "origin": "Arabic",
+    "id": "sh84",
+    "verified": true
+  },
+  {
     "id": "sh1",
     "name": "Shaaban",
     "gender": "Boy",
@@ -13,6 +21,14 @@
     "gender": "Girl",
     "meaning": "Famous",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shabbir",
+    "gender": "Boy",
+    "meaning": "Beautiful, virtuous",
+    "origin": "Arabic",
+    "id": "sh75",
     "verified": true
   },
   {
@@ -104,11 +120,27 @@
     "verified": true
   },
   {
+    "name": "Shafi-ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Intercessor of the Merciful",
+    "origin": "Arabic",
+    "id": "sh85",
+    "verified": true
+  },
+  {
     "id": "sh12",
     "name": "Shafiq",
     "gender": "Boy",
     "meaning": "Compassionate, kind",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shafiq-ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Compassionate of the Merciful",
+    "origin": "Arabic",
+    "id": "sh86",
     "verified": true
   },
   {
@@ -133,6 +165,14 @@
     "gender": "Boy",
     "meaning": "King",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shah-Jahan",
+    "gender": "Boy",
+    "meaning": "King of the World",
+    "origin": "Persian",
+    "id": "sh87",
     "verified": true
   },
   {
@@ -248,6 +288,14 @@
     "verified": true
   },
   {
+    "name": "Shahzaib",
+    "gender": "Boy",
+    "meaning": "Crown of a king",
+    "origin": "Urdu",
+    "id": "sh76",
+    "verified": true
+  },
+  {
     "id": "sh26",
     "name": "Shaila",
     "gender": "Girl",
@@ -352,11 +400,51 @@
     "verified": true
   },
   {
+    "name": "Shams-ud-Din",
+    "gender": "Boy",
+    "meaning": "Sun of the Faith",
+    "origin": "Arabic",
+    "id": "sh88",
+    "verified": true
+  },
+  {
+    "name": "Shams-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Sun of the Truth",
+    "origin": "Arabic",
+    "id": "sh89",
+    "verified": true
+  },
+  {
+    "name": "Shamshad",
+    "gender": "Boy",
+    "meaning": "Box tree (Tall)",
+    "origin": "Persian",
+    "id": "sh77",
+    "verified": true
+  },
+  {
+    "name": "Shamsher",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Persian",
+    "id": "sh78",
+    "verified": true
+  },
+  {
     "id": "sh38",
     "name": "Shamsuddin",
     "gender": "Boy",
     "meaning": "Sun of the Faith",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shamu",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Urdu",
+    "id": "sh79",
     "verified": true
   },
   {
@@ -440,6 +528,14 @@
     "verified": true
   },
   {
+    "name": "Shaukat",
+    "gender": "Boy",
+    "meaning": "Dignity, power",
+    "origin": "Arabic",
+    "id": "sh80",
+    "verified": true
+  },
+  {
     "name": "Shawq",
     "gender": "Girl",
     "meaning": "Longing",
@@ -456,6 +552,22 @@
     "verified": true
   },
   {
+    "name": "Sheeba",
+    "gender": "Girl",
+    "meaning": "Infatuated",
+    "origin": "Persian",
+    "id": "sh81",
+    "verified": true
+  },
+  {
+    "name": "Shehnaz",
+    "gender": "Girl",
+    "meaning": "Pride of a King",
+    "origin": "Persian",
+    "id": "sh82",
+    "verified": true
+  },
+  {
     "id": "sh48",
     "name": "Shehrazad",
     "gender": "Girl",
@@ -464,11 +576,35 @@
     "verified": true
   },
   {
+    "name": "Sheikh",
+    "gender": "Boy",
+    "meaning": "Chief, Elder",
+    "origin": "Arabic",
+    "id": "sh90",
+    "verified": true
+  },
+  {
     "id": "sh49",
     "name": "Sher",
     "gender": "Boy",
     "meaning": "Lion",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sher-Ali",
+    "gender": "Boy",
+    "meaning": "Lion of Ali",
+    "origin": "Persian",
+    "id": "sh91",
+    "verified": true
+  },
+  {
+    "name": "Sher-Khan",
+    "gender": "Boy",
+    "meaning": "Lion King",
+    "origin": "Persian/Turkic",
+    "id": "sh92",
     "verified": true
   },
   {
@@ -560,6 +696,14 @@
     "verified": true
   },
   {
+    "name": "Shugufta",
+    "gender": "Girl",
+    "meaning": "Blooming",
+    "origin": "Persian",
+    "id": "sh83",
+    "verified": true
+  },
+  {
     "id": "sh57",
     "name": "Shuhrah",
     "gender": "Girl",
@@ -573,6 +717,14 @@
     "gender": "Boy",
     "meaning": "Brave",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shuja-ud-Din",
+    "gender": "Boy",
+    "meaning": "Bravery of the Faith",
+    "origin": "Arabic",
+    "id": "sh93",
     "verified": true
   },
   {

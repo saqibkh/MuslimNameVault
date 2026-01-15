@@ -80,6 +80,14 @@
     "verified": true
   },
   {
+    "name": "Areeb",
+    "gender": "Boy",
+    "meaning": "Wise, intelligent",
+    "origin": "Arabic",
+    "id": "ar36",
+    "verified": true
+  },
+  {
     "id": "ar8",
     "name": "Areed",
     "gender": "Boy",
@@ -181,6 +189,14 @@
     "gender": "Girl",
     "meaning": "Noble, honorable",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Armaghan",
+    "gender": "Boy",
+    "meaning": "Gift, present",
+    "origin": "Persian",
+    "id": "ar35",
     "verified": true
   },
   {

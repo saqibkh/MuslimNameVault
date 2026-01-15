@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Habib-ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Beloved of the Merciful",
+    "origin": "Arabic",
+    "id": "ha119",
+    "verified": true
+  },
+  {
     "id": "ha2",
     "name": "Habiba",
     "gender": "Girl",
@@ -29,6 +37,14 @@
     "gender": "Girl",
     "meaning": "Beloved",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Habibullah",
+    "gender": "Boy",
+    "meaning": "Beloved of Allah",
+    "origin": "Arabic",
+    "id": "ha110",
     "verified": true
   },
   {
@@ -184,6 +200,14 @@
     "verified": true
   },
   {
+    "name": "Haif",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "ha120",
+    "verified": true
+  },
+  {
     "id": "ha15",
     "name": "Haifa",
     "gender": "Girl",
@@ -224,6 +248,14 @@
     "verified": true
   },
   {
+    "name": "Haji",
+    "gender": "Boy",
+    "meaning": "Pilgrim",
+    "origin": "Arabic",
+    "id": "ha121",
+    "verified": true
+  },
+  {
     "id": "ha18",
     "name": "Hajjaj",
     "gender": "Boy",
@@ -237,6 +269,14 @@
     "gender": "Boy",
     "meaning": "Arbitrator, judge",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hakan",
+    "gender": "Boy",
+    "meaning": "Ruler, Emperor",
+    "origin": "Turkish",
+    "id": "ha111",
     "verified": true
   },
   {
@@ -320,6 +360,14 @@
     "verified": true
   },
   {
+    "name": "Hamayun",
+    "gender": "Boy",
+    "meaning": "Blessed, royal",
+    "origin": "Persian",
+    "id": "ha112",
+    "verified": true
+  },
+  {
     "id": "ha25",
     "name": "Hamdan",
     "gender": "Boy",
@@ -341,6 +389,14 @@
     "gender": "Girl",
     "meaning": "One who praises a lot",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hameed",
+    "gender": "Boy",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha113",
     "verified": true
   },
   {
@@ -440,6 +496,14 @@
     "verified": true
   },
   {
+    "name": "Hande",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Turkish",
+    "id": "ha114",
+    "verified": true
+  },
+  {
     "id": "ha35",
     "name": "Haneef",
     "gender": "Boy",
@@ -536,11 +600,27 @@
     "verified": true
   },
   {
+    "name": "Haq-Nawaz",
+    "gender": "Boy",
+    "meaning": "Cherisher of Truth",
+    "origin": "Persian/Arabic",
+    "id": "ha122",
+    "verified": true
+  },
+  {
     "name": "Haram",
     "gender": "Boy",
     "meaning": "Sanctuary (Masjid al-Haram)",
     "origin": "Arabic",
     "id": "ha103",
+    "verified": true
+  },
+  {
+    "name": "Harb",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Arabic",
+    "id": "ha123",
     "verified": true
   },
   {
@@ -608,6 +688,22 @@
     "verified": true
   },
   {
+    "name": "Haseeb",
+    "gender": "Boy",
+    "meaning": "Noble, respected",
+    "origin": "Arabic",
+    "id": "ha115",
+    "verified": true
+  },
+  {
+    "name": "Haseeb-ud-Din",
+    "gender": "Boy",
+    "meaning": "Noble of the Faith",
+    "origin": "Arabic",
+    "id": "ha124",
+    "verified": true
+  },
+  {
     "id": "ha50",
     "name": "Hashem",
     "gender": "Boy",
@@ -621,6 +717,14 @@
     "gender": "Boy",
     "meaning": "Crusher (of evil); Great grandfather of Prophet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hashmat",
+    "gender": "Boy",
+    "meaning": "Dignity, glory",
+    "origin": "Urdu",
+    "id": "ha116",
     "verified": true
   },
   {
@@ -661,6 +765,14 @@
     "gender": "Girl",
     "meaning": "Beautiful woman",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hasnain",
+    "gender": "Boy",
+    "meaning": "The two beauties (Hasan & Husain)",
+    "origin": "Arabic",
+    "id": "ha117",
     "verified": true
   },
   {
@@ -805,6 +917,14 @@
     "gender": "Boy",
     "meaning": "Young eagle",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hazal",
+    "gender": "Girl",
+    "meaning": "Autumn leaves",
+    "origin": "Turkish",
+    "id": "ha118",
     "verified": true
   },
   {

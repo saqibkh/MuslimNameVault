@@ -1,7 +1,50 @@
 [
-  { "id": "ko1", "name": "Kohinoor", "gender": "Girl", "meaning": "Mountain of light", "origin": "Persian", "verified": true },
-  { "id": "ko2", "name": "Komal", "gender": "Girl", "meaning": "Soft, delicate", "origin": "Urdu/Persian", "verified": true },
-  { "id": "ko3", "name": "Konain", "gender": "Unisex", "meaning": "Two worlds (Here and Hereafter)", "origin": "Arabic", "verified": true },
-  { "id": "ko4", "name": "Koukab", "gender": "Unisex", "meaning": "Star", "origin": "Arabic", "verified": true },
-  { "id": "ko5", "name": "Kouser", "gender": "Girl", "meaning": "River in Paradise", "origin": "Arabic", "verified": true }
+  {
+    "id": "ko1",
+    "name": "Kohinoor",
+    "gender": "Girl",
+    "meaning": "Mountain of light",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ko2",
+    "name": "Komal",
+    "gender": "Girl",
+    "meaning": "Soft, delicate",
+    "origin": "Urdu/Persian",
+    "verified": true
+  },
+  {
+    "id": "ko3",
+    "name": "Konain",
+    "gender": "Unisex",
+    "meaning": "Two worlds (Here and Hereafter)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Koray",
+    "gender": "Boy",
+    "meaning": "Ember moon",
+    "origin": "Turkish",
+    "id": "ko6",
+    "verified": true
+  },
+  {
+    "id": "ko4",
+    "name": "Koukab",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ko5",
+    "name": "Kouser",
+    "gender": "Girl",
+    "meaning": "River in Paradise",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

@@ -72,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Asfandyar",
+    "gender": "Boy",
+    "meaning": "The Holy created Knight",
+    "origin": "Persian",
+    "id": "as33",
+    "verified": true
+  },
+  {
     "id": "as9",
     "name": "Asghar",
     "gender": "Boy",
@@ -120,11 +128,27 @@
     "verified": true
   },
   {
+    "name": "Ashkan",
+    "gender": "Boy",
+    "meaning": "Name of an ancient Persian King",
+    "origin": "Persian",
+    "id": "as34",
+    "verified": true
+  },
+  {
     "id": "as15",
     "name": "Ashraf",
     "gender": "Boy",
     "meaning": "Most honorable",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ashura",
+    "gender": "Girl",
+    "meaning": "10th of Muharram",
+    "origin": "Islamic History",
+    "id": "as35",
     "verified": true
   },
   {
@@ -205,6 +229,14 @@
     "gender": "Girl",
     "meaning": "Beautiful butterfly",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Asr",
+    "gender": "Unisex",
+    "meaning": "Time; Afternoon",
+    "origin": "Quranic",
+    "id": "as36",
     "verified": true
   },
   {

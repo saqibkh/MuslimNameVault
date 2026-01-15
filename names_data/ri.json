@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Riaz-ud-Din",
+    "gender": "Boy",
+    "meaning": "Gardens of the Faith",
+    "origin": "Arabic",
+    "id": "ri18",
+    "verified": true
+  },
+  {
     "id": "ri2",
     "name": "Rida",
     "gender": "Unisex",
@@ -109,6 +117,14 @@
     "gender": "Boy",
     "meaning": "Gardens",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Riza",
+    "gender": "Boy",
+    "meaning": "Satisfaction",
+    "origin": "Turkish",
+    "id": "ri17",
     "verified": true
   },
   {

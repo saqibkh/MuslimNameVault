@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Nabi",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "na97",
+    "verified": true
+  },
+  {
     "id": "na4",
     "name": "Nabih",
     "gender": "Boy",
@@ -168,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Naghma",
+    "gender": "Girl",
+    "meaning": "Melody",
+    "origin": "Urdu",
+    "id": "na98",
+    "verified": true
+  },
+  {
     "id": "na21",
     "name": "Nagib",
     "gender": "Boy",
@@ -296,6 +312,14 @@
     "verified": true
   },
   {
+    "name": "Najam",
+    "gender": "Boy",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "na99",
+    "verified": true
+  },
+  {
     "id": "na33",
     "name": "Najat",
     "gender": "Girl",
@@ -309,6 +333,22 @@
     "meaning": "Highland; Region in Arabia",
     "origin": "Arabic",
     "id": "na89",
+    "verified": true
+  },
+  {
+    "name": "Najeeb",
+    "gender": "Boy",
+    "meaning": "Excellent, noble",
+    "origin": "Arabic",
+    "id": "na100",
+    "verified": true
+  },
+  {
+    "name": "Naji",
+    "gender": "Boy",
+    "meaning": "Safe, survivor",
+    "origin": "Arabic",
+    "id": "na101",
     "verified": true
   },
   {
@@ -349,6 +389,22 @@
     "gender": "Boy",
     "meaning": "Star",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Najm-ud-Din",
+    "gender": "Boy",
+    "meaning": "Star of the Faith",
+    "origin": "Arabic",
+    "id": "na110",
+    "verified": true
+  },
+  {
+    "name": "Najm-ul-Hasan",
+    "gender": "Boy",
+    "meaning": "Star of Beauty",
+    "origin": "Arabic",
+    "id": "na111",
     "verified": true
   },
   {
@@ -408,11 +464,27 @@
     "verified": true
   },
   {
+    "name": "Namra",
+    "gender": "Girl",
+    "meaning": "Leopard; Tigress",
+    "origin": "Arabic",
+    "id": "na102",
+    "verified": true
+  },
+  {
     "name": "Naqa",
     "gender": "Girl",
     "meaning": "Purity; Sand dune",
     "origin": "Arabic",
     "id": "na92",
+    "verified": true
+  },
+  {
+    "name": "Naqeeb",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "na112",
     "verified": true
   },
   {
@@ -429,6 +501,14 @@
     "gender": "Boy",
     "meaning": "Leader",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Naqvi",
+    "gender": "Boy",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "na103",
     "verified": true
   },
   {
@@ -536,6 +616,14 @@
     "verified": true
   },
   {
+    "name": "Nasir-ud-Din",
+    "gender": "Boy",
+    "meaning": "Helper of the Faith",
+    "origin": "Arabic",
+    "id": "na113",
+    "verified": true
+  },
+  {
     "id": "na58",
     "name": "Nasira",
     "gender": "Girl",
@@ -576,6 +664,14 @@
     "verified": true
   },
   {
+    "name": "Nasrullah",
+    "gender": "Boy",
+    "meaning": "Victory of God",
+    "origin": "Arabic",
+    "id": "na104",
+    "verified": true
+  },
+  {
     "id": "na63",
     "name": "Natasha",
     "gender": "Girl",
@@ -589,6 +685,22 @@
     "gender": "Boy",
     "meaning": "Warner",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Naubahar",
+    "gender": "Girl",
+    "meaning": "Early spring",
+    "origin": "Persian",
+    "id": "na105",
+    "verified": true
+  },
+  {
+    "name": "Naureen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "na106",
     "verified": true
   },
   {
@@ -613,6 +725,14 @@
     "meaning": "Good news",
     "origin": "Persian",
     "id": "na96",
+    "verified": true
+  },
+  {
+    "name": "Nawab",
+    "gender": "Boy",
+    "meaning": "Ruler, Deputy",
+    "origin": "Urdu/Arabic",
+    "id": "na114",
     "verified": true
   },
   {
@@ -688,11 +808,27 @@
     "verified": true
   },
   {
+    "name": "Nayyar",
+    "gender": "Boy",
+    "meaning": "Bright star; Sun",
+    "origin": "Arabic",
+    "id": "na107",
+    "verified": true
+  },
+  {
     "id": "na75",
     "name": "Naz",
     "gender": "Girl",
     "meaning": "Pride, coquetry",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Nazakat",
+    "gender": "Girl",
+    "meaning": "Delicacy",
+    "origin": "Urdu",
+    "id": "na108",
     "verified": true
   },
   {
@@ -741,6 +877,14 @@
     "gender": "Girl",
     "meaning": "Like, equal",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nazma",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "na109",
     "verified": true
   },
   {

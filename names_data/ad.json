@@ -1,5 +1,13 @@
 [
   {
+    "name": "Adab",
+    "gender": "Unisex",
+    "meaning": "Respect, etiquette",
+    "origin": "Arabic",
+    "id": "ad27",
+    "verified": true
+  },
+  {
     "id": "ad1",
     "name": "Adam",
     "gender": "Boy",

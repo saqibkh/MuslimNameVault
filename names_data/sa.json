@@ -16,11 +16,27 @@
     "verified": true
   },
   {
+    "name": "Saadat",
+    "gender": "Boy",
+    "meaning": "Blessing, honor",
+    "origin": "Arabic",
+    "id": "sa112",
+    "verified": true
+  },
+  {
     "id": "sa2",
     "name": "Saadia",
     "gender": "Girl",
     "meaning": "Lucky, blessed",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saaqib",
+    "gender": "Boy",
+    "meaning": "Piercing star",
+    "origin": "Quranic",
+    "id": "sa124",
     "verified": true
   },
   {
@@ -48,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Sabah-ud-Din",
+    "gender": "Boy",
+    "meaning": "Morning of the Faith",
+    "origin": "Arabic",
+    "id": "sa125",
+    "verified": true
+  },
+  {
     "id": "sa4",
     "name": "Sabahat",
     "gender": "Girl",
@@ -56,11 +80,27 @@
     "verified": true
   },
   {
+    "name": "Sabawat",
+    "gender": "Boy",
+    "meaning": "Dawn",
+    "origin": "Pashto",
+    "id": "sa113",
+    "verified": true
+  },
+  {
     "id": "sa6",
     "name": "Sabeeh",
     "gender": "Boy",
     "meaning": "Beautiful, morning",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sabeeha",
+    "gender": "Girl",
+    "meaning": "Beautiful, morning",
+    "origin": "Arabic",
+    "id": "sa114",
     "verified": true
   },
   {
@@ -93,6 +133,14 @@
     "gender": "Girl",
     "meaning": "Patient",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Saboor",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Arabic",
+    "id": "sa115",
     "verified": true
   },
   {
@@ -136,6 +184,22 @@
     "verified": true
   },
   {
+    "name": "Sadaf",
+    "gender": "Girl",
+    "meaning": "Seashell, pearl",
+    "origin": "Arabic",
+    "id": "sa116",
+    "verified": true
+  },
+  {
+    "name": "Sadaqat",
+    "gender": "Boy",
+    "meaning": "Truthfulness",
+    "origin": "Arabic",
+    "id": "sa126",
+    "verified": true
+  },
+  {
     "id": "sa15",
     "name": "Sadia",
     "gender": "Girl",
@@ -160,11 +224,27 @@
     "verified": true
   },
   {
+    "name": "Sadr-ud-Din",
+    "gender": "Boy",
+    "meaning": "Chest (Center) of the Faith",
+    "origin": "Arabic",
+    "id": "sa127",
+    "verified": true
+  },
+  {
     "id": "sa18",
     "name": "Saeed",
     "gender": "Boy",
     "meaning": "Happy, lucky",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Saeed-uz-Zaman",
+    "gender": "Boy",
+    "meaning": "Lucky one of the Era",
+    "origin": "Arabic",
+    "id": "sa128",
     "verified": true
   },
   {
@@ -189,6 +269,14 @@
     "meaning": "City in Palestine",
     "origin": "Arabic",
     "id": "sa99",
+    "verified": true
+  },
+  {
+    "name": "Safdar",
+    "gender": "Boy",
+    "meaning": "Brave fighter",
+    "origin": "Persian",
+    "id": "sa117",
     "verified": true
   },
   {
@@ -221,6 +309,14 @@
     "gender": "Boy",
     "meaning": "Ambassador, mediator",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safiullah",
+    "gender": "Boy",
+    "meaning": "Pure one of God",
+    "origin": "Arabic",
+    "id": "sa118",
     "verified": true
   },
   {
@@ -344,6 +440,14 @@
     "verified": true
   },
   {
+    "name": "Saif-ud-Din",
+    "gender": "Boy",
+    "meaning": "Sword of the Faith",
+    "origin": "Arabic",
+    "id": "sa129",
+    "verified": true
+  },
+  {
     "id": "sa36",
     "name": "Saifullah",
     "gender": "Boy",
@@ -408,6 +512,14 @@
     "verified": true
   },
   {
+    "name": "Salah-ud-Din",
+    "gender": "Boy",
+    "meaning": "Righteousness of the Faith (Saladin)",
+    "origin": "Arabic",
+    "id": "sa130",
+    "verified": true
+  },
+  {
     "id": "sa44",
     "name": "Salahuddin",
     "gender": "Boy",
@@ -429,6 +541,14 @@
     "gender": "Unisex",
     "meaning": "Safety",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Salamat",
+    "gender": "Boy",
+    "meaning": "Safety",
+    "origin": "Arabic",
+    "id": "sa119",
     "verified": true
   },
   {
@@ -600,6 +720,14 @@
     "verified": true
   },
   {
+    "name": "Sami-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Listener of the Truth",
+    "origin": "Arabic",
+    "id": "sa131",
+    "verified": true
+  },
+  {
     "id": "sa67",
     "name": "Samia",
     "gender": "Girl",
@@ -653,6 +781,14 @@
     "gender": "Boy",
     "meaning": "Quiet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Samiullah",
+    "gender": "Boy",
+    "meaning": "One who hears God",
+    "origin": "Arabic",
+    "id": "sa120",
     "verified": true
   },
   {
@@ -760,6 +896,22 @@
     "verified": true
   },
   {
+    "name": "Sarem",
+    "gender": "Boy",
+    "meaning": "Brave; Sharp Sword",
+    "origin": "Arabic",
+    "id": "sa132",
+    "verified": true
+  },
+  {
+    "name": "Sarfaraz",
+    "gender": "Boy",
+    "meaning": "Respected, head held high",
+    "origin": "Persian",
+    "id": "sa133",
+    "verified": true
+  },
+  {
     "id": "sa84",
     "name": "Sari",
     "gender": "Boy",
@@ -800,6 +952,22 @@
     "verified": true
   },
   {
+    "name": "Sarp",
+    "gender": "Boy",
+    "meaning": "Steep, strong",
+    "origin": "Turkish",
+    "id": "sa121",
+    "verified": true
+  },
+  {
+    "name": "Sartaj",
+    "gender": "Boy",
+    "meaning": "Crown head; Chief",
+    "origin": "Urdu",
+    "id": "sa134",
+    "verified": true
+  },
+  {
     "id": "sa89",
     "name": "Sarwar",
     "gender": "Boy",
@@ -824,6 +992,14 @@
     "verified": true
   },
   {
+    "name": "Sattar",
+    "gender": "Boy",
+    "meaning": "Veiler of sins",
+    "origin": "Arabic",
+    "id": "sa122",
+    "verified": true
+  },
+  {
     "id": "sa91",
     "name": "Saud",
     "gender": "Boy",
@@ -837,6 +1013,14 @@
     "gender": "Girl",
     "meaning": "Black; Wife of the Prophet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sawera",
+    "gender": "Girl",
+    "meaning": "Morning",
+    "origin": "Urdu",
+    "id": "sa123",
     "verified": true
   },
   {

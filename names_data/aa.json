@@ -1,102 +1,1426 @@
 [
-  { "id": "aa1", "name": "Aaban", "transliteration": "A'bān", "arabic_spelling": "أبان", "gender": "Boy", "meaning": "Clear, eloquent, distinct; Name of an Angel", "origin": "Arabic", "tags": ["Classic", "Angel"], "verified": true },
-  { "id": "aa2", "name": "Aabdar", "transliteration": "Ābdār", "arabic_spelling": "آبدار", "gender": "Boy", "meaning": "Bright like moonlight, lustrous", "origin": "Persian", "tags": ["Nature", "Beauty"], "verified": true },
-  { "id": "aa3", "name": "Aabid", "transliteration": "‘Ābid", "arabic_spelling": "عابد", "gender": "Boy", "meaning": "Worshipper, adorer, devout", "origin": "Arabic", "tags": ["Religious", "Quranic Root"], "verified": true },
-  { "id": "aa4", "name": "Aabidah", "transliteration": "‘Ābidah", "arabic_spelling": "عابدة", "gender": "Girl", "meaning": "Worshipper, devout", "origin": "Arabic", "tags": ["Religious", "Virtue"], "verified": true },
-  { "id": "aa5", "name": "Aabideen", "transliteration": "‘Ābidīn", "arabic_spelling": "عابدين", "gender": "Boy", "meaning": "Worshippers (Plural of Aabid)", "origin": "Arabic", "tags": ["Religious", "Classic"], "verified": true },
-  { "id": "aa6", "name": "Aabis", "transliteration": "‘Ābis", "arabic_spelling": "عابس", "gender": "Boy", "meaning": "Stern, austere; Name of a companion", "origin": "Arabic", "tags": ["Sahaba", "History"], "verified": true },
-  { "id": "aa7", "name": "Aabish", "transliteration": "Aabish", "arabic_spelling": "آبش", "gender": "Girl", "meaning": "Daughter of Sa'd; A Queen of Iran", "origin": "Persian", "tags": ["Royal", "History"], "verified": true },
-  { "id": "aa8", "name": "Aad", "transliteration": "‘Ād", "arabic_spelling": "عاد", "gender": "Boy", "meaning": "Return, ancient tribe mentioned in Quran", "origin": "Quranic", "tags": ["Quranic", "History"], "verified": true },
-  { "id": "aa9", "name": "Aada", "transliteration": "Āda", "arabic_spelling": "آدا", "gender": "Girl", "meaning": "Adornment, noble one", "origin": "Arabic", "tags": ["Beauty", "Modern"], "verified": true },
-  { "id": "aa10", "name": "Aadab", "transliteration": "Ādāb", "arabic_spelling": "آداب", "gender": "Girl", "meaning": "Hope, need, manners", "origin": "Arabic", "tags": ["Virtue", "Classic"], "verified": true },
-  { "id": "aa11", "name": "Aadam", "transliteration": "Ādam", "arabic_spelling": "آدم", "gender": "Boy", "meaning": "First Human, Earth", "origin": "Quranic", "tags": ["Prophet", "Universal"], "verified": true },
-  { "id": "aa12", "name": "Aadeel", "transliteration": "‘Ādil", "arabic_spelling": "عادل", "gender": "Boy", "meaning": "Just, upright (Variant of Aadil)", "origin": "Arabic", "tags": ["Virtue", "Justice"], "verified": true },
-  { "id": "aa13", "name": "Aadhil", "transliteration": "‘Ādil", "arabic_spelling": "عادل", "gender": "Boy", "meaning": "Honorable judge, justice", "origin": "Arabic", "tags": ["Virtue", "Justice"], "verified": true },
-  { "id": "aa14", "name": "Aadi", "transliteration": "‘Ādī", "arabic_spelling": "عادي", "gender": "Boy", "meaning": "Beginning, first", "origin": "Arabic", "tags": ["Modern", "Short"], "verified": true },
-  { "id": "aa15", "name": "Aadil", "transliteration": "‘Ādil", "arabic_spelling": "عادل", "gender": "Boy", "meaning": "Just, upright, honest", "origin": "Arabic", "tags": ["Virtue", "Popular"], "verified": true },
-  { "id": "aa16", "name": "Aadila", "transliteration": "‘Ādilah", "arabic_spelling": "عادلة", "gender": "Girl", "meaning": "Just, honest, equal", "origin": "Arabic", "tags": ["Virtue", "Classic"], "verified": true },
-  { "id": "aa17", "name": "Aaeedah", "transliteration": "‘Ā’idah", "arabic_spelling": "عائدة", "gender": "Girl", "meaning": "Visiting, returning, reward", "origin": "Arabic", "tags": ["Classic", "Unique"], "verified": true },
-  { "id": "aa18", "name": "Aaeesha", "transliteration": "‘Ā’ishah", "arabic_spelling": "عائشة", "gender": "Girl", "meaning": "Life, Vivaciousness (Variant of Aisha)", "origin": "Arabic", "tags": ["Sahaba", "Popular"], "verified": true },
-  { "id": "aa19", "name": "Aafaaq", "transliteration": "Āfāq", "arabic_spelling": "آفاق", "gender": "Boy", "meaning": "Horizons, world", "origin": "Arabic", "tags": ["Nature", "Modern"], "verified": true },
-  { "id": "aa20", "name": "Aafia", "transliteration": "‘Āfiyah", "arabic_spelling": "عافية", "gender": "Girl", "meaning": "Good health, well-being", "origin": "Arabic", "tags": ["Health", "Popular"], "verified": true },
-  { "id": "aa21", "name": "Aafiyah", "transliteration": "‘Āfiyah", "arabic_spelling": "عافية", "gender": "Girl", "meaning": "Vigor, vitality, health", "origin": "Arabic", "tags": ["Health", "Virtue"], "verified": true },
-  { "id": "aa22", "name": "Aafreeda", "transliteration": "Āfrīdah", "arabic_spelling": "آفريدة", "gender": "Girl", "meaning": "Created, produced", "origin": "Persian", "tags": ["Creation", "Rare"], "verified": true },
-  { "id": "aa23", "name": "Aafreen", "transliteration": "Āfrīn", "arabic_spelling": "آفرين", "gender": "Girl", "meaning": "Brave, praise, lucky", "origin": "Persian", "tags": ["Beauty", "Praise"], "verified": true },
-  { "id": "aa24", "name": "Aaftab", "transliteration": "Āftāb", "arabic_spelling": "آفتاب", "gender": "Boy", "meaning": "Sun, sunlight", "origin": "Persian", "tags": ["Nature", "Celestial"], "verified": true },
-  { "id": "aa25", "name": "Aagha", "transliteration": "Āghā", "arabic_spelling": "آغا", "gender": "Boy", "meaning": "Master, lord, chief", "origin": "Turkish", "tags": ["Title", "Leadership"], "verified": true },
-  { "id": "aa26", "name": "Aahad", "transliteration": "Aḥad", "arabic_spelling": "أحد", "gender": "Boy", "meaning": "One, unique (Attribute of Allah)", "origin": "Quranic", "tags": ["Religious", "Attribute"], "verified": true },
-  { "id": "aa27", "name": "Aahid", "transliteration": "‘Āhid", "arabic_spelling": "عاهد", "gender": "Boy", "meaning": "One who promises", "origin": "Arabic", "tags": ["Virtue", "Rare"], "verified": true },
-  { "id": "aa28", "name": "Aahil", "transliteration": "‘Āhil", "arabic_spelling": "عاهل", "gender": "Boy", "meaning": "Prince, great king", "origin": "Arabic", "tags": ["Royal", "Leadership"], "verified": true },
-  { "id": "aa29", "name": "Aahir", "transliteration": "Āhir", "arabic_spelling": "آهر", "gender": "Boy", "meaning": "Dazzling, brilliant", "origin": "Arabic", "tags": ["Light", "Beauty"], "verified": true },
-  { "id": "aa30", "name": "Aaida", "transliteration": "‘Ā’idah", "arabic_spelling": "عائدة", "gender": "Girl", "meaning": "Returning, reward, guest", "origin": "Arabic", "tags": ["Classic", "Hospitality"], "verified": true },
-  { "id": "aa31", "name": "Aaila", "transliteration": "Ā’ila", "arabic_spelling": "آئلة", "gender": "Girl", "meaning": "Beautiful, moon-like", "origin": "Arabic", "tags": ["Beauty", "Celestial"], "verified": true },
-  { "id": "aa32", "name": "Aaima", "transliteration": "A’immah", "arabic_spelling": "أئمة", "gender": "Girl", "meaning": "Leader, supreme leader", "origin": "Arabic", "tags": ["Leadership", "Unique"], "verified": true },
-  { "id": "aa33", "name": "Aaira", "transliteration": "A’irā", "arabic_spelling": "آيرا", "gender": "Girl", "meaning": "Noble, respectful", "origin": "Arabic", "tags": ["Virtue", "Modern"], "verified": true },
-  { "id": "aa34", "name": "Aakif", "transliteration": "‘Ākif", "arabic_spelling": "عاكف", "gender": "Boy", "meaning": "Devoted, attached", "origin": "Quranic", "tags": ["Religious", "Virtue"], "verified": true },
-  { "id": "aa35", "name": "Aakifah", "transliteration": "‘Ākifah", "arabic_spelling": "عاكفة", "gender": "Girl", "meaning": "Devoted, dedicated woman", "origin": "Quranic", "tags": ["Religious", "Virtue"], "verified": true },
-  { "id": "aa36", "name": "Aakrama", "transliteration": "‘Akrama", "arabic_spelling": "عكرمة", "gender": "Boy", "meaning": "Female pigeon; Name of a companion", "origin": "Arabic", "tags": ["Sahaba", "History"], "verified": true },
-  { "id": "aa37", "name": "Aalam", "transliteration": "‘Ālam", "arabic_spelling": "عالم", "gender": "Boy", "meaning": "World, universe", "origin": "Arabic", "tags": ["Nature", "Grand"], "verified": true },
-  { "id": "aa38", "name": "Aalamgeer", "transliteration": "‘Ālamgīr", "arabic_spelling": "عالمگير", "gender": "Boy", "meaning": "Conqueror of the world", "origin": "Persian", "tags": ["Royal", "Strength"], "verified": true },
-  { "id": "aa39", "name": "Aalee", "transliteration": "‘Ālī", "arabic_spelling": "عالي", "gender": "Boy", "meaning": "Sublime, high", "origin": "Arabic", "tags": ["Virtue", "Status"], "verified": true },
-  { "id": "aa40", "name": "Aaleyah", "transliteration": "‘Āliyah", "arabic_spelling": "عالية", "gender": "Girl", "meaning": "Exalted, highest social standing", "origin": "Arabic", "tags": ["Status", "Popular"], "verified": true },
-  { "id": "aa41", "name": "Aali", "transliteration": "‘Ālī", "arabic_spelling": "عالي", "gender": "Boy", "meaning": "High, tall, excellent", "origin": "Arabic", "tags": ["Status", "Virtue"], "verified": true },
-  { "id": "aa42", "name": "Aalia", "transliteration": "‘Āliya", "arabic_spelling": "عالية", "gender": "Girl", "meaning": "Exalted, noble", "origin": "Arabic", "tags": ["Status", "Classic"], "verified": true },
-  { "id": "aa43", "name": "Aalif", "transliteration": "Ālif", "arabic_spelling": "آلف", "gender": "Boy", "meaning": "Compassionate, affectionate", "origin": "Arabic", "tags": ["Virtue", "Soft"], "verified": true },
-  { "id": "aa44", "name": "Aalim", "transliteration": "‘Ālim", "arabic_spelling": "عالم", "gender": "Boy", "meaning": "Scholar, knowledgeable", "origin": "Quranic", "tags": ["Knowledge", "Religious"], "verified": true },
-  { "id": "aa45", "name": "Aalimah", "transliteration": "‘Ālimah", "arabic_spelling": "عالمة", "gender": "Girl", "meaning": "Scholar, authority", "origin": "Arabic", "tags": ["Knowledge", "Religious"], "verified": true },
-  { "id": "aa46", "name": "Aaliya", "transliteration": "‘Āliyah", "arabic_spelling": "عالية", "gender": "Girl", "meaning": "High, tall, towering", "origin": "Arabic", "tags": ["Popular", "Status"], "verified": true },
-  { "id": "aa47", "name": "Aamaal", "transliteration": "Āmāl", "arabic_spelling": "آمال", "gender": "Girl", "meaning": "Hopes, aspirations", "origin": "Arabic", "tags": ["Hope", "Classic"], "verified": true },
-  { "id": "aa48", "name": "Aamanee", "transliteration": "Amānī", "arabic_spelling": "أماني", "gender": "Girl", "meaning": "Good wish, desire", "origin": "Arabic", "tags": ["Hope", "Soft"], "verified": true },
-  { "id": "aa49", "name": "Aamil", "transliteration": "‘Āmil", "arabic_spelling": "عامل", "gender": "Boy", "meaning": "Doer, worker, striver", "origin": "Arabic", "tags": ["Action", "Strength"], "verified": true },
-  { "id": "aa50", "name": "Aamin", "transliteration": "Āmin", "arabic_spelling": "آمن", "gender": "Boy", "meaning": "Safe, secure", "origin": "Arabic", "tags": ["Virtue", "Safety"], "verified": true },
-  { "id": "aa51", "name": "Aamina", "transliteration": "Āminah", "arabic_spelling": "آمنة", "gender": "Girl", "meaning": "Trustworthy, faithful (Mother of Prophet)", "origin": "Arabic", "tags": ["Family of Prophet", "Classic"], "verified": true },
-  { "id": "aa52", "name": "Aamir", "transliteration": "‘Āmir", "arabic_spelling": "عامر", "gender": "Boy", "meaning": "Prosperous, civilized, populous", "origin": "Arabic", "tags": ["Popular", "Status"], "verified": true },
-  { "id": "aa53", "name": "Aamira", "transliteration": "‘Āmirah", "arabic_spelling": "عامرة", "gender": "Girl", "meaning": "Imperial, abundant, inhabited", "origin": "Arabic", "tags": ["Status", "Wealth"], "verified": true },
-  { "id": "aa54", "name": "Aamish", "transliteration": "Aamish", "arabic_spelling": "آمش", "gender": "Boy", "meaning": "Full of enjoyment", "origin": "Persian", "tags": ["Happiness", "Modern"], "verified": true },
-  { "id": "aa55", "name": "Aani Fatimah", "transliteration": "Ānī Fāṭimah", "arabic_spelling": "آني فاطمة", "gender": "Girl", "meaning": "Literary poetess", "origin": "Arabic", "tags": ["History", "Art"], "verified": true },
-  { "id": "aa56", "name": "Aanisah", "transliteration": "Ānisah", "arabic_spelling": "آنسة", "gender": "Girl", "meaning": "Young lady, friendly", "origin": "Arabic", "tags": ["Social", "Classic"], "verified": true },
-  { "id": "aa57", "name": "Aaniya", "transliteration": "Āniyah", "arabic_spelling": "آنية", "gender": "Girl", "meaning": "Affectionate, caring", "origin": "Arabic", "tags": ["Virtue", "Modern"], "verified": true },
-  { "id": "aa58", "name": "Aaqaa", "transliteration": "Āqā", "arabic_spelling": "آقا", "gender": "Boy", "meaning": "Master, owner", "origin": "Turkish", "tags": ["Title", "Leadership"], "verified": true },
-  { "id": "aa59", "name": "Aaqib", "transliteration": "‘Āqib", "arabic_spelling": "عاقب", "gender": "Boy", "meaning": "Follower, successor", "origin": "Arabic", "tags": ["Prophetic Title", "Classic"], "verified": true },
-  { "id": "aa60", "name": "Aaqil", "transliteration": "‘Āqil", "arabic_spelling": "عاقل", "gender": "Boy", "meaning": "Intelligent, wise", "origin": "Arabic", "tags": ["Intellect", "Virtue"], "verified": true },
-  { "id": "aa61", "name": "Aaqilah", "transliteration": "‘Āqilah", "arabic_spelling": "عاقلة", "gender": "Girl", "meaning": "Intelligent woman", "origin": "Arabic", "tags": ["Intellect", "Virtue"], "verified": true },
-  { "id": "aa62", "name": "Aara", "transliteration": "Ārā", "arabic_spelling": "آراء", "gender": "Girl", "meaning": "Opinions, adoring", "origin": "Arabic", "tags": ["Intellect", "Rare"], "verified": true },
-  { "id": "aa63", "name": "Aaran", "transliteration": "Āran", "arabic_spelling": "آران", "gender": "Boy", "meaning": "Enlightened, mountain strength", "origin": "Persian", "tags": ["Strength", "Nature"], "verified": true },
-  { "id": "aa64", "name": "Aarash", "transliteration": "Ārash", "arabic_spelling": "آرش", "gender": "Boy", "meaning": "First ray of sun", "origin": "Persian", "tags": ["Light", "Nature"], "verified": true },
-  { "id": "aa65", "name": "Aaren", "transliteration": "Aaren", "arabic_spelling": "آرين", "gender": "Boy", "meaning": "High mountain", "origin": "Generic", "tags": ["Modern", "Nature"], "verified": true },
-  { "id": "aa66", "name": "Aari", "transliteration": "Ārī", "arabic_spelling": "آري", "gender": "Boy", "meaning": "Aryan, noble", "origin": "Persian", "tags": ["Nobility", "Short"], "verified": true },
-  { "id": "aa67", "name": "Aarib", "transliteration": "‘Arīb", "arabic_spelling": "عريب", "gender": "Boy", "meaning": "Handsome, healthy", "origin": "Arabic", "tags": ["Health", "Beauty"], "verified": true },
-  { "id": "aa68", "name": "Aarif", "transliteration": "‘Ārif", "arabic_spelling": "عارف", "gender": "Boy", "meaning": "Knowing, aware, gnostic", "origin": "Arabic", "tags": ["Knowledge", "Sufi"], "verified": true },
-  { "id": "aa69", "name": "Aarifah", "transliteration": "‘Ārifah", "arabic_spelling": "عارفة", "gender": "Girl", "meaning": "Knowing, women who recognizes Islam", "origin": "Arabic", "tags": ["Knowledge", "Religious"], "verified": true },
-  { "id": "aa70", "name": "Aariz", "transliteration": "‘Āriḍ", "arabic_spelling": "عارض", "gender": "Boy", "meaning": "Respectable man, rain bearing cloud", "origin": "Quranic", "tags": ["Nature", "Status"], "verified": true },
-  { "id": "aa71", "name": "Aary", "transliteration": "Ārī", "arabic_spelling": "آري", "gender": "Boy", "meaning": "Friend", "origin": "Arabic", "tags": ["Social", "Modern"], "verified": true },
-  { "id": "aa72", "name": "Aashif", "transliteration": "Āshif", "arabic_spelling": "آشف", "gender": "Boy", "meaning": "Bold, courageous", "origin": "Arabic", "tags": ["Bravery", "Rare"], "verified": true },
-  { "id": "aa73", "name": "Aashir", "transliteration": "‘Āshir", "arabic_spelling": "عاشر", "gender": "Boy", "meaning": "Living, wealthy", "origin": "Arabic", "tags": ["Wealth", "Life"], "verified": true },
-  { "id": "aa74", "name": "Aasif", "transliteration": "‘Āṣif", "arabic_spelling": "عاصف", "gender": "Boy", "meaning": "Strong, stormy; An able minister", "origin": "Quranic", "tags": ["Strength", "Nature"], "verified": true },
-  { "id": "aa75", "name": "Aasim", "transliteration": "‘Āṣim", "arabic_spelling": "عاصم", "gender": "Boy", "meaning": "Protector, guardian", "origin": "Quranic", "tags": ["Protector", "Popular"], "verified": true },
-  { "id": "aa76", "name": "Aasimah", "transliteration": "‘Āṣimah", "arabic_spelling": "عاصمة", "gender": "Girl", "meaning": "Protector, capital city", "origin": "Arabic", "tags": ["Protector", "Place"], "verified": true },
-  { "id": "aa77", "name": "Aasiya", "transliteration": "Āsiyah", "arabic_spelling": "آسية", "gender": "Girl", "meaning": "Pharaoh's wife who raised Musa", "origin": "Quranic", "tags": ["Quranic", "Role Model"], "verified": true },
-  { "id": "aa78", "name": "Aasmaa", "transliteration": "Asmā’", "arabic_spelling": "أسماء", "gender": "Girl", "meaning": "Excellent, precious", "origin": "Arabic", "tags": ["Virtue", "Classic"], "verified": true },
-  { "id": "aa79", "name": "Aatif", "transliteration": "‘Āṭif", "arabic_spelling": "عاطف", "gender": "Boy", "meaning": "Kind, affectionate", "origin": "Arabic", "tags": ["Virtue", "Love"], "verified": true },
-  { "id": "aa80", "name": "Aatifa", "transliteration": "‘Āṭifah", "arabic_spelling": "عاطفة", "gender": "Girl", "meaning": "Affection, sympathy", "origin": "Arabic", "tags": ["Virtue", "Love"], "verified": true },
-  { "id": "aa81", "name": "Aatika", "transliteration": "‘Ātikah", "arabic_spelling": "عاتكة", "gender": "Girl", "meaning": "Clear, pure, flower", "origin": "Arabic", "tags": ["Nature", "Purity"], "verified": true },
-  { "id": "aa82", "name": "Aatirah", "transliteration": "‘Āṭirah", "arabic_spelling": "عاطرة", "gender": "Girl", "meaning": "Fragrant", "origin": "Arabic", "tags": ["Beauty", "Scent"], "verified": true },
-  { "id": "aa83", "name": "Aayan", "transliteration": "Ayyān", "arabic_spelling": "أيان", "gender": "Boy", "meaning": "God's gift, Era", "origin": "Quranic", "tags": ["Modern", "Popular"], "verified": true },
-  { "id": "aa84", "name": "Aayush", "transliteration": "Āyush", "arabic_spelling": "آيوش", "gender": "Boy", "meaning": "Long lived", "origin": "Generic", "tags": ["Life", "Modern"], "verified": true },
-  { "id": "aa85", "name": "Aazad", "transliteration": "Āzād", "arabic_spelling": "آزاد", "gender": "Boy", "meaning": "Free, independent", "origin": "Persian", "tags": ["Freedom", "Virtue"], "verified": true },
-  { "id": "aa86", "name": "Aazeem", "transliteration": "‘Aẓīm", "arabic_spelling": "عظيم", "gender": "Boy", "meaning": "Great, magnificent", "origin": "Arabic", "tags": ["Attribute", "Grand"], "verified": true },
-  { "id": "aa87", "name": "Aazim", "transliteration": "‘Āzim", "arabic_spelling": "عازم", "gender": "Boy", "meaning": "Determined, resolute", "origin": "Arabic", "tags": ["Virtue", "Strength"], "verified": true },
-  { "id": "aa88", "name": "Aazmin", "transliteration": "Āzmīn", "arabic_spelling": "آزمين", "gender": "Girl", "meaning": "A star", "origin": "Arabic", "tags": ["Celestial", "Beauty"], "verified": true },
-  { "id": "aa89", "name": "Aabdeen", "transliteration": "‘Ābidīn", "arabic_spelling": "عابدين", "gender": "Boy", "meaning": "Worshippers", "origin": "Arabic", "tags": ["Religious", "Classic"], "verified": true },
-  { "id": "aa90", "name": "Aabinus", "transliteration": "Ābnūs", "arabic_spelling": "آبنوس", "gender": "Girl", "meaning": "Ebony, dark colored", "origin": "Persian", "tags": ["Color", "Rare"], "verified": true },
-  { "id": "aa91", "name": "Aadheen", "transliteration": "Ādhīn", "arabic_spelling": "آذين", "gender": "Boy", "meaning": "Obedient, submissive", "origin": "Arabic", "tags": ["Virtue", "Religious"], "verified": true },
-  { "id": "aa92", "name": "Aadit", "transliteration": "Ādit", "arabic_spelling": "آدت", "gender": "Boy", "meaning": "Peak, first", "origin": "Generic", "tags": ["Modern", "Status"], "verified": true },
-  { "id": "aa93", "name": "Aadnan", "transliteration": "‘Adnān", "arabic_spelling": "عدنان", "gender": "Boy", "meaning": "Settler, paradise", "origin": "Arabic", "tags": ["History", "Popular"], "verified": true },
-  { "id": "aa94", "name": "Aaish", "transliteration": "‘Ā’ish", "arabic_spelling": "عائش", "gender": "Boy", "meaning": "Living, prosperous", "origin": "Arabic", "tags": ["Life", "Wealth"], "verified": true },
-  { "id": "aa95", "name": "Aalam", "transliteration": "‘Ālam", "arabic_spelling": "عالم", "gender": "Boy", "meaning": "World", "origin": "Arabic", "tags": ["Grand", "Nature"], "verified": true },
-  { "id": "aa96", "name": "Aaliya", "transliteration": "‘Āliya", "arabic_spelling": "عالية", "gender": "Girl", "meaning": "High status", "origin": "Arabic", "tags": ["Status", "Popular"], "verified": true },
-  { "id": "aa97", "name": "Aamira", "transliteration": "‘Āmirah", "arabic_spelling": "عامرة", "gender": "Girl", "meaning": "Full of life", "origin": "Arabic", "tags": ["Life", "Popular"], "verified": true },
-  { "id": "aa98", "name": "Aaqib", "transliteration": "‘Āqib", "arabic_spelling": "عاقب", "gender": "Boy", "meaning": "Result, successor", "origin": "Arabic", "tags": ["Future", "Classic"], "verified": true },
-  { "id": "aa99", "name": "Aarif", "transliteration": "‘Ārif", "arabic_spelling": "عارف", "gender": "Boy", "meaning": "Acquainted, knowledgeable", "origin": "Arabic", "tags": ["Knowledge", "Classic"], "verified": true },
-  { "id": "aa100", "name": "Aashif", "transliteration": "‘Āshif", "arabic_spelling": "عاشف", "gender": "Boy", "meaning": "Bold, courageous", "origin": "Arabic", "tags": ["Strength", "Bravery"], "verified": true }
+  {
+    "id": "aa1",
+    "name": "Aaban",
+    "transliteration": "A'bān",
+    "arabic_spelling": "أبان",
+    "gender": "Boy",
+    "meaning": "Clear, eloquent, distinct; Name of an Angel",
+    "origin": "Arabic",
+    "tags": [
+      "Classic",
+      "Angel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa2",
+    "name": "Aabdar",
+    "transliteration": "Ābdār",
+    "arabic_spelling": "آبدار",
+    "gender": "Boy",
+    "meaning": "Bright like moonlight, lustrous",
+    "origin": "Persian",
+    "tags": [
+      "Nature",
+      "Beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa89",
+    "name": "Aabdeen",
+    "transliteration": "‘Ābidīn",
+    "arabic_spelling": "عابدين",
+    "gender": "Boy",
+    "meaning": "Worshippers",
+    "origin": "Arabic",
+    "tags": [
+      "Religious",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa3",
+    "name": "Aabid",
+    "transliteration": "‘Ābid",
+    "arabic_spelling": "عابد",
+    "gender": "Boy",
+    "meaning": "Worshipper, adorer, devout",
+    "origin": "Arabic",
+    "tags": [
+      "Religious",
+      "Quranic Root"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa4",
+    "name": "Aabidah",
+    "transliteration": "‘Ābidah",
+    "arabic_spelling": "عابدة",
+    "gender": "Girl",
+    "meaning": "Worshipper, devout",
+    "origin": "Arabic",
+    "tags": [
+      "Religious",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa5",
+    "name": "Aabideen",
+    "transliteration": "‘Ābidīn",
+    "arabic_spelling": "عابدين",
+    "gender": "Boy",
+    "meaning": "Worshippers (Plural of Aabid)",
+    "origin": "Arabic",
+    "tags": [
+      "Religious",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa90",
+    "name": "Aabinus",
+    "transliteration": "Ābnūs",
+    "arabic_spelling": "آبنوس",
+    "gender": "Girl",
+    "meaning": "Ebony, dark colored",
+    "origin": "Persian",
+    "tags": [
+      "Color",
+      "Rare"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa6",
+    "name": "Aabis",
+    "transliteration": "‘Ābis",
+    "arabic_spelling": "عابس",
+    "gender": "Boy",
+    "meaning": "Stern, austere; Name of a companion",
+    "origin": "Arabic",
+    "tags": [
+      "Sahaba",
+      "History"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa7",
+    "name": "Aabish",
+    "transliteration": "Aabish",
+    "arabic_spelling": "آبش",
+    "gender": "Girl",
+    "meaning": "Daughter of Sa'd; A Queen of Iran",
+    "origin": "Persian",
+    "tags": [
+      "Royal",
+      "History"
+    ],
+    "verified": true
+  },
+  {
+    "name": "Aabpara",
+    "gender": "Girl",
+    "meaning": "Flower; A partition of flowers",
+    "origin": "Persian",
+    "id": "aa101",
+    "verified": true
+  },
+  {
+    "id": "aa8",
+    "name": "Aad",
+    "transliteration": "‘Ād",
+    "arabic_spelling": "عاد",
+    "gender": "Boy",
+    "meaning": "Return, ancient tribe mentioned in Quran",
+    "origin": "Quranic",
+    "tags": [
+      "Quranic",
+      "History"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa9",
+    "name": "Aada",
+    "transliteration": "Āda",
+    "arabic_spelling": "آدا",
+    "gender": "Girl",
+    "meaning": "Adornment, noble one",
+    "origin": "Arabic",
+    "tags": [
+      "Beauty",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa10",
+    "name": "Aadab",
+    "transliteration": "Ādāb",
+    "arabic_spelling": "آداب",
+    "gender": "Girl",
+    "meaning": "Hope, need, manners",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa11",
+    "name": "Aadam",
+    "transliteration": "Ādam",
+    "arabic_spelling": "آدم",
+    "gender": "Boy",
+    "meaning": "First Human, Earth",
+    "origin": "Quranic",
+    "tags": [
+      "Prophet",
+      "Universal"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa12",
+    "name": "Aadeel",
+    "transliteration": "‘Ādil",
+    "arabic_spelling": "عادل",
+    "gender": "Boy",
+    "meaning": "Just, upright (Variant of Aadil)",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Justice"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa91",
+    "name": "Aadheen",
+    "transliteration": "Ādhīn",
+    "arabic_spelling": "آذين",
+    "gender": "Boy",
+    "meaning": "Obedient, submissive",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Religious"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa13",
+    "name": "Aadhil",
+    "transliteration": "‘Ādil",
+    "arabic_spelling": "عادل",
+    "gender": "Boy",
+    "meaning": "Honorable judge, justice",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Justice"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa14",
+    "name": "Aadi",
+    "transliteration": "‘Ādī",
+    "arabic_spelling": "عادي",
+    "gender": "Boy",
+    "meaning": "Beginning, first",
+    "origin": "Arabic",
+    "tags": [
+      "Modern",
+      "Short"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa15",
+    "name": "Aadil",
+    "transliteration": "‘Ādil",
+    "arabic_spelling": "عادل",
+    "gender": "Boy",
+    "meaning": "Just, upright, honest",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa16",
+    "name": "Aadila",
+    "transliteration": "‘Ādilah",
+    "arabic_spelling": "عادلة",
+    "gender": "Girl",
+    "meaning": "Just, honest, equal",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa92",
+    "name": "Aadit",
+    "transliteration": "Ādit",
+    "arabic_spelling": "آدت",
+    "gender": "Boy",
+    "meaning": "Peak, first",
+    "origin": "Generic",
+    "tags": [
+      "Modern",
+      "Status"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa93",
+    "name": "Aadnan",
+    "transliteration": "‘Adnān",
+    "arabic_spelling": "عدنان",
+    "gender": "Boy",
+    "meaning": "Settler, paradise",
+    "origin": "Arabic",
+    "tags": [
+      "History",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa17",
+    "name": "Aaeedah",
+    "transliteration": "‘Ā’idah",
+    "arabic_spelling": "عائدة",
+    "gender": "Girl",
+    "meaning": "Visiting, returning, reward",
+    "origin": "Arabic",
+    "tags": [
+      "Classic",
+      "Unique"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa18",
+    "name": "Aaeesha",
+    "transliteration": "‘Ā’ishah",
+    "arabic_spelling": "عائشة",
+    "gender": "Girl",
+    "meaning": "Life, Vivaciousness (Variant of Aisha)",
+    "origin": "Arabic",
+    "tags": [
+      "Sahaba",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa19",
+    "name": "Aafaaq",
+    "transliteration": "Āfāq",
+    "arabic_spelling": "آفاق",
+    "gender": "Boy",
+    "meaning": "Horizons, world",
+    "origin": "Arabic",
+    "tags": [
+      "Nature",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa20",
+    "name": "Aafia",
+    "transliteration": "‘Āfiyah",
+    "arabic_spelling": "عافية",
+    "gender": "Girl",
+    "meaning": "Good health, well-being",
+    "origin": "Arabic",
+    "tags": [
+      "Health",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa21",
+    "name": "Aafiyah",
+    "transliteration": "‘Āfiyah",
+    "arabic_spelling": "عافية",
+    "gender": "Girl",
+    "meaning": "Vigor, vitality, health",
+    "origin": "Arabic",
+    "tags": [
+      "Health",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa22",
+    "name": "Aafreeda",
+    "transliteration": "Āfrīdah",
+    "arabic_spelling": "آفريدة",
+    "gender": "Girl",
+    "meaning": "Created, produced",
+    "origin": "Persian",
+    "tags": [
+      "Creation",
+      "Rare"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa23",
+    "name": "Aafreen",
+    "transliteration": "Āfrīn",
+    "arabic_spelling": "آفرين",
+    "gender": "Girl",
+    "meaning": "Brave, praise, lucky",
+    "origin": "Persian",
+    "tags": [
+      "Beauty",
+      "Praise"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa24",
+    "name": "Aaftab",
+    "transliteration": "Āftāb",
+    "arabic_spelling": "آفتاب",
+    "gender": "Boy",
+    "meaning": "Sun, sunlight",
+    "origin": "Persian",
+    "tags": [
+      "Nature",
+      "Celestial"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa25",
+    "name": "Aagha",
+    "transliteration": "Āghā",
+    "arabic_spelling": "آغا",
+    "gender": "Boy",
+    "meaning": "Master, lord, chief",
+    "origin": "Turkish",
+    "tags": [
+      "Title",
+      "Leadership"
+    ],
+    "verified": true
+  },
+  {
+    "name": "Aaghaz",
+    "gender": "Boy",
+    "meaning": "The beginning",
+    "origin": "Urdu",
+    "id": "aa102",
+    "verified": true
+  },
+  {
+    "id": "aa26",
+    "name": "Aahad",
+    "transliteration": "Aḥad",
+    "arabic_spelling": "أحد",
+    "gender": "Boy",
+    "meaning": "One, unique (Attribute of Allah)",
+    "origin": "Quranic",
+    "tags": [
+      "Religious",
+      "Attribute"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa27",
+    "name": "Aahid",
+    "transliteration": "‘Āhid",
+    "arabic_spelling": "عاهد",
+    "gender": "Boy",
+    "meaning": "One who promises",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Rare"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa28",
+    "name": "Aahil",
+    "transliteration": "‘Āhil",
+    "arabic_spelling": "عاهل",
+    "gender": "Boy",
+    "meaning": "Prince, great king",
+    "origin": "Arabic",
+    "tags": [
+      "Royal",
+      "Leadership"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa29",
+    "name": "Aahir",
+    "transliteration": "Āhir",
+    "arabic_spelling": "آهر",
+    "gender": "Boy",
+    "meaning": "Dazzling, brilliant",
+    "origin": "Arabic",
+    "tags": [
+      "Light",
+      "Beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa30",
+    "name": "Aaida",
+    "transliteration": "‘Ā’idah",
+    "arabic_spelling": "عائدة",
+    "gender": "Girl",
+    "meaning": "Returning, reward, guest",
+    "origin": "Arabic",
+    "tags": [
+      "Classic",
+      "Hospitality"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa31",
+    "name": "Aaila",
+    "transliteration": "Ā’ila",
+    "arabic_spelling": "آئلة",
+    "gender": "Girl",
+    "meaning": "Beautiful, moon-like",
+    "origin": "Arabic",
+    "tags": [
+      "Beauty",
+      "Celestial"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa32",
+    "name": "Aaima",
+    "transliteration": "A’immah",
+    "arabic_spelling": "أئمة",
+    "gender": "Girl",
+    "meaning": "Leader, supreme leader",
+    "origin": "Arabic",
+    "tags": [
+      "Leadership",
+      "Unique"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa33",
+    "name": "Aaira",
+    "transliteration": "A’irā",
+    "arabic_spelling": "آيرا",
+    "gender": "Girl",
+    "meaning": "Noble, respectful",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa94",
+    "name": "Aaish",
+    "transliteration": "‘Ā’ish",
+    "arabic_spelling": "عائش",
+    "gender": "Boy",
+    "meaning": "Living, prosperous",
+    "origin": "Arabic",
+    "tags": [
+      "Life",
+      "Wealth"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa34",
+    "name": "Aakif",
+    "transliteration": "‘Ākif",
+    "arabic_spelling": "عاكف",
+    "gender": "Boy",
+    "meaning": "Devoted, attached",
+    "origin": "Quranic",
+    "tags": [
+      "Religious",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa35",
+    "name": "Aakifah",
+    "transliteration": "‘Ākifah",
+    "arabic_spelling": "عاكفة",
+    "gender": "Girl",
+    "meaning": "Devoted, dedicated woman",
+    "origin": "Quranic",
+    "tags": [
+      "Religious",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa36",
+    "name": "Aakrama",
+    "transliteration": "‘Akrama",
+    "arabic_spelling": "عكرمة",
+    "gender": "Boy",
+    "meaning": "Female pigeon; Name of a companion",
+    "origin": "Arabic",
+    "tags": [
+      "Sahaba",
+      "History"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa37",
+    "name": "Aalam",
+    "transliteration": "‘Ālam",
+    "arabic_spelling": "عالم",
+    "gender": "Boy",
+    "meaning": "World, universe",
+    "origin": "Arabic",
+    "tags": [
+      "Nature",
+      "Grand"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa95",
+    "name": "Aalam",
+    "transliteration": "‘Ālam",
+    "arabic_spelling": "عالم",
+    "gender": "Boy",
+    "meaning": "World",
+    "origin": "Arabic",
+    "tags": [
+      "Grand",
+      "Nature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa38",
+    "name": "Aalamgeer",
+    "transliteration": "‘Ālamgīr",
+    "arabic_spelling": "عالمگير",
+    "gender": "Boy",
+    "meaning": "Conqueror of the world",
+    "origin": "Persian",
+    "tags": [
+      "Royal",
+      "Strength"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa39",
+    "name": "Aalee",
+    "transliteration": "‘Ālī",
+    "arabic_spelling": "عالي",
+    "gender": "Boy",
+    "meaning": "Sublime, high",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Status"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa40",
+    "name": "Aaleyah",
+    "transliteration": "‘Āliyah",
+    "arabic_spelling": "عالية",
+    "gender": "Girl",
+    "meaning": "Exalted, highest social standing",
+    "origin": "Arabic",
+    "tags": [
+      "Status",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa41",
+    "name": "Aali",
+    "transliteration": "‘Ālī",
+    "arabic_spelling": "عالي",
+    "gender": "Boy",
+    "meaning": "High, tall, excellent",
+    "origin": "Arabic",
+    "tags": [
+      "Status",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa42",
+    "name": "Aalia",
+    "transliteration": "‘Āliya",
+    "arabic_spelling": "عالية",
+    "gender": "Girl",
+    "meaning": "Exalted, noble",
+    "origin": "Arabic",
+    "tags": [
+      "Status",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa43",
+    "name": "Aalif",
+    "transliteration": "Ālif",
+    "arabic_spelling": "آلف",
+    "gender": "Boy",
+    "meaning": "Compassionate, affectionate",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Soft"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa44",
+    "name": "Aalim",
+    "transliteration": "‘Ālim",
+    "arabic_spelling": "عالم",
+    "gender": "Boy",
+    "meaning": "Scholar, knowledgeable",
+    "origin": "Quranic",
+    "tags": [
+      "Knowledge",
+      "Religious"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa45",
+    "name": "Aalimah",
+    "transliteration": "‘Ālimah",
+    "arabic_spelling": "عالمة",
+    "gender": "Girl",
+    "meaning": "Scholar, authority",
+    "origin": "Arabic",
+    "tags": [
+      "Knowledge",
+      "Religious"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa46",
+    "name": "Aaliya",
+    "transliteration": "‘Āliyah",
+    "arabic_spelling": "عالية",
+    "gender": "Girl",
+    "meaning": "High, tall, towering",
+    "origin": "Arabic",
+    "tags": [
+      "Popular",
+      "Status"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa96",
+    "name": "Aaliya",
+    "transliteration": "‘Āliya",
+    "arabic_spelling": "عالية",
+    "gender": "Girl",
+    "meaning": "High status",
+    "origin": "Arabic",
+    "tags": [
+      "Status",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa47",
+    "name": "Aamaal",
+    "transliteration": "Āmāl",
+    "arabic_spelling": "آمال",
+    "gender": "Girl",
+    "meaning": "Hopes, aspirations",
+    "origin": "Arabic",
+    "tags": [
+      "Hope",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa48",
+    "name": "Aamanee",
+    "transliteration": "Amānī",
+    "arabic_spelling": "أماني",
+    "gender": "Girl",
+    "meaning": "Good wish, desire",
+    "origin": "Arabic",
+    "tags": [
+      "Hope",
+      "Soft"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa49",
+    "name": "Aamil",
+    "transliteration": "‘Āmil",
+    "arabic_spelling": "عامل",
+    "gender": "Boy",
+    "meaning": "Doer, worker, striver",
+    "origin": "Arabic",
+    "tags": [
+      "Action",
+      "Strength"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa50",
+    "name": "Aamin",
+    "transliteration": "Āmin",
+    "arabic_spelling": "آمن",
+    "gender": "Boy",
+    "meaning": "Safe, secure",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Safety"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa51",
+    "name": "Aamina",
+    "transliteration": "Āminah",
+    "arabic_spelling": "آمنة",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful (Mother of Prophet)",
+    "origin": "Arabic",
+    "tags": [
+      "Family of Prophet",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa52",
+    "name": "Aamir",
+    "transliteration": "‘Āmir",
+    "arabic_spelling": "عامر",
+    "gender": "Boy",
+    "meaning": "Prosperous, civilized, populous",
+    "origin": "Arabic",
+    "tags": [
+      "Popular",
+      "Status"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa53",
+    "name": "Aamira",
+    "transliteration": "‘Āmirah",
+    "arabic_spelling": "عامرة",
+    "gender": "Girl",
+    "meaning": "Imperial, abundant, inhabited",
+    "origin": "Arabic",
+    "tags": [
+      "Status",
+      "Wealth"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa97",
+    "name": "Aamira",
+    "transliteration": "‘Āmirah",
+    "arabic_spelling": "عامرة",
+    "gender": "Girl",
+    "meaning": "Full of life",
+    "origin": "Arabic",
+    "tags": [
+      "Life",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa54",
+    "name": "Aamish",
+    "transliteration": "Aamish",
+    "arabic_spelling": "آمش",
+    "gender": "Boy",
+    "meaning": "Full of enjoyment",
+    "origin": "Persian",
+    "tags": [
+      "Happiness",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa55",
+    "name": "Aani Fatimah",
+    "transliteration": "Ānī Fāṭimah",
+    "arabic_spelling": "آني فاطمة",
+    "gender": "Girl",
+    "meaning": "Literary poetess",
+    "origin": "Arabic",
+    "tags": [
+      "History",
+      "Art"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa56",
+    "name": "Aanisah",
+    "transliteration": "Ānisah",
+    "arabic_spelling": "آنسة",
+    "gender": "Girl",
+    "meaning": "Young lady, friendly",
+    "origin": "Arabic",
+    "tags": [
+      "Social",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa57",
+    "name": "Aaniya",
+    "transliteration": "Āniyah",
+    "arabic_spelling": "آنية",
+    "gender": "Girl",
+    "meaning": "Affectionate, caring",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa58",
+    "name": "Aaqaa",
+    "transliteration": "Āqā",
+    "arabic_spelling": "آقا",
+    "gender": "Boy",
+    "meaning": "Master, owner",
+    "origin": "Turkish",
+    "tags": [
+      "Title",
+      "Leadership"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa59",
+    "name": "Aaqib",
+    "transliteration": "‘Āqib",
+    "arabic_spelling": "عاقب",
+    "gender": "Boy",
+    "meaning": "Follower, successor",
+    "origin": "Arabic",
+    "tags": [
+      "Prophetic Title",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa98",
+    "name": "Aaqib",
+    "transliteration": "‘Āqib",
+    "arabic_spelling": "عاقب",
+    "gender": "Boy",
+    "meaning": "Result, successor",
+    "origin": "Arabic",
+    "tags": [
+      "Future",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa60",
+    "name": "Aaqil",
+    "transliteration": "‘Āqil",
+    "arabic_spelling": "عاقل",
+    "gender": "Boy",
+    "meaning": "Intelligent, wise",
+    "origin": "Arabic",
+    "tags": [
+      "Intellect",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa61",
+    "name": "Aaqilah",
+    "transliteration": "‘Āqilah",
+    "arabic_spelling": "عاقلة",
+    "gender": "Girl",
+    "meaning": "Intelligent woman",
+    "origin": "Arabic",
+    "tags": [
+      "Intellect",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa62",
+    "name": "Aara",
+    "transliteration": "Ārā",
+    "arabic_spelling": "آراء",
+    "gender": "Girl",
+    "meaning": "Opinions, adoring",
+    "origin": "Arabic",
+    "tags": [
+      "Intellect",
+      "Rare"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa63",
+    "name": "Aaran",
+    "transliteration": "Āran",
+    "arabic_spelling": "آران",
+    "gender": "Boy",
+    "meaning": "Enlightened, mountain strength",
+    "origin": "Persian",
+    "tags": [
+      "Strength",
+      "Nature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa64",
+    "name": "Aarash",
+    "transliteration": "Ārash",
+    "arabic_spelling": "آرش",
+    "gender": "Boy",
+    "meaning": "First ray of sun",
+    "origin": "Persian",
+    "tags": [
+      "Light",
+      "Nature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa65",
+    "name": "Aaren",
+    "transliteration": "Aaren",
+    "arabic_spelling": "آرين",
+    "gender": "Boy",
+    "meaning": "High mountain",
+    "origin": "Generic",
+    "tags": [
+      "Modern",
+      "Nature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa66",
+    "name": "Aari",
+    "transliteration": "Ārī",
+    "arabic_spelling": "آري",
+    "gender": "Boy",
+    "meaning": "Aryan, noble",
+    "origin": "Persian",
+    "tags": [
+      "Nobility",
+      "Short"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa67",
+    "name": "Aarib",
+    "transliteration": "‘Arīb",
+    "arabic_spelling": "عريب",
+    "gender": "Boy",
+    "meaning": "Handsome, healthy",
+    "origin": "Arabic",
+    "tags": [
+      "Health",
+      "Beauty"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa68",
+    "name": "Aarif",
+    "transliteration": "‘Ārif",
+    "arabic_spelling": "عارف",
+    "gender": "Boy",
+    "meaning": "Knowing, aware, gnostic",
+    "origin": "Arabic",
+    "tags": [
+      "Knowledge",
+      "Sufi"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa99",
+    "name": "Aarif",
+    "transliteration": "‘Ārif",
+    "arabic_spelling": "عارف",
+    "gender": "Boy",
+    "meaning": "Acquainted, knowledgeable",
+    "origin": "Arabic",
+    "tags": [
+      "Knowledge",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa69",
+    "name": "Aarifah",
+    "transliteration": "‘Ārifah",
+    "arabic_spelling": "عارفة",
+    "gender": "Girl",
+    "meaning": "Knowing, women who recognizes Islam",
+    "origin": "Arabic",
+    "tags": [
+      "Knowledge",
+      "Religious"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa70",
+    "name": "Aariz",
+    "transliteration": "‘Āriḍ",
+    "arabic_spelling": "عارض",
+    "gender": "Boy",
+    "meaning": "Respectable man, rain bearing cloud",
+    "origin": "Quranic",
+    "tags": [
+      "Nature",
+      "Status"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa71",
+    "name": "Aary",
+    "transliteration": "Ārī",
+    "arabic_spelling": "آري",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "tags": [
+      "Social",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "name": "Aas",
+    "gender": "Unisex",
+    "meaning": "Hope",
+    "origin": "Urdu",
+    "id": "aa103",
+    "verified": true
+  },
+  {
+    "id": "aa72",
+    "name": "Aashif",
+    "transliteration": "Āshif",
+    "arabic_spelling": "آشف",
+    "gender": "Boy",
+    "meaning": "Bold, courageous",
+    "origin": "Arabic",
+    "tags": [
+      "Bravery",
+      "Rare"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa100",
+    "name": "Aashif",
+    "transliteration": "‘Āshif",
+    "arabic_spelling": "عاشف",
+    "gender": "Boy",
+    "meaning": "Bold, courageous",
+    "origin": "Arabic",
+    "tags": [
+      "Strength",
+      "Bravery"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa73",
+    "name": "Aashir",
+    "transliteration": "‘Āshir",
+    "arabic_spelling": "عاشر",
+    "gender": "Boy",
+    "meaning": "Living, wealthy",
+    "origin": "Arabic",
+    "tags": [
+      "Wealth",
+      "Life"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa74",
+    "name": "Aasif",
+    "transliteration": "‘Āṣif",
+    "arabic_spelling": "عاصف",
+    "gender": "Boy",
+    "meaning": "Strong, stormy; An able minister",
+    "origin": "Quranic",
+    "tags": [
+      "Strength",
+      "Nature"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa75",
+    "name": "Aasim",
+    "transliteration": "‘Āṣim",
+    "arabic_spelling": "عاصم",
+    "gender": "Boy",
+    "meaning": "Protector, guardian",
+    "origin": "Quranic",
+    "tags": [
+      "Protector",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa76",
+    "name": "Aasimah",
+    "transliteration": "‘Āṣimah",
+    "arabic_spelling": "عاصمة",
+    "gender": "Girl",
+    "meaning": "Protector, capital city",
+    "origin": "Arabic",
+    "tags": [
+      "Protector",
+      "Place"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa77",
+    "name": "Aasiya",
+    "transliteration": "Āsiyah",
+    "arabic_spelling": "آسية",
+    "gender": "Girl",
+    "meaning": "Pharaoh's wife who raised Musa",
+    "origin": "Quranic",
+    "tags": [
+      "Quranic",
+      "Role Model"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa78",
+    "name": "Aasmaa",
+    "transliteration": "Asmā’",
+    "arabic_spelling": "أسماء",
+    "gender": "Girl",
+    "meaning": "Excellent, precious",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Classic"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa79",
+    "name": "Aatif",
+    "transliteration": "‘Āṭif",
+    "arabic_spelling": "عاطف",
+    "gender": "Boy",
+    "meaning": "Kind, affectionate",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Love"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa80",
+    "name": "Aatifa",
+    "transliteration": "‘Āṭifah",
+    "arabic_spelling": "عاطفة",
+    "gender": "Girl",
+    "meaning": "Affection, sympathy",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Love"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa81",
+    "name": "Aatika",
+    "transliteration": "‘Ātikah",
+    "arabic_spelling": "عاتكة",
+    "gender": "Girl",
+    "meaning": "Clear, pure, flower",
+    "origin": "Arabic",
+    "tags": [
+      "Nature",
+      "Purity"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa82",
+    "name": "Aatirah",
+    "transliteration": "‘Āṭirah",
+    "arabic_spelling": "عاطرة",
+    "gender": "Girl",
+    "meaning": "Fragrant",
+    "origin": "Arabic",
+    "tags": [
+      "Beauty",
+      "Scent"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa83",
+    "name": "Aayan",
+    "transliteration": "Ayyān",
+    "arabic_spelling": "أيان",
+    "gender": "Boy",
+    "meaning": "God's gift, Era",
+    "origin": "Quranic",
+    "tags": [
+      "Modern",
+      "Popular"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa84",
+    "name": "Aayush",
+    "transliteration": "Āyush",
+    "arabic_spelling": "آيوش",
+    "gender": "Boy",
+    "meaning": "Long lived",
+    "origin": "Generic",
+    "tags": [
+      "Life",
+      "Modern"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa85",
+    "name": "Aazad",
+    "transliteration": "Āzād",
+    "arabic_spelling": "آزاد",
+    "gender": "Boy",
+    "meaning": "Free, independent",
+    "origin": "Persian",
+    "tags": [
+      "Freedom",
+      "Virtue"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa86",
+    "name": "Aazeem",
+    "transliteration": "‘Aẓīm",
+    "arabic_spelling": "عظيم",
+    "gender": "Boy",
+    "meaning": "Great, magnificent",
+    "origin": "Arabic",
+    "tags": [
+      "Attribute",
+      "Grand"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa87",
+    "name": "Aazim",
+    "transliteration": "‘Āzim",
+    "arabic_spelling": "عازم",
+    "gender": "Boy",
+    "meaning": "Determined, resolute",
+    "origin": "Arabic",
+    "tags": [
+      "Virtue",
+      "Strength"
+    ],
+    "verified": true
+  },
+  {
+    "id": "aa88",
+    "name": "Aazmin",
+    "transliteration": "Āzmīn",
+    "arabic_spelling": "آزمين",
+    "gender": "Girl",
+    "meaning": "A star",
+    "origin": "Arabic",
+    "tags": [
+      "Celestial",
+      "Beauty"
+    ],
+    "verified": true
+  }
 ]

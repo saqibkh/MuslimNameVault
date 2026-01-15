@@ -112,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Qaisar",
+    "gender": "Boy",
+    "meaning": "Caesar",
+    "origin": "Arabic",
+    "id": "qa38",
+    "verified": true
+  },
+  {
     "id": "qa15",
     "name": "Qaiser",
     "gender": "Boy",
@@ -125,6 +133,22 @@
     "gender": "Unisex",
     "meaning": "Moon",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Qamar-ud-Din",
+    "gender": "Boy",
+    "meaning": "Moon of the Faith",
+    "origin": "Arabic",
+    "id": "qa39",
+    "verified": true
+  },
+  {
+    "name": "Qamar-uz-Zaman",
+    "gender": "Boy",
+    "meaning": "Moon of the Era",
+    "origin": "Arabic",
+    "id": "qa40",
     "verified": true
   },
   {
@@ -269,6 +293,14 @@
     "gender": "Boy",
     "meaning": "Straight, valuable",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Qayyum",
+    "gender": "Boy",
+    "meaning": "Self-subsisting (Allah)",
+    "origin": "Quranic",
+    "id": "qa37",
     "verified": true
   },
   {

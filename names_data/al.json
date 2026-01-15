@@ -40,11 +40,35 @@
     "verified": true
   },
   {
+    "name": "Alara",
+    "gender": "Girl",
+    "meaning": "Water fairy; Mythological figure",
+    "origin": "Turkish",
+    "id": "al33",
+    "verified": true
+  },
+  {
     "id": "al6",
     "name": "Alaua",
     "gender": "Girl",
     "meaning": "Exalted, highest social standing",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Alauddin",
+    "gender": "Boy",
+    "meaning": "Excellence of the Faith",
+    "origin": "Arabic",
+    "id": "al37",
+    "verified": true
+  },
+  {
+    "name": "Aleef",
+    "gender": "Boy",
+    "meaning": "Friendly, affectionate",
+    "origin": "Arabic",
+    "id": "al34",
     "verified": true
   },
   {
@@ -144,11 +168,27 @@
     "verified": true
   },
   {
+    "name": "Alishba",
+    "gender": "Girl",
+    "meaning": "Lovely; Innocent",
+    "origin": "Urdu",
+    "id": "al35",
+    "verified": true
+  },
+  {
     "id": "al19",
     "name": "Aliya",
     "gender": "Girl",
     "meaning": "High, noble",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Aliyan",
+    "gender": "Boy",
+    "meaning": "Tall and healthy",
+    "origin": "Arabic",
+    "id": "al36",
     "verified": true
   },
   {

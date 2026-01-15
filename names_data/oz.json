@@ -1,6 +1,42 @@
 [
-  { "id": "oz1", "name": "Ozair", "gender": "Boy", "meaning": "Prophet Ezra (Uzair)", "origin": "Quranic", "verified": true },
-  { "id": "oz2", "name": "Ozge", "gender": "Girl", "meaning": "Unique, different", "origin": "Turkish", "verified": true },
-  { "id": "oz3", "name": "Ozgur", "gender": "Unisex", "meaning": "Free, independent", "origin": "Turkish", "verified": true },
-  { "id": "oz4", "name": "Ozlem", "gender": "Girl", "meaning": "Yearning, missing", "origin": "Turkish", "verified": true }
+  {
+    "id": "oz1",
+    "name": "Ozair",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra (Uzair)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Ozan",
+    "gender": "Boy",
+    "meaning": "Bard, poet",
+    "origin": "Turkish",
+    "id": "oz5",
+    "verified": true
+  },
+  {
+    "id": "oz2",
+    "name": "Ozge",
+    "gender": "Girl",
+    "meaning": "Unique, different",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "oz3",
+    "name": "Ozgur",
+    "gender": "Unisex",
+    "meaning": "Free, independent",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "oz4",
+    "name": "Ozlem",
+    "gender": "Girl",
+    "meaning": "Yearning, missing",
+    "origin": "Turkish",
+    "verified": true
+  }
 ]

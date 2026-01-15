@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Sughra",
+    "gender": "Girl",
+    "meaning": "Small",
+    "origin": "Arabic",
+    "id": "su17",
+    "verified": true
+  },
+  {
     "id": "su4",
     "name": "Suha",
     "gender": "Girl",
@@ -96,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Sumbal",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Urdu",
+    "id": "su18",
+    "verified": true
+  },
+  {
     "id": "su12",
     "name": "Sumbul",
     "gender": "Girl",
@@ -109,6 +125,14 @@
     "gender": "Girl",
     "meaning": "Fine silk",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Suraiya",
+    "gender": "Girl",
+    "meaning": "Pleiades cluster",
+    "origin": "Arabic",
+    "id": "su19",
     "verified": true
   },
   {

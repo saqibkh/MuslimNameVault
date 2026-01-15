@@ -1,17 +1,130 @@
 [
-  { "id": "gu1", "name": "Gufran", "gender": "Unisex", "meaning": "Forgiveness (Variant of Ghufran)", "origin": "Arabic", "verified": true },
-  { "id": "gu2", "name": "Gul", "gender": "Girl", "meaning": "Flower, rose", "origin": "Persian/Turkish", "verified": true },
-  { "id": "gu3", "name": "Gulab", "gender": "Boy", "meaning": "Rose water", "origin": "Persian", "verified": true },
-  { "id": "gu4", "name": "Gulbahar", "gender": "Girl", "meaning": "Spring rose", "origin": "Persian", "verified": true },
-  { "id": "gu5", "name": "Gulbano", "gender": "Girl", "meaning": "Princess of flowers", "origin": "Persian", "verified": true },
-  { "id": "gu6", "name": "Gulfam", "gender": "Boy", "meaning": "Rose faced", "origin": "Persian", "verified": true },
-  { "id": "gu7", "name": "Guliz", "gender": "Girl", "meaning": "Rose trace", "origin": "Turkish", "verified": true },
-  { "id": "gu8", "name": "Gulnar", "gender": "Girl", "meaning": "Flower of the pomegranate", "origin": "Persian", "verified": true },
-  { "id": "gu9", "name": "Gulnaz", "gender": "Girl", "meaning": "Cute like a flower", "origin": "Persian", "verified": true },
-  { "id": "gu10", "name": "Gulrukh", "gender": "Girl", "meaning": "Face like a flower", "origin": "Persian", "verified": true },
-  { "id": "gu11", "name": "Gulshan", "gender": "Unisex", "meaning": "Garden of flowers", "origin": "Persian", "verified": true },
-  { "id": "gu12", "name": "Gulzar", "gender": "Unisex", "meaning": "Garden", "origin": "Persian", "verified": true },
-  { "id": "gu13", "name": "Gun", "gender": "Unisex", "meaning": "Day, sun", "origin": "Turkish", "verified": true },
-  { "id": "gu14", "name": "Gunay", "gender": "Unisex", "meaning": "Sun moon", "origin": "Turkish", "verified": true },
-  { "id": "gu15", "name": "Guni", "gender": "Boy", "meaning": "Color (Variant of Ghani 'Rich' in some dialects)", "origin": "Arabic", "verified": false }
+  {
+    "id": "gu1",
+    "name": "Gufran",
+    "gender": "Unisex",
+    "meaning": "Forgiveness (Variant of Ghufran)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gu2",
+    "name": "Gul",
+    "gender": "Girl",
+    "meaning": "Flower, rose",
+    "origin": "Persian/Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu3",
+    "name": "Gulab",
+    "gender": "Boy",
+    "meaning": "Rose water",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Gulbadan",
+    "gender": "Girl",
+    "meaning": "Rose-bodied",
+    "origin": "Persian",
+    "id": "gu16",
+    "verified": true
+  },
+  {
+    "id": "gu4",
+    "name": "Gulbahar",
+    "gender": "Girl",
+    "meaning": "Spring rose",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu5",
+    "name": "Gulbano",
+    "gender": "Girl",
+    "meaning": "Princess of flowers",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu6",
+    "name": "Gulfam",
+    "gender": "Boy",
+    "meaning": "Rose faced",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu7",
+    "name": "Guliz",
+    "gender": "Girl",
+    "meaning": "Rose trace",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu8",
+    "name": "Gulnar",
+    "gender": "Girl",
+    "meaning": "Flower of the pomegranate",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu9",
+    "name": "Gulnaz",
+    "gender": "Girl",
+    "meaning": "Cute like a flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu10",
+    "name": "Gulrukh",
+    "gender": "Girl",
+    "meaning": "Face like a flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu11",
+    "name": "Gulshan",
+    "gender": "Unisex",
+    "meaning": "Garden of flowers",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu12",
+    "name": "Gulzar",
+    "gender": "Unisex",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu13",
+    "name": "Gun",
+    "gender": "Unisex",
+    "meaning": "Day, sun",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu14",
+    "name": "Gunay",
+    "gender": "Unisex",
+    "meaning": "Sun moon",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu15",
+    "name": "Guni",
+    "gender": "Boy",
+    "meaning": "Color (Variant of Ghani 'Rich' in some dialects)",
+    "origin": "Arabic",
+    "verified": false
+  }
 ]

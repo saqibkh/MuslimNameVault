@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Daim",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "da41",
+    "verified": true
+  },
+  {
     "id": "da7",
     "name": "Daiyan",
     "gender": "Boy",
@@ -224,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Darab",
+    "gender": "Boy",
+    "meaning": "Big gate; Admiral",
+    "origin": "Persian",
+    "id": "da39",
+    "verified": true
+  },
+  {
     "id": "da26",
     "name": "Darakhshan",
     "gender": "Girl",
@@ -264,11 +280,27 @@
     "verified": true
   },
   {
+    "name": "Dastgir",
+    "gender": "Boy",
+    "meaning": "Helper; Saint",
+    "origin": "Persian",
+    "id": "da40",
+    "verified": true
+  },
+  {
     "id": "da31",
     "name": "Daud",
     "gender": "Boy",
     "meaning": "Beloved; Prophet David",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Daulah",
+    "gender": "Boy",
+    "meaning": "State, Empire",
+    "origin": "Arabic",
+    "id": "da42",
     "verified": true
   },
   {

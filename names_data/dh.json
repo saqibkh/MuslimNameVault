@@ -96,6 +96,30 @@
     "verified": true
   },
   {
+    "name": "Dhul-Fiqar",
+    "gender": "Boy",
+    "meaning": "Possessor of the Spine (Sword of Ali)",
+    "origin": "Islamic History",
+    "id": "dh14",
+    "verified": true
+  },
+  {
+    "name": "Dhul-Kifl",
+    "gender": "Boy",
+    "meaning": "Possessor of a Fold (Prophet Ezekiel)",
+    "origin": "Quranic",
+    "id": "dh15",
+    "verified": true
+  },
+  {
+    "name": "Dhul-Qarnayn",
+    "gender": "Boy",
+    "meaning": "Owner of Two Horns (Great King)",
+    "origin": "Quranic",
+    "id": "dh16",
+    "verified": true
+  },
+  {
     "id": "dh11",
     "name": "DhulFiqar",
     "gender": "Boy",

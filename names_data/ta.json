@@ -112,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Taj-ud-Din",
+    "gender": "Boy",
+    "meaning": "Crown of the Faith",
+    "origin": "Arabic",
+    "id": "ta60",
+    "verified": true
+  },
+  {
     "id": "ta14",
     "name": "Tajuddin",
     "gender": "Boy",
@@ -224,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Taner",
+    "gender": "Boy",
+    "meaning": "Dawn man",
+    "origin": "Turkish",
+    "id": "ta53",
+    "verified": true
+  },
+  {
     "id": "ta25",
     "name": "Tanveer",
     "gender": "Unisex",
@@ -320,11 +336,35 @@
     "verified": true
   },
   {
+    "name": "Tarkan",
+    "gender": "Boy",
+    "meaning": "Bold, strong",
+    "origin": "Turkish",
+    "id": "ta54",
+    "verified": true
+  },
+  {
     "id": "ta36",
     "name": "Tarub",
     "gender": "Girl",
     "meaning": "Merry",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tasleem",
+    "gender": "Unisex",
+    "meaning": "Salutation, submission",
+    "origin": "Arabic",
+    "id": "ta55",
+    "verified": true
+  },
+  {
+    "name": "Taslim",
+    "gender": "Unisex",
+    "meaning": "Submission",
+    "origin": "Arabic",
+    "id": "ta61",
     "verified": true
   },
   {
@@ -341,6 +381,30 @@
     "gender": "Girl",
     "meaning": "Fountain in Paradise",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tauhid",
+    "gender": "Boy",
+    "meaning": "Oneness of God",
+    "origin": "Arabic",
+    "id": "ta62",
+    "verified": true
+  },
+  {
+    "name": "Tauqeer",
+    "gender": "Boy",
+    "meaning": "Respect",
+    "origin": "Arabic",
+    "id": "ta56",
+    "verified": true
+  },
+  {
+    "name": "Tauseef",
+    "gender": "Boy",
+    "meaning": "Praise",
+    "origin": "Arabic",
+    "id": "ta57",
     "verified": true
   },
   {
@@ -365,6 +429,14 @@
     "meaning": "Good; Another name for Medina",
     "origin": "Arabic",
     "id": "ta52",
+    "verified": true
+  },
+  {
+    "name": "Tayfun",
+    "gender": "Boy",
+    "meaning": "Typhoon",
+    "origin": "Turkish",
+    "id": "ta58",
     "verified": true
   },
   {
@@ -405,6 +477,14 @@
     "gender": "Girl",
     "meaning": "Good, pure, chaste",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tazeen",
+    "gender": "Girl",
+    "meaning": "Decoration",
+    "origin": "Arabic",
+    "id": "ta59",
     "verified": true
   },
   {

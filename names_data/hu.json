@@ -152,6 +152,30 @@
     "verified": true
   },
   {
+    "name": "Husam",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "hu28",
+    "verified": true
+  },
+  {
+    "name": "Husam-ud-Din",
+    "gender": "Boy",
+    "meaning": "Sword of the Faith",
+    "origin": "Arabic",
+    "id": "hu29",
+    "verified": true
+  },
+  {
+    "name": "Husn",
+    "gender": "Unisex",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "hu27",
+    "verified": true
+  },
+  {
     "id": "hu17",
     "name": "Husna",
     "gender": "Girl",

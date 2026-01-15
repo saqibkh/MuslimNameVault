@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Kaan",
+    "gender": "Boy",
+    "meaning": "Ruler, King of Kings",
+    "origin": "Turkish",
+    "id": "ka50",
+    "verified": true
+  },
+  {
     "name": "Kaba",
     "gender": "Boy",
     "meaning": "The Kaaba",
@@ -56,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Kadir",
+    "gender": "Boy",
+    "meaning": "Powerful",
+    "origin": "Turkish",
+    "id": "ka51",
+    "verified": true
+  },
+  {
     "id": "ka7",
     "name": "Kafeel",
     "gender": "Boy",
@@ -69,6 +85,14 @@
     "gender": "Boy",
     "meaning": "Sufficient",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Kafil",
+    "gender": "Boy",
+    "meaning": "Guarantor",
+    "origin": "Arabic",
+    "id": "ka52",
     "verified": true
   },
   {
@@ -144,6 +168,38 @@
     "verified": true
   },
   {
+    "name": "Kaleem",
+    "gender": "Boy",
+    "meaning": "Speaker",
+    "origin": "Arabic",
+    "id": "ka53",
+    "verified": true
+  },
+  {
+    "name": "Kaleem-ullah",
+    "gender": "Boy",
+    "meaning": "Speaker with God (Moses)",
+    "origin": "Arabic",
+    "id": "ka59",
+    "verified": true
+  },
+  {
+    "name": "Kalimullah",
+    "gender": "Boy",
+    "meaning": "One who spoke to Allah (Musa)",
+    "origin": "Arabic",
+    "id": "ka54",
+    "verified": true
+  },
+  {
+    "name": "Kalsum",
+    "gender": "Girl",
+    "meaning": "Full cheeked",
+    "origin": "Arabic",
+    "id": "ka55",
+    "verified": true
+  },
+  {
     "id": "ka18",
     "name": "Kaltham",
     "gender": "Girl",
@@ -165,6 +221,14 @@
     "gender": "Boy",
     "meaning": "Perfection",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kamal-ud-Din",
+    "gender": "Boy",
+    "meaning": "Perfection of the Faith",
+    "origin": "Arabic",
+    "id": "ka60",
     "verified": true
   },
   {
@@ -232,6 +296,22 @@
     "verified": true
   },
   {
+    "name": "Kaneez",
+    "gender": "Girl",
+    "meaning": "Maid servant",
+    "origin": "Urdu",
+    "id": "ka56",
+    "verified": true
+  },
+  {
+    "name": "Kanwal",
+    "gender": "Girl",
+    "meaning": "Lotus",
+    "origin": "Urdu",
+    "id": "ka57",
+    "verified": true
+  },
+  {
     "name": "Kanz",
     "gender": "Boy",
     "meaning": "Treasure",
@@ -253,6 +333,22 @@
     "gender": "Unisex",
     "meaning": "Generosity",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Karam-ullah",
+    "gender": "Boy",
+    "meaning": "Bounty of God",
+    "origin": "Arabic",
+    "id": "ka61",
+    "verified": true
+  },
+  {
+    "name": "Karamat",
+    "gender": "Boy",
+    "meaning": "Miracle",
+    "origin": "Arabic",
+    "id": "ka58",
     "verified": true
   },
   {
@@ -285,6 +381,14 @@
     "gender": "Boy",
     "meaning": "Discoverer, revealer",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kashif-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Revealer of the Truth",
+    "origin": "Arabic",
+    "id": "ka62",
     "verified": true
   },
   {

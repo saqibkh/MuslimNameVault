@@ -1,5 +1,13 @@
 [
   {
+    "name": "Sibel",
+    "gender": "Girl",
+    "meaning": "Flowing rain",
+    "origin": "Turkish",
+    "id": "si17",
+    "verified": true
+  },
+  {
     "id": "si1",
     "name": "Sibt",
     "gender": "Boy",
@@ -80,11 +88,35 @@
     "verified": true
   },
   {
+    "name": "Sinem",
+    "gender": "Girl",
+    "meaning": "My bosom/heart",
+    "origin": "Turkish",
+    "id": "si18",
+    "verified": true
+  },
+  {
     "id": "si8",
     "name": "Siraj",
     "gender": "Boy",
     "meaning": "Lamp, light",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Siraj-ud-Din",
+    "gender": "Boy",
+    "meaning": "Lamp of the Faith",
+    "origin": "Arabic",
+    "id": "si19",
+    "verified": true
+  },
+  {
+    "name": "Siraj-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Lamp of the Truth",
+    "origin": "Arabic",
+    "id": "si20",
     "verified": true
   },
   {

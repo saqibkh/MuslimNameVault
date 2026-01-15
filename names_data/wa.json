@@ -80,6 +80,14 @@
     "verified": true
   },
   {
+    "name": "Waheeda",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Arabic",
+    "id": "wa43",
+    "verified": true
+  },
+  {
     "id": "wa9",
     "name": "Wahid",
     "gender": "Boy",
@@ -160,6 +168,22 @@
     "verified": true
   },
   {
+    "name": "Wajih-ud-Din",
+    "gender": "Boy",
+    "meaning": "Eminent of the Faith",
+    "origin": "Arabic",
+    "id": "wa44",
+    "verified": true
+  },
+  {
+    "name": "Wajih-ullah",
+    "gender": "Boy",
+    "meaning": "Face of God (Direction)",
+    "origin": "Arabic",
+    "id": "wa45",
+    "verified": true
+  },
+  {
     "id": "wa18",
     "name": "Wakil",
     "gender": "Boy",
@@ -181,6 +205,14 @@
     "gender": "Boy",
     "meaning": "Guardian, protector, friend",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Wali-ullah",
+    "gender": "Boy",
+    "meaning": "Friend of God",
+    "origin": "Arabic",
+    "id": "wa46",
     "verified": true
   },
   {
@@ -213,6 +245,14 @@
     "gender": "Boy",
     "meaning": "Dignity, majesty",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Waqar-un-Nisa",
+    "gender": "Girl",
+    "meaning": "Dignity of Women",
+    "origin": "Arabic",
+    "id": "wa47",
     "verified": true
   },
   {
@@ -253,6 +293,14 @@
     "gender": "Girl",
     "meaning": "Guardian, protector",
     "origin": "Germanic/Arabic usage",
+    "verified": true
+  },
+  {
+    "name": "Warith",
+    "gender": "Boy",
+    "meaning": "Heir",
+    "origin": "Quranic",
+    "id": "wa48",
     "verified": true
   },
   {

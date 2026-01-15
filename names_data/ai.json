@@ -1,27 +1,210 @@
 [
-  { "id": "ai1", "name": "Aida", "gender": "Girl", "meaning": "Visiting, returning, reward", "origin": "Arabic", "verified": true },
-  { "id": "ai2", "name": "Aidan", "gender": "Boy", "meaning": "Help, intelligent", "origin": "Arabic", "verified": true },
-  { "id": "ai3", "name": "Aidah", "gender": "Girl", "meaning": "Guest, reward", "origin": "Arabic", "verified": true },
-  { "id": "ai4", "name": "Aighar", "gender": "Boy", "meaning": "Religious, righteous", "origin": "Arabic", "verified": true },
-  { "id": "ai5", "name": "Aila", "gender": "Girl", "meaning": "Noble", "origin": "Arabic", "verified": true },
-  { "id": "ai6", "name": "Aimal", "gender": "Boy", "meaning": "Hope", "origin": "Pashto", "verified": true },
-  { "id": "ai7", "name": "Aiman", "gender": "Unisex", "meaning": "Faith, right hand, lucky", "origin": "Arabic", "verified": true },
-  { "id": "ai8", "name": "Aime", "gender": "Girl", "meaning": "Loved", "origin": "French/Arabic influence", "verified": false },
-  { "id": "ai9", "name": "Aina", "gender": "Girl", "meaning": "Mirror", "origin": "Persian", "verified": true },
-  { "id": "ai10", "name": "Ain", "gender": "Girl", "meaning": "Eye, spring", "origin": "Arabic", "verified": true },
-  { "id": "ai11", "name": "Aini", "gender": "Girl", "meaning": "Spring, flower", "origin": "Arabic", "verified": true },
-  { "id": "ai12", "name": "Aininoor", "gender": "Girl", "meaning": "Light of eyes", "origin": "Arabic", "verified": true },
-  { "id": "ai13", "name": "Ainul", "gender": "Unisex", "meaning": "Eyes of", "origin": "Arabic", "verified": true },
-  { "id": "ai14", "name": "Aique", "gender": "Boy", "meaning": "Driver", "origin": "Arabic", "verified": true },
-  { "id": "ai15", "name": "Aira", "gender": "Girl", "meaning": "Respectable", "origin": "Arabic", "verified": true },
-  { "id": "ai16", "name": "Airaf", "gender": "Boy", "meaning": "High place", "origin": "Arabic", "verified": true },
-  { "id": "ai17", "name": "Ais", "gender": "Boy", "meaning": "Life", "origin": "Arabic", "verified": true },
-  { "id": "ai18", "name": "Aisa", "gender": "Boy", "meaning": "Prophet Isa (Variant)", "origin": "Quranic", "verified": true },
-  { "id": "ai19", "name": "Aisha", "gender": "Girl", "meaning": "Alive, prosperous", "origin": "Arabic", "verified": true },
-  { "id": "ai20", "name": "Aishah", "gender": "Girl", "meaning": "Alive", "origin": "Arabic", "verified": true },
-  { "id": "ai21", "name": "Aiya", "gender": "Girl", "meaning": "Miracle, verse", "origin": "Arabic", "verified": true },
-  { "id": "ai22", "name": "Aiyaz", "gender": "Boy", "meaning": "Generous", "origin": "Turkish", "verified": true },
-  { "id": "ai23", "name": "Aiza", "gender": "Girl", "meaning": "Noble, respected", "origin": "Arabic", "verified": true },
-  { "id": "ai24", "name": "Aizam", "gender": "Boy", "meaning": "Determined", "origin": "Arabic", "verified": true },
-  { "id": "ai25", "name": "Aizaz", "gender": "Boy", "meaning": "Honor, esteem", "origin": "Arabic", "verified": true }
+  {
+    "id": "ai1",
+    "name": "Aida",
+    "gender": "Girl",
+    "meaning": "Visiting, returning, reward",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai3",
+    "name": "Aidah",
+    "gender": "Girl",
+    "meaning": "Guest, reward",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai2",
+    "name": "Aidan",
+    "gender": "Boy",
+    "meaning": "Help, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai4",
+    "name": "Aighar",
+    "gender": "Boy",
+    "meaning": "Religious, righteous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai5",
+    "name": "Aila",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai6",
+    "name": "Aimal",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "id": "ai7",
+    "name": "Aiman",
+    "gender": "Unisex",
+    "meaning": "Faith, right hand, lucky",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai8",
+    "name": "Aime",
+    "gender": "Girl",
+    "meaning": "Loved",
+    "origin": "French/Arabic influence",
+    "verified": false
+  },
+  {
+    "id": "ai10",
+    "name": "Ain",
+    "gender": "Girl",
+    "meaning": "Eye, spring",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ain-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Eye of the Truth",
+    "origin": "Arabic",
+    "id": "ai26",
+    "verified": true
+  },
+  {
+    "id": "ai9",
+    "name": "Aina",
+    "gender": "Girl",
+    "meaning": "Mirror",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ai11",
+    "name": "Aini",
+    "gender": "Girl",
+    "meaning": "Spring, flower",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai12",
+    "name": "Aininoor",
+    "gender": "Girl",
+    "meaning": "Light of eyes",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai13",
+    "name": "Ainul",
+    "gender": "Unisex",
+    "meaning": "Eyes of",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai14",
+    "name": "Aique",
+    "gender": "Boy",
+    "meaning": "Driver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai15",
+    "name": "Aira",
+    "gender": "Girl",
+    "meaning": "Respectable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai16",
+    "name": "Airaf",
+    "gender": "Boy",
+    "meaning": "High place",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai17",
+    "name": "Ais",
+    "gender": "Boy",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai18",
+    "name": "Aisa",
+    "gender": "Boy",
+    "meaning": "Prophet Isa (Variant)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ai19",
+    "name": "Aisha",
+    "gender": "Girl",
+    "meaning": "Alive, prosperous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai20",
+    "name": "Aishah",
+    "gender": "Girl",
+    "meaning": "Alive",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai21",
+    "name": "Aiya",
+    "gender": "Girl",
+    "meaning": "Miracle, verse",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai22",
+    "name": "Aiyaz",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ai23",
+    "name": "Aiza",
+    "gender": "Girl",
+    "meaning": "Noble, respected",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai24",
+    "name": "Aizam",
+    "gender": "Boy",
+    "meaning": "Determined",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ai25",
+    "name": "Aizaz",
+    "gender": "Boy",
+    "meaning": "Honor, esteem",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

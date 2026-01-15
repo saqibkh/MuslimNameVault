@@ -24,6 +24,22 @@
     "verified": true
   },
   {
+    "name": "Qudrat",
+    "gender": "Unisex",
+    "meaning": "Power, Nature",
+    "origin": "Arabic",
+    "id": "qu15",
+    "verified": true
+  },
+  {
+    "name": "Qudrat-ullah",
+    "gender": "Boy",
+    "meaning": "Power of God",
+    "origin": "Arabic",
+    "id": "qu16",
+    "verified": true
+  },
+  {
     "id": "qu4",
     "name": "Quds",
     "gender": "Unisex",
@@ -101,6 +117,14 @@
     "gender": "Boy",
     "meaning": "Axis, pole, leader",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Qutb-ud-Din",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17",
     "verified": true
   },
   {

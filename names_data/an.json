@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Anahid",
+    "gender": "Girl",
+    "meaning": "Immaculate; Planet Venus",
+    "origin": "Persian",
+    "id": "an28",
+    "verified": true
+  },
+  {
     "id": "an2",
     "name": "Anan",
     "gender": "Unisex",
@@ -168,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Anqa",
+    "gender": "Girl",
+    "meaning": "Phoenix (Mythical bird)",
+    "origin": "Arabic",
+    "id": "an29",
+    "verified": true
+  },
+  {
     "id": "an20",
     "name": "Ansam",
     "gender": "Girl",
@@ -205,6 +221,14 @@
     "gender": "Boy",
     "meaning": "Lights, rays",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Anwar-ul-Haq",
+    "gender": "Boy",
+    "meaning": "Lights of the Truth",
+    "origin": "Arabic",
+    "id": "an30",
     "verified": true
   },
   {

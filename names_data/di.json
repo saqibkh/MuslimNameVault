@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Dil",
+    "gender": "Unisex",
+    "meaning": "Heart",
+    "origin": "Persian",
+    "id": "di19",
+    "verified": true
+  },
+  {
     "id": "di4",
     "name": "Dila",
     "gender": "Girl",
@@ -101,6 +109,14 @@
     "gender": "Girl",
     "meaning": "Downpour, gentle rain",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Din",
+    "gender": "Boy",
+    "meaning": "Faith, Religion",
+    "origin": "Arabic",
+    "id": "di20",
     "verified": true
   },
   {
