@@ -1,5 +1,13 @@
 [
   {
+    "name": "Jeddah",
+    "gender": "Girl",
+    "meaning": "Grandmother (Eve's tomb city)",
+    "origin": "Arabic",
+    "id": "je9",
+    "verified": true
+  },
+  {
     "id": "je1",
     "name": "Jeelan",
     "gender": "Boy",
@@ -53,6 +61,14 @@
     "gender": "Girl",
     "meaning": "Paradise",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jericho",
+    "gender": "Girl",
+    "meaning": "Ariha (Fragrant City)",
+    "origin": "Arabic",
+    "id": "je10",
     "verified": true
   },
   {

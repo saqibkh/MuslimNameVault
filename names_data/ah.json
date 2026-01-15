@@ -152,6 +152,14 @@
     "verified": true
   },
   {
+    "name": "Ahsa",
+    "gender": "Girl",
+    "meaning": "Oasis region in Eastern Arabia",
+    "origin": "Arabic",
+    "id": "ah29",
+    "verified": true
+  },
+  {
     "id": "ah24",
     "name": "Ahsab",
     "gender": "Boy",
@@ -197,6 +205,14 @@
     "gender": "Boy",
     "meaning": "Falcon",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ahvaz",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "ah30",
     "verified": true
   },
   {

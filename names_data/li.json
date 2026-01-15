@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Libya",
+    "gender": "Girl",
+    "meaning": "North African nation",
+    "origin": "Arabic",
+    "id": "li11",
+    "verified": true
+  },
+  {
     "id": "li5",
     "name": "Lina",
     "gender": "Girl",
@@ -53,6 +61,14 @@
     "meaning": "Language of the Faith",
     "origin": "Arabic",
     "id": "li10",
+    "verified": true
+  },
+  {
+    "name": "Liwa",
+    "gender": "Girl",
+    "meaning": "Oasis in UAE",
+    "origin": "Arabic",
+    "id": "li12",
     "verified": true
   },
   {

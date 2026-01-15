@@ -144,6 +144,22 @@
     "verified": true
   },
   {
+    "name": "Diyab",
+    "gender": "Boy",
+    "meaning": "Wolves",
+    "origin": "Arabic",
+    "id": "di22",
+    "verified": true
+  },
+  {
+    "name": "Diyarbakir",
+    "gender": "Boy",
+    "meaning": "City in Turkey (Land of Bakr tribe)",
+    "origin": "Turkish",
+    "id": "di21",
+    "verified": true
+  },
+  {
     "id": "di16",
     "name": "Diyari",
     "gender": "Boy",

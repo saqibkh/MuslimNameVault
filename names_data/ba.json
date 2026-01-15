@@ -48,11 +48,27 @@
     "verified": true
   },
   {
+    "name": "Babil",
+    "gender": "Boy",
+    "meaning": "Babylon (Ancient city in Iraq)",
+    "origin": "Arabic/Akkadian",
+    "id": "ba115",
+    "verified": true
+  },
+  {
     "id": "ba6",
     "name": "Babrak",
     "gender": "Boy",
     "meaning": "Little basil flower",
     "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "name": "Badakhshan",
+    "gender": "Boy",
+    "meaning": "Region in Afghanistan (Famous for rubies)",
+    "origin": "Persian",
+    "id": "ba116",
     "verified": true
   },
   {
@@ -152,6 +168,14 @@
     "verified": true
   },
   {
+    "name": "Baghdad",
+    "gender": "Unisex",
+    "meaning": "Capital of Iraq; Gift of God",
+    "origin": "Persian/Arabic",
+    "id": "ba117",
+    "verified": true
+  },
+  {
     "id": "ba17",
     "name": "Baha",
     "gender": "Boy",
@@ -248,6 +272,14 @@
     "verified": true
   },
   {
+    "name": "Bahla",
+    "gender": "Girl",
+    "meaning": "Historic oasis in Oman",
+    "origin": "Arabic",
+    "id": "ba118",
+    "verified": true
+  },
+  {
     "id": "ba27",
     "name": "Bahman",
     "gender": "Boy",
@@ -261,6 +293,14 @@
     "gender": "Boy",
     "meaning": "Storm, strong wind",
     "origin": "Kurdish",
+    "verified": true
+  },
+  {
+    "name": "Bahrain",
+    "gender": "Boy",
+    "meaning": "The Two Seas; Island nation",
+    "origin": "Arabic",
+    "id": "ba119",
     "verified": true
   },
   {
@@ -352,6 +392,22 @@
     "verified": true
   },
   {
+    "name": "Baku",
+    "gender": "Boy",
+    "meaning": "Capital of Azerbaijan; Windy city",
+    "origin": "Persian",
+    "id": "ba120",
+    "verified": true
+  },
+  {
+    "name": "Balad",
+    "gender": "Boy",
+    "meaning": "City; Country",
+    "origin": "Arabic",
+    "id": "ba121",
+    "verified": true
+  },
+  {
     "id": "ba39",
     "name": "Balagh",
     "gender": "Boy",
@@ -376,6 +432,14 @@
     "verified": true
   },
   {
+    "name": "Balkh",
+    "gender": "Boy",
+    "meaning": "Ancient city in Afghanistan (Mother of Cities)",
+    "origin": "Persian",
+    "id": "ba122",
+    "verified": true
+  },
+  {
     "id": "ba42",
     "name": "Balqis",
     "gender": "Girl",
@@ -389,6 +453,22 @@
     "gender": "Unisex",
     "meaning": "Balsam, balm, remedy",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Bam",
+    "gender": "Boy",
+    "meaning": "Historic citadel city in Iran",
+    "origin": "Persian",
+    "id": "ba123",
+    "verified": true
+  },
+  {
+    "name": "Bamiyan",
+    "gender": "Boy",
+    "meaning": "Valley in Afghanistan",
+    "origin": "Persian",
+    "id": "ba124",
     "verified": true
   },
   {
@@ -421,6 +501,14 @@
     "gender": "Boy",
     "meaning": "Wise, sensible",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Baniyas",
+    "gender": "Boy",
+    "meaning": "City in Syria/Golan",
+    "origin": "Arabic",
+    "id": "ba125",
     "verified": true
   },
   {
@@ -461,6 +549,14 @@
     "gender": "Boy",
     "meaning": "Innocent",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Barada",
+    "gender": "Girl",
+    "meaning": "River of Damascus; Cold water",
+    "origin": "Arabic",
+    "id": "ba126",
     "verified": true
   },
   {
@@ -589,6 +685,14 @@
     "gender": "Boy",
     "meaning": "Lightning",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Barqa",
+    "gender": "Girl",
+    "meaning": "Cyrenaica (Region in Libya)",
+    "origin": "Arabic",
+    "id": "ba127",
     "verified": true
   },
   {
@@ -808,6 +912,14 @@
     "verified": true
   },
   {
+    "name": "Basra",
+    "gender": "Girl",
+    "meaning": "Historic city in Iraq",
+    "origin": "Arabic",
+    "id": "ba128",
+    "verified": true
+  },
+  {
     "id": "ba92",
     "name": "Bassam",
     "gender": "Boy",
@@ -821,6 +933,14 @@
     "gender": "Boy",
     "meaning": "Inward, hidden (Attribute of Allah)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Batna",
+    "gender": "Girl",
+    "meaning": "City in Algeria",
+    "origin": "Berber/Arabic",
+    "id": "ba129",
     "verified": true
   },
   {
@@ -877,6 +997,14 @@
     "gender": "Boy",
     "meaning": "Name of a lion; Courageous",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Bayrut",
+    "gender": "Girl",
+    "meaning": "Beirut (Capital of Lebanon)",
+    "origin": "Arabic",
+    "id": "ba130",
     "verified": true
   },
   {

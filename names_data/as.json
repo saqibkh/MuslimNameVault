@@ -232,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Asqalan",
+    "gender": "Boy",
+    "meaning": "Historic city in Palestine (Ashkelon)",
+    "origin": "Arabic",
+    "id": "as37",
+    "verified": true
+  },
+  {
     "name": "Asr",
     "gender": "Unisex",
     "meaning": "Time; Afternoon",
@@ -256,11 +264,27 @@
     "verified": true
   },
   {
+    "name": "Assur",
+    "gender": "Boy",
+    "meaning": "Ancient Assyrian capital",
+    "origin": "Historical",
+    "id": "as38",
+    "verified": true
+  },
+  {
     "id": "as27",
     "name": "Aswad",
     "gender": "Boy",
     "meaning": "Black",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Aswan",
+    "gender": "Boy",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "as39",
     "verified": true
   },
   {

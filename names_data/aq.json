@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Aqaba",
+    "gender": "Girl",
+    "meaning": "Coastal city in Jordan; Obstacle",
+    "origin": "Arabic",
+    "id": "aq12",
+    "verified": true
+  },
+  {
     "id": "aq2",
     "name": "Aqdas",
     "gender": "Unisex",

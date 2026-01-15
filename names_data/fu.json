@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Fujairah",
+    "gender": "Girl",
+    "meaning": "Emirate in UAE",
+    "origin": "Arabic",
+    "id": "fu10",
+    "verified": true
+  },
+  {
     "id": "fu4",
     "name": "Fulan",
     "gender": "Boy",
@@ -61,6 +69,14 @@
     "gender": "Girl",
     "meaning": "Some distance",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Fustat",
+    "gender": "Boy",
+    "meaning": "First Islamic capital of Egypt",
+    "origin": "Arabic",
+    "id": "fu11",
     "verified": true
   },
   {

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Tabaristan",
+    "gender": "Boy",
+    "meaning": "Historic region in Iran",
+    "origin": "Persian",
+    "id": "ta63",
+    "verified": true
+  },
+  {
     "id": "ta1",
     "name": "Tabassum",
     "gender": "Unisex",
@@ -16,11 +24,27 @@
     "verified": true
   },
   {
+    "name": "Tabriz",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "ta64",
+    "verified": true
+  },
+  {
     "name": "Tabuk",
     "gender": "Boy",
     "meaning": "City in Arabia (Battle site)",
     "origin": "Islamic History",
     "id": "ta47",
+    "verified": true
+  },
+  {
+    "name": "Tadmor",
+    "gender": "Girl",
+    "meaning": "Palmyra (Syria)",
+    "origin": "Arabic",
+    "id": "ta65",
     "verified": true
   },
   {
@@ -120,11 +144,27 @@
     "verified": true
   },
   {
+    "name": "Tajikistan",
+    "gender": "Boy",
+    "meaning": "Land of Tajiks",
+    "origin": "Persian",
+    "id": "ta66",
+    "verified": true
+  },
+  {
     "id": "ta14",
     "name": "Tajuddin",
     "gender": "Boy",
     "meaning": "Crown of the Faith",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Takrit",
+    "gender": "Boy",
+    "meaning": "Tikrit (Iraq)",
+    "origin": "Arabic",
+    "id": "ta67",
     "verified": true
   },
   {
@@ -240,6 +280,22 @@
     "verified": true
   },
   {
+    "name": "Tangier",
+    "gender": "Boy",
+    "meaning": "Tanja (Morocco)",
+    "origin": "Arabic",
+    "id": "ta68",
+    "verified": true
+  },
+  {
+    "name": "Tanta",
+    "gender": "Girl",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "ta69",
+    "verified": true
+  },
+  {
     "id": "ta25",
     "name": "Tanveer",
     "gender": "Unisex",
@@ -304,6 +360,14 @@
     "verified": true
   },
   {
+    "name": "Tarabulus",
+    "gender": "Boy",
+    "meaning": "Tripoli (Libya/Lebanon)",
+    "origin": "Arabic",
+    "id": "ta70",
+    "verified": true
+  },
+  {
     "id": "ta32",
     "name": "Tarannum",
     "gender": "Girl",
@@ -328,6 +392,14 @@
     "verified": true
   },
   {
+    "name": "Tarim",
+    "gender": "Boy",
+    "meaning": "City of Saints (Yemen)",
+    "origin": "Arabic",
+    "id": "ta71",
+    "verified": true
+  },
+  {
     "id": "ta35",
     "name": "Tariq",
     "gender": "Boy",
@@ -344,11 +416,35 @@
     "verified": true
   },
   {
+    "name": "Tarsus",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ta72",
+    "verified": true
+  },
+  {
+    "name": "Tartus",
+    "gender": "Boy",
+    "meaning": "City in Syria",
+    "origin": "Arabic",
+    "id": "ta73",
+    "verified": true
+  },
+  {
     "id": "ta36",
     "name": "Tarub",
     "gender": "Girl",
     "meaning": "Merry",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tashkent",
+    "gender": "Boy",
+    "meaning": "Stone City (Uzbekistan)",
+    "origin": "Turkic",
+    "id": "ta74",
     "verified": true
   },
   {
@@ -445,6 +541,14 @@
     "gender": "Boy",
     "meaning": "Servant of God",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tayma",
+    "gender": "Girl",
+    "meaning": "Oasis in Arabia",
+    "origin": "Arabic",
+    "id": "ta75",
     "verified": true
   },
   {

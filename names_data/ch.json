@@ -120,6 +120,14 @@
     "verified": true
   },
   {
+    "name": "Chitral",
+    "gender": "Boy",
+    "meaning": "Mountain region in Pakistan",
+    "origin": "Urdu",
+    "id": "ch17",
+    "verified": true
+  },
+  {
     "id": "ch15",
     "name": "Choudhry",
     "gender": "Boy",

@@ -24,11 +24,27 @@
     "verified": true
   },
   {
+    "name": "Golan",
+    "gender": "Boy",
+    "meaning": "Jawlan (Heights in Syria)",
+    "origin": "Arabic",
+    "id": "go6",
+    "verified": true
+  },
+  {
     "id": "go3",
     "name": "Golnar",
     "gender": "Girl",
     "meaning": "Pomegranate flower",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Gorgan",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "go7",
     "verified": true
   },
   {

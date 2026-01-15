@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Gujrat",
+    "gender": "Boy",
+    "meaning": "Region in India/Pakistan",
+    "origin": "Urdu",
+    "id": "gu17",
+    "verified": true
+  },
+  {
     "id": "gu2",
     "name": "Gul",
     "gender": "Girl",

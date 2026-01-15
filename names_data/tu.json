@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Tubruq",
+    "gender": "Boy",
+    "meaning": "Tobruk (Libya)",
+    "origin": "Arabic",
+    "id": "tu10",
+    "verified": true
+  },
+  {
     "id": "tu2",
     "name": "Tufail",
     "gender": "Boy",
@@ -24,11 +32,27 @@
     "verified": true
   },
   {
+    "name": "Tulaytula",
+    "gender": "Girl",
+    "meaning": "Toledo (Spain)",
+    "origin": "Arabic",
+    "id": "tu11",
+    "verified": true
+  },
+  {
     "name": "Tuncay",
     "gender": "Boy",
     "meaning": "Bronze moon",
     "origin": "Turkish",
     "id": "tu9",
+    "verified": true
+  },
+  {
+    "name": "Tunis",
+    "gender": "Girl",
+    "meaning": "Capital of Tunisia",
+    "origin": "Arabic",
+    "id": "tu12",
     "verified": true
   },
   {
@@ -53,6 +77,14 @@
     "gender": "Boy",
     "meaning": "Land of the Turks; Brave",
     "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "name": "Turkey",
+    "gender": "Boy",
+    "meaning": "Land of Turks",
+    "origin": "Turkish",
+    "id": "tu13",
     "verified": true
   },
   {

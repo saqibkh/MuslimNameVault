@@ -24,6 +24,22 @@
     "verified": true
   },
   {
+    "name": "Sudan",
+    "gender": "Boy",
+    "meaning": "Land of the Blacks",
+    "origin": "Arabic",
+    "id": "su20",
+    "verified": true
+  },
+  {
+    "name": "Suez",
+    "gender": "Boy",
+    "meaning": "Port city in Egypt",
+    "origin": "Arabic",
+    "id": "su21",
+    "verified": true
+  },
+  {
     "id": "su3",
     "name": "Sufyan",
     "gender": "Boy",
@@ -69,6 +85,14 @@
     "gender": "Girl",
     "meaning": "Gentle, easy",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sukkur",
+    "gender": "Boy",
+    "meaning": "City in Pakistan",
+    "origin": "Urdu",
+    "id": "su22",
     "verified": true
   },
   {
@@ -120,11 +144,27 @@
     "verified": true
   },
   {
+    "name": "Sumer",
+    "gender": "Boy",
+    "meaning": "Ancient land (Iraq)",
+    "origin": "Ancient",
+    "id": "su23",
+    "verified": true
+  },
+  {
     "id": "su13",
     "name": "Sundus",
     "gender": "Girl",
     "meaning": "Fine silk",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Sur",
+    "gender": "Boy",
+    "meaning": "Tyre (Lebanon); Wall",
+    "origin": "Arabic",
+    "id": "su24",
     "verified": true
   },
   {
@@ -141,6 +181,14 @@
     "gender": "Girl",
     "meaning": "Star cluster (Pleiades)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Susa",
+    "gender": "Girl",
+    "meaning": "Shush (Ancient Iran)",
+    "origin": "Persian",
+    "id": "su25",
     "verified": true
   },
   {

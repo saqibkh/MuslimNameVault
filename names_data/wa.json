@@ -184,6 +184,14 @@
     "verified": true
   },
   {
+    "name": "Wakhan",
+    "gender": "Boy",
+    "meaning": "Corridor in Afghanistan",
+    "origin": "Persian",
+    "id": "wa49",
+    "verified": true
+  },
+  {
     "id": "wa18",
     "name": "Wakil",
     "gender": "Boy",
@@ -349,6 +357,14 @@
     "gender": "Girl",
     "meaning": "Beautiful, pretty",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Wasit",
+    "gender": "Boy",
+    "meaning": "Middle City (Iraq)",
+    "origin": "Arabic",
+    "id": "wa50",
     "verified": true
   },
   {

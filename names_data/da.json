@@ -128,6 +128,14 @@
     "verified": true
   },
   {
+    "name": "Damietta",
+    "gender": "Girl",
+    "meaning": "Dumyat (City in Egypt)",
+    "origin": "Arabic",
+    "id": "da44",
+    "verified": true
+  },
+  {
     "id": "da15",
     "name": "Damir",
     "gender": "Boy",
@@ -149,6 +157,14 @@
     "meaning": "Drop (of rain)",
     "origin": "Turkish",
     "id": "da37",
+    "verified": true
+  },
+  {
+    "name": "Dammam",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "da43",
     "verified": true
   },
   {
@@ -245,6 +261,14 @@
     "gender": "Girl",
     "meaning": "Shining, lustrous",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Darfur",
+    "gender": "Boy",
+    "meaning": "Region in Sudan",
+    "origin": "Arabic",
+    "id": "da45",
     "verified": true
   },
   {

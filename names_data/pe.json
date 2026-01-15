@@ -1,9 +1,74 @@
 [
-  { "id": "pe1", "name": "Pedram", "gender": "Boy", "meaning": "Successful, happy", "origin": "Persian", "verified": true },
-  { "id": "pe2", "name": "Pehla", "gender": "Girl", "meaning": "The first born", "origin": "Urdu", "verified": true },
-  { "id": "pe3", "name": "Pelin", "gender": "Girl", "meaning": "Wormwood plant", "origin": "Turkish", "verified": true },
-  { "id": "pe4", "name": "Perwaiz", "gender": "Boy", "meaning": "Victorious (Variant of Parvaiz)", "origin": "Persian", "verified": true },
-  { "id": "pe5", "name": "Pervaiz", "gender": "Boy", "meaning": "Breeze, victorious", "origin": "Persian", "verified": true },
-  { "id": "pe6", "name": "Perveen", "gender": "Girl", "meaning": "Cluster of stars", "origin": "Persian", "verified": true },
-  { "id": "pe7", "name": "Pesang", "gender": "Boy", "meaning": "Leader, forward", "origin": "Kurdish", "verified": true }
+  {
+    "id": "pe1",
+    "name": "Pedram",
+    "gender": "Boy",
+    "meaning": "Successful, happy",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "pe2",
+    "name": "Pehla",
+    "gender": "Girl",
+    "meaning": "The first born",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "pe3",
+    "name": "Pelin",
+    "gender": "Girl",
+    "meaning": "Wormwood plant",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "pe5",
+    "name": "Pervaiz",
+    "gender": "Boy",
+    "meaning": "Breeze, victorious",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "pe6",
+    "name": "Perveen",
+    "gender": "Girl",
+    "meaning": "Cluster of stars",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "pe4",
+    "name": "Perwaiz",
+    "gender": "Boy",
+    "meaning": "Victorious (Variant of Parvaiz)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "pe7",
+    "name": "Pesang",
+    "gender": "Boy",
+    "meaning": "Leader, forward",
+    "origin": "Kurdish",
+    "verified": true
+  },
+  {
+    "name": "Peshawar",
+    "gender": "Boy",
+    "meaning": "City at the Frontier",
+    "origin": "Pashto/Urdu",
+    "id": "pe8",
+    "verified": true
+  },
+  {
+    "name": "Petra",
+    "gender": "Girl",
+    "meaning": "Rock City (Jordan)",
+    "origin": "Greek/Arabic",
+    "id": "pe9",
+    "verified": true
+  }
 ]

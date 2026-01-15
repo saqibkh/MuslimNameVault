@@ -1,15 +1,114 @@
 [
-  { "id": "ce1", "name": "Cebrail", "gender": "Boy", "meaning": "Gabriel (Angel Jibreel)", "origin": "Turkish", "verified": true },
-  { "id": "ce2", "name": "Celal", "gender": "Boy", "meaning": "Glory, majesty (Turkish form of Jalal)", "origin": "Turkish", "verified": true },
-  { "id": "ce3", "name": "Celil", "gender": "Boy", "meaning": "Great, exalted (Turkish form of Jalil)", "origin": "Turkish", "verified": true },
-  { "id": "ce4", "name": "Cem", "gender": "Boy", "meaning": "King, ruler (Short for Jamshed)", "origin": "Turkish/Persian", "verified": true },
-  { "id": "ce5", "name": "Cemal", "gender": "Boy", "meaning": "Beauty (Turkish form of Jamal)", "origin": "Turkish", "verified": true },
-  { "id": "ce6", "name": "Cemil", "gender": "Boy", "meaning": "Beautiful (Turkish form of Jamil)", "origin": "Turkish", "verified": true },
-  { "id": "ce7", "name": "Cemile", "gender": "Girl", "meaning": "Beautiful (Turkish form of Jamila)", "origin": "Turkish", "verified": true },
-  { "id": "ce8", "name": "Cennet", "gender": "Girl", "meaning": "Paradise (Turkish form of Jannah)", "origin": "Turkish", "verified": true },
-  { "id": "ce9", "name": "Cevat", "gender": "Boy", "meaning": "Generous (Turkish form of Jawad)", "origin": "Turkish", "verified": true },
-  { "id": "ce10", "name": "Ceyda", "gender": "Girl", "meaning": "Good, helpful (Turkish form of Jayda)", "origin": "Turkish", "verified": true },
-  { "id": "ce11", "name": "Ceyhun", "gender": "Boy", "meaning": "River in Paradise (Jayhun)", "origin": "Turkish", "verified": true },
-  { "id": "ce12", "name": "Ceylan", "gender": "Girl", "meaning": "Gazelle", "origin": "Turkish", "verified": true },
-  { "id": "ce13", "name": "Cezmi", "gender": "Boy", "meaning": "Resolute (Turkish form of Jazmi)", "origin": "Turkish", "verified": true }
+  {
+    "id": "ce1",
+    "name": "Cebrail",
+    "gender": "Boy",
+    "meaning": "Gabriel (Angel Jibreel)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce2",
+    "name": "Celal",
+    "gender": "Boy",
+    "meaning": "Glory, majesty (Turkish form of Jalal)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce3",
+    "name": "Celil",
+    "gender": "Boy",
+    "meaning": "Great, exalted (Turkish form of Jalil)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce4",
+    "name": "Cem",
+    "gender": "Boy",
+    "meaning": "King, ruler (Short for Jamshed)",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "id": "ce5",
+    "name": "Cemal",
+    "gender": "Boy",
+    "meaning": "Beauty (Turkish form of Jamal)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce6",
+    "name": "Cemil",
+    "gender": "Boy",
+    "meaning": "Beautiful (Turkish form of Jamil)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce7",
+    "name": "Cemile",
+    "gender": "Girl",
+    "meaning": "Beautiful (Turkish form of Jamila)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce8",
+    "name": "Cennet",
+    "gender": "Girl",
+    "meaning": "Paradise (Turkish form of Jannah)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Ceuta",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14",
+    "verified": true
+  },
+  {
+    "id": "ce9",
+    "name": "Cevat",
+    "gender": "Boy",
+    "meaning": "Generous (Turkish form of Jawad)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce10",
+    "name": "Ceyda",
+    "gender": "Girl",
+    "meaning": "Good, helpful (Turkish form of Jayda)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce11",
+    "name": "Ceyhun",
+    "gender": "Boy",
+    "meaning": "River in Paradise (Jayhun)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce12",
+    "name": "Ceylan",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ce13",
+    "name": "Cezmi",
+    "gender": "Boy",
+    "meaning": "Resolute (Turkish form of Jazmi)",
+    "origin": "Turkish",
+    "verified": true
+  }
 ]

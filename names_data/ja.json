@@ -136,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Jaffa",
+    "gender": "Girl",
+    "meaning": "Yafa (Beauty)",
+    "origin": "Arabic",
+    "id": "ja80",
+    "verified": true
+  },
+  {
     "id": "ja15",
     "name": "Jafiya",
     "gender": "Girl",
@@ -208,11 +216,27 @@
     "verified": true
   },
   {
+    "name": "Jahra",
+    "gender": "Girl",
+    "meaning": "City in Kuwait",
+    "origin": "Arabic",
+    "id": "ja81",
+    "verified": true
+  },
+  {
     "id": "ja24",
     "name": "Jaiyana",
     "gender": "Girl",
     "meaning": "Strength",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jakarta",
+    "gender": "Boy",
+    "meaning": "Capital of Indonesia",
+    "origin": "Indonesian",
+    "id": "ja82",
     "verified": true
   },
   {
@@ -237,6 +261,14 @@
     "meaning": "Majesty of the Faith (Rumi)",
     "origin": "Arabic",
     "id": "ja76",
+    "verified": true
+  },
+  {
+    "name": "Jalalabad",
+    "gender": "Boy",
+    "meaning": "City of Glory",
+    "origin": "Persian",
+    "id": "ja83",
     "verified": true
   },
   {
@@ -408,6 +440,14 @@
     "verified": true
   },
   {
+    "name": "Jarash",
+    "gender": "Boy",
+    "meaning": "Ancient city in Jordan",
+    "origin": "Arabic",
+    "id": "ja84",
+    "verified": true
+  },
+  {
     "id": "ja46",
     "name": "Jari",
     "gender": "Boy",
@@ -557,6 +597,14 @@
     "gender": "Boy",
     "meaning": "Excellence",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jawf",
+    "gender": "Boy",
+    "meaning": "Region in Arabia",
+    "origin": "Arabic",
+    "id": "ja85",
     "verified": true
   },
   {

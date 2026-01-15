@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ugarit",
+    "gender": "Boy",
+    "meaning": "Ancient city in Syria",
+    "origin": "Ancient",
+    "id": "ug2",
+    "verified": true
+  },
+  {
     "name": "Ugur",
     "gender": "Boy",
     "meaning": "Good luck",

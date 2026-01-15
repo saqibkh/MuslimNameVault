@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Mogadishu",
+    "gender": "Boy",
+    "meaning": "Capital of Somalia",
+    "origin": "Somali",
+    "id": "mo16",
+    "verified": true
+  },
+  {
     "id": "mo3",
     "name": "Mohammad",
     "gender": "Boy",
@@ -80,6 +88,14 @@
     "verified": true
   },
   {
+    "name": "Mombasa",
+    "gender": "Boy",
+    "meaning": "City in Kenya",
+    "origin": "Swahili",
+    "id": "mo17",
+    "verified": true
+  },
+  {
     "name": "Momin",
     "gender": "Boy",
     "meaning": "Believer",
@@ -96,11 +112,27 @@
     "verified": true
   },
   {
+    "name": "Monastir",
+    "gender": "Girl",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "mo18",
+    "verified": true
+  },
+  {
     "id": "mo8",
     "name": "Monir",
     "gender": "Boy",
     "meaning": "Shining (Variant of Munir)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mosul",
+    "gender": "Boy",
+    "meaning": "The Junction (Iraq)",
+    "origin": "Arabic",
+    "id": "mo19",
     "verified": true
   },
   {

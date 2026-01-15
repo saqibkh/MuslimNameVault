@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Dubai",
+    "gender": "Unisex",
+    "meaning": "City in UAE; Young locust",
+    "origin": "Arabic",
+    "id": "du16",
+    "verified": true
+  },
+  {
     "id": "du4",
     "name": "Duha",
     "gender": "Girl",
@@ -45,6 +53,14 @@
     "gender": "Girl",
     "meaning": "Rain",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Dumyat",
+    "gender": "Girl",
+    "meaning": "Port city in Egypt",
+    "origin": "Arabic",
+    "id": "du17",
     "verified": true
   },
   {
@@ -117,6 +133,14 @@
     "gender": "Girl",
     "meaning": "Brilliant",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Dushanbe",
+    "gender": "Boy",
+    "meaning": "Monday; Capital of Tajikistan",
+    "origin": "Tajik",
+    "id": "du18",
     "verified": true
   }
 ]

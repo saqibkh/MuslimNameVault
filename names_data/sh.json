@@ -512,6 +512,22 @@
     "verified": true
   },
   {
+    "name": "Sharjah",
+    "gender": "Girl",
+    "meaning": "The Rising Sun (UAE)",
+    "origin": "Arabic",
+    "id": "sh94",
+    "verified": true
+  },
+  {
+    "name": "Sharm",
+    "gender": "Boy",
+    "meaning": "Sharm el-Sheikh",
+    "origin": "Arabic",
+    "id": "sh95",
+    "verified": true
+  },
+  {
     "id": "sh46",
     "name": "Sharmeen",
     "gender": "Girl",
@@ -525,6 +541,14 @@
     "meaning": "Beach, coast",
     "origin": "Arabic",
     "id": "sh65",
+    "verified": true
+  },
+  {
+    "name": "Shatt",
+    "gender": "Boy",
+    "meaning": "River bank (Shatt al-Arab)",
+    "origin": "Arabic",
+    "id": "sh96",
     "verified": true
   },
   {
@@ -549,6 +573,14 @@
     "gender": "Girl",
     "meaning": "Rare, exotic, princess",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Sheba",
+    "gender": "Girl",
+    "meaning": "Kingdom of Saba (Yemen)",
+    "origin": "Quranic",
+    "id": "sh97",
     "verified": true
   },
   {
@@ -629,6 +661,14 @@
     "meaning": "Sweet",
     "origin": "Persian",
     "id": "sh71",
+    "verified": true
+  },
+  {
+    "name": "Shibam",
+    "gender": "Boy",
+    "meaning": "Manhattan of the Desert (Yemen)",
+    "origin": "Arabic",
+    "id": "sh98",
     "verified": true
   },
   {
@@ -741,6 +781,14 @@
     "gender": "Girl",
     "meaning": "Beautiful face",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shushtar",
+    "gender": "Boy",
+    "meaning": "Ancient city in Iran",
+    "origin": "Persian",
+    "id": "sh99",
     "verified": true
   }
 ]

@@ -96,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Hadhramaut",
+    "gender": "Boy",
+    "meaning": "Historic region in Yemen",
+    "origin": "Arabic",
+    "id": "ha125",
+    "verified": true
+  },
+  {
     "id": "ha6",
     "name": "Hadi",
     "gender": "Boy",
@@ -224,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Hail",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "ha126",
+    "verified": true
+  },
+  {
     "id": "ha16",
     "name": "Haimi",
     "gender": "Girl",
@@ -336,11 +352,27 @@
     "verified": true
   },
   {
+    "name": "Hama",
+    "gender": "Girl",
+    "meaning": "City of Waterwheels (Syria)",
+    "origin": "Arabic",
+    "id": "ha127",
+    "verified": true
+  },
+  {
     "id": "ha24",
     "name": "Hamad",
     "gender": "Boy",
     "meaning": "Praised, commendable",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hamadan",
+    "gender": "Boy",
+    "meaning": "Ancient city in Iran",
+    "origin": "Persian",
+    "id": "ha128",
     "verified": true
   },
   {
@@ -616,6 +648,14 @@
     "verified": true
   },
   {
+    "name": "Harar",
+    "gender": "Boy",
+    "meaning": "Holy city in Ethiopia",
+    "origin": "African/Arabic",
+    "id": "ha129",
+    "verified": true
+  },
+  {
     "name": "Harb",
     "gender": "Boy",
     "meaning": "War",
@@ -653,6 +693,14 @@
     "gender": "Boy",
     "meaning": "Prophet Aaron",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Harran",
+    "gender": "Boy",
+    "meaning": "Ancient city in Turkey",
+    "origin": "Arabic",
+    "id": "ha130",
     "verified": true
   },
   {
@@ -784,6 +832,14 @@
     "verified": true
   },
   {
+    "name": "Hatay",
+    "gender": "Boy",
+    "meaning": "Province in Turkey",
+    "origin": "Turkish",
+    "id": "ha131",
+    "verified": true
+  },
+  {
     "id": "ha57",
     "name": "Hatem",
     "gender": "Boy",
@@ -829,6 +885,14 @@
     "gender": "Girl",
     "meaning": "Eve; Life, desire",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hawar",
+    "gender": "Boy",
+    "meaning": "Islands in Bahrain",
+    "origin": "Arabic",
+    "id": "ha132",
     "verified": true
   },
   {

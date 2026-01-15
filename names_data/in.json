@@ -72,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Indus",
+    "gender": "Boy",
+    "meaning": "River Sindh",
+    "origin": "Urdu",
+    "id": "in14",
+    "verified": true
+  },
+  {
     "id": "in5",
     "name": "Insaf",
     "gender": "Unisex",

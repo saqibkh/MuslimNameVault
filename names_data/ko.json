@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Konya",
+    "gender": "Girl",
+    "meaning": "City of Rumi (Turkey)",
+    "origin": "Turkish",
+    "id": "ko7",
+    "verified": true
+  },
+  {
     "name": "Koray",
     "gender": "Boy",
     "meaning": "Ember moon",

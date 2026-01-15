@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Homs",
+    "gender": "Boy",
+    "meaning": "City of Ibn Walid (Syria)",
+    "origin": "Arabic",
+    "id": "ho8",
+    "verified": true
+  },
+  {
     "name": "Hooman",
     "gender": "Boy",
     "meaning": "Good natured; Benevolent",
@@ -37,6 +45,14 @@
     "gender": "Girl",
     "meaning": "Angel, nymph",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hormuz",
+    "gender": "Boy",
+    "meaning": "Strait/Island in Gulf",
+    "origin": "Persian",
+    "id": "ho9",
     "verified": true
   },
   {

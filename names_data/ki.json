@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Kirkuk",
+    "gender": "Boy",
+    "meaning": "City in Iraq",
+    "origin": "Arabic/Kurdish",
+    "id": "ki11",
+    "verified": true
+  },
+  {
     "id": "ki7",
     "name": "Kishwar",
     "gender": "Girl",

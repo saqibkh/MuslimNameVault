@@ -44,6 +44,14 @@
     "verified": true
   },
   {
+    "name": "Abadan",
+    "gender": "Boy",
+    "meaning": "City in Iran; Prosperous",
+    "origin": "Persian",
+    "id": "ab143",
+    "verified": true
+  },
+  {
     "id": "ab3",
     "name": "Abadi",
     "transliteration": "Abadī",
@@ -1497,6 +1505,14 @@
       "Religious",
       "Virtue"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abha",
+    "gender": "Girl",
+    "meaning": "City in Saudi Arabia; Beauty",
+    "origin": "Arabic",
+    "id": "ab144",
     "verified": true
   },
   {

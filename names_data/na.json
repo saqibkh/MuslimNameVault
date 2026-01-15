@@ -64,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Nablus",
+    "gender": "Girl",
+    "meaning": "City in Palestine",
+    "origin": "Arabic",
+    "id": "na115",
+    "verified": true
+  },
+  {
     "id": "na8",
     "name": "Nada",
     "gender": "Girl",
@@ -125,6 +133,14 @@
     "gender": "Girl",
     "meaning": "Caller",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nador",
+    "gender": "Boy",
+    "meaning": "City in Morocco",
+    "origin": "Berber",
+    "id": "na116",
     "verified": true
   },
   {
@@ -416,6 +432,14 @@
     "verified": true
   },
   {
+    "name": "Najran",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "na117",
+    "verified": true
+  },
+  {
     "id": "na40",
     "name": "Najwa",
     "gender": "Girl",
@@ -477,6 +501,14 @@
     "meaning": "Purity; Sand dune",
     "origin": "Arabic",
     "id": "na92",
+    "verified": true
+  },
+  {
+    "name": "Naqab",
+    "gender": "Boy",
+    "meaning": "Negev Desert",
+    "origin": "Arabic",
+    "id": "na118",
     "verified": true
   },
   {

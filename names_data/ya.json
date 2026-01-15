@@ -160,6 +160,14 @@
     "verified": true
   },
   {
+    "name": "Yarmouk",
+    "gender": "Boy",
+    "meaning": "River/Battle site",
+    "origin": "Arabic",
+    "id": "ya35",
+    "verified": true
+  },
+  {
     "id": "ya17",
     "name": "Yasar",
     "gender": "Boy",
@@ -261,6 +269,14 @@
     "gender": "Boy",
     "meaning": "Determined; Name of an Arab tribe",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Yazd",
+    "gender": "Boy",
+    "meaning": "City of Windcatchers (Iran)",
+    "origin": "Persian",
+    "id": "ya36",
     "verified": true
   },
   {

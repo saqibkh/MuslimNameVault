@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Kabul",
+    "gender": "Boy",
+    "meaning": "Capital of Afghanistan",
+    "origin": "Persian",
+    "id": "ka63",
+    "verified": true
+  },
+  {
     "id": "ka3",
     "name": "Kadar",
     "gender": "Boy",
@@ -136,6 +144,14 @@
     "verified": true
   },
   {
+    "name": "Kairouan",
+    "gender": "Boy",
+    "meaning": "Historic city in Tunisia",
+    "origin": "Arabic",
+    "id": "ka64",
+    "verified": true
+  },
+  {
     "id": "ka13",
     "name": "Kais",
     "gender": "Boy",
@@ -165,6 +181,14 @@
     "gender": "Boy",
     "meaning": "Speech, conversation",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kalba",
+    "gender": "Girl",
+    "meaning": "City in UAE",
+    "origin": "Arabic",
+    "id": "ka65",
     "verified": true
   },
   {
@@ -296,11 +320,27 @@
     "verified": true
   },
   {
+    "name": "Kandahar",
+    "gender": "Boy",
+    "meaning": "City in Afghanistan",
+    "origin": "Pashto",
+    "id": "ka66",
+    "verified": true
+  },
+  {
     "name": "Kaneez",
     "gender": "Girl",
     "meaning": "Maid servant",
     "origin": "Urdu",
     "id": "ka56",
+    "verified": true
+  },
+  {
+    "name": "Kano",
+    "gender": "Boy",
+    "meaning": "City in Nigeria",
+    "origin": "Hausa",
+    "id": "ka67",
     "verified": true
   },
   {
@@ -328,6 +368,14 @@
     "verified": true
   },
   {
+    "name": "Karachi",
+    "gender": "Boy",
+    "meaning": "Port city in Pakistan",
+    "origin": "Urdu",
+    "id": "ka68",
+    "verified": true
+  },
+  {
     "id": "ka29",
     "name": "Karam",
     "gender": "Unisex",
@@ -349,6 +397,14 @@
     "meaning": "Miracle",
     "origin": "Arabic",
     "id": "ka58",
+    "verified": true
+  },
+  {
+    "name": "Karbala",
+    "gender": "Boy",
+    "meaning": "Land of trial (Iraq)",
+    "origin": "Arabic",
+    "id": "ka69",
     "verified": true
   },
   {
@@ -376,6 +432,30 @@
     "verified": true
   },
   {
+    "name": "Kars",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ka70",
+    "verified": true
+  },
+  {
+    "name": "Kashan",
+    "gender": "Boy",
+    "meaning": "City of tiles (Iran)",
+    "origin": "Persian",
+    "id": "ka71",
+    "verified": true
+  },
+  {
+    "name": "Kashgar",
+    "gender": "Boy",
+    "meaning": "Historic Silk Road city",
+    "origin": "Uyghur",
+    "id": "ka72",
+    "verified": true
+  },
+  {
     "id": "ka34",
     "name": "Kashif",
     "gender": "Boy",
@@ -400,6 +480,14 @@
     "verified": true
   },
   {
+    "name": "Kashmir",
+    "gender": "Unisex",
+    "meaning": "Paradise on Earth",
+    "origin": "Urdu",
+    "id": "ka73",
+    "verified": true
+  },
+  {
     "id": "ka32",
     "name": "Kasib",
     "gender": "Boy",
@@ -421,6 +509,14 @@
     "meaning": "King (Title of Persian Kings)",
     "origin": "Persian",
     "id": "ka49",
+    "verified": true
+  },
+  {
+    "name": "Kastamonu",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ka74",
     "verified": true
   },
   {
@@ -485,6 +581,22 @@
     "gender": "Boy",
     "meaning": "Wise",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kayseri",
+    "gender": "Boy",
+    "meaning": "Caesarea (Turkey)",
+    "origin": "Turkish",
+    "id": "ka75",
+    "verified": true
+  },
+  {
+    "name": "Kazan",
+    "gender": "Boy",
+    "meaning": "Capital of Tatarstan",
+    "origin": "Tatar",
+    "id": "ka76",
     "verified": true
   },
   {

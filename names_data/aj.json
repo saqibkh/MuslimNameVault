@@ -1,22 +1,170 @@
 [
-  { "id": "aj1", "name": "Ajaib", "gender": "Boy", "meaning": "Wonders", "origin": "Arabic", "verified": true },
-  { "id": "aj2", "name": "Ajawid", "gender": "Boy", "meaning": "Generous people", "origin": "Arabic", "verified": true },
-  { "id": "aj3", "name": "Ajlal", "gender": "Boy", "meaning": "Beautiful, stubborn", "origin": "Arabic", "verified": true },
-  { "id": "aj4", "name": "Ajmal", "gender": "Boy", "meaning": "Most beautiful", "origin": "Arabic", "verified": true },
-  { "id": "aj5", "name": "Ajmel", "gender": "Boy", "meaning": "Beautiful", "origin": "Arabic", "verified": true },
-  { "id": "aj6", "name": "Ajrad", "gender": "Boy", "meaning": "Naked, bare", "origin": "Arabic", "verified": true },
-  { "id": "aj7", "name": "Ajwa", "gender": "Girl", "meaning": "Name of a date fruit in Medina", "origin": "Arabic", "verified": true },
-  { "id": "aj8", "name": "Ajwad", "gender": "Boy", "meaning": "Better, more generous", "origin": "Arabic", "verified": true },
-  { "id": "aj9", "name": "Ajza", "gender": "Boy", "meaning": "Parts, portions", "origin": "Arabic", "verified": true },
-  { "id": "aj10", "name": "Ajib", "gender": "Boy", "meaning": "Wonderful", "origin": "Arabic", "verified": true },
-  { "id": "aj11", "name": "Ajir", "gender": "Boy", "meaning": "Reward", "origin": "Arabic", "verified": true },
-  { "id": "aj12", "name": "Ajla", "gender": "Girl", "meaning": "Clear, distinct", "origin": "Arabic", "verified": true },
-  { "id": "aj13", "name": "Ajlan", "gender": "Boy", "meaning": "Haste, hurry", "origin": "Arabic", "verified": true },
-  { "id": "aj14", "name": "Ajmain", "gender": "Boy", "meaning": "Whole, complete", "origin": "Arabic", "verified": true },
-  { "id": "aj15", "name": "Ajnab", "gender": "Boy", "meaning": "Foreigner", "origin": "Arabic", "verified": true },
-  { "id": "aj16", "name": "Ajnas", "gender": "Boy", "meaning": "Kinds, sorts", "origin": "Arabic", "verified": true },
-  { "id": "aj17", "name": "Ajra", "gender": "Girl", "meaning": "Reward", "origin": "Arabic", "verified": true },
-  { "id": "aj18", "name": "Ajsam", "gender": "Boy", "meaning": "Bodies", "origin": "Arabic", "verified": true },
-  { "id": "aj19", "name": "Ajur", "gender": "Boy", "meaning": "Reward", "origin": "Arabic", "verified": true },
-  { "id": "aj20", "name": "Ajwaad", "gender": "Boy", "meaning": "Noble, generous", "origin": "Arabic", "verified": true }
+  {
+    "id": "aj1",
+    "name": "Ajaib",
+    "gender": "Boy",
+    "meaning": "Wonders",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj2",
+    "name": "Ajawid",
+    "gender": "Boy",
+    "meaning": "Generous people",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj10",
+    "name": "Ajib",
+    "gender": "Boy",
+    "meaning": "Wonderful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj11",
+    "name": "Ajir",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj12",
+    "name": "Ajla",
+    "gender": "Girl",
+    "meaning": "Clear, distinct",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj3",
+    "name": "Ajlal",
+    "gender": "Boy",
+    "meaning": "Beautiful, stubborn",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj13",
+    "name": "Ajlan",
+    "gender": "Boy",
+    "meaning": "Haste, hurry",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj14",
+    "name": "Ajmain",
+    "gender": "Boy",
+    "meaning": "Whole, complete",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj4",
+    "name": "Ajmal",
+    "gender": "Boy",
+    "meaning": "Most beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ajman",
+    "gender": "Boy",
+    "meaning": "Emirate in UAE",
+    "origin": "Arabic",
+    "id": "aj21",
+    "verified": true
+  },
+  {
+    "id": "aj5",
+    "name": "Ajmel",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj15",
+    "name": "Ajnab",
+    "gender": "Boy",
+    "meaning": "Foreigner",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj16",
+    "name": "Ajnas",
+    "gender": "Boy",
+    "meaning": "Kinds, sorts",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj17",
+    "name": "Ajra",
+    "gender": "Girl",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj6",
+    "name": "Ajrad",
+    "gender": "Boy",
+    "meaning": "Naked, bare",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj18",
+    "name": "Ajsam",
+    "gender": "Boy",
+    "meaning": "Bodies",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj19",
+    "name": "Ajur",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj7",
+    "name": "Ajwa",
+    "gender": "Girl",
+    "meaning": "Name of a date fruit in Medina",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj20",
+    "name": "Ajwaad",
+    "gender": "Boy",
+    "meaning": "Noble, generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj8",
+    "name": "Ajwad",
+    "gender": "Boy",
+    "meaning": "Better, more generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "aj9",
+    "name": "Ajza",
+    "gender": "Boy",
+    "meaning": "Parts, portions",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

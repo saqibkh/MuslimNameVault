@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Tehran",
+    "gender": "Boy",
+    "meaning": "Capital of Iran",
+    "origin": "Persian",
+    "id": "te8",
+    "verified": true
+  },
+  {
     "name": "Tehseen",
     "gender": "Unisex",
     "meaning": "Praise, admiration",
@@ -45,6 +53,14 @@
     "gender": "Girl",
     "meaning": "Fountain in Paradise (Variant of Tasneem)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tetouan",
+    "gender": "Boy",
+    "meaning": "City in Morocco",
+    "origin": "Berber",
+    "id": "te9",
     "verified": true
   },
   {

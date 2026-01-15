@@ -134,5 +134,13 @@
     "origin": "Turkish",
     "id": "se17",
     "verified": true
+  },
+  {
+    "name": "Seville",
+    "gender": "Girl",
+    "meaning": "Ishbiliya (Andalus)",
+    "origin": "Arabic",
+    "id": "se18",
+    "verified": true
   }
 ]

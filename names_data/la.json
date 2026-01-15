@@ -24,11 +24,43 @@
     "verified": true
   },
   {
+    "name": "Ladakh",
+    "gender": "Boy",
+    "meaning": "Land of High Passes",
+    "origin": "Tibetan/Urdu",
+    "id": "la25",
+    "verified": true
+  },
+  {
+    "name": "Ladhiqiya",
+    "gender": "Girl",
+    "meaning": "Latakia (Syria)",
+    "origin": "Arabic",
+    "id": "la26",
+    "verified": true
+  },
+  {
     "id": "la4",
     "name": "Ladid",
     "gender": "Boy",
     "meaning": "Delicious, pleasant",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lahore",
+    "gender": "Boy",
+    "meaning": "Heart of Pakistan",
+    "origin": "Urdu",
+    "id": "la27",
+    "verified": true
+  },
+  {
+    "name": "Lail",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "id": "la28",
     "verified": true
   },
   {
@@ -125,6 +157,14 @@
     "gender": "Girl",
     "meaning": "Without doubt",
     "origin": "Arabic/Urdu",
+    "verified": true
+  },
+  {
+    "name": "Latakia",
+    "gender": "Girl",
+    "meaning": "Port city in Syria",
+    "origin": "Arabic",
+    "id": "la29",
     "verified": true
   },
   {

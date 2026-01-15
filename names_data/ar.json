@@ -80,6 +80,22 @@
     "verified": true
   },
   {
+    "name": "Arbil",
+    "gender": "Boy",
+    "meaning": "Ancient city in Iraq (Erbil)",
+    "origin": "Kurdish/Arabic",
+    "id": "ar37",
+    "verified": true
+  },
+  {
+    "name": "Ardabil",
+    "gender": "Boy",
+    "meaning": "Historic city in Azerbaijan/Iran",
+    "origin": "Persian",
+    "id": "ar38",
+    "verified": true
+  },
+  {
     "name": "Areeb",
     "gender": "Boy",
     "meaning": "Wise, intelligent",
@@ -157,6 +173,14 @@
     "gender": "Girl",
     "meaning": "Learned, expert",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ariha",
+    "gender": "Girl",
+    "meaning": "Jericho (City of Moon); Fragrance",
+    "origin": "Arabic",
+    "id": "ar39",
     "verified": true
   },
   {
@@ -269,6 +293,14 @@
     "gender": "Girl",
     "meaning": "Mountain goat, gracefulness",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Arwad",
+    "gender": "Girl",
+    "meaning": "Island city in Syria",
+    "origin": "Arabic",
+    "id": "ar40",
     "verified": true
   },
   {

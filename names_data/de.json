@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Deccan",
+    "gender": "Boy",
+    "meaning": "Plateau in India (Dakhan)",
+    "origin": "Urdu",
+    "id": "de14",
+    "verified": true
+  },
+  {
     "id": "de2",
     "name": "Deen",
     "gender": "Boy",
@@ -40,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Deir",
+    "gender": "Boy",
+    "meaning": "Monastery (Deir ez-Zor)",
+    "origin": "Arabic",
+    "id": "de15",
+    "verified": true
+  },
+  {
     "id": "de5",
     "name": "Delara",
     "gender": "Girl",
@@ -53,6 +69,14 @@
     "gender": "Girl",
     "meaning": "Heart-stealer, sweetheart",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Delhi",
+    "gender": "Boy",
+    "meaning": "Capital of Muslim India",
+    "origin": "Urdu",
+    "id": "de16",
     "verified": true
   },
   {
@@ -85,6 +109,14 @@
     "gender": "Unisex",
     "meaning": "Sea",
     "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Derna",
+    "gender": "Girl",
+    "meaning": "City in Libya",
+    "origin": "Arabic",
+    "id": "de17",
     "verified": true
   },
   {

@@ -64,11 +64,27 @@
     "verified": true
   },
   {
+    "name": "Ronda",
+    "gender": "Girl",
+    "meaning": "Randa (Andalusian city)",
+    "origin": "Arabic",
+    "id": "ro14",
+    "verified": true
+  },
+  {
     "name": "Roohi",
     "gender": "Girl",
     "meaning": "Spiritual",
     "origin": "Arabic",
     "id": "ro13",
+    "verified": true
+  },
+  {
+    "name": "Rosetta",
+    "gender": "Girl",
+    "meaning": "Rashid (Egypt)",
+    "origin": "European/Arabic",
+    "id": "ro15",
     "verified": true
   },
   {

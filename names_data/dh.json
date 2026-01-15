@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Dhaka",
+    "gender": "Boy",
+    "meaning": "Capital of Bangladesh",
+    "origin": "Bengali",
+    "id": "dh17",
+    "verified": true
+  },
+  {
     "id": "dh2",
     "name": "Dhakir",
     "gender": "Boy",
@@ -77,6 +85,14 @@
     "gender": "Unisex",
     "meaning": "Light, splendor",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Dhofar",
+    "gender": "Boy",
+    "meaning": "Region in Oman (Frankincense land)",
+    "origin": "Arabic",
+    "id": "dh18",
     "verified": true
   },
   {

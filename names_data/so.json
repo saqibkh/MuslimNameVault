@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Sohar",
+    "gender": "Boy",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "so11",
+    "verified": true
+  },
+  {
     "id": "so4",
     "name": "Soheila",
     "gender": "Girl",
@@ -77,6 +85,14 @@
     "gender": "Girl",
     "meaning": "Happiness (Variant of Suad)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sousse",
+    "gender": "Boy",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "so12",
     "verified": true
   }
 ]

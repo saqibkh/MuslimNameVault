@@ -96,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Rum",
+    "gender": "Boy",
+    "meaning": "Rome (Anatolia/Byzantium)",
+    "origin": "Quranic",
+    "id": "ru24",
+    "verified": true
+  },
+  {
     "id": "ru10",
     "name": "Rumaisa",
     "gender": "Girl",
@@ -128,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Rusafa",
+    "gender": "Girl",
+    "meaning": "District in Baghdad/Syria",
+    "origin": "Arabic",
+    "id": "ru25",
+    "verified": true
+  },
+  {
     "id": "ru13",
     "name": "Rushd",
     "gender": "Boy",
@@ -149,6 +165,14 @@
     "gender": "Boy",
     "meaning": "Hero, strong man",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Rustaq",
+    "gender": "Boy",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "ru26",
     "verified": true
   },
   {

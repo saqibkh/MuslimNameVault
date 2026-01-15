@@ -64,6 +64,22 @@
     "verified": true
   },
   {
+    "name": "Kerman",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "ke12",
+    "verified": true
+  },
+  {
+    "name": "Kermanshah",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "ke13",
+    "verified": true
+  },
+  {
     "id": "ke8",
     "name": "Kevser",
     "gender": "Girl",

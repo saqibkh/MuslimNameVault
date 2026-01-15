@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Erbil",
+    "gender": "Boy",
+    "meaning": "Ancient city (Arbil)",
+    "origin": "Kurdish",
+    "id": "er9",
+    "verified": true
+  },
+  {
     "name": "Eren",
     "gender": "Boy",
     "meaning": "Saint; Holy man",
@@ -61,6 +69,22 @@
     "gender": "Girl",
     "meaning": "Heaven (Variant of Iram)",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Erzincan",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "er10",
+    "verified": true
+  },
+  {
+    "name": "Erzurum",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "er11",
     "verified": true
   }
 ]

@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Hebron",
+    "gender": "Boy",
+    "meaning": "Al-Khalil (City of Abraham)",
+    "origin": "Arabic",
+    "id": "he12",
+    "verified": true
+  },
+  {
     "name": "Hejaz",
     "gender": "Boy",
     "meaning": "Region of Mecca/Medina",
@@ -61,6 +69,22 @@
     "gender": "Girl",
     "meaning": "Blessed",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Herat",
+    "gender": "Boy",
+    "meaning": "Pearl of Khorasan (Afghanistan)",
+    "origin": "Persian",
+    "id": "he13",
+    "verified": true
+  },
+  {
+    "name": "Hermon",
+    "gender": "Boy",
+    "meaning": "Mount Sheikh (Syria/Lebanon)",
+    "origin": "Arabic",
+    "id": "he14",
     "verified": true
   },
   {

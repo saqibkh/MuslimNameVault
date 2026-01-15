@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Trabzon",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "tr1",
+    "verified": true
+  },
+  {
+    "name": "Tripoli",
+    "gender": "Boy",
+    "meaning": "Three Cities (Libya/Lebanon)",
+    "origin": "Greek/Arabic",
+    "id": "tr2",
+    "verified": true
+  }
+]

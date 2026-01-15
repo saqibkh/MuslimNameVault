@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Rif",
+    "gender": "Boy",
+    "meaning": "Region in Morocco",
+    "origin": "Berber",
+    "id": "ri19",
+    "verified": true
+  },
+  {
     "id": "ri4",
     "name": "Riffat",
     "gender": "Unisex",
@@ -125,6 +133,14 @@
     "meaning": "Satisfaction",
     "origin": "Turkish",
     "id": "ri17",
+    "verified": true
+  },
+  {
+    "name": "Rize",
+    "gender": "Girl",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ri20",
     "verified": true
   },
   {

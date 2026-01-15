@@ -80,6 +80,22 @@
     "verified": true
   },
   {
+    "name": "Hilla",
+    "gender": "Girl",
+    "meaning": "City in Iraq",
+    "origin": "Arabic",
+    "id": "hi19",
+    "verified": true
+  },
+  {
+    "name": "Himal",
+    "gender": "Boy",
+    "meaning": "Mountain (Himalaya)",
+    "origin": "Sanskrit/Urdu",
+    "id": "hi20",
+    "verified": true
+  },
+  {
     "name": "Himayat",
     "gender": "Boy",
     "meaning": "Protection, support",

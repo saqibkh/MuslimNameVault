@@ -104,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Qairawan",
+    "gender": "Boy",
+    "meaning": "Caravan (Tunisia)",
+    "origin": "Arabic",
+    "id": "qa41",
+    "verified": true
+  },
+  {
     "id": "qa14",
     "name": "Qais",
     "gender": "Boy",
@@ -168,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Qandahar",
+    "gender": "Boy",
+    "meaning": "City in Afghanistan",
+    "origin": "Pashto",
+    "id": "qa42",
+    "verified": true
+  },
+  {
     "id": "qa19",
     "name": "Qani",
     "gender": "Boy",
@@ -216,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Qartaj",
+    "gender": "Girl",
+    "meaning": "Carthage",
+    "origin": "Arabic",
+    "id": "qa43",
+    "verified": true
+  },
+  {
     "id": "qa24",
     "name": "Qasid",
     "gender": "Boy",
@@ -256,6 +280,14 @@
     "verified": true
   },
   {
+    "name": "Qasioun",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44",
+    "verified": true
+  },
+  {
     "id": "qa28",
     "name": "Qasoomah",
     "gender": "Girl",
@@ -269,6 +301,14 @@
     "gender": "Boy",
     "meaning": "A hardwood tree; A Companion",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Qatif",
+    "gender": "Boy",
+    "meaning": "Harvest (Saudi Arabia)",
+    "origin": "Arabic",
+    "id": "qa45",
     "verified": true
   },
   {

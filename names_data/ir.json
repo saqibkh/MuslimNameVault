@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Irbid",
+    "gender": "Boy",
+    "meaning": "City in Jordan",
+    "origin": "Arabic",
+    "id": "ir8",
+    "verified": true
+  },
+  {
     "id": "ir3",
     "name": "Irfan",
     "gender": "Boy",

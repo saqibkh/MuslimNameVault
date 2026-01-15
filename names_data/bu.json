@@ -160,6 +160,14 @@
     "verified": true
   },
   {
+    "name": "Bursa",
+    "gender": "Girl",
+    "meaning": "Historic Ottoman capital",
+    "origin": "Turkish",
+    "id": "bu30",
+    "verified": true
+  },
+  {
     "id": "bu23",
     "name": "Burum",
     "gender": "Boy",

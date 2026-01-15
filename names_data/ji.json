@@ -1,5 +1,13 @@
 [
   {
+    "name": "Jibal",
+    "gender": "Boy",
+    "meaning": "Mountains (Region in Iran)",
+    "origin": "Arabic",
+    "id": "ji11",
+    "verified": true
+  },
+  {
     "id": "ji1",
     "name": "Jibran",
     "gender": "Boy",
@@ -77,6 +85,14 @@
     "meaning": "Valley; Side",
     "origin": "Arabic",
     "id": "ji9",
+    "verified": true
+  },
+  {
+    "name": "Jizan",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "ji12",
     "verified": true
   }
 ]

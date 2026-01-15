@@ -144,6 +144,14 @@
     "verified": true
   },
   {
+    "name": "Sabrata",
+    "gender": "Girl",
+    "meaning": "Ancient city in Libya",
+    "origin": "Arabic",
+    "id": "sa135",
+    "verified": true
+  },
+  {
     "id": "sa12",
     "name": "Sabreen",
     "gender": "Girl",
@@ -432,6 +440,14 @@
     "verified": true
   },
   {
+    "name": "Saida",
+    "gender": "Girl",
+    "meaning": "Sidon (Lebanon)",
+    "origin": "Arabic",
+    "id": "sa136",
+    "verified": true
+  },
+  {
     "id": "sa35",
     "name": "Saif",
     "gender": "Boy",
@@ -496,6 +512,14 @@
     "verified": true
   },
   {
+    "name": "Sakaka",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "sa137",
+    "verified": true
+  },
+  {
     "id": "sa42",
     "name": "Sakina",
     "gender": "Girl",
@@ -525,6 +549,14 @@
     "gender": "Boy",
     "meaning": "Righteousness of the Faith",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Salalah",
+    "gender": "Girl",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "sa138",
     "verified": true
   },
   {
@@ -648,6 +680,14 @@
     "verified": true
   },
   {
+    "name": "Salt",
+    "gender": "Boy",
+    "meaning": "Al-Salt (Jordan)",
+    "origin": "Arabic",
+    "id": "sa139",
+    "verified": true
+  },
+  {
     "id": "sa59",
     "name": "Salwa",
     "gender": "Girl",
@@ -685,6 +725,22 @@
     "gender": "Girl",
     "meaning": "Soft light",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Samarkand",
+    "gender": "Unisex",
+    "meaning": "Stone Fort (Uzbekistan)",
+    "origin": "Persian",
+    "id": "sa140",
+    "verified": true
+  },
+  {
+    "name": "Samarra",
+    "gender": "Girl",
+    "meaning": "Joy of the beholder (Iraq)",
+    "origin": "Arabic",
+    "id": "sa141",
     "verified": true
   },
   {
@@ -896,6 +952,14 @@
     "verified": true
   },
   {
+    "name": "Sarajevo",
+    "gender": "Boy",
+    "meaning": "Field of the Palace",
+    "origin": "Turkish/Slavic",
+    "id": "sa142",
+    "verified": true
+  },
+  {
     "name": "Sarem",
     "gender": "Boy",
     "meaning": "Brave; Sharp Sword",
@@ -1053,6 +1117,14 @@
     "meaning": "Stream, torrent",
     "origin": "Quranic",
     "id": "sa107",
+    "verified": true
+  },
+  {
+    "name": "Sayun",
+    "gender": "Boy",
+    "meaning": "City in Yemen",
+    "origin": "Arabic",
+    "id": "sa143",
     "verified": true
   },
   {

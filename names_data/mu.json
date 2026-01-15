@@ -152,6 +152,14 @@
     "verified": true
   },
   {
+    "name": "Muharraq",
+    "gender": "Boy",
+    "meaning": "City in Bahrain",
+    "origin": "Arabic",
+    "id": "mu66",
+    "verified": true
+  },
+  {
     "id": "mu13",
     "name": "Muhib",
     "gender": "Boy",
@@ -216,6 +224,14 @@
     "verified": true
   },
   {
+    "name": "Mukalla",
+    "gender": "Boy",
+    "meaning": "Port in Yemen",
+    "origin": "Arabic",
+    "id": "mu67",
+    "verified": true
+  },
+  {
     "id": "mu17",
     "name": "Mukhtar",
     "gender": "Boy",
@@ -237,6 +253,14 @@
     "meaning": "Kingdom",
     "origin": "Quranic",
     "id": "mu60",
+    "verified": true
+  },
+  {
+    "name": "Multan",
+    "gender": "Boy",
+    "meaning": "City of Saints (Pakistan)",
+    "origin": "Urdu",
+    "id": "mu68",
     "verified": true
   },
   {
@@ -389,6 +413,22 @@
     "gender": "Boy",
     "meaning": "One who confirms/verifies",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Musandam",
+    "gender": "Boy",
+    "meaning": "Peninsula in Oman",
+    "origin": "Arabic",
+    "id": "mu70",
+    "verified": true
+  },
+  {
+    "name": "Muscat",
+    "gender": "Boy",
+    "meaning": "Falling place (Oman)",
+    "origin": "Arabic",
+    "id": "mu69",
     "verified": true
   },
   {

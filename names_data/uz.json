@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Uzbekistan",
+    "gender": "Boy",
+    "meaning": "Land of Ozbeg",
+    "origin": "Turkic",
+    "id": "uz4",
+    "verified": true
+  },
+  {
     "id": "uz2",
     "name": "Uzma",
     "gender": "Girl",

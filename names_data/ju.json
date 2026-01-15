@@ -1,5 +1,13 @@
 [
   {
+    "name": "Jubail",
+    "gender": "Boy",
+    "meaning": "Small mountain; City in KSA",
+    "origin": "Arabic",
+    "id": "ju15",
+    "verified": true
+  },
+  {
     "id": "ju1",
     "name": "Jubair",
     "gender": "Boy",

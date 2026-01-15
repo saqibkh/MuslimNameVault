@@ -1,5 +1,13 @@
 [
   {
+    "name": "Gabes",
+    "gender": "Boy",
+    "meaning": "Oasis city in Tunisia",
+    "origin": "Arabic",
+    "id": "ga16",
+    "verified": true
+  },
+  {
     "id": "ga1",
     "name": "Gabir",
     "gender": "Boy",
@@ -24,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Gafsa",
+    "gender": "Girl",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "ga17",
+    "verified": true
+  },
+  {
     "id": "ga4",
     "name": "Gaith",
     "gender": "Boy",
@@ -37,6 +53,14 @@
     "gender": "Boy",
     "meaning": "Majesty (Egyptian variant of Jalal)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Galilee",
+    "gender": "Girl",
+    "meaning": "Region in Palestine (Al-Jalil)",
+    "origin": "Arabic",
+    "id": "ga18",
     "verified": true
   },
   {

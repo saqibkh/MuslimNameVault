@@ -1,4 +1,26 @@
 [
-  { "id": "hy1", "name": "Hyam", "gender": "Girl", "meaning": "Love (Variant of Hiyam)", "origin": "Arabic", "verified": true },
-  { "id": "hy2", "name": "Hyder", "gender": "Boy", "meaning": "Lion (Variant of Haider)", "origin": "Arabic", "verified": true }
+  {
+    "id": "hy1",
+    "name": "Hyam",
+    "gender": "Girl",
+    "meaning": "Love (Variant of Hiyam)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hy2",
+    "name": "Hyder",
+    "gender": "Boy",
+    "meaning": "Lion (Variant of Haider)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hyderabad",
+    "gender": "Boy",
+    "meaning": "Lion City (India/Pakistan)",
+    "origin": "Urdu",
+    "id": "hy3",
+    "verified": true
+  }
 ]

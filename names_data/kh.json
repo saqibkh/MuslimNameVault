@@ -264,6 +264,14 @@
     "verified": true
   },
   {
+    "name": "Khartoum",
+    "gender": "Boy",
+    "meaning": "Elephant Trunk (Sudan)",
+    "origin": "Arabic",
+    "id": "kh63",
+    "verified": true
+  },
+  {
     "id": "kh28",
     "name": "Khashia",
     "gender": "Girl",
@@ -400,6 +408,14 @@
     "verified": true
   },
   {
+    "name": "Khiva",
+    "gender": "Girl",
+    "meaning": "Historic city in Uzbekistan",
+    "origin": "Uzbek",
+    "id": "kh64",
+    "verified": true
+  },
+  {
     "id": "kh38",
     "name": "Khizar",
     "gender": "Boy",
@@ -413,6 +429,30 @@
     "meaning": "Green; Name of a Prophet",
     "origin": "Arabic",
     "id": "kh52",
+    "verified": true
+  },
+  {
+    "name": "Khobar",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "kh65",
+    "verified": true
+  },
+  {
+    "name": "Khojand",
+    "gender": "Boy",
+    "meaning": "City in Tajikistan",
+    "origin": "Tajik",
+    "id": "kh66",
+    "verified": true
+  },
+  {
+    "name": "Khorasan",
+    "gender": "Boy",
+    "meaning": "Land of the Sun (Iran/Afghan)",
+    "origin": "Persian",
+    "id": "kh67",
     "verified": true
   },
   {
@@ -485,6 +525,14 @@
     "gender": "Girl",
     "meaning": "Lavender",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khuzestan",
+    "gender": "Boy",
+    "meaning": "Land of Sugar (Iran)",
+    "origin": "Persian",
+    "id": "kh68",
     "verified": true
   },
   {

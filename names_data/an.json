@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Andalus",
+    "gender": "Girl",
+    "meaning": "Islamic Spain (Al-Andalus)",
+    "origin": "Arabic/Spanish",
+    "id": "an31",
+    "verified": true
+  },
+  {
     "id": "an7",
     "name": "Anees",
     "gender": "Boy",
@@ -144,6 +152,14 @@
     "verified": true
   },
   {
+    "name": "Ankara",
+    "gender": "Girl",
+    "meaning": "Capital of Turkey",
+    "origin": "Turkish",
+    "id": "an32",
+    "verified": true
+  },
+  {
     "id": "an16",
     "name": "Anmar",
     "gender": "Boy",
@@ -197,6 +213,14 @@
     "gender": "Boy",
     "meaning": "Helpers, supporters",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Antalya",
+    "gender": "Girl",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "an33",
     "verified": true
   },
   {

@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Sidon",
+    "gender": "Girl",
+    "meaning": "Saida (Lebanon)",
+    "origin": "Phoenician",
+    "id": "si21",
+    "verified": true
+  },
+  {
     "id": "si2",
     "name": "Sidra",
     "gender": "Girl",
@@ -45,6 +53,14 @@
     "meaning": "Arrows",
     "origin": "Arabic",
     "id": "si15",
+    "verified": true
+  },
+  {
+    "name": "Siirt",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "si22",
     "verified": true
   },
   {
@@ -85,6 +101,14 @@
     "gender": "Boy",
     "meaning": "Spearhead",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sind",
+    "gender": "Boy",
+    "meaning": "River Indus; Region",
+    "origin": "Sanskrit/Urdu",
+    "id": "si23",
     "verified": true
   },
   {
@@ -149,6 +173,14 @@
     "gender": "Girl",
     "meaning": "Star",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Siwa",
+    "gender": "Girl",
+    "meaning": "Oasis in Egypt",
+    "origin": "Berber",
+    "id": "si24",
     "verified": true
   },
   {

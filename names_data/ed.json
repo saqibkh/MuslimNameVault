@@ -1,7 +1,50 @@
 [
-  { "id": "ed1", "name": "Edhem", "gender": "Boy", "meaning": "Dark, black horse (Variant of Adham)", "origin": "Arabic/Turkish", "verified": true },
-  { "id": "ed2", "name": "Edib", "gender": "Boy", "meaning": "Polite, man of letters (Variant of Adib)", "origin": "Turkish", "verified": true },
-  { "id": "ed3", "name": "Ediz", "gender": "Boy", "meaning": "High, precious", "origin": "Turkish", "verified": true },
-  { "id": "ed4", "name": "Edra", "gender": "Girl", "meaning": "Power, strength", "origin": "Arabic", "verified": true },
-  { "id": "ed5", "name": "Edris", "gender": "Boy", "meaning": "Prophet Idris (Enoch)", "origin": "Quranic", "verified": true }
+  {
+    "id": "ed1",
+    "name": "Edhem",
+    "gender": "Boy",
+    "meaning": "Dark, black horse (Variant of Adham)",
+    "origin": "Arabic/Turkish",
+    "verified": true
+  },
+  {
+    "id": "ed2",
+    "name": "Edib",
+    "gender": "Boy",
+    "meaning": "Polite, man of letters (Variant of Adib)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Edirne",
+    "gender": "Girl",
+    "meaning": "City in Turkey (Adrianople)",
+    "origin": "Turkish",
+    "id": "ed6",
+    "verified": true
+  },
+  {
+    "id": "ed3",
+    "name": "Ediz",
+    "gender": "Boy",
+    "meaning": "High, precious",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ed4",
+    "name": "Edra",
+    "gender": "Girl",
+    "meaning": "Power, strength",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ed5",
+    "name": "Edris",
+    "gender": "Boy",
+    "meaning": "Prophet Idris (Enoch)",
+    "origin": "Quranic",
+    "verified": true
+  }
 ]

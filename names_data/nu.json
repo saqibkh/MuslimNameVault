@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Nubia",
+    "gender": "Girl",
+    "meaning": "Land of Gold (Sudan/Egypt)",
+    "origin": "Ancient",
+    "id": "nu17",
+    "verified": true
+  },
+  {
     "id": "nu2",
     "name": "Nudrat",
     "gender": "Girl",
@@ -117,6 +125,14 @@
     "meaning": "Victory of the Conqueror",
     "origin": "Arabic",
     "id": "nu16",
+    "verified": true
+  },
+  {
+    "name": "Nuweiba",
+    "gender": "Girl",
+    "meaning": "City in Sinai",
+    "origin": "Arabic",
+    "id": "nu18",
     "verified": true
   },
   {

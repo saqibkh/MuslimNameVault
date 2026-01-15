@@ -102,5 +102,13 @@
     "origin": "Arabic",
     "id": "lu13",
     "verified": true
+  },
+  {
+    "name": "Luxor",
+    "gender": "Boy",
+    "meaning": "The Palaces (Uqsur)",
+    "origin": "Arabic",
+    "id": "lu14",
+    "verified": true
   }
 ]

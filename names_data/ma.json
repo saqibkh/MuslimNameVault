@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ma'an",
+    "gender": "Boy",
+    "meaning": "City in Jordan",
+    "origin": "Arabic",
+    "id": "ma80",
+    "verified": true
+  },
+  {
     "name": "Ma'mun",
     "gender": "Boy",
     "meaning": "Trustworthy",
@@ -48,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Madaba",
+    "gender": "Girl",
+    "meaning": "City of Mosaics (Jordan)",
+    "origin": "Arabic",
+    "id": "ma81",
+    "verified": true
+  },
+  {
     "id": "ma6",
     "name": "Madiha",
     "gender": "Girl",
@@ -61,6 +77,14 @@
     "gender": "Girl",
     "meaning": "City (City of the Prophet)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Maghreb",
+    "gender": "Boy",
+    "meaning": "West; North Africa",
+    "origin": "Arabic",
+    "id": "ma82",
     "verified": true
   },
   {
@@ -93,6 +117,14 @@
     "gender": "Boy",
     "meaning": "Rightly guided",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mahdia",
+    "gender": "Girl",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "ma83",
     "verified": true
   },
   {
@@ -264,11 +296,27 @@
     "verified": true
   },
   {
+    "name": "Makran",
+    "gender": "Boy",
+    "meaning": "Coastal region (Pakistan/Iran)",
+    "origin": "Persian",
+    "id": "ma84",
+    "verified": true
+  },
+  {
     "name": "Mala",
     "gender": "Girl",
     "meaning": "Gathering, assembly",
     "origin": "Arabic",
     "id": "ma45",
+    "verified": true
+  },
+  {
+    "name": "Malaga",
+    "gender": "Girl",
+    "meaning": "Malaqa (Andalusian city)",
+    "origin": "Arabic",
+    "id": "ma85",
     "verified": true
   },
   {
@@ -285,6 +333,22 @@
     "meaning": "Grieved; Sad",
     "origin": "Pashto",
     "id": "ma64",
+    "verified": true
+  },
+  {
+    "name": "Malda",
+    "gender": "Girl",
+    "meaning": "District in Bengal",
+    "origin": "Bengali",
+    "id": "ma86",
+    "verified": true
+  },
+  {
+    "name": "Male",
+    "gender": "Boy",
+    "meaning": "Capital of Maldives",
+    "origin": "Dhivehi",
+    "id": "ma87",
     "verified": true
   },
   {
@@ -344,6 +408,14 @@
     "verified": true
   },
   {
+    "name": "Manama",
+    "gender": "Girl",
+    "meaning": "Place of rest (Bahrain)",
+    "origin": "Arabic",
+    "id": "ma88",
+    "verified": true
+  },
+  {
     "id": "ma26",
     "name": "Manar",
     "gender": "Girl",
@@ -365,6 +437,14 @@
     "meaning": "Victorious",
     "origin": "Arabic",
     "id": "ma56",
+    "verified": true
+  },
+  {
+    "name": "Mansoura",
+    "gender": "Girl",
+    "meaning": "The Victorious (Egypt)",
+    "origin": "Arabic",
+    "id": "ma89",
     "verified": true
   },
   {
@@ -416,6 +496,14 @@
     "verified": true
   },
   {
+    "name": "Mardin",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish/Arabic",
+    "id": "ma90",
+    "verified": true
+  },
+  {
     "id": "ma30",
     "name": "Maria",
     "gender": "Girl",
@@ -456,11 +544,27 @@
     "verified": true
   },
   {
+    "name": "Marmara",
+    "gender": "Girl",
+    "meaning": "Sea in Turkey",
+    "origin": "Turkish",
+    "id": "ma91",
+    "verified": true
+  },
+  {
     "name": "Maroof",
     "gender": "Boy",
     "meaning": "Known, famous",
     "origin": "Arabic",
     "id": "ma70",
+    "verified": true
+  },
+  {
+    "name": "Marrakesh",
+    "gender": "Boy",
+    "meaning": "Land of God (Morocco)",
+    "origin": "Berber",
+    "id": "ma92",
     "verified": true
   },
   {
@@ -496,11 +600,27 @@
     "verified": true
   },
   {
+    "name": "Mashhad",
+    "gender": "Boy",
+    "meaning": "Place of Martyrdom (Iran)",
+    "origin": "Persian",
+    "id": "ma93",
+    "verified": true
+  },
+  {
     "id": "ma34",
     "name": "Masood",
     "gender": "Boy",
     "meaning": "Fortunate, happy",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Masqat",
+    "gender": "Boy",
+    "meaning": "Muscat (Oman)",
+    "origin": "Arabic",
+    "id": "ma94",
     "verified": true
   },
   {

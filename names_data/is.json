@@ -64,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Iskandariya",
+    "gender": "Girl",
+    "meaning": "Alexandria (Egypt)",
+    "origin": "Arabic",
+    "id": "is18",
+    "verified": true
+  },
+  {
     "id": "is7",
     "name": "Islah",
     "gender": "Unisex",
@@ -77,6 +85,14 @@
     "gender": "Boy",
     "meaning": "Submission to Allah",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Islamabad",
+    "gender": "Boy",
+    "meaning": "City of Islam",
+    "origin": "Urdu",
+    "id": "is19",
     "verified": true
   },
   {
@@ -133,6 +149,14 @@
     "meaning": "Brocade, rich silk",
     "origin": "Quranic",
     "id": "is15",
+    "verified": true
+  },
+  {
+    "name": "Istanbul",
+    "gender": "Unisex",
+    "meaning": "City of Islam (Islambol)",
+    "origin": "Turkish",
+    "id": "is20",
     "verified": true
   }
 ]

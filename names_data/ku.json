@@ -54,5 +54,21 @@
     "meaning": "Name of a companion",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Kurdistan",
+    "gender": "Boy",
+    "meaning": "Land of Kurds",
+    "origin": "Kurdish",
+    "id": "ku8",
+    "verified": true
+  },
+  {
+    "name": "Kuwait",
+    "gender": "Boy",
+    "meaning": "Fortress near water",
+    "origin": "Arabic",
+    "id": "ku9",
+    "verified": true
   }
 ]

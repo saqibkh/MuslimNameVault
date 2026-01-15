@@ -112,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Ambrin",
+    "gender": "Girl",
+    "meaning": "Sky",
+    "origin": "Arabic",
+    "id": "am38",
+    "verified": true
+  },
+  {
     "id": "am13",
     "name": "Ameen",
     "gender": "Boy",
@@ -224,6 +232,14 @@
     "verified": true
   },
   {
+    "name": "Amman",
+    "gender": "Boy",
+    "meaning": "Capital of Jordan; Security",
+    "origin": "Arabic",
+    "id": "am36",
+    "verified": true
+  },
+  {
     "id": "am24",
     "name": "Ammar",
     "gender": "Boy",
@@ -237,6 +253,14 @@
     "gender": "Girl",
     "meaning": "Peace, safety",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Amol",
+    "gender": "Boy",
+    "meaning": "Historic city in Iran",
+    "origin": "Persian",
+    "id": "am37",
     "verified": true
   },
   {

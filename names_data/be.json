@@ -64,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Bekaa",
+    "gender": "Girl",
+    "meaning": "Valley in Lebanon",
+    "origin": "Arabic",
+    "id": "be16",
+    "verified": true
+  },
+  {
     "id": "be9",
     "name": "Belal",
     "gender": "Boy",
@@ -77,6 +85,14 @@
     "gender": "Girl",
     "meaning": "Incomparable, matchless",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Bengal",
+    "gender": "Boy",
+    "meaning": "Region in South Asia",
+    "origin": "Sanskrit/Arabic",
+    "id": "be17",
     "verified": true
   },
   {

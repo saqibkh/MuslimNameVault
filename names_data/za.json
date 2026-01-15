@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Zab",
+    "gender": "Boy",
+    "meaning": "River in Iraq",
+    "origin": "Arabic",
+    "id": "za56",
+    "verified": true
+  },
+  {
     "name": "Zabaj",
     "gender": "Boy",
     "meaning": "Top of a mountain",
@@ -69,6 +77,14 @@
     "meaning": "Victory",
     "origin": "Turkish",
     "id": "za47",
+    "verified": true
+  },
+  {
+    "name": "Zagros",
+    "gender": "Boy",
+    "meaning": "Mountains in Iran",
+    "origin": "Persian",
+    "id": "za57",
     "verified": true
   },
   {
@@ -232,6 +248,14 @@
     "verified": true
   },
   {
+    "name": "Zakho",
+    "gender": "Boy",
+    "meaning": "City in Kurdistan",
+    "origin": "Kurdish",
+    "id": "za58",
+    "verified": true
+  },
+  {
     "id": "za22",
     "name": "Zaki",
     "gender": "Boy",
@@ -320,6 +344,14 @@
     "verified": true
   },
   {
+    "name": "Zanzibar",
+    "gender": "Boy",
+    "meaning": "Zanj-bar (Coast of Blacks)",
+    "origin": "Persian/Arabic",
+    "id": "za59",
+    "verified": true
+  },
+  {
     "name": "Zar",
     "gender": "Unisex",
     "meaning": "Gold",
@@ -392,6 +424,14 @@
     "verified": true
   },
   {
+    "name": "Zarqa",
+    "gender": "Girl",
+    "meaning": "Blue City (Jordan)",
+    "origin": "Arabic",
+    "id": "za60",
+    "verified": true
+  },
+  {
     "id": "za36",
     "name": "Zarrar",
     "gender": "Boy",
@@ -429,6 +469,14 @@
     "gender": "Girl",
     "meaning": "Beautiful plant",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zayton",
+    "gender": "Boy",
+    "meaning": "Quanzhou (China - Historic Name)",
+    "origin": "Arabic",
+    "id": "za61",
     "verified": true
   },
   {

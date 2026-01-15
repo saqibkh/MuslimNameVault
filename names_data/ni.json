@@ -104,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Nile",
+    "gender": "Boy",
+    "meaning": "Great River of Egypt",
+    "origin": "Arabic",
+    "id": "ni28",
+    "verified": true
+  },
+  {
     "id": "ni4",
     "name": "Nilofar",
     "gender": "Girl",
@@ -144,6 +152,14 @@
     "verified": true
   },
   {
+    "name": "Nineveh",
+    "gender": "Girl",
+    "meaning": "Ninawa (Iraq)",
+    "origin": "Ancient",
+    "id": "ni29",
+    "verified": true
+  },
+  {
     "id": "ni8",
     "name": "Nisbah",
     "gender": "Girl",
@@ -157,6 +173,14 @@
     "gender": "Girl",
     "meaning": "Night",
     "origin": "Sanskrit/Urdu",
+    "verified": true
+  },
+  {
+    "name": "Nishapur",
+    "gender": "Boy",
+    "meaning": "City of Turquoise (Iran)",
+    "origin": "Persian",
+    "id": "ni30",
     "verified": true
   },
   {
@@ -213,6 +237,14 @@
     "gender": "Boy",
     "meaning": "Rare",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nizwa",
+    "gender": "Boy",
+    "meaning": "Historic capital of Oman",
+    "origin": "Arabic",
+    "id": "ni31",
     "verified": true
   }
 ]

@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Rabat",
+    "gender": "Boy",
+    "meaning": "Fortified place (Morocco)",
+    "origin": "Arabic",
+    "id": "ra87",
+    "verified": true
+  },
+  {
     "id": "ra5",
     "name": "Rabbani",
     "gender": "Boy",
@@ -85,6 +93,14 @@
     "gender": "Unisex",
     "meaning": "Garden, spring",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Rabigh",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "ra88",
     "verified": true
   },
   {
@@ -400,6 +416,14 @@
     "verified": true
   },
   {
+    "name": "Ramallah",
+    "gender": "Girl",
+    "meaning": "Hill of God (Palestine)",
+    "origin": "Arabic",
+    "id": "ra89",
+    "verified": true
+  },
+  {
     "id": "ra40",
     "name": "Rameez",
     "gender": "Boy",
@@ -477,6 +501,14 @@
     "gender": "Boy",
     "meaning": "Observer (Attribute of Allah)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Ras",
+    "gender": "Boy",
+    "meaning": "Headland; Cape",
+    "origin": "Arabic",
+    "id": "ra90",
     "verified": true
   },
   {
@@ -597,6 +629,14 @@
     "meaning": "Storyteller; Water carrier",
     "origin": "Arabic",
     "id": "ra74",
+    "verified": true
+  },
+  {
+    "name": "Ray",
+    "gender": "Boy",
+    "meaning": "Ancient city (Tehran)",
+    "origin": "Persian",
+    "id": "ra91",
     "verified": true
   },
   {
