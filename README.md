@@ -1,102 +1,51 @@
-Here is a professional README.md file for your repository. It explains the purpose of every file and folder and provides a clear workflow for using the tools.
+# MuslimNameVault 🌙
 
-MuslimNameVault 🌙
-A static website generator and database for a comprehensive collection of Muslim baby names. This project generates a fast, SEO-friendly, and interactive dictionary website with native audio pronunciations, origin filtering, and meaning details.
+A comprehensive static website generator and database for Muslim baby names. This project creates a fast, SEO-friendly, and interactive dictionary website featuring native audio pronunciations, origin filtering, and deep meanings.
 
-📂 Project Structure
-Here is a breakdown of the core files and directories in this repository:
+## 📂 Project Structure
 
-🐍 Python Scripts
-generate_site.py
+This repository is organized as follows:
 
-The Main Engine. This script reads all JSON files from names_data/, compiles them, and generates the static HTML website in the output/ folder.
+### 🐍 Core Scripts
 
-It creates the Index, Letter pages, Detail pages, Sitemap, and the Search Index.
+* **`generate_site.py`**
+    * **The Main Builder.** This script reads the JSON database, compiles the data, and generates the static HTML website in the `output/` folder. It creates the Index, Alphabetical pages, Name Detail pages, Sitemap, and the Global Search Index.
 
-Run this last to build the website.
+* **`generate_audio.py`**
+    * **The Voice Engine.** This script iterates through the name database and uses Google Text-to-Speech (gTTS) to generate MP3 files for every name. It intelligently selects the correct accent (Arabic, Persian, Turkish) based on the name's origin.
 
-generate_audio.py
+* **`update_database.py`**
+    * **The Data Manager.** This script takes raw input from `new_names.json` and intelligently merges it into the existing `names_data/` library. It handles deduplication, ID assignment, and alphabetical sorting.
 
-The Pronunciation Engine. This script iterates through the name database and uses Google Text-to-Speech (gTTS) to generate MP3 files for every name.
+### 🗂️ Data & Output
 
-It detects the name's origin (Arabic, Persian, Turkish) to select the correct accent/dialect.
+* **`names_data/`**
+    * **The Database Source.** This folder contains the source of truth for all names. Data is split into smaller JSON files (e.g., `aa.json`, `kh.json`) based on the first two letters of the name to keep the dataset manageable.
 
-Saves files to output/audio/.
+* **`output/`**
+    * **The Build Directory.** This contains the fully generated website ready for deployment.
+        * `*.html`: The static web pages.
+        * `audio/`: The generated MP3 pronunciation files.
+        * `sitemap.xml` & `robots.txt`: SEO files.
+        * `search_index.json`: Data for the search bar.
+    * *Note: This is the folder you upload to GitHub Pages or your hosting provider.*
 
-update_database.py
+### ⚙️ Configuration
 
-The Data Manager. This script takes new names from new_names.json and intelligently merges them into the existing names_data/ library.
+* **`new_names.json`**
+    * **The Staging File.** This is where you paste lists of new names you wish to add to the database. The `update_database.py` script reads from here.
+    * *Format:* `[{"name": "Ali", "gender": "Boy", "meaning": "High", "origin": "Arabic"}, ...]`
 
-It prevents duplicates, assigns unique IDs, sorts names alphabetically, and categorizes them into the correct letter files (e.g., aa.json, sh.json).
+* **`requirements.txt`**
+    * **Dependencies.** Lists the Python libraries required to run the tools (Jinja2 for templating, gTTS for audio).
 
-📁 Directories
-names_data/
+---
 
-The Database. Contains the source of truth. The data is split into multiple small JSON files (e.g., aa.json, mu.json) based on the first two letters of the names to keep the data manageable.
+## 🚀 Workflow: How to Update the Site
 
-output/
+Follow these steps to add new names and rebuild the project:
 
-The Build Folder. This is the generated website ready for deployment.
-
-Contains index.html, all name-*.html pages, the audio/ folder, sitemap.xml, and search_index.json.
-
-This folder is what you upload to GitHub Pages or your hosting provider.
-
-📄 Configuration & Input
-new_names.json
-
-The Staging Area. This is where you paste raw lists of new names you want to add to the database.
-
-Format: A JSON list of objects containing name, gender, meaning, and origin.
-
-Used as input for update_database.py.
-
-requirements.txt
-
-Dependencies. Lists the Python libraries required to run the scripts (e.g., jinja2, gTTS).
-
-🚀 Workflow: How to Update the Site
-Follow this order to add names and rebuild the site:
-
-1. Installation
-First, ensure you have the required libraries:
-
-Bash
-
+### 1. Installation
+Install the required Python libraries:
+```bash
 pip install -r requirements.txt
-2. Add New Names
-Paste your new name entries into new_names.json, then run:
-
-Bash
-
-python3 update_database.py
-This will merge the new names into names_data/ and clear duplicates.
-
-3. Generate Audio
-Create pronunciation files for the new names:
-
-Bash
-
-python3 generate_audio.py
-This will skip existing audio files and only generate new ones.
-
-4. Build Website
-Generate the HTML pages and search index:
-
-Bash
-
-python3 generate_site.py
-5. Deploy
-Push the contents of the output/ folder (or the whole repo) to GitHub.
-
-🛠️ Requirements
-Python 3.x
-
-Jinja2 (Templating engine)
-
-gTTS (Google Text-to-Speech API)
-
-Plaintext
-
-jinja2
-gTTS
