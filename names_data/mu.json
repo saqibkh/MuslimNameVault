@@ -1,5 +1,13 @@
 [
   {
+    "name": "Muad",
+    "gender": "Boy",
+    "meaning": "Protected",
+    "origin": "Arabic",
+    "id": "mu43",
+    "verified": true
+  },
+  {
     "id": "mu1",
     "name": "Muadh",
     "gender": "Boy",
@@ -125,6 +133,14 @@
     "gender": "Boy",
     "meaning": "Striver, warrior",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Mujtaba",
+    "gender": "Boy",
+    "meaning": "The chosen one",
+    "origin": "Arabic",
+    "id": "mu44",
     "verified": true
   },
   {

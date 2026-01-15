@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Siddiq",
+    "gender": "Boy",
+    "meaning": "Truthful",
+    "origin": "Quranic",
+    "id": "si14",
+    "verified": true
+  },
+  {
     "id": "si2",
     "name": "Sidra",
     "gender": "Girl",
@@ -21,6 +29,14 @@
     "gender": "Boy",
     "meaning": "Best friend, elite",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Siham",
+    "gender": "Girl",
+    "meaning": "Arrows",
+    "origin": "Arabic",
+    "id": "si15",
     "verified": true
   },
   {

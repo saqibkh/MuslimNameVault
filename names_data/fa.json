@@ -504,6 +504,14 @@
     "verified": true
   },
   {
+    "name": "Farooq",
+    "gender": "Boy",
+    "meaning": "He who distinguishes truth from falsehood",
+    "origin": "Arabic",
+    "id": "fa105",
+    "verified": true
+  },
+  {
     "id": "fa61",
     "name": "Farqad",
     "gender": "Boy",
@@ -669,6 +677,14 @@
     "gender": "Girl",
     "meaning": "Opening, beginning",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Fatima",
+    "gender": "Girl",
+    "meaning": "One who weans; Daughter of the Prophet",
+    "origin": "Arabic",
+    "id": "fa106",
     "verified": true
   },
   {

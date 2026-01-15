@@ -168,6 +168,14 @@
     "verified": true
   },
   {
+    "name": "Haidar",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "ha108",
+    "verified": true
+  },
+  {
     "id": "ha14",
     "name": "Haider",
     "gender": "Boy",
@@ -461,6 +469,14 @@
     "gender": "Girl",
     "meaning": "Happy, pleasant",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hanif",
+    "gender": "Boy",
+    "meaning": "True believer",
+    "origin": "Quranic",
+    "id": "ha109",
     "verified": true
   },
   {

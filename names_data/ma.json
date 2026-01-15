@@ -104,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Mahir",
+    "gender": "Boy",
+    "meaning": "Skillful",
+    "origin": "Arabic",
+    "id": "ma55",
+    "verified": true
+  },
+  {
     "id": "ma12",
     "name": "Mahira",
     "gender": "Girl",
@@ -248,6 +256,14 @@
     "verified": true
   },
   {
+    "name": "Mansoor",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "ma56",
+    "verified": true
+  },
+  {
     "id": "ma27",
     "name": "Mansur",
     "gender": "Boy",
@@ -277,6 +293,14 @@
     "gender": "Girl",
     "meaning": "Prophet's wife (Maria al-Qibtiyya)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mariam",
+    "gender": "Girl",
+    "meaning": "Mary (Mother of Jesus)",
+    "origin": "Quranic",
+    "id": "ma57",
     "verified": true
   },
   {

@@ -112,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Sabrin",
+    "gender": "Girl",
+    "meaning": "Patience",
+    "origin": "Arabic",
+    "id": "sa108",
+    "verified": true
+  },
+  {
     "id": "sa14",
     "name": "Sabrina",
     "gender": "Girl",
@@ -309,6 +317,14 @@
     "meaning": "Desert",
     "origin": "Turkish/Arabic",
     "id": "sa101",
+    "verified": true
+  },
+  {
+    "name": "Said",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Arabic",
+    "id": "sa109",
     "verified": true
   },
   {

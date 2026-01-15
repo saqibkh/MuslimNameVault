@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Babar",
+    "gender": "Boy",
+    "meaning": "Tiger",
+    "origin": "Persian/Turkish",
+    "id": "ba109",
+    "verified": true
+  },
+  {
     "id": "ba5",
     "name": "Baber",
     "gender": "Boy",

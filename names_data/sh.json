@@ -184,6 +184,22 @@
     "verified": true
   },
   {
+    "name": "Shahina",
+    "gender": "Girl",
+    "meaning": "Falcon",
+    "origin": "Persian",
+    "id": "sh69",
+    "verified": true
+  },
+  {
+    "name": "Shahla",
+    "gender": "Girl",
+    "meaning": "Dark flower",
+    "origin": "Arabic",
+    "id": "sh70",
+    "verified": true
+  },
+  {
     "id": "sh22",
     "name": "Shahnaz",
     "gender": "Girl",
@@ -456,6 +472,14 @@
     "verified": true
   },
   {
+    "name": "Sherin",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "sh71",
+    "verified": true
+  },
+  {
     "id": "sh52",
     "name": "Shifa",
     "gender": "Girl",
@@ -485,6 +509,14 @@
     "gender": "Girl",
     "meaning": "Sweet, pleasant",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shirin",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "sh72",
     "verified": true
   },
   {

@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Iskandar",
+    "gender": "Boy",
+    "meaning": "Defender of men",
+    "origin": "Arabic/Persian",
+    "id": "is16",
+    "verified": true
+  },
+  {
     "id": "is7",
     "name": "Islah",
     "gender": "Unisex",

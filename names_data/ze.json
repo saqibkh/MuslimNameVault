@@ -1,9 +1,66 @@
 [
-  { "id": "ze1", "name": "Zeba", "gender": "Girl", "meaning": "Beautiful, adorned", "origin": "Persian", "verified": true },
-  { "id": "ze2", "name": "Zeek", "gender": "Boy", "meaning": "Flash of light", "origin": "Arabic", "verified": true },
-  { "id": "ze3", "name": "Zeenat", "gender": "Girl", "meaning": "Decoration, beauty", "origin": "Quranic", "verified": true },
-  { "id": "ze4", "name": "Zeeshan", "gender": "Boy", "meaning": "Possessor of high status, dignified", "origin": "Arabic", "verified": true },
-  { "id": "ze5", "name": "Zehra", "gender": "Girl", "meaning": "Radiant (Variant of Zahra)", "origin": "Arabic", "verified": true },
-  { "id": "ze6", "name": "Zenia", "gender": "Girl", "meaning": "Flower", "origin": "Persian", "verified": true },
-  { "id": "ze7", "name": "Zeynab", "gender": "Girl", "meaning": "Beautiful (Turkish form)", "origin": "Turkish", "verified": true }
+  {
+    "id": "ze1",
+    "name": "Zeba",
+    "gender": "Girl",
+    "meaning": "Beautiful, adorned",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ze2",
+    "name": "Zeek",
+    "gender": "Boy",
+    "meaning": "Flash of light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ze3",
+    "name": "Zeenat",
+    "gender": "Girl",
+    "meaning": "Decoration, beauty",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ze4",
+    "name": "Zeeshan",
+    "gender": "Boy",
+    "meaning": "Possessor of high status, dignified",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ze5",
+    "name": "Zehra",
+    "gender": "Girl",
+    "meaning": "Radiant (Variant of Zahra)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zein",
+    "gender": "Boy",
+    "meaning": "Good, beautiful",
+    "origin": "Arabic",
+    "id": "ze8",
+    "verified": true
+  },
+  {
+    "id": "ze6",
+    "name": "Zenia",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ze7",
+    "name": "Zeynab",
+    "gender": "Girl",
+    "meaning": "Beautiful (Turkish form)",
+    "origin": "Turkish",
+    "verified": true
+  }
 ]

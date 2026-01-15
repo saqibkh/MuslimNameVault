@@ -72,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Waheed",
+    "gender": "Boy",
+    "meaning": "Unique",
+    "origin": "Arabic",
+    "id": "wa41",
+    "verified": true
+  },
+  {
     "id": "wa9",
     "name": "Wahid",
     "gender": "Boy",
@@ -253,6 +261,14 @@
     "gender": "Girl",
     "meaning": "Dove, pigeon",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Waseem",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "wa42",
     "verified": true
   },
   {
