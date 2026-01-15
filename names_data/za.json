@@ -288,6 +288,14 @@
     "verified": true
   },
   {
+    "name": "Zarin",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Persian",
+    "id": "za46",
+    "verified": true
+  },
+  {
     "id": "za33",
     "name": "Zariya",
     "gender": "Girl",
@@ -317,6 +325,14 @@
     "gender": "Boy",
     "meaning": "Brave warrior",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Zaryab",
+    "gender": "Boy",
+    "meaning": "Rich; Possessor of gold",
+    "origin": "Persian",
+    "id": "za45",
     "verified": true
   },
   {

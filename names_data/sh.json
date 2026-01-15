@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Shadab",
+    "gender": "Boy",
+    "meaning": "Fresh; Verdant; Green",
+    "origin": "Persian",
+    "id": "sh74",
+    "verified": true
+  },
+  {
     "id": "sh6",
     "name": "Shadan",
     "gender": "Boy",
@@ -125,6 +133,14 @@
     "gender": "Boy",
     "meaning": "King",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shahab",
+    "gender": "Boy",
+    "meaning": "Meteor; Shooting star; Bright flame",
+    "origin": "Quranic",
+    "id": "sh73",
     "verified": true
   },
   {

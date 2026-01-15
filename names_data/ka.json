@@ -224,6 +224,14 @@
     "verified": true
   },
   {
+    "name": "Kamyar",
+    "gender": "Boy",
+    "meaning": "Successful friend",
+    "origin": "Persian",
+    "id": "ka48",
+    "verified": true
+  },
+  {
     "name": "Kanz",
     "gender": "Boy",
     "meaning": "Treasure",
@@ -304,6 +312,14 @@
     "verified": true
   },
   {
+    "name": "Kasra",
+    "gender": "Boy",
+    "meaning": "King (Title of Persian Kings)",
+    "origin": "Persian",
+    "id": "ka49",
+    "verified": true
+  },
+  {
     "id": "ka36",
     "name": "Kaukab",
     "gender": "Unisex",
@@ -317,6 +333,14 @@
     "gender": "Girl",
     "meaning": "River in Paradise (Al-Kawthar)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Kaveh",
+    "gender": "Boy",
+    "meaning": "Royal; Ancient hero",
+    "origin": "Persian",
+    "id": "ka47",
     "verified": true
   },
   {

@@ -1,12 +1,90 @@
 [
-  { "id": "no1", "name": "Noor", "gender": "Unisex", "meaning": "Light", "origin": "Quranic", "verified": true },
-  { "id": "no2", "name": "Noora", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true },
-  { "id": "no3", "name": "Nooriyah", "gender": "Girl", "meaning": "Radiant, luminous", "origin": "Arabic", "verified": true },
-  { "id": "no4", "name": "Nooruddin", "gender": "Boy", "meaning": "Light of the Faith", "origin": "Arabic", "verified": true },
-  { "id": "no5", "name": "Noorulain", "gender": "Girl", "meaning": "Peace of eyes (Light of eyes)", "origin": "Urdu", "verified": true },
-  { "id": "no6", "name": "Nora", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true },
-  { "id": "no7", "name": "Nouman", "gender": "Boy", "meaning": "Blood, red (Variant of Numan)", "origin": "Arabic", "verified": true },
-  { "id": "no8", "name": "Noura", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true },
-  { "id": "no9", "name": "Nouran", "gender": "Unisex", "meaning": "Two lights", "origin": "Arabic", "verified": true },
-  { "id": "no10", "name": "Noureen", "gender": "Girl", "meaning": "Light", "origin": "Arabic", "verified": true }
+  {
+    "id": "no1",
+    "name": "Noor",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Noor-ul-Ain",
+    "gender": "Girl",
+    "meaning": "Light of the eyes",
+    "origin": "Arabic/Urdu",
+    "id": "no11",
+    "verified": true
+  },
+  {
+    "id": "no2",
+    "name": "Noora",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no3",
+    "name": "Nooriyah",
+    "gender": "Girl",
+    "meaning": "Radiant, luminous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no4",
+    "name": "Nooruddin",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no5",
+    "name": "Noorulain",
+    "gender": "Girl",
+    "meaning": "Peace of eyes (Light of eyes)",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "no6",
+    "name": "Nora",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no7",
+    "name": "Nouman",
+    "gender": "Boy",
+    "meaning": "Blood, red (Variant of Numan)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no8",
+    "name": "Noura",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no9",
+    "name": "Nouran",
+    "gender": "Unisex",
+    "meaning": "Two lights",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "no10",
+    "name": "Noureen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true
+  }
 ]

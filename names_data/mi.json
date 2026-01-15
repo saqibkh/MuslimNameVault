@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Mihrab",
+    "gender": "Boy",
+    "meaning": "Prayer niche; Sanctuary",
+    "origin": "Arabic",
+    "id": "mi19",
+    "verified": true
+  },
+  {
     "id": "mi2",
     "name": "Mika",
     "gender": "Boy",
@@ -37,6 +45,14 @@
     "gender": "Girl",
     "meaning": "Pearl, enamel; Valley near Mecca",
     "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "name": "Minar",
+    "gender": "Boy",
+    "meaning": "Tower; Minaret",
+    "origin": "Arabic",
+    "id": "mi20",
     "verified": true
   },
   {
@@ -117,6 +133,14 @@
     "meaning": "Egypt; Civilization",
     "origin": "Quranic",
     "id": "mi14",
+    "verified": true
+  },
+  {
+    "name": "Mitra",
+    "gender": "Girl",
+    "meaning": "Sun; Promise",
+    "origin": "Persian",
+    "id": "mi18",
     "verified": true
   },
   {

@@ -272,6 +272,14 @@
     "verified": true
   },
   {
+    "name": "Sahba",
+    "gender": "Girl",
+    "meaning": "Wine; Reddish",
+    "origin": "Arabic/Persian",
+    "id": "sa110",
+    "verified": true
+  },
+  {
     "id": "sa30",
     "name": "Sahib",
     "gender": "Boy",
@@ -709,6 +717,14 @@
     "gender": "Girl",
     "meaning": "Radiant",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saqi",
+    "gender": "Boy",
+    "meaning": "Cupbearer (Poetic)",
+    "origin": "Arabic/Urdu",
+    "id": "sa111",
     "verified": true
   },
   {

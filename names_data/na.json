@@ -432,6 +432,14 @@
     "verified": true
   },
   {
+    "name": "Nargis",
+    "gender": "Girl",
+    "meaning": "Narcissus flower",
+    "origin": "Persian",
+    "id": "na95",
+    "verified": true
+  },
+  {
     "id": "na46",
     "name": "Narjis",
     "gender": "Girl",
@@ -597,6 +605,14 @@
     "gender": "Boy",
     "meaning": "Good news",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Navid",
+    "gender": "Boy",
+    "meaning": "Good news",
+    "origin": "Persian",
+    "id": "na96",
     "verified": true
   },
   {
