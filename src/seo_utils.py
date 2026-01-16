@@ -51,3 +51,13 @@ Sitemap: {SITE_URL}/sitemap.xml
     with open(os.path.join(OUTPUT_FOLDER, 'robots.txt'), 'w', encoding='utf-8') as f:
         f.write(content)
     print("✅ robots.txt created.")
+
+def generate_cname():
+    """Creates the CNAME file for custom domain support."""
+    print("🌐 Generating CNAME file...")
+    # This must match your purchased domain exactly
+    domain = "muslimnamevault.com"
+    
+    with open(os.path.join(OUTPUT_FOLDER, 'CNAME'), 'w', encoding='utf-8') as f:
+        f.write(domain)
+    print("✅ CNAME created.")

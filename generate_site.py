@@ -37,6 +37,7 @@ def generate_website():
     generate_search_index(data)
     generate_sitemap(data)
     generate_robots()
+    generate_cname()
 
     # 3. Generate Index Page
     render_template('index.html', {
