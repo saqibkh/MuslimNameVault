@@ -18,7 +18,7 @@
         </div>
         <h3 class="text-2xl font-bold text-slate-800 mb-2">Your list is empty</h3>
         <p class="text-slate-500 mb-8 max-w-sm mx-auto">Start browsing the dictionary and click the heart icon to save names you love.</p>
-        <a href="index.html" class="px-8 py-3 bg-emerald-700 text-white rounded-lg font-medium hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20">Browse Names</a>
+        <a href="/" class="px-8 py-3 bg-emerald-700 text-white rounded-lg font-medium hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20">Browse Names</a>
     </div>
 </div>
 
@@ -43,7 +43,8 @@
                 card.className = 'bg-white rounded-xl shadow-sm hover:shadow-md transition p-6 border border-slate-200 flex justify-between items-center relative overflow-hidden group';
                 
                 const link = document.createElement('a');
-                link.href = `name-${fav.name.toLowerCase().replace(' ', '-')}.html`;
+                // CLEAN URL FIX:
+                link.href = `/name-${fav.name.toLowerCase().replace(' ', '-')}/`;
                 link.className = 'absolute inset-0 z-0';
                 card.appendChild(link);
 

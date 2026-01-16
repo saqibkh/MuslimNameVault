@@ -25,11 +25,23 @@ def generate_sitemap(data):
     sitemap_content = ['<?xml version="1.0" encoding="UTF-8"?>',
                        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     
-    # Static pages
-    for page in ['index.html', 'favorites.html']:
-        sitemap_content.append(f"""<url><loc>{SITE_URL}/{page}</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>""")
+    # 1. Static Pages (Root, Favorites, Finder)
+    # Using clean URLs (trailing slashes)
+    static_pages = ['', 'favorites/', 'finder/']
+    
+    # 2. Collection Pages
+    collections = ['names-prophets/', 'names-sahaba/', 'names-trending/', 'names-quranic/']
+    
+    # 3. Letter Pages (names-a/, names-b/...)
+    letter_pages = [f"names-{l.lower()}/" for l in data.keys()]
 
-    # Detail pages
+    # Combine all "Main" pages (High Priority)
+    for page in static_pages + collections + letter_pages:
+        # Handle root specially
+        url = f"{SITE_URL}/{page}" if page else f"{SITE_URL}/"
+        sitemap_content.append(f"""<url><loc>{url}</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>""")
+
+    # 4. Name Detail Pages (Lower Priority)
     for letter, names in data.items():
         for name in names:
             slug = f"name-{name['name'].lower().replace(' ', '-')}/"
@@ -55,7 +67,6 @@ Sitemap: {SITE_URL}/sitemap.xml
 def generate_cname():
     """Creates the CNAME file for custom domain support."""
     print("🌐 Generating CNAME file...")
-    # This must match your purchased domain exactly
     domain = "muslimnamevault.com"
     
     with open(os.path.join(OUTPUT_FOLDER, 'CNAME'), 'w', encoding='utf-8') as f:

@@ -4,7 +4,7 @@ from jinja2 import Environment, FileSystemLoader
 from config import INPUT_FOLDER, OUTPUT_FOLDER, SITE_URL
 from src.data_manager import load_all_names, get_related_names, get_collection_data
 from src.seo_utils import generate_search_index, generate_sitemap, generate_robots, generate_cname
-from src.collections import PROPHETS, SAHABA, TRENDING_2025, QURANIC_DIRECT
+from src.collections import PROPHETS, SAHABA, TRENDING_2026, QURANIC_DIRECT
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
@@ -86,7 +86,7 @@ def generate_website():
     collections = [
         {'filename': 'names-prophets', 'list': PROPHETS, 'title': 'Names of Prophets', 'desc': 'Names of Prophets in Islam.'},
         {'filename': 'names-sahaba', 'list': SAHABA, 'title': 'Names of Sahaba', 'desc': 'Names of the Companions.'},
-        {'filename': 'names-trending', 'list': TRENDING_2025, 'title': 'Trending Names 2025', 'desc': 'Popular Muslim names.'},
+        {'filename': 'names-trending', 'list': TRENDING_2026, 'title': 'Trending Names 2026', 'desc': 'Popular Muslim names.'},
         {'filename': 'names-quranic', 'list': QURANIC_DIRECT, 'title': 'Quranic Names', 'desc': 'Direct Quranic names.'}
     ]
 

@@ -55,8 +55,8 @@
     const grid = document.getElementById('finderGrid');
     const countLabel = document.getElementById('resultCount');
 
-    // Load Data once
-    fetch('search_index.json')
+    // Load Data once (Absolute Path Fix)
+    fetch('/search_index.json')
         .then(res => res.json())
         .then(data => {
             allNames = data;

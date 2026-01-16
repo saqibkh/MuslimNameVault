@@ -18,7 +18,7 @@
             
             <div class="absolute top-0 left-0 w-1 h-full bg-{{ gender_cls }}-500 rounded-l-xl opacity-0 group-hover:opacity-100 transition"></div>
 
-            <a href="name-{{ name.name|lower|replace(' ', '-') }}.html" class="block h-full flex flex-col pl-3">
+            <a href="/name-{{ name.name|lower|replace(' ', '-') }}/" class="block h-full flex flex-col pl-3">
                 <div class="flex justify-between items-start pr-2 mb-3">
                     <div>
                         <h2 class="text-2xl font-bold text-slate-900 group-hover:text-{{ gender_cls }}-700 transition">{{ name.name }}</h2>
@@ -42,7 +42,7 @@
     {% if names|length == 0 %}
     <div class="text-center py-20 bg-slate-50 rounded-2xl border border-slate-100 mt-8">
         <p class="text-slate-500">Names for this collection are being added to the database.</p>
-        <a href="index.html" class="text-emerald-600 font-bold hover:underline mt-2 inline-block">Return Home</a>
+        <a href="/" class="text-emerald-600 font-bold hover:underline mt-2 inline-block">Return Home</a>
     </div>
     {% endif %}
 </div>
