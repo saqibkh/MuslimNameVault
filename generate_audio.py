@@ -6,19 +6,22 @@ from gtts import gTTS
 
 # CONFIGURATION
 INPUT_FOLDER = 'names_data'
-AUDIO_OUTPUT_FOLDER = 'output/audio'
+# UPDATED: Save to 'assets' so they are not deleted during site generation
+AUDIO_OUTPUT_FOLDER = 'assets/audio' 
 
 # Create audio folder if not exists
 if not os.path.exists(AUDIO_OUTPUT_FOLDER):
     os.makedirs(AUDIO_OUTPUT_FOLDER)
+    print(f"📁 Created directory: {AUDIO_OUTPUT_FOLDER}")
 
 def get_safe_filename(name):
     """Converts 'Ali ibn Abi Talib' to 'ali-ibn-abi-talib'"""
+    # This must match the slug logic in generate_site.py
     return name.lower().strip().replace(' ', '-').replace("'", "")
 
 def determine_lang(origin):
     """Decides which language code to use based on Origin."""
-    origin = origin.lower()
+    origin = str(origin).lower()
     if 'turkish' in origin:
         return 'tr'
     # Default to Arabic for Persian/Urdu/Quranic as they share script
@@ -26,11 +29,15 @@ def determine_lang(origin):
     return 'ar' 
 
 def generate_audio_files():
-    print("🎙️  Starting Audio Generation...")
+    print(f"🎙️  Starting Audio Generation into '{AUDIO_OUTPUT_FOLDER}'...")
     
     files = glob.glob(os.path.join(INPUT_FOLDER, '*.json'))
     total_generated = 0
     skipped = 0
+
+    if not files:
+        print("❌ No JSON files found in names_data!")
+        return
 
     for file_path in files:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -48,7 +55,7 @@ def generate_audio_files():
             # Skip if already exists (Saves time on re-runs)
             if os.path.exists(save_path):
                 skipped += 1
-                print(f"⏩ Skipping {name_english} (Exists)")
+                # print(f"⏩ Skipping {name_english} (Exists)") # Uncomment to see skips
                 continue
 
             # Text to speak: Prefer Arabic text, fallback to English
@@ -59,7 +66,7 @@ def generate_audio_files():
                 # Generate Audio
                 tts = gTTS(text=text_to_speak, lang=lang_code, slow=False)
                 tts.save(save_path)
-                print(f"✅ Generated: {name_english} ({text_to_speak})")
+                print(f"✅ Generated: {filename} ({text_to_speak})")
                 total_generated += 1
                 
                 # Polite delay to avoid Google API rate limits
@@ -69,6 +76,7 @@ def generate_audio_files():
                 print(f"❌ Failed: {name_english} - {e}")
 
     print(f"\n🎉 Done! Generated: {total_generated}, Skipped: {skipped}")
+    print(f"📂 Audio files are located in: {AUDIO_OUTPUT_FOLDER}")
 
 if __name__ == "__main__":
     generate_audio_files()
