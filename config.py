@@ -1,8 +1,8 @@
 import os
 
 INPUT_FOLDER = 'names_data'
-OUTPUT_FOLDER = 'output'
-SITE_URL = "https://saqibkh.github.io/MuslimNameVault"
+OUTPUT_FOLDER = 'docs'
+SITE_URL = "https://muslimnamevault.com"
 
 # Ensure output directory exists
 if not os.path.exists(OUTPUT_FOLDER):
