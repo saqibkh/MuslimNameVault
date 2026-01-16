@@ -122,7 +122,7 @@
         let searchIndex = [];
 
         // Load Search Index
-        fetch('search_index.json')
+        fetch('/search_index.json')
             .then(response => response.json())
             .then(data => { searchIndex = data; })
             .catch(err => console.error("Error loading search index:", err));

@@ -10,7 +10,7 @@ def generate_search_index(data):
         for name in names:
             index.append({
                 "n": name['name'],
-                "s": f"name-{name['name'].lower().replace(' ', '-')}.html",
+                "s": f"/name-{name['name'].lower().replace(' ', '-')}/",
                 "m": name['meaning'][:60], 
                 "g": name['gender']
             })
@@ -32,7 +32,7 @@ def generate_sitemap(data):
     # Detail pages
     for letter, names in data.items():
         for name in names:
-            slug = f"name-{name['name'].lower().replace(' ', '-')}.html"
+            slug = f"name-{name['name'].lower().replace(' ', '-')}/"
             sitemap_content.append(f"""<url><loc>{SITE_URL}/{slug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>""")
             
     sitemap_content.append('</urlset>')

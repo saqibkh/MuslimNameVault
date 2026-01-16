@@ -43,7 +43,7 @@
         const letters = {{ letters_json }};
         if (letters.length > 0) {
             const randomLetter = letters[Math.floor(Math.random() * letters.length)];
-            window.location.href = `names-${randomLetter.toLowerCase()}.html`;
+            window.location.href = `/names-${randomLetter.toLowerCase()}.html`;
         }
     }
 </script>
