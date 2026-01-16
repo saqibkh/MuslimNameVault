@@ -9,7 +9,7 @@
     <p class="text-xl text-slate-600 leading-relaxed mb-10 max-w-2xl mx-auto">Explore our curated collection of beautiful names from the Quran, Sunnah, and Islamic history, complete with meanings, origins, and pronunciation.</p>
     
     <div class="flex flex-col sm:flex-row justify-center gap-4">
-        <a href="names-a.html" class="px-8 py-4 bg-emerald-700 text-white rounded-xl font-bold hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20 text-lg flex items-center justify-center gap-2">
+        <a href="/names-a/" class="px-8 py-4 bg-emerald-700 text-white rounded-xl font-bold hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20 text-lg flex items-center justify-center gap-2">
             Start Browsing A-Z
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" /></svg>
         </a>
@@ -30,7 +30,7 @@
     
     <div class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-9 gap-3 md:gap-4">
         {% for letter in letters %}
-        <a href="names-{{ letter|lower }}.html" 
+        <a href="/names-{{ letter|lower }}/" 
            class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
             <span class="text-2xl font-bold font-heading block">{{ letter }}</span>
         </a>
@@ -43,7 +43,7 @@
         const letters = {{ letters_json }};
         if (letters.length > 0) {
             const randomLetter = letters[Math.floor(Math.random() * letters.length)];
-            window.location.href = `/names-${randomLetter.toLowerCase()}.html`;
+            window.location.href = `/names-${randomLetter.toLowerCase()}/`;
         }
     }
 </script>

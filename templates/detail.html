@@ -5,7 +5,7 @@
     <nav class="flex text-sm font-medium text-slate-500 mb-6">
         <a href="/" class="hover:text-emerald-600 transition">Home</a>
         <span class="mx-2">/</span>
-        <a href="names-{{ name.name[0]|lower }}.html" class="hover:text-emerald-600 transition">{{ name.name[0] }} Names</a>
+        <a href="/names-{{ name.name[0]|lower }}/" class="hover:text-emerald-600 transition">{{ name.name[0] }} Names</a>
         <span class="mx-2">/</span>
         <span class="text-slate-900">{{ name.name }}</span>
     </nav>
@@ -95,7 +95,7 @@
                 </h3>
                 <div class="space-y-3">
                     {% for related in related_names %}
-                    <a href="name-{{ related.name|lower|replace(' ', '-') }}.html" class="block bg-white p-4 rounded-lg shadow-sm border border-slate-100 hover:border-emerald-400 transition hover:shadow-md">
+                    <a href="/name-{{ related.name|lower|replace(' ', '-') }}/" class="block bg-white p-4 rounded-lg shadow-sm border border-slate-100 hover:border-emerald-400 transition hover:shadow-md">
                         <div class="flex justify-between items-center mb-1">
                             <span class="font-bold text-slate-800">{{ related.name }}</span>
                             <span class="text-[10px] bg-slate-100 px-2 py-0.5 rounded uppercase font-bold text-slate-500">{{ related.gender }}</span>
@@ -175,7 +175,7 @@
 
     // --- MP3 FILE PLAYBACK ---
     function playAudio(slug) {
-        // Points to the audio folder relative to the current HTML file
+        // Points to the audio folder relative to root (Absolute path)
         const audioPath = `/audio/${slug}.mp3`;
         const audio = new Audio(audioPath);
         
