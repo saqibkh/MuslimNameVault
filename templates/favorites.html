@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="max-w-4xl mx-auto min-h-[60vh]">
+    <div class="flex items-center justify-between mb-8">
+        <h1 class="text-4xl font-bold text-slate-900">My Shortlist ❤️</h1>
+        <button onclick="clearAll()" class="text-sm text-red-500 hover:bg-red-50 px-4 py-2 rounded-lg transition font-medium border border-transparent hover:border-red-100" id="clearBtn">Clear All</button>
+    </div>
+
+    <div id="favGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        </div>
+
+    <div id="emptyState" class="hidden flex flex-col items-center justify-center py-20 text-center">
+        <div class="bg-slate-100 p-6 rounded-full mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+            </svg>
+        </div>
+        <h3 class="text-2xl font-bold text-slate-800 mb-2">Your list is empty</h3>
+        <p class="text-slate-500 mb-8 max-w-sm mx-auto">Start browsing the dictionary and click the heart icon to save names you love.</p>
+        <a href="index.html" class="px-8 py-3 bg-emerald-700 text-white rounded-lg font-medium hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20">Browse Names</a>
+    </div>
+</div>
+
+<script>
+    const grid = document.getElementById('favGrid');
+    const emptyState = document.getElementById('emptyState');
+    const clearBtn = document.getElementById('clearBtn');
+
+    function renderFavorites() {
+        let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
+        grid.innerHTML = '';
+
+        if (favorites.length === 0) {
+            emptyState.classList.remove('hidden');
+            clearBtn.classList.add('hidden');
+        } else {
+            emptyState.classList.add('hidden');
+            clearBtn.classList.remove('hidden');
+            
+            favorites.forEach(fav => {
+                const card = document.createElement('div');
+                card.className = 'bg-white rounded-xl shadow-sm hover:shadow-md transition p-6 border border-slate-200 flex justify-between items-center relative overflow-hidden group';
+                
+                const link = document.createElement('a');
+                link.href = `name-${fav.name.toLowerCase().replace(' ', '-')}.html`;
+                link.className = 'absolute inset-0 z-0';
+                card.appendChild(link);
+
+                card.innerHTML += `
+                    <div class="z-10 relative pointer-events-none">
+                        <div class="flex items-center gap-3">
+                            <h2 class="text-xl font-bold text-slate-900">${fav.name}</h2>
+                            <span class="px-2 py-0.5 bg-slate-100 text-[10px] rounded-full uppercase tracking-wide font-bold text-slate-500">${fav.gender}</span>
+                        </div>
+                        <p class="text-slate-600 text-sm mt-1 line-clamp-1">${fav.meaning}</p>
+                    </div>
+                    <div class="text-right z-10 relative pointer-events-auto flex flex-col items-end">
+                        <span class="arabic-text text-2xl text-emerald-800 block mb-3 pointer-events-none">${fav.arabic}</span>
+                        <button onclick="removeFav('${fav.name}')" class="text-xs text-red-500 hover:text-red-700 hover:bg-red-50 px-3 py-1.5 rounded transition flex items-center gap-1 border border-red-100 hover:border-red-200">
+                            Remove
+                        </button>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+    }
+
+    function removeFav(name) {
+        let favorites = JSON.parse(localStorage.getItem('muslimNamesFavs')) || [];
+        favorites = favorites.filter(f => f.name !== name);
+        localStorage.setItem('muslimNamesFavs', JSON.stringify(favorites));
+        renderFavorites();
+    }
+
+    function clearAll() {
+        if(confirm('Are you sure you want to clear your list?')) {
+            localStorage.removeItem('muslimNamesFavs');
+            renderFavorites();
+        }
+    }
+
+    renderFavorites();
+</script>
+{% endblock %}

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} | MuslimNameVault</title>
+    <meta name="description" content="{{ description }}">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=MuslimNameVault">
+    
+    {{ schema_markup if schema_markup else '' }}
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Inter:wght@400;500;600;700&family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        h1, h2, h3, .font-heading { font-family: 'Reem Kufi', sans-serif; }
+        .arabic-text { font-family: 'Amiri', serif; }
+        .name-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .search-results::-webkit-scrollbar { width: 6px; }
+        .search-results::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen selection:bg-emerald-100 selection:text-emerald-900">
+
+    <nav class="bg-emerald-900 text-white shadow-lg sticky top-0 z-50 border-b border-emerald-800">
+        <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center justify-between w-full md:w-auto">
+                <a href="index.html" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
+                    <span>MuslimNameVault</span>
+                </a>
+                <div class="flex md:hidden gap-4">
+                    <a href="favorites.html" class="text-white hover:text-emerald-200">❤️</a>
+                </div>
+            </div>
+
+            <div class="relative w-full md:w-96 group">
+                <div class="relative">
+                    <input type="text" id="globalSearch" placeholder="Search dictionary..." 
+                           class="w-full pl-10 pr-4 py-2 rounded-lg text-slate-800 bg-emerald-50 focus:bg-white focus:ring-2 focus:ring-emerald-400 outline-none transition shadow-inner placeholder-emerald-800/50">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-emerald-700 absolute left-3 top-2.5 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                </div>
+                <div id="globalSearchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded-lg shadow-xl border border-slate-200 max-h-80 overflow-y-auto search-results z-50"></div>
+            </div>
+
+            <div class="hidden md:flex gap-6 items-center">
+                <a href="index.html" class="hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition">Home</a>
+                <a href="favorites.html" class="hover:text-emerald-200 font-medium flex items-center gap-1 opacity-90 hover:opacity-100 transition">
+                    <span>❤️ My List</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow container mx-auto px-4 py-8">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="bg-slate-900 text-slate-400 py-12 text-center mt-auto border-t border-slate-800">
+        <div class="container mx-auto px-4">
+            <div class="mb-8">
+                <h4 class="text-slate-200 font-bold mb-4 font-heading text-lg">Popular Searches</h4>
+                <div class="flex flex-wrap justify-center gap-3 text-sm">
+                    <a href="names-a.html" class="hover:text-emerald-400 transition">Names starting with A</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="names-m.html" class="hover:text-emerald-400 transition">Names starting with M</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="names-z.html" class="hover:text-emerald-400 transition">Names starting with Z</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="favorites.html" class="hover:text-emerald-400 transition">My Favorites</a>
+                </div>
+            </div>
+            <p class="text-sm opacity-75">&copy; 2026 MuslimNameVault. Built with ❤️ for the Ummah.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Global Search Logic
+        const globalSearchInput = document.getElementById('globalSearch');
+        const resultsContainer = document.getElementById('globalSearchResults');
+        let searchIndex = [];
+
+        fetch('search_index.json')
+            .then(response => response.json())
+            .then(data => { searchIndex = data; })
+            .catch(err => console.error("Error loading search index:", err));
+
+        globalSearchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            resultsContainer.innerHTML = '';
+            
+            if (query.length < 2) {
+                resultsContainer.classList.add('hidden');
+                return;
+            }
+
+            const results = searchIndex.filter(item => item.n.toLowerCase().startsWith(query) || item.n.toLowerCase().includes(query)).slice(0, 10);
+
+            if (results.length > 0) {
+                resultsContainer.classList.remove('hidden');
+                results.forEach(item => {
+                    const div = document.createElement('a');
+                    div.href = item.s;
+                    div.className = "block px-4 py-3 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition flex justify-between items-center group";
+                    div.innerHTML = `
+                        <div>
+                            <span class="font-bold text-slate-800 block group-hover:text-emerald-700">${item.n}</span>
+                            <span class="text-xs text-slate-500 truncate block max-w-[200px]">${item.m}</span>
+                        </div>
+                        <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-100 text-slate-600 uppercase">${item.g || 'U'}</span>
+                    `;
+                    resultsContainer.appendChild(div);
+                });
+            } else {
+                resultsContainer.classList.remove('hidden');
+                resultsContainer.innerHTML = '<div class="px-4 py-3 text-slate-500 text-sm">No names found.</div>';
+            }
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
+                resultsContainer.classList.add('hidden');
+            }
+        });
+    </script>
+</body>
+</html>
