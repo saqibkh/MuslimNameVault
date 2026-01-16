@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="max-w-5xl mx-auto">
+    <div class="text-center mb-10">
+        <h1 class="text-4xl font-bold text-slate-900 mb-4 font-heading">Advanced Name Finder</h1>
+        <p class="text-slate-600">Find the perfect name with specific rules.</p>
+    </div>
+
+    <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 mb-8 grid grid-cols-1 md:grid-cols-4 gap-4">
+        
+        <div>
+            <label class="block text-xs font-bold text-slate-500 uppercase mb-2">Gender</label>
+            <select id="filterGender" class="w-full p-2 rounded-lg border border-slate-200 bg-slate-50 text-slate-700 outline-none focus:ring-2 focus:ring-emerald-400">
+                <option value="any">Any Gender</option>
+                <option value="Boy">Boy</option>
+                <option value="Girl">Girl</option>
+                <option value="Unisex">Unisex</option>
+            </select>
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-slate-500 uppercase mb-2">Starts With</label>
+            <input type="text" id="filterStart" placeholder="e.g. A" maxlength="1" 
+                   class="w-full p-2 rounded-lg border border-slate-200 bg-slate-50 text-slate-700 outline-none focus:ring-2 focus:ring-emerald-400 uppercase">
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-slate-500 uppercase mb-2">Ends With</label>
+            <input type="text" id="filterEnd" placeholder="e.g. ah" maxlength="3" 
+                   class="w-full p-2 rounded-lg border border-slate-200 bg-slate-50 text-slate-700 outline-none focus:ring-2 focus:ring-emerald-400">
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-slate-500 uppercase mb-2">Meaning Contains</label>
+            <input type="text" id="filterMeaning" placeholder="e.g. Light" 
+                   class="w-full p-2 rounded-lg border border-slate-200 bg-slate-50 text-slate-700 outline-none focus:ring-2 focus:ring-emerald-400">
+        </div>
+    </div>
+
+    <div class="flex justify-between items-center mb-4">
+        <h2 class="text-xl font-bold text-slate-800">Results</h2>
+        <span id="resultCount" class="text-sm font-medium bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full">0 names found</span>
+    </div>
+
+    <div id="finderGrid" class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="col-span-full text-center py-12 text-slate-400">
+            Adjust filters to see names...
+        </div>
+    </div>
+</div>
+
+<script>
+    let allNames = [];
+    const grid = document.getElementById('finderGrid');
+    const countLabel = document.getElementById('resultCount');
+
+    // Load Data once
+    fetch('search_index.json')
+        .then(res => res.json())
+        .then(data => {
+            allNames = data;
+            runFilter(); // Run once on load
+        });
+
+    // Event Listeners
+    ['filterGender', 'filterStart', 'filterEnd', 'filterMeaning'].forEach(id => {
+        document.getElementById(id).addEventListener('input', runFilter);
+    });
+
+    function runFilter() {
+        const gender = document.getElementById('filterGender').value;
+        const start = document.getElementById('filterStart').value.toLowerCase();
+        const end = document.getElementById('filterEnd').value.toLowerCase();
+        const meaning = document.getElementById('filterMeaning').value.toLowerCase();
+
+        const filtered = allNames.filter(item => {
+            const matchesGender = gender === 'any' || item.g === gender;
+            const matchesStart = start === '' || item.n.toLowerCase().startsWith(start);
+            const matchesEnd = end === '' || item.n.toLowerCase().endsWith(end);
+            const matchesMeaning = meaning === '' || item.m.toLowerCase().includes(meaning);
+            return matchesGender && matchesStart && matchesEnd && matchesMeaning;
+        });
+
+        renderResults(filtered.slice(0, 50)); // Limit to 50 for performance
+        countLabel.textContent = `${filtered.length} names found`;
+    }
+
+    function renderResults(items) {
+        grid.innerHTML = '';
+        if (items.length === 0) {
+            grid.innerHTML = `<div class="col-span-full text-center py-12 text-slate-400">No names match your criteria.</div>`;
+            return;
+        }
+
+        items.forEach(item => {
+            const div = document.createElement('a');
+            div.href = item.s;
+            div.className = "block bg-white p-4 rounded-xl shadow-sm border border-slate-200 hover:border-emerald-400 hover:shadow-md transition";
+            div.innerHTML = `
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-lg text-slate-900">${item.n}</span>
+                    <span class="text-[10px] uppercase font-bold bg-slate-100 text-slate-500 px-2 py-1 rounded">${item.g}</span>
+                </div>
+                <p class="text-sm text-slate-500 mt-1 truncate">${item.m}</p>
+            `;
+            grid.appendChild(div);
+        });
+    }
+</script>
+{% endblock %}

@@ -124,7 +124,14 @@ def generate_website():
                 'title': f"{name_entry['name']} Name Meaning & Origin",
                 'description': f"What does {name_entry['name']} mean? Discover the meaning, origin ({name_entry['origin']}), and gender."
             }, safe_filename)
-            
+    
+    # 7. Generate Finder Page (NEW)
+    render_template('finder.html', {
+        'title': 'Advanced Name Finder',
+        'description': 'Filter Muslim names by starting letter, ending letter, gender, and meaning.'
+    }, 'finder.html')
+    print("✅ Generated finder.html")
+
     print(f"\n✨ SUCCESS! Website generated in '{OUTPUT_FOLDER}' folder.")
 
 if __name__ == "__main__":
