@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 from jinja2 import Environment, FileSystemLoader
 from config import INPUT_FOLDER, OUTPUT_FOLDER, SITE_URL
 from src.data_manager import load_all_names, get_related_names, get_collection_data
@@ -9,6 +10,36 @@ from src.collections import PROPHETS, SAHABA, TRENDING_2026, QURANIC_DIRECT
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
+
+def copy_assets():
+    """Copies static assets (audio) to the output folder."""
+    print("📦 Copying assets...")
+
+    # Source path (where you generated audio)
+    src_audio = os.path.join(BASE_DIR, 'assets', 'audio')
+
+    # Destination path (public website folder)
+    dest_audio = os.path.join(OUTPUT_FOLDER, 'audio')
+
+    # 1. Check if source exists
+    if not os.path.exists(src_audio):
+        print(f"⚠️ Warning: Source audio folder not found at {src_audio}")
+        print("   -> Did you run 'python3 generate_audio.py' first?")
+        return
+
+    # 2. Create destination if missing
+    if not os.path.exists(dest_audio):
+        os.makedirs(dest_audio)
+
+    # 3. Copy files
+    files = os.listdir(src_audio)
+    count = 0
+    for f in files:
+        if f.endswith('.mp3'):
+            shutil.copy2(os.path.join(src_audio, f), os.path.join(dest_audio, f))
+            count += 1
+
+    print(f"✅ Copied {count} audio files to {dest_audio}")
 
 def render_template(template_name, context, slug):
     """
@@ -42,6 +73,13 @@ def render_template(template_name, context, slug):
     except Exception as e:
         print(f"❌ Error rendering {slug}: {e}")
 
+def generate_nojekyll():
+    """Tells GitHub Pages not to process files with Jekyll."""
+    nojekyll_path = os.path.join(OUTPUT_FOLDER, '.nojekyll')
+    with open(nojekyll_path, 'w') as f:
+        f.write('')
+    print("✅ .nojekyll file created.")
+
 def generate_website():
     print("🚀 Starting Website Generation (Clean URLs)...")
     
@@ -58,6 +96,8 @@ def generate_website():
     generate_sitemap(data)
     generate_robots()
     generate_cname()
+    generate_nojekyll()
+    copy_assets()
 
     # 3. Generate Index Page
     render_template('index.html', {
