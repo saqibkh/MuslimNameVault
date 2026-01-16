@@ -21,7 +21,7 @@ SAHABA = [
     "Safiyya", "Sawda", "Umm Habiba", "Barakah", "Halima", "Hind", "Laila"
 ]
 
-TRENDING_2025 = [
+TRENDING_2026 = [
     # Boys
     "Ayaan", "Zayd", "Rayyan", "Idris", "Eesa", "Zayan", "Arham", "Aahil", 
     "Ameer", "Danish", "Ehan", "Fahad", "Faiz", "Haider", "Hamdan", "Junaid", 
