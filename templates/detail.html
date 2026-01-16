@@ -176,7 +176,7 @@
     // --- MP3 FILE PLAYBACK ---
     function playAudio(slug) {
         // Points to the audio folder relative to the current HTML file
-        const audioPath = `audio/${slug}.mp3`;
+        const audioPath = `/audio/${slug}.mp3`;
         const audio = new Audio(audioPath);
         
         audio.play().catch(error => {
