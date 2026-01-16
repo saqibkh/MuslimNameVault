@@ -3,7 +3,7 @@ import json
 from jinja2 import Environment, FileSystemLoader
 from config import INPUT_FOLDER, OUTPUT_FOLDER, SITE_URL
 from src.data_manager import load_all_names, get_related_names, get_collection_data
-from src.seo_utils import generate_search_index, generate_sitemap, generate_robots
+from src.seo_utils import generate_search_index, generate_sitemap, generate_robots, generate_cname
 from src.collections import PROPHETS, SAHABA, TRENDING_2026, QURANIC_DIRECT
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
