@@ -10,29 +10,40 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # If you don't have requirements.txt, you might need to install jinja2 manually:
+          # pip install jinja2
 
       - name: Run Generator Script
         run: python generate_site.py
-        # This runs your script, which we assume generates files into the 'output' folder
+        # This will regenerate the site inside the 'docs' folder on the server
+
+      - name: Restore CNAME (Critical for Domain)
+        run: echo "muslimnamevault.com" > docs/CNAME
+        # This ensures your custom domain doesn't get deleted during the build
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'output' # This must match the OUTPUT_FOLDER variable in your python script
+          path: 'docs' # CHANGED: Points to your 'docs' folder, not 'output'
 
   deploy:
     environment:
