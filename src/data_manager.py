@@ -48,3 +48,23 @@ def get_related_names(all_data, current_name_obj, count=3):
     if len(candidates) >= count:
         return random.sample(candidates, count)
     return candidates
+
+def get_collection_data(all_data, name_list):
+    """
+    Fetches full name objects for a given list of strings.
+    Example: ['Adam', 'Nuh'] -> [{'name': 'Adam', ...}, {'name': 'Nuh', ...}]
+    """
+    collection_items = []
+    # Create a lookup set for faster checking (lowercase)
+    target_names = {n.lower() for n in name_list}
+
+    for names in all_data.values():
+        for n in names:
+            if n['name'].lower() in target_names:
+                collection_items.append(n)
+
+    # Sort them to match the order of the input list (optional, but good for curation)
+    # Or just sort alphabetically:
+    collection_items.sort(key=lambda x: x['name'])
+
+    return collection_items

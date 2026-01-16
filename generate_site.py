@@ -2,25 +2,25 @@ import os
 import json
 from jinja2 import Environment, FileSystemLoader
 from config import INPUT_FOLDER, OUTPUT_FOLDER, SITE_URL
-from src.data_manager import load_all_names, get_related_names
+from src.data_manager import load_all_names, get_related_names, get_collection_data
 from src.seo_utils import generate_search_index, generate_sitemap, generate_robots
+from src.collections import PROPHETS, SAHABA, TRENDING_2025, QURANIC_DIRECT
 
-# Setup Jinja2 Environment (Load templates from filesystem)
-env = Environment(loader=FileSystemLoader('templates'))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
+env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
 
 def render_template(template_name, context, output_filename):
-    """Renders a template and saves the file."""
-    template = env.get_template(template_name)
-    
-    # Add common SEO tags to context
-    if 'url' not in context:
-        context['url'] = f"{SITE_URL}/{output_filename}"
-        
-    html_content = template.render(**context)
-    
-    output_path = os.path.join(OUTPUT_FOLDER, output_filename)
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(html_content)
+    try:
+        template = env.get_template(template_name)
+        if 'url' not in context:
+            context['url'] = f"{SITE_URL}/{output_filename}"
+        html_content = template.render(**context)
+        output_path = os.path.join(OUTPUT_FOLDER, output_filename)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+    except Exception as e:
+        print(f"❌ Error rendering {template_name}: {e}")
 
 def generate_website():
     print("🚀 Starting Website Generation...")
@@ -54,7 +54,45 @@ def generate_website():
     }, 'favorites.html')
     print("✅ Generated favorites.html")
 
-    # 5. Generate Letter & Detail Pages
+    # --- 5. Generate Collection Pages (NEW) ---
+    
+    collections = [
+        {
+            'filename': 'names-prophets.html',
+            'list': PROPHETS,
+            'title': 'Names of Prophets in Islam',
+            'desc': 'A revered collection of names belonging to the Prophets (Anbiya) mentioned in the Quran and Sunnah.'
+        },
+        {
+            'filename': 'names-sahaba.html',
+            'list': SAHABA,
+            'title': 'Names of the Sahaba (Companions)',
+            'desc': 'Names of the noble Companions of Prophet Muhammad (ﷺ), known for their bravery, loyalty, and faith.'
+        },
+        {
+            'filename': 'names-trending.html',
+            'list': TRENDING_2025,
+            'title': 'Trending Muslim Names 2025',
+            'desc': 'The most popular and trending Muslim baby names for boys and girls this year.'
+        },
+        {
+            'filename': 'names-quranic.html',
+            'list': QURANIC_DIRECT,
+            'title': 'Direct Quranic Names',
+            'desc': 'Names that are explicitly mentioned in the Holy Quran.'
+        }
+    ]
+
+    for col in collections:
+        items = get_collection_data(data, col['list'])
+        render_template('collection.html', {
+            'names': items,
+            'title': col['title'],
+            'description': col['desc']
+        }, col['filename'])
+        print(f"✅ Generated {col['filename']} ({len(items)} names)")
+
+    # 6. Generate Letter & Detail Pages
     for letter in all_letters:
         names = data[letter]
         

@@ -24,6 +24,7 @@
         h1, h2, h3, .font-heading { font-family: 'Reem Kufi', sans-serif; }
         .arabic-text { font-family: 'Amiri', serif; }
         .name-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        /* Custom Scrollbar for Search Results */
         .search-results::-webkit-scrollbar { width: 6px; }
         .search-results::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
     </style>
@@ -32,6 +33,7 @@
 
     <nav class="bg-emerald-900 text-white shadow-lg sticky top-0 z-50 border-b border-emerald-800">
         <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
+            
             <div class="flex items-center justify-between w-full md:w-auto">
                 <a href="index.html" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
                     <span>MuslimNameVault</span>
@@ -54,6 +56,30 @@
 
             <div class="hidden md:flex gap-6 items-center">
                 <a href="index.html" class="hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition">Home</a>
+                
+                <div class="relative group">
+                    <button class="flex items-center gap-1 hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition outline-none cursor-pointer">
+                        Collections
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+                    <div class="absolute top-full right-0 mt-2 w-56 bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden hidden group-hover:block z-50 transform origin-top-right transition-all">
+                        <a href="names-trending.html" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                            <span>🔥</span> Trending 2025
+                        </a>
+                        <a href="names-prophets.html" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                            <span>🕌</span> Prophets
+                        </a>
+                        <a href="names-sahaba.html" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                            <span>⚔️</span> Sahaba
+                        </a>
+                        <a href="names-quranic.html" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition flex items-center gap-2">
+                            <span>📖</span> Quranic Names
+                        </a>
+                    </div>
+                </div>
+
                 <a href="favorites.html" class="hover:text-emerald-200 font-medium flex items-center gap-1 opacity-90 hover:opacity-100 transition">
                     <span>❤️ My List</span>
                 </a>
@@ -84,16 +110,17 @@
     </footer>
 
     <script>
-        // Global Search Logic
         const globalSearchInput = document.getElementById('globalSearch');
         const resultsContainer = document.getElementById('globalSearchResults');
         let searchIndex = [];
 
+        // Load Search Index
         fetch('search_index.json')
             .then(response => response.json())
             .then(data => { searchIndex = data; })
             .catch(err => console.error("Error loading search index:", err));
 
+        // Search Input Handler
         globalSearchInput.addEventListener('input', (e) => {
             const query = e.target.value.toLowerCase().trim();
             resultsContainer.innerHTML = '';
@@ -126,6 +153,7 @@
             }
         });
 
+        // Close search when clicking outside
         document.addEventListener('click', (e) => {
             if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
                 resultsContainer.classList.add('hidden');

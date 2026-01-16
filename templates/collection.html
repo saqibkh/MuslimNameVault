@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="max-w-6xl mx-auto">
+    <div class="text-center mb-12 mt-4">
+        <div class="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-emerald-50 text-emerald-800 text-xs font-bold uppercase tracking-widest mb-4 border border-emerald-100">
+            Curated Collection
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-4 font-heading">{{ title }}</h1>
+        <p class="text-lg text-slate-600 max-w-2xl mx-auto">{{ description }}</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for name in names %}
+        {% set gender_cls = 'blue' if name.gender == 'Boy' else 'rose' if name.gender == 'Girl' else 'purple' %}
+        
+        <div class="name-card group bg-white rounded-xl shadow-sm border border-slate-200 p-6 relative hover:shadow-xl transition-all hover:border-{{ gender_cls }}-300 hover:-translate-y-1">
+            
+            <div class="absolute top-0 left-0 w-1 h-full bg-{{ gender_cls }}-500 rounded-l-xl opacity-0 group-hover:opacity-100 transition"></div>
+
+            <a href="name-{{ name.name|lower|replace(' ', '-') }}.html" class="block h-full flex flex-col pl-3">
+                <div class="flex justify-between items-start pr-2 mb-3">
+                    <div>
+                        <h2 class="text-2xl font-bold text-slate-900 group-hover:text-{{ gender_cls }}-700 transition">{{ name.name }}</h2>
+                    </div>
+                    <span class="arabic-text text-2xl text-slate-400 group-hover:text-{{ gender_cls }}-800 transition">{{ name.arabic_spelling }}</span>
+                </div>
+                
+                <p class="text-slate-600 mt-1 text-sm leading-relaxed line-clamp-2 flex-grow">{{ name.meaning }}</p>
+                
+                <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between">
+                    <span class="px-2.5 py-1 text-[10px] rounded-md font-bold uppercase tracking-wide bg-{{ gender_cls }}-50 text-{{ gender_cls }}-700 border border-{{ gender_cls }}-100">
+                        {{ name.gender }}
+                    </span>
+                    <span class="text-xs text-slate-400 font-medium">{{ name.origin }}</span>
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if names|length == 0 %}
+    <div class="text-center py-20 bg-slate-50 rounded-2xl border border-slate-100 mt-8">
+        <p class="text-slate-500">Names for this collection are being added to the database.</p>
+        <a href="index.html" class="text-emerald-600 font-bold hover:underline mt-2 inline-block">Return Home</a>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
