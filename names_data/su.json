@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Subhan",
+    "gender": "Boy",
+    "meaning": "Glory",
+    "origin": "Arabic",
+    "id": "su26",
+    "verified": true
+  },
+  {
     "id": "su2",
     "name": "Subhi",
     "gender": "Boy",
@@ -37,6 +45,14 @@
     "meaning": "Port city in Egypt",
     "origin": "Arabic",
     "id": "su21",
+    "verified": true
+  },
+  {
+    "name": "Sufian",
+    "gender": "Boy",
+    "meaning": "Fast moving",
+    "origin": "Arabic",
+    "id": "su27",
     "verified": true
   },
   {
@@ -104,6 +120,14 @@
     "verified": true
   },
   {
+    "name": "Suleiman",
+    "gender": "Boy",
+    "meaning": "Prophet Solomon",
+    "origin": "Quranic",
+    "id": "su28",
+    "verified": true
+  },
+  {
     "id": "su9",
     "name": "Sultan",
     "gender": "Boy",
@@ -120,11 +144,27 @@
     "verified": true
   },
   {
+    "name": "Sumaira",
+    "gender": "Girl",
+    "meaning": "Brownish",
+    "origin": "Arabic",
+    "id": "su29",
+    "verified": true
+  },
+  {
     "id": "su11",
     "name": "Sumaya",
     "gender": "Girl",
     "meaning": "High above; First martyr of Islam",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sumayyah",
+    "gender": "Girl",
+    "meaning": "High above",
+    "origin": "Arabic",
+    "id": "su30",
     "verified": true
   },
   {
@@ -149,6 +189,14 @@
     "meaning": "Ancient land (Iraq)",
     "origin": "Ancient",
     "id": "su23",
+    "verified": true
+  },
+  {
+    "name": "Sundas",
+    "gender": "Girl",
+    "meaning": "Silk of heaven",
+    "origin": "Quranic",
+    "id": "su31",
     "verified": true
   },
   {

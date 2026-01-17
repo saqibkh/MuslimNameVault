@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Jumana",
+    "gender": "Girl",
+    "meaning": "Silver pearl",
+    "origin": "Arabic",
+    "id": "ju16",
+    "verified": true
+  },
+  {
     "id": "ju5",
     "name": "Jumanah",
     "gender": "Girl",
@@ -112,11 +120,27 @@
     "verified": true
   },
   {
+    "name": "Juwairiya",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ju17",
+    "verified": true
+  },
+  {
     "id": "ju13",
     "name": "Juwayriya",
     "gender": "Girl",
     "meaning": "Damask rose; Wife of the Prophet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Juwayriyah",
+    "gender": "Girl",
+    "meaning": "Young Woman",
+    "origin": "Arabic",
+    "id": "ju18",
     "verified": true
   }
 ]

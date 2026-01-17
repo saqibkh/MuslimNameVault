@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Ayana",
+    "gender": "Girl",
+    "meaning": "Beautiful flower",
+    "origin": "Urdu",
+    "id": "ay28",
+    "verified": true
+  },
+  {
     "name": "Ayas",
     "gender": "Boy",
     "meaning": "Morning breeze",
@@ -165,6 +173,14 @@
     "gender": "Boy",
     "meaning": "Moon",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Ayyub",
+    "gender": "Boy",
+    "meaning": "Prophet Job",
+    "origin": "Arabic",
+    "id": "ay29",
     "verified": true
   },
   {

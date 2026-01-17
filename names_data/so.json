@@ -16,11 +16,27 @@
     "verified": true
   },
   {
+    "name": "Sohaib",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "so13",
+    "verified": true
+  },
+  {
     "id": "so3",
     "name": "Sohail",
     "gender": "Boy",
     "meaning": "Gentle, easy; Star name (Canopus)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sohana",
+    "gender": "Girl",
+    "meaning": "Graceful",
+    "origin": "Urdu",
+    "id": "so14",
     "verified": true
   },
   {

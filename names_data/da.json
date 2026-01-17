@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Daana",
+    "gender": "Girl",
+    "meaning": "Wise",
+    "origin": "Persian",
+    "id": "da46",
+    "verified": true
+  },
+  {
+    "name": "Daania",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "da49",
+    "verified": true
+  },
+  {
     "id": "da2",
     "name": "Dabir",
     "gender": "Boy",
@@ -32,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Daghfal",
+    "gender": "Boy",
+    "meaning": "Ibn-Hanzala had this name",
+    "origin": "Arabic",
+    "id": "da50",
+    "verified": true
+  },
+  {
     "id": "da5",
     "name": "Dahab",
     "gender": "Girl",
@@ -53,6 +77,14 @@
     "meaning": "Eternal",
     "origin": "Arabic",
     "id": "da41",
+    "verified": true
+  },
+  {
+    "name": "Daina",
+    "gender": "Girl",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "da51",
     "verified": true
   },
   {
@@ -128,6 +160,14 @@
     "verified": true
   },
   {
+    "name": "Daman",
+    "gender": "Boy",
+    "meaning": "Guarantor",
+    "origin": "Arabic",
+    "id": "da52",
+    "verified": true
+  },
+  {
     "name": "Damietta",
     "gender": "Girl",
     "meaning": "Dumyat (City in Egypt)",
@@ -173,6 +213,14 @@
     "gender": "Unisex",
     "meaning": "Wise, learned (Persian); Pearl (Arabic)",
     "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "name": "Danah",
+    "gender": "Girl",
+    "meaning": "Big Pearl",
+    "origin": "Arabic",
+    "id": "da53",
     "verified": true
   },
   {
@@ -280,6 +328,14 @@
     "verified": true
   },
   {
+    "name": "Darian",
+    "gender": "Boy",
+    "meaning": "Wealthy",
+    "origin": "Persian",
+    "id": "da47",
+    "verified": true
+  },
+  {
     "id": "da28",
     "name": "Darim",
     "gender": "Boy",
@@ -293,6 +349,14 @@
     "gender": "Boy",
     "meaning": "Scholar, one who studies",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Darwish",
+    "gender": "Boy",
+    "meaning": "Mystic",
+    "origin": "Persian",
+    "id": "da54",
     "verified": true
   },
   {
@@ -352,11 +416,35 @@
     "verified": true
   },
   {
+    "name": "Dawlah",
+    "gender": "Boy",
+    "meaning": "Riches; Happiness",
+    "origin": "Arabic",
+    "id": "da55",
+    "verified": true
+  },
+  {
     "id": "da35",
     "name": "Dawud",
     "gender": "Boy",
     "meaning": "Beloved; Prophet David",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Dayfah",
+    "gender": "Girl",
+    "meaning": "Guest",
+    "origin": "Arabic",
+    "id": "da56",
+    "verified": true
+  },
+  {
+    "name": "Dayyan",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "da48",
     "verified": true
   }
 ]

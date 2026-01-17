@@ -1,5 +1,13 @@
 [
   {
+    "name": "Awa",
+    "gender": "Girl",
+    "meaning": "Beautiful angel",
+    "origin": "Arabic",
+    "id": "aw14",
+    "verified": true
+  },
+  {
     "id": "aw1",
     "name": "Awad",
     "gender": "Boy",
@@ -13,6 +21,14 @@
     "gender": "Boy",
     "meaning": "Reward of Allah",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Awais",
+    "gender": "Boy",
+    "meaning": "Wolf; Companion",
+    "origin": "Arabic",
+    "id": "aw15",
     "verified": true
   },
   {

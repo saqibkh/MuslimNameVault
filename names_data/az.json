@@ -1,5 +1,13 @@
 [
   {
+    "name": "Azaan",
+    "gender": "Boy",
+    "meaning": "Call to prayer",
+    "origin": "Arabic",
+    "id": "az33",
+    "verified": true
+  },
+  {
     "id": "az1",
     "name": "Azad",
     "gender": "Boy",
@@ -229,6 +237,14 @@
     "gender": "Boy",
     "meaning": "Upper arm, strength",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Azwad",
+    "gender": "Boy",
+    "meaning": "Better",
+    "origin": "Arabic",
+    "id": "az34",
     "verified": true
   },
   {

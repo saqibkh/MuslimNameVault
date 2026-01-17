@@ -458,6 +458,14 @@
     "verified": true
   },
   {
+    "name": "Aahan",
+    "gender": "Boy",
+    "meaning": "Iron; Sword",
+    "origin": "Persian",
+    "id": "aa105",
+    "verified": true
+  },
+  {
     "id": "aa27",
     "name": "Aahid",
     "transliteration": "‘Āhid",
@@ -511,6 +519,14 @@
       "Classic",
       "Hospitality"
     ],
+    "verified": true
+  },
+  {
+    "name": "Aaidah",
+    "gender": "Girl",
+    "meaning": "Returning; Visitor",
+    "origin": "Arabic",
+    "id": "aa106",
     "verified": true
   },
   {
@@ -903,6 +919,14 @@
       "Happiness",
       "Modern"
     ],
+    "verified": true
+  },
+  {
+    "name": "Aamna",
+    "gender": "Girl",
+    "meaning": "Peace; Safety",
+    "origin": "Arabic",
+    "id": "aa108",
     "verified": true
   },
   {
@@ -1320,6 +1344,14 @@
     "verified": true
   },
   {
+    "name": "Aatik",
+    "gender": "Boy",
+    "meaning": "Pure; Generous",
+    "origin": "Arabic",
+    "id": "aa109",
+    "verified": true
+  },
+  {
     "id": "aa81",
     "name": "Aatika",
     "transliteration": "‘Ātikah",
@@ -1359,6 +1391,14 @@
       "Modern",
       "Popular"
     ],
+    "verified": true
+  },
+  {
+    "name": "Aayat",
+    "gender": "Girl",
+    "meaning": "Verses; Signs",
+    "origin": "Quranic",
+    "id": "aa107",
     "verified": true
   },
   {

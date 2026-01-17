@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Dujanah",
+    "gender": "Boy",
+    "meaning": "Rain",
+    "origin": "Arabic",
+    "id": "du19",
+    "verified": true
+  },
+  {
     "name": "Dumyat",
     "gender": "Girl",
     "meaning": "Port city in Egypt",
@@ -117,6 +125,14 @@
     "gender": "Girl",
     "meaning": "Large pearl",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Durrani",
+    "gender": "Girl",
+    "meaning": "Of pearls",
+    "origin": "Persian",
+    "id": "du20",
     "verified": true
   },
   {

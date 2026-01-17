@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Amaar",
+    "gender": "Boy",
+    "meaning": "One who prays 5 times",
+    "origin": "Arabic",
+    "id": "am39",
+    "verified": true
+  },
+  {
     "id": "am1",
     "name": "Amad",
     "gender": "Boy",
     "meaning": "Pillars, support",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Amail",
+    "gender": "Girl",
+    "meaning": "Necklace",
+    "origin": "Urdu",
+    "id": "am42",
     "verified": true
   },
   {
@@ -120,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Amean",
+    "gender": "Boy",
+    "meaning": "Faithful",
+    "origin": "Arabic",
+    "id": "am43",
+    "verified": true
+  },
+  {
     "id": "am13",
     "name": "Ameen",
     "gender": "Boy",
@@ -133,6 +157,14 @@
     "meaning": "Trustee of the Community (Title of Abu Ubaidah)",
     "origin": "Islamic History",
     "id": "am33",
+    "verified": true
+  },
+  {
+    "name": "Ameer",
+    "gender": "Boy",
+    "meaning": "Prince; Ruler",
+    "origin": "Arabic",
+    "id": "am40",
     "verified": true
   },
   {
@@ -157,6 +189,14 @@
     "gender": "Girl",
     "meaning": "Hope",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Amelia",
+    "gender": "Girl",
+    "meaning": "Trustworthy",
+    "origin": "Urdu/Arabic",
+    "id": "am41",
     "verified": true
   },
   {
@@ -197,6 +237,14 @@
     "gender": "Girl",
     "meaning": "Trustworthy, faithful",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Aminah",
+    "gender": "Girl",
+    "meaning": "Trustworthy",
+    "origin": "Arabic",
+    "id": "am44",
     "verified": true
   },
   {

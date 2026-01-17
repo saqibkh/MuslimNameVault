@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Hud",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "hu31",
+    "verified": true
+  },
+  {
     "id": "hu2",
     "name": "Huda",
     "gender": "Girl",
@@ -37,6 +45,14 @@
     "gender": "Girl",
     "meaning": "Attack; Name of a Sahabiyyah",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hujjat",
+    "gender": "Boy",
+    "meaning": "Proof",
+    "origin": "Arabic",
+    "id": "hu32",
     "verified": true
   },
   {

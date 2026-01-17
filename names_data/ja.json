@@ -440,6 +440,14 @@
     "verified": true
   },
   {
+    "name": "Jannat",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Arabic",
+    "id": "ja86",
+    "verified": true
+  },
+  {
     "name": "Jarash",
     "gender": "Boy",
     "meaning": "Ancient city in Jordan",
@@ -469,6 +477,14 @@
     "gender": "Boy",
     "meaning": "One who pulls; A famous poet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jariya",
+    "gender": "Girl",
+    "meaning": "Maid",
+    "origin": "Arabic",
+    "id": "ja88",
     "verified": true
   },
   {
@@ -528,6 +544,14 @@
     "verified": true
   },
   {
+    "name": "Jasur",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ja89",
+    "verified": true
+  },
+  {
     "id": "ja55",
     "name": "Jauhar",
     "gender": "Unisex",
@@ -581,6 +605,14 @@
     "gender": "Girl",
     "meaning": "Jewels",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Jawaria",
+    "gender": "Girl",
+    "meaning": "Bringer of happiness",
+    "origin": "Arabic",
+    "id": "ja87",
     "verified": true
   },
   {

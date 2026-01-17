@@ -1,5 +1,13 @@
 [
   {
+    "name": "Taalia",
+    "gender": "Girl",
+    "meaning": "Rising star",
+    "origin": "Arabic",
+    "id": "ta76",
+    "verified": true
+  },
+  {
     "name": "Tabaristan",
     "gender": "Boy",
     "meaning": "Historic region in Iran",
@@ -13,6 +21,14 @@
     "gender": "Unisex",
     "meaning": "Smile",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tabinda",
+    "gender": "Girl",
+    "meaning": "Bright",
+    "origin": "Urdu",
+    "id": "ta77",
     "verified": true
   },
   {
@@ -285,6 +301,14 @@
     "meaning": "Tanja (Morocco)",
     "origin": "Arabic",
     "id": "ta68",
+    "verified": true
+  },
+  {
+    "name": "Tanisha",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Urdu",
+    "id": "ta78",
     "verified": true
   },
   {

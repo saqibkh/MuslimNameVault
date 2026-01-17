@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Araiz",
+    "gender": "Boy",
+    "meaning": "National leader",
+    "origin": "Urdu",
+    "id": "ar41",
+    "verified": true
+  },
+  {
     "name": "Aral",
     "gender": "Unisex",
     "meaning": "Aral Sea; Island",
@@ -104,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Areeba",
+    "gender": "Girl",
+    "meaning": "Wise; Intelligent",
+    "origin": "Arabic",
+    "id": "ar42",
+    "verified": true
+  },
+  {
     "id": "ar8",
     "name": "Areed",
     "gender": "Boy",
@@ -117,6 +133,14 @@
     "gender": "Girl",
     "meaning": "Fragrance, sweet smell",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Areem",
+    "gender": "Girl",
+    "meaning": "Heaven",
+    "origin": "Arabic",
+    "id": "ar43",
     "verified": true
   },
   {
@@ -200,6 +224,14 @@
     "verified": true
   },
   {
+    "name": "Arish",
+    "gender": "Boy",
+    "meaning": "Righteous",
+    "origin": "Arabic",
+    "id": "ar44",
+    "verified": true
+  },
+  {
     "id": "ar18",
     "name": "Arisha",
     "gender": "Girl",
@@ -208,11 +240,27 @@
     "verified": true
   },
   {
+    "name": "Arissa",
+    "gender": "Girl",
+    "meaning": "Bright",
+    "origin": "Urdu",
+    "id": "ar45",
+    "verified": true
+  },
+  {
     "id": "ar19",
     "name": "Arjumand",
     "gender": "Girl",
     "meaning": "Noble, honorable",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Armaan",
+    "gender": "Boy",
+    "meaning": "Desire",
+    "origin": "Persian",
+    "id": "ar46",
     "verified": true
   },
   {
@@ -248,11 +296,27 @@
     "verified": true
   },
   {
+    "name": "Aroush",
+    "gender": "Girl",
+    "meaning": "Angel of paradise",
+    "origin": "Persian",
+    "id": "ar47",
+    "verified": true
+  },
+  {
     "id": "ar23",
     "name": "Arqam",
     "gender": "Boy",
     "meaning": "Writer, speckled snake",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Arsal",
+    "gender": "Boy",
+    "meaning": "Messenger",
+    "origin": "Arabic",
+    "id": "ar50",
     "verified": true
   },
   {
@@ -304,11 +368,27 @@
     "verified": true
   },
   {
+    "name": "Aryan",
+    "gender": "Boy",
+    "meaning": "Warrior; Noble",
+    "origin": "Arabic/Persian",
+    "id": "ar48",
+    "verified": true
+  },
+  {
     "id": "ar29",
     "name": "Arz",
     "gender": "Boy",
     "meaning": "Mountain, earth",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Arzo",
+    "gender": "Girl",
+    "meaning": "Wish",
+    "origin": "Persian",
+    "id": "ar49",
     "verified": true
   },
   {

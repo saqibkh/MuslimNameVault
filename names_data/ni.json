@@ -152,11 +152,27 @@
     "verified": true
   },
   {
+    "name": "Nimra",
+    "gender": "Girl",
+    "meaning": "Soft; Lion",
+    "origin": "Arabic",
+    "id": "ni32",
+    "verified": true
+  },
+  {
     "name": "Nineveh",
     "gender": "Girl",
     "meaning": "Ninawa (Iraq)",
     "origin": "Ancient",
     "id": "ni29",
+    "verified": true
+  },
+  {
+    "name": "Nisa",
+    "gender": "Girl",
+    "meaning": "Women",
+    "origin": "Arabic",
+    "id": "ni33",
     "verified": true
   },
   {
@@ -229,6 +245,14 @@
     "meaning": "Order of the Kingdom",
     "origin": "Persian",
     "id": "ni27",
+    "verified": true
+  },
+  {
+    "name": "Nizami",
+    "gender": "Boy",
+    "meaning": "Related to order",
+    "origin": "Arabic",
+    "id": "ni34",
     "verified": true
   },
   {

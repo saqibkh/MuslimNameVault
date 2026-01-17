@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Saadiya",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Arabic",
+    "id": "sa144",
+    "verified": true
+  },
+  {
     "name": "Saaqib",
     "gender": "Boy",
     "meaning": "Piercing star",
@@ -272,6 +280,14 @@
     "verified": true
   },
   {
+    "name": "Safaa",
+    "gender": "Girl",
+    "meaning": "Purity",
+    "origin": "Arabic",
+    "id": "sa145",
+    "verified": true
+  },
+  {
     "name": "Safad",
     "gender": "Boy",
     "meaning": "City in Palestine",
@@ -312,11 +328,27 @@
     "verified": true
   },
   {
+    "name": "Safina",
+    "gender": "Girl",
+    "meaning": "Boat",
+    "origin": "Arabic",
+    "id": "sa146",
+    "verified": true
+  },
+  {
     "id": "sa24",
     "name": "Safir",
     "gender": "Boy",
     "meaning": "Ambassador, mediator",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safira",
+    "gender": "Girl",
+    "meaning": "Traveler",
+    "origin": "Arabic",
+    "id": "sa147",
     "verified": true
   },
   {
@@ -333,6 +365,14 @@
     "gender": "Girl",
     "meaning": "Pure, serene",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safiyyah",
+    "gender": "Girl",
+    "meaning": "Best friend",
+    "origin": "Arabic",
+    "id": "sa148",
     "verified": true
   },
   {
@@ -381,6 +421,14 @@
     "meaning": "Wine; Reddish",
     "origin": "Arabic/Persian",
     "id": "sa110",
+    "verified": true
+  },
+  {
+    "name": "Saheer",
+    "gender": "Boy",
+    "meaning": "Wakeful",
+    "origin": "Arabic",
+    "id": "sa149",
     "verified": true
   },
   {
@@ -469,6 +517,14 @@
     "gender": "Boy",
     "meaning": "Sword of Allah",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saim",
+    "gender": "Boy",
+    "meaning": "Fasting",
+    "origin": "Arabic",
+    "id": "sa150",
     "verified": true
   },
   {
@@ -749,6 +805,22 @@
     "gender": "Boy",
     "meaning": "Forgiving",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sameeha",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "sa151",
+    "verified": true
+  },
+  {
+    "name": "Sameen",
+    "gender": "Girl",
+    "meaning": "Precious",
+    "origin": "Arabic",
+    "id": "sa152",
     "verified": true
   },
   {

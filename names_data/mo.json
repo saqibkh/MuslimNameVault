@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Mohid",
+    "gender": "Boy",
+    "meaning": "Believer in One God",
+    "origin": "Arabic",
+    "id": "mo21",
+    "verified": true
+  },
+  {
     "id": "mo5",
     "name": "Mohsin",
     "gender": "Boy",
@@ -104,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Momina",
+    "gender": "Girl",
+    "meaning": "Faithful woman",
+    "origin": "Arabic",
+    "id": "mo20",
+    "verified": true
+  },
+  {
     "id": "mo7",
     "name": "Mona",
     "gender": "Girl",
@@ -125,6 +141,30 @@
     "gender": "Boy",
     "meaning": "Shining (Variant of Munir)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Monis",
+    "gender": "Boy",
+    "meaning": "Friendly",
+    "origin": "Arabic",
+    "id": "mo22",
+    "verified": true
+  },
+  {
+    "name": "Moosa",
+    "gender": "Boy",
+    "meaning": "Prophet Moses",
+    "origin": "Arabic",
+    "id": "mo23",
+    "verified": true
+  },
+  {
+    "name": "Mostafa",
+    "gender": "Boy",
+    "meaning": "Chosen One",
+    "origin": "Arabic",
+    "id": "mo24",
     "verified": true
   },
   {

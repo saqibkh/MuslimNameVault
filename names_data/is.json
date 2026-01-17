@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Ishfaq",
+    "gender": "Boy",
+    "meaning": "Compassion",
+    "origin": "Arabic",
+    "id": "is21",
+    "verified": true
+  },
+  {
     "id": "is6",
     "name": "Ishrat",
     "gender": "Unisex",
@@ -104,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Ismaeel",
+    "gender": "Boy",
+    "meaning": "Prophet Ishmael",
+    "origin": "Quranic",
+    "id": "is22",
+    "verified": true
+  },
+  {
     "id": "is10",
     "name": "Ismail",
     "gender": "Boy",
@@ -144,6 +160,14 @@
     "verified": true
   },
   {
+    "name": "Issa",
+    "gender": "Boy",
+    "meaning": "Jesus",
+    "origin": "Arabic",
+    "id": "is23",
+    "verified": true
+  },
+  {
     "name": "Istabraq",
     "gender": "Girl",
     "meaning": "Brocade, rich silk",
@@ -157,6 +181,14 @@
     "meaning": "City of Islam (Islambol)",
     "origin": "Turkish",
     "id": "is20",
+    "verified": true
+  },
+  {
+    "name": "Istifa",
+    "gender": "Boy",
+    "meaning": "Selection",
+    "origin": "Arabic",
+    "id": "is24",
     "verified": true
   }
 ]

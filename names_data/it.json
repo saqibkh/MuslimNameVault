@@ -1,5 +1,21 @@
 [
   {
+    "name": "Itban",
+    "gender": "Boy",
+    "meaning": "Censured",
+    "origin": "Arabic",
+    "id": "it5",
+    "verified": true
+  },
+  {
+    "name": "Ithra",
+    "gender": "Girl",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "it6",
+    "verified": true
+  },
+  {
     "id": "it1",
     "name": "Itidal",
     "gender": "Girl",

@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Umayya",
+    "gender": "Girl",
+    "meaning": "Young servant",
+    "origin": "Arabic",
+    "id": "um12",
+    "verified": true
+  },
+  {
     "id": "um6",
     "name": "Umayyah",
     "gender": "Girl",
@@ -69,6 +77,14 @@
     "gender": "Girl",
     "meaning": "Mother of chubby face; Daughter of the Prophet",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Umm-Kulthum",
+    "gender": "Girl",
+    "meaning": "Daughter of Prophet",
+    "origin": "Arabic",
+    "id": "um13",
     "verified": true
   },
   {

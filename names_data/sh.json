@@ -80,6 +80,14 @@
     "verified": true
   },
   {
+    "name": "Shaden",
+    "gender": "Girl",
+    "meaning": "Young gazelle",
+    "origin": "Arabic",
+    "id": "sh100",
+    "verified": true
+  },
+  {
     "id": "sh7",
     "name": "Shadi",
     "gender": "Boy",
@@ -109,6 +117,14 @@
     "gender": "Unisex",
     "meaning": "Twilight, dawn redness",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shafay",
+    "gender": "Boy",
+    "meaning": "Intercessor",
+    "origin": "Arabic",
+    "id": "sh101",
     "verified": true
   },
   {
@@ -256,11 +272,27 @@
     "verified": true
   },
   {
+    "name": "Shahmeer",
+    "gender": "Boy",
+    "meaning": "Beauty of the king",
+    "origin": "Urdu",
+    "id": "sh102",
+    "verified": true
+  },
+  {
     "id": "sh22",
     "name": "Shahnaz",
     "gender": "Girl",
     "meaning": "Pride of the king",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shahraan",
+    "gender": "Boy",
+    "meaning": "Moon",
+    "origin": "Persian",
+    "id": "sh103",
     "verified": true
   },
   {
@@ -312,11 +344,27 @@
     "verified": true
   },
   {
+    "name": "Shaista",
+    "gender": "Girl",
+    "meaning": "Polite",
+    "origin": "Persian",
+    "id": "sh104",
+    "verified": true
+  },
+  {
     "name": "Shajar",
     "gender": "Unisex",
     "meaning": "Trees",
     "origin": "Quranic",
     "id": "sh63",
+    "verified": true
+  },
+  {
+    "name": "Shakeel",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "sh105",
     "verified": true
   },
   {
@@ -373,6 +421,22 @@
     "gender": "Girl",
     "meaning": "Lamp, candle",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shameem",
+    "gender": "Unisex",
+    "meaning": "Scent",
+    "origin": "Arabic",
+    "id": "sh106",
+    "verified": true
+  },
+  {
+    "name": "Shamila",
+    "gender": "Girl",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "id": "sh107",
     "verified": true
   },
   {
@@ -472,6 +536,14 @@
     "verified": true
   },
   {
+    "name": "Shanzay",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Urdu",
+    "id": "sh108",
+    "verified": true
+  },
+  {
     "id": "sh42",
     "name": "Shaqiq",
     "gender": "Boy",
@@ -568,11 +640,27 @@
     "verified": true
   },
   {
+    "name": "Shayan",
+    "gender": "Boy",
+    "meaning": "Worthy",
+    "origin": "Persian",
+    "id": "sh109",
+    "verified": true
+  },
+  {
     "id": "sh47",
     "name": "Shazia",
     "gender": "Girl",
     "meaning": "Rare, exotic, princess",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shazil",
+    "gender": "Boy",
+    "meaning": "King",
+    "origin": "Arabic",
+    "id": "sh110",
     "verified": true
   },
   {
@@ -709,6 +797,14 @@
     "meaning": "Sweet",
     "origin": "Persian",
     "id": "sh72",
+    "verified": true
+  },
+  {
+    "name": "Shiza",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "sh111",
     "verified": true
   },
   {

@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Mihran",
+    "gender": "Boy",
+    "meaning": "Name of a companion",
+    "origin": "Arabic",
+    "id": "mi31",
+    "verified": true
+  },
+  {
     "id": "mi2",
     "name": "Mika",
     "gender": "Boy",
@@ -48,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Milad",
+    "gender": "Boy",
+    "meaning": "Birth",
+    "origin": "Arabic",
+    "id": "mi32",
+    "verified": true
+  },
+  {
     "id": "mi5",
     "name": "Mina",
     "gender": "Girl",
@@ -56,11 +72,27 @@
     "verified": true
   },
   {
+    "name": "Minahil",
+    "gender": "Girl",
+    "meaning": "Door to heaven",
+    "origin": "Arabic",
+    "id": "mi25",
+    "verified": true
+  },
+  {
     "name": "Minar",
     "gender": "Boy",
     "meaning": "Tower; Minaret",
     "origin": "Arabic",
     "id": "mi20",
+    "verified": true
+  },
+  {
+    "name": "Minha",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "mi26",
     "verified": true
   },
   {
@@ -77,6 +109,14 @@
     "gender": "Unisex",
     "meaning": "Source of water, honorable",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Miqdad",
+    "gender": "Boy",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "mi33",
     "verified": true
   },
   {
@@ -112,11 +152,43 @@
     "verified": true
   },
   {
+    "name": "Miranda",
+    "gender": "Girl",
+    "meaning": "Wonderful",
+    "origin": "Latin",
+    "id": "mi34",
+    "verified": true
+  },
+  {
+    "name": "Mirha",
+    "gender": "Girl",
+    "meaning": "Light of Allah",
+    "origin": "Arabic",
+    "id": "mi27",
+    "verified": true
+  },
+  {
     "name": "Mirza",
     "gender": "Boy",
     "meaning": "Prince",
     "origin": "Persian",
     "id": "mi23",
+    "verified": true
+  },
+  {
+    "name": "Misaal",
+    "gender": "Girl",
+    "meaning": "Example",
+    "origin": "Urdu",
+    "id": "mi28",
+    "verified": true
+  },
+  {
+    "name": "Misaq",
+    "gender": "Boy",
+    "meaning": "Covenant",
+    "origin": "Arabic",
+    "id": "mi35",
     "verified": true
   },
   {
@@ -152,11 +224,35 @@
     "verified": true
   },
   {
+    "name": "Mishkat",
+    "gender": "Unisex",
+    "meaning": "Niche for a lamp",
+    "origin": "Quranic",
+    "id": "mi29",
+    "verified": true
+  },
+  {
+    "name": "Misid",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "mi30",
+    "verified": true
+  },
+  {
     "id": "mi13",
     "name": "Misk",
     "gender": "Unisex",
     "meaning": "Musk",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Miskeen",
+    "gender": "Boy",
+    "meaning": "Poor",
+    "origin": "Arabic",
+    "id": "mi36",
     "verified": true
   },
   {
