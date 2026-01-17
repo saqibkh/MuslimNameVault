@@ -1,5 +1,13 @@
 [
   {
+    "name": "Zeb",
+    "gender": "Girl",
+    "meaning": "Beauty",
+    "origin": "Persian",
+    "id": "ze10",
+    "verified": true
+  },
+  {
     "id": "ze1",
     "name": "Zeba",
     "gender": "Girl",

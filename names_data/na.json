@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Naba",
+    "gender": "Girl",
+    "meaning": "Great news",
+    "origin": "Quranic",
+    "id": "na119",
+    "verified": true
+  },
+  {
     "id": "na2",
     "name": "Nabeel",
     "gender": "Boy",
@@ -88,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Nader",
+    "gender": "Boy",
+    "meaning": "Rare",
+    "origin": "Arabic",
+    "id": "na120",
+    "verified": true
+  },
+  {
     "name": "Nadi",
     "gender": "Boy",
     "meaning": "Moist, damp",
@@ -165,6 +181,14 @@
     "gender": "Girl",
     "meaning": "Blessing, living in ease",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nafeesa",
+    "gender": "Girl",
+    "meaning": "Precious thing",
+    "origin": "Arabic",
+    "id": "na121",
     "verified": true
   },
   {
@@ -560,6 +584,14 @@
     "verified": true
   },
   {
+    "name": "Narmin",
+    "gender": "Girl",
+    "meaning": "Soft; Delicate",
+    "origin": "Persian",
+    "id": "na122",
+    "verified": true
+  },
+  {
     "id": "na47",
     "name": "Naseem",
     "gender": "Unisex",
@@ -669,6 +701,14 @@
     "gender": "Boy",
     "meaning": "Victory",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Nasra",
+    "gender": "Girl",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "na123",
     "verified": true
   },
   {
@@ -800,6 +840,14 @@
     "verified": true
   },
   {
+    "name": "Nawazish",
+    "gender": "Unisex",
+    "meaning": "Kindness",
+    "origin": "Persian",
+    "id": "na124",
+    "verified": true
+  },
+  {
     "id": "na71",
     "name": "Nawfal",
     "gender": "Boy",
@@ -909,6 +957,22 @@
     "gender": "Girl",
     "meaning": "Like, equal",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Nazish",
+    "gender": "Girl",
+    "meaning": "Fragrance; Pride",
+    "origin": "Urdu",
+    "id": "na125",
+    "verified": true
+  },
+  {
+    "name": "Nazli",
+    "gender": "Girl",
+    "meaning": "Delicate",
+    "origin": "Persian",
+    "id": "na126",
     "verified": true
   },
   {

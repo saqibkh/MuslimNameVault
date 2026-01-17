@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Maahi",
+    "gender": "Unisex",
+    "meaning": "Beloved",
+    "origin": "Urdu",
+    "id": "ma95",
+    "verified": true
+  },
+  {
     "id": "ma2",
     "name": "Maahir",
     "gender": "Boy",
@@ -61,6 +69,22 @@
     "meaning": "City of Mosaics (Jordan)",
     "origin": "Arabic",
     "id": "ma81",
+    "verified": true
+  },
+  {
+    "name": "Madani",
+    "gender": "Boy",
+    "meaning": "Civilized",
+    "origin": "Arabic",
+    "id": "ma108",
+    "verified": true
+  },
+  {
+    "name": "Madeeha",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ma96",
     "verified": true
   },
   {
@@ -104,11 +128,43 @@
     "verified": true
   },
   {
+    "name": "Mahad",
+    "gender": "Boy",
+    "meaning": "Great; Nice",
+    "origin": "Arabic",
+    "id": "ma97",
+    "verified": true
+  },
+  {
+    "name": "Maham",
+    "gender": "Girl",
+    "meaning": "Moonlight",
+    "origin": "Urdu",
+    "id": "ma98",
+    "verified": true
+  },
+  {
+    "name": "Mahasin",
+    "gender": "Girl",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "ma109",
+    "verified": true
+  },
+  {
     "name": "Mahboob",
     "gender": "Boy",
     "meaning": "Beloved",
     "origin": "Arabic",
     "id": "ma59",
+    "verified": true
+  },
+  {
+    "name": "Mahbub",
+    "gender": "Boy",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ma110",
     "verified": true
   },
   {
@@ -136,11 +192,27 @@
     "verified": true
   },
   {
+    "name": "Maher",
+    "gender": "Boy",
+    "meaning": "Skillful",
+    "origin": "Arabic",
+    "id": "ma111",
+    "verified": true
+  },
+  {
     "id": "ma10",
     "name": "Mahfuz",
     "gender": "Boy",
     "meaning": "Preserved, safe",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Mahib",
+    "gender": "Boy",
+    "meaning": "Majestic",
+    "origin": "Arabic",
+    "id": "ma112",
     "verified": true
   },
   {
@@ -168,11 +240,27 @@
     "verified": true
   },
   {
+    "name": "Mahja",
+    "gender": "Girl",
+    "meaning": "Blood",
+    "origin": "Arabic",
+    "id": "ma113",
+    "verified": true
+  },
+  {
     "name": "Mahjabeen",
     "gender": "Girl",
     "meaning": "Moon-forehead (Beautiful)",
     "origin": "Persian",
     "id": "ma60",
+    "verified": true
+  },
+  {
+    "name": "Mahmood",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "ma114",
     "verified": true
   },
   {
@@ -208,11 +296,27 @@
     "verified": true
   },
   {
+    "name": "Mahrukh",
+    "gender": "Girl",
+    "meaning": "Face like moon",
+    "origin": "Persian",
+    "id": "ma99",
+    "verified": true
+  },
+  {
     "name": "Mahtab",
     "gender": "Unisex",
     "meaning": "Moonlight",
     "origin": "Persian",
     "id": "ma58",
+    "verified": true
+  },
+  {
+    "name": "Mahveen",
+    "gender": "Girl",
+    "meaning": "Light of the sun",
+    "origin": "Persian",
+    "id": "ma100",
     "verified": true
   },
   {
@@ -248,11 +352,27 @@
     "verified": true
   },
   {
+    "name": "Mais",
+    "gender": "Girl",
+    "meaning": "Walking with proud swing",
+    "origin": "Arabic",
+    "id": "ma101",
+    "verified": true
+  },
+  {
     "id": "ma17",
     "name": "Maisara",
     "gender": "Unisex",
     "meaning": "Ease, comfort, wealth",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Maizah",
+    "gender": "Girl",
+    "meaning": "Discriminating",
+    "origin": "Arabic",
+    "id": "ma102",
     "verified": true
   },
   {
@@ -296,6 +416,22 @@
     "verified": true
   },
   {
+    "name": "Makin",
+    "gender": "Boy",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "ma115",
+    "verified": true
+  },
+  {
+    "name": "Makki",
+    "gender": "Boy",
+    "meaning": "Of Mecca",
+    "origin": "Arabic",
+    "id": "ma116",
+    "verified": true
+  },
+  {
     "name": "Makran",
     "gender": "Boy",
     "meaning": "Coastal region (Pakistan/Iran)",
@@ -317,6 +453,14 @@
     "meaning": "Malaqa (Andalusian city)",
     "origin": "Arabic",
     "id": "ma85",
+    "verified": true
+  },
+  {
+    "name": "Malaika",
+    "gender": "Girl",
+    "meaning": "Angels",
+    "origin": "Arabic",
+    "id": "ma103",
     "verified": true
   },
   {
@@ -360,6 +504,14 @@
     "verified": true
   },
   {
+    "name": "Malih",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ma117",
+    "verified": true
+  },
+  {
     "id": "ma24",
     "name": "Maliha",
     "gender": "Girl",
@@ -397,6 +549,14 @@
     "gender": "Girl",
     "meaning": "Attainment, achievement",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Manahil",
+    "gender": "Girl",
+    "meaning": "Spring of fresh water",
+    "origin": "Arabic",
+    "id": "ma104",
     "verified": true
   },
   {
@@ -477,6 +637,14 @@
     "gender": "Boy",
     "meaning": "Accepted, popular",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Maqil",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "ma118",
     "verified": true
   },
   {
@@ -592,6 +760,30 @@
     "verified": true
   },
   {
+    "name": "Maryum",
+    "gender": "Girl",
+    "meaning": "Mary",
+    "origin": "Arabic",
+    "id": "ma105",
+    "verified": true
+  },
+  {
+    "name": "Marzuq",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ma119",
+    "verified": true
+  },
+  {
+    "name": "Masab",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Arabic",
+    "id": "ma120",
+    "verified": true
+  },
+  {
     "name": "Mashal",
     "gender": "Unisex",
     "meaning": "Torch, light",
@@ -605,6 +797,22 @@
     "meaning": "Place of Martyrdom (Iran)",
     "origin": "Persian",
     "id": "ma93",
+    "verified": true
+  },
+  {
+    "name": "Mashhur",
+    "gender": "Boy",
+    "meaning": "Famous",
+    "origin": "Arabic",
+    "id": "ma121",
+    "verified": true
+  },
+  {
+    "name": "Mashkoor",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ma122",
     "verified": true
   },
   {
@@ -624,6 +832,14 @@
     "verified": true
   },
   {
+    "name": "Masroor",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Arabic",
+    "id": "ma106",
+    "verified": true
+  },
+  {
     "id": "ma35",
     "name": "Masrur",
     "gender": "Boy",
@@ -637,6 +853,14 @@
     "meaning": "Fortunate",
     "origin": "Arabic",
     "id": "ma77",
+    "verified": true
+  },
+  {
+    "name": "Masum",
+    "gender": "Boy",
+    "meaning": "Innocent",
+    "origin": "Arabic",
+    "id": "ma123",
     "verified": true
   },
   {
@@ -672,6 +896,14 @@
     "verified": true
   },
   {
+    "name": "Maudood",
+    "gender": "Boy",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ma124",
+    "verified": true
+  },
+  {
     "id": "ma37",
     "name": "Mawaddah",
     "gender": "Girl",
@@ -685,6 +917,22 @@
     "meaning": "Waves",
     "origin": "Quranic",
     "id": "ma52",
+    "verified": true
+  },
+  {
+    "name": "Mawla",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "ma125",
+    "verified": true
+  },
+  {
+    "name": "Mawra",
+    "gender": "Girl",
+    "meaning": "Superior",
+    "origin": "Urdu",
+    "id": "ma107",
     "verified": true
   },
   {
@@ -725,6 +973,22 @@
     "meaning": "Shining star",
     "origin": "Arabic",
     "id": "ma54",
+    "verified": true
+  },
+  {
+    "name": "Maysara",
+    "gender": "Unisex",
+    "meaning": "Ease",
+    "origin": "Arabic",
+    "id": "ma126",
+    "verified": true
+  },
+  {
+    "name": "Mazen",
+    "gender": "Boy",
+    "meaning": "Cloud",
+    "origin": "Arabic",
+    "id": "ma127",
     "verified": true
   },
   {

@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Numa",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "nu19",
+    "verified": true
+  },
+  {
     "id": "nu7",
     "name": "Numair",
     "gender": "Boy",
@@ -112,6 +120,14 @@
     "verified": true
   },
   {
+    "name": "Nusrah",
+    "gender": "Girl",
+    "meaning": "Help; Support",
+    "origin": "Arabic",
+    "id": "nu20",
+    "verified": true
+  },
+  {
     "id": "nu13",
     "name": "Nusrat",
     "gender": "Unisex",
@@ -133,6 +149,14 @@
     "meaning": "City in Sinai",
     "origin": "Arabic",
     "id": "nu18",
+    "verified": true
+  },
+  {
+    "name": "Nuzha",
+    "gender": "Girl",
+    "meaning": "Pleasure trip",
+    "origin": "Arabic",
+    "id": "nu21",
     "verified": true
   },
   {

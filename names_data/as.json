@@ -48,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Asbah",
+    "gender": "Girl",
+    "meaning": "Pure as water",
+    "origin": "Arabic",
+    "id": "as40",
+    "verified": true
+  },
+  {
     "id": "as6",
     "name": "Aseel",
     "gender": "Unisex",
@@ -85,6 +93,22 @@
     "gender": "Boy",
     "meaning": "Smaller, younger",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ashab",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "as42",
+    "verified": true
+  },
+  {
+    "name": "Ashal",
+    "gender": "Boy",
+    "meaning": "Greenest",
+    "origin": "Arabic",
+    "id": "as43",
     "verified": true
   },
   {
@@ -149,6 +173,14 @@
     "meaning": "10th of Muharram",
     "origin": "Islamic History",
     "id": "as35",
+    "verified": true
+  },
+  {
+    "name": "Asia",
+    "gender": "Girl",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "as41",
     "verified": true
   },
   {

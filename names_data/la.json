@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Laiba",
+    "gender": "Girl",
+    "meaning": "Angel of Heaven",
+    "origin": "Arabic",
+    "id": "la30",
+    "verified": true
+  },
+  {
     "name": "Lail",
     "gender": "Girl",
     "meaning": "Night",
@@ -77,6 +85,14 @@
     "meaning": "Deserving, capable",
     "origin": "Arabic",
     "id": "la23",
+    "verified": true
+  },
+  {
+    "name": "Lais",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "la31",
     "verified": true
   },
   {

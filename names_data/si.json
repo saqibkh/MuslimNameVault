@@ -88,6 +88,14 @@
     "verified": true
   },
   {
+    "name": "Simra",
+    "gender": "Girl",
+    "meaning": "Heaven",
+    "origin": "Arabic",
+    "id": "si25",
+    "verified": true
+  },
+  {
     "name": "Sina",
     "gender": "Boy",
     "meaning": "Sinai Peninsula",
@@ -189,6 +197,14 @@
     "gender": "Unisex",
     "meaning": "Fasting",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Siyana",
+    "gender": "Girl",
+    "meaning": "Protection",
+    "origin": "Arabic",
+    "id": "si26",
     "verified": true
   }
 ]

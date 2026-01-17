@@ -112,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Alfatah",
+    "gender": "Boy",
+    "meaning": "The beginning",
+    "origin": "Arabic",
+    "id": "al40",
+    "verified": true
+  },
+  {
     "id": "al12",
     "name": "Alhan",
     "gender": "Girl",
@@ -133,6 +141,14 @@
     "gender": "Girl",
     "meaning": "Exalted, highest social standing",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Alif",
+    "gender": "Unisex",
+    "meaning": "First letter; Friendly",
+    "origin": "Arabic",
+    "id": "al41",
     "verified": true
   },
   {
@@ -269,6 +285,30 @@
     "gender": "Girl",
     "meaning": "Virgin",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Alveena",
+    "gender": "Girl",
+    "meaning": "Loved one",
+    "origin": "Arabic",
+    "id": "al38",
+    "verified": true
+  },
+  {
+    "name": "Alvina",
+    "gender": "Girl",
+    "meaning": "Friend of All",
+    "origin": "Urdu",
+    "id": "al42",
+    "verified": true
+  },
+  {
+    "name": "Aly",
+    "gender": "Boy",
+    "meaning": "High",
+    "origin": "Arabic",
+    "id": "al39",
     "verified": true
   },
   {

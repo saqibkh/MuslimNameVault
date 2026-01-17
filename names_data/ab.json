@@ -242,6 +242,14 @@
     "verified": true
   },
   {
+    "name": "Abdul",
+    "gender": "Boy",
+    "meaning": "Servant of",
+    "origin": "Arabic",
+    "id": "ab145",
+    "verified": true
+  },
+  {
     "id": "ab9",
     "name": "Abdul Aalee",
     "transliteration": "‘Abd al-‘Ālī",
@@ -1178,6 +1186,14 @@
     "verified": true
   },
   {
+    "name": "Abdul-Basit",
+    "gender": "Boy",
+    "meaning": "Servant of the Extender",
+    "origin": "Arabic",
+    "id": "ab147",
+    "verified": true
+  },
+  {
     "name": "Abdul-Ghaffar",
     "gender": "Boy",
     "meaning": "Slave of the Forgiver",
@@ -1207,6 +1223,14 @@
     "meaning": "Slave of the Protector",
     "origin": "Arabic",
     "id": "ab117",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Hakeem",
+    "gender": "Boy",
+    "meaning": "Servant of the Wise",
+    "origin": "Arabic",
+    "id": "ab148",
     "verified": true
   },
   {
@@ -1266,6 +1290,14 @@
     "verified": true
   },
   {
+    "name": "Abdul-Khaliq",
+    "gender": "Boy",
+    "meaning": "Servant of the Creator",
+    "origin": "Arabic",
+    "id": "ab149",
+    "verified": true
+  },
+  {
     "name": "Abdul-Latif",
     "gender": "Boy",
     "meaning": "Slave of the Gentle",
@@ -1298,6 +1330,14 @@
     "verified": true
   },
   {
+    "name": "Abdul-Muiz",
+    "gender": "Boy",
+    "meaning": "Servant of the Giver of Honor",
+    "origin": "Arabic",
+    "id": "ab150",
+    "verified": true
+  },
+  {
     "name": "Abdul-Naser",
     "gender": "Boy",
     "meaning": "Slave of the Helper",
@@ -1306,11 +1346,27 @@
     "verified": true
   },
   {
+    "name": "Abdul-Nasser",
+    "gender": "Boy",
+    "meaning": "Servant of the Helper",
+    "origin": "Arabic",
+    "id": "ab151",
+    "verified": true
+  },
+  {
     "name": "Abdul-Qadir",
     "gender": "Boy",
     "meaning": "Slave of the Capable",
     "origin": "Arabic",
     "id": "ab130",
+    "verified": true
+  },
+  {
+    "name": "Abdul-Qayyum",
+    "gender": "Boy",
+    "meaning": "Servant of the Sustainer",
+    "origin": "Arabic",
+    "id": "ab152",
     "verified": true
   },
   {
@@ -1452,6 +1508,14 @@
     "verified": true
   },
   {
+    "name": "Abdur-Rahman",
+    "gender": "Boy",
+    "meaning": "Servant of the Most Gracious",
+    "origin": "Arabic",
+    "id": "ab153",
+    "verified": true
+  },
+  {
     "id": "ab57",
     "name": "Abdus Salam",
     "transliteration": "‘Abd as-Salām",
@@ -1505,6 +1569,14 @@
       "Religious",
       "Virtue"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abeer",
+    "gender": "Unisex",
+    "meaning": "Fragrance",
+    "origin": "Arabic",
+    "id": "ab146",
     "verified": true
   },
   {
@@ -1597,6 +1669,14 @@
       "Modern",
       "Gift"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abital",
+    "gender": "Girl",
+    "meaning": "Father of Dew",
+    "origin": "Arabic",
+    "id": "ab154",
     "verified": true
   },
   {
@@ -1699,6 +1779,14 @@
       "Beauty",
       "Rare"
     ],
+    "verified": true
+  },
+  {
+    "name": "Abrish",
+    "gender": "Girl",
+    "meaning": "Flowing like water",
+    "origin": "Persian",
+    "id": "ab155",
     "verified": true
   },
   {

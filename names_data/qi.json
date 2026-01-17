@@ -32,6 +32,22 @@
     "verified": true
   },
   {
+    "name": "Qisra",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7",
+    "verified": true
+  },
+  {
+    "name": "Qistina",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8",
+    "verified": true
+  },
+  {
     "id": "qi4",
     "name": "Qiswarah",
     "gender": "Boy",

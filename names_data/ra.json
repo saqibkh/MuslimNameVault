@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Raabiah",
+    "gender": "Girl",
+    "meaning": "Fourth",
+    "origin": "Arabic",
+    "id": "ra92",
+    "verified": true
+  },
+  {
     "id": "ra1",
     "name": "Raad",
     "gender": "Boy",
@@ -24,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Raaziq",
+    "gender": "Boy",
+    "meaning": "Provider",
+    "origin": "Arabic",
+    "id": "ra93",
+    "verified": true
+  },
+  {
     "id": "ra3",
     "name": "Rabab",
     "gender": "Girl",
@@ -37,6 +53,14 @@
     "gender": "Boy",
     "meaning": "Gainer, winner",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Rabail",
+    "gender": "Girl",
+    "meaning": "Veil of flowers",
+    "origin": "Urdu",
+    "id": "ra94",
     "verified": true
   },
   {
@@ -280,6 +304,14 @@
     "verified": true
   },
   {
+    "name": "Rahima",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ra95",
+    "verified": true
+  },
+  {
     "name": "Rahiq",
     "gender": "Girl",
     "meaning": "Nectar",
@@ -341,6 +373,14 @@
     "gender": "Girl",
     "meaning": "Sweet basil, aromatic plant",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Raim",
+    "gender": "Boy",
+    "meaning": "Loving",
+    "origin": "Arabic",
+    "id": "ra96",
     "verified": true
   },
   {
@@ -496,6 +536,14 @@
     "verified": true
   },
   {
+    "name": "Ranya",
+    "gender": "Girl",
+    "meaning": "Conquerer",
+    "origin": "Arabic",
+    "id": "ra97",
+    "verified": true
+  },
+  {
     "id": "ra48",
     "name": "Raqib",
     "gender": "Boy",
@@ -605,6 +653,14 @@
     "gender": "Boy",
     "meaning": "Kind, compassionate (Attribute of Allah)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Rauha",
+    "gender": "Girl",
+    "meaning": "Happy",
+    "origin": "Arabic",
+    "id": "ra98",
     "verified": true
   },
   {

@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Mehak",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Urdu",
+    "id": "me20",
+    "verified": true
+  },
+  {
+    "name": "Mehan",
+    "gender": "Girl",
+    "meaning": "Soft",
+    "origin": "Persian",
+    "id": "me25",
+    "verified": true
+  },
+  {
     "id": "me1",
     "name": "Mehdi",
     "gender": "Boy",
@@ -32,11 +48,27 @@
     "verified": true
   },
   {
+    "name": "Mehmooda",
+    "gender": "Girl",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "me21",
+    "verified": true
+  },
+  {
     "id": "me3",
     "name": "Mehmoona",
     "gender": "Girl",
     "meaning": "Blessed (Variant of Maimoona)",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Mehnaz",
+    "gender": "Girl",
+    "meaning": "Pride of the moon",
+    "origin": "Persian",
+    "id": "me22",
     "verified": true
   },
   {
@@ -64,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Mehrunisa",
+    "gender": "Girl",
+    "meaning": "Sun of the women",
+    "origin": "Persian",
+    "id": "me23",
+    "verified": true
+  },
+  {
     "name": "Mehrunissa",
     "gender": "Girl",
     "meaning": "Sun of women",
@@ -72,11 +112,27 @@
     "verified": true
   },
   {
+    "name": "Mehvish",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "me26",
+    "verified": true
+  },
+  {
     "id": "me7",
     "name": "Mehwish",
     "gender": "Girl",
     "meaning": "Moon, beautiful",
     "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Mekaal",
+    "gender": "Boy",
+    "meaning": "Angel Name",
+    "origin": "Arabic",
+    "id": "me24",
     "verified": true
   },
   {

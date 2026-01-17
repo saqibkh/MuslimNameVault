@@ -1,6 +1,50 @@
 [
-  { "id": "ez1", "name": "Ezel", "gender": "Unisex", "meaning": "Eternity, beginning", "origin": "Turkish/Arabic", "verified": true },
-  { "id": "ez2", "name": "Ezra", "gender": "Boy", "meaning": "Prophet Uzair (Ezra)", "origin": "Quranic", "verified": true },
-  { "id": "ez3", "name": "Ezzah", "gender": "Girl", "meaning": "Honor, power (Variant of Izzah)", "origin": "Arabic", "verified": true },
-  { "id": "ez4", "name": "Ezzat", "gender": "Boy", "meaning": "Honor, might (Variant of Izzat)", "origin": "Persian", "verified": true }
+  {
+    "name": "Ezar",
+    "gender": "Boy",
+    "meaning": "Cheek",
+    "origin": "Arabic",
+    "id": "ez6",
+    "verified": true
+  },
+  {
+    "name": "Ezdan",
+    "gender": "Boy",
+    "meaning": "Growth; Increase; Grace",
+    "origin": "Persian/Urdu",
+    "id": "ez5",
+    "verified": true
+  },
+  {
+    "id": "ez1",
+    "name": "Ezel",
+    "gender": "Unisex",
+    "meaning": "Eternity, beginning",
+    "origin": "Turkish/Arabic",
+    "verified": true
+  },
+  {
+    "id": "ez2",
+    "name": "Ezra",
+    "gender": "Boy",
+    "meaning": "Prophet Uzair (Ezra)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ez3",
+    "name": "Ezzah",
+    "gender": "Girl",
+    "meaning": "Honor, power (Variant of Izzah)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ez4",
+    "name": "Ezzat",
+    "gender": "Boy",
+    "meaning": "Honor, might (Variant of Izzat)",
+    "origin": "Persian",
+    "verified": true
+  }
 ]

@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Lubabah",
+    "gender": "Girl",
+    "meaning": "Essence",
+    "origin": "Arabic",
+    "id": "lu15",
+    "verified": true
+  },
+  {
     "name": "Luban",
     "gender": "Girl",
     "meaning": "Frankincense; Pine tree",
@@ -69,6 +77,14 @@
     "gender": "Boy",
     "meaning": "A Wise Man mentioned in Quran",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Lut",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "lu16",
     "verified": true
   },
   {

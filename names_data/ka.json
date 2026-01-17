@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Kaamil",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "Arabic",
+    "id": "ka77",
+    "verified": true
+  },
+  {
+    "name": "Kaamran",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Persian",
+    "id": "ka78",
+    "verified": true
+  },
+  {
     "name": "Kaan",
     "gender": "Boy",
     "meaning": "Ruler, King of Kings",
@@ -16,11 +32,27 @@
     "verified": true
   },
   {
+    "name": "Kab",
+    "gender": "Boy",
+    "meaning": "Heel",
+    "origin": "Arabic",
+    "id": "ka82",
+    "verified": true
+  },
+  {
     "name": "Kaba",
     "gender": "Boy",
     "meaning": "The Kaaba",
     "origin": "Islamic",
     "id": "ka40",
+    "verified": true
+  },
+  {
+    "name": "Kabeer",
+    "gender": "Boy",
+    "meaning": "Big; Great",
+    "origin": "Arabic",
+    "id": "ka79",
     "verified": true
   },
   {
@@ -144,6 +176,14 @@
     "verified": true
   },
   {
+    "name": "Kainat",
+    "gender": "Girl",
+    "meaning": "Universe",
+    "origin": "Arabic",
+    "id": "ka80",
+    "verified": true
+  },
+  {
     "name": "Kairouan",
     "gender": "Boy",
     "meaning": "Historic city in Tunisia",
@@ -181,6 +221,14 @@
     "gender": "Boy",
     "meaning": "Speech, conversation",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kalami",
+    "gender": "Boy",
+    "meaning": "Speaker",
+    "origin": "Arabic",
+    "id": "ka83",
     "verified": true
   },
   {
@@ -408,6 +456,22 @@
     "verified": true
   },
   {
+    "name": "Kardar",
+    "gender": "Boy",
+    "meaning": "Prime Minister",
+    "origin": "Arabic",
+    "id": "ka84",
+    "verified": true
+  },
+  {
+    "name": "Kareem",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "ka85",
+    "verified": true
+  },
+  {
     "id": "ka30",
     "name": "Karim",
     "gender": "Boy",
@@ -477,6 +541,14 @@
     "gender": "Girl",
     "meaning": "Revealer",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kashmala",
+    "gender": "Girl",
+    "meaning": "Necklace of flowers",
+    "origin": "Urdu",
+    "id": "ka81",
     "verified": true
   },
   {

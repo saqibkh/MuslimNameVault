@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Baasit",
+    "gender": "Boy",
+    "meaning": "Expander",
+    "origin": "Arabic",
+    "id": "ba133",
+    "verified": true
+  },
+  {
     "id": "ba4",
     "name": "Bab",
     "gender": "Boy",
@@ -216,6 +224,14 @@
     "verified": true
   },
   {
+    "name": "Bahauddin",
+    "gender": "Boy",
+    "meaning": "Glow of the religion",
+    "origin": "Arabic",
+    "id": "ba131",
+    "verified": true
+  },
+  {
     "id": "ba20",
     "name": "Bahia",
     "gender": "Girl",
@@ -317,6 +333,22 @@
     "gender": "Boy",
     "meaning": "Maritime, naval",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Baig",
+    "gender": "Boy",
+    "meaning": "Lord; Master",
+    "origin": "Turkish",
+    "id": "ba134",
+    "verified": true
+  },
+  {
+    "name": "Bais",
+    "gender": "Boy",
+    "meaning": "One who brings about",
+    "origin": "Arabic",
+    "id": "ba135",
     "verified": true
   },
   {
@@ -608,6 +640,22 @@
     "verified": true
   },
   {
+    "name": "Bareeq",
+    "gender": "Boy",
+    "meaning": "Glitter; Flash",
+    "origin": "Arabic",
+    "id": "ba136",
+    "verified": true
+  },
+  {
+    "name": "Bareera",
+    "gender": "Girl",
+    "meaning": "Pious",
+    "origin": "Arabic",
+    "id": "ba132",
+    "verified": true
+  },
+  {
     "id": "ba58",
     "name": "Bari",
     "gender": "Boy",
@@ -696,11 +744,27 @@
     "verified": true
   },
   {
+    "name": "Barr",
+    "gender": "Boy",
+    "meaning": "Just; Pious",
+    "origin": "Arabic",
+    "id": "ba137",
+    "verified": true
+  },
+  {
     "id": "ba67",
     "name": "Barra",
     "gender": "Girl",
     "meaning": "Pious, kind",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Barrah",
+    "gender": "Girl",
+    "meaning": "Kind; Righteous",
+    "origin": "Arabic",
+    "id": "ba138",
     "verified": true
   },
   {
@@ -720,11 +784,27 @@
     "verified": true
   },
   {
+    "name": "Basair",
+    "gender": "Girl",
+    "meaning": "Insight",
+    "origin": "Arabic",
+    "id": "ba139",
+    "verified": true
+  },
+  {
     "name": "Basak",
     "gender": "Girl",
     "meaning": "Wheat ear",
     "origin": "Turkish",
     "id": "ba105",
+    "verified": true
+  },
+  {
+    "name": "Basat",
+    "gender": "Boy",
+    "meaning": "Vastness",
+    "origin": "Arabic",
+    "id": "ba140",
     "verified": true
   },
   {
@@ -1032,11 +1112,35 @@
     "verified": true
   },
   {
+    "name": "Bazan",
+    "gender": "Boy",
+    "meaning": "A companion of Prophet",
+    "origin": "Arabic",
+    "id": "ba141",
+    "verified": true
+  },
+  {
+    "name": "Bazil",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ba142",
+    "verified": true
+  },
+  {
     "id": "ba100",
     "name": "Bazla",
     "gender": "Girl",
     "meaning": "Reward, generous",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Bazlur",
+    "gender": "Boy",
+    "meaning": "Bounty",
+    "origin": "Arabic",
+    "id": "ba143",
     "verified": true
   }
 ]

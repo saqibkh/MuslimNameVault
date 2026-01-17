@@ -1,5 +1,13 @@
 [
   {
+    "name": "Auf",
+    "gender": "Boy",
+    "meaning": "Guest; Fragrance",
+    "origin": "Arabic",
+    "id": "au12",
+    "verified": true
+  },
+  {
     "id": "au1",
     "name": "Aul",
     "gender": "Boy",

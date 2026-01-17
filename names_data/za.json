@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Zabeeh",
+    "gender": "Boy",
+    "meaning": "Sacrificed",
+    "origin": "Arabic",
+    "id": "za62",
+    "verified": true
+  },
+  {
     "id": "za4",
     "name": "Zaeem",
     "gender": "Boy",
@@ -485,6 +493,14 @@
     "meaning": "Olive",
     "origin": "Quranic",
     "id": "za43",
+    "verified": true
+  },
+  {
+    "name": "Zayyan",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "za63",
     "verified": true
   }
 ]
