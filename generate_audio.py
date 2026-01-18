@@ -7,7 +7,7 @@ from gtts import gTTS
 # CONFIGURATION
 INPUT_FOLDER = 'names_data'
 # UPDATED: Save to 'assets' so they are not deleted during site generation
-AUDIO_OUTPUT_FOLDER = 'assets/audio' 
+AUDIO_OUTPUT_FOLDER = 'docs/audio' 
 
 # Create audio folder if not exists
 if not os.path.exists(AUDIO_OUTPUT_FOLDER):

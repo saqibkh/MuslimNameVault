@@ -53,7 +53,8 @@ def generate_website():
             title="Muslim Name Vault - Meaningful Islamic Names Dictionary",
             description="The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciations.",
             url=SITE_URL,
-            total_names=len(names)
+            total_names=len(names),
+            alphabet=list(alphabet)
         ))
     print("✅ Generated Homepage.")
 
