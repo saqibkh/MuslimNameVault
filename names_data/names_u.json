@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ub1",
+    "name": "Ubaid",
+    "gender": "Boy",
+    "meaning": "Faithful, little servant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ub2",
+    "name": "Ubaida",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ubaidullah",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "id": "ub6",
+    "verified": true
+  },
+  {
+    "id": "ub3",
+    "name": "Ubay",
+    "gender": "Boy",
+    "meaning": "One with high self-esteem",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ub4",
+    "name": "Ubayd",
+    "gender": "Boy",
+    "meaning": "Worshipper",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ub5",
+    "name": "Ubaydullah",
+    "gender": "Boy",
+    "meaning": "Little servant of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ud1",
+    "name": "Uday",
+    "gender": "Boy",
+    "meaning": "One who runs fast",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ud2",
+    "name": "Udays",
+    "gender": "Boy",
+    "meaning": "Small, fast runner",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ufuk",
+    "gender": "Boy",
+    "meaning": "Horizon",
+    "origin": "Turkish",
+    "id": "uf2",
+    "verified": true
+  },
+  {
+    "name": "Ufuq",
+    "gender": "Unisex",
+    "meaning": "Horizon",
+    "origin": "Quranic",
+    "id": "uf1",
+    "verified": true
+  },
+  {
+    "name": "Ugarit",
+    "gender": "Boy",
+    "meaning": "Ancient city in Syria",
+    "origin": "Ancient",
+    "id": "ug2",
+    "verified": true
+  },
+  {
+    "name": "Ugur",
+    "gender": "Boy",
+    "meaning": "Good luck",
+    "origin": "Turkish",
+    "id": "ug1",
+    "verified": true
+  },
+  {
+    "id": "uh1",
+    "name": "Uhud",
+    "gender": "Boy",
+    "meaning": "Commitment; Mountain in Medina",
+    "origin": "Islamic History",
+    "verified": true
+  },
+  {
+    "id": "ul1",
+    "name": "Ula",
+    "gender": "Girl",
+    "meaning": "High rank, prestige",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ulayya",
+    "gender": "Girl",
+    "meaning": "Top of a mountain",
+    "origin": "Arabic",
+    "id": "ul4",
+    "verified": true
+  },
+  {
+    "id": "ul2",
+    "name": "Ulfat",
+    "gender": "Unisex",
+    "meaning": "Love, affection, familiarity",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ul3",
+    "name": "Ulya",
+    "gender": "Girl",
+    "meaning": "Higher, highest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um1",
+    "name": "Umair",
+    "gender": "Boy",
+    "meaning": "Life, long-lived",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um2",
+    "name": "Umamah",
+    "gender": "Girl",
+    "meaning": "Granddaughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um3",
+    "name": "Umar",
+    "gender": "Boy",
+    "meaning": "Life, long-lived; Second Caliph",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um4",
+    "name": "Umayma",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um5",
+    "name": "Umayr",
+    "gender": "Boy",
+    "meaning": "Old Arabic name",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Umayya",
+    "gender": "Girl",
+    "meaning": "Young servant",
+    "origin": "Arabic",
+    "id": "um12",
+    "verified": true
+  },
+  {
+    "id": "um6",
+    "name": "Umayyah",
+    "gender": "Girl",
+    "meaning": "Famous Arab tribe; Young servant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Umit",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Turkish",
+    "id": "um10",
+    "verified": true
+  },
+  {
+    "id": "um7",
+    "name": "Umm",
+    "gender": "Girl",
+    "meaning": "Mother (Used in compound names like Umm Kulthum)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "um8",
+    "name": "Umm Kulthum",
+    "gender": "Girl",
+    "meaning": "Mother of chubby face; Daughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Umm-Kulthum",
+    "gender": "Girl",
+    "meaning": "Daughter of Prophet",
+    "origin": "Arabic",
+    "id": "um13",
+    "verified": true
+  },
+  {
+    "name": "Umme",
+    "gender": "Girl",
+    "meaning": "Mother of",
+    "origin": "Arabic",
+    "id": "um11",
+    "verified": true
+  },
+  {
+    "id": "um9",
+    "name": "Umrah",
+    "gender": "Girl",
+    "meaning": "Pilgrimage to Mecca",
+    "origin": "Islamic",
+    "verified": true
+  },
+  {
+    "id": "un1",
+    "name": "Unays",
+    "gender": "Boy",
+    "meaning": "Friendly, companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "un2",
+    "name": "Unsa",
+    "gender": "Girl",
+    "meaning": "Woman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "uq1",
+    "name": "Uqbah",
+    "gender": "Boy",
+    "meaning": "End of everything; Famous General",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Uqsur",
+    "gender": "Boy",
+    "meaning": "Luxor (Egypt)",
+    "origin": "Arabic",
+    "id": "uq2",
+    "verified": true
+  },
+  {
+    "name": "Ur",
+    "gender": "Boy",
+    "meaning": "Ancient city (Iraq)",
+    "origin": "Sumerian",
+    "id": "ur3",
+    "verified": true
+  },
+  {
+    "name": "Urfa",
+    "gender": "Boy",
+    "meaning": "City of Prophets (Turkey)",
+    "origin": "Turkish",
+    "id": "ur4",
+    "verified": true
+  },
+  {
+    "id": "ur1",
+    "name": "Urooj",
+    "gender": "Unisex",
+    "meaning": "Ascension, mounting, rising",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Urumqi",
+    "gender": "Boy",
+    "meaning": "City in Xinjiang",
+    "origin": "Uyghur",
+    "id": "ur5",
+    "verified": true
+  },
+  {
+    "id": "ur2",
+    "name": "Urwah",
+    "gender": "Unisex",
+    "meaning": "Support, handle, handhold",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "us1",
+    "name": "Usama",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "us2",
+    "name": "Usayd",
+    "gender": "Boy",
+    "meaning": "Little lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "us3",
+    "name": "Usman",
+    "gender": "Boy",
+    "meaning": "Baby bustard; Third Caliph (Uthman)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "us4",
+    "name": "Uswah",
+    "gender": "Girl",
+    "meaning": "Sample, example",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ut1",
+    "name": "Utbah",
+    "gender": "Boy",
+    "meaning": "Threshold",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ut2",
+    "name": "Uthman",
+    "gender": "Boy",
+    "meaning": "The young of a bustard; Third Caliph",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "uw1",
+    "name": "Uwais",
+    "gender": "Boy",
+    "meaning": "Small wolf",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "uz1",
+    "name": "Uzair",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Uzayr",
+    "gender": "Boy",
+    "meaning": "Ezra (Prophet)",
+    "origin": "Quranic",
+    "id": "uz3",
+    "verified": true
+  },
+  {
+    "name": "Uzbekistan",
+    "gender": "Boy",
+    "meaning": "Land of Ozbeg",
+    "origin": "Turkic",
+    "id": "uz4",
+    "verified": true
+  },
+  {
+    "id": "uz2",
+    "name": "Uzma",
+    "gender": "Girl",
+    "meaning": "Greatest, supreme",
+    "origin": "Arabic",
+    "verified": true
+  }
+]

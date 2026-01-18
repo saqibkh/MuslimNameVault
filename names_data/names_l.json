@@ -1,0 +1,578 @@
+[
+  {
+    "id": "la1",
+    "name": "Laaiq",
+    "gender": "Boy",
+    "meaning": "Worthy, capable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la2",
+    "name": "Labib",
+    "gender": "Boy",
+    "meaning": "Sensible, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la3",
+    "name": "Labiba",
+    "gender": "Girl",
+    "meaning": "Sensible, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ladakh",
+    "gender": "Boy",
+    "meaning": "Land of High Passes",
+    "origin": "Tibetan/Urdu",
+    "id": "la25",
+    "verified": true
+  },
+  {
+    "name": "Ladhiqiya",
+    "gender": "Girl",
+    "meaning": "Latakia (Syria)",
+    "origin": "Arabic",
+    "id": "la26",
+    "verified": true
+  },
+  {
+    "id": "la4",
+    "name": "Ladid",
+    "gender": "Boy",
+    "meaning": "Delicious, pleasant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lahore",
+    "gender": "Boy",
+    "meaning": "Heart of Pakistan",
+    "origin": "Urdu",
+    "id": "la27",
+    "verified": true
+  },
+  {
+    "name": "Laiba",
+    "gender": "Girl",
+    "meaning": "Angel of Heaven",
+    "origin": "Arabic",
+    "id": "la30",
+    "verified": true
+  },
+  {
+    "name": "Lail",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "id": "la28",
+    "verified": true
+  },
+  {
+    "id": "la7",
+    "name": "Laila",
+    "gender": "Girl",
+    "meaning": "Night, dark beauty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Laiq",
+    "gender": "Boy",
+    "meaning": "Deserving, capable",
+    "origin": "Arabic",
+    "id": "la23",
+    "verified": true
+  },
+  {
+    "name": "Lais",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "la31",
+    "verified": true
+  },
+  {
+    "id": "la5",
+    "name": "Laith",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la6",
+    "name": "Lajlaj",
+    "gender": "Boy",
+    "meaning": "One with beautiful eyes",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lala",
+    "gender": "Girl",
+    "meaning": "Tulip flower",
+    "origin": "Persian",
+    "id": "la22",
+    "verified": true
+  },
+  {
+    "name": "Lale",
+    "gender": "Girl",
+    "meaning": "Tulip",
+    "origin": "Turkish",
+    "id": "la20",
+    "verified": true
+  },
+  {
+    "name": "Lali",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Urdu",
+    "id": "la24",
+    "verified": true
+  },
+  {
+    "id": "la8",
+    "name": "Lama",
+    "gender": "Girl",
+    "meaning": "Darkness of lips (a sign of beauty)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la10",
+    "name": "Lamia",
+    "gender": "Girl",
+    "meaning": "Shining, radiant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la9",
+    "name": "Lamis",
+    "gender": "Girl",
+    "meaning": "Soft to the touch",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la11",
+    "name": "Lamya",
+    "gender": "Girl",
+    "meaning": "Dark-lipped (Beautiful)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la12",
+    "name": "Laraib",
+    "gender": "Girl",
+    "meaning": "Without doubt",
+    "origin": "Arabic/Urdu",
+    "verified": true
+  },
+  {
+    "name": "Latakia",
+    "gender": "Girl",
+    "meaning": "Port city in Syria",
+    "origin": "Arabic",
+    "id": "la29",
+    "verified": true
+  },
+  {
+    "id": "la13",
+    "name": "Lateef",
+    "gender": "Boy",
+    "meaning": "Gentle, kind",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "la14",
+    "name": "Lateefa",
+    "gender": "Girl",
+    "meaning": "Gentle, kind",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la15",
+    "name": "Latif",
+    "gender": "Boy",
+    "meaning": "Subtle, kind (Attribute of Allah)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "la16",
+    "name": "Latifa",
+    "gender": "Girl",
+    "meaning": "Gentle, pleasant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Layal",
+    "gender": "Girl",
+    "meaning": "Nights",
+    "origin": "Arabic",
+    "id": "la21",
+    "verified": true
+  },
+  {
+    "id": "la17",
+    "name": "Layla",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la18",
+    "name": "Layth",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "la19",
+    "name": "Lazim",
+    "gender": "Boy",
+    "meaning": "Necessary, binding",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lebanon",
+    "gender": "Boy",
+    "meaning": "Lubnan (White Mountain)",
+    "origin": "Arabic",
+    "id": "le6",
+    "verified": true
+  },
+  {
+    "id": "le4",
+    "name": "Leen",
+    "gender": "Girl",
+    "meaning": "Softness, tenderness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "le1",
+    "name": "Leena",
+    "gender": "Girl",
+    "meaning": "Tender, delicate; Young palm tree",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "le2",
+    "name": "Leila",
+    "gender": "Girl",
+    "meaning": "Night, dark beauty",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "name": "Levent",
+    "gender": "Boy",
+    "meaning": "Handsome marine",
+    "origin": "Turkish",
+    "id": "le5",
+    "verified": true
+  },
+  {
+    "id": "le3",
+    "name": "Leyla",
+    "gender": "Girl",
+    "meaning": "Night (Turkish spelling)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "li1",
+    "name": "Lia",
+    "gender": "Girl",
+    "meaning": "Bearer of glad tidings",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Liaqat",
+    "gender": "Boy",
+    "meaning": "Worth, ability",
+    "origin": "Arabic",
+    "id": "li8",
+    "verified": true
+  },
+  {
+    "name": "Liaquat",
+    "gender": "Boy",
+    "meaning": "Ability, worth",
+    "origin": "Arabic",
+    "id": "li9",
+    "verified": true
+  },
+  {
+    "id": "li4",
+    "name": "Liban",
+    "gender": "Boy",
+    "meaning": "Successful, charming",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Libya",
+    "gender": "Girl",
+    "meaning": "North African nation",
+    "origin": "Arabic",
+    "id": "li11",
+    "verified": true
+  },
+  {
+    "name": "Limazah",
+    "gender": "Boy",
+    "meaning": "Narrator of Hadith",
+    "origin": "Arabic",
+    "id": "li13",
+    "verified": true
+  },
+  {
+    "id": "li5",
+    "name": "Lina",
+    "gender": "Girl",
+    "meaning": "Tender; Young palm tree",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "li6",
+    "name": "Lisa",
+    "gender": "Girl",
+    "meaning": "Devoted to God",
+    "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "name": "Lisan-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Language of the Faith",
+    "origin": "Arabic",
+    "id": "li10",
+    "verified": true
+  },
+  {
+    "name": "Liwa",
+    "gender": "Girl",
+    "meaning": "Oasis in UAE",
+    "origin": "Arabic",
+    "id": "li12",
+    "verified": true
+  },
+  {
+    "id": "li2",
+    "name": "Liya",
+    "gender": "Girl",
+    "meaning": "Beautiful, ambitious",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "li3",
+    "name": "Liyana",
+    "gender": "Girl",
+    "meaning": "Softness, tenderness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "li7",
+    "name": "Liza",
+    "gender": "Girl",
+    "meaning": "Dedicated to Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lod",
+    "gender": "Boy",
+    "meaning": "Lydda (Palestine)",
+    "origin": "Arabic",
+    "id": "lo5",
+    "verified": true
+  },
+  {
+    "id": "lo1",
+    "name": "Lodhi",
+    "gender": "Boy",
+    "meaning": "A famous Afghan tribe",
+    "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "id": "lo2",
+    "name": "Lotfi",
+    "gender": "Boy",
+    "meaning": "Kind, gentle (Variant of Lutfi)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lo3",
+    "name": "Loujain",
+    "gender": "Girl",
+    "meaning": "Silver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lo4",
+    "name": "Loulia",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu1",
+    "name": "Luay",
+    "gender": "Boy",
+    "meaning": "Shield, protector; Strong",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu2",
+    "name": "Lubaba",
+    "gender": "Girl",
+    "meaning": "The innermost essence",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lubabah",
+    "gender": "Girl",
+    "meaning": "Essence",
+    "origin": "Arabic",
+    "id": "lu15",
+    "verified": true
+  },
+  {
+    "name": "Luban",
+    "gender": "Girl",
+    "meaning": "Frankincense; Pine tree",
+    "origin": "Arabic",
+    "id": "lu12",
+    "verified": true
+  },
+  {
+    "id": "lu3",
+    "name": "Lubna",
+    "gender": "Girl",
+    "meaning": "Storax tree (Used for perfume)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu4",
+    "name": "Lujain",
+    "gender": "Girl",
+    "meaning": "Silver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu5",
+    "name": "Lulu",
+    "gender": "Girl",
+    "meaning": "Pearls",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "lu6",
+    "name": "Lulwa",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu7",
+    "name": "Luna",
+    "gender": "Girl",
+    "meaning": "Moon (Used in modern contexts)",
+    "origin": "Latin/Arabic usage",
+    "verified": false
+  },
+  {
+    "id": "lu8",
+    "name": "Luqman",
+    "gender": "Boy",
+    "meaning": "A Wise Man mentioned in Quran",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Lut",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "lu16",
+    "verified": true
+  },
+  {
+    "id": "lu9",
+    "name": "Lutf",
+    "gender": "Boy",
+    "meaning": "Bounty, enjoyment",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu10",
+    "name": "Lutfi",
+    "gender": "Boy",
+    "meaning": "Kind, gentle",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "lu11",
+    "name": "Lutfiya",
+    "gender": "Girl",
+    "meaning": "Delicate, graceful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Lutfullah",
+    "gender": "Boy",
+    "meaning": "Kindness of God",
+    "origin": "Arabic",
+    "id": "lu13",
+    "verified": true
+  },
+  {
+    "name": "Luxor",
+    "gender": "Boy",
+    "meaning": "The Palaces (Uqsur)",
+    "origin": "Arabic",
+    "id": "lu14",
+    "verified": true
+  },
+  {
+    "id": "ly1",
+    "name": "Lyana",
+    "gender": "Girl",
+    "meaning": "Eye of the sun",
+    "origin": "Modern",
+    "verified": true
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "Taalia",
+    "gender": "Girl",
+    "meaning": "Rising star",
+    "origin": "Arabic",
+    "id": "ta76",
+    "verified": true
+  },
+  {
+    "name": "Tabaristan",
+    "gender": "Boy",
+    "meaning": "Historic region in Iran",
+    "origin": "Persian",
+    "id": "ta63",
+    "verified": true
+  },
+  {
+    "id": "ta1",
+    "name": "Tabassum",
+    "gender": "Unisex",
+    "meaning": "Smile",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tabinda",
+    "gender": "Girl",
+    "meaning": "Bright",
+    "origin": "Urdu",
+    "id": "ta77",
+    "verified": true
+  },
+  {
+    "id": "ta2",
+    "name": "Tabish",
+    "gender": "Boy",
+    "meaning": "Heat, brilliance",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Tabriz",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "ta64",
+    "verified": true
+  },
+  {
+    "name": "Tabuk",
+    "gender": "Boy",
+    "meaning": "City in Arabia (Battle site)",
+    "origin": "Islamic History",
+    "id": "ta47",
+    "verified": true
+  },
+  {
+    "name": "Tadmor",
+    "gender": "Girl",
+    "meaning": "Palmyra (Syria)",
+    "origin": "Arabic",
+    "id": "ta65",
+    "verified": true
+  },
+  {
+    "id": "ta3",
+    "name": "Taha",
+    "gender": "Boy",
+    "meaning": "Name of a Surah; Name of the Prophet",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta4",
+    "name": "Tahir",
+    "gender": "Boy",
+    "meaning": "Pure, clean",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta5",
+    "name": "Tahira",
+    "gender": "Girl",
+    "meaning": "Pure, chaste",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta6",
+    "name": "Tahiyya",
+    "gender": "Girl",
+    "meaning": "Greeting, salutation",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta7",
+    "name": "Tahmid",
+    "gender": "Boy",
+    "meaning": "Praising Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta8",
+    "name": "Tahoor",
+    "gender": "Unisex",
+    "meaning": "Purity, purifying",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta9",
+    "name": "Tahseen",
+    "gender": "Unisex",
+    "meaning": "Acclaim, appreciation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta10",
+    "name": "Taif",
+    "gender": "Boy",
+    "meaning": "Vision; City in Saudi Arabia",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta11",
+    "name": "Taim",
+    "gender": "Boy",
+    "meaning": "Devotion, love",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta12",
+    "name": "Taimur",
+    "gender": "Boy",
+    "meaning": "Iron (Variant of Timur)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ta13",
+    "name": "Taj",
+    "gender": "Boy",
+    "meaning": "Crown",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "name": "Taj-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Crown of the Faith",
+    "origin": "Arabic",
+    "id": "ta60",
+    "verified": true
+  },
+  {
+    "name": "Tajikistan",
+    "gender": "Boy",
+    "meaning": "Land of Tajiks",
+    "origin": "Persian",
+    "id": "ta66",
+    "verified": true
+  },
+  {
+    "id": "ta14",
+    "name": "Tajuddin",
+    "gender": "Boy",
+    "meaning": "Crown of the Faith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Takrit",
+    "gender": "Boy",
+    "meaning": "Tikrit (Iraq)",
+    "origin": "Arabic",
+    "id": "ta67",
+    "verified": true
+  },
+  {
+    "name": "Tala",
+    "gender": "Girl",
+    "meaning": "Small palm tree",
+    "origin": "Arabic",
+    "id": "ta48",
+    "verified": true
+  },
+  {
+    "id": "ta15",
+    "name": "Talal",
+    "gender": "Boy",
+    "meaning": "Nice, admirable; Rain",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta16",
+    "name": "Talat",
+    "gender": "Unisex",
+    "meaning": "Face, sight, appearance",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Talh",
+    "gender": "Boy",
+    "meaning": "Acacia tree",
+    "origin": "Quranic",
+    "id": "ta49",
+    "verified": true
+  },
+  {
+    "id": "ta17",
+    "name": "Talha",
+    "gender": "Boy",
+    "meaning": "Fruitful tree; Famous Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta18",
+    "name": "Talia",
+    "gender": "Girl",
+    "meaning": "Dew of God (Hebrew origin, used in Arabic)",
+    "origin": "Mixed",
+    "verified": false
+  },
+  {
+    "id": "ta19",
+    "name": "Talib",
+    "gender": "Boy",
+    "meaning": "Seeker, student",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta20",
+    "name": "Tamanna",
+    "gender": "Girl",
+    "meaning": "Wish, desire",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ta21",
+    "name": "Tamara",
+    "gender": "Girl",
+    "meaning": "Date palm",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta22",
+    "name": "Tameem",
+    "gender": "Boy",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tamer",
+    "gender": "Boy",
+    "meaning": "One who has dates",
+    "origin": "Arabic",
+    "id": "ta50",
+    "verified": true
+  },
+  {
+    "id": "ta23",
+    "name": "Tamim",
+    "gender": "Boy",
+    "meaning": "Complete; Name of a Sahabi",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta24",
+    "name": "Tamir",
+    "gender": "Boy",
+    "meaning": "One who owns dates",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Taner",
+    "gender": "Boy",
+    "meaning": "Dawn man",
+    "origin": "Turkish",
+    "id": "ta53",
+    "verified": true
+  },
+  {
+    "name": "Tangier",
+    "gender": "Boy",
+    "meaning": "Tanja (Morocco)",
+    "origin": "Arabic",
+    "id": "ta68",
+    "verified": true
+  },
+  {
+    "name": "Tanisha",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Urdu",
+    "id": "ta78",
+    "verified": true
+  },
+  {
+    "name": "Tanta",
+    "gender": "Girl",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "ta69",
+    "verified": true
+  },
+  {
+    "id": "ta25",
+    "name": "Tanveer",
+    "gender": "Unisex",
+    "meaning": "Illumination, light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta26",
+    "name": "Tanweer",
+    "gender": "Unisex",
+    "meaning": "Lighting, illuminating",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tanwyn",
+    "gender": "Girl",
+    "meaning": "Storm",
+    "origin": "Arabic",
+    "id": "ta51",
+    "verified": true
+  },
+  {
+    "id": "ta27",
+    "name": "Tanzil",
+    "gender": "Boy",
+    "meaning": "Revelation, sending down",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta28",
+    "name": "Tanzila",
+    "gender": "Girl",
+    "meaning": "Revelation, sending down",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta29",
+    "name": "Taqi",
+    "gender": "Boy",
+    "meaning": "God-fearing, devout",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta30",
+    "name": "Taqwa",
+    "gender": "Girl",
+    "meaning": "Piety, God-consciousness",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta31",
+    "name": "Tara",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Tarabulus",
+    "gender": "Boy",
+    "meaning": "Tripoli (Libya/Lebanon)",
+    "origin": "Arabic",
+    "id": "ta70",
+    "verified": true
+  },
+  {
+    "id": "ta32",
+    "name": "Tarannum",
+    "gender": "Girl",
+    "meaning": "Melody, rhythm",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "ta33",
+    "name": "Tareq",
+    "gender": "Boy",
+    "meaning": "Morning star (Variant of Tariq)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta34",
+    "name": "Tarif",
+    "gender": "Boy",
+    "meaning": "Rare, uncommon",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tarim",
+    "gender": "Boy",
+    "meaning": "City of Saints (Yemen)",
+    "origin": "Arabic",
+    "id": "ta71",
+    "verified": true
+  },
+  {
+    "id": "ta35",
+    "name": "Tariq",
+    "gender": "Boy",
+    "meaning": "Night comer, morning star",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tarkan",
+    "gender": "Boy",
+    "meaning": "Bold, strong",
+    "origin": "Turkish",
+    "id": "ta54",
+    "verified": true
+  },
+  {
+    "name": "Tarsus",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ta72",
+    "verified": true
+  },
+  {
+    "name": "Tartus",
+    "gender": "Boy",
+    "meaning": "City in Syria",
+    "origin": "Arabic",
+    "id": "ta73",
+    "verified": true
+  },
+  {
+    "id": "ta36",
+    "name": "Tarub",
+    "gender": "Girl",
+    "meaning": "Merry",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tashkent",
+    "gender": "Boy",
+    "meaning": "Stone City (Uzbekistan)",
+    "origin": "Turkic",
+    "id": "ta74",
+    "verified": true
+  },
+  {
+    "name": "Tasleem",
+    "gender": "Unisex",
+    "meaning": "Salutation, submission",
+    "origin": "Arabic",
+    "id": "ta55",
+    "verified": true
+  },
+  {
+    "name": "Taslim",
+    "gender": "Unisex",
+    "meaning": "Submission",
+    "origin": "Arabic",
+    "id": "ta61",
+    "verified": true
+  },
+  {
+    "id": "ta37",
+    "name": "Tasneem",
+    "gender": "Girl",
+    "meaning": "Fountain in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta38",
+    "name": "Tasnim",
+    "gender": "Girl",
+    "meaning": "Fountain in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tauhid",
+    "gender": "Boy",
+    "meaning": "Oneness of God",
+    "origin": "Arabic",
+    "id": "ta62",
+    "verified": true
+  },
+  {
+    "name": "Tauqeer",
+    "gender": "Boy",
+    "meaning": "Respect",
+    "origin": "Arabic",
+    "id": "ta56",
+    "verified": true
+  },
+  {
+    "name": "Tauseef",
+    "gender": "Boy",
+    "meaning": "Praise",
+    "origin": "Arabic",
+    "id": "ta57",
+    "verified": true
+  },
+  {
+    "id": "ta39",
+    "name": "Tawfiq",
+    "gender": "Boy",
+    "meaning": "Success, reconciliation",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta40",
+    "name": "Tawhid",
+    "gender": "Boy",
+    "meaning": "Monotheism, oneness of God",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tayba",
+    "gender": "Girl",
+    "meaning": "Good; Another name for Medina",
+    "origin": "Arabic",
+    "id": "ta52",
+    "verified": true
+  },
+  {
+    "name": "Tayfun",
+    "gender": "Boy",
+    "meaning": "Typhoon",
+    "origin": "Turkish",
+    "id": "ta58",
+    "verified": true
+  },
+  {
+    "id": "ta41",
+    "name": "Taym",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tayma",
+    "gender": "Girl",
+    "meaning": "Oasis in Arabia",
+    "origin": "Arabic",
+    "id": "ta75",
+    "verified": true
+  },
+  {
+    "id": "ta42",
+    "name": "Taymullah",
+    "gender": "Boy",
+    "meaning": "Servant of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ta43",
+    "name": "Tayyab",
+    "gender": "Boy",
+    "meaning": "Good, pure, wholesome",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta44",
+    "name": "Tayyib",
+    "gender": "Boy",
+    "meaning": "Good, clean",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ta45",
+    "name": "Tayyiba",
+    "gender": "Girl",
+    "meaning": "Good, pure, chaste",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tazeen",
+    "gender": "Girl",
+    "meaning": "Decoration",
+    "origin": "Arabic",
+    "id": "ta59",
+    "verified": true
+  },
+  {
+    "id": "ta46",
+    "name": "Tazim",
+    "gender": "Boy",
+    "meaning": "Honor, respect",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "te1",
+    "name": "Tehmina",
+    "gender": "Girl",
+    "meaning": "Strong, brave; Character in Shahnameh",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Tehran",
+    "gender": "Boy",
+    "meaning": "Capital of Iran",
+    "origin": "Persian",
+    "id": "te8",
+    "verified": true
+  },
+  {
+    "name": "Tehseen",
+    "gender": "Unisex",
+    "meaning": "Praise, admiration",
+    "origin": "Arabic",
+    "id": "te7",
+    "verified": true
+  },
+  {
+    "id": "te2",
+    "name": "Tehzeeb",
+    "gender": "Girl",
+    "meaning": "Etiquette, culture",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Tehzib",
+    "gender": "Girl",
+    "meaning": "Elegance",
+    "origin": "Urdu",
+    "id": "te10",
+    "verified": true
+  },
+  {
+    "name": "Teima",
+    "gender": "Girl",
+    "meaning": "Ancient oasis city",
+    "origin": "Arabic",
+    "id": "te6",
+    "verified": true
+  },
+  {
+    "id": "te3",
+    "name": "Temur",
+    "gender": "Boy",
+    "meaning": "Iron (Variant of Timur)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "te4",
+    "name": "Tesneem",
+    "gender": "Girl",
+    "meaning": "Fountain in Paradise (Variant of Tasneem)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tetouan",
+    "gender": "Boy",
+    "meaning": "City in Morocco",
+    "origin": "Berber",
+    "id": "te9",
+    "verified": true
+  },
+  {
+    "id": "te5",
+    "name": "Tevfik",
+    "gender": "Boy",
+    "meaning": "Success (Turkish form of Tawfiq)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "th1",
+    "name": "Thabit",
+    "gender": "Boy",
+    "meaning": "Firm, established",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th2",
+    "name": "Thamin",
+    "gender": "Boy",
+    "meaning": "Precious, valuable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th3",
+    "name": "Thamina",
+    "gender": "Girl",
+    "meaning": "Precious, generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th4",
+    "name": "Thamir",
+    "gender": "Boy",
+    "meaning": "Fruitful, productive",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th5",
+    "name": "Thana",
+    "gender": "Unisex",
+    "meaning": "Praise, eulogy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th6",
+    "name": "Thara",
+    "gender": "Girl",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th7",
+    "name": "Thawab",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Thrace",
+    "gender": "Boy",
+    "meaning": "Region in Turkey",
+    "origin": "Greek/Turkish",
+    "id": "th10",
+    "verified": true
+  },
+  {
+    "id": "th8",
+    "name": "Thuraya",
+    "gender": "Girl",
+    "meaning": "The Pleiades (Star cluster)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "th9",
+    "name": "Thuwaybah",
+    "gender": "Girl",
+    "meaning": "Deserving of reward; Prophet's wet nurse",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tiflis",
+    "gender": "Boy",
+    "meaning": "Tbilisi (Georgia - Historic)",
+    "origin": "Persian",
+    "id": "ti5",
+    "verified": true
+  },
+  {
+    "name": "Tigris",
+    "gender": "Boy",
+    "meaning": "Dijla River",
+    "origin": "Greek/Arabic",
+    "id": "ti6",
+    "verified": true
+  },
+  {
+    "name": "Tihama",
+    "gender": "Girl",
+    "meaning": "Coastal plain of Arabia",
+    "origin": "Arabic",
+    "id": "ti3",
+    "verified": true
+  },
+  {
+    "id": "ti1",
+    "name": "Tijani",
+    "gender": "Boy",
+    "meaning": "Crowned",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true
+  },
+  {
+    "name": "Tikrit",
+    "gender": "Boy",
+    "meaning": "City in Iraq",
+    "origin": "Arabic",
+    "id": "ti7",
+    "verified": true
+  },
+  {
+    "name": "Timbuktu",
+    "gender": "Boy",
+    "meaning": "City in Mali",
+    "origin": "African",
+    "id": "ti8",
+    "verified": true
+  },
+  {
+    "id": "ti2",
+    "name": "Timur",
+    "gender": "Boy",
+    "meaning": "Iron",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "name": "Tin",
+    "gender": "Unisex",
+    "meaning": "Fig; A Surah",
+    "origin": "Quranic",
+    "id": "ti4",
+    "verified": true
+  },
+  {
+    "name": "Tlemcen",
+    "gender": "Boy",
+    "meaning": "City in Algeria",
+    "origin": "Berber",
+    "id": "tl1",
+    "verified": true
+  },
+  {
+    "name": "Tolga",
+    "gender": "Boy",
+    "meaning": "Helmet",
+    "origin": "Turkish",
+    "id": "to5",
+    "verified": true
+  },
+  {
+    "id": "to1",
+    "name": "Tooba",
+    "gender": "Girl",
+    "meaning": "Good news; Tree in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Toprak",
+    "gender": "Unisex",
+    "meaning": "Soil, earth",
+    "origin": "Turkish",
+    "id": "to4",
+    "verified": true
+  },
+  {
+    "id": "to2",
+    "name": "Toufic",
+    "gender": "Boy",
+    "meaning": "Success (Variant of Tawfiq)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "to3",
+    "name": "Toulane",
+    "gender": "Girl",
+    "meaning": "Charming",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tozeur",
+    "gender": "Girl",
+    "meaning": "Oasis in Tunisia",
+    "origin": "Arabic",
+    "id": "to6",
+    "verified": true
+  },
+  {
+    "name": "Trabzon",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "tr1",
+    "verified": true
+  },
+  {
+    "name": "Tripoli",
+    "gender": "Boy",
+    "meaning": "Three Cities (Libya/Lebanon)",
+    "origin": "Greek/Arabic",
+    "id": "tr2",
+    "verified": true
+  },
+  {
+    "id": "tu1",
+    "name": "Tuba",
+    "gender": "Girl",
+    "meaning": "Blessedness; Tree in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Tubruq",
+    "gender": "Boy",
+    "meaning": "Tobruk (Libya)",
+    "origin": "Arabic",
+    "id": "tu10",
+    "verified": true
+  },
+  {
+    "id": "tu2",
+    "name": "Tufail",
+    "gender": "Boy",
+    "meaning": "Intercession, mediation; A Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "tu3",
+    "name": "Tulay",
+    "gender": "Girl",
+    "meaning": "Tulle moon (Halo)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Tulaytula",
+    "gender": "Girl",
+    "meaning": "Toledo (Spain)",
+    "origin": "Arabic",
+    "id": "tu11",
+    "verified": true
+  },
+  {
+    "name": "Tuncay",
+    "gender": "Boy",
+    "meaning": "Bronze moon",
+    "origin": "Turkish",
+    "id": "tu9",
+    "verified": true
+  },
+  {
+    "name": "Tunis",
+    "gender": "Girl",
+    "meaning": "Capital of Tunisia",
+    "origin": "Arabic",
+    "id": "tu12",
+    "verified": true
+  },
+  {
+    "name": "Tur",
+    "gender": "Boy",
+    "meaning": "Mount Sinai",
+    "origin": "Quranic",
+    "id": "tu6",
+    "verified": true
+  },
+  {
+    "name": "Turab",
+    "gender": "Boy",
+    "meaning": "Soil; Dust (Symbol of humility - Abu Turab was a title of Ali)",
+    "origin": "Arabic",
+    "id": "tu8",
+    "verified": true
+  },
+  {
+    "id": "tu4",
+    "name": "Turan",
+    "gender": "Boy",
+    "meaning": "Land of the Turks; Brave",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "name": "Turkey",
+    "gender": "Boy",
+    "meaning": "Land of Turks",
+    "origin": "Turkish",
+    "id": "tu13",
+    "verified": true
+  },
+  {
+    "id": "tu5",
+    "name": "Turki",
+    "gender": "Boy",
+    "meaning": "Turkish, handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tuwa",
+    "gender": "Girl",
+    "meaning": "Sacred valley",
+    "origin": "Quranic",
+    "id": "tu7",
+    "verified": true
+  },
+  {
+    "id": "ty1",
+    "name": "Tyra",
+    "gender": "Girl",
+    "meaning": "Untouched",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Tyre",
+    "gender": "Boy",
+    "meaning": "Sur (Lebanon)",
+    "origin": "Phoenician",
+    "id": "ty3",
+    "verified": true
+  },
+  {
+    "id": "ty2",
+    "name": "Tysir",
+    "gender": "Boy",
+    "meaning": "Facilitation (Variant of Taysir)",
+    "origin": "Arabic",
+    "verified": true
+  }
+]

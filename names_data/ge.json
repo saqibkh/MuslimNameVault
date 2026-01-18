@@ -1,7 +1,0 @@
-[
-  { "id": "ge1", "name": "Gediz", "gender": "Unisex", "meaning": "Pond, stream", "origin": "Turkish", "verified": true },
-  { "id": "ge2", "name": "Genc", "gender": "Boy", "meaning": "Young", "origin": "Turkish", "verified": true },
-  { "id": "ge3", "name": "Gencay", "gender": "Boy", "meaning": "New moon, young moon", "origin": "Turkish", "verified": true },
-  { "id": "ge4", "name": "Ghadia", "gender": "Girl", "meaning": "Morning cloud", "origin": "Arabic", "verified": true },
-  { "id": "ge5", "name": "Gesu", "gender": "Girl", "meaning": "Hair, locks", "origin": "Persian", "verified": true }
-]

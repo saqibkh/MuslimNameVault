@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Gabes",
+    "gender": "Boy",
+    "meaning": "Oasis city in Tunisia",
+    "origin": "Arabic",
+    "id": "ga16",
+    "verified": true
+  },
+  {
+    "id": "ga1",
+    "name": "Gabir",
+    "gender": "Boy",
+    "meaning": "Comforter (Egyptian variant of Jabir)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga2",
+    "name": "Gabr",
+    "gender": "Boy",
+    "meaning": "Redemption (Egyptian variant of Jabr)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga3",
+    "name": "Gafira",
+    "gender": "Girl",
+    "meaning": "One who forgives (Variant of Ghafira)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Gafsa",
+    "gender": "Girl",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "ga17",
+    "verified": true
+  },
+  {
+    "id": "ga4",
+    "name": "Gaith",
+    "gender": "Boy",
+    "meaning": "Rain (Variant of Ghaith)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga5",
+    "name": "Galal",
+    "gender": "Boy",
+    "meaning": "Majesty (Egyptian variant of Jalal)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Galilee",
+    "gender": "Girl",
+    "meaning": "Region in Palestine (Al-Jalil)",
+    "origin": "Arabic",
+    "id": "ga18",
+    "verified": true
+  },
+  {
+    "id": "ga6",
+    "name": "Gamal",
+    "gender": "Boy",
+    "meaning": "Beauty (Egyptian variant of Jamal)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga7",
+    "name": "Gamil",
+    "gender": "Boy",
+    "meaning": "Beautiful (Egyptian variant of Jamil)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga8",
+    "name": "Gamila",
+    "gender": "Girl",
+    "meaning": "Beautiful (Egyptian variant of Jamila)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Gamze",
+    "gender": "Girl",
+    "meaning": "Dimple",
+    "origin": "Turkish",
+    "id": "ga15",
+    "verified": true
+  },
+  {
+    "id": "ga9",
+    "name": "Gani",
+    "gender": "Boy",
+    "meaning": "Rich, wealthy (Variant of Ghani)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga10",
+    "name": "Gauhar",
+    "gender": "Unisex",
+    "meaning": "Gem, jewel, pearl",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ga11",
+    "name": "Gawahir",
+    "gender": "Girl",
+    "meaning": "Jewels (Egyptian variant of Jawahir)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Gaza",
+    "gender": "Girl",
+    "meaning": "Strong; City in Palestine (Ghazza)",
+    "origin": "Arabic",
+    "id": "ga14",
+    "verified": true
+  },
+  {
+    "id": "ga12",
+    "name": "Gazala",
+    "gender": "Girl",
+    "meaning": "Gazelle, deer (Variant of Ghazala)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ga13",
+    "name": "Gazi",
+    "gender": "Boy",
+    "meaning": "Warrior, conqueror (Variant of Ghazi)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ge1",
+    "name": "Gediz",
+    "gender": "Unisex",
+    "meaning": "Pond, stream",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ge2",
+    "name": "Genc",
+    "gender": "Boy",
+    "meaning": "Young",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ge3",
+    "name": "Gencay",
+    "gender": "Boy",
+    "meaning": "New moon, young moon",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ge5",
+    "name": "Gesu",
+    "gender": "Girl",
+    "meaning": "Hair, locks",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "ge4",
+    "name": "Ghadia",
+    "gender": "Girl",
+    "meaning": "Morning cloud",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh1",
+    "name": "Ghadir",
+    "gender": "Unisex",
+    "meaning": "Stream, brook",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh2",
+    "name": "Ghaffar",
+    "gender": "Boy",
+    "meaning": "The Forgiver (Attribute of Allah)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "gh4",
+    "name": "Ghaida",
+    "gender": "Girl",
+    "meaning": "Young and delicate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ghaim",
+    "gender": "Boy",
+    "meaning": "Clouds",
+    "origin": "Arabic",
+    "id": "gh24",
+    "verified": true
+  },
+  {
+    "id": "gh3",
+    "name": "Ghaith",
+    "gender": "Boy",
+    "meaning": "Rain, succor",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "gh6",
+    "name": "Ghalia",
+    "gender": "Girl",
+    "meaning": "Precious, valuable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh5",
+    "name": "Ghalib",
+    "gender": "Boy",
+    "meaning": "Victor, conqueror",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh7",
+    "name": "Ghanem",
+    "gender": "Boy",
+    "meaning": "Successful, winner",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh8",
+    "name": "Ghani",
+    "gender": "Boy",
+    "meaning": "Rich, wealthy, self-sufficient",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "gh9",
+    "name": "Ghania",
+    "gender": "Girl",
+    "meaning": "Beautiful, rich",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh10",
+    "name": "Gharam",
+    "gender": "Girl",
+    "meaning": "Love, infatuation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh11",
+    "name": "Ghassan",
+    "gender": "Boy",
+    "meaning": "Prime of youth",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh12",
+    "name": "Ghaus",
+    "gender": "Boy",
+    "meaning": "Help, aid (Sufi term)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh13",
+    "name": "Ghayda",
+    "gender": "Girl",
+    "meaning": "Young and delicate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ghayth",
+    "gender": "Boy",
+    "meaning": "Rain",
+    "origin": "Quranic",
+    "id": "gh25",
+    "verified": true
+  },
+  {
+    "id": "gh14",
+    "name": "Ghazal",
+    "gender": "Girl",
+    "meaning": "Love poem, gazelle",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh15",
+    "name": "Ghazala",
+    "gender": "Girl",
+    "meaning": "Gazelle, deer; Rising sun",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh16",
+    "name": "Ghazanfar",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh17",
+    "name": "Ghazawan",
+    "gender": "Boy",
+    "meaning": "Warrior",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh18",
+    "name": "Ghazi",
+    "gender": "Boy",
+    "meaning": "Warrior, conqueror",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gh19",
+    "name": "Ghaziya",
+    "gender": "Girl",
+    "meaning": "Female warrior",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ghazwan",
+    "gender": "Boy",
+    "meaning": "Warrior",
+    "origin": "Arabic",
+    "id": "gh28",
+    "verified": true
+  },
+  {
+    "name": "Ghina",
+    "gender": "Girl",
+    "meaning": "Richness, melody",
+    "origin": "Arabic",
+    "id": "gh26",
+    "verified": true
+  },
+  {
+    "name": "Ghiyas",
+    "gender": "Boy",
+    "meaning": "Aid, relief",
+    "origin": "Arabic",
+    "id": "gh29",
+    "verified": true
+  },
+  {
+    "name": "Ghiyas-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Aid of the Faith",
+    "origin": "Arabic",
+    "id": "gh30",
+    "verified": true
+  },
+  {
+    "id": "gh20",
+    "name": "Ghufran",
+    "gender": "Unisex",
+    "meaning": "Forgiveness",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "gh21",
+    "name": "Ghulam",
+    "gender": "Boy",
+    "meaning": "Servant, young man",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Ghulzar",
+    "gender": "Boy",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "id": "gh31",
+    "verified": true
+  },
+  {
+    "id": "gh22",
+    "name": "Ghunwah",
+    "gender": "Girl",
+    "meaning": "Song",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Ghusn",
+    "gender": "Girl",
+    "meaning": "Branch",
+    "origin": "Arabic",
+    "id": "gh27",
+    "verified": true
+  },
+  {
+    "id": "gh23",
+    "name": "Ghusoon",
+    "gender": "Girl",
+    "meaning": "Branches of a tree",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gi1",
+    "name": "Gibran",
+    "gender": "Boy",
+    "meaning": "To restore, to comfort (Variant of Jibran)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Gilani",
+    "gender": "Boy",
+    "meaning": "From Gilan",
+    "origin": "Persian",
+    "id": "gi5",
+    "verified": true
+  },
+  {
+    "id": "gi2",
+    "name": "Ginah",
+    "gender": "Girl",
+    "meaning": "Gardens (Variant of Jinan)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "gi3",
+    "name": "Gitrif",
+    "gender": "Boy",
+    "meaning": "Lord, chief",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Giza",
+    "gender": "Girl",
+    "meaning": "City of Pyramids (Jizah)",
+    "origin": "Arabic",
+    "id": "gi4",
+    "verified": true
+  },
+  {
+    "id": "go1",
+    "name": "Gohar",
+    "gender": "Unisex",
+    "meaning": "Jewel, essence, gem",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "go2",
+    "name": "Goharshad",
+    "gender": "Girl",
+    "meaning": "Shining jewel",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Gokhan",
+    "gender": "Boy",
+    "meaning": "Sky Khan (Ruler of Sky)",
+    "origin": "Turkish",
+    "id": "go5",
+    "verified": true
+  },
+  {
+    "name": "Golan",
+    "gender": "Boy",
+    "meaning": "Jawlan (Heights in Syria)",
+    "origin": "Arabic",
+    "id": "go6",
+    "verified": true
+  },
+  {
+    "id": "go3",
+    "name": "Golnar",
+    "gender": "Girl",
+    "meaning": "Pomegranate flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Gorgan",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "go7",
+    "verified": true
+  },
+  {
+    "id": "go4",
+    "name": "Gour",
+    "gender": "Boy",
+    "meaning": "Grave, deep thought (Rare)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Granada",
+    "gender": "Girl",
+    "meaning": "Gharnata (Andalusian city)",
+    "origin": "Arabic",
+    "id": "gr1",
+    "verified": true
+  },
+  {
+    "id": "gu1",
+    "name": "Gufran",
+    "gender": "Unisex",
+    "meaning": "Forgiveness (Variant of Ghufran)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Gujrat",
+    "gender": "Boy",
+    "meaning": "Region in India/Pakistan",
+    "origin": "Urdu",
+    "id": "gu17",
+    "verified": true
+  },
+  {
+    "id": "gu2",
+    "name": "Gul",
+    "gender": "Girl",
+    "meaning": "Flower, rose",
+    "origin": "Persian/Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu3",
+    "name": "Gulab",
+    "gender": "Boy",
+    "meaning": "Rose water",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Gulbadan",
+    "gender": "Girl",
+    "meaning": "Rose-bodied",
+    "origin": "Persian",
+    "id": "gu16",
+    "verified": true
+  },
+  {
+    "id": "gu4",
+    "name": "Gulbahar",
+    "gender": "Girl",
+    "meaning": "Spring rose",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu5",
+    "name": "Gulbano",
+    "gender": "Girl",
+    "meaning": "Princess of flowers",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu6",
+    "name": "Gulfam",
+    "gender": "Boy",
+    "meaning": "Rose faced",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu7",
+    "name": "Guliz",
+    "gender": "Girl",
+    "meaning": "Rose trace",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu8",
+    "name": "Gulnar",
+    "gender": "Girl",
+    "meaning": "Flower of the pomegranate",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu9",
+    "name": "Gulnaz",
+    "gender": "Girl",
+    "meaning": "Cute like a flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu10",
+    "name": "Gulrukh",
+    "gender": "Girl",
+    "meaning": "Face like a flower",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu11",
+    "name": "Gulshan",
+    "gender": "Unisex",
+    "meaning": "Garden of flowers",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu12",
+    "name": "Gulzar",
+    "gender": "Unisex",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "gu13",
+    "name": "Gun",
+    "gender": "Unisex",
+    "meaning": "Day, sun",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu14",
+    "name": "Gunay",
+    "gender": "Unisex",
+    "meaning": "Sun moon",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "gu15",
+    "name": "Guni",
+    "gender": "Boy",
+    "meaning": "Color (Variant of Ghani 'Rich' in some dialects)",
+    "origin": "Arabic",
+    "verified": false
+  },
+  {
+    "name": "Gwadar",
+    "gender": "Boy",
+    "meaning": "Port city in Pakistan",
+    "origin": "Urdu",
+    "id": "gw1",
+    "verified": true
+  }
+]

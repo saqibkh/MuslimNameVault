@@ -1,6 +1,0 @@
-[
-  { "id": "po1", "name": "Polat", "gender": "Boy", "meaning": "Steel", "origin": "Turkish", "verified": true },
-  { "id": "po2", "name": "Porgul", "gender": "Girl", "meaning": "Full of flowers", "origin": "Persian", "verified": true },
-  { "id": "po3", "name": "Pouya", "gender": "Boy", "meaning": "Searcher, dynamic", "origin": "Persian", "verified": true },
-  { "id": "po4", "name": "Pouran", "gender": "Girl", "meaning": "Successor", "origin": "Persian", "verified": true }
-]

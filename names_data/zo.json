@@ -1,7 +1,0 @@
-[
-  { "id": "zo1", "name": "Zoha", "gender": "Girl", "meaning": "Morning light", "origin": "Quranic", "verified": true },
-  { "id": "zo2", "name": "Zohaib", "gender": "Boy", "meaning": "Leader, king", "origin": "Arabic", "verified": true },
-  { "id": "zo3", "name": "Zohra", "gender": "Girl", "meaning": "Venus, blossom", "origin": "Arabic", "verified": true },
-  { "id": "zo4", "name": "Zora", "gender": "Girl", "meaning": "Dawn", "origin": "Persian", "verified": true },
-  { "id": "zo5", "name": "Zoya", "gender": "Girl", "meaning": "Loving, caring", "origin": "Persian", "verified": true }
-]

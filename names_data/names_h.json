@@ -1,0 +1,1778 @@
+[
+  {
+    "name": "Haadi",
+    "gender": "Boy",
+    "meaning": "Guide",
+    "origin": "Arabic",
+    "id": "ha133",
+    "verified": true
+  },
+  {
+    "name": "Haafiz",
+    "gender": "Boy",
+    "meaning": "Keeper; Guardian",
+    "origin": "Arabic",
+    "id": "ha141",
+    "verified": true
+  },
+  {
+    "name": "Haaris",
+    "gender": "Boy",
+    "meaning": "Vigilant; Guard",
+    "origin": "Arabic",
+    "id": "ha134",
+    "verified": true
+  },
+  {
+    "id": "ha71",
+    "name": "Hababah",
+    "gender": "Girl",
+    "meaning": "A daughter of Ajlan; Narrator of Hadith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Habbah",
+    "gender": "Girl",
+    "meaning": "Berry; Grain",
+    "origin": "Arabic",
+    "id": "ha142",
+    "verified": true
+  },
+  {
+    "name": "Habeeb",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "id": "ha143",
+    "verified": true
+  },
+  {
+    "id": "ha1",
+    "name": "Habib",
+    "gender": "Boy",
+    "meaning": "Beloved, friend",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Habib-Ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Beloved of the Merciful",
+    "origin": "Arabic",
+    "id": "ha119",
+    "verified": true
+  },
+  {
+    "id": "ha2",
+    "name": "Habiba",
+    "gender": "Girl",
+    "meaning": "Beloved, darling",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha72",
+    "name": "Habibah",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Habibullah",
+    "gender": "Boy",
+    "meaning": "Beloved of Allah",
+    "origin": "Arabic",
+    "id": "ha110",
+    "verified": true
+  },
+  {
+    "id": "ha3",
+    "name": "Habil",
+    "gender": "Boy",
+    "meaning": "Abel (Son of Adam)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha4",
+    "name": "Hada",
+    "gender": "Girl",
+    "meaning": "Myrtle tree, guide",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha73",
+    "name": "Hadaya",
+    "gender": "Girl",
+    "meaning": "Gifts",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hadeed",
+    "gender": "Boy",
+    "meaning": "Iron",
+    "origin": "Arabic",
+    "id": "ha144",
+    "verified": true
+  },
+  {
+    "id": "ha74",
+    "name": "Hadeel",
+    "gender": "Girl",
+    "meaning": "Cooing of pigeons",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha75",
+    "name": "Hadhirah",
+    "gender": "Girl",
+    "meaning": "Sweet smelling, smart",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hadhramaut",
+    "gender": "Boy",
+    "meaning": "Historic region in Yemen",
+    "origin": "Arabic",
+    "id": "ha125",
+    "verified": true
+  },
+  {
+    "id": "ha6",
+    "name": "Hadi",
+    "gender": "Boy",
+    "meaning": "Guide, leader",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha7",
+    "name": "Hadia",
+    "gender": "Girl",
+    "meaning": "Guide, gift",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha8",
+    "name": "Hadid",
+    "gender": "Boy",
+    "meaning": "Iron, sharp",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha9",
+    "name": "Hadiqa",
+    "gender": "Girl",
+    "meaning": "Garden, walled garden",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha10",
+    "name": "Hadiya",
+    "gender": "Girl",
+    "meaning": "Gift, present",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha76",
+    "name": "Hadiyah",
+    "gender": "Girl",
+    "meaning": "Guide to righteousness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hafa",
+    "gender": "Girl",
+    "meaning": "Gentle rain",
+    "origin": "Arabic",
+    "id": "ha145",
+    "verified": true
+  },
+  {
+    "id": "ha11",
+    "name": "Hafeez",
+    "gender": "Boy",
+    "meaning": "Guardian, protector",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha12",
+    "name": "Hafiz",
+    "gender": "Boy",
+    "meaning": "Protector; One who memorized Quran",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha77",
+    "name": "Hafizah",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha13",
+    "name": "Hafsa",
+    "gender": "Girl",
+    "meaning": "Cub (Young lioness); Wife of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha78",
+    "name": "Hafsah",
+    "gender": "Girl",
+    "meaning": "Wife of the Prophet (SAW)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Haidar",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "ha108",
+    "verified": true
+  },
+  {
+    "id": "ha14",
+    "name": "Haider",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Haif",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "ha120",
+    "verified": true
+  },
+  {
+    "id": "ha79",
+    "name": "Haifa",
+    "gender": "Girl",
+    "meaning": "Slender, of beautiful body",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hail",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "ha126",
+    "verified": true
+  },
+  {
+    "name": "Haim",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "id": "ha146",
+    "verified": true
+  },
+  {
+    "id": "ha16",
+    "name": "Haimi",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Sanskrit/Arabic usage",
+    "verified": false
+  },
+  {
+    "name": "Hajaj",
+    "gender": "Boy",
+    "meaning": "Pilgrim",
+    "origin": "Arabic",
+    "id": "ha147",
+    "verified": true
+  },
+  {
+    "id": "ha80",
+    "name": "Hajar",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Ibrahim (AS)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Haji",
+    "gender": "Boy",
+    "meaning": "Pilgrim",
+    "origin": "Arabic",
+    "id": "ha121",
+    "verified": true
+  },
+  {
+    "name": "Hajira",
+    "gender": "Girl",
+    "meaning": "Wife of Ibrahim",
+    "origin": "Arabic",
+    "id": "ha135",
+    "verified": true
+  },
+  {
+    "id": "ha18",
+    "name": "Hajjaj",
+    "gender": "Boy",
+    "meaning": "Pilgrim; One who argues",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha19",
+    "name": "Hakam",
+    "gender": "Boy",
+    "meaning": "Arbitrator, judge",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hakan",
+    "gender": "Boy",
+    "meaning": "Ruler, Emperor",
+    "origin": "Turkish",
+    "id": "ha111",
+    "verified": true
+  },
+  {
+    "id": "ha20",
+    "name": "Hakeem",
+    "gender": "Boy",
+    "meaning": "Wise, doctor",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hakim",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Arabic",
+    "id": "ha148",
+    "verified": true
+  },
+  {
+    "id": "ha21",
+    "name": "Hala",
+    "gender": "Girl",
+    "meaning": "Halo around the moon",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Halab",
+    "gender": "Boy",
+    "meaning": "Aleppo (City in Syria)",
+    "origin": "Arabic",
+    "id": "ha101",
+    "verified": true
+  },
+  {
+    "id": "ha81",
+    "name": "Halah",
+    "gender": "Girl",
+    "meaning": "Aureole",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Haleema",
+    "gender": "Girl",
+    "meaning": "Gentle; Patient",
+    "origin": "Arabic",
+    "id": "ha136",
+    "verified": true
+  },
+  {
+    "id": "ha22",
+    "name": "Halim",
+    "gender": "Boy",
+    "meaning": "Gentle, patient",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha23",
+    "name": "Halima",
+    "gender": "Girl",
+    "meaning": "Gentle, patient; Prophet's wet nurse",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha82",
+    "name": "Halimah",
+    "gender": "Girl",
+    "meaning": "Gentle, patient, mild-tempered",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hama",
+    "gender": "Girl",
+    "meaning": "City of Waterwheels (Syria)",
+    "origin": "Arabic",
+    "id": "ha127",
+    "verified": true
+  },
+  {
+    "id": "ha24",
+    "name": "Hamad",
+    "gender": "Boy",
+    "meaning": "Praised, commendable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hamadan",
+    "gender": "Boy",
+    "meaning": "Ancient city in Iran",
+    "origin": "Persian",
+    "id": "ha128",
+    "verified": true
+  },
+  {
+    "name": "Hamal",
+    "gender": "Boy",
+    "meaning": "Lamb",
+    "origin": "Arabic",
+    "id": "ha149",
+    "verified": true
+  },
+  {
+    "name": "Hamama",
+    "gender": "Girl",
+    "meaning": "Dove",
+    "origin": "Arabic",
+    "id": "ha102",
+    "verified": true
+  },
+  {
+    "id": "ha83",
+    "name": "Hamamah",
+    "gender": "Girl",
+    "meaning": "One of the narrators of Hadith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hamas",
+    "gender": "Boy",
+    "meaning": "Enthusiasm",
+    "origin": "Arabic",
+    "id": "ha150",
+    "verified": true
+  },
+  {
+    "name": "Hamayun",
+    "gender": "Boy",
+    "meaning": "Blessed, royal",
+    "origin": "Persian",
+    "id": "ha112",
+    "verified": true
+  },
+  {
+    "name": "Hamd",
+    "gender": "Boy",
+    "meaning": "Praise",
+    "origin": "Arabic",
+    "id": "ha151",
+    "verified": true
+  },
+  {
+    "id": "ha25",
+    "name": "Hamdan",
+    "gender": "Boy",
+    "meaning": "The praised one",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha26",
+    "name": "Hamdi",
+    "gender": "Boy",
+    "meaning": "Of praise",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha84",
+    "name": "Hamdiyah",
+    "gender": "Girl",
+    "meaning": "One who praises a lot",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hameed",
+    "gender": "Boy",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha113",
+    "verified": true
+  },
+  {
+    "id": "ha85",
+    "name": "Hameeda",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha28",
+    "name": "Hamid",
+    "gender": "Boy",
+    "meaning": "Praising (God), praiseworthy",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hamida",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha137",
+    "verified": true
+  },
+  {
+    "id": "ha86",
+    "name": "Hamidah",
+    "gender": "Girl",
+    "meaning": "Praising Allah, appreciative",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha29",
+    "name": "Hammad",
+    "gender": "Boy",
+    "meaning": "One who praises much",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hamna",
+    "gender": "Girl",
+    "meaning": "Blessed sparrow",
+    "origin": "Arabic",
+    "id": "ha138",
+    "verified": true
+  },
+  {
+    "id": "ha30",
+    "name": "Hamnah",
+    "gender": "Girl",
+    "meaning": "A grape; Name of a Sahabiyyah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha31",
+    "name": "Hamra",
+    "gender": "Girl",
+    "meaning": "Red",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha32",
+    "name": "Hamza",
+    "gender": "Boy",
+    "meaning": "Lion; Strong; Uncle of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha87",
+    "name": "Hana",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha88",
+    "name": "Hanan",
+    "gender": "Girl",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hande",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Turkish",
+    "id": "ha114",
+    "verified": true
+  },
+  {
+    "id": "ha35",
+    "name": "Haneef",
+    "gender": "Boy",
+    "meaning": "True believer, monotheist",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha89",
+    "name": "Haneefah",
+    "gender": "Girl",
+    "meaning": "True believer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha36",
+    "name": "Hani",
+    "gender": "Boy",
+    "meaning": "Happy, delighted",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha37",
+    "name": "Hania",
+    "gender": "Girl",
+    "meaning": "Happy, pleasant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hanif",
+    "gender": "Boy",
+    "meaning": "True believer",
+    "origin": "Quranic",
+    "id": "ha109",
+    "verified": true
+  },
+  {
+    "id": "ha38",
+    "name": "Hanifa",
+    "gender": "Girl",
+    "meaning": "True believer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha39",
+    "name": "Hanin",
+    "gender": "Girl",
+    "meaning": "Longing, yearning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha40",
+    "name": "Haniya",
+    "gender": "Girl",
+    "meaning": "Pleasant, happy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha90",
+    "name": "Haniyyah",
+    "gender": "Girl",
+    "meaning": "Pleased, happy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha41",
+    "name": "Hanna",
+    "gender": "Girl",
+    "meaning": "Compassion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hannan",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ha139",
+    "verified": true
+  },
+  {
+    "id": "ha42",
+    "name": "Hanzala",
+    "gender": "Boy",
+    "meaning": "Pond; Name of a Sahabi",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha43",
+    "name": "Haq",
+    "gender": "Boy",
+    "meaning": "Truth",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Haq-Nawaz",
+    "gender": "Boy",
+    "meaning": "Cherisher of Truth",
+    "origin": "Persian/Arabic",
+    "id": "ha122",
+    "verified": true
+  },
+  {
+    "name": "Haqq",
+    "gender": "Boy",
+    "meaning": "Truth",
+    "origin": "Arabic",
+    "id": "ha152",
+    "verified": true
+  },
+  {
+    "name": "Haram",
+    "gender": "Boy",
+    "meaning": "Sanctuary (Masjid al-Haram)",
+    "origin": "Arabic",
+    "id": "ha103",
+    "verified": true
+  },
+  {
+    "name": "Harar",
+    "gender": "Boy",
+    "meaning": "Holy city in Ethiopia",
+    "origin": "African/Arabic",
+    "id": "ha129",
+    "verified": true
+  },
+  {
+    "name": "Harb",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Arabic",
+    "id": "ha123",
+    "verified": true
+  },
+  {
+    "name": "Hareem",
+    "gender": "Girl",
+    "meaning": "Sanctuary",
+    "origin": "Arabic",
+    "id": "ha140",
+    "verified": true
+  },
+  {
+    "name": "Hareer",
+    "gender": "Girl",
+    "meaning": "Silk",
+    "origin": "Arabic",
+    "id": "ha104",
+    "verified": true
+  },
+  {
+    "id": "ha44",
+    "name": "Haris",
+    "gender": "Boy",
+    "meaning": "Guardian, cultivator",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha45",
+    "name": "Harith",
+    "gender": "Boy",
+    "meaning": "Cultivator, plowman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha46",
+    "name": "Haroon",
+    "gender": "Boy",
+    "meaning": "Prophet Aaron",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Harran",
+    "gender": "Boy",
+    "meaning": "Ancient city in Turkey",
+    "origin": "Arabic",
+    "id": "ha130",
+    "verified": true
+  },
+  {
+    "id": "ha47",
+    "name": "Harun",
+    "gender": "Boy",
+    "meaning": "Prophet Aaron",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha48",
+    "name": "Hasan",
+    "gender": "Boy",
+    "meaning": "Handsome, good; Grandson of Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha49",
+    "name": "Hasanat",
+    "gender": "Unisex",
+    "meaning": "Good deeds",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hasba",
+    "gender": "Girl",
+    "meaning": "Pebbles",
+    "origin": "Arabic",
+    "id": "ha105",
+    "verified": true
+  },
+  {
+    "name": "Haseeb",
+    "gender": "Boy",
+    "meaning": "Noble, respected",
+    "origin": "Arabic",
+    "id": "ha115",
+    "verified": true
+  },
+  {
+    "name": "Haseeb-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Noble of the Faith",
+    "origin": "Arabic",
+    "id": "ha124",
+    "verified": true
+  },
+  {
+    "id": "ha50",
+    "name": "Hashem",
+    "gender": "Boy",
+    "meaning": "Breaker (of bread); Generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha51",
+    "name": "Hashim",
+    "gender": "Boy",
+    "meaning": "Crusher (of evil); Great grandfather of Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hashir",
+    "gender": "Boy",
+    "meaning": "Assembler",
+    "origin": "Arabic",
+    "id": "ha153",
+    "verified": true
+  },
+  {
+    "name": "Hashmat",
+    "gender": "Boy",
+    "meaning": "Dignity, glory",
+    "origin": "Urdu",
+    "id": "ha116",
+    "verified": true
+  },
+  {
+    "id": "ha52",
+    "name": "Hasib",
+    "gender": "Boy",
+    "meaning": "Noble, respected, calculator",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ha53",
+    "name": "Hasin",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha54",
+    "name": "Hasina",
+    "gender": "Girl",
+    "meaning": "Beautiful, pretty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha91",
+    "name": "Hasinah",
+    "gender": "Girl",
+    "meaning": "Pretty, beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha55",
+    "name": "Hasna",
+    "gender": "Girl",
+    "meaning": "Beautiful woman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hasnain",
+    "gender": "Boy",
+    "meaning": "The two beauties (Hasan & Husain)",
+    "origin": "Arabic",
+    "id": "ha117",
+    "verified": true
+  },
+  {
+    "id": "ha56",
+    "name": "Hassan",
+    "gender": "Boy",
+    "meaning": "Very handsome, good",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hatay",
+    "gender": "Boy",
+    "meaning": "Province in Turkey",
+    "origin": "Turkish",
+    "id": "ha131",
+    "verified": true
+  },
+  {
+    "id": "ha57",
+    "name": "Hatem",
+    "gender": "Boy",
+    "meaning": "Decisive, judge",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha58",
+    "name": "Hatib",
+    "gender": "Boy",
+    "meaning": "Wood collector; A Sahabi",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha59",
+    "name": "Hatim",
+    "gender": "Boy",
+    "meaning": "Judge, inevitable",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Haur",
+    "gender": "Girl",
+    "meaning": "Poplar tree",
+    "origin": "Arabic",
+    "id": "ha106",
+    "verified": true
+  },
+  {
+    "id": "ha92",
+    "name": "Havva",
+    "gender": "Girl",
+    "meaning": "Eve",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha60",
+    "name": "Hawa",
+    "gender": "Girl",
+    "meaning": "Eve; Life, desire",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Hawar",
+    "gender": "Boy",
+    "meaning": "Islands in Bahrain",
+    "origin": "Arabic",
+    "id": "ha132",
+    "verified": true
+  },
+  {
+    "id": "ha61",
+    "name": "Hawra",
+    "gender": "Girl",
+    "meaning": "Woman with bright eyes (Hoor)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha93",
+    "name": "Hawwa",
+    "gender": "Girl",
+    "meaning": "Eve",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha63",
+    "name": "Haya",
+    "gender": "Girl",
+    "meaning": "Modesty, shyness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha94",
+    "name": "Hayah",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha95",
+    "name": "Hayam",
+    "gender": "Girl",
+    "meaning": "Deliriously in love",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha96",
+    "name": "Hayat",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha66",
+    "name": "Haydar",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha67",
+    "name": "Haytham",
+    "gender": "Boy",
+    "meaning": "Young eagle",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hazal",
+    "gender": "Girl",
+    "meaning": "Autumn leaves",
+    "origin": "Turkish",
+    "id": "ha118",
+    "verified": true
+  },
+  {
+    "name": "Hazan",
+    "gender": "Girl",
+    "meaning": "Autumn",
+    "origin": "Turkish",
+    "id": "ha107",
+    "verified": true
+  },
+  {
+    "id": "ha68",
+    "name": "Hazem",
+    "gender": "Boy",
+    "meaning": "Firm, resolute",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha69",
+    "name": "Hazim",
+    "gender": "Boy",
+    "meaning": "Determined, firm",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha70",
+    "name": "Hazina",
+    "gender": "Girl",
+    "meaning": "Autumn, treasure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha97",
+    "name": "Haziq",
+    "gender": "Boy",
+    "meaning": "Intelligent, skillful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha98",
+    "name": "Haziqah",
+    "gender": "Girl",
+    "meaning": "Clever, intelligent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha99",
+    "name": "Hazirah",
+    "gender": "Girl",
+    "meaning": "Clean",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ha100",
+    "name": "Hazzah",
+    "gender": "Girl",
+    "meaning": "Lucky",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "he1",
+    "name": "Heba",
+    "gender": "Girl",
+    "meaning": "Gift (Variant of Hiba)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hebron",
+    "gender": "Boy",
+    "meaning": "Al-Khalil (City of Abraham)",
+    "origin": "Arabic",
+    "id": "he12",
+    "verified": true
+  },
+  {
+    "name": "Hejaz",
+    "gender": "Boy",
+    "meaning": "Region of Mecca/Medina",
+    "origin": "Arabic",
+    "id": "he11",
+    "verified": true
+  },
+  {
+    "id": "he2",
+    "name": "Hela",
+    "gender": "Girl",
+    "meaning": "Moonlight, halo (Variant of Hala)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "he3",
+    "name": "Helal",
+    "gender": "Boy",
+    "meaning": "Crescent moon (Variant of Hilal)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "he4",
+    "name": "Helena",
+    "gender": "Girl",
+    "meaning": "Spiritual light",
+    "origin": "Greek/Muslim usage",
+    "verified": false
+  },
+  {
+    "id": "he5",
+    "name": "Hemani",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Persian/Urdu",
+    "verified": true
+  },
+  {
+    "id": "he6",
+    "name": "Hena",
+    "gender": "Girl",
+    "meaning": "Henna (Variant of Hina)",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "he7",
+    "name": "Henna",
+    "gender": "Girl",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Herat",
+    "gender": "Boy",
+    "meaning": "Pearl of Khorasan (Afghanistan)",
+    "origin": "Persian",
+    "id": "he13",
+    "verified": true
+  },
+  {
+    "name": "Hermon",
+    "gender": "Boy",
+    "meaning": "Mount Sheikh (Syria/Lebanon)",
+    "origin": "Arabic",
+    "id": "he14",
+    "verified": true
+  },
+  {
+    "id": "he8",
+    "name": "Hesham",
+    "gender": "Boy",
+    "meaning": "Generosity (Variant of Hisham)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "he9",
+    "name": "Hessa",
+    "gender": "Girl",
+    "meaning": "Destiny (Variant of Hissa)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "he10",
+    "name": "Heyam",
+    "gender": "Girl",
+    "meaning": "One of the many levels or degrees of love",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi1",
+    "name": "Hiba",
+    "gender": "Girl",
+    "meaning": "Gift, donation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hibah",
+    "gender": "Girl",
+    "meaning": "Gift from God",
+    "origin": "Arabic",
+    "id": "hi16",
+    "verified": true
+  },
+  {
+    "id": "hi2",
+    "name": "Hibatullah",
+    "gender": "Unisex",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi3",
+    "name": "Hidayah",
+    "gender": "Girl",
+    "meaning": "Guidance",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hi4",
+    "name": "Hidayat",
+    "gender": "Boy",
+    "meaning": "Instruction, guidance",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hi5",
+    "name": "Hifza",
+    "gender": "Girl",
+    "meaning": "Protective angel",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi6",
+    "name": "Hijab",
+    "gender": "Girl",
+    "meaning": "Veil, protection",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hi7",
+    "name": "Hikmah",
+    "gender": "Unisex",
+    "meaning": "Wisdom",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hi8",
+    "name": "Hikmat",
+    "gender": "Unisex",
+    "meaning": "Wisdom",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi9",
+    "name": "Hilal",
+    "gender": "Boy",
+    "meaning": "Crescent moon",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hilla",
+    "gender": "Girl",
+    "meaning": "City in Iraq",
+    "origin": "Arabic",
+    "id": "hi19",
+    "verified": true
+  },
+  {
+    "name": "Himal",
+    "gender": "Boy",
+    "meaning": "Mountain (Himalaya)",
+    "origin": "Sanskrit/Urdu",
+    "id": "hi20",
+    "verified": true
+  },
+  {
+    "name": "Himayat",
+    "gender": "Boy",
+    "meaning": "Protection, support",
+    "origin": "Arabic",
+    "id": "hi17",
+    "verified": true
+  },
+  {
+    "id": "hi10",
+    "name": "Hina",
+    "gender": "Girl",
+    "meaning": "Henna, myrtle",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "hi11",
+    "name": "Hind",
+    "gender": "Girl",
+    "meaning": "India; Name of a Sahabiyyah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi12",
+    "name": "Hira",
+    "gender": "Girl",
+    "meaning": "Cave where revelation began",
+    "origin": "Islamic History",
+    "verified": true
+  },
+  {
+    "id": "hi13",
+    "name": "Hirah",
+    "gender": "Girl",
+    "meaning": "Wealthy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hisam",
+    "gender": "Boy",
+    "meaning": "Sharp Sword",
+    "origin": "Arabic",
+    "id": "hi18",
+    "verified": true
+  },
+  {
+    "id": "hi14",
+    "name": "Hisham",
+    "gender": "Boy",
+    "meaning": "Generosity, benevolence",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hi15",
+    "name": "Hiyam",
+    "gender": "Girl",
+    "meaning": "Love",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ho1",
+    "name": "Hoda",
+    "gender": "Girl",
+    "meaning": "Guidance (Variant of Huda)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Homayoun",
+    "gender": "Boy",
+    "meaning": "Blessed; Royal",
+    "origin": "Persian",
+    "id": "ho6",
+    "verified": true
+  },
+  {
+    "name": "Homs",
+    "gender": "Boy",
+    "meaning": "City of Ibn Walid (Syria)",
+    "origin": "Arabic",
+    "id": "ho8",
+    "verified": true
+  },
+  {
+    "name": "Hooman",
+    "gender": "Boy",
+    "meaning": "Good natured; Benevolent",
+    "origin": "Persian",
+    "id": "ho7",
+    "verified": true
+  },
+  {
+    "id": "ho2",
+    "name": "Hoor",
+    "gender": "Girl",
+    "meaning": "Virgin of Paradise, nymph",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "ho3",
+    "name": "Hooriya",
+    "gender": "Girl",
+    "meaning": "Angel, nymph",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hormuz",
+    "gender": "Boy",
+    "meaning": "Strait/Island in Gulf",
+    "origin": "Persian",
+    "id": "ho9",
+    "verified": true
+  },
+  {
+    "id": "ho4",
+    "name": "Hossam",
+    "gender": "Boy",
+    "meaning": "Sword (Variant of Hussam)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ho5",
+    "name": "Hotaka",
+    "gender": "Boy",
+    "meaning": "One of the tribes",
+    "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "id": "hu1",
+    "name": "Hubab",
+    "gender": "Boy",
+    "meaning": "Aim, friendship",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hud",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "hu31",
+    "verified": true
+  },
+  {
+    "id": "hu2",
+    "name": "Huda",
+    "gender": "Girl",
+    "meaning": "Right guidance",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hu3",
+    "name": "Hudhayfah",
+    "gender": "Boy",
+    "meaning": "Short-statured; A famous Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hudhud",
+    "gender": "Boy",
+    "meaning": "Hoopoe bird (Prophet Solomon's bird)",
+    "origin": "Quranic",
+    "id": "hu24",
+    "verified": true
+  },
+  {
+    "id": "hu4",
+    "name": "Hujaymah",
+    "gender": "Girl",
+    "meaning": "Attack; Name of a Sahabiyyah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hujjat",
+    "gender": "Boy",
+    "meaning": "Proof",
+    "origin": "Arabic",
+    "id": "hu32",
+    "verified": true
+  },
+  {
+    "id": "hu5",
+    "name": "Huma",
+    "gender": "Girl",
+    "meaning": "Bird that brings good luck",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "hu6",
+    "name": "Humair",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu7",
+    "name": "Humaira",
+    "gender": "Girl",
+    "meaning": "Reddish (Nickname of Aisha)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu8",
+    "name": "Humam",
+    "gender": "Boy",
+    "meaning": "Courageous, generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu9",
+    "name": "Humayl",
+    "gender": "Boy",
+    "meaning": "A companion of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu10",
+    "name": "Humayrah",
+    "gender": "Girl",
+    "meaning": "Of red color",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu11",
+    "name": "Humayun",
+    "gender": "Boy",
+    "meaning": "Blessed, sacred, royal",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "hu12",
+    "name": "Humza",
+    "gender": "Boy",
+    "meaning": "Lion (Variant of Hamza)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hunayn",
+    "gender": "Boy",
+    "meaning": "Valley near Mecca; Battle site",
+    "origin": "Quranic",
+    "id": "hu25",
+    "verified": true
+  },
+  {
+    "name": "Hunza",
+    "gender": "Girl",
+    "meaning": "Valley in Pakistan",
+    "origin": "Urdu",
+    "id": "hu30",
+    "verified": true
+  },
+  {
+    "name": "Hur",
+    "gender": "Girl",
+    "meaning": "Virgins of Paradise",
+    "origin": "Quranic",
+    "id": "hu26",
+    "verified": true
+  },
+  {
+    "id": "hu13",
+    "name": "Hurairah",
+    "gender": "Boy",
+    "meaning": "Kitten (Abu Hurairah)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu14",
+    "name": "Huriya",
+    "gender": "Girl",
+    "meaning": "Angel",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu15",
+    "name": "Hurrem",
+    "gender": "Girl",
+    "meaning": "Cheery, happy",
+    "origin": "Persian/Turkish",
+    "verified": true
+  },
+  {
+    "id": "hu16",
+    "name": "Husain",
+    "gender": "Boy",
+    "meaning": "Little beauty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Husam",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "hu28",
+    "verified": true
+  },
+  {
+    "name": "Husam-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Sword of the Faith",
+    "origin": "Arabic",
+    "id": "hu29",
+    "verified": true
+  },
+  {
+    "name": "Husn",
+    "gender": "Unisex",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "hu27",
+    "verified": true
+  },
+  {
+    "id": "hu17",
+    "name": "Husna",
+    "gender": "Girl",
+    "meaning": "Most beautiful, excellence",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "hu18",
+    "name": "Husni",
+    "gender": "Boy",
+    "meaning": "Good, handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu19",
+    "name": "Husniya",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu20",
+    "name": "Hussain",
+    "gender": "Boy",
+    "meaning": "Beautiful, handsome; Grandson of Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu21",
+    "name": "Hussam",
+    "gender": "Boy",
+    "meaning": "Sharp sword",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu22",
+    "name": "Hussein",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hu23",
+    "name": "Huzaifa",
+    "gender": "Boy",
+    "meaning": "Prophet's Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hy1",
+    "name": "Hyam",
+    "gender": "Girl",
+    "meaning": "Love (Variant of Hiyam)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "hy2",
+    "name": "Hyder",
+    "gender": "Boy",
+    "meaning": "Lion (Variant of Haider)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Hyderabad",
+    "gender": "Boy",
+    "meaning": "Lion City (India/Pakistan)",
+    "origin": "Urdu",
+    "id": "hy3",
+    "verified": true
+  }
+]

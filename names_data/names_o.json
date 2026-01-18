@@ -1,0 +1,330 @@
+[
+  {
+    "id": "ob1",
+    "name": "Obaid",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ob2",
+    "name": "Obaidullah",
+    "gender": "Boy",
+    "meaning": "Little servant of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "od1",
+    "name": "Odai",
+    "gender": "Boy",
+    "meaning": "Sunrise, rising",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "od2",
+    "name": "Odell",
+    "gender": "Boy",
+    "meaning": "Wealthy",
+    "origin": "Arabic",
+    "verified": false
+  },
+  {
+    "id": "og1",
+    "name": "Oguz",
+    "gender": "Boy",
+    "meaning": "Strong, pure",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "og2",
+    "name": "Oguzhan",
+    "gender": "Boy",
+    "meaning": "Strong ruler",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Okan",
+    "gender": "Boy",
+    "meaning": "Archer",
+    "origin": "Turkish",
+    "id": "ok3",
+    "verified": true
+  },
+  {
+    "id": "ok1",
+    "name": "Okasha",
+    "gender": "Boy",
+    "meaning": "Spider; Name of a famous Companion (Ukasha)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ok2",
+    "name": "Oktay",
+    "gender": "Boy",
+    "meaning": "Strong as a bow",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Olcay",
+    "gender": "Unisex",
+    "meaning": "Luck, fortune",
+    "origin": "Turkish",
+    "id": "ol3",
+    "verified": true
+  },
+  {
+    "id": "ol1",
+    "name": "Olfat",
+    "gender": "Unisex",
+    "meaning": "Affection, familiarity (Variant of Ulfat)",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "id": "ol2",
+    "name": "Olya",
+    "gender": "Girl",
+    "meaning": "High, tall",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "om1",
+    "name": "Oma",
+    "gender": "Girl",
+    "meaning": "Leader, life giver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "om2",
+    "name": "Omair",
+    "gender": "Boy",
+    "meaning": "Long lived, populating",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "om8",
+    "name": "Omama",
+    "gender": "Girl",
+    "meaning": "Granddaughter of the Prophet (Umamah)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Oman",
+    "gender": "Boy",
+    "meaning": "Settled; Country",
+    "origin": "Arabic",
+    "id": "om9",
+    "verified": true
+  },
+  {
+    "id": "om3",
+    "name": "Omar",
+    "gender": "Boy",
+    "meaning": "Life, long-lived; Second Caliph",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "om4",
+    "name": "Omari",
+    "gender": "Boy",
+    "meaning": "Populous, flourishing",
+    "origin": "Swahili/Arabic",
+    "verified": true
+  },
+  {
+    "name": "Omayma",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "id": "om10",
+    "verified": true
+  },
+  {
+    "id": "om7",
+    "name": "Omeir",
+    "gender": "Boy",
+    "meaning": "Long lived",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "om5",
+    "name": "Omid",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "om6",
+    "name": "Omran",
+    "gender": "Boy",
+    "meaning": "Prosperity, structure (Variant of Imran)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "on1",
+    "name": "Onur",
+    "gender": "Boy",
+    "meaning": "Honor, dignity",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Oran",
+    "gender": "Boy",
+    "meaning": "Wahran (Algeria)",
+    "origin": "Arabic/Berber",
+    "id": "or4",
+    "verified": true
+  },
+  {
+    "name": "Orayb",
+    "gender": "Boy",
+    "meaning": "Keen, sharp",
+    "origin": "Arabic",
+    "id": "or3",
+    "verified": true
+  },
+  {
+    "id": "or1",
+    "name": "Orhan",
+    "gender": "Boy",
+    "meaning": "Great leader",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "or2",
+    "name": "Orzala",
+    "gender": "Girl",
+    "meaning": "Firefly",
+    "origin": "Pashto",
+    "verified": true
+  },
+  {
+    "id": "os1",
+    "name": "Osama",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "os3",
+    "name": "Osman",
+    "gender": "Boy",
+    "meaning": "Founder of Ottoman Empire",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "ot1",
+    "name": "Othman",
+    "gender": "Boy",
+    "meaning": "Third Caliph (Variant of Uthman)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ou1",
+    "name": "Ouais",
+    "gender": "Boy",
+    "meaning": "Wolf (Variant of Owais)",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true
+  },
+  {
+    "id": "ou2",
+    "name": "Oum",
+    "gender": "Girl",
+    "meaning": "Mother (Umm)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ou3",
+    "name": "Ousama",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ow2",
+    "name": "Owaib",
+    "gender": "Boy",
+    "meaning": "Repentant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ow1",
+    "name": "Owais",
+    "gender": "Boy",
+    "meaning": "Little wolf; A famous Sufi",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Oxus",
+    "gender": "Boy",
+    "meaning": "Amu Darya River",
+    "origin": "Persian",
+    "id": "ox1",
+    "verified": true
+  },
+  {
+    "id": "oz1",
+    "name": "Ozair",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra (Uzair)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Ozan",
+    "gender": "Boy",
+    "meaning": "Bard, poet",
+    "origin": "Turkish",
+    "id": "oz5",
+    "verified": true
+  },
+  {
+    "id": "oz2",
+    "name": "Ozge",
+    "gender": "Girl",
+    "meaning": "Unique, different",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "oz3",
+    "name": "Ozgur",
+    "gender": "Unisex",
+    "meaning": "Free, independent",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "oz4",
+    "name": "Ozlem",
+    "gender": "Girl",
+    "meaning": "Yearning, missing",
+    "origin": "Turkish",
+    "verified": true
+  }
+]

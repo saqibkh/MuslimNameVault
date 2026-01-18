@@ -1,0 +1,2890 @@
+[
+  {
+    "id": "sa5",
+    "name": "S.Bbir",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa1",
+    "name": "Saad",
+    "gender": "Boy",
+    "meaning": "Felicity, good fortune",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saadat",
+    "gender": "Boy",
+    "meaning": "Blessing, honor",
+    "origin": "Arabic",
+    "id": "sa112",
+    "verified": true
+  },
+  {
+    "id": "sa2",
+    "name": "Saadia",
+    "gender": "Girl",
+    "meaning": "Lucky, blessed",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saadiya",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Arabic",
+    "id": "sa144",
+    "verified": true
+  },
+  {
+    "name": "Saaqib",
+    "gender": "Boy",
+    "meaning": "Piercing star",
+    "origin": "Quranic",
+    "id": "sa124",
+    "verified": true
+  },
+  {
+    "name": "Saba",
+    "gender": "Girl",
+    "meaning": "Sheba (Kingdom); East wind",
+    "origin": "Quranic",
+    "id": "sa97",
+    "verified": true
+  },
+  {
+    "id": "sa11",
+    "name": "Sabah",
+    "gender": "Girl",
+    "meaning": "Morning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sabah-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Morning of the Faith",
+    "origin": "Arabic",
+    "id": "sa125",
+    "verified": true
+  },
+  {
+    "id": "sa4",
+    "name": "Sabahat",
+    "gender": "Girl",
+    "meaning": "Beauty, grace",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sabawat",
+    "gender": "Boy",
+    "meaning": "Dawn",
+    "origin": "Pashto",
+    "id": "sa113",
+    "verified": true
+  },
+  {
+    "id": "sa6",
+    "name": "Sabeeh",
+    "gender": "Boy",
+    "meaning": "Beautiful, morning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sabeeha",
+    "gender": "Girl",
+    "meaning": "Beautiful, morning",
+    "origin": "Arabic",
+    "id": "sa114",
+    "verified": true
+  },
+  {
+    "id": "sa7",
+    "name": "Sabeen",
+    "gender": "Girl",
+    "meaning": "Follower of another religion (Sabian); Cool breeze",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa8",
+    "name": "Sabiha",
+    "gender": "Girl",
+    "meaning": "Beautiful, morning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa9",
+    "name": "Sabir",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa10",
+    "name": "Sabira",
+    "gender": "Girl",
+    "meaning": "Patient",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Saboor",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Arabic",
+    "id": "sa115",
+    "verified": true
+  },
+  {
+    "name": "Sabrata",
+    "gender": "Girl",
+    "meaning": "Ancient city in Libya",
+    "origin": "Arabic",
+    "id": "sa135",
+    "verified": true
+  },
+  {
+    "id": "sa12",
+    "name": "Sabreen",
+    "gender": "Girl",
+    "meaning": "Patience",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa13",
+    "name": "Sabri",
+    "gender": "Boy",
+    "meaning": "Of patience",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sabrin",
+    "gender": "Girl",
+    "meaning": "Patience",
+    "origin": "Arabic",
+    "id": "sa108",
+    "verified": true
+  },
+  {
+    "id": "sa14",
+    "name": "Sabrina",
+    "gender": "Girl",
+    "meaning": "Patience; White rose",
+    "origin": "Arabic/Urdu",
+    "verified": true
+  },
+  {
+    "name": "Sada",
+    "gender": "Girl",
+    "meaning": "Echo",
+    "origin": "Arabic",
+    "id": "sa98",
+    "verified": true
+  },
+  {
+    "name": "Sadaf",
+    "gender": "Girl",
+    "meaning": "Seashell, pearl",
+    "origin": "Arabic",
+    "id": "sa116",
+    "verified": true
+  },
+  {
+    "name": "Sadaqat",
+    "gender": "Boy",
+    "meaning": "Truthfulness",
+    "origin": "Arabic",
+    "id": "sa126",
+    "verified": true
+  },
+  {
+    "id": "sa15",
+    "name": "Sadia",
+    "gender": "Girl",
+    "meaning": "Lucky, blessed",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa16",
+    "name": "Sadiq",
+    "gender": "Boy",
+    "meaning": "Truthful, honest",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa17",
+    "name": "Sadiqa",
+    "gender": "Girl",
+    "meaning": "Truthful, honest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sadr-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Chest (Center) of the Faith",
+    "origin": "Arabic",
+    "id": "sa127",
+    "verified": true
+  },
+  {
+    "id": "sa18",
+    "name": "Saeed",
+    "gender": "Boy",
+    "meaning": "Happy, lucky",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Saeed-Uz-Zaman",
+    "gender": "Boy",
+    "meaning": "Lucky one of the Era",
+    "origin": "Arabic",
+    "id": "sa128",
+    "verified": true
+  },
+  {
+    "id": "sa19",
+    "name": "Saeeda",
+    "gender": "Girl",
+    "meaning": "Happy, lucky",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa20",
+    "name": "Safa",
+    "gender": "Girl",
+    "meaning": "Purity, clarity; Hill in Mecca",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Safaa",
+    "gender": "Girl",
+    "meaning": "Purity",
+    "origin": "Arabic",
+    "id": "sa145",
+    "verified": true
+  },
+  {
+    "name": "Safad",
+    "gender": "Boy",
+    "meaning": "City in Palestine",
+    "origin": "Arabic",
+    "id": "sa99",
+    "verified": true
+  },
+  {
+    "name": "Safdar",
+    "gender": "Boy",
+    "meaning": "Brave fighter",
+    "origin": "Persian",
+    "id": "sa117",
+    "verified": true
+  },
+  {
+    "id": "sa21",
+    "name": "Saffiyah",
+    "gender": "Girl",
+    "meaning": "Pure; Best friend; Wife of Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa22",
+    "name": "Safi",
+    "gender": "Boy",
+    "meaning": "Pure, clear",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa23",
+    "name": "Safia",
+    "gender": "Girl",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safina",
+    "gender": "Girl",
+    "meaning": "Boat",
+    "origin": "Arabic",
+    "id": "sa146",
+    "verified": true
+  },
+  {
+    "id": "sa24",
+    "name": "Safir",
+    "gender": "Boy",
+    "meaning": "Ambassador, mediator",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safira",
+    "gender": "Girl",
+    "meaning": "Traveler",
+    "origin": "Arabic",
+    "id": "sa147",
+    "verified": true
+  },
+  {
+    "name": "Safiullah",
+    "gender": "Boy",
+    "meaning": "Pure one of God",
+    "origin": "Arabic",
+    "id": "sa118",
+    "verified": true
+  },
+  {
+    "id": "sa25",
+    "name": "Safiya",
+    "gender": "Girl",
+    "meaning": "Pure, serene",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Safiyyah",
+    "gender": "Girl",
+    "meaning": "Best friend",
+    "origin": "Arabic",
+    "id": "sa148",
+    "verified": true
+  },
+  {
+    "id": "sa26",
+    "name": "Safwan",
+    "gender": "Boy",
+    "meaning": "Rock, bright, pure",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa27",
+    "name": "Saghir",
+    "gender": "Boy",
+    "meaning": "Small, young",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa28",
+    "name": "Sahab",
+    "gender": "Unisex",
+    "meaning": "Clouds",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa29",
+    "name": "Sahar",
+    "gender": "Girl",
+    "meaning": "Dawn, early morning",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Sahara",
+    "gender": "Girl",
+    "meaning": "Desert",
+    "origin": "Arabic",
+    "id": "sa100",
+    "verified": true
+  },
+  {
+    "name": "Sahba",
+    "gender": "Girl",
+    "meaning": "Wine; Reddish",
+    "origin": "Arabic/Persian",
+    "id": "sa110",
+    "verified": true
+  },
+  {
+    "name": "Saheer",
+    "gender": "Boy",
+    "meaning": "Wakeful",
+    "origin": "Arabic",
+    "id": "sa149",
+    "verified": true
+  },
+  {
+    "id": "sa30",
+    "name": "Sahib",
+    "gender": "Boy",
+    "meaning": "Companion, friend",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa31",
+    "name": "Sahil",
+    "gender": "Boy",
+    "meaning": "River bank, coast, guide",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa32",
+    "name": "Sahir",
+    "gender": "Boy",
+    "meaning": "Wakeful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa33",
+    "name": "Sahl",
+    "gender": "Boy",
+    "meaning": "Easy, simple",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa34",
+    "name": "Sahla",
+    "gender": "Girl",
+    "meaning": "Easy, soft",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sahra",
+    "gender": "Girl",
+    "meaning": "Desert",
+    "origin": "Turkish/Arabic",
+    "id": "sa101",
+    "verified": true
+  },
+  {
+    "name": "Said",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Arabic",
+    "id": "sa109",
+    "verified": true
+  },
+  {
+    "name": "Saida",
+    "gender": "Girl",
+    "meaning": "Sidon (Lebanon)",
+    "origin": "Arabic",
+    "id": "sa136",
+    "verified": true
+  },
+  {
+    "id": "sa35",
+    "name": "Saif",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saif-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Sword of the Faith",
+    "origin": "Arabic",
+    "id": "sa129",
+    "verified": true
+  },
+  {
+    "id": "sa36",
+    "name": "Saifullah",
+    "gender": "Boy",
+    "meaning": "Sword of Allah",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saim",
+    "gender": "Boy",
+    "meaning": "Fasting",
+    "origin": "Arabic",
+    "id": "sa150",
+    "verified": true
+  },
+  {
+    "id": "sa37",
+    "name": "Saima",
+    "gender": "Girl",
+    "meaning": "Fasting woman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa38",
+    "name": "Saira",
+    "gender": "Girl",
+    "meaning": "Traveller",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa39",
+    "name": "Sajid",
+    "gender": "Boy",
+    "meaning": "One who prostrates",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa40",
+    "name": "Sajida",
+    "gender": "Girl",
+    "meaning": "One who prostrates",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa41",
+    "name": "Sajjad",
+    "gender": "Boy",
+    "meaning": "One who prostrates much",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sakaka",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "sa137",
+    "verified": true
+  },
+  {
+    "id": "sa42",
+    "name": "Sakina",
+    "gender": "Girl",
+    "meaning": "Tranquility, peace",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa43",
+    "name": "Salah",
+    "gender": "Boy",
+    "meaning": "Righteousness",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Salah-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Righteousness of the Faith (Saladin)",
+    "origin": "Arabic",
+    "id": "sa130",
+    "verified": true
+  },
+  {
+    "id": "sa44",
+    "name": "Salahuddin",
+    "gender": "Boy",
+    "meaning": "Righteousness of the Faith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Salalah",
+    "gender": "Girl",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "sa138",
+    "verified": true
+  },
+  {
+    "id": "sa45",
+    "name": "Salam",
+    "gender": "Unisex",
+    "meaning": "Peace",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa46",
+    "name": "Salamah",
+    "gender": "Unisex",
+    "meaning": "Safety",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Salamat",
+    "gender": "Boy",
+    "meaning": "Safety",
+    "origin": "Arabic",
+    "id": "sa119",
+    "verified": true
+  },
+  {
+    "id": "sa47",
+    "name": "Salar",
+    "gender": "Boy",
+    "meaning": "Leader, commander",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sa48",
+    "name": "Saleem",
+    "gender": "Boy",
+    "meaning": "Safe, healthy, sound",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa49",
+    "name": "Saleema",
+    "gender": "Girl",
+    "meaning": "Safe, healthy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa50",
+    "name": "Saleh",
+    "gender": "Boy",
+    "meaning": "Righteous, virtuous",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa51",
+    "name": "Saleha",
+    "gender": "Girl",
+    "meaning": "Righteous, virtuous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa52",
+    "name": "Salih",
+    "gender": "Boy",
+    "meaning": "Virtuous",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa53",
+    "name": "Salik",
+    "gender": "Boy",
+    "meaning": "Traveller (on spiritual path)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa54",
+    "name": "Salim",
+    "gender": "Boy",
+    "meaning": "Safe, sound",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa55",
+    "name": "Salima",
+    "gender": "Girl",
+    "meaning": "Safe, sound",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa56",
+    "name": "Salma",
+    "gender": "Girl",
+    "meaning": "Peaceful, safe",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa57",
+    "name": "Salman",
+    "gender": "Boy",
+    "meaning": "Safe; Famous Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa58",
+    "name": "Salsabil",
+    "gender": "Girl",
+    "meaning": "A spring in Paradise",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Salt",
+    "gender": "Boy",
+    "meaning": "Al-Salt (Jordan)",
+    "origin": "Arabic",
+    "id": "sa139",
+    "verified": true
+  },
+  {
+    "id": "sa59",
+    "name": "Salwa",
+    "gender": "Girl",
+    "meaning": "Solace; Quail (Bird)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Sama",
+    "gender": "Girl",
+    "meaning": "Sky",
+    "origin": "Quranic",
+    "id": "sa102",
+    "verified": true
+  },
+  {
+    "id": "sa60",
+    "name": "Samad",
+    "gender": "Boy",
+    "meaning": "Eternal (Attribute of Allah)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa61",
+    "name": "Samar",
+    "gender": "Unisex",
+    "meaning": "Evening conversation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa62",
+    "name": "Samara",
+    "gender": "Girl",
+    "meaning": "Soft light",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Samarkand",
+    "gender": "Unisex",
+    "meaning": "Stone Fort (Uzbekistan)",
+    "origin": "Persian",
+    "id": "sa140",
+    "verified": true
+  },
+  {
+    "name": "Samarra",
+    "gender": "Girl",
+    "meaning": "Joy of the beholder (Iraq)",
+    "origin": "Arabic",
+    "id": "sa141",
+    "verified": true
+  },
+  {
+    "id": "sa63",
+    "name": "Sameeh",
+    "gender": "Boy",
+    "meaning": "Forgiving",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sameeha",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "sa151",
+    "verified": true
+  },
+  {
+    "name": "Sameen",
+    "gender": "Girl",
+    "meaning": "Precious",
+    "origin": "Arabic",
+    "id": "sa152",
+    "verified": true
+  },
+  {
+    "id": "sa64",
+    "name": "Sameer",
+    "gender": "Boy",
+    "meaning": "Entertaining companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa65",
+    "name": "Sameera",
+    "gender": "Girl",
+    "meaning": "Entertaining companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa66",
+    "name": "Sami",
+    "gender": "Boy",
+    "meaning": "Elevated, sublime",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sami-Ul-Haq",
+    "gender": "Boy",
+    "meaning": "Listener of the Truth",
+    "origin": "Arabic",
+    "id": "sa131",
+    "verified": true
+  },
+  {
+    "id": "sa67",
+    "name": "Samia",
+    "gender": "Girl",
+    "meaning": "Elevated, sublime",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa68",
+    "name": "Samih",
+    "gender": "Boy",
+    "meaning": "Forgiver",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa69",
+    "name": "Samiha",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa70",
+    "name": "Samina",
+    "gender": "Girl",
+    "meaning": "Fat, healthy (Historical)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa71",
+    "name": "Samir",
+    "gender": "Boy",
+    "meaning": "Companion in evening talk",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa72",
+    "name": "Samira",
+    "gender": "Girl",
+    "meaning": "Companion in evening talk",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa73",
+    "name": "Samit",
+    "gender": "Boy",
+    "meaning": "Quiet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Samiullah",
+    "gender": "Boy",
+    "meaning": "One who hears God",
+    "origin": "Arabic",
+    "id": "sa120",
+    "verified": true
+  },
+  {
+    "id": "sa74",
+    "name": "Samiya",
+    "gender": "Girl",
+    "meaning": "Elevated, lofty",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa75",
+    "name": "Samra",
+    "gender": "Girl",
+    "meaning": "Soft, light tanned color",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa76",
+    "name": "Sana",
+    "gender": "Girl",
+    "meaning": "Brilliance, radiance",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sanaa",
+    "gender": "Girl",
+    "meaning": "Capital of Yemen",
+    "origin": "Arabic",
+    "id": "sa103",
+    "verified": true
+  },
+  {
+    "id": "sa77",
+    "name": "Sanad",
+    "gender": "Boy",
+    "meaning": "Support",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa78",
+    "name": "Sanam",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sa79",
+    "name": "Sania",
+    "gender": "Girl",
+    "meaning": "Radiant, brilliant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa80",
+    "name": "Saniya",
+    "gender": "Girl",
+    "meaning": "Radiant",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Saqi",
+    "gender": "Boy",
+    "meaning": "Cupbearer (Poetic)",
+    "origin": "Arabic/Urdu",
+    "id": "sa111",
+    "verified": true
+  },
+  {
+    "id": "sa81",
+    "name": "Saqib",
+    "gender": "Boy",
+    "meaning": "Piercing, sharp (star)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sa82",
+    "name": "Sara",
+    "gender": "Girl",
+    "meaning": "Princess; Wife of Ibrahim",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sarab",
+    "gender": "Girl",
+    "meaning": "Mirage",
+    "origin": "Quranic",
+    "id": "sa104",
+    "verified": true
+  },
+  {
+    "id": "sa83",
+    "name": "Sarah",
+    "gender": "Girl",
+    "meaning": "Princess; Joy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sarajevo",
+    "gender": "Boy",
+    "meaning": "Field of the Palace",
+    "origin": "Turkish/Slavic",
+    "id": "sa142",
+    "verified": true
+  },
+  {
+    "name": "Sarem",
+    "gender": "Boy",
+    "meaning": "Brave; Sharp Sword",
+    "origin": "Arabic",
+    "id": "sa132",
+    "verified": true
+  },
+  {
+    "name": "Sarfaraz",
+    "gender": "Boy",
+    "meaning": "Respected, head held high",
+    "origin": "Persian",
+    "id": "sa133",
+    "verified": true
+  },
+  {
+    "id": "sa84",
+    "name": "Sari",
+    "gender": "Boy",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa85",
+    "name": "Saria",
+    "gender": "Girl",
+    "meaning": "Night clouds",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa86",
+    "name": "Sarim",
+    "gender": "Boy",
+    "meaning": "Brave, sharp sword",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa87",
+    "name": "Sariya",
+    "gender": "Girl",
+    "meaning": "Night traveler",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa88",
+    "name": "Sarmad",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sarp",
+    "gender": "Boy",
+    "meaning": "Steep, strong",
+    "origin": "Turkish",
+    "id": "sa121",
+    "verified": true
+  },
+  {
+    "name": "Sartaj",
+    "gender": "Boy",
+    "meaning": "Crown head; Chief",
+    "origin": "Urdu",
+    "id": "sa134",
+    "verified": true
+  },
+  {
+    "id": "sa89",
+    "name": "Sarwar",
+    "gender": "Boy",
+    "meaning": "Chief, leader",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sarwat",
+    "gender": "Unisex",
+    "meaning": "Wealth; Cypress tree",
+    "origin": "Arabic",
+    "id": "sa105",
+    "verified": true
+  },
+  {
+    "id": "sa90",
+    "name": "Sati",
+    "gender": "Boy",
+    "meaning": "Shining",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sattar",
+    "gender": "Boy",
+    "meaning": "Veiler of sins",
+    "origin": "Arabic",
+    "id": "sa122",
+    "verified": true
+  },
+  {
+    "id": "sa91",
+    "name": "Saud",
+    "gender": "Boy",
+    "meaning": "Fortunate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa92",
+    "name": "Sawda",
+    "gender": "Girl",
+    "meaning": "Black; Wife of the Prophet",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sawera",
+    "gender": "Girl",
+    "meaning": "Morning",
+    "origin": "Urdu",
+    "id": "sa123",
+    "verified": true
+  },
+  {
+    "id": "sa93",
+    "name": "Sawira",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa94",
+    "name": "Sayf",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sayhan",
+    "gender": "Boy",
+    "meaning": "River in Paradise",
+    "origin": "Islamic Tradition",
+    "id": "sa106",
+    "verified": true
+  },
+  {
+    "name": "Sayl",
+    "gender": "Boy",
+    "meaning": "Stream, torrent",
+    "origin": "Quranic",
+    "id": "sa107",
+    "verified": true
+  },
+  {
+    "name": "Sayun",
+    "gender": "Boy",
+    "meaning": "City in Yemen",
+    "origin": "Arabic",
+    "id": "sa143",
+    "verified": true
+  },
+  {
+    "id": "sa95",
+    "name": "Sayyid",
+    "gender": "Boy",
+    "meaning": "Master, lord",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sa96",
+    "name": "Sayyida",
+    "gender": "Girl",
+    "meaning": "Lady, mistress",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Seda",
+    "gender": "Girl",
+    "meaning": "Voice, echo",
+    "origin": "Turkish",
+    "id": "se11",
+    "verified": true
+  },
+  {
+    "id": "se1",
+    "name": "Seema",
+    "gender": "Girl",
+    "meaning": "Face, forehead",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "se2",
+    "name": "Sehar",
+    "gender": "Girl",
+    "meaning": "Dawn, early morning",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Seher",
+    "gender": "Girl",
+    "meaning": "Dawn",
+    "origin": "Urdu",
+    "id": "se19",
+    "verified": true
+  },
+  {
+    "id": "se3",
+    "name": "Sehrish",
+    "gender": "Girl",
+    "meaning": "Sunrise",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "se4",
+    "name": "Selim",
+    "gender": "Boy",
+    "meaning": "Safe (Turkish form of Salim)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Selin",
+    "gender": "Girl",
+    "meaning": "Flowing water",
+    "origin": "Turkish",
+    "id": "se12",
+    "verified": true
+  },
+  {
+    "id": "se5",
+    "name": "Selina",
+    "gender": "Girl",
+    "meaning": "Moon, heaven",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "id": "se6",
+    "name": "Selma",
+    "gender": "Girl",
+    "meaning": "Peaceful (Variant of Salma)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Semih",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Turkish",
+    "id": "se13",
+    "verified": true
+  },
+  {
+    "id": "se7",
+    "name": "Semra",
+    "gender": "Girl",
+    "meaning": "Dark beauty (Turkish form of Samra)",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Sena",
+    "gender": "Girl",
+    "meaning": "Praise",
+    "origin": "Turkish",
+    "id": "se14",
+    "verified": true
+  },
+  {
+    "id": "se8",
+    "name": "Serdar",
+    "gender": "Boy",
+    "meaning": "Commander, chief",
+    "origin": "Turkish/Persian",
+    "verified": true
+  },
+  {
+    "id": "se9",
+    "name": "Serhat",
+    "gender": "Boy",
+    "meaning": "Frontier",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Serkan",
+    "gender": "Boy",
+    "meaning": "Head of nobility",
+    "origin": "Turkish",
+    "id": "se15",
+    "verified": true
+  },
+  {
+    "id": "se10",
+    "name": "Sevda",
+    "gender": "Girl",
+    "meaning": "Love, passion",
+    "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Sevgi",
+    "gender": "Girl",
+    "meaning": "Love",
+    "origin": "Turkish",
+    "id": "se16",
+    "verified": true
+  },
+  {
+    "name": "Sevil",
+    "gender": "Girl",
+    "meaning": "Be loved",
+    "origin": "Turkish",
+    "id": "se17",
+    "verified": true
+  },
+  {
+    "name": "Seville",
+    "gender": "Girl",
+    "meaning": "Ishbiliya (Andalus)",
+    "origin": "Arabic",
+    "id": "se18",
+    "verified": true
+  },
+  {
+    "name": "Sfax",
+    "gender": "Boy",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "sf1",
+    "verified": true
+  },
+  {
+    "name": "Sha'Ban",
+    "gender": "Boy",
+    "meaning": "8th Islamic Month",
+    "origin": "Arabic",
+    "id": "sh84",
+    "verified": true
+  },
+  {
+    "id": "sh1",
+    "name": "Shaaban",
+    "gender": "Boy",
+    "meaning": "Eighth month of Islamic calendar",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh2",
+    "name": "Shabana",
+    "gender": "Girl",
+    "meaning": "Famous",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shabbir",
+    "gender": "Boy",
+    "meaning": "Beautiful, virtuous",
+    "origin": "Arabic",
+    "id": "sh75",
+    "verified": true
+  },
+  {
+    "id": "sh3",
+    "name": "Shabir",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh4",
+    "name": "Shabnam",
+    "gender": "Girl",
+    "meaning": "Dew",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh5",
+    "name": "Shad",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shada",
+    "gender": "Girl",
+    "meaning": "Aromatic",
+    "origin": "Arabic",
+    "id": "sh61",
+    "verified": true
+  },
+  {
+    "name": "Shadab",
+    "gender": "Boy",
+    "meaning": "Fresh; Verdant; Green",
+    "origin": "Persian",
+    "id": "sh74",
+    "verified": true
+  },
+  {
+    "id": "sh6",
+    "name": "Shadan",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shaden",
+    "gender": "Girl",
+    "meaning": "Young gazelle",
+    "origin": "Arabic",
+    "id": "sh100",
+    "verified": true
+  },
+  {
+    "id": "sh7",
+    "name": "Shadi",
+    "gender": "Boy",
+    "meaning": "Singer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh8",
+    "name": "Shadia",
+    "gender": "Girl",
+    "meaning": "Singer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh9",
+    "name": "Shafaat",
+    "gender": "Boy",
+    "meaning": "Intercession",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh10",
+    "name": "Shafaq",
+    "gender": "Unisex",
+    "meaning": "Twilight, dawn redness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shafay",
+    "gender": "Boy",
+    "meaning": "Intercessor",
+    "origin": "Arabic",
+    "id": "sh101",
+    "verified": true
+  },
+  {
+    "id": "sh11",
+    "name": "Shafi",
+    "gender": "Boy",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shafi-Ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Intercessor of the Merciful",
+    "origin": "Arabic",
+    "id": "sh85",
+    "verified": true
+  },
+  {
+    "id": "sh12",
+    "name": "Shafiq",
+    "gender": "Boy",
+    "meaning": "Compassionate, kind",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shafiq-Ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Compassionate of the Merciful",
+    "origin": "Arabic",
+    "id": "sh86",
+    "verified": true
+  },
+  {
+    "id": "sh13",
+    "name": "Shafiqa",
+    "gender": "Girl",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh14",
+    "name": "Shagufta",
+    "gender": "Girl",
+    "meaning": "Blooming",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh15",
+    "name": "Shah",
+    "gender": "Boy",
+    "meaning": "King",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shah-Jahan",
+    "gender": "Boy",
+    "meaning": "King of the World",
+    "origin": "Persian",
+    "id": "sh87",
+    "verified": true
+  },
+  {
+    "name": "Shahab",
+    "gender": "Boy",
+    "meaning": "Meteor; Shooting star; Bright flame",
+    "origin": "Quranic",
+    "id": "sh73",
+    "verified": true
+  },
+  {
+    "name": "Shahad",
+    "gender": "Girl",
+    "meaning": "Honey",
+    "origin": "Arabic",
+    "id": "sh62",
+    "verified": true
+  },
+  {
+    "id": "sh16",
+    "name": "Shahana",
+    "gender": "Girl",
+    "meaning": "Royal",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh17",
+    "name": "Shahbaz",
+    "gender": "Boy",
+    "meaning": "Royal falcon",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh18",
+    "name": "Shaheen",
+    "gender": "Unisex",
+    "meaning": "Royal falcon",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh19",
+    "name": "Shahid",
+    "gender": "Boy",
+    "meaning": "Witness",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sh20",
+    "name": "Shahida",
+    "gender": "Girl",
+    "meaning": "Witness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh21",
+    "name": "Shahin",
+    "gender": "Boy",
+    "meaning": "Royal falcon",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shahina",
+    "gender": "Girl",
+    "meaning": "Falcon",
+    "origin": "Persian",
+    "id": "sh69",
+    "verified": true
+  },
+  {
+    "name": "Shahla",
+    "gender": "Girl",
+    "meaning": "Dark flower",
+    "origin": "Arabic",
+    "id": "sh70",
+    "verified": true
+  },
+  {
+    "name": "Shahmeer",
+    "gender": "Boy",
+    "meaning": "Beauty of the king",
+    "origin": "Urdu",
+    "id": "sh102",
+    "verified": true
+  },
+  {
+    "id": "sh22",
+    "name": "Shahnaz",
+    "gender": "Girl",
+    "meaning": "Pride of the king",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shahraan",
+    "gender": "Boy",
+    "meaning": "Moon",
+    "origin": "Persian",
+    "id": "sh103",
+    "verified": true
+  },
+  {
+    "id": "sh23",
+    "name": "Shahrukh",
+    "gender": "Boy",
+    "meaning": "Royal face",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh24",
+    "name": "Shahzad",
+    "gender": "Boy",
+    "meaning": "Prince (Son of King)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh25",
+    "name": "Shahzadi",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shahzaib",
+    "gender": "Boy",
+    "meaning": "Crown of a king",
+    "origin": "Urdu",
+    "id": "sh76",
+    "verified": true
+  },
+  {
+    "id": "sh26",
+    "name": "Shaila",
+    "gender": "Girl",
+    "meaning": "Small mountain",
+    "origin": "Hindi/Urdu",
+    "verified": true
+  },
+  {
+    "id": "sh27",
+    "name": "Shaima",
+    "gender": "Girl",
+    "meaning": "With a beauty spot; Prophet's foster sister",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shaista",
+    "gender": "Girl",
+    "meaning": "Polite",
+    "origin": "Persian",
+    "id": "sh104",
+    "verified": true
+  },
+  {
+    "name": "Shajar",
+    "gender": "Unisex",
+    "meaning": "Trees",
+    "origin": "Quranic",
+    "id": "sh63",
+    "verified": true
+  },
+  {
+    "name": "Shakeel",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "sh105",
+    "verified": true
+  },
+  {
+    "id": "sh28",
+    "name": "Shakil",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh29",
+    "name": "Shakila",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh30",
+    "name": "Shakir",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sh31",
+    "name": "Shakira",
+    "gender": "Girl",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh32",
+    "name": "Shakoor",
+    "gender": "Boy",
+    "meaning": "Most grateful",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sh33",
+    "name": "Sham",
+    "gender": "Boy",
+    "meaning": "Syria (Levant)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh34",
+    "name": "Shama",
+    "gender": "Girl",
+    "meaning": "Lamp, candle",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shameem",
+    "gender": "Unisex",
+    "meaning": "Scent",
+    "origin": "Arabic",
+    "id": "sh106",
+    "verified": true
+  },
+  {
+    "name": "Shamila",
+    "gender": "Girl",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "id": "sh107",
+    "verified": true
+  },
+  {
+    "id": "sh35",
+    "name": "Shamim",
+    "gender": "Unisex",
+    "meaning": "Fragrance, scent",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh36",
+    "name": "Shamis",
+    "gender": "Boy",
+    "meaning": "Sun-like",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh37",
+    "name": "Shams",
+    "gender": "Unisex",
+    "meaning": "Sun",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Shams-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Sun of the Faith",
+    "origin": "Arabic",
+    "id": "sh88",
+    "verified": true
+  },
+  {
+    "name": "Shams-Ul-Haq",
+    "gender": "Boy",
+    "meaning": "Sun of the Truth",
+    "origin": "Arabic",
+    "id": "sh89",
+    "verified": true
+  },
+  {
+    "name": "Shamshad",
+    "gender": "Boy",
+    "meaning": "Box tree (Tall)",
+    "origin": "Persian",
+    "id": "sh77",
+    "verified": true
+  },
+  {
+    "name": "Shamsher",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Persian",
+    "id": "sh78",
+    "verified": true
+  },
+  {
+    "id": "sh38",
+    "name": "Shamsuddin",
+    "gender": "Boy",
+    "meaning": "Sun of the Faith",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shamu",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Urdu",
+    "id": "sh79",
+    "verified": true
+  },
+  {
+    "id": "sh39",
+    "name": "Shan",
+    "gender": "Boy",
+    "meaning": "Dignity, splendor",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh41",
+    "name": "Shan-E-Ali",
+    "gender": "Boy",
+    "meaning": "Dignity of Ali",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "id": "sh40",
+    "name": "Shanaz",
+    "gender": "Girl",
+    "meaning": "Pride",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shanzay",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Urdu",
+    "id": "sh108",
+    "verified": true
+  },
+  {
+    "id": "sh42",
+    "name": "Shaqiq",
+    "gender": "Boy",
+    "meaning": "Brother",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shaqra",
+    "gender": "Girl",
+    "meaning": "Blond; City in Arabia",
+    "origin": "Arabic",
+    "id": "sh64",
+    "verified": true
+  },
+  {
+    "id": "sh43",
+    "name": "Sharif",
+    "gender": "Boy",
+    "meaning": "Honest, noble",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh44",
+    "name": "Sharifa",
+    "gender": "Girl",
+    "meaning": "Noble, honest",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh45",
+    "name": "Shariq",
+    "gender": "Boy",
+    "meaning": "Radiant, bright",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sharjah",
+    "gender": "Girl",
+    "meaning": "The Rising Sun (UAE)",
+    "origin": "Arabic",
+    "id": "sh94",
+    "verified": true
+  },
+  {
+    "name": "Sharm",
+    "gender": "Boy",
+    "meaning": "Sharm el-Sheikh",
+    "origin": "Arabic",
+    "id": "sh95",
+    "verified": true
+  },
+  {
+    "id": "sh46",
+    "name": "Sharmeen",
+    "gender": "Girl",
+    "meaning": "Shy, modest",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shati",
+    "gender": "Boy",
+    "meaning": "Beach, coast",
+    "origin": "Arabic",
+    "id": "sh65",
+    "verified": true
+  },
+  {
+    "name": "Shatt",
+    "gender": "Boy",
+    "meaning": "River bank (Shatt al-Arab)",
+    "origin": "Arabic",
+    "id": "sh96",
+    "verified": true
+  },
+  {
+    "name": "Shaukat",
+    "gender": "Boy",
+    "meaning": "Dignity, power",
+    "origin": "Arabic",
+    "id": "sh80",
+    "verified": true
+  },
+  {
+    "name": "Shawq",
+    "gender": "Girl",
+    "meaning": "Longing",
+    "origin": "Arabic",
+    "id": "sh66",
+    "verified": true
+  },
+  {
+    "name": "Shayan",
+    "gender": "Boy",
+    "meaning": "Worthy",
+    "origin": "Persian",
+    "id": "sh109",
+    "verified": true
+  },
+  {
+    "id": "sh47",
+    "name": "Shazia",
+    "gender": "Girl",
+    "meaning": "Rare, exotic, princess",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shazil",
+    "gender": "Boy",
+    "meaning": "King",
+    "origin": "Arabic",
+    "id": "sh110",
+    "verified": true
+  },
+  {
+    "name": "Sheba",
+    "gender": "Girl",
+    "meaning": "Kingdom of Saba (Yemen)",
+    "origin": "Quranic",
+    "id": "sh97",
+    "verified": true
+  },
+  {
+    "name": "Sheeba",
+    "gender": "Girl",
+    "meaning": "Infatuated",
+    "origin": "Persian",
+    "id": "sh81",
+    "verified": true
+  },
+  {
+    "name": "Shehnaz",
+    "gender": "Girl",
+    "meaning": "Pride of a King",
+    "origin": "Persian",
+    "id": "sh82",
+    "verified": true
+  },
+  {
+    "id": "sh48",
+    "name": "Shehrazad",
+    "gender": "Girl",
+    "meaning": "City dweller (Storyteller of 1001 Nights)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sheikh",
+    "gender": "Boy",
+    "meaning": "Chief, Elder",
+    "origin": "Arabic",
+    "id": "sh90",
+    "verified": true
+  },
+  {
+    "id": "sh49",
+    "name": "Sher",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sher-Ali",
+    "gender": "Boy",
+    "meaning": "Lion of Ali",
+    "origin": "Persian",
+    "id": "sh91",
+    "verified": true
+  },
+  {
+    "name": "Sher-Khan",
+    "gender": "Boy",
+    "meaning": "Lion King",
+    "origin": "Persian/Turkic",
+    "id": "sh92",
+    "verified": true
+  },
+  {
+    "id": "sh50",
+    "name": "Sheraz",
+    "gender": "Boy",
+    "meaning": "Loving",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "sh51",
+    "name": "Shereen",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sherin",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "sh71",
+    "verified": true
+  },
+  {
+    "name": "Shibam",
+    "gender": "Boy",
+    "meaning": "Manhattan of the Desert (Yemen)",
+    "origin": "Arabic",
+    "id": "sh98",
+    "verified": true
+  },
+  {
+    "id": "sh52",
+    "name": "Shifa",
+    "gender": "Girl",
+    "meaning": "Healing",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sh53",
+    "name": "Shihab",
+    "gender": "Boy",
+    "meaning": "Meteor, shooting star",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Shiraz",
+    "gender": "Boy",
+    "meaning": "City in Iran",
+    "origin": "Persian",
+    "id": "sh67",
+    "verified": true
+  },
+  {
+    "id": "sh54",
+    "name": "Shireen",
+    "gender": "Girl",
+    "meaning": "Sweet, pleasant",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Shirin",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "sh72",
+    "verified": true
+  },
+  {
+    "name": "Shiza",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "sh111",
+    "verified": true
+  },
+  {
+    "id": "sh55",
+    "name": "Shoaib",
+    "gender": "Boy",
+    "meaning": "Who shows the right path; Prophet Jethro",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "sh56",
+    "name": "Shuaib",
+    "gender": "Boy",
+    "meaning": "Prophet Shoaib",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Shuara",
+    "gender": "Girl",
+    "meaning": "Poets; A Surah",
+    "origin": "Quranic",
+    "id": "sh68",
+    "verified": true
+  },
+  {
+    "name": "Shugufta",
+    "gender": "Girl",
+    "meaning": "Blooming",
+    "origin": "Persian",
+    "id": "sh83",
+    "verified": true
+  },
+  {
+    "id": "sh57",
+    "name": "Shuhrah",
+    "gender": "Girl",
+    "meaning": "Fame, reputation",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh58",
+    "name": "Shuja",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Shuja-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Bravery of the Faith",
+    "origin": "Arabic",
+    "id": "sh93",
+    "verified": true
+  },
+  {
+    "id": "sh59",
+    "name": "Shukri",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sh60",
+    "name": "Shumaila",
+    "gender": "Girl",
+    "meaning": "Beautiful face",
+    "origin": "Urdu",
+    "verified": true
+  },
+  {
+    "name": "Shushtar",
+    "gender": "Boy",
+    "meaning": "Ancient city in Iran",
+    "origin": "Persian",
+    "id": "sh99",
+    "verified": true
+  },
+  {
+    "name": "Sibel",
+    "gender": "Girl",
+    "meaning": "Flowing rain",
+    "origin": "Turkish",
+    "id": "si17",
+    "verified": true
+  },
+  {
+    "id": "si1",
+    "name": "Sibt",
+    "gender": "Boy",
+    "meaning": "Grandson",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Siddiq",
+    "gender": "Boy",
+    "meaning": "Truthful",
+    "origin": "Quranic",
+    "id": "si14",
+    "verified": true
+  },
+  {
+    "name": "Sidon",
+    "gender": "Girl",
+    "meaning": "Saida (Lebanon)",
+    "origin": "Phoenician",
+    "id": "si21",
+    "verified": true
+  },
+  {
+    "id": "si2",
+    "name": "Sidra",
+    "gender": "Girl",
+    "meaning": "Lote tree (at the end of Paradise)",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "si3",
+    "name": "Sifwat",
+    "gender": "Boy",
+    "meaning": "Best friend, elite",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Siham",
+    "gender": "Girl",
+    "meaning": "Arrows",
+    "origin": "Arabic",
+    "id": "si15",
+    "verified": true
+  },
+  {
+    "name": "Siirt",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "si22",
+    "verified": true
+  },
+  {
+    "id": "si4",
+    "name": "Sikandar",
+    "gender": "Boy",
+    "meaning": "Alexander (the Great)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "si5",
+    "name": "Silma",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "si6",
+    "name": "Simin",
+    "gender": "Girl",
+    "meaning": "Silvery, made of silver",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Simra",
+    "gender": "Girl",
+    "meaning": "Heaven",
+    "origin": "Arabic",
+    "id": "si25",
+    "verified": true
+  },
+  {
+    "name": "Sina",
+    "gender": "Boy",
+    "meaning": "Sinai Peninsula",
+    "origin": "Quranic",
+    "id": "si12",
+    "verified": true
+  },
+  {
+    "id": "si7",
+    "name": "Sinan",
+    "gender": "Boy",
+    "meaning": "Spearhead",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sind",
+    "gender": "Boy",
+    "meaning": "River Indus; Region",
+    "origin": "Sanskrit/Urdu",
+    "id": "si23",
+    "verified": true
+  },
+  {
+    "name": "Sinem",
+    "gender": "Girl",
+    "meaning": "My bosom/heart",
+    "origin": "Turkish",
+    "id": "si18",
+    "verified": true
+  },
+  {
+    "id": "si8",
+    "name": "Siraj",
+    "gender": "Boy",
+    "meaning": "Lamp, light",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Siraj-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Lamp of the Faith",
+    "origin": "Arabic",
+    "id": "si19",
+    "verified": true
+  },
+  {
+    "name": "Siraj-Ul-Haq",
+    "gender": "Boy",
+    "meaning": "Lamp of the Truth",
+    "origin": "Arabic",
+    "id": "si20",
+    "verified": true
+  },
+  {
+    "name": "Sirat",
+    "gender": "Boy",
+    "meaning": "Path",
+    "origin": "Quranic",
+    "id": "si13",
+    "verified": true
+  },
+  {
+    "id": "si9",
+    "name": "Sirin",
+    "gender": "Girl",
+    "meaning": "Wife of the Prophet (Maria's sister)",
+    "origin": "Persian/Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sitara",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Urdu/Persian",
+    "id": "si16",
+    "verified": true
+  },
+  {
+    "id": "si10",
+    "name": "Sitarah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Siwa",
+    "gender": "Girl",
+    "meaning": "Oasis in Egypt",
+    "origin": "Berber",
+    "id": "si24",
+    "verified": true
+  },
+  {
+    "id": "si11",
+    "name": "Siyam",
+    "gender": "Unisex",
+    "meaning": "Fasting",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Siyana",
+    "gender": "Girl",
+    "meaning": "Protection",
+    "origin": "Arabic",
+    "id": "si26",
+    "verified": true
+  },
+  {
+    "id": "sk1",
+    "name": "Skandar",
+    "gender": "Boy",
+    "meaning": "Alexander (Variant of Sikandar)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Smyrna",
+    "gender": "Girl",
+    "meaning": "Izmir (Turkey)",
+    "origin": "Greek/Turkish",
+    "id": "sm1",
+    "verified": true
+  },
+  {
+    "id": "so1",
+    "name": "Sofia",
+    "gender": "Girl",
+    "meaning": "Wisdom (Greek origin, widely used by Muslims)",
+    "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "id": "so2",
+    "name": "Soha",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sohaib",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "so13",
+    "verified": true
+  },
+  {
+    "id": "so3",
+    "name": "Sohail",
+    "gender": "Boy",
+    "meaning": "Gentle, easy; Star name (Canopus)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sohana",
+    "gender": "Girl",
+    "meaning": "Graceful",
+    "origin": "Urdu",
+    "id": "so14",
+    "verified": true
+  },
+  {
+    "name": "Sohar",
+    "gender": "Boy",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "so11",
+    "verified": true
+  },
+  {
+    "id": "so4",
+    "name": "Soheila",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Sohrab",
+    "gender": "Boy",
+    "meaning": "Red water; Ruby; Ancient hero",
+    "origin": "Persian",
+    "id": "so9",
+    "verified": true
+  },
+  {
+    "name": "Somaya",
+    "gender": "Girl",
+    "meaning": "High above",
+    "origin": "Arabic",
+    "id": "so8",
+    "verified": true
+  },
+  {
+    "id": "so7",
+    "name": "Sonia",
+    "gender": "Girl",
+    "meaning": "Wisdom, golden",
+    "origin": "Mixed",
+    "verified": true
+  },
+  {
+    "name": "Soomia",
+    "gender": "Girl",
+    "meaning": "Safe",
+    "origin": "Arabic",
+    "id": "so10",
+    "verified": true
+  },
+  {
+    "id": "so5",
+    "name": "Soraya",
+    "gender": "Girl",
+    "meaning": "The Pleiades (Star cluster)",
+    "origin": "Persian",
+    "verified": true
+  },
+  {
+    "id": "so6",
+    "name": "Souad",
+    "gender": "Girl",
+    "meaning": "Happiness (Variant of Suad)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sousse",
+    "gender": "Boy",
+    "meaning": "City in Tunisia",
+    "origin": "Arabic",
+    "id": "so12",
+    "verified": true
+  },
+  {
+    "id": "su1",
+    "name": "Suad",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Subh",
+    "gender": "Boy",
+    "meaning": "Morning",
+    "origin": "Quranic",
+    "id": "su16",
+    "verified": true
+  },
+  {
+    "name": "Subhan",
+    "gender": "Boy",
+    "meaning": "Glory",
+    "origin": "Arabic",
+    "id": "su26",
+    "verified": true
+  },
+  {
+    "id": "su2",
+    "name": "Subhi",
+    "gender": "Boy",
+    "meaning": "Early morning",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sudan",
+    "gender": "Boy",
+    "meaning": "Land of the Blacks",
+    "origin": "Arabic",
+    "id": "su20",
+    "verified": true
+  },
+  {
+    "name": "Suez",
+    "gender": "Boy",
+    "meaning": "Port city in Egypt",
+    "origin": "Arabic",
+    "id": "su21",
+    "verified": true
+  },
+  {
+    "name": "Sufian",
+    "gender": "Boy",
+    "meaning": "Fast moving",
+    "origin": "Arabic",
+    "id": "su27",
+    "verified": true
+  },
+  {
+    "id": "su3",
+    "name": "Sufyan",
+    "gender": "Boy",
+    "meaning": "Walking fast; Name of a Companion",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sughra",
+    "gender": "Girl",
+    "meaning": "Small",
+    "origin": "Arabic",
+    "id": "su17",
+    "verified": true
+  },
+  {
+    "id": "su4",
+    "name": "Suha",
+    "gender": "Girl",
+    "meaning": "Name of a star",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "su5",
+    "name": "Suhaib",
+    "gender": "Boy",
+    "meaning": "Reddish hair",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "su6",
+    "name": "Suhail",
+    "gender": "Boy",
+    "meaning": "Gentle, easy; Star",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "su7",
+    "name": "Suhaila",
+    "gender": "Girl",
+    "meaning": "Gentle, easy",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sukkur",
+    "gender": "Boy",
+    "meaning": "City in Pakistan",
+    "origin": "Urdu",
+    "id": "su22",
+    "verified": true
+  },
+  {
+    "id": "su8",
+    "name": "Sulaiman",
+    "gender": "Boy",
+    "meaning": "Man of peace; Prophet Solomon",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Suleiman",
+    "gender": "Boy",
+    "meaning": "Prophet Solomon",
+    "origin": "Quranic",
+    "id": "su28",
+    "verified": true
+  },
+  {
+    "id": "su9",
+    "name": "Sultan",
+    "gender": "Boy",
+    "meaning": "Ruler, king, authority",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "id": "su10",
+    "name": "Sultana",
+    "gender": "Girl",
+    "meaning": "Queen, ruler",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sumaira",
+    "gender": "Girl",
+    "meaning": "Brownish",
+    "origin": "Arabic",
+    "id": "su29",
+    "verified": true
+  },
+  {
+    "id": "su11",
+    "name": "Sumaya",
+    "gender": "Girl",
+    "meaning": "High above; First martyr of Islam",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sumayyah",
+    "gender": "Girl",
+    "meaning": "High above",
+    "origin": "Arabic",
+    "id": "su30",
+    "verified": true
+  },
+  {
+    "name": "Sumbal",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Urdu",
+    "id": "su18",
+    "verified": true
+  },
+  {
+    "id": "su12",
+    "name": "Sumbul",
+    "gender": "Girl",
+    "meaning": "Spike (of grain)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sumer",
+    "gender": "Boy",
+    "meaning": "Ancient land (Iraq)",
+    "origin": "Ancient",
+    "id": "su23",
+    "verified": true
+  },
+  {
+    "name": "Sundas",
+    "gender": "Girl",
+    "meaning": "Silk of heaven",
+    "origin": "Quranic",
+    "id": "su31",
+    "verified": true
+  },
+  {
+    "id": "su13",
+    "name": "Sundus",
+    "gender": "Girl",
+    "meaning": "Fine silk",
+    "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Sur",
+    "gender": "Boy",
+    "meaning": "Tyre (Lebanon); Wall",
+    "origin": "Arabic",
+    "id": "su24",
+    "verified": true
+  },
+  {
+    "name": "Suraiya",
+    "gender": "Girl",
+    "meaning": "Pleiades cluster",
+    "origin": "Arabic",
+    "id": "su19",
+    "verified": true
+  },
+  {
+    "id": "su14",
+    "name": "Suraya",
+    "gender": "Girl",
+    "meaning": "Star cluster (Pleiades)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Susa",
+    "gender": "Girl",
+    "meaning": "Shush (Ancient Iran)",
+    "origin": "Persian",
+    "id": "su25",
+    "verified": true
+  },
+  {
+    "id": "su15",
+    "name": "Suwaybah",
+    "gender": "Girl",
+    "meaning": "Prophet's wet nurse",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Swat",
+    "gender": "Boy",
+    "meaning": "Valley in Pakistan",
+    "origin": "Urdu",
+    "id": "sw1",
+    "verified": true
+  },
+  {
+    "id": "sy1",
+    "name": "Syed",
+    "gender": "Boy",
+    "meaning": "Master, lord (Variant of Sayyid)",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sy2",
+    "name": "Syeda",
+    "gender": "Girl",
+    "meaning": "Lady, mistress",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "sy3",
+    "name": "Syleman",
+    "gender": "Boy",
+    "meaning": "Variant of Sulaiman",
+    "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Sylhet",
+    "gender": "Boy",
+    "meaning": "City in Bangladesh",
+    "origin": "Bengali",
+    "id": "sy4",
+    "verified": true
+  },
+  {
+    "name": "Syria",
+    "gender": "Girl",
+    "meaning": "Suruka; Land of Ashur",
+    "origin": "Ancient",
+    "id": "sy5",
+    "verified": true
+  }
+]
