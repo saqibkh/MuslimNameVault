@@ -18,6 +18,15 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # Jinja2 Setup
 env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
 
+def generate_robots_txt():
+    content = f"""User-agent: *
+Allow: /
+Sitemap: {SITE_URL}/sitemap.xml
+"""
+    with open(os.path.join(OUTPUT_DIR, 'robots.txt'), 'w') as f:
+        f.write(content)
+    print("✅ Generated robots.txt")
+
 def generate_rich_description(name, meaning, gender, origin, transliteration):
     """
     Generates a unique, non-repetitive description for every name
