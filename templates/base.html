@@ -23,77 +23,113 @@
 
     {{ schema_markup if schema_markup else '' }}
 
-    <link href="/css/styles.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Inter:wght@400;500;600;700&family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        h1, h2, h3, .font-heading { font-family: 'Reem Kufi', sans-serif; }
+        .arabic-text { font-family: 'Amiri', serif; }
+        /* Custom scrollbar for search results */
+        .search-results::-webkit-scrollbar { width: 6px; }
+        .search-results::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
+    </style>
 </head>
-<body>
+<body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen selection:bg-emerald-100 selection:text-emerald-900">
 
-    <nav class="bg-emerald-900 text-white sticky top-0 z-50 shadow-md">
-        <div class="container px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
-            <a href="/" class="text-2xl font-bold font-heading hover:text-emerald-200 transition">
-                MuslimNameVault
-            </a>
+    <nav class="bg-emerald-900 text-white shadow-lg sticky top-0 z-50 border-b border-emerald-800">
+        <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
             
-            <div class="relative w-full md:w-96">
-                <input type="text" id="globalSearch" placeholder="Search a name..." 
-                       class="w-full px-4 py-2 rounded text-slate-800 focus:outline-none">
-                <div id="searchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded shadow-xl border border-slate-200 z-50"></div>
+            <a href="/" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
+                <span>MuslimNameVault</span>
+            </a>
+
+            <div class="relative w-full md:w-96 group">
+                <div class="relative">
+                    <input type="text" id="globalSearch" placeholder="Search dictionary..." 
+                           class="w-full pl-10 pr-4 py-2 rounded-lg text-slate-800 bg-emerald-50 focus:bg-white focus:ring-2 focus:ring-emerald-400 outline-none transition shadow-inner placeholder-emerald-800/50">
+                    <span class="absolute left-3 top-2.5 text-emerald-700">🔍</span>
+                </div>
+                <div id="globalSearchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded-lg shadow-xl border border-slate-200 max-h-80 overflow-y-auto search-results z-50"></div>
             </div>
 
-            <div class="flex gap-6 text-sm font-medium">
-                <a href="/" class="hover:text-emerald-200">Home</a>
-                <a href="/names-a/" class="hover:text-emerald-200">A-Z Names</a>
+            <div class="hidden md:flex gap-6 items-center font-medium">
+                <a href="/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100">Home</a>
+                <a href="/names-a/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100 flex items-center gap-1">
+                    <span>📖 Browse A-Z</span>
+                </a>
             </div>
         </div>
     </nav>
 
-    <main class="flex-grow container px-4 py-8">
+    <main class="flex-grow container mx-auto px-4 py-8">
         {% block content %}{% endblock %}
     </main>
 
-    <footer class="bg-slate-900 text-slate-400 py-12 mt-auto border-t border-slate-800 text-center">
-        <div class="container px-4">
-            <p>&copy; 2026 MuslimNameVault.com. All rights reserved.</p>
+    <footer class="bg-slate-900 text-slate-400 py-12 text-center mt-auto border-t border-slate-800">
+        <div class="container mx-auto px-4">
+            <div class="mb-8">
+                <h4 class="text-slate-200 font-bold mb-4 font-heading text-lg">Popular Searches</h4>
+                <div class="flex flex-wrap justify-center gap-3 text-sm">
+                    <a href="/names-a/" class="hover:text-emerald-400 transition">Names starting with A</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="/names-m/" class="hover:text-emerald-400 transition">Names starting with M</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="/names-z/" class="hover:text-emerald-400 transition">Names starting with Z</a>
+                </div>
+            </div>
+            <p class="text-sm opacity-75">&copy; 2026 MuslimNameVault. Built with ❤️ for the Ummah.</p>
         </div>
     </footer>
 
     <script>
-        const searchInput = document.getElementById('globalSearch');
-        const resultsBox = document.getElementById('searchResults');
-        let indexData = [];
+        const globalSearchInput = document.getElementById('globalSearch');
+        const resultsContainer = document.getElementById('globalSearchResults');
+        let searchIndex = [];
 
         fetch('/search_index.json')
-            .then(r => r.json())
-            .then(data => indexData = data);
+            .then(response => response.json())
+            .then(data => { searchIndex = data; })
+            .catch(err => console.error("Error loading search index:", err));
 
-        searchInput.addEventListener('input', (e) => {
-            const q = e.target.value.toLowerCase().trim();
-            resultsBox.innerHTML = '';
-            if(q.length < 2) { resultsBox.classList.add('hidden'); return; }
+        globalSearchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            resultsContainer.innerHTML = '';
             
-            const matches = indexData.filter(i => i.n.toLowerCase().startsWith(q)).slice(0, 8);
-            
-            if(matches.length > 0) {
-                resultsBox.classList.remove('hidden');
-                matches.forEach(m => {
-                    const a = document.createElement('a');
-                    a.href = m.s;
-                    a.className = "block px-4 py-2 hover:bg-emerald-50 border-b border-slate-100 text-slate-800 flex justify-between";
-                    a.innerHTML = `<span class="font-bold">${m.n}</span><span class="text-xs text-slate-500">${m.m}</span>`;
-                    resultsBox.appendChild(a);
+            if (query.length < 2) {
+                resultsContainer.classList.add('hidden');
+                return;
+            }
+
+            const results = searchIndex.filter(item => item.n.toLowerCase().startsWith(query) || item.n.toLowerCase().includes(query)).slice(0, 8);
+
+            if (results.length > 0) {
+                resultsContainer.classList.remove('hidden');
+                results.forEach(item => {
+                    const div = document.createElement('a');
+                    div.href = item.s;
+                    div.className = "block px-4 py-3 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition flex justify-between items-center group";
+                    div.innerHTML = `
+                        <div>
+                            <span class="font-bold text-slate-800 block group-hover:text-emerald-700">${item.n}</span>
+                            <span class="text-xs text-slate-500 truncate block max-w-[200px]">${item.m}</span>
+                        </div>
+                        <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-100 text-slate-600 uppercase">${item.g || 'U'}</span>
+                    `;
+                    resultsContainer.appendChild(div);
                 });
             } else {
-                resultsBox.classList.add('hidden');
+                resultsContainer.classList.remove('hidden');
+                resultsContainer.innerHTML = '<div class="px-4 py-3 text-slate-500 text-sm">No names found.</div>';
             }
         });
-        
-        // Hide on click outside
+
         document.addEventListener('click', (e) => {
-            if (!searchInput.contains(e.target) && !resultsBox.contains(e.target)) {
-                resultsBox.classList.add('hidden');
+            if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
+                resultsContainer.classList.add('hidden');
             }
         });
     </script>
