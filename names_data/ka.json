@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Kaan",
+    "gender": "Boy",
+    "meaning": "Ruler; King of Kings",
+    "origin": "Turkish",
+    "id": "ka1",
+    "verified": true
+  },
+  {
+    "name": "Kabir",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ka8",
+    "verified": true
+  },
+  {
+    "name": "Kagan",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Turkish",
+    "id": "ka4",
+    "verified": true
+  },
+  {
+    "name": "Kahraman",
+    "gender": "Boy",
+    "meaning": "Hero",
+    "origin": "Turkish/Persian",
+    "id": "ka5",
+    "verified": true
+  },
+  {
+    "name": "Kamal",
+    "gender": "Boy",
+    "meaning": "Perfection",
+    "origin": "Arabic",
+    "id": "ka9",
+    "verified": true
+  },
+  {
+    "name": "Kambiz",
+    "gender": "Boy",
+    "meaning": "Fortunate",
+    "origin": "Persian",
+    "id": "ka2",
+    "verified": true
+  },
+  {
+    "name": "Kathir",
+    "gender": "Boy",
+    "meaning": "Much; Abundant",
+    "origin": "Arabic",
+    "id": "ka10",
+    "verified": true
+  },
+  {
+    "name": "Kaveh",
+    "gender": "Boy",
+    "meaning": "Ancient Hero",
+    "origin": "Persian",
+    "id": "ka3",
+    "verified": true
+  },
+  {
+    "name": "Kaya",
+    "gender": "Boy",
+    "meaning": "Rock; Cliff",
+    "origin": "Turkish",
+    "id": "ka6",
+    "verified": true
+  },
+  {
+    "name": "Kayhan",
+    "gender": "Boy",
+    "meaning": "Universe; Cosmos",
+    "origin": "Persian",
+    "id": "ka7",
+    "verified": true
+  }
+]

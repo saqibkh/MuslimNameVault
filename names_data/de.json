@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Deen",
+    "gender": "Boy",
+    "meaning": "Religion",
+    "origin": "Arabic",
+    "id": "de5",
+    "verified": true
+  },
+  {
+    "name": "Defne",
+    "gender": "Girl",
+    "meaning": "Laurel tree",
+    "origin": "Turkish",
+    "id": "de1",
+    "verified": true
+  },
+  {
+    "name": "Delaram",
+    "gender": "Girl",
+    "meaning": "Peaceful heart",
+    "origin": "Persian",
+    "id": "de2",
+    "verified": true
+  },
+  {
+    "name": "Demir",
+    "gender": "Boy",
+    "meaning": "Iron",
+    "origin": "Turkish",
+    "id": "de3",
+    "verified": true
+  },
+  {
+    "name": "Deniz",
+    "gender": "Unisex",
+    "meaning": "Sea",
+    "origin": "Turkish",
+    "id": "de4",
+    "verified": true
+  }
+]

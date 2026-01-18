@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Azam",
+    "gender": "Boy",
+    "meaning": "Greatest",
+    "origin": "Arabic",
+    "id": "az2",
+    "verified": true
+  },
+  {
+    "name": "Azan",
+    "gender": "Boy",
+    "meaning": "Call to prayer",
+    "origin": "Arabic",
+    "id": "az3",
+    "verified": true
+  },
+  {
+    "name": "Azar",
+    "gender": "Boy",
+    "meaning": "Fire",
+    "origin": "Persian",
+    "id": "az14",
+    "verified": true
+  },
+  {
+    "name": "Azeem",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "az4",
+    "verified": true
+  },
+  {
+    "name": "Azel",
+    "gender": "Girl",
+    "meaning": "Kindness",
+    "origin": "Turkish",
+    "id": "az1",
+    "verified": true
+  },
+  {
+    "name": "Azfer",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "az5",
+    "verified": true
+  },
+  {
+    "name": "Azhar",
+    "gender": "Boy",
+    "meaning": "Most Shining",
+    "origin": "Arabic",
+    "id": "az6",
+    "verified": true
+  },
+  {
+    "name": "Azim",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "az7",
+    "verified": true
+  },
+  {
+    "name": "Aziz",
+    "gender": "Boy",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "az8",
+    "verified": true
+  },
+  {
+    "name": "Azka",
+    "gender": "Unisex",
+    "meaning": "Pious",
+    "origin": "Arabic",
+    "id": "az9",
+    "verified": true
+  },
+  {
+    "name": "Azlan",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Urdu",
+    "id": "az10",
+    "verified": true
+  },
+  {
+    "name": "Azmat",
+    "gender": "Unisex",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "az11",
+    "verified": true
+  },
+  {
+    "name": "Azra",
+    "gender": "Girl",
+    "meaning": "Maiden",
+    "origin": "Arabic",
+    "id": "az12",
+    "verified": true
+  },
+  {
+    "name": "Azraq",
+    "gender": "Boy",
+    "meaning": "Blue; Companion of Prophet",
+    "origin": "Arabic",
+    "id": "az15",
+    "verified": true
+  },
+  {
+    "name": "Azwad",
+    "gender": "Boy",
+    "meaning": "Better",
+    "origin": "Arabic",
+    "id": "az13",
+    "verified": true
+  }
+]

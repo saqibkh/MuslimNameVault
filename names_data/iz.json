@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Izaan",
+    "gender": "Boy",
+    "meaning": "Obedience; Submission",
+    "origin": "Arabic",
+    "id": "iz1",
+    "verified": true
+  },
+  {
+    "name": "Izel",
+    "gender": "Girl",
+    "meaning": "Trace; Sign",
+    "origin": "Turkish",
+    "id": "iz3",
+    "verified": true
+  },
+  {
+    "name": "Izra",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "iz2",
+    "verified": true
+  },
+  {
+    "name": "Izzat",
+    "gender": "Unisex",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "iz5",
+    "verified": true
+  },
+  {
+    "name": "Izzet",
+    "gender": "Boy",
+    "meaning": "Honor; Greatness",
+    "origin": "Turkish/Arabic",
+    "id": "iz4",
+    "verified": true
+  }
+]

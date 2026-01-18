@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bilal",
+    "gender": "Boy",
+    "meaning": "Water",
+    "origin": "Arabic",
+    "id": "bi1",
+    "verified": true
+  },
+  {
+    "name": "Bilqis",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "id": "bi2",
+    "verified": true
+  },
+  {
+    "name": "Bina",
+    "gender": "Girl",
+    "meaning": "Vision",
+    "origin": "Arabic",
+    "id": "bi3",
+    "verified": true
+  },
+  {
+    "name": "Bishr",
+    "gender": "Boy",
+    "meaning": "Joy",
+    "origin": "Arabic",
+    "id": "bi4",
+    "verified": true
+  },
+  {
+    "name": "Bisma",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Urdu",
+    "id": "bi5",
+    "verified": true
+  }
+]

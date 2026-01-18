@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bujair",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "bu3",
+    "verified": true
+  },
+  {
+    "name": "Bulut",
+    "gender": "Boy",
+    "meaning": "Cloud",
+    "origin": "Turkish",
+    "id": "bu4",
+    "verified": true
+  },
+  {
+    "name": "Buraq",
+    "gender": "Boy",
+    "meaning": "Horse of the Prophet",
+    "origin": "Arabic",
+    "id": "bu5",
+    "verified": true
+  },
+  {
+    "name": "Buraydah",
+    "gender": "Boy",
+    "meaning": "Coolness; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "bu6",
+    "verified": true
+  },
+  {
+    "name": "Burhan",
+    "gender": "Boy",
+    "meaning": "Proof",
+    "origin": "Arabic",
+    "id": "bu1",
+    "verified": true
+  },
+  {
+    "name": "Bushra",
+    "gender": "Girl",
+    "meaning": "Good news",
+    "origin": "Arabic",
+    "id": "bu2",
+    "verified": true
+  }
+]

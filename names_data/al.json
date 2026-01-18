@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Alara",
+    "gender": "Girl",
+    "meaning": "Water fairy; Red ornament",
+    "origin": "Turkish",
+    "id": "al1",
+    "verified": true
+  },
+  {
+    "name": "Aleef",
+    "gender": "Boy",
+    "meaning": "Affectionate; Friendly",
+    "origin": "Arabic",
+    "id": "al4",
+    "verified": true
+  },
+  {
+    "name": "Alif",
+    "gender": "Boy",
+    "meaning": "First Letter; Friendly",
+    "origin": "Arabic",
+    "id": "al5",
+    "verified": true
+  },
+  {
+    "name": "Alim",
+    "gender": "Boy",
+    "meaning": "Scholar",
+    "origin": "Arabic",
+    "id": "al6",
+    "verified": true
+  },
+  {
+    "name": "Alizeh",
+    "gender": "Girl",
+    "meaning": "Wind; Trade wind",
+    "origin": "Persian",
+    "id": "al2",
+    "verified": true
+  },
+  {
+    "name": "Almas",
+    "gender": "Unisex",
+    "meaning": "Diamond",
+    "origin": "Arabic",
+    "id": "al7",
+    "verified": true
+  },
+  {
+    "name": "Almir",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Urdu",
+    "id": "al8",
+    "verified": true
+  },
+  {
+    "name": "Alp",
+    "gender": "Boy",
+    "meaning": "Hero; Brave",
+    "origin": "Turkish",
+    "id": "al9",
+    "verified": true
+  },
+  {
+    "name": "Alparslan",
+    "gender": "Boy",
+    "meaning": "Heroic Lion",
+    "origin": "Turkish",
+    "id": "al3",
+    "verified": true
+  },
+  {
+    "name": "Alpay",
+    "gender": "Boy",
+    "meaning": "Heroic Moon",
+    "origin": "Turkish",
+    "id": "al12",
+    "verified": true
+  },
+  {
+    "name": "Alqamah",
+    "gender": "Boy",
+    "meaning": "Bitter Apple; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "al13",
+    "verified": true
+  },
+  {
+    "name": "Altan",
+    "gender": "Boy",
+    "meaning": "Red dawn",
+    "origin": "Turkish",
+    "id": "al10",
+    "verified": true
+  },
+  {
+    "name": "Altay",
+    "gender": "Boy",
+    "meaning": "High Mountain",
+    "origin": "Turkish",
+    "id": "al14",
+    "verified": true
+  },
+  {
+    "name": "Alyasa",
+    "gender": "Boy",
+    "meaning": "Elisha",
+    "origin": "Quranic",
+    "id": "al11",
+    "verified": true
+  }
+]

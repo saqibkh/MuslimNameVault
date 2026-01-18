@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Vedat",
+    "gender": "Boy",
+    "meaning": "Love; Friendship",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
+    "verified": true
+  },
+  {
+    "name": "Vesile",
+    "gender": "Girl",
+    "meaning": "Means; Occasion",
+    "origin": "Turkish/Arabic",
+    "id": "ve2",
+    "verified": true
+  }
+]

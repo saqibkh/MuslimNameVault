@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Yagmur",
+    "gender": "Girl",
+    "meaning": "Rain",
+    "origin": "Turkish",
+    "id": "ya1",
+    "verified": true
+  },
+  {
+    "name": "Yalin",
+    "gender": "Boy",
+    "meaning": "Simple; Pure",
+    "origin": "Turkish",
+    "id": "ya3",
+    "verified": true
+  },
+  {
+    "name": "Yaman",
+    "gender": "Boy",
+    "meaning": "Fierce; Strong",
+    "origin": "Turkish",
+    "id": "ya4",
+    "verified": true
+  },
+  {
+    "name": "Yas",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "id": "ya2",
+    "verified": true
+  },
+  {
+    "name": "Yasar",
+    "gender": "Boy",
+    "meaning": "He lives; Survivor",
+    "origin": "Turkish",
+    "id": "ya5",
+    "verified": true
+  },
+  {
+    "name": "Yavuz",
+    "gender": "Boy",
+    "meaning": "Stern; Resolute (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "ya6",
+    "verified": true
+  }
+]

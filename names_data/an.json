@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Anabia",
+    "gender": "Girl",
+    "meaning": "To turn towards Allah",
+    "origin": "Quranic",
+    "id": "an1",
+    "verified": true
+  },
+  {
+    "name": "Anahid",
+    "gender": "Girl",
+    "meaning": "Immaculate",
+    "origin": "Persian",
+    "id": "an2",
+    "verified": true
+  },
+  {
+    "name": "Anan",
+    "gender": "Unisex",
+    "meaning": "Clouds",
+    "origin": "Arabic",
+    "id": "an3",
+    "verified": true
+  },
+  {
+    "name": "Anbar",
+    "gender": "Girl",
+    "meaning": "Perfume; Ambergris",
+    "origin": "Arabic",
+    "id": "an9",
+    "verified": true
+  },
+  {
+    "name": "Anees",
+    "gender": "Boy",
+    "meaning": "Close Companion",
+    "origin": "Arabic",
+    "id": "an10",
+    "verified": true
+  },
+  {
+    "name": "Aniq",
+    "gender": "Boy",
+    "meaning": "Elegant; Stylish",
+    "origin": "Arabic",
+    "id": "an4",
+    "verified": true
+  },
+  {
+    "name": "Anis",
+    "gender": "Boy",
+    "meaning": "Close friend",
+    "origin": "Arabic",
+    "id": "an5",
+    "verified": true
+  },
+  {
+    "name": "Anisa",
+    "gender": "Girl",
+    "meaning": "Friendly",
+    "origin": "Arabic",
+    "id": "an6",
+    "verified": true
+  },
+  {
+    "name": "Anmar",
+    "gender": "Boy",
+    "meaning": "Leopard",
+    "origin": "Arabic",
+    "id": "an11",
+    "verified": true
+  },
+  {
+    "name": "Anqa",
+    "gender": "Girl",
+    "meaning": "Phoenix",
+    "origin": "Arabic",
+    "id": "an12",
+    "verified": true
+  },
+  {
+    "name": "Antar",
+    "gender": "Boy",
+    "meaning": "Hero of a story",
+    "origin": "Arabic",
+    "id": "an13",
+    "verified": true
+  },
+  {
+    "name": "Anum",
+    "gender": "Girl",
+    "meaning": "Benefit; Blessing",
+    "origin": "Arabic",
+    "id": "an7",
+    "verified": true
+  },
+  {
+    "name": "Anwar",
+    "gender": "Boy",
+    "meaning": "Lights",
+    "origin": "Arabic",
+    "id": "an8",
+    "verified": true
+  }
+]

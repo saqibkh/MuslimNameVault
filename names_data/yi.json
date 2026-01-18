@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Yigit",
+    "gender": "Boy",
+    "meaning": "Brave; Hero",
+    "origin": "Turkish",
+    "id": "yi1",
+    "verified": true
+  },
+  {
+    "name": "Yildirim",
+    "gender": "Boy",
+    "meaning": "Lightning (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "yi2",
+    "verified": true
+  },
+  {
+    "name": "Yildiz",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Turkish",
+    "id": "yi3",
+    "verified": true
+  },
+  {
+    "name": "Yilmaz",
+    "gender": "Boy",
+    "meaning": "Unyielding; Dauntless",
+    "origin": "Turkish",
+    "id": "yi4",
+    "verified": true
+  }
+]

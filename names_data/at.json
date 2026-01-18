@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ata",
+    "gender": "Boy",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "at1",
+    "verified": true
+  },
+  {
+    "name": "Atif",
+    "gender": "Boy",
+    "meaning": "Kind",
+    "origin": "Arabic",
+    "id": "at2",
+    "verified": true
+  },
+  {
+    "name": "Atik",
+    "gender": "Boy",
+    "meaning": "Ancient; Noble",
+    "origin": "Arabic",
+    "id": "at4",
+    "verified": true
+  },
+  {
+    "name": "Atiq",
+    "gender": "Boy",
+    "meaning": "Ancient",
+    "origin": "Arabic",
+    "id": "at3",
+    "verified": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gamal",
+    "gender": "Boy",
+    "meaning": "Beauty; Camel",
+    "origin": "Arabic/African",
+    "id": "ga2",
+    "verified": true
+  },
+  {
+    "name": "Gamze",
+    "gender": "Girl",
+    "meaning": "Dimple",
+    "origin": "Turkish",
+    "id": "ga1",
+    "verified": true
+  },
+  {
+    "name": "Gaye",
+    "gender": "Girl",
+    "meaning": "Goal; Target",
+    "origin": "Turkish",
+    "id": "ga3",
+    "verified": true
+  }
+]

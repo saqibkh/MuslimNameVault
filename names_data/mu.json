@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mujdat",
+    "gender": "Boy",
+    "meaning": "Good news",
+    "origin": "Turkish/Arabic",
+    "id": "mu3",
+    "verified": true
+  },
+  {
+    "name": "Mukaddes",
+    "gender": "Girl",
+    "meaning": "Sacred; Holy",
+    "origin": "Turkish/Arabic",
+    "id": "mu4",
+    "verified": true
+  },
+  {
+    "name": "Murat",
+    "gender": "Boy",
+    "meaning": "Wish; Desire",
+    "origin": "Turkish",
+    "id": "mu1",
+    "verified": true
+  },
+  {
+    "name": "Muskan",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Urdu",
+    "id": "mu2",
+    "verified": true
+  }
+]

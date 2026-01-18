@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Asal",
+    "gender": "Girl",
+    "meaning": "Honey",
+    "origin": "Persian",
+    "id": "as2",
+    "verified": true
+  },
+  {
+    "name": "Asalah",
+    "gender": "Girl",
+    "meaning": "Nobility of descent",
+    "origin": "Arabic",
+    "id": "as10",
+    "verified": true
+  },
+  {
+    "name": "Asar",
+    "gender": "Boy",
+    "meaning": "Mark; Sign",
+    "origin": "Arabic",
+    "id": "as3",
+    "verified": true
+  },
+  {
+    "name": "Ashar",
+    "gender": "Boy",
+    "meaning": "Wise",
+    "origin": "Arabic",
+    "id": "as4",
+    "verified": true
+  },
+  {
+    "name": "Ashkan",
+    "gender": "Boy",
+    "meaning": "Founder of Dynasty",
+    "origin": "Persian",
+    "id": "as5",
+    "verified": true
+  },
+  {
+    "name": "Asil",
+    "gender": "Boy",
+    "meaning": "Genuine",
+    "origin": "Arabic",
+    "id": "as6",
+    "verified": true
+  },
+  {
+    "name": "Asim",
+    "gender": "Boy",
+    "meaning": "Protector",
+    "origin": "Arabic",
+    "id": "as11",
+    "verified": true
+  },
+  {
+    "name": "Aslan",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Turkish",
+    "id": "as1",
+    "verified": true
+  },
+  {
+    "name": "Asli",
+    "gender": "Girl",
+    "meaning": "Genuine; Real",
+    "origin": "Turkish",
+    "id": "as12",
+    "verified": true
+  },
+  {
+    "name": "Asma",
+    "gender": "Girl",
+    "meaning": "Prestige; Exalted",
+    "origin": "Arabic",
+    "id": "as7",
+    "verified": true
+  },
+  {
+    "name": "Asmara",
+    "gender": "Girl",
+    "meaning": "Beautiful butterfly",
+    "origin": "Urdu",
+    "id": "as8",
+    "verified": true
+  },
+  {
+    "name": "Asra",
+    "gender": "Girl",
+    "meaning": "Travel by night",
+    "origin": "Arabic",
+    "id": "as9",
+    "verified": true
+  },
+  {
+    "name": "Aswad",
+    "gender": "Boy",
+    "meaning": "Black; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "as13",
+    "verified": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hud",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "hu2",
+    "verified": true
+  },
+  {
+    "name": "Hudhayfah",
+    "gender": "Boy",
+    "meaning": "Short-statured",
+    "origin": "Arabic",
+    "id": "hu3",
+    "verified": true
+  },
+  {
+    "name": "Hujr",
+    "gender": "Boy",
+    "meaning": "Chamber",
+    "origin": "Arabic",
+    "id": "hu4",
+    "verified": true
+  },
+  {
+    "name": "Hulusi",
+    "gender": "Boy",
+    "meaning": "Sincere; Pure",
+    "origin": "Turkish/Arabic",
+    "id": "hu1",
+    "verified": true
+  },
+  {
+    "name": "Huma",
+    "gender": "Girl",
+    "meaning": "Bird of Paradise",
+    "origin": "Persian",
+    "id": "hu5",
+    "verified": true
+  }
+]

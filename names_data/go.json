@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Gokce",
+    "gender": "Girl",
+    "meaning": "Heavenly; Beautiful",
+    "origin": "Turkish",
+    "id": "go2",
+    "verified": true
+  },
+  {
+    "name": "Gokhan",
+    "gender": "Boy",
+    "meaning": "Sky Khan (Ruler of the sky)",
+    "origin": "Turkish",
+    "id": "go3",
+    "verified": true
+  },
+  {
+    "name": "Goksu",
+    "gender": "Unisex",
+    "meaning": "Sky water; Blue water",
+    "origin": "Turkish",
+    "id": "go4",
+    "verified": true
+  },
+  {
+    "name": "Golnar",
+    "gender": "Girl",
+    "meaning": "Pomegranate flower",
+    "origin": "Persian",
+    "id": "go1",
+    "verified": true
+  }
+]

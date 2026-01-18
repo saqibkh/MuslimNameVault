@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fida",
+    "gender": "Unisex",
+    "meaning": "Sacrifice",
+    "origin": "Arabic",
+    "id": "fi4",
+    "verified": true
+  },
+  {
+    "name": "Fidan",
+    "gender": "Girl",
+    "meaning": "Sapling; Young tree",
+    "origin": "Turkish",
+    "id": "fi1",
+    "verified": true
+  },
+  {
+    "name": "Fikret",
+    "gender": "Boy",
+    "meaning": "Thought; Idea",
+    "origin": "Turkish/Arabic",
+    "id": "fi2",
+    "verified": true
+  },
+  {
+    "name": "Fikri",
+    "gender": "Boy",
+    "meaning": "Intellectual",
+    "origin": "Arabic",
+    "id": "fi5",
+    "verified": true
+  },
+  {
+    "name": "Firas",
+    "gender": "Boy",
+    "meaning": "Insight",
+    "origin": "Arabic",
+    "id": "fi6",
+    "verified": true
+  },
+  {
+    "name": "Firat",
+    "gender": "Boy",
+    "meaning": "Euphrates river; Sweet water",
+    "origin": "Turkish",
+    "id": "fi3",
+    "verified": true
+  },
+  {
+    "name": "Fiza",
+    "gender": "Girl",
+    "meaning": "Breeze",
+    "origin": "Urdu",
+    "id": "fi7",
+    "verified": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Feray",
+    "gender": "Girl",
+    "meaning": "Radiance of the moon",
+    "origin": "Turkish",
+    "id": "fe1",
+    "verified": true
+  },
+  {
+    "name": "Ferhat",
+    "gender": "Boy",
+    "meaning": "Joy; Happiness",
+    "origin": "Turkish/Persian",
+    "id": "fe2",
+    "verified": true
+  },
+  {
+    "name": "Feroz",
+    "gender": "Boy",
+    "meaning": "Turquoise",
+    "origin": "Persian",
+    "id": "fe5",
+    "verified": true
+  },
+  {
+    "name": "Fevzi",
+    "gender": "Boy",
+    "meaning": "Triumphant; Victorious",
+    "origin": "Turkish/Arabic",
+    "id": "fe3",
+    "verified": true
+  },
+  {
+    "name": "Feyza",
+    "gender": "Girl",
+    "meaning": "Abundance; Prosperity",
+    "origin": "Turkish/Arabic",
+    "id": "fe4",
+    "verified": true
+  }
+]

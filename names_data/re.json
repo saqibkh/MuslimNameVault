@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Reha",
+    "gender": "Boy",
+    "meaning": "Salvation; Rescue",
+    "origin": "Turkish/Arabic",
+    "id": "re1",
+    "verified": true
+  },
+  {
+    "name": "Rengin",
+    "gender": "Girl",
+    "meaning": "Colorful; Bright",
+    "origin": "Persian",
+    "id": "re2",
+    "verified": true
+  },
+  {
+    "name": "Resat",
+    "gender": "Boy",
+    "meaning": "Right path",
+    "origin": "Turkish/Arabic",
+    "id": "re3",
+    "verified": true
+  },
+  {
+    "name": "Reyhan",
+    "gender": "Girl",
+    "meaning": "Sweet basil",
+    "origin": "Turkish/Arabic",
+    "id": "re4",
+    "verified": true
+  }
+]

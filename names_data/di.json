@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Diba",
+    "gender": "Girl",
+    "meaning": "Brocade",
+    "origin": "Persian",
+    "id": "di2",
+    "verified": true
+  },
+  {
+    "name": "Dilara",
+    "gender": "Girl",
+    "meaning": "Adorner of hearts",
+    "origin": "Turkish/Persian",
+    "id": "di1",
+    "verified": true
+  },
+  {
+    "name": "Dilawar",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Persian",
+    "id": "di3",
+    "verified": true
+  },
+  {
+    "name": "Dildar",
+    "gender": "Boy",
+    "meaning": "Charmer",
+    "origin": "Persian",
+    "id": "di4",
+    "verified": true
+  },
+  {
+    "name": "Dilshad",
+    "gender": "Unisex",
+    "meaning": "Happy heart",
+    "origin": "Persian",
+    "id": "di5",
+    "verified": true
+  },
+  {
+    "name": "Dina",
+    "gender": "Girl",
+    "meaning": "Love",
+    "origin": "Arabic",
+    "id": "di6",
+    "verified": true
+  },
+  {
+    "name": "Dirar",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "di9",
+    "verified": true
+  },
+  {
+    "name": "Diya",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "di7",
+    "verified": true
+  },
+  {
+    "name": "Diyab",
+    "gender": "Boy",
+    "meaning": "Wolves",
+    "origin": "Arabic",
+    "id": "di8",
+    "verified": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Affan",
+    "gender": "Boy",
+    "meaning": "Chaste; Modest (Father of Uthman)",
+    "origin": "Arabic",
+    "id": "af3",
+    "verified": true
+  },
+  {
+    "name": "Afif",
+    "gender": "Boy",
+    "meaning": "Chaste; Modest",
+    "origin": "Arabic",
+    "id": "af4",
+    "verified": true
+  },
+  {
+    "name": "Afra",
+    "gender": "Girl",
+    "meaning": "White; Dust-colored",
+    "origin": "Arabic",
+    "id": "af1",
+    "verified": true
+  },
+  {
+    "name": "Afreen",
+    "gender": "Girl",
+    "meaning": "Beautiful; Praise",
+    "origin": "Persian",
+    "id": "af2",
+    "verified": true
+  }
+]

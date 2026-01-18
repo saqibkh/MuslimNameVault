@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Zeki",
+    "gender": "Boy",
+    "meaning": "Intelligent; Clever",
+    "origin": "Turkish/Arabic",
+    "id": "ze2",
+    "verified": true
+  },
+  {
+    "name": "Zekiye",
+    "gender": "Girl",
+    "meaning": "Intelligent",
+    "origin": "Turkish/Arabic",
+    "id": "ze3",
+    "verified": true
+  },
+  {
+    "name": "Zerrin",
+    "gender": "Girl",
+    "meaning": "Golden",
+    "origin": "Persian",
+    "id": "ze4",
+    "verified": true
+  },
+  {
+    "name": "Zeynep",
+    "gender": "Girl",
+    "meaning": "Precious gem",
+    "origin": "Turkish",
+    "id": "ze1",
+    "verified": true
+  }
+]

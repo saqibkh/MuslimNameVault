@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Suat",
+    "gender": "Unisex",
+    "meaning": "Happy; Lucky",
+    "origin": "Turkish/Arabic",
+    "id": "su1",
+    "verified": true
+  },
+  {
+    "name": "Suleyman",
+    "gender": "Boy",
+    "meaning": "Prophet Solomon",
+    "origin": "Turkish/Quranic",
+    "id": "su2",
+    "verified": true
+  },
+  {
+    "name": "Sumeyye",
+    "gender": "Girl",
+    "meaning": "High above; First martyr (Sumayyah)",
+    "origin": "Turkish/Arabic",
+    "id": "su3",
+    "verified": true
+  },
+  {
+    "name": "Suna",
+    "gender": "Girl",
+    "meaning": "Duck; Beautifully shaped",
+    "origin": "Turkish",
+    "id": "su4",
+    "verified": true
+  },
+  {
+    "name": "Suzan",
+    "gender": "Girl",
+    "meaning": "Burning; Passionate",
+    "origin": "Persian",
+    "id": "su5",
+    "verified": true
+  }
+]

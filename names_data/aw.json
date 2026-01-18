@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Awa",
+    "gender": "Girl",
+    "meaning": "Beautiful angel",
+    "origin": "Arabic",
+    "id": "aw1",
+    "verified": true
+  },
+  {
+    "name": "Awad",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "aw2",
+    "verified": true
+  },
+  {
+    "name": "Awais",
+    "gender": "Boy",
+    "meaning": "Compensated",
+    "origin": "Arabic",
+    "id": "aw3",
+    "verified": true
+  },
+  {
+    "name": "Awwab",
+    "gender": "Boy",
+    "meaning": "Repentant",
+    "origin": "Arabic",
+    "id": "aw4",
+    "verified": true
+  }
+]

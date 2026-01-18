@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Nihan",
+    "gender": "Girl",
+    "meaning": "Secret; Hidden",
+    "origin": "Turkish/Persian",
+    "id": "ni2",
+    "verified": true
+  },
+  {
+    "name": "Nihat",
+    "gender": "Boy",
+    "meaning": "Nature; Disposition",
+    "origin": "Turkish/Persian",
+    "id": "ni3",
+    "verified": true
+  },
+  {
+    "name": "Nilay",
+    "gender": "Girl",
+    "meaning": "Moon of the Nile",
+    "origin": "Turkish",
+    "id": "ni4",
+    "verified": true
+  },
+  {
+    "name": "Nilufer",
+    "gender": "Girl",
+    "meaning": "Water lily",
+    "origin": "Turkish/Persian",
+    "id": "ni5",
+    "verified": true
+  },
+  {
+    "name": "Nima",
+    "gender": "Boy",
+    "meaning": "Just; Fair",
+    "origin": "Persian",
+    "id": "ni1",
+    "verified": true
+  },
+  {
+    "name": "Nimet",
+    "gender": "Unisex",
+    "meaning": "Blessing (Ni'mat)",
+    "origin": "Turkish/Arabic",
+    "id": "ni6",
+    "verified": true
+  },
+  {
+    "name": "Niyazi",
+    "gender": "Boy",
+    "meaning": "Supplicant",
+    "origin": "Turkish/Persian",
+    "id": "ni7",
+    "verified": true
+  },
+  {
+    "name": "Nizamuddin",
+    "gender": "Boy",
+    "meaning": "Order of the religion",
+    "origin": "Arabic",
+    "id": "ni8",
+    "verified": true
+  }
+]

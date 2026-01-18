@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Irbad",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ir3",
+    "verified": true
+  },
+  {
+    "name": "Irem",
+    "gender": "Girl",
+    "meaning": "Garden of Eden",
+    "origin": "Turkish",
+    "id": "ir1",
+    "verified": true
+  },
+  {
+    "name": "Irmak",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ir2",
+    "verified": true
+  }
+]

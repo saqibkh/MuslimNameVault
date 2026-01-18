@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Elaf",
+    "gender": "Girl",
+    "meaning": "Safety",
+    "origin": "Quranic",
+    "id": "el2",
+    "verified": true
+  },
+  {
+    "name": "Elif",
+    "gender": "Girl",
+    "meaning": "First letter (Alif); Slender",
+    "origin": "Turkish",
+    "id": "el1",
+    "verified": true
+  },
+  {
+    "name": "Eliza",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Urdu",
+    "id": "el3",
+    "verified": true
+  },
+  {
+    "name": "Elma",
+    "gender": "Girl",
+    "meaning": "Apple",
+    "origin": "Turkish",
+    "id": "el4",
+    "verified": true
+  }
+]

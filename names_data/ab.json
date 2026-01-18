@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Aban",
+    "gender": "Boy",
+    "meaning": "Clear; Distinct",
+    "origin": "Arabic",
+    "id": "ab2",
+    "verified": true
+  },
+  {
+    "name": "Abbad",
+    "gender": "Boy",
+    "meaning": "Great Worshipper",
+    "origin": "Arabic",
+    "id": "ab5",
+    "verified": true
+  },
+  {
+    "name": "Abbas",
+    "gender": "Boy",
+    "meaning": "Lion; Stern",
+    "origin": "Arabic",
+    "id": "ab1",
+    "verified": true
+  },
+  {
+    "name": "Abdaal",
+    "gender": "Boy",
+    "meaning": "Substitute; Persons of high spiritual rank",
+    "origin": "Arabic",
+    "id": "ab3",
+    "verified": true
+  },
+  {
+    "name": "Abid",
+    "gender": "Boy",
+    "meaning": "Worshipper",
+    "origin": "Arabic",
+    "id": "ab6",
+    "verified": true
+  },
+  {
+    "name": "Abqari",
+    "gender": "Boy",
+    "meaning": "Genius",
+    "origin": "Arabic",
+    "id": "ab4",
+    "verified": true
+  },
+  {
+    "name": "Abra",
+    "gender": "Girl",
+    "meaning": "Example; Lesson",
+    "origin": "Arabic",
+    "id": "ab7",
+    "verified": true
+  },
+  {
+    "name": "Absi",
+    "gender": "Boy",
+    "meaning": "To frown; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ab8",
+    "verified": true
+  }
+]

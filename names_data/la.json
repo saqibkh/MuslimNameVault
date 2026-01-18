@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Labid",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Arabic",
+    "id": "la5",
+    "verified": true
+  },
+  {
+    "name": "Laiba",
+    "gender": "Girl",
+    "meaning": "Angel of Heaven",
+    "origin": "Urdu",
+    "id": "la1",
+    "verified": true
+  },
+  {
+    "name": "Lale",
+    "gender": "Girl",
+    "meaning": "Tulip",
+    "origin": "Turkish",
+    "id": "la2",
+    "verified": true
+  },
+  {
+    "name": "Laleh",
+    "gender": "Girl",
+    "meaning": "Tulip",
+    "origin": "Persian",
+    "id": "la3",
+    "verified": true
+  },
+  {
+    "name": "Layan",
+    "gender": "Girl",
+    "meaning": "Gentleness; Softness",
+    "origin": "Arabic",
+    "id": "la4",
+    "verified": true
+  }
+]

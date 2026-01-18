@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Maheen",
+    "gender": "Girl",
+    "meaning": "Beautiful like the moon",
+    "origin": "Persian",
+    "id": "ma5",
+    "verified": true
+  },
+  {
+    "name": "Maira",
+    "gender": "Girl",
+    "meaning": "Moon; Swift",
+    "origin": "Arabic",
+    "id": "ma1",
+    "verified": true
+  },
+  {
+    "name": "Makbule",
+    "gender": "Girl",
+    "meaning": "Accepted; Pleasing",
+    "origin": "Turkish/Arabic",
+    "id": "ma6",
+    "verified": true
+  },
+  {
+    "name": "Malahat",
+    "gender": "Girl",
+    "meaning": "Elegance; Beauty",
+    "origin": "Turkish/Arabic",
+    "id": "ma7",
+    "verified": true
+  },
+  {
+    "name": "Manal",
+    "gender": "Girl",
+    "meaning": "Achievement",
+    "origin": "Arabic",
+    "id": "ma2",
+    "verified": true
+  },
+  {
+    "name": "Mani",
+    "gender": "Boy",
+    "meaning": "Thinker",
+    "origin": "Persian",
+    "id": "ma3",
+    "verified": true
+  },
+  {
+    "name": "Maral",
+    "gender": "Girl",
+    "meaning": "Deer; Gazelle",
+    "origin": "Turkish/Persian",
+    "id": "ma8",
+    "verified": true
+  },
+  {
+    "name": "Marjan",
+    "gender": "Girl",
+    "meaning": "Coral",
+    "origin": "Persian",
+    "id": "ma4",
+    "verified": true
+  }
+]

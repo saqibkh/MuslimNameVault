@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Gul",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "gu9",
+    "verified": true
+  },
+  {
+    "name": "Gulab",
+    "gender": "Boy",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "gu10",
+    "verified": true
+  },
+  {
+    "name": "Gulbadan",
+    "gender": "Girl",
+    "meaning": "Body like a rose",
+    "origin": "Persian",
+    "id": "gu1",
+    "verified": true
+  },
+  {
+    "name": "Gulbahar",
+    "gender": "Girl",
+    "meaning": "Spring rose",
+    "origin": "Persian",
+    "id": "gu2",
+    "verified": true
+  },
+  {
+    "name": "Gulbarg",
+    "gender": "Girl",
+    "meaning": "Rose petal",
+    "origin": "Persian",
+    "id": "gu3",
+    "verified": true
+  },
+  {
+    "name": "Gulfam",
+    "gender": "Boy",
+    "meaning": "Rose-faced",
+    "origin": "Persian",
+    "id": "gu4",
+    "verified": true
+  },
+  {
+    "name": "Gulnara",
+    "gender": "Girl",
+    "meaning": "Pomegranate flower",
+    "origin": "Persian/Central Asian",
+    "id": "gu5",
+    "verified": true
+  },
+  {
+    "name": "Gulsan",
+    "gender": "Girl",
+    "meaning": "Rose garden",
+    "origin": "Turkish",
+    "id": "gu6",
+    "verified": true
+  },
+  {
+    "name": "Gulten",
+    "gender": "Girl",
+    "meaning": "Rose skin",
+    "origin": "Turkish",
+    "id": "gu7",
+    "verified": true
+  },
+  {
+    "name": "Gulzar",
+    "gender": "Unisex",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "id": "gu11",
+    "verified": true
+  },
+  {
+    "name": "Gunes",
+    "gender": "Unisex",
+    "meaning": "Sun",
+    "origin": "Turkish",
+    "id": "gu8",
+    "verified": true
+  }
+]

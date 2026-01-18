@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rohaan",
+    "gender": "Boy",
+    "meaning": "Spiritual; Kindhearted",
+    "origin": "Arabic",
+    "id": "ro1",
+    "verified": true
+  },
+  {
+    "name": "Romaisa",
+    "gender": "Girl",
+    "meaning": "Bunch of flowers; Heavens",
+    "origin": "Arabic",
+    "id": "ro2",
+    "verified": true
+  },
+  {
+    "name": "Roya",
+    "gender": "Girl",
+    "meaning": "Dream; Vision",
+    "origin": "Persian",
+    "id": "ro3",
+    "verified": true
+  }
+]

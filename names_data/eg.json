@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ege",
+    "gender": "Unisex",
+    "meaning": "Aegean Sea",
+    "origin": "Turkish",
+    "id": "eg1",
+    "verified": true
+  },
+  {
+    "name": "Egemen",
+    "gender": "Boy",
+    "meaning": "Dominant",
+    "origin": "Turkish",
+    "id": "eg2",
+    "verified": true
+  }
+]

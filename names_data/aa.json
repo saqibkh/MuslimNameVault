@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Aabdar",
+    "gender": "Boy",
+    "meaning": "Bright; Lustrous like water",
+    "origin": "Persian",
+    "id": "aa3",
+    "verified": true
+  },
+  {
+    "name": "Aahil",
+    "gender": "Boy",
+    "meaning": "Prince; Great King",
+    "origin": "Arabic",
+    "id": "aa4",
+    "verified": true
+  },
+  {
+    "name": "Aalif",
+    "gender": "Boy",
+    "meaning": "Compassionate; Affectionate",
+    "origin": "Arabic",
+    "id": "aa5",
+    "verified": true
+  },
+  {
+    "name": "Aaris",
+    "gender": "Boy",
+    "meaning": "Farmer; Plowman",
+    "origin": "Arabic",
+    "id": "aa6",
+    "verified": true
+  },
+  {
+    "name": "Aariz",
+    "gender": "Boy",
+    "meaning": "Rain-bearing cloud; Respectable man",
+    "origin": "Quranic",
+    "id": "aa1",
+    "verified": true
+  },
+  {
+    "name": "Aatirah",
+    "gender": "Girl",
+    "meaning": "Fragrant",
+    "origin": "Arabic",
+    "id": "aa7",
+    "verified": true
+  },
+  {
+    "name": "Aavya",
+    "gender": "Girl",
+    "meaning": "The first rays of the sun",
+    "origin": "Urdu/Modern",
+    "id": "aa2",
+    "verified": true
+  },
+  {
+    "name": "Aazeen",
+    "gender": "Boy",
+    "meaning": "Beauty",
+    "origin": "Urdu",
+    "id": "aa8",
+    "verified": true
+  }
+]

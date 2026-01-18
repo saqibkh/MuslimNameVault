@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kerem",
+    "gender": "Boy",
+    "meaning": "Nobility; Generosity",
+    "origin": "Turkish",
+    "id": "ke1",
+    "verified": true
+  },
+  {
+    "name": "Kervan",
+    "gender": "Boy",
+    "meaning": "Caravan",
+    "origin": "Turkish",
+    "id": "ke2",
+    "verified": true
+  },
+  {
+    "name": "Kevser",
+    "gender": "Girl",
+    "meaning": "River in Paradise (Kawthar)",
+    "origin": "Turkish/Quranic",
+    "id": "ke3",
+    "verified": true
+  }
+]

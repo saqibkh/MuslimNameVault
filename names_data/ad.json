@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Adal",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "ad1",
+    "verified": true
+  },
+  {
+    "name": "Adam",
+    "gender": "Boy",
+    "meaning": "Man; Earth",
+    "origin": "Quranic",
+    "id": "ad2",
+    "verified": true
+  },
+  {
+    "name": "Adara",
+    "gender": "Girl",
+    "meaning": "Virgin",
+    "origin": "Arabic",
+    "id": "ad3",
+    "verified": true
+  },
+  {
+    "name": "Adeeb",
+    "gender": "Boy",
+    "meaning": "Scholar; Writer",
+    "origin": "Arabic",
+    "id": "ad4",
+    "verified": true
+  },
+  {
+    "name": "Adham",
+    "gender": "Boy",
+    "meaning": "Black Horse; Dark",
+    "origin": "Arabic",
+    "id": "ad6",
+    "verified": true
+  },
+  {
+    "name": "Adina",
+    "gender": "Girl",
+    "meaning": "Friday",
+    "origin": "Arabic",
+    "id": "ad5",
+    "verified": true
+  },
+  {
+    "name": "Adla",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "ad7",
+    "verified": true
+  }
+]

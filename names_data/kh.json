@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Khabbab",
+    "gender": "Boy",
+    "meaning": "One who runs",
+    "origin": "Arabic",
+    "id": "kh1",
+    "verified": true
+  },
+  {
+    "name": "Khallad",
+    "gender": "Boy",
+    "meaning": "Old; Aged",
+    "origin": "Arabic",
+    "id": "kh2",
+    "verified": true
+  },
+  {
+    "name": "Kharijah",
+    "gender": "Boy",
+    "meaning": "External",
+    "origin": "Arabic",
+    "id": "kh3",
+    "verified": true
+  },
+  {
+    "name": "Khubayb",
+    "gender": "Boy",
+    "meaning": "Fast walker",
+    "origin": "Arabic",
+    "id": "kh4",
+    "verified": true
+  },
+  {
+    "name": "Khunais",
+    "gender": "Boy",
+    "meaning": "Hidden",
+    "origin": "Arabic",
+    "id": "kh5",
+    "verified": true
+  }
+]

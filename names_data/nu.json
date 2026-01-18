@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nuray",
+    "gender": "Girl",
+    "meaning": "Radiant moon",
+    "origin": "Turkish",
+    "id": "nu1",
+    "verified": true
+  },
+  {
+    "name": "Nurcan",
+    "gender": "Unisex",
+    "meaning": "Soul of light",
+    "origin": "Turkish/Persian",
+    "id": "nu2",
+    "verified": true
+  },
+  {
+    "name": "Nurgul",
+    "gender": "Girl",
+    "meaning": "Radiant rose",
+    "origin": "Turkish/Persian",
+    "id": "nu3",
+    "verified": true
+  },
+  {
+    "name": "Nursel",
+    "gender": "Girl",
+    "meaning": "Flood of light",
+    "origin": "Turkish",
+    "id": "nu4",
+    "verified": true
+  },
+  {
+    "name": "Nurten",
+    "gender": "Girl",
+    "meaning": "Luminous skin",
+    "origin": "Turkish/Persian",
+    "id": "nu5",
+    "verified": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ghalib",
+    "gender": "Boy",
+    "meaning": "Victor",
+    "origin": "Arabic",
+    "id": "gh4",
+    "verified": true
+  },
+  {
+    "name": "Ghanim",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "gh5",
+    "verified": true
+  },
+  {
+    "name": "Ghassan",
+    "gender": "Boy",
+    "meaning": "Prime of youth",
+    "origin": "Arabic",
+    "id": "gh1",
+    "verified": true
+  },
+  {
+    "name": "Ghazwan",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Arabic",
+    "id": "gh2",
+    "verified": true
+  },
+  {
+    "name": "Ghoncheh",
+    "gender": "Girl",
+    "meaning": "Flower bud",
+    "origin": "Persian",
+    "id": "gh3",
+    "verified": true
+  },
+  {
+    "name": "Ghufran",
+    "gender": "Unisex",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh6",
+    "verified": true
+  }
+]

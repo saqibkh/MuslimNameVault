@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cem",
+    "gender": "Boy",
+    "meaning": "Ruler; King",
+    "origin": "Turkish",
+    "id": "ce1",
+    "verified": true
+  },
+  {
+    "name": "Ceyda",
+    "gender": "Girl",
+    "meaning": "Beautiful woman",
+    "origin": "Turkish",
+    "id": "ce2",
+    "verified": true
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Saadet",
+    "gender": "Girl",
+    "meaning": "Happiness; Bliss",
+    "origin": "Turkish/Arabic",
+    "id": "sa2",
+    "verified": true
+  },
+  {
+    "name": "Sabri",
+    "gender": "Boy",
+    "meaning": "Patient",
+    "origin": "Turkish/Arabic",
+    "id": "sa3",
+    "verified": true
+  },
+  {
+    "name": "Sadik",
+    "gender": "Boy",
+    "meaning": "Loyal; True",
+    "origin": "Turkish/Arabic",
+    "id": "sa4",
+    "verified": true
+  },
+  {
+    "name": "Sait",
+    "gender": "Boy",
+    "meaning": "Happy; Blessed",
+    "origin": "Turkish/Arabic",
+    "id": "sa5",
+    "verified": true
+  },
+  {
+    "name": "Sakir",
+    "gender": "Boy",
+    "meaning": "Grateful",
+    "origin": "Turkish/Arabic",
+    "id": "sa6",
+    "verified": true
+  },
+  {
+    "name": "Saman",
+    "gender": "Boy",
+    "meaning": "Order; Comfort",
+    "origin": "Persian",
+    "id": "sa1",
+    "verified": true
+  },
+  {
+    "name": "Sanem",
+    "gender": "Girl",
+    "meaning": "Idol; Very beautiful",
+    "origin": "Turkish/Arabic",
+    "id": "sa7",
+    "verified": true
+  },
+  {
+    "name": "Sarp",
+    "gender": "Boy",
+    "meaning": "Steep; Hard",
+    "origin": "Turkish",
+    "id": "sa8",
+    "verified": true
+  }
+]

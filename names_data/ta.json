@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tahsin",
+    "gender": "Boy",
+    "meaning": "Praise; Improvement",
+    "origin": "Turkish/Arabic",
+    "id": "ta3",
+    "verified": true
+  },
+  {
+    "name": "Tamer",
+    "gender": "Boy",
+    "meaning": "Date seller",
+    "origin": "Turkish/Arabic",
+    "id": "ta4",
+    "verified": true
+  },
+  {
+    "name": "Taner",
+    "gender": "Boy",
+    "meaning": "Born at dawn",
+    "origin": "Turkish",
+    "id": "ta1",
+    "verified": true
+  },
+  {
+    "name": "Tara",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Persian",
+    "id": "ta2",
+    "verified": true
+  },
+  {
+    "name": "Tayfun",
+    "gender": "Boy",
+    "meaning": "Typhoon; Storm",
+    "origin": "Turkish",
+    "id": "ta5",
+    "verified": true
+  },
+  {
+    "name": "Taylan",
+    "gender": "Boy",
+    "meaning": "Tall; Elegant",
+    "origin": "Turkish",
+    "id": "ta6",
+    "verified": true
+  }
+]

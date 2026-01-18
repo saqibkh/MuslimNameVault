@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Necla",
+    "gender": "Girl",
+    "meaning": "Daughter; Offspring",
+    "origin": "Turkish/Arabic",
+    "id": "ne3",
+    "verified": true
+  },
+  {
+    "name": "Neda",
+    "gender": "Girl",
+    "meaning": "Voice; Call",
+    "origin": "Persian",
+    "id": "ne1",
+    "verified": true
+  },
+  {
+    "name": "Nehir",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ne2",
+    "verified": true
+  },
+  {
+    "name": "Nergis",
+    "gender": "Girl",
+    "meaning": "Daffodil; Narcissus",
+    "origin": "Turkish/Persian",
+    "id": "ne4",
+    "verified": true
+  },
+  {
+    "name": "Nermin",
+    "gender": "Girl",
+    "meaning": "Soft; Delicate",
+    "origin": "Turkish/Persian",
+    "id": "ne5",
+    "verified": true
+  },
+  {
+    "name": "Nesrin",
+    "gender": "Girl",
+    "meaning": "Wild rose",
+    "origin": "Turkish/Persian",
+    "id": "ne6",
+    "verified": true
+  },
+  {
+    "name": "Nevin",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Turkish/Persian",
+    "id": "ne7",
+    "verified": true
+  },
+  {
+    "name": "Nezahat",
+    "gender": "Girl",
+    "meaning": "Purity; Decency",
+    "origin": "Turkish/Arabic",
+    "id": "ne8",
+    "verified": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zafer",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Turkish/Arabic",
+    "id": "za2",
+    "verified": true
+  },
+  {
+    "name": "Zahide",
+    "gender": "Girl",
+    "meaning": "Devout; Ascetic",
+    "origin": "Turkish/Arabic",
+    "id": "za3",
+    "verified": true
+  },
+  {
+    "name": "Zaviyaar",
+    "gender": "Boy",
+    "meaning": "Lion Heart; Brave",
+    "origin": "Urdu",
+    "id": "za1",
+    "verified": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ozan",
+    "gender": "Boy",
+    "meaning": "Bard; Storyteller",
+    "origin": "Turkish",
+    "id": "oz1",
+    "verified": true
+  },
+  {
+    "name": "Ozcan",
+    "gender": "Boy",
+    "meaning": "Pure soul",
+    "origin": "Turkish",
+    "id": "oz2",
+    "verified": true
+  },
+  {
+    "name": "Ozge",
+    "gender": "Girl",
+    "meaning": "Different; Unique",
+    "origin": "Turkish",
+    "id": "oz3",
+    "verified": true
+  },
+  {
+    "name": "Ozgur",
+    "gender": "Unisex",
+    "meaning": "Free; Independent",
+    "origin": "Turkish",
+    "id": "oz4",
+    "verified": true
+  },
+  {
+    "name": "Ozkan",
+    "gender": "Boy",
+    "meaning": "Noble blood",
+    "origin": "Turkish",
+    "id": "oz5",
+    "verified": true
+  },
+  {
+    "name": "Ozlem",
+    "gender": "Girl",
+    "meaning": "Longing; Yearning",
+    "origin": "Turkish",
+    "id": "oz6",
+    "verified": true
+  }
+]

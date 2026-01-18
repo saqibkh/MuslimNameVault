@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fuad",
+    "gender": "Boy",
+    "meaning": "Heart",
+    "origin": "Arabic",
+    "id": "fu3",
+    "verified": true
+  },
+  {
+    "name": "Fudail",
+    "gender": "Boy",
+    "meaning": "Excellent",
+    "origin": "Arabic",
+    "id": "fu4",
+    "verified": true
+  },
+  {
+    "name": "Funda",
+    "gender": "Girl",
+    "meaning": "Heather plant",
+    "origin": "Turkish",
+    "id": "fu1",
+    "verified": true
+  },
+  {
+    "name": "Furkan",
+    "gender": "Boy",
+    "meaning": "Criterion (between right and wrong)",
+    "origin": "Turkish/Quranic",
+    "id": "fu2",
+    "verified": true
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Ayah",
+    "gender": "Girl",
+    "meaning": "Sign; Verse",
+    "origin": "Quranic",
+    "id": "ay4",
+    "verified": true
+  },
+  {
+    "name": "Ayan",
+    "gender": "Boy",
+    "meaning": "God's Gift",
+    "origin": "Arabic",
+    "id": "ay5",
+    "verified": true
+  },
+  {
+    "name": "Ayana",
+    "gender": "Girl",
+    "meaning": "Beautiful flower",
+    "origin": "Urdu",
+    "id": "ay6",
+    "verified": true
+  },
+  {
+    "name": "Ayas",
+    "gender": "Boy",
+    "meaning": "Moonlight",
+    "origin": "Turkish",
+    "id": "ay11",
+    "verified": true
+  },
+  {
+    "name": "Ayaz",
+    "gender": "Boy",
+    "meaning": "Night Breeze",
+    "origin": "Persian",
+    "id": "ay7",
+    "verified": true
+  },
+  {
+    "name": "Aydin",
+    "gender": "Boy",
+    "meaning": "Enlightened",
+    "origin": "Turkish",
+    "id": "ay12",
+    "verified": true
+  },
+  {
+    "name": "Ayla",
+    "gender": "Girl",
+    "meaning": "Halo of light around the moon",
+    "origin": "Turkish",
+    "id": "ay1",
+    "verified": true
+  },
+  {
+    "name": "Aylin",
+    "gender": "Girl",
+    "meaning": "Moon halo",
+    "origin": "Turkish",
+    "id": "ay2",
+    "verified": true
+  },
+  {
+    "name": "Ayman",
+    "gender": "Boy",
+    "meaning": "Lucky",
+    "origin": "Arabic",
+    "id": "ay8",
+    "verified": true
+  },
+  {
+    "name": "Ayra",
+    "gender": "Girl",
+    "meaning": "Respectable; Noble",
+    "origin": "Arabic",
+    "id": "ay3",
+    "verified": true
+  },
+  {
+    "name": "Ayser",
+    "gender": "Boy",
+    "meaning": "Easy",
+    "origin": "Arabic",
+    "id": "ay9",
+    "verified": true
+  },
+  {
+    "name": "Ayub",
+    "gender": "Boy",
+    "meaning": "Prophet Job",
+    "origin": "Quranic",
+    "id": "ay10",
+    "verified": true
+  },
+  {
+    "name": "Ayyas",
+    "gender": "Boy",
+    "meaning": "Lion; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ay13",
+    "verified": true
+  }
+]

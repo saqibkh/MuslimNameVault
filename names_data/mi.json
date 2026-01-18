@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Minal",
+    "gender": "Girl",
+    "meaning": "Gift; Achievement",
+    "origin": "Arabic",
+    "id": "mi1",
+    "verified": true
+  },
+  {
+    "name": "Mirac",
+    "gender": "Boy",
+    "meaning": "Ascension to heaven",
+    "origin": "Turkish/Arabic",
+    "id": "mi4",
+    "verified": true
+  },
+  {
+    "name": "Miran",
+    "gender": "Boy",
+    "meaning": "Princes; Rulers",
+    "origin": "Kurdish/Persian",
+    "id": "mi5",
+    "verified": true
+  },
+  {
+    "name": "Mirha",
+    "gender": "Girl",
+    "meaning": "Light of Allah",
+    "origin": "Arabic",
+    "id": "mi2",
+    "verified": true
+  },
+  {
+    "name": "Mishal",
+    "gender": "Girl",
+    "meaning": "Torch; Light",
+    "origin": "Arabic",
+    "id": "mi3",
+    "verified": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Zuhal",
+    "gender": "Girl",
+    "meaning": "Saturn",
+    "origin": "Turkish/Arabic",
+    "id": "zu2",
+    "verified": true
+  },
+  {
+    "name": "Zuleyha",
+    "gender": "Girl",
+    "meaning": "Water fairy; Legendary beauty",
+    "origin": "Turkish/Arabic",
+    "id": "zu3",
+    "verified": true
+  },
+  {
+    "name": "Zumrut",
+    "gender": "Girl",
+    "meaning": "Emerald",
+    "origin": "Turkish/Arabic",
+    "id": "zu4",
+    "verified": true
+  },
+  {
+    "name": "Zunairah",
+    "gender": "Girl",
+    "meaning": "Flower in paradise",
+    "origin": "Arabic",
+    "id": "zu1",
+    "verified": true
+  }
+]

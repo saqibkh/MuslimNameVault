@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Amaar",
+    "gender": "Boy",
+    "meaning": "One who prays 5 times",
+    "origin": "Arabic",
+    "id": "am1",
+    "verified": true
+  },
+  {
+    "name": "Amal",
+    "gender": "Unisex",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "am2",
+    "verified": true
+  },
+  {
+    "name": "Amalia",
+    "gender": "Girl",
+    "meaning": "Hope; Aspiration",
+    "origin": "Arabic",
+    "id": "am3",
+    "verified": true
+  },
+  {
+    "name": "Aman",
+    "gender": "Boy",
+    "meaning": "Peace",
+    "origin": "Arabic",
+    "id": "am4",
+    "verified": true
+  },
+  {
+    "name": "Amani",
+    "gender": "Girl",
+    "meaning": "Wishes",
+    "origin": "Arabic",
+    "id": "am5",
+    "verified": true
+  },
+  {
+    "name": "Amara",
+    "gender": "Girl",
+    "meaning": "Eternal beauty",
+    "origin": "Arabic",
+    "id": "am6",
+    "verified": true
+  },
+  {
+    "name": "Amel",
+    "gender": "Girl",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "am7",
+    "verified": true
+  },
+  {
+    "name": "Ammar",
+    "gender": "Boy",
+    "meaning": "Builder; Long-lived",
+    "origin": "Arabic",
+    "id": "am8",
+    "verified": true
+  },
+  {
+    "name": "Amna",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Arabic",
+    "id": "am9",
+    "verified": true
+  },
+  {
+    "name": "Amra",
+    "gender": "Girl",
+    "meaning": "Long life",
+    "origin": "Arabic",
+    "id": "am10",
+    "verified": true
+  }
+]
