@@ -6,102 +6,51 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-888K6713BX');
     </script>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muslim Name Vault - Meaningful Islamic Names Dictionary | MuslimNameVault</title>
-    <meta name="description" content="The most comprehensive collection of Muslim baby names.">
-    
+    <title>Muslim Name Vault - Meaningful Islamic Names Dictionary</title>
+    <meta name="description" content="The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciations.">
+    <link rel="canonical" href="https://muslimnamevault.com">
+
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://muslimnamevault.com/">
+    <meta property="og:url" content="https://muslimnamevault.com">
     <meta property="og:title" content="Muslim Name Vault - Meaningful Islamic Names Dictionary">
-    <meta property="og:description" content="The most comprehensive collection of Muslim baby names.">
+    <meta property="og:description" content="The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciations.">
     <meta property="og:image" content="https://via.placeholder.com/1200x630.png?text=MuslimNameVault">
-    
+
     
 
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="/css/styles.css" rel="stylesheet">
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Inter:wght@400;500;600;700&family=Reem+Kufi:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        h1, h2, h3, .font-heading { font-family: 'Reem Kufi', sans-serif; }
-        .arabic-text { font-family: 'Amiri', serif; }
-        .name-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
-        .search-results::-webkit-scrollbar { width: 6px; }
-        .search-results::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
-    </style>
 </head>
-<body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen selection:bg-emerald-100 selection:text-emerald-900">
+<body>
 
-    <nav class="bg-emerald-900 text-white shadow-lg sticky top-0 z-50 border-b border-emerald-800">
-        <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
+    <nav class="bg-emerald-900 text-white sticky top-0 z-50 shadow-md">
+        <div class="container px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
+            <a href="/" class="text-2xl font-bold font-heading hover:text-emerald-200 transition">
+                MuslimNameVault
+            </a>
             
-            <div class="flex items-center justify-between w-full md:w-auto">
-                <a href="/" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
-                    <span>MuslimNameVault</span>
-                </a>
-                <div class="flex md:hidden gap-4">
-                    <a href="/favorites/" class="text-white hover:text-emerald-200">❤️</a>
-                </div>
+            <div class="relative w-full md:w-96">
+                <input type="text" id="globalSearch" placeholder="Search a name..." 
+                       class="w-full px-4 py-2 rounded text-slate-800 focus:outline-none">
+                <div id="searchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded shadow-xl border border-slate-200 z-50"></div>
             </div>
 
-            <div class="relative w-full md:w-96 group">
-                <div class="relative">
-                    <input type="text" id="globalSearch" placeholder="Search dictionary..." 
-                           class="w-full pl-10 pr-4 py-2 rounded-lg text-slate-800 bg-emerald-50 focus:bg-white focus:ring-2 focus:ring-emerald-400 outline-none transition shadow-inner placeholder-emerald-800/50">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-emerald-700 absolute left-3 top-2.5 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                    </svg>
-                </div>
-                <div id="globalSearchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded-lg shadow-xl border border-slate-200 max-h-80 overflow-y-auto search-results z-50"></div>
-            </div>
-
-            <div class="hidden md:flex gap-6 items-center">
-                <a href="/" class="hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition">Home</a>
-                
-                <a href="/finder/" class="hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition flex items-center gap-1">
-                    <span>🔍 Finder</span>
-                </a>
-
-                <div class="relative group">
-                    <button class="flex items-center gap-1 hover:text-emerald-200 font-medium opacity-90 hover:opacity-100 transition outline-none cursor-pointer py-2">
-                        Collections
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                        </svg>
-                    </button>
-                    
-                    <div class="absolute top-full right-0 pt-2 w-56 hidden group-hover:block z-50 hover:block">
-                        <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
-                            <a href="/names-trending/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>🔥</span> Trending 2026
-                            </a>
-                            <a href="/names-prophets/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>🕌</span> Prophets
-                            </a>
-                            <a href="/names-sahaba/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>⚔️</span> Sahaba
-                            </a>
-                            <a href="/names-quranic/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition flex items-center gap-2">
-                                <span>📖</span> Quranic Names
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <a href="/favorites/" class="hover:text-emerald-200 font-medium flex items-center gap-1 opacity-90 hover:opacity-100 transition">
-                    <span>❤️ My List</span>
-                </a>
+            <div class="flex gap-6 text-sm font-medium">
+                <a href="/" class="hover:text-emerald-200">Home</a>
+                <a href="/names-a/" class="hover:text-emerald-200">A-Z Names</a>
             </div>
         </div>
     </nav>
 
-    <main class="flex-grow container mx-auto px-4 py-8">
+    <main class="flex-grow container px-4 py-8">
         
 <div class="text-center max-w-3xl mx-auto mb-16 mt-10">
     <div class="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-emerald-50 text-emerald-800 text-sm font-bold mb-6 border border-emerald-100 shadow-sm animate-fade-in-up">
@@ -132,142 +81,12 @@
     
     <div class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-9 gap-3 md:gap-4">
         
-        <a href="/names-a/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">A</span>
-        </a>
-        
-        <a href="/names-b/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">B</span>
-        </a>
-        
-        <a href="/names-c/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">C</span>
-        </a>
-        
-        <a href="/names-d/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">D</span>
-        </a>
-        
-        <a href="/names-e/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">E</span>
-        </a>
-        
-        <a href="/names-f/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">F</span>
-        </a>
-        
-        <a href="/names-g/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">G</span>
-        </a>
-        
-        <a href="/names-h/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">H</span>
-        </a>
-        
-        <a href="/names-i/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">I</span>
-        </a>
-        
-        <a href="/names-j/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">J</span>
-        </a>
-        
-        <a href="/names-k/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">K</span>
-        </a>
-        
-        <a href="/names-l/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">L</span>
-        </a>
-        
-        <a href="/names-m/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">M</span>
-        </a>
-        
-        <a href="/names-n/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">N</span>
-        </a>
-        
-        <a href="/names-o/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">O</span>
-        </a>
-        
-        <a href="/names-p/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">P</span>
-        </a>
-        
-        <a href="/names-q/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">Q</span>
-        </a>
-        
-        <a href="/names-r/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">R</span>
-        </a>
-        
-        <a href="/names-s/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">S</span>
-        </a>
-        
-        <a href="/names-t/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">T</span>
-        </a>
-        
-        <a href="/names-u/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">U</span>
-        </a>
-        
-        <a href="/names-v/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">V</span>
-        </a>
-        
-        <a href="/names-w/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">W</span>
-        </a>
-        
-        <a href="/names-x/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">X</span>
-        </a>
-        
-        <a href="/names-y/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">Y</span>
-        </a>
-        
-        <a href="/names-z/" 
-           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
-            <span class="text-2xl font-bold font-heading block">Z</span>
-        </a>
-        
     </div>
 </div>
 
 <script>
     function randomName() {
-        const letters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+        const letters = ;
         if (letters.length > 0) {
             const randomLetter = letters[Math.floor(Math.random() * letters.length)];
             window.location.href = `/names-${randomLetter.toLowerCase()}/`;
@@ -277,70 +96,46 @@
 
     </main>
 
-    <footer class="bg-slate-900 text-slate-400 py-12 text-center mt-auto border-t border-slate-800">
-        <div class="container mx-auto px-4">
-            <div class="mb-8">
-                <h4 class="text-slate-200 font-bold mb-4 font-heading text-lg">Popular Searches</h4>
-                <div class="flex flex-wrap justify-center gap-3 text-sm">
-                    <a href="/names-a/" class="hover:text-emerald-400 transition">Names starting with A</a>
-                    <span class="text-slate-700">•</span>
-                    <a href="/names-m/" class="hover:text-emerald-400 transition">Names starting with M</a>
-                    <span class="text-slate-700">•</span>
-                    <a href="/names-z/" class="hover:text-emerald-400 transition">Names starting with Z</a>
-                    <span class="text-slate-700">•</span>
-                    <a href="/favorites/" class="hover:text-emerald-400 transition">My Favorites</a>
-                </div>
-            </div>
-            <p class="text-sm opacity-75">&copy; 2026 MuslimNameVault. Built with ❤️ for the Ummah.</p>
+    <footer class="bg-slate-900 text-slate-400 py-12 mt-auto border-t border-slate-800 text-center">
+        <div class="container px-4">
+            <p>&copy; 2026 MuslimNameVault.com. All rights reserved.</p>
         </div>
     </footer>
 
     <script>
-        const globalSearchInput = document.getElementById('globalSearch');
-        const resultsContainer = document.getElementById('globalSearchResults');
-        let searchIndex = [];
+        const searchInput = document.getElementById('globalSearch');
+        const resultsBox = document.getElementById('searchResults');
+        let indexData = [];
 
-        // Load Search Index (Absolute Path)
         fetch('/search_index.json')
-            .then(response => response.json())
-            .then(data => { searchIndex = data; })
-            .catch(err => console.error("Error loading search index:", err));
+            .then(r => r.json())
+            .then(data => indexData = data);
 
-        globalSearchInput.addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase().trim();
-            resultsContainer.innerHTML = '';
+        searchInput.addEventListener('input', (e) => {
+            const q = e.target.value.toLowerCase().trim();
+            resultsBox.innerHTML = '';
+            if(q.length < 2) { resultsBox.classList.add('hidden'); return; }
             
-            if (query.length < 2) {
-                resultsContainer.classList.add('hidden');
-                return;
-            }
-
-            const results = searchIndex.filter(item => item.n.toLowerCase().startsWith(query) || item.n.toLowerCase().includes(query)).slice(0, 10);
-
-            if (results.length > 0) {
-                resultsContainer.classList.remove('hidden');
-                results.forEach(item => {
-                    const div = document.createElement('a');
-                    div.href = item.s;
-                    div.className = "block px-4 py-3 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition flex justify-between items-center group";
-                    div.innerHTML = `
-                        <div>
-                            <span class="font-bold text-slate-800 block group-hover:text-emerald-700">${item.n}</span>
-                            <span class="text-xs text-slate-500 truncate block max-w-[200px]">${item.m}</span>
-                        </div>
-                        <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-100 text-slate-600 uppercase">${item.g || 'U'}</span>
-                    `;
-                    resultsContainer.appendChild(div);
+            const matches = indexData.filter(i => i.n.toLowerCase().startsWith(q)).slice(0, 8);
+            
+            if(matches.length > 0) {
+                resultsBox.classList.remove('hidden');
+                matches.forEach(m => {
+                    const a = document.createElement('a');
+                    a.href = m.s;
+                    a.className = "block px-4 py-2 hover:bg-emerald-50 border-b border-slate-100 text-slate-800 flex justify-between";
+                    a.innerHTML = `<span class="font-bold">${m.n}</span><span class="text-xs text-slate-500">${m.m}</span>`;
+                    resultsBox.appendChild(a);
                 });
             } else {
-                resultsContainer.classList.remove('hidden');
-                resultsContainer.innerHTML = '<div class="px-4 py-3 text-slate-500 text-sm">No names found.</div>';
+                resultsBox.classList.add('hidden');
             }
         });
-
+        
+        // Hide on click outside
         document.addEventListener('click', (e) => {
-            if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
-                resultsContainer.classList.add('hidden');
+            if (!searchInput.contains(e.target) && !resultsBox.contains(e.target)) {
+                resultsBox.classList.add('hidden');
             }
         });
     </script>
