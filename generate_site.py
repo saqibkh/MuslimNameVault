@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import random
 from jinja2 import Environment, FileSystemLoader
 from seo_utils import generate_sitemap
 import config  # Ensure config.py exists in the same directory
@@ -16,6 +17,59 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Jinja2 Setup
 env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
+
+def generate_rich_description(name, meaning, gender, origin, transliteration):
+    """
+    Generates a unique, non-repetitive description for every name
+    to prevent Google 'Duplicate Content' penalties.
+    """
+    # 1. Gender-specific Introductions
+    intro_templates = []
+    if gender == 'Boy':
+        intro_templates = [
+            f"If you are looking for a strong and significant name for your son, <strong>{name}</strong> is a standout choice.",
+            f"The name <strong>{name}</strong> is a classic masculine title rooted in {origin} tradition.",
+            f"For parents seeking a noble identity for their baby boy, <strong>{name}</strong> offers deep spiritual resonance."
+        ]
+    elif gender == 'Girl':
+        intro_templates = [
+            f"Graceful and timeless, the name <strong>{name}</strong> is a beautiful choice for a baby girl.",
+            f"<strong>{name}</strong> is a feminine title rich in history, originating from {origin} roots.",
+            f"Capturing elegance and depth, <strong>{name}</strong> stands out as a meaningful name for your daughter."
+        ]
+    else: # Unisex
+        intro_templates = [
+            f"<strong>{name}</strong> is a versatile and harmonious name suitable for both boys and girls.",
+            f"With its {origin} roots, <strong>{name}</strong> is a unique unisex choice carrying profound meaning."
+        ]
+
+    # 2. Meaning Analysis
+    meaning_lower = meaning.lower()
+    meaning_text = ""
+    if "god" in meaning_lower or "allah" in meaning_lower:
+        meaning_text = f"It carries a divine connection, translating essentially to '<em>{meaning}</em>'. This bestows a sense of spiritual protection upon the bearer."
+    elif "beautiful" in meaning_lower or "flower" in meaning_lower or "light" in meaning_lower:
+        meaning_text = f"The literal meaning, '<em>{meaning}</em>', evokes imagery of nature and radiance, suggesting a personality full of life and positivity."
+    elif "warrior" in meaning_lower or "brave" in meaning_lower or "lion" in meaning_lower:
+        meaning_text = f"Meaning '<em>{meaning}</em>', this name carries a weight of authority, courage, and leadership."
+    else:
+        meaning_text = f"The name holds the profound meaning of '<em>{meaning}</em>', reflecting qualities that parents often wish to bestow upon their child."
+
+    # 3. Cultural Context (Randomized variations)
+    cultural_templates = [
+        f"In {origin} culture, names are more than labels; they are prayers. {name} is widely respected for its positive connotations.",
+        f"Pronounced as <em>{transliteration or name}</em>, it has a rhythmic flow that makes it memorable and distinct.",
+        f"While popular in {origin} regions, {name} has a modern appeal that transcends borders."
+    ]
+
+    # 4. Closing Recommendation
+    closing = "It is an excellent choice for a modern Muslim family honoring tradition."
+    
+    # Combine random selections
+    paragraph_1 = f"{random.choice(intro_templates)} {meaning_text}"
+    paragraph_2 = f"{random.choice(cultural_templates)} {closing}"
+    
+    return f"{paragraph_1} <br><br> {paragraph_2}"
 
 def load_names():
     """Loads all JSON files from the names_data directory."""
@@ -151,16 +205,20 @@ def generate_website():
         gender_full = "boy" if gender == 'Boy' else "girl"
         if gender == 'Unisex': gender_full = "boy or girl"
         
-        long_desc = (
-            f"The name <strong>{name}</strong> is a beautiful {origin} name for a {gender_full}. "
-            f"In Islamic culture, names hold deep significance, and {name} implies '<em>{meaning}</em>'. "
-            f"It is a popular choice for Muslim parents seeking a name that embodies {meaning.lower()}. "
-            f"Pronounced correctly, it carries a dignified and spiritual tone."
-        )
+        long_desc = generate_rich_description(name, meaning, gender, origin, name_entry.get('transliteration'))
 
         # B. Related Names (Same starting letter)
         first_char = name[0].upper()
-        related_names = [n for n in names if n['name'].startswith(first_char) and n['name'] != name][:10]
+        related_names = [n for n in names if n.get('origin') == origin and n['name'] != name]
+        
+        # 2. Fallback: If not enough origin matches, find names with same Gender
+        if len(related_names) < 5:
+            related_names += [n for n in names if n.get('gender') == gender and n['name'] != name]
+            
+        # 3. Shuffle and pick 10
+        import random
+        random.shuffle(related_names)
+        related_names = related_names[:12] # Show 12 related names
 
         # C. JSON-LD Schema
         schema_data = {
