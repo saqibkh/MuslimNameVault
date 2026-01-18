@@ -33,7 +33,6 @@
         body { font-family: 'Inter', sans-serif; }
         h1, h2, h3, .font-heading { font-family: 'Reem Kufi', sans-serif; }
         .arabic-text { font-family: 'Amiri', serif; }
-        /* Custom scrollbar for search results */
         .search-results::-webkit-scrollbar { width: 6px; }
         .search-results::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
     </style>
@@ -58,8 +57,39 @@
 
             <div class="hidden md:flex gap-6 items-center font-medium">
                 <a href="/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100">Home</a>
-                <a href="/names-a/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100 flex items-center gap-1">
-                    <span>📖 Browse A-Z</span>
+                
+                <a href="/finder/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100 flex items-center gap-1">
+                    <span>🔍 Finder</span>
+                </a>
+
+                <div class="relative group">
+                    <button class="flex items-center gap-1 hover:text-emerald-200 transition opacity-90 hover:opacity-100 outline-none cursor-pointer py-2">
+                        Collections
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+                    
+                    <div class="absolute top-full right-0 pt-2 w-56 hidden group-hover:block z-50 hover:block">
+                        <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
+                            <a href="/names-trending/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                <span>🔥</span> Trending 2026
+                            </a>
+                            <a href="/names-prophets/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                <span>🕌</span> Prophets
+                            </a>
+                            <a href="/names-sahaba/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                <span>⚔️</span> Sahaba
+                            </a>
+                            <a href="/names-quranic/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition flex items-center gap-2">
+                                <span>📖</span> Quranic Names
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="/names-a/" class="bg-emerald-800 px-4 py-2 rounded-lg hover:bg-emerald-700 transition shadow-sm border border-emerald-700 flex items-center gap-2 text-sm">
+                    <span> Browse A-Z</span>
                 </a>
             </div>
         </div>
@@ -103,6 +133,136 @@
     
     <div class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-9 gap-3 md:gap-4">
         
+        <a href="/names-a/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">A</span>
+        </a>
+        
+        <a href="/names-b/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">B</span>
+        </a>
+        
+        <a href="/names-c/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">C</span>
+        </a>
+        
+        <a href="/names-d/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">D</span>
+        </a>
+        
+        <a href="/names-e/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">E</span>
+        </a>
+        
+        <a href="/names-f/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">F</span>
+        </a>
+        
+        <a href="/names-g/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">G</span>
+        </a>
+        
+        <a href="/names-h/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">H</span>
+        </a>
+        
+        <a href="/names-i/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">I</span>
+        </a>
+        
+        <a href="/names-j/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">J</span>
+        </a>
+        
+        <a href="/names-k/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">K</span>
+        </a>
+        
+        <a href="/names-l/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">L</span>
+        </a>
+        
+        <a href="/names-m/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">M</span>
+        </a>
+        
+        <a href="/names-n/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">N</span>
+        </a>
+        
+        <a href="/names-o/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">O</span>
+        </a>
+        
+        <a href="/names-p/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">P</span>
+        </a>
+        
+        <a href="/names-q/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">Q</span>
+        </a>
+        
+        <a href="/names-r/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">R</span>
+        </a>
+        
+        <a href="/names-s/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">S</span>
+        </a>
+        
+        <a href="/names-t/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">T</span>
+        </a>
+        
+        <a href="/names-u/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">U</span>
+        </a>
+        
+        <a href="/names-v/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">V</span>
+        </a>
+        
+        <a href="/names-w/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">W</span>
+        </a>
+        
+        <a href="/names-x/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">X</span>
+        </a>
+        
+        <a href="/names-y/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">Y</span>
+        </a>
+        
+        <a href="/names-z/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">Z</span>
+        </a>
+        
     </div>
 </div>
 
@@ -126,6 +286,8 @@
                     <a href="/names-m/" class="hover:text-emerald-400 transition">Names starting with M</a>
                     <span class="text-slate-700">•</span>
                     <a href="/names-z/" class="hover:text-emerald-400 transition">Names starting with Z</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="/names-trending/" class="hover:text-emerald-400 transition">Trending Names</a>
                 </div>
             </div>
             <p class="text-sm opacity-75">&copy; 2026 MuslimNameVault. Built with ❤️ for the Ummah.</p>

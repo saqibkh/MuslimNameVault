@@ -3,7 +3,7 @@ import json
 import glob
 from jinja2 import Environment, FileSystemLoader
 from seo_utils import generate_sitemap
-import datetime
+import config  # Ensure config.py exists in the same directory
 
 # --- CONFIGURATION ---
 NAMES_DATA_DIR = 'names_data'
@@ -13,7 +13,6 @@ SITE_URL = "https://muslimnamevault.com"
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(os.path.join(OUTPUT_DIR, 'css'), exist_ok=True)
 
 # Jinja2 Setup
 env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
@@ -37,16 +36,78 @@ def load_names():
     # Sort A-Z
     return sorted(all_names, key=lambda x: x.get('name', ''))
 
+def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False):
+    """
+    Generates a collection page (e.g., 'names-trending' or 'names-a').
+    If is_letter_page is True, name_list is assumed to be the actual list of dicts.
+    If False, name_list is a list of strings (names) to look up.
+    """
+    folder_path = os.path.join(OUTPUT_DIR, folder_name)
+    os.makedirs(folder_path, exist_ok=True)
+    
+    filtered_names = []
+    if is_letter_page:
+        filtered_names = name_list
+    else:
+        # Filter names: Find matches in our database
+        target_names = {n.lower() for n in name_list}
+        filtered_names = [n for n in all_names if n['name'].lower() in target_names]
+    
+    # Inline Template for Collections (Uses Base.html)
+    template = env.from_string("""
+    {% extends "base.html" %}
+    {% block content %}
+    <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-12 mt-8">
+            <span class="inline-block py-1.5 px-4 rounded-full bg-emerald-100 text-emerald-800 text-sm font-bold mb-4 border border-emerald-200">
+                {{ names|length }} Names Found
+            </span>
+            <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 font-heading">{{ title }}</h1>
+            <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">{{ description }}</p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {% for n in names %}
+            <a href="/name-{{ n.name|lower|replace(' ', '-') }}/" 
+               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+                <div class="flex justify-between items-start mb-2 relative z-10">
+                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">{{ n.name }}</h3>
+                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">{{ n.gender }}</span>
+                </div>
+                <p class="text-slate-600 line-clamp-2 relative z-10">{{ n.meaning }}</p>
+            </a>
+            {% endfor %}
+        </div>
+        
+        {% if names|length == 0 %}
+        <div class="text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
+            <p class="text-slate-500 text-lg">We are adding more names to this collection soon!</p>
+            <a href="/" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Return Home</a>
+        </div>
+        {% endif %}
+    </div>
+    {% endblock %}
+    """)
+    
+    with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(template.render(
+            title=f"{title} | MuslimNameVault",
+            description=description,
+            names=filtered_names,
+            url=f"{SITE_URL}/{folder_name}/"
+        ))
+    print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
+
 def generate_website():
     print("🚀 Starting Website Generation...")
     
     names = load_names()
     print(f"✅ Loaded {len(names)} names.")
     
-    # 1. Generate Index Page (A-Z Grid)
-    index_template = env.get_template('index.html')
-    # Group names by first letter for the dashboard
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+    # 1. Generate Index Page (Homepage)
+    index_template = env.get_template('index.html')
     
     with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
         f.write(index_template.render(
@@ -58,20 +119,20 @@ def generate_website():
         ))
     print("✅ Generated Homepage.")
 
-    # 2. Generate Search Index for JS
+    # 2. Initialize Search Index
     search_index = []
     
     # 3. Generate Individual Name Pages
     detail_template = env.get_template('detail.html')
     
     for name_entry in names:
-        # Clean data
+        # Data Cleaning
         name = name_entry.get('name', 'Unknown')
         meaning = name_entry.get('meaning', 'Unknown meaning')
         gender = name_entry.get('gender', 'Unisex')
         origin = name_entry.get('origin', 'Islamic')
         
-        # Create Slug (e.g., name-ebad)
+        # Create Slug
         slug = f"name-{name.strip().lower().replace(' ', '-')}"
         folder_path = os.path.join(OUTPUT_DIR, slug)
         os.makedirs(folder_path, exist_ok=True)
@@ -84,9 +145,9 @@ def generate_website():
             "g": gender[0] # B, G, or U
         })
 
-        # --- SEO MAGIC STARTS HERE ---
+        # --- SEO CONTENT GENERATION ---
         
-        # A. Rich Content Generation
+        # A. Rich Description
         gender_full = "boy" if gender == 'Boy' else "girl"
         if gender == 'Unisex': gender_full = "boy or girl"
         
@@ -97,11 +158,11 @@ def generate_website():
             f"Pronounced correctly, it carries a dignified and spiritual tone."
         )
 
-        # B. Related Names Logic (Simple logic: same first letter)
+        # B. Related Names (Same starting letter)
         first_char = name[0].upper()
         related_names = [n for n in names if n['name'].startswith(first_char) and n['name'] != name][:10]
 
-        # C. Schema Markup (JSON-LD)
+        # C. JSON-LD Schema
         schema_data = {
             "@context": "https://schema.org/",
             "@type": "DefinedTerm",
@@ -141,7 +202,7 @@ def generate_website():
         <script type="application/ld+json">{json.dumps(breadcrumb_data)}</script>
         """
 
-        # Write file
+        # Render Page
         with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
             f.write(detail_template.render(
                 title=f"{name} Name Meaning, Origin & Pronunciation | MuslimNameVault",
@@ -154,45 +215,121 @@ def generate_website():
                 letter=first_char
             ))
 
-    # 4. Generate Collection Pages (A-Z)
-    collection_template = env.get_template('base.html') # Using base for simple list
+    # 4. Generate A-Z Collection Pages
     for char in alphabet:
         slug = f"names-{char.lower()}"
-        folder_path = os.path.join(OUTPUT_DIR, slug)
-        os.makedirs(folder_path, exist_ok=True)
-        
         filtered_names = [n for n in names if n['name'].startswith(char)]
         
-        # Custom "content" block for collection
-        content_html = f"""
-        <div class="max-w-4xl mx-auto">
-            <h1 class="text-3xl font-bold mb-6">Muslim Names Starting with {char}</h1>
-            <p class="text-slate-600 mb-8">Browse our collection of {len(filtered_names)} names starting with the letter {char}.</p>
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        """
-        for n in filtered_names:
-            n_slug = f"name-{n['name'].strip().lower().replace(' ', '-')}"
-            content_html += f"""
-            <a href="/{n_slug}/" class="block p-4 bg-white rounded-lg border border-slate-200 hover:border-emerald-600 hover:shadow-md transition">
-                <span class="font-bold text-lg text-emerald-800">{n['name']}</span>
-                <span class="block text-sm text-slate-500">{n['meaning']}</span>
-            </a>
-            """
-        content_html += "</div></div>"
+        generate_collection_page(
+            slug,
+            f"Muslim Names Starting with {char}",
+            f"Browse our comprehensive collection of {len(filtered_names)} Islamic names starting with the letter {char}. Find the perfect name with deep meaning.",
+            filtered_names,
+            names,
+            is_letter_page=True
+        )
+
+    # 5. Generate Special Collections (Trending, Prophets, etc.)
+    generate_collection_page(
+        "names-trending", 
+        "Trending Muslim Names 2026", 
+        "The most popular and trending Muslim baby names for boys and girls in 2026.",
+        config.TRENDING_2026, names, is_letter_page=False
+    )
+    generate_collection_page(
+        "names-prophets", 
+        "Names of Prophets", 
+        "Honorable names of the Prophets (AS) mentioned in Islam.",
+        config.PROPHET_NAMES, names, is_letter_page=False
+    )
+    generate_collection_page(
+        "names-sahaba", 
+        "Names of Sahaba & Sahabiyat", 
+        "Names of the noble Companions of Prophet Muhammad (SAW).",
+        config.SAHABA_NAMES, names, is_letter_page=False
+    )
+    generate_collection_page(
+        "names-quranic", 
+        "Direct Quranic Names", 
+        "Names directly mentioned in the Holy Quran.",
+        config.QURANIC_DIRECT, names, is_letter_page=False
+    )
+
+    # 6. Generate Finder Page
+    finder_template = env.from_string("""
+    {% extends "base.html" %}
+    {% block content %}
+    <div class="max-w-4xl mx-auto py-12 text-center">
+        <h1 class="text-4xl font-bold mb-6 font-heading text-slate-900">Name Finder</h1>
+        <p class="text-slate-600 mb-8 text-lg">Use our advanced search to find the perfect name by spelling, meaning, or origin.</p>
         
-        # Hacky way to reuse base.html if you don't have a specific collection.html
-        # Ideally create a collection.html, but this works for now.
-        # We will need to create a simple child template string to render.
-        # For simplicity in this script, we'll skip complex template inheritance hacks 
-        # and just note that 'names-a' pages will be generated if you create a collection.html
-        # BUT for now, let's just rely on the 'detail' loop and 'index' loop.
+        <div class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100">
+            <div class="relative">
+                <input type="text" id="finderInput" placeholder="Type a name, meaning, or origin..." 
+                       class="w-full text-lg px-6 py-4 pl-12 rounded-xl bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none mb-4 transition">
+                <span class="absolute left-4 top-4 text-2xl">🔍</span>
+            </div>
+            <div id="finderResults" class="text-left grid gap-2 max-h-[500px] overflow-y-auto"></div>
+        </div>
+    </div>
+    <script>
+        const fInput = document.getElementById('finderInput');
+        const fResults = document.getElementById('finderResults');
+        let fData = [];
         
-    # Save Search Index
+        // Load the full search index
+        fetch('/search_index.json').then(r=>r.json()).then(d=>{fData=d});
+        
+        fInput.addEventListener('input', (e)=>{
+            const q = e.target.value.toLowerCase().trim();
+            fResults.innerHTML = '';
+            
+            if(q.length < 2) return;
+            
+            // Search logic (matches name OR meaning)
+            const res = fData.filter(i => 
+                i.n.toLowerCase().includes(q) || 
+                i.m.toLowerCase().includes(q)
+            ).slice(0, 50); // Limit to 50 results
+            
+            if(res.length === 0) {
+                 fResults.innerHTML = '<div class="p-4 text-slate-500 text-center">No names found matching that query.</div>';
+                 return;
+            }
+
+            res.forEach(r => {
+                fResults.innerHTML += `
+                <a href="${r.s}" class="block p-4 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition rounded-lg">
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <span class="font-bold text-lg text-slate-800">${r.n}</span>
+                            <span class="block text-sm text-slate-500">${r.m}</span>
+                        </div>
+                        <span class="text-xs font-bold uppercase px-2 py-1 bg-slate-100 rounded text-slate-600">${r.g}</span>
+                    </div>
+                </a>`;
+            });
+        });
+    </script>
+    {% endblock %}
+    """)
+    
+    folder_path = os.path.join(OUTPUT_DIR, 'finder')
+    os.makedirs(folder_path, exist_ok=True)
+    with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(finder_template.render(
+            title="Name Finder | MuslimNameVault", 
+            description="Search for Muslim Names by meaning, origin, or gender.", 
+            url=f"{SITE_URL}/finder/"
+        ))
+    print("✅ Generated Finder Page")
+
+    # 7. Save Search Index
     with open(os.path.join(OUTPUT_DIR, 'search_index.json'), 'w', encoding='utf-8') as f:
         json.dump(search_index, f)
     print("✅ Generated Search Index.")
-    
-    # 5. Sitemap
+
+    # 8. Generate Sitemap
     generate_sitemap(names, OUTPUT_DIR, SITE_URL)
     print("✅ Generated Sitemap.")
 
