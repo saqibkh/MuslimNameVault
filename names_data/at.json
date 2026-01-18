@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Ataullah",
+    "gender": "Boy",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "id": "at5",
+    "verified": true
+  },
+  {
+    "name": "Athar",
+    "gender": "Boy",
+    "meaning": "Purer",
+    "origin": "Arabic",
+    "id": "at6",
+    "verified": true
+  },
+  {
     "name": "Atif",
     "gender": "Boy",
     "meaning": "Kind",
@@ -29,6 +45,14 @@
     "meaning": "Ancient",
     "origin": "Arabic",
     "id": "at3",
+    "verified": true
+  },
+  {
+    "name": "Atyaf",
+    "gender": "Girl",
+    "meaning": "Fantasies",
+    "origin": "Arabic",
+    "id": "at7",
     "verified": true
   }
 ]

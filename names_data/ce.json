@@ -1,10 +1,26 @@
 [
   {
+    "name": "Celina",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3",
+    "verified": true
+  },
+  {
     "name": "Cem",
     "gender": "Boy",
     "meaning": "Ruler; King",
     "origin": "Turkish",
     "id": "ce1",
+    "verified": true
+  },
+  {
+    "name": "Cemal",
+    "gender": "Boy",
+    "meaning": "Beauty (Turkish form of Jamal)",
+    "origin": "Turkish",
+    "id": "ce4",
     "verified": true
   },
   {

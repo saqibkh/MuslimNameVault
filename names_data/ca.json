@@ -1,10 +1,42 @@
 [
   {
+    "name": "Caira",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2",
+    "verified": true
+  },
+  {
+    "name": "Camil",
+    "gender": "Boy",
+    "meaning": "Perfect (Variant of Kamil)",
+    "origin": "Arabic",
+    "id": "ca3",
+    "verified": true
+  },
+  {
     "name": "Can",
     "gender": "Boy",
     "meaning": "Life; Soul; Spirit",
     "origin": "Turkish",
     "id": "ca1",
+    "verified": true
+  },
+  {
+    "name": "Casim",
+    "gender": "Boy",
+    "meaning": "Divider (Variant of Qasim)",
+    "origin": "Arabic",
+    "id": "ca4",
+    "verified": true
+  },
+  {
+    "name": "Cayla",
+    "gender": "Girl",
+    "meaning": "Fortress, Castle (Variant of Qayla)",
+    "origin": "Arabic",
+    "id": "ca5",
     "verified": true
   }
 ]

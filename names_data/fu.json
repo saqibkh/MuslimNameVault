@@ -30,5 +30,13 @@
     "origin": "Turkish/Quranic",
     "id": "fu2",
     "verified": true
+  },
+  {
+    "name": "Furqan",
+    "gender": "Boy",
+    "meaning": "Criterion (Quran)",
+    "origin": "Arabic",
+    "id": "fu5",
+    "verified": true
   }
 ]

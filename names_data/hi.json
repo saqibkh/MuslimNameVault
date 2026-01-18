@@ -8,11 +8,43 @@
     "verified": true
   },
   {
+    "name": "Hibah",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "hi6",
+    "verified": true
+  },
+  {
+    "name": "Hidayah",
+    "gender": "Girl",
+    "meaning": "Guidance",
+    "origin": "Arabic",
+    "id": "hi7",
+    "verified": true
+  },
+  {
+    "name": "Hikmah",
+    "gender": "Girl",
+    "meaning": "Wisdom",
+    "origin": "Arabic",
+    "id": "hi8",
+    "verified": true
+  },
+  {
     "name": "Hikmet",
     "gender": "Boy",
     "meaning": "Wisdom",
     "origin": "Turkish/Arabic",
     "id": "hi1",
+    "verified": true
+  },
+  {
+    "name": "Hilal",
+    "gender": "Boy",
+    "meaning": "Crescent",
+    "origin": "Arabic",
+    "id": "hi9",
     "verified": true
   },
   {
@@ -24,11 +56,35 @@
     "verified": true
   },
   {
+    "name": "Hina",
+    "gender": "Girl",
+    "meaning": "Henna",
+    "origin": "Urdu",
+    "id": "hi10",
+    "verified": true
+  },
+  {
+    "name": "Hind",
+    "gender": "Girl",
+    "meaning": "India",
+    "origin": "Arabic",
+    "id": "hi11",
+    "verified": true
+  },
+  {
     "name": "Hira",
     "gender": "Girl",
     "meaning": "Darkness",
     "origin": "Arabic",
     "id": "hi5",
+    "verified": true
+  },
+  {
+    "name": "Hisham",
+    "gender": "Boy",
+    "meaning": "Generosity",
+    "origin": "Arabic",
+    "id": "hi12",
     "verified": true
   },
   {

@@ -24,6 +24,22 @@
     "verified": true
   },
   {
+    "name": "Ashab",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "as14",
+    "verified": true
+  },
+  {
+    "name": "Ashal",
+    "gender": "Boy",
+    "meaning": "Greenest",
+    "origin": "Arabic",
+    "id": "as15",
+    "verified": true
+  },
+  {
     "name": "Ashar",
     "gender": "Boy",
     "meaning": "Wise",
@@ -32,11 +48,35 @@
     "verified": true
   },
   {
+    "name": "Ashfaq",
+    "gender": "Boy",
+    "meaning": "Favors; Kindness",
+    "origin": "Arabic",
+    "id": "as16",
+    "verified": true
+  },
+  {
+    "name": "Ashiq",
+    "gender": "Boy",
+    "meaning": "Lover",
+    "origin": "Arabic",
+    "id": "as17",
+    "verified": true
+  },
+  {
     "name": "Ashkan",
     "gender": "Boy",
     "meaning": "Founder of Dynasty",
     "origin": "Persian",
     "id": "as5",
+    "verified": true
+  },
+  {
+    "name": "Asif",
+    "gender": "Boy",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "as18",
     "verified": true
   },
   {
@@ -53,6 +93,14 @@
     "meaning": "Protector",
     "origin": "Arabic",
     "id": "as11",
+    "verified": true
+  },
+  {
+    "name": "Aslam",
+    "gender": "Boy",
+    "meaning": "Safer; Freer",
+    "origin": "Arabic",
+    "id": "as19",
     "verified": true
   },
   {

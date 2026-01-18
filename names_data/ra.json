@@ -1,10 +1,322 @@
 [
   {
+    "name": "Raafe",
+    "gender": "Boy",
+    "meaning": "Exalted; High",
+    "origin": "Arabic",
+    "id": "ra2",
+    "verified": true
+  },
+  {
+    "name": "Raamis",
+    "gender": "Boy",
+    "meaning": "Good looking",
+    "origin": "Arabic",
+    "id": "ra3",
+    "verified": true
+  },
+  {
+    "name": "Raashid",
+    "gender": "Boy",
+    "meaning": "Rightly Guided",
+    "origin": "Arabic",
+    "id": "ra4",
+    "verified": true
+  },
+  {
+    "name": "Rabah",
+    "gender": "Boy",
+    "meaning": "Gain; Profit",
+    "origin": "Arabic",
+    "id": "ra5",
+    "verified": true
+  },
+  {
+    "name": "Rabbani",
+    "gender": "Boy",
+    "meaning": "Divine; From Allah",
+    "origin": "Arabic",
+    "id": "ra6",
+    "verified": true
+  },
+  {
+    "name": "Rabee",
+    "gender": "Boy",
+    "meaning": "Spring",
+    "origin": "Arabic",
+    "id": "ra7",
+    "verified": true
+  },
+  {
+    "name": "Rabit",
+    "gender": "Boy",
+    "meaning": "Binding; Fastening",
+    "origin": "Arabic",
+    "id": "ra8",
+    "verified": true
+  },
+  {
+    "name": "Radi",
+    "gender": "Boy",
+    "meaning": "Satisfied; Content",
+    "origin": "Arabic",
+    "id": "ra9",
+    "verified": true
+  },
+  {
+    "name": "Raees",
+    "gender": "Boy",
+    "meaning": "Chief; Leader",
+    "origin": "Urdu",
+    "id": "ra10",
+    "verified": true
+  },
+  {
+    "name": "Rafan",
+    "gender": "Boy",
+    "meaning": "Beautiful; Graceful",
+    "origin": "Arabic",
+    "id": "ra11",
+    "verified": true
+  },
+  {
+    "name": "Rafay",
+    "gender": "Boy",
+    "meaning": "The Exalter; To elevate",
+    "origin": "Arabic",
+    "id": "ra12",
+    "verified": true
+  },
+  {
+    "name": "Rafeeq",
+    "gender": "Boy",
+    "meaning": "Kind friend",
+    "origin": "Arabic",
+    "id": "ra13",
+    "verified": true
+  },
+  {
+    "name": "Rafid",
+    "gender": "Boy",
+    "meaning": "Support; Giver",
+    "origin": "Arabic",
+    "id": "ra14",
+    "verified": true
+  },
+  {
+    "name": "Raha",
+    "gender": "Unisex",
+    "meaning": "Peace; Comfort",
+    "origin": "Arabic",
+    "id": "ra15",
+    "verified": true
+  },
+  {
+    "name": "Rahal",
+    "gender": "Boy",
+    "meaning": "Traveler",
+    "origin": "Arabic",
+    "id": "ra16",
+    "verified": true
+  },
+  {
+    "name": "Raheeq",
+    "gender": "Unisex",
+    "meaning": "Pure Nectar",
+    "origin": "Quranic",
+    "id": "ra17",
+    "verified": true
+  },
+  {
+    "name": "Rahil",
+    "gender": "Boy",
+    "meaning": "Traveler; Path finder",
+    "origin": "Arabic",
+    "id": "ra18",
+    "verified": true
+  },
+  {
+    "name": "Raif",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ra19",
+    "verified": true
+  },
+  {
+    "name": "Raihan",
+    "gender": "Boy",
+    "meaning": "Heavens Flower",
+    "origin": "Arabic",
+    "id": "ra20",
+    "verified": true
+  },
+  {
+    "name": "Rais",
+    "gender": "Boy",
+    "meaning": "Captain; Chief",
+    "origin": "Arabic",
+    "id": "ra21",
+    "verified": true
+  },
+  {
+    "name": "Raja",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "ra22",
+    "verified": true
+  },
+  {
+    "name": "Rakan",
+    "gender": "Boy",
+    "meaning": "Dignity; Firmness",
+    "origin": "Arabic",
+    "id": "ra23",
+    "verified": true
+  },
+  {
+    "name": "Rakhshan",
+    "gender": "Unisex",
+    "meaning": "Dazzling; Shining",
+    "origin": "Persian",
+    "id": "ra24",
+    "verified": true
+  },
+  {
     "name": "Ramin",
     "gender": "Boy",
     "meaning": "Tamer",
     "origin": "Persian",
     "id": "ra1",
+    "verified": true
+  },
+  {
+    "name": "Ramish",
+    "gender": "Girl",
+    "meaning": "Rest; Peace",
+    "origin": "Persian",
+    "id": "ra25",
+    "verified": true
+  },
+  {
+    "name": "Ramsah",
+    "gender": "Girl",
+    "meaning": "Face like moon",
+    "origin": "Arabic",
+    "id": "ra26",
+    "verified": true
+  },
+  {
+    "name": "Ramzi",
+    "gender": "Boy",
+    "meaning": "Symbolic",
+    "origin": "Arabic",
+    "id": "ra27",
+    "verified": true
+  },
+  {
+    "name": "Rana",
+    "gender": "Girl",
+    "meaning": "To gaze; Look",
+    "origin": "Arabic",
+    "id": "ra28",
+    "verified": true
+  },
+  {
+    "name": "Raqib",
+    "gender": "Boy",
+    "meaning": "Observer",
+    "origin": "Arabic",
+    "id": "ra29",
+    "verified": true
+  },
+  {
+    "name": "Raseen",
+    "gender": "Boy",
+    "meaning": "Calm; Composed",
+    "origin": "Arabic",
+    "id": "ra30",
+    "verified": true
+  },
+  {
+    "name": "Rashdan",
+    "gender": "Boy",
+    "meaning": "Guidance",
+    "origin": "Arabic",
+    "id": "ra31",
+    "verified": true
+  },
+  {
+    "name": "Rasheed",
+    "gender": "Boy",
+    "meaning": "Wise; Prudent",
+    "origin": "Arabic",
+    "id": "ra32",
+    "verified": true
+  },
+  {
+    "name": "Rasiq",
+    "gender": "Boy",
+    "meaning": "Elegant; Graceful",
+    "origin": "Arabic",
+    "id": "ra33",
+    "verified": true
+  },
+  {
+    "name": "Ratib",
+    "gender": "Boy",
+    "meaning": "Arranger",
+    "origin": "Arabic",
+    "id": "ra34",
+    "verified": true
+  },
+  {
+    "name": "Rauf",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ra35",
+    "verified": true
+  },
+  {
+    "name": "Rawah",
+    "gender": "Unisex",
+    "meaning": "Rest; Charm",
+    "origin": "Arabic",
+    "id": "ra36",
+    "verified": true
+  },
+  {
+    "name": "Rawda",
+    "gender": "Girl",
+    "meaning": "Garden",
+    "origin": "Arabic",
+    "id": "ra37",
+    "verified": true
+  },
+  {
+    "name": "Rawh",
+    "gender": "Boy",
+    "meaning": "Spirit; Refreshment",
+    "origin": "Arabic",
+    "id": "ra38",
+    "verified": true
+  },
+  {
+    "name": "Rayn",
+    "gender": "Boy",
+    "meaning": "Gate of heaven",
+    "origin": "Persian",
+    "id": "ra39",
+    "verified": true
+  },
+  {
+    "name": "Razin",
+    "gender": "Boy",
+    "meaning": "Grave; Serious",
+    "origin": "Arabic",
+    "id": "ra40",
     "verified": true
   }
 ]

@@ -1,10 +1,98 @@
 [
   {
+    "name": "Miftah",
+    "gender": "Boy",
+    "meaning": "Key",
+    "origin": "Arabic",
+    "id": "mi6",
+    "verified": true
+  },
+  {
+    "name": "Mihran",
+    "gender": "Boy",
+    "meaning": "Name of a companion",
+    "origin": "Arabic",
+    "id": "mi7",
+    "verified": true
+  },
+  {
+    "name": "Mikail",
+    "gender": "Boy",
+    "meaning": "Angel",
+    "origin": "Arabic",
+    "id": "mi8",
+    "verified": true
+  },
+  {
+    "name": "Milad",
+    "gender": "Boy",
+    "meaning": "Birth",
+    "origin": "Arabic",
+    "id": "mi9",
+    "verified": true
+  },
+  {
+    "name": "Mina",
+    "gender": "Girl",
+    "meaning": "Port",
+    "origin": "Arabic",
+    "id": "mi10",
+    "verified": true
+  },
+  {
+    "name": "Minahil",
+    "gender": "Girl",
+    "meaning": "Spring",
+    "origin": "Arabic",
+    "id": "mi11",
+    "verified": true
+  },
+  {
     "name": "Minal",
     "gender": "Girl",
     "meaning": "Gift; Achievement",
     "origin": "Arabic",
     "id": "mi1",
+    "verified": true
+  },
+  {
+    "name": "Minhaj",
+    "gender": "Boy",
+    "meaning": "Path",
+    "origin": "Arabic",
+    "id": "mi12",
+    "verified": true
+  },
+  {
+    "name": "Minhal",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "mi13",
+    "verified": true
+  },
+  {
+    "name": "Miqdad",
+    "gender": "Boy",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "mi14",
+    "verified": true
+  },
+  {
+    "name": "Mir",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Persian",
+    "id": "mi15",
+    "verified": true
+  },
+  {
+    "name": "Mira",
+    "gender": "Girl",
+    "meaning": "Provision",
+    "origin": "Arabic",
+    "id": "mi16",
     "verified": true
   },
   {
@@ -16,11 +104,27 @@
     "verified": true
   },
   {
+    "name": "Miraj",
+    "gender": "Boy",
+    "meaning": "Ascension",
+    "origin": "Arabic",
+    "id": "mi17",
+    "verified": true
+  },
+  {
     "name": "Miran",
     "gender": "Boy",
     "meaning": "Princes; Rulers",
     "origin": "Kurdish/Persian",
     "id": "mi5",
+    "verified": true
+  },
+  {
+    "name": "Miranda",
+    "gender": "Girl",
+    "meaning": "Wonderful",
+    "origin": "Latin",
+    "id": "mi18",
     "verified": true
   },
   {
@@ -32,11 +136,51 @@
     "verified": true
   },
   {
+    "name": "Misaq",
+    "gender": "Boy",
+    "meaning": "Covenant",
+    "origin": "Arabic",
+    "id": "mi19",
+    "verified": true
+  },
+  {
+    "name": "Misbah",
+    "gender": "Unisex",
+    "meaning": "Lamp",
+    "origin": "Arabic",
+    "id": "mi20",
+    "verified": true
+  },
+  {
+    "name": "Misha",
+    "gender": "Girl",
+    "meaning": "Happy for entire life",
+    "origin": "Persian",
+    "id": "mi21",
+    "verified": true
+  },
+  {
     "name": "Mishal",
     "gender": "Girl",
     "meaning": "Torch; Light",
     "origin": "Arabic",
     "id": "mi3",
+    "verified": true
+  },
+  {
+    "name": "Miskeen",
+    "gender": "Boy",
+    "meaning": "Poor",
+    "origin": "Arabic",
+    "id": "mi22",
+    "verified": true
+  },
+  {
+    "name": "Mizna",
+    "gender": "Girl",
+    "meaning": "Cloud",
+    "origin": "Arabic",
+    "id": "mi23",
     "verified": true
   }
 ]

@@ -30,5 +30,13 @@
     "origin": "Arabic",
     "id": "aw4",
     "verified": true
+  },
+  {
+    "name": "Awwal",
+    "gender": "Boy",
+    "meaning": "First",
+    "origin": "Arabic",
+    "id": "aw5",
+    "verified": true
   }
 ]

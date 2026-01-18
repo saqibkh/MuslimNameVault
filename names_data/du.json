@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Dur",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "du7",
+    "verified": true
+  },
+  {
     "name": "Durra",
     "gender": "Girl",
     "meaning": "Pearl",
@@ -45,6 +53,14 @@
     "meaning": "Large pearl",
     "origin": "Arabic",
     "id": "du5",
+    "verified": true
+  },
+  {
+    "name": "Durrani",
+    "gender": "Girl",
+    "meaning": "Of pearls",
+    "origin": "Persian",
+    "id": "du8",
     "verified": true
   }
 ]

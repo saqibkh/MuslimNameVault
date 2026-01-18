@@ -8,6 +8,38 @@
     "verified": true
   },
   {
+    "name": "Aabid",
+    "gender": "Boy",
+    "meaning": "Worshipper",
+    "origin": "Arabic",
+    "id": "aa9",
+    "verified": true
+  },
+  {
+    "name": "Aadhil",
+    "gender": "Boy",
+    "meaning": "Honorable judge; Justice",
+    "origin": "Arabic",
+    "id": "aa10",
+    "verified": true
+  },
+  {
+    "name": "Aafiya",
+    "gender": "Girl",
+    "meaning": "Good Health; Well-being",
+    "origin": "Arabic",
+    "id": "aa11",
+    "verified": true
+  },
+  {
+    "name": "Aaghaz",
+    "gender": "Boy",
+    "meaning": "The beginning",
+    "origin": "Urdu",
+    "id": "aa12",
+    "verified": true
+  },
+  {
     "name": "Aahil",
     "gender": "Boy",
     "meaning": "Prince; Great King",
@@ -16,11 +48,51 @@
     "verified": true
   },
   {
+    "name": "Aalam",
+    "gender": "Boy",
+    "meaning": "World; Universe",
+    "origin": "Arabic",
+    "id": "aa13",
+    "verified": true
+  },
+  {
+    "name": "Aalee",
+    "gender": "Boy",
+    "meaning": "Sublime; High",
+    "origin": "Arabic",
+    "id": "aa14",
+    "verified": true
+  },
+  {
     "name": "Aalif",
     "gender": "Boy",
     "meaning": "Compassionate; Affectionate",
     "origin": "Arabic",
     "id": "aa5",
+    "verified": true
+  },
+  {
+    "name": "Aalimah",
+    "gender": "Girl",
+    "meaning": "Scholar; Learned Woman",
+    "origin": "Arabic",
+    "id": "aa15",
+    "verified": true
+  },
+  {
+    "name": "Aamna",
+    "gender": "Girl",
+    "meaning": "Peace; Safety",
+    "origin": "Arabic",
+    "id": "aa16",
+    "verified": true
+  },
+  {
+    "name": "Aaqib",
+    "gender": "Boy",
+    "meaning": "Follower; Successor",
+    "origin": "Arabic",
+    "id": "aa17",
     "verified": true
   },
   {
@@ -37,6 +109,30 @@
     "meaning": "Rain-bearing cloud; Respectable man",
     "origin": "Quranic",
     "id": "aa1",
+    "verified": true
+  },
+  {
+    "name": "Aashir",
+    "gender": "Boy",
+    "meaning": "Living; Well-off",
+    "origin": "Arabic",
+    "id": "aa18",
+    "verified": true
+  },
+  {
+    "name": "Aatifa",
+    "gender": "Girl",
+    "meaning": "Affectionate",
+    "origin": "Arabic",
+    "id": "aa19",
+    "verified": true
+  },
+  {
+    "name": "Aatik",
+    "gender": "Boy",
+    "meaning": "Pure; Generous",
+    "origin": "Arabic",
+    "id": "aa20",
     "verified": true
   },
   {

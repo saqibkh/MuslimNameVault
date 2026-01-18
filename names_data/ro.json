@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Rohail",
+    "gender": "Boy",
+    "meaning": "Traveler",
+    "origin": "Arabic",
+    "id": "ro4",
+    "verified": true
+  },
+  {
     "name": "Romaisa",
     "gender": "Girl",
     "meaning": "Bunch of flowers; Heavens",
     "origin": "Arabic",
     "id": "ro2",
+    "verified": true
+  },
+  {
+    "name": "Roshan",
+    "gender": "Unisex",
+    "meaning": "Bright",
+    "origin": "Persian",
+    "id": "ro5",
     "verified": true
   },
   {

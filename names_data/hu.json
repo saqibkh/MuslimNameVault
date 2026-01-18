@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Huda",
+    "gender": "Girl",
+    "meaning": "Guidance",
+    "origin": "Arabic",
+    "id": "hu6",
+    "verified": true
+  },
+  {
     "name": "Hudhayfah",
     "gender": "Boy",
     "meaning": "Short-statured",
     "origin": "Arabic",
     "id": "hu3",
+    "verified": true
+  },
+  {
+    "name": "Hujjat",
+    "gender": "Boy",
+    "meaning": "Proof",
+    "origin": "Arabic",
+    "id": "hu7",
     "verified": true
   },
   {
@@ -37,6 +53,70 @@
     "meaning": "Bird of Paradise",
     "origin": "Persian",
     "id": "hu5",
+    "verified": true
+  },
+  {
+    "name": "Humaira",
+    "gender": "Girl",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "hu8",
+    "verified": true
+  },
+  {
+    "name": "Humam",
+    "gender": "Boy",
+    "meaning": "Courageous",
+    "origin": "Arabic",
+    "id": "hu9",
+    "verified": true
+  },
+  {
+    "name": "Humayun",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Persian",
+    "id": "hu10",
+    "verified": true
+  },
+  {
+    "name": "Hurairah",
+    "gender": "Boy",
+    "meaning": "Kitten",
+    "origin": "Arabic",
+    "id": "hu11",
+    "verified": true
+  },
+  {
+    "name": "Husain",
+    "gender": "Boy",
+    "meaning": "Little Beauty",
+    "origin": "Arabic",
+    "id": "hu12",
+    "verified": true
+  },
+  {
+    "name": "Husna",
+    "gender": "Girl",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "hu13",
+    "verified": true
+  },
+  {
+    "name": "Hussain",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "hu14",
+    "verified": true
+  },
+  {
+    "name": "Huzaifa",
+    "gender": "Boy",
+    "meaning": "Companion of Prophet",
+    "origin": "Arabic",
+    "id": "hu15",
     "verified": true
   }
 ]

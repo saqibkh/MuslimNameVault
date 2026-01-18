@@ -1,5 +1,13 @@
 [
   {
+    "name": "Da'Ud",
+    "gender": "Boy",
+    "meaning": "Beloved (David)",
+    "origin": "Quranic",
+    "id": "da31",
+    "verified": true
+  },
+  {
     "name": "Daana",
     "gender": "Girl",
     "meaning": "Wise",
@@ -8,11 +16,35 @@
     "verified": true
   },
   {
+    "name": "Daania",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "da20",
+    "verified": true
+  },
+  {
+    "name": "Daanish",
+    "gender": "Boy",
+    "meaning": "Wisdom, Learning",
+    "origin": "Persian",
+    "id": "da32",
+    "verified": true
+  },
+  {
     "name": "Dabir",
     "gender": "Boy",
     "meaning": "Secretary",
     "origin": "Arabic",
     "id": "da4",
+    "verified": true
+  },
+  {
+    "name": "Dafi",
+    "gender": "Boy",
+    "meaning": "One who prevents misfortune",
+    "origin": "Arabic",
+    "id": "da33",
     "verified": true
   },
   {
@@ -48,11 +80,59 @@
     "verified": true
   },
   {
+    "name": "Daina",
+    "gender": "Girl",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "da21",
+    "verified": true
+  },
+  {
+    "name": "Dalaal",
+    "gender": "Girl",
+    "meaning": "Coquetry, pampering",
+    "origin": "Arabic",
+    "id": "da34",
+    "verified": true
+  },
+  {
+    "name": "Dalal",
+    "gender": "Girl",
+    "meaning": "Touch; Kindness",
+    "origin": "Arabic",
+    "id": "da22",
+    "verified": true
+  },
+  {
     "name": "Dalia",
     "gender": "Girl",
     "meaning": "Dahlia flower",
     "origin": "Arabic",
     "id": "da7",
+    "verified": true
+  },
+  {
+    "name": "Daman",
+    "gender": "Boy",
+    "meaning": "Guarantor",
+    "origin": "Arabic",
+    "id": "da23",
+    "verified": true
+  },
+  {
+    "name": "Dameer",
+    "gender": "Boy",
+    "meaning": "Heart, Conscience",
+    "origin": "Arabic",
+    "id": "da35",
+    "verified": true
+  },
+  {
+    "name": "Damir",
+    "gender": "Boy",
+    "meaning": "Heart; Conscience",
+    "origin": "Arabic",
+    "id": "da24",
     "verified": true
   },
   {
@@ -72,11 +152,35 @@
     "verified": true
   },
   {
+    "name": "Danah",
+    "gender": "Girl",
+    "meaning": "Big Pearl",
+    "origin": "Arabic",
+    "id": "da25",
+    "verified": true
+  },
+  {
+    "name": "Dani",
+    "gender": "Boy",
+    "meaning": "Near",
+    "origin": "Arabic",
+    "id": "da26",
+    "verified": true
+  },
+  {
     "name": "Dania",
     "gender": "Girl",
     "meaning": "Close",
     "origin": "Arabic",
     "id": "da9",
+    "verified": true
+  },
+  {
+    "name": "Danish",
+    "gender": "Boy",
+    "meaning": "Wisdom",
+    "origin": "Persian",
+    "id": "da27",
     "verified": true
   },
   {
@@ -120,11 +224,35 @@
     "verified": true
   },
   {
+    "name": "Dariya",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Persian",
+    "id": "da36",
+    "verified": true
+  },
+  {
+    "name": "Darwish",
+    "gender": "Boy",
+    "meaning": "Mystic",
+    "origin": "Persian",
+    "id": "da28",
+    "verified": true
+  },
+  {
     "name": "Daud",
     "gender": "Boy",
     "meaning": "Beloved",
     "origin": "Arabic",
     "id": "da14",
+    "verified": true
+  },
+  {
+    "name": "Dawid",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Arabic",
+    "id": "da29",
     "verified": true
   },
   {
@@ -141,6 +269,22 @@
     "meaning": "Beloved",
     "origin": "Arabic",
     "id": "da15",
+    "verified": true
+  },
+  {
+    "name": "Dayfah",
+    "gender": "Girl",
+    "meaning": "Guest",
+    "origin": "Arabic",
+    "id": "da30",
+    "verified": true
+  },
+  {
+    "name": "Dayim",
+    "gender": "Boy",
+    "meaning": "Everlasting",
+    "origin": "Arabic",
+    "id": "da37",
     "verified": true
   },
   {

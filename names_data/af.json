@@ -30,5 +30,13 @@
     "origin": "Persian",
     "id": "af2",
     "verified": true
+  },
+  {
+    "name": "Afzal",
+    "gender": "Boy",
+    "meaning": "Best; Superior",
+    "origin": "Arabic",
+    "id": "af5",
+    "verified": true
   }
 ]

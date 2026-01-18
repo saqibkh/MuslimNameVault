@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Abital",
+    "gender": "Girl",
+    "meaning": "Father of Dew",
+    "origin": "Arabic",
+    "id": "ab9",
+    "verified": true
+  },
+  {
     "name": "Abqari",
     "gender": "Boy",
     "meaning": "Genius",
@@ -53,6 +61,14 @@
     "meaning": "Example; Lesson",
     "origin": "Arabic",
     "id": "ab7",
+    "verified": true
+  },
+  {
+    "name": "Abrish",
+    "gender": "Girl",
+    "meaning": "Flowing like water",
+    "origin": "Persian",
+    "id": "ab10",
     "verified": true
   },
   {

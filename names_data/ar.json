@@ -24,6 +24,22 @@
     "verified": true
   },
   {
+    "name": "Arbab",
+    "gender": "Boy",
+    "meaning": "Master; Lord",
+    "origin": "Arabic",
+    "id": "ar22",
+    "verified": true
+  },
+  {
+    "name": "Areeb",
+    "gender": "Boy",
+    "meaning": "Skillful",
+    "origin": "Arabic",
+    "id": "ar23",
+    "verified": true
+  },
+  {
     "name": "Areej",
     "gender": "Girl",
     "meaning": "Scent of a flower",
@@ -45,6 +61,14 @@
     "meaning": "Wish; Desire",
     "origin": "Persian",
     "id": "ar2",
+    "verified": true
+  },
+  {
+    "name": "Arfan",
+    "gender": "Boy",
+    "meaning": "Gratitude",
+    "origin": "Arabic",
+    "id": "ar24",
     "verified": true
   },
   {
@@ -104,6 +128,14 @@
     "verified": true
   },
   {
+    "name": "Armaghan",
+    "gender": "Unisex",
+    "meaning": "Gift",
+    "origin": "Persian",
+    "id": "ar25",
+    "verified": true
+  },
+  {
     "name": "Arman",
     "gender": "Boy",
     "meaning": "Desire; Hope",
@@ -149,6 +181,14 @@
     "meaning": "Rightly Guided",
     "origin": "Arabic",
     "id": "ar16",
+    "verified": true
+  },
+  {
+    "name": "Arshia",
+    "gender": "Unisex",
+    "meaning": "Heavenly",
+    "origin": "Persian",
+    "id": "ar26",
     "verified": true
   },
   {

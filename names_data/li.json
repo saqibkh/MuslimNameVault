@@ -1,10 +1,42 @@
 [
   {
+    "name": "Liban",
+    "gender": "Boy",
+    "meaning": "Succesfull",
+    "origin": "Somali/Arabic",
+    "id": "li2",
+    "verified": true
+  },
+  {
     "name": "Liman",
     "gender": "Boy",
     "meaning": "Port; Haven",
     "origin": "Turkish",
     "id": "li1",
+    "verified": true
+  },
+  {
+    "name": "Limazah",
+    "gender": "Boy",
+    "meaning": "Narrator of Hadith",
+    "origin": "Arabic",
+    "id": "li3",
+    "verified": true
+  },
+  {
+    "name": "Lina",
+    "gender": "Girl",
+    "meaning": "Palm Tree",
+    "origin": "Arabic",
+    "id": "li4",
+    "verified": true
+  },
+  {
+    "name": "Liya",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "li5",
     "verified": true
   }
 ]

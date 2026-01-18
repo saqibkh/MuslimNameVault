@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Bulbul",
+    "gender": "Girl",
+    "meaning": "Nightingale",
+    "origin": "Persian",
+    "id": "bu7",
+    "verified": true
+  },
+  {
     "name": "Bulut",
     "gender": "Boy",
     "meaning": "Cloud",

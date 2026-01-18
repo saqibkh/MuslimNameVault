@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Aneeq",
+    "gender": "Boy",
+    "meaning": "Valuable",
+    "origin": "Arabic",
+    "id": "an14",
+    "verified": true
+  },
+  {
     "name": "Anees",
     "gender": "Boy",
     "meaning": "Close Companion",
@@ -64,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Anjum",
+    "gender": "Unisex",
+    "meaning": "Stars",
+    "origin": "Arabic",
+    "id": "an15",
+    "verified": true
+  },
+  {
     "name": "Anmar",
     "gender": "Boy",
     "meaning": "Leopard",
@@ -80,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Ansar",
+    "gender": "Boy",
+    "meaning": "Helpers",
+    "origin": "Arabic",
+    "id": "an16",
+    "verified": true
+  },
+  {
     "name": "Antar",
     "gender": "Boy",
     "meaning": "Hero of a story",
@@ -93,6 +117,14 @@
     "meaning": "Benefit; Blessing",
     "origin": "Arabic",
     "id": "an7",
+    "verified": true
+  },
+  {
+    "name": "Anwaar",
+    "gender": "Unisex",
+    "meaning": "Lights; Blossoms",
+    "origin": "Arabic",
+    "id": "an17",
     "verified": true
   },
   {

@@ -1,5 +1,21 @@
 [
   {
+    "name": "Komail",
+    "gender": "Boy",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "id": "ko3",
+    "verified": true
+  },
+  {
+    "name": "Komal",
+    "gender": "Girl",
+    "meaning": "Soft",
+    "origin": "Sanskrit",
+    "id": "ko2",
+    "verified": true
+  },
+  {
     "name": "Koray",
     "gender": "Boy",
     "meaning": "Ember moon",

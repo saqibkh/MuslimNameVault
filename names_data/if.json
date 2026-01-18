@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Iffat",
+    "gender": "Girl",
+    "meaning": "Chastity",
+    "origin": "Arabic",
+    "id": "if1",
+    "verified": true
+  },
+  {
+    "name": "Iftikhar",
+    "gender": "Boy",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "if2",
+    "verified": true
+  }
+]

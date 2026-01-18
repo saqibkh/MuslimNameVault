@@ -1,5 +1,21 @@
 [
   {
+    "name": "Jubair",
+    "gender": "Boy",
+    "meaning": "One who helps",
+    "origin": "Arabic",
+    "id": "ju3",
+    "verified": true
+  },
+  {
+    "name": "Jud",
+    "gender": "Boy",
+    "meaning": "Generosity",
+    "origin": "Arabic",
+    "id": "ju4",
+    "verified": true
+  },
+  {
     "name": "Juhayman",
     "gender": "Boy",
     "meaning": "Sullen",
@@ -8,11 +24,35 @@
     "verified": true
   },
   {
+    "name": "Jumanah",
+    "gender": "Girl",
+    "meaning": "Silver Pearl",
+    "origin": "Arabic",
+    "id": "ju5",
+    "verified": true
+  },
+  {
+    "name": "Junaid",
+    "gender": "Boy",
+    "meaning": "Soldier",
+    "origin": "Arabic",
+    "id": "ju6",
+    "verified": true
+  },
+  {
     "name": "Jundub",
     "gender": "Boy",
     "meaning": "Grasshopper",
     "origin": "Arabic",
     "id": "ju2",
+    "verified": true
+  },
+  {
+    "name": "Juwayriyah",
+    "gender": "Girl",
+    "meaning": "Young Woman",
+    "origin": "Arabic",
+    "id": "ju7",
     "verified": true
   }
 ]

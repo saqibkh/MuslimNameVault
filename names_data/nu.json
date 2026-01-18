@@ -1,5 +1,101 @@
 [
   {
+    "name": "Nuaym",
+    "gender": "Boy",
+    "meaning": "Benevolent",
+    "origin": "Arabic",
+    "id": "nu6",
+    "verified": true
+  },
+  {
+    "name": "Nubia",
+    "gender": "Girl",
+    "meaning": "Land of Gold",
+    "origin": "Ancient",
+    "id": "nu7",
+    "verified": true
+  },
+  {
+    "name": "Nudrat",
+    "gender": "Girl",
+    "meaning": "Uniqueness",
+    "origin": "Urdu",
+    "id": "nu8",
+    "verified": true
+  },
+  {
+    "name": "Nuh",
+    "gender": "Boy",
+    "meaning": "Prophet Noah",
+    "origin": "Quranic",
+    "id": "nu9",
+    "verified": true
+  },
+  {
+    "name": "Nuha",
+    "gender": "Girl",
+    "meaning": "Intelligence",
+    "origin": "Quranic",
+    "id": "nu10",
+    "verified": true
+  },
+  {
+    "name": "Nuham",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "nu11",
+    "verified": true
+  },
+  {
+    "name": "Nujood",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "id": "nu12",
+    "verified": true
+  },
+  {
+    "name": "Numa",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "nu13",
+    "verified": true
+  },
+  {
+    "name": "Numair",
+    "gender": "Boy",
+    "meaning": "Little panther",
+    "origin": "Arabic",
+    "id": "nu14",
+    "verified": true
+  },
+  {
+    "name": "Numan",
+    "gender": "Boy",
+    "meaning": "Blood",
+    "origin": "Arabic",
+    "id": "nu15",
+    "verified": true
+  },
+  {
+    "name": "Nur",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Quranic",
+    "id": "nu16",
+    "verified": true
+  },
+  {
+    "name": "Nura",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "nu17",
+    "verified": true
+  },
+  {
     "name": "Nuray",
     "gender": "Girl",
     "meaning": "Radiant moon",
@@ -24,6 +120,14 @@
     "verified": true
   },
   {
+    "name": "Nuriyah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "nu18",
+    "verified": true
+  },
+  {
     "name": "Nursel",
     "gender": "Girl",
     "meaning": "Flood of light",
@@ -37,6 +141,54 @@
     "meaning": "Luminous skin",
     "origin": "Turkish/Persian",
     "id": "nu5",
+    "verified": true
+  },
+  {
+    "name": "Nusaybah",
+    "gender": "Girl",
+    "meaning": "Noble lineage",
+    "origin": "Arabic",
+    "id": "nu19",
+    "verified": true
+  },
+  {
+    "name": "Nusrah",
+    "gender": "Girl",
+    "meaning": "Help",
+    "origin": "Arabic",
+    "id": "nu20",
+    "verified": true
+  },
+  {
+    "name": "Nusrat",
+    "gender": "Unisex",
+    "meaning": "Victory",
+    "origin": "Arabic",
+    "id": "nu21",
+    "verified": true
+  },
+  {
+    "name": "Nuweiba",
+    "gender": "Girl",
+    "meaning": "City in Sinai",
+    "origin": "Arabic",
+    "id": "nu22",
+    "verified": true
+  },
+  {
+    "name": "Nuzha",
+    "gender": "Girl",
+    "meaning": "Pleasure trip",
+    "origin": "Arabic",
+    "id": "nu23",
+    "verified": true
+  },
+  {
+    "name": "Nuzhat",
+    "gender": "Girl",
+    "meaning": "Cheerfulness",
+    "origin": "Arabic",
+    "id": "nu24",
     "verified": true
   }
 ]

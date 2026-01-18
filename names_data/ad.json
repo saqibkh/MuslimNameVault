@@ -32,6 +32,22 @@
     "verified": true
   },
   {
+    "name": "Adeeba",
+    "gender": "Girl",
+    "meaning": "Polite; Cultured",
+    "origin": "Arabic",
+    "id": "ad8",
+    "verified": true
+  },
+  {
+    "name": "Adeela",
+    "gender": "Girl",
+    "meaning": "Just; Equal",
+    "origin": "Arabic",
+    "id": "ad9",
+    "verified": true
+  },
+  {
     "name": "Adham",
     "gender": "Boy",
     "meaning": "Black Horse; Dark",
@@ -40,11 +56,27 @@
     "verified": true
   },
   {
+    "name": "Adil",
+    "gender": "Boy",
+    "meaning": "Just; Honest",
+    "origin": "Arabic",
+    "id": "ad10",
+    "verified": true
+  },
+  {
     "name": "Adina",
     "gender": "Girl",
     "meaning": "Friday",
     "origin": "Arabic",
     "id": "ad5",
+    "verified": true
+  },
+  {
+    "name": "Adiva",
+    "gender": "Girl",
+    "meaning": "Pleasant; Gentle",
+    "origin": "Arabic",
+    "id": "ad11",
     "verified": true
   },
   {

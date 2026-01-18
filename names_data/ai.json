@@ -32,11 +32,27 @@
     "verified": true
   },
   {
+    "name": "Aini",
+    "gender": "Girl",
+    "meaning": "Spring; Flower",
+    "origin": "Arabic",
+    "id": "ai7",
+    "verified": true
+  },
+  {
     "name": "Aiza",
     "gender": "Girl",
     "meaning": "Noble",
     "origin": "Arabic",
     "id": "ai5",
+    "verified": true
+  },
+  {
+    "name": "Aizah",
+    "gender": "Girl",
+    "meaning": "The daughter of Hazrat Ali",
+    "origin": "Arabic",
+    "id": "ai8",
     "verified": true
   },
   {

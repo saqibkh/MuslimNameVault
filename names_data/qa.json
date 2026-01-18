@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Qabil",
+    "gender": "Boy",
+    "meaning": "Able; Capable",
+    "origin": "Arabic",
+    "id": "qa1",
+    "verified": true
+  },
+  {
+    "name": "Qabus",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "qa2",
+    "verified": true
+  },
+  {
+    "name": "Qadar",
+    "gender": "Boy",
+    "meaning": "Divine destiny",
+    "origin": "Arabic",
+    "id": "qa3",
+    "verified": true
+  },
+  {
+    "name": "Qaddur",
+    "gender": "Boy",
+    "meaning": "Capable",
+    "origin": "Arabic",
+    "id": "qa4",
+    "verified": true
+  },
+  {
+    "name": "Qani",
+    "gender": "Boy",
+    "meaning": "Content; Satisfied",
+    "origin": "Arabic",
+    "id": "qa5",
+    "verified": true
+  },
+  {
+    "name": "Qanit",
+    "gender": "Boy",
+    "meaning": "Obedient; Submissive to Allah",
+    "origin": "Quranic",
+    "id": "qa6",
+    "verified": true
+  },
+  {
+    "name": "Qasid",
+    "gender": "Boy",
+    "meaning": "Messenger; Representative",
+    "origin": "Arabic",
+    "id": "qa7",
+    "verified": true
+  },
+  {
+    "name": "Qasif",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "qa8",
+    "verified": true
+  },
+  {
+    "name": "Qatadah",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi; A hardwood tree",
+    "origin": "Arabic",
+    "id": "qa9",
+    "verified": true
+  },
+  {
+    "name": "Qays",
+    "gender": "Boy",
+    "meaning": "Firm; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "qa10",
+    "verified": true
+  }
+]

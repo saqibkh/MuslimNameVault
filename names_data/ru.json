@@ -1,10 +1,82 @@
 [
   {
+    "name": "Rubeena",
+    "gender": "Girl",
+    "meaning": "Face like a ruby",
+    "origin": "Urdu",
+    "id": "ru2",
+    "verified": true
+  },
+  {
+    "name": "Ruh",
+    "gender": "Unisex",
+    "meaning": "Spirit",
+    "origin": "Arabic",
+    "id": "ru3",
+    "verified": true
+  },
+  {
+    "name": "Ruhan",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ru4",
+    "verified": true
+  },
+  {
+    "name": "Ruhi",
+    "gender": "Unisex",
+    "meaning": "Soul",
+    "origin": "Arabic",
+    "id": "ru5",
+    "verified": true
+  },
+  {
+    "name": "Rukan",
+    "gender": "Boy",
+    "meaning": "Confident",
+    "origin": "Arabic",
+    "id": "ru6",
+    "verified": true
+  },
+  {
+    "name": "Rukn",
+    "gender": "Boy",
+    "meaning": "Pillar",
+    "origin": "Arabic",
+    "id": "ru7",
+    "verified": true
+  },
+  {
+    "name": "Rumaysa",
+    "gender": "Girl",
+    "meaning": "Bunch of flowers; Name of Sahabiyah",
+    "origin": "Arabic",
+    "id": "ru8",
+    "verified": true
+  },
+  {
+    "name": "Rushd",
+    "gender": "Boy",
+    "meaning": "Maturity; Wisdom",
+    "origin": "Arabic",
+    "id": "ru9",
+    "verified": true
+  },
+  {
     "name": "Rustam",
     "gender": "Boy",
     "meaning": "Heroic champion",
     "origin": "Persian",
     "id": "ru1",
+    "verified": true
+  },
+  {
+    "name": "Ruwaid",
+    "gender": "Boy",
+    "meaning": "Walking gently",
+    "origin": "Arabic",
+    "id": "ru10",
     "verified": true
   }
 ]

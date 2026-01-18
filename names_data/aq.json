@@ -14,5 +14,21 @@
     "origin": "Arabic",
     "id": "aq2",
     "verified": true
+  },
+  {
+    "name": "Aqib",
+    "gender": "Boy",
+    "meaning": "Successor",
+    "origin": "Arabic",
+    "id": "aq3",
+    "verified": true
+  },
+  {
+    "name": "Aqil",
+    "gender": "Boy",
+    "meaning": "Wise",
+    "origin": "Arabic",
+    "id": "aq4",
+    "verified": true
   }
 ]

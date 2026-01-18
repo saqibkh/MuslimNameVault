@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ilahi",
+    "gender": "Boy",
+    "meaning": "Divine",
+    "origin": "Arabic",
+    "id": "il5",
+    "verified": true
+  },
+  {
     "name": "Ilham",
     "gender": "Girl",
     "meaning": "Inspiration",
@@ -29,6 +37,14 @@
     "meaning": "First light",
     "origin": "Turkish",
     "id": "il2",
+    "verified": true
+  },
+  {
+    "name": "Ilyas",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "il6",
     "verified": true
   }
 ]

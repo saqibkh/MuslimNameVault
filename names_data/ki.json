@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Kifah",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Arabic",
+    "id": "ki4",
+    "verified": true
+  },
+  {
     "name": "Kinanah",
     "gender": "Boy",
     "meaning": "Quiver",
@@ -21,6 +29,22 @@
     "meaning": "Treasure",
     "origin": "Arabic",
     "id": "ki3",
+    "verified": true
+  },
+  {
+    "name": "Kiran",
+    "gender": "Girl",
+    "meaning": "Ray of Light",
+    "origin": "Sanskrit",
+    "id": "ki5",
+    "verified": true
+  },
+  {
+    "name": "Kishwar",
+    "gender": "Unisex",
+    "meaning": "Country",
+    "origin": "Persian",
+    "id": "ki6",
     "verified": true
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "name": "Labib",
+    "gender": "Boy",
+    "meaning": "Sensible",
+    "origin": "Arabic",
+    "id": "la6",
+    "verified": true
+  },
+  {
+    "name": "Labiba",
+    "gender": "Girl",
+    "meaning": "Wise",
+    "origin": "Arabic",
+    "id": "la7",
+    "verified": true
+  },
+  {
     "name": "Labid",
     "gender": "Boy",
     "meaning": "Companion",
@@ -13,6 +29,30 @@
     "meaning": "Angel of Heaven",
     "origin": "Urdu",
     "id": "la1",
+    "verified": true
+  },
+  {
+    "name": "Laila",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "id": "la8",
+    "verified": true
+  },
+  {
+    "name": "Lais",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "la9",
+    "verified": true
+  },
+  {
+    "name": "Lajlaj",
+    "gender": "Boy",
+    "meaning": "A companion of the Prophet",
+    "origin": "Arabic",
+    "id": "la10",
     "verified": true
   },
   {
@@ -32,11 +72,75 @@
     "verified": true
   },
   {
+    "name": "Lamia",
+    "gender": "Girl",
+    "meaning": "Shining",
+    "origin": "Arabic",
+    "id": "la11",
+    "verified": true
+  },
+  {
+    "name": "Lamis",
+    "gender": "Girl",
+    "meaning": "Soft to the touch",
+    "origin": "Arabic",
+    "id": "la12",
+    "verified": true
+  },
+  {
+    "name": "Lamya",
+    "gender": "Girl",
+    "meaning": "Dark-lipped",
+    "origin": "Arabic",
+    "id": "la13",
+    "verified": true
+  },
+  {
+    "name": "Lateef",
+    "gender": "Boy",
+    "meaning": "Gentle",
+    "origin": "Arabic",
+    "id": "la14",
+    "verified": true
+  },
+  {
+    "name": "Latif",
+    "gender": "Boy",
+    "meaning": "Kind",
+    "origin": "Arabic",
+    "id": "la15",
+    "verified": true
+  },
+  {
+    "name": "Latifa",
+    "gender": "Girl",
+    "meaning": "Gentle",
+    "origin": "Arabic",
+    "id": "la16",
+    "verified": true
+  },
+  {
     "name": "Layan",
     "gender": "Girl",
     "meaning": "Gentleness; Softness",
     "origin": "Arabic",
     "id": "la4",
+    "verified": true
+  },
+  {
+    "name": "Layla",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "id": "la17",
+    "verified": true
+  },
+  {
+    "name": "Layth",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "la18",
     "verified": true
   }
 ]

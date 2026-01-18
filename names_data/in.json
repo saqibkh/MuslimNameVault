@@ -1,5 +1,21 @@
 [
   {
+    "name": "Inaam",
+    "gender": "Unisex",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "in8",
+    "verified": true
+  },
+  {
+    "name": "Inam",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "in3",
+    "verified": true
+  },
+  {
     "name": "Inara",
     "gender": "Girl",
     "meaning": "Illumination",
@@ -8,11 +24,43 @@
     "verified": true
   },
   {
+    "name": "Inayat",
+    "gender": "Unisex",
+    "meaning": "Bounty",
+    "origin": "Arabic",
+    "id": "in4",
+    "verified": true
+  },
+  {
     "name": "Inci",
     "gender": "Girl",
     "meaning": "Pearl",
     "origin": "Turkish",
     "id": "in1",
+    "verified": true
+  },
+  {
+    "name": "Insaf",
+    "gender": "Unisex",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "in5",
+    "verified": true
+  },
+  {
+    "name": "Insha",
+    "gender": "Girl",
+    "meaning": "Sentence",
+    "origin": "Arabic",
+    "id": "in6",
+    "verified": true
+  },
+  {
+    "name": "Intisar",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Arabic",
+    "id": "in7",
     "verified": true
   }
 ]

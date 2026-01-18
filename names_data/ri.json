@@ -1,10 +1,66 @@
 [
   {
+    "name": "Riaz",
+    "gender": "Boy",
+    "meaning": "Garden; Devotion",
+    "origin": "Arabic",
+    "id": "ri2",
+    "verified": true
+  },
+  {
+    "name": "Rida",
+    "gender": "Boy",
+    "meaning": "Favor; Contentment",
+    "origin": "Arabic",
+    "id": "ri3",
+    "verified": true
+  },
+  {
+    "name": "Ridwan",
+    "gender": "Boy",
+    "meaning": "Keeper of the Gates of Heaven",
+    "origin": "Arabic",
+    "id": "ri4",
+    "verified": true
+  },
+  {
+    "name": "Rifaat",
+    "gender": "Boy",
+    "meaning": "High Rank",
+    "origin": "Arabic",
+    "id": "ri5",
+    "verified": true
+  },
+  {
+    "name": "Rihab",
+    "gender": "Girl",
+    "meaning": "Spaciousness",
+    "origin": "Arabic",
+    "id": "ri6",
+    "verified": true
+  },
+  {
+    "name": "Riyad",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri7",
+    "verified": true
+  },
+  {
     "name": "Riza",
     "gender": "Boy",
     "meaning": "Contentment; Acceptance",
     "origin": "Turkish/Arabic",
     "id": "ri1",
+    "verified": true
+  },
+  {
+    "name": "Rizq",
+    "gender": "Boy",
+    "meaning": "Livelihood; Sustenance",
+    "origin": "Arabic",
+    "id": "ri8",
     "verified": true
   }
 ]

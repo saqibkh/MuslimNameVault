@@ -8,11 +8,51 @@
     "verified": true
   },
   {
+    "name": "Alauddin",
+    "gender": "Boy",
+    "meaning": "Glory of the Faith",
+    "origin": "Arabic",
+    "id": "al15",
+    "verified": true
+  },
+  {
     "name": "Aleef",
     "gender": "Boy",
     "meaning": "Affectionate; Friendly",
     "origin": "Arabic",
     "id": "al4",
+    "verified": true
+  },
+  {
+    "name": "Aleem",
+    "gender": "Boy",
+    "meaning": "Knowledgeable",
+    "origin": "Arabic",
+    "id": "al16",
+    "verified": true
+  },
+  {
+    "name": "Aleena",
+    "gender": "Girl",
+    "meaning": "Silk of Heaven",
+    "origin": "Urdu",
+    "id": "al17",
+    "verified": true
+  },
+  {
+    "name": "Alfatah",
+    "gender": "Boy",
+    "meaning": "The beginning",
+    "origin": "Arabic",
+    "id": "al18",
+    "verified": true
+  },
+  {
+    "name": "Alhan",
+    "gender": "Girl",
+    "meaning": "Melody",
+    "origin": "Arabic",
+    "id": "al19",
     "verified": true
   },
   {
@@ -29,6 +69,14 @@
     "meaning": "Scholar",
     "origin": "Arabic",
     "id": "al6",
+    "verified": true
+  },
+  {
+    "name": "Aliya",
+    "gender": "Girl",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "al20",
     "verified": true
   },
   {
@@ -88,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Altaf",
+    "gender": "Boy",
+    "meaning": "Kindness",
+    "origin": "Arabic",
+    "id": "al21",
+    "verified": true
+  },
+  {
     "name": "Altan",
     "gender": "Boy",
     "meaning": "Red dawn",
@@ -101,6 +157,14 @@
     "meaning": "High Mountain",
     "origin": "Turkish",
     "id": "al14",
+    "verified": true
+  },
+  {
+    "name": "Alvina",
+    "gender": "Girl",
+    "meaning": "Friend of All",
+    "origin": "Urdu",
+    "id": "al22",
     "verified": true
   },
   {

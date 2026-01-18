@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ikram",
+    "gender": "Unisex",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "ik2",
+    "verified": true
+  },
+  {
     "name": "Ikrimah",
     "gender": "Boy",
     "meaning": "Female Pigeon",

@@ -24,11 +24,27 @@
     "verified": true
   },
   {
+    "name": "Hoor",
+    "gender": "Girl",
+    "meaning": "Virgin of Paradise",
+    "origin": "Arabic",
+    "id": "ho6",
+    "verified": true
+  },
+  {
     "name": "Hoorain",
     "gender": "Girl",
     "meaning": "Beautiful eyes (Hoor)",
     "origin": "Urdu",
     "id": "ho2",
+    "verified": true
+  },
+  {
+    "name": "Hooriya",
+    "gender": "Girl",
+    "meaning": "Angel",
+    "origin": "Arabic",
+    "id": "ho7",
     "verified": true
   },
   {

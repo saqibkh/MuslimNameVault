@@ -1,5 +1,61 @@
 [
   {
+    "name": "Luay",
+    "gender": "Boy",
+    "meaning": "Shield",
+    "origin": "Arabic",
+    "id": "lu2",
+    "verified": true
+  },
+  {
+    "name": "Lubabah",
+    "gender": "Girl",
+    "meaning": "Essence",
+    "origin": "Arabic",
+    "id": "lu3",
+    "verified": true
+  },
+  {
+    "name": "Lubna",
+    "gender": "Girl",
+    "meaning": "Tree",
+    "origin": "Arabic",
+    "id": "lu4",
+    "verified": true
+  },
+  {
+    "name": "Luqman",
+    "gender": "Boy",
+    "meaning": "Wise Man",
+    "origin": "Arabic",
+    "id": "lu5",
+    "verified": true
+  },
+  {
+    "name": "Lut",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "lu6",
+    "verified": true
+  },
+  {
+    "name": "Lutf",
+    "gender": "Boy",
+    "meaning": "Kindness",
+    "origin": "Arabic",
+    "id": "lu7",
+    "verified": true
+  },
+  {
+    "name": "Lutfi",
+    "gender": "Boy",
+    "meaning": "Kind",
+    "origin": "Arabic",
+    "id": "lu8",
+    "verified": true
+  },
+  {
     "name": "Lutfiye",
     "gender": "Girl",
     "meaning": "Kind; Gentle",

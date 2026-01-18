@@ -14,5 +14,13 @@
     "origin": "Arabic",
     "id": "aj2",
     "verified": true
+  },
+  {
+    "name": "Ajwad",
+    "gender": "Boy",
+    "meaning": "Better; More Generous",
+    "origin": "Arabic",
+    "id": "aj3",
+    "verified": true
   }
 ]

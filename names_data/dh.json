@@ -1,10 +1,58 @@
 [
   {
+    "name": "Dhafir",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "dh6",
+    "verified": true
+  },
+  {
+    "name": "Dhakirah",
+    "gender": "Girl",
+    "meaning": "One who remembers God",
+    "origin": "Arabic",
+    "id": "dh2",
+    "verified": true
+  },
+  {
+    "name": "Dhakiy",
+    "gender": "Boy",
+    "meaning": "Intelligent; Bright",
+    "origin": "Arabic",
+    "id": "dh3",
+    "verified": true
+  },
+  {
     "name": "Dhakwan",
     "gender": "Boy",
     "meaning": "Intelligent",
     "origin": "Arabic",
     "id": "dh1",
+    "verified": true
+  },
+  {
+    "name": "Dhiya",
+    "gender": "Unisex",
+    "meaning": "Light; Splendor",
+    "origin": "Arabic",
+    "id": "dh4",
+    "verified": true
+  },
+  {
+    "name": "Dhuha",
+    "gender": "Girl",
+    "meaning": "Forenoon",
+    "origin": "Quranic",
+    "id": "dh7",
+    "verified": true
+  },
+  {
+    "name": "Dhul-Fiqar",
+    "gender": "Boy",
+    "meaning": "Name of the Prophet's sword",
+    "origin": "Arabic",
+    "id": "dh5",
     "verified": true
   }
 ]

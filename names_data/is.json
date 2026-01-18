@@ -1,5 +1,13 @@
 [
   {
+    "name": "Isa",
+    "gender": "Boy",
+    "meaning": "Prophet Jesus",
+    "origin": "Arabic",
+    "id": "is3",
+    "verified": true
+  },
+  {
     "name": "Isaf",
     "gender": "Boy",
     "meaning": "Name of a Sahabi",
@@ -8,11 +16,91 @@
     "verified": true
   },
   {
+    "name": "Isam",
+    "gender": "Boy",
+    "meaning": "Safeguard",
+    "origin": "Arabic",
+    "id": "is4",
+    "verified": true
+  },
+  {
     "name": "Isfahan",
     "gender": "Boy",
     "meaning": "Name of a Persian city",
     "origin": "Persian",
     "id": "is1",
+    "verified": true
+  },
+  {
+    "name": "Isha",
+    "gender": "Girl",
+    "meaning": "Night Prayer",
+    "origin": "Arabic",
+    "id": "is5",
+    "verified": true
+  },
+  {
+    "name": "Ishaq",
+    "gender": "Boy",
+    "meaning": "Prophet Isaac",
+    "origin": "Arabic",
+    "id": "is6",
+    "verified": true
+  },
+  {
+    "name": "Ishrat",
+    "gender": "Girl",
+    "meaning": "Enjoyment",
+    "origin": "Arabic",
+    "id": "is7",
+    "verified": true
+  },
+  {
+    "name": "Iskandar",
+    "gender": "Boy",
+    "meaning": "Alexander",
+    "origin": "Arabic",
+    "id": "is8",
+    "verified": true
+  },
+  {
+    "name": "Islam",
+    "gender": "Boy",
+    "meaning": "Submission",
+    "origin": "Arabic",
+    "id": "is9",
+    "verified": true
+  },
+  {
+    "name": "Ismaeel",
+    "gender": "Boy",
+    "meaning": "Prophet Ishmael",
+    "origin": "Arabic",
+    "id": "is10",
+    "verified": true
+  },
+  {
+    "name": "Ismat",
+    "gender": "Girl",
+    "meaning": "Purity",
+    "origin": "Arabic",
+    "id": "is11",
+    "verified": true
+  },
+  {
+    "name": "Isra",
+    "gender": "Girl",
+    "meaning": "Night Journey",
+    "origin": "Arabic",
+    "id": "is12",
+    "verified": true
+  },
+  {
+    "name": "Istifa",
+    "gender": "Boy",
+    "meaning": "Selection",
+    "origin": "Arabic",
+    "id": "is13",
     "verified": true
   }
 ]

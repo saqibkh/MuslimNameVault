@@ -8,11 +8,67 @@
     "verified": true
   },
   {
+    "name": "Jabir",
+    "gender": "Boy",
+    "meaning": "Comforter",
+    "origin": "Arabic",
+    "id": "ja10",
+    "verified": true
+  },
+  {
+    "name": "Jad",
+    "gender": "Boy",
+    "meaning": "Generosity",
+    "origin": "Arabic",
+    "id": "ja11",
+    "verified": true
+  },
+  {
+    "name": "Jafar",
+    "gender": "Boy",
+    "meaning": "Stream",
+    "origin": "Arabic",
+    "id": "ja12",
+    "verified": true
+  },
+  {
+    "name": "Jahan",
+    "gender": "Unisex",
+    "meaning": "World",
+    "origin": "Persian",
+    "id": "ja13",
+    "verified": true
+  },
+  {
+    "name": "Jahangir",
+    "gender": "Boy",
+    "meaning": "Conqueror of the World",
+    "origin": "Persian",
+    "id": "ja14",
+    "verified": true
+  },
+  {
+    "name": "Jahanzeb",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Persian",
+    "id": "ja15",
+    "verified": true
+  },
+  {
     "name": "Jale",
     "gender": "Girl",
     "meaning": "Dew",
     "origin": "Turkish/Persian",
     "id": "ja2",
+    "verified": true
+  },
+  {
+    "name": "Jaleel",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ja16",
     "verified": true
   },
   {
@@ -24,6 +80,22 @@
     "verified": true
   },
   {
+    "name": "Jalil",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ja17",
+    "verified": true
+  },
+  {
+    "name": "Jamal",
+    "gender": "Boy",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "ja18",
+    "verified": true
+  },
+  {
     "name": "Jamil",
     "gender": "Boy",
     "meaning": "Beautiful",
@@ -32,11 +104,27 @@
     "verified": true
   },
   {
+    "name": "Jamila",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ja19",
+    "verified": true
+  },
+  {
     "name": "Jamshed",
     "gender": "Boy",
     "meaning": "Shining river",
     "origin": "Persian",
     "id": "ja3",
+    "verified": true
+  },
+  {
+    "name": "Jana",
+    "gender": "Girl",
+    "meaning": "Harvest",
+    "origin": "Arabic",
+    "id": "ja20",
     "verified": true
   },
   {
@@ -64,11 +152,99 @@
     "verified": true
   },
   {
+    "name": "Jariya",
+    "gender": "Girl",
+    "meaning": "Maid",
+    "origin": "Arabic",
+    "id": "ja21",
+    "verified": true
+  },
+  {
+    "name": "Jasim",
+    "gender": "Boy",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "ja22",
+    "verified": true
+  },
+  {
+    "name": "Jasser",
+    "gender": "Boy",
+    "meaning": "Fearless",
+    "origin": "Arabic",
+    "id": "ja23",
+    "verified": true
+  },
+  {
+    "name": "Jasur",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ja24",
+    "verified": true
+  },
+  {
     "name": "Jauhar",
     "gender": "Boy",
     "meaning": "Gem; Essence",
     "origin": "Arabic",
     "id": "ja5",
+    "verified": true
+  },
+  {
+    "name": "Javed",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Persian",
+    "id": "ja25",
+    "verified": true
+  },
+  {
+    "name": "Jawad",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "ja26",
+    "verified": true
+  },
+  {
+    "name": "Jawahir",
+    "gender": "Girl",
+    "meaning": "Jewels",
+    "origin": "Arabic",
+    "id": "ja27",
+    "verified": true
+  },
+  {
+    "name": "Jawdat",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Arabic",
+    "id": "ja28",
+    "verified": true
+  },
+  {
+    "name": "Jawhar",
+    "gender": "Boy",
+    "meaning": "Jewel",
+    "origin": "Arabic",
+    "id": "ja29",
+    "verified": true
+  },
+  {
+    "name": "Jaza",
+    "gender": "Unisex",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "ja30",
+    "verified": true
+  },
+  {
+    "name": "Jazib",
+    "gender": "Boy",
+    "meaning": "Attractive",
+    "origin": "Arabic",
+    "id": "ja31",
     "verified": true
   }
 ]

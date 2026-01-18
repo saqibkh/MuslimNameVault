@@ -102,5 +102,13 @@
     "origin": "Arabic",
     "id": "ay13",
     "verified": true
+  },
+  {
+    "name": "Ayyub",
+    "gender": "Boy",
+    "meaning": "Prophet Job",
+    "origin": "Arabic",
+    "id": "ay14",
+    "verified": true
   }
 ]

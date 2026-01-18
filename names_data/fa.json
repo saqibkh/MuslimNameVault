@@ -1,5 +1,21 @@
 [
   {
+    "name": "Faakhir",
+    "gender": "Boy",
+    "meaning": "Proud, Excellent",
+    "origin": "Arabic",
+    "id": "fa70",
+    "verified": true
+  },
+  {
+    "name": "Faaz",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "fa28",
+    "verified": true
+  },
+  {
     "name": "Fadi",
     "gender": "Boy",
     "meaning": "Redeemer",
@@ -13,6 +29,14 @@
     "meaning": "Virtuous",
     "origin": "Arabic",
     "id": "fa15",
+    "verified": true
+  },
+  {
+    "name": "Fadl",
+    "gender": "Boy",
+    "meaning": "Reward; Favor",
+    "origin": "Arabic",
+    "id": "fa29",
     "verified": true
   },
   {
@@ -32,6 +56,38 @@
     "verified": true
   },
   {
+    "name": "Faheem",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "fa30",
+    "verified": true
+  },
+  {
+    "name": "Fahm",
+    "gender": "Boy",
+    "meaning": "Intellect",
+    "origin": "Arabic",
+    "id": "fa31",
+    "verified": true
+  },
+  {
+    "name": "Fahmi",
+    "gender": "Boy",
+    "meaning": "Understanding",
+    "origin": "Arabic",
+    "id": "fa32",
+    "verified": true
+  },
+  {
+    "name": "Fahmida",
+    "gender": "Girl",
+    "meaning": "Intelligent and Wise",
+    "origin": "Persian",
+    "id": "fa71",
+    "verified": true
+  },
+  {
     "name": "Fahrettin",
     "gender": "Boy",
     "meaning": "Glory of the religion",
@@ -48,11 +104,35 @@
     "verified": true
   },
   {
+    "name": "Faid",
+    "gender": "Boy",
+    "meaning": "Benefit",
+    "origin": "Arabic",
+    "id": "fa33",
+    "verified": true
+  },
+  {
     "name": "Faika",
     "gender": "Girl",
     "meaning": "Superior; Outstanding",
     "origin": "Turkish/Arabic",
     "id": "fa5",
+    "verified": true
+  },
+  {
+    "name": "Faiq",
+    "gender": "Boy",
+    "meaning": "Excellent",
+    "origin": "Arabic",
+    "id": "fa34",
+    "verified": true
+  },
+  {
+    "name": "Faisal",
+    "gender": "Boy",
+    "meaning": "Decisive",
+    "origin": "Arabic",
+    "id": "fa35",
     "verified": true
   },
   {
@@ -64,11 +144,67 @@
     "verified": true
   },
   {
+    "name": "Faizan",
+    "gender": "Boy",
+    "meaning": "Beneficence",
+    "origin": "Arabic",
+    "id": "fa36",
+    "verified": true
+  },
+  {
+    "name": "Fajar",
+    "gender": "Unisex",
+    "meaning": "Dawn",
+    "origin": "Arabic",
+    "id": "fa37",
+    "verified": true
+  },
+  {
+    "name": "Fajr",
+    "gender": "Girl",
+    "meaning": "Dawn",
+    "origin": "Quranic",
+    "id": "fa72",
+    "verified": true
+  },
+  {
     "name": "Fakhr",
     "gender": "Boy",
     "meaning": "Pride",
     "origin": "Arabic",
     "id": "fa19",
+    "verified": true
+  },
+  {
+    "name": "Fakhri",
+    "gender": "Boy",
+    "meaning": "Honorary",
+    "origin": "Arabic",
+    "id": "fa38",
+    "verified": true
+  },
+  {
+    "name": "Fakih",
+    "gender": "Boy",
+    "meaning": "Legal Expert",
+    "origin": "Arabic",
+    "id": "fa39",
+    "verified": true
+  },
+  {
+    "name": "Falah",
+    "gender": "Boy",
+    "meaning": "Success",
+    "origin": "Arabic",
+    "id": "fa40",
+    "verified": true
+  },
+  {
+    "name": "Falak",
+    "gender": "Unisex",
+    "meaning": "Sky",
+    "origin": "Arabic",
+    "id": "fa41",
     "verified": true
   },
   {
@@ -80,11 +216,27 @@
     "verified": true
   },
   {
+    "name": "Faqih",
+    "gender": "Boy",
+    "meaning": "Jurist",
+    "origin": "Arabic",
+    "id": "fa42",
+    "verified": true
+  },
+  {
     "name": "Fara",
     "gender": "Girl",
     "meaning": "Sunset",
     "origin": "Arabic",
     "id": "fa20",
+    "verified": true
+  },
+  {
+    "name": "Farah",
+    "gender": "Girl",
+    "meaning": "Joy",
+    "origin": "Arabic",
+    "id": "fa43",
     "verified": true
   },
   {
@@ -112,11 +264,35 @@
     "verified": true
   },
   {
+    "name": "Fareed",
+    "gender": "Boy",
+    "meaning": "Unique",
+    "origin": "Arabic",
+    "id": "fa44",
+    "verified": true
+  },
+  {
+    "name": "Farhan",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Arabic",
+    "id": "fa45",
+    "verified": true
+  },
+  {
     "name": "Farhang",
     "gender": "Boy",
     "meaning": "Culture; Upbringing",
     "origin": "Persian",
     "id": "fa8",
+    "verified": true
+  },
+  {
+    "name": "Faria",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "fa46",
     "verified": true
   },
   {
@@ -133,6 +309,14 @@
     "meaning": "Happy",
     "origin": "Arabic",
     "id": "fa23",
+    "verified": true
+  },
+  {
+    "name": "Faris",
+    "gender": "Boy",
+    "meaning": "Horseman; Knight",
+    "origin": "Arabic",
+    "id": "fa47",
     "verified": true
   },
   {
@@ -160,11 +344,51 @@
     "verified": true
   },
   {
+    "name": "Farman",
+    "gender": "Boy",
+    "meaning": "Order; Decree",
+    "origin": "Persian",
+    "id": "fa48",
+    "verified": true
+  },
+  {
     "name": "Farnaz",
     "gender": "Girl",
     "meaning": "Splendid coquetry",
     "origin": "Persian",
     "id": "fa11",
+    "verified": true
+  },
+  {
+    "name": "Farooq",
+    "gender": "Boy",
+    "meaning": "One who distinguishes truth",
+    "origin": "Arabic",
+    "id": "fa49",
+    "verified": true
+  },
+  {
+    "name": "Farrukh",
+    "gender": "Boy",
+    "meaning": "Happy; Auspicious",
+    "origin": "Persian",
+    "id": "fa50",
+    "verified": true
+  },
+  {
+    "name": "Farwa",
+    "gender": "Girl",
+    "meaning": "Fur; Wealth",
+    "origin": "Arabic",
+    "id": "fa73",
+    "verified": true
+  },
+  {
+    "name": "Farwah",
+    "gender": "Girl",
+    "meaning": "Name of a Sahabiyah",
+    "origin": "Arabic",
+    "id": "fa51",
     "verified": true
   },
   {
@@ -176,11 +400,51 @@
     "verified": true
   },
   {
+    "name": "Farzad",
+    "gender": "Boy",
+    "meaning": "Splendid birth",
+    "origin": "Persian",
+    "id": "fa52",
+    "verified": true
+  },
+  {
+    "name": "Farzan",
+    "gender": "Boy",
+    "meaning": "Wise",
+    "origin": "Persian",
+    "id": "fa53",
+    "verified": true
+  },
+  {
     "name": "Farzaneh",
     "gender": "Girl",
     "meaning": "Wise; Intelligent",
     "origin": "Persian",
     "id": "fa2",
+    "verified": true
+  },
+  {
+    "name": "Farzeen",
+    "gender": "Unisex",
+    "meaning": "Learned",
+    "origin": "Persian",
+    "id": "fa54",
+    "verified": true
+  },
+  {
+    "name": "Faseeh",
+    "gender": "Boy",
+    "meaning": "Eloquent",
+    "origin": "Arabic",
+    "id": "fa55",
+    "verified": true
+  },
+  {
+    "name": "Fath",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Arabic",
+    "id": "fa56",
     "verified": true
   },
   {
@@ -192,11 +456,91 @@
     "verified": true
   },
   {
+    "name": "Fatih",
+    "gender": "Boy",
+    "meaning": "Opener",
+    "origin": "Arabic",
+    "id": "fa57",
+    "verified": true
+  },
+  {
+    "name": "Fatimah",
+    "gender": "Girl",
+    "meaning": "One who abstains",
+    "origin": "Arabic",
+    "id": "fa58",
+    "verified": true
+  },
+  {
     "name": "Fatin",
     "gender": "Boy",
     "meaning": "Clever",
     "origin": "Arabic",
     "id": "fa26",
+    "verified": true
+  },
+  {
+    "name": "Fattah",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Arabic",
+    "id": "fa59",
+    "verified": true
+  },
+  {
+    "name": "Fawad",
+    "gender": "Boy",
+    "meaning": "Heart",
+    "origin": "Arabic",
+    "id": "fa60",
+    "verified": true
+  },
+  {
+    "name": "Fawaz",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "fa61",
+    "verified": true
+  },
+  {
+    "name": "Fawwaz",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "fa62",
+    "verified": true
+  },
+  {
+    "name": "Fawzan",
+    "gender": "Boy",
+    "meaning": "Victor",
+    "origin": "Arabic",
+    "id": "fa63",
+    "verified": true
+  },
+  {
+    "name": "Fawzi",
+    "gender": "Boy",
+    "meaning": "To do with success",
+    "origin": "Arabic",
+    "id": "fa64",
+    "verified": true
+  },
+  {
+    "name": "Fayaz",
+    "gender": "Boy",
+    "meaning": "Gracious",
+    "origin": "Arabic",
+    "id": "fa65",
+    "verified": true
+  },
+  {
+    "name": "Fayd",
+    "gender": "Boy",
+    "meaning": "Abundance",
+    "origin": "Arabic",
+    "id": "fa66",
     "verified": true
   },
   {
@@ -208,11 +552,35 @@
     "verified": true
   },
   {
+    "name": "Fayyaz",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "fa67",
+    "verified": true
+  },
+  {
+    "name": "Fayzan",
+    "gender": "Boy",
+    "meaning": "Beneficence",
+    "origin": "Arabic",
+    "id": "fa68",
+    "verified": true
+  },
+  {
     "name": "Fazilet",
     "gender": "Girl",
     "meaning": "Virtue; Grace",
     "origin": "Turkish/Arabic",
     "id": "fa13",
+    "verified": true
+  },
+  {
+    "name": "Fazl",
+    "gender": "Boy",
+    "meaning": "Grace",
+    "origin": "Arabic",
+    "id": "fa69",
     "verified": true
   }
 ]

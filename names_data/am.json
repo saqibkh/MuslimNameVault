@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Amad",
+    "gender": "Boy",
+    "meaning": "Pillar",
+    "origin": "Arabic",
+    "id": "am11",
+    "verified": true
+  },
+  {
+    "name": "Amail",
+    "gender": "Girl",
+    "meaning": "Necklace",
+    "origin": "Urdu",
+    "id": "am12",
+    "verified": true
+  },
+  {
     "name": "Amal",
     "gender": "Unisex",
     "meaning": "Hope",
@@ -32,6 +48,14 @@
     "verified": true
   },
   {
+    "name": "Amanat",
+    "gender": "Unisex",
+    "meaning": "Trust",
+    "origin": "Arabic",
+    "id": "am13",
+    "verified": true
+  },
+  {
     "name": "Amani",
     "gender": "Girl",
     "meaning": "Wishes",
@@ -48,11 +72,43 @@
     "verified": true
   },
   {
+    "name": "Ambar",
+    "gender": "Girl",
+    "meaning": "Ambergris (Perfume)",
+    "origin": "Arabic",
+    "id": "am14",
+    "verified": true
+  },
+  {
+    "name": "Amean",
+    "gender": "Boy",
+    "meaning": "Faithful",
+    "origin": "Arabic",
+    "id": "am15",
+    "verified": true
+  },
+  {
     "name": "Amel",
     "gender": "Girl",
     "meaning": "Hope",
     "origin": "Arabic",
     "id": "am7",
+    "verified": true
+  },
+  {
+    "name": "Amid",
+    "gender": "Boy",
+    "meaning": "Support; Pillar",
+    "origin": "Arabic",
+    "id": "am16",
+    "verified": true
+  },
+  {
+    "name": "Aminah",
+    "gender": "Girl",
+    "meaning": "Trustworthy",
+    "origin": "Arabic",
+    "id": "am17",
     "verified": true
   },
   {

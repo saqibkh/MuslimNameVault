@@ -8,6 +8,102 @@
     "verified": true
   },
   {
+    "name": "Khadija",
+    "gender": "Girl",
+    "meaning": "First Wife of Prophet",
+    "origin": "Arabic",
+    "id": "kh6",
+    "verified": true
+  },
+  {
+    "name": "Khadim",
+    "gender": "Boy",
+    "meaning": "Servant",
+    "origin": "Arabic",
+    "id": "kh7",
+    "verified": true
+  },
+  {
+    "name": "Khafif",
+    "gender": "Boy",
+    "meaning": "Nimble",
+    "origin": "Arabic",
+    "id": "kh8",
+    "verified": true
+  },
+  {
+    "name": "Khair",
+    "gender": "Unisex",
+    "meaning": "Good",
+    "origin": "Arabic",
+    "id": "kh9",
+    "verified": true
+  },
+  {
+    "name": "Khairat",
+    "gender": "Unisex",
+    "meaning": "Blessings",
+    "origin": "Arabic",
+    "id": "kh10",
+    "verified": true
+  },
+  {
+    "name": "Khairuddin",
+    "gender": "Boy",
+    "meaning": "Goodness of the Faith",
+    "origin": "Arabic",
+    "id": "kh11",
+    "verified": true
+  },
+  {
+    "name": "Khalaf",
+    "gender": "Boy",
+    "meaning": "Successor",
+    "origin": "Arabic",
+    "id": "kh12",
+    "verified": true
+  },
+  {
+    "name": "Khaldun",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "kh13",
+    "verified": true
+  },
+  {
+    "name": "Khaleel",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "id": "kh14",
+    "verified": true
+  },
+  {
+    "name": "Khalid",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "kh15",
+    "verified": true
+  },
+  {
+    "name": "Khalida",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "kh16",
+    "verified": true
+  },
+  {
+    "name": "Khalis",
+    "gender": "Boy",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "kh17",
+    "verified": true
+  },
+  {
     "name": "Khallad",
     "gender": "Boy",
     "meaning": "Old; Aged",
@@ -24,6 +120,94 @@
     "verified": true
   },
   {
+    "name": "Khasib",
+    "gender": "Boy",
+    "meaning": "Fertile",
+    "origin": "Arabic",
+    "id": "kh18",
+    "verified": true
+  },
+  {
+    "name": "Khatib",
+    "gender": "Boy",
+    "meaning": "Orator",
+    "origin": "Arabic",
+    "id": "kh19",
+    "verified": true
+  },
+  {
+    "name": "Khawla",
+    "gender": "Girl",
+    "meaning": "Female Deer",
+    "origin": "Arabic",
+    "id": "kh20",
+    "verified": true
+  },
+  {
+    "name": "Khayaam",
+    "gender": "Boy",
+    "meaning": "Tent Maker",
+    "origin": "Arabic",
+    "id": "kh21",
+    "verified": true
+  },
+  {
+    "name": "Khayal",
+    "gender": "Boy",
+    "meaning": "Imagination",
+    "origin": "Arabic",
+    "id": "kh22",
+    "verified": true
+  },
+  {
+    "name": "Khayri",
+    "gender": "Boy",
+    "meaning": "Charitable",
+    "origin": "Arabic",
+    "id": "kh23",
+    "verified": true
+  },
+  {
+    "name": "Khayyam",
+    "gender": "Boy",
+    "meaning": "Tent Maker",
+    "origin": "Arabic",
+    "id": "kh24",
+    "verified": true
+  },
+  {
+    "name": "Khazar",
+    "gender": "Boy",
+    "meaning": "Green",
+    "origin": "Arabic",
+    "id": "kh25",
+    "verified": true
+  },
+  {
+    "name": "Khidr",
+    "gender": "Boy",
+    "meaning": "Green",
+    "origin": "Arabic",
+    "id": "kh26",
+    "verified": true
+  },
+  {
+    "name": "Khirash",
+    "gender": "Boy",
+    "meaning": "Scratching",
+    "origin": "Arabic",
+    "id": "kh27",
+    "verified": true
+  },
+  {
+    "name": "Khizar",
+    "gender": "Boy",
+    "meaning": "Green",
+    "origin": "Arabic",
+    "id": "kh28",
+    "verified": true
+  },
+  {
     "name": "Khubayb",
     "gender": "Boy",
     "meaning": "Fast walker",
@@ -32,11 +216,51 @@
     "verified": true
   },
   {
+    "name": "Khulud",
+    "gender": "Girl",
+    "meaning": "Immortality",
+    "origin": "Arabic",
+    "id": "kh29",
+    "verified": true
+  },
+  {
     "name": "Khunais",
     "gender": "Boy",
     "meaning": "Hidden",
     "origin": "Arabic",
     "id": "kh5",
+    "verified": true
+  },
+  {
+    "name": "Khurram",
+    "gender": "Boy",
+    "meaning": "Cheerful",
+    "origin": "Persian",
+    "id": "kh30",
+    "verified": true
+  },
+  {
+    "name": "Khursheed",
+    "gender": "Unisex",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "kh31",
+    "verified": true
+  },
+  {
+    "name": "Khusro",
+    "gender": "Boy",
+    "meaning": "King",
+    "origin": "Persian",
+    "id": "kh32",
+    "verified": true
+  },
+  {
+    "name": "Khuzaima",
+    "gender": "Boy",
+    "meaning": "Dragon Tree",
+    "origin": "Arabic",
+    "id": "kh33",
     "verified": true
   }
 ]

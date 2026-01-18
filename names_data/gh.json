@@ -1,10 +1,34 @@
 [
   {
+    "name": "Ghaith",
+    "gender": "Boy",
+    "meaning": "Rain",
+    "origin": "Arabic",
+    "id": "gh7",
+    "verified": true
+  },
+  {
     "name": "Ghalib",
     "gender": "Boy",
     "meaning": "Victor",
     "origin": "Arabic",
     "id": "gh4",
+    "verified": true
+  },
+  {
+    "name": "Ghanem",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "gh8",
+    "verified": true
+  },
+  {
+    "name": "Ghani",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Arabic",
+    "id": "gh9",
     "verified": true
   },
   {
@@ -21,6 +45,38 @@
     "meaning": "Prime of youth",
     "origin": "Arabic",
     "id": "gh1",
+    "verified": true
+  },
+  {
+    "name": "Ghaus",
+    "gender": "Boy",
+    "meaning": "Help",
+    "origin": "Arabic",
+    "id": "gh10",
+    "verified": true
+  },
+  {
+    "name": "Ghayda",
+    "gender": "Girl",
+    "meaning": "Young and delicate",
+    "origin": "Arabic",
+    "id": "gh11",
+    "verified": true
+  },
+  {
+    "name": "Ghazanfar",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "gh13",
+    "verified": true
+  },
+  {
+    "name": "Ghazi",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Arabic",
+    "id": "gh12",
     "verified": true
   },
   {
@@ -45,6 +101,22 @@
     "meaning": "Forgiveness",
     "origin": "Arabic",
     "id": "gh6",
+    "verified": true
+  },
+  {
+    "name": "Ghulam",
+    "gender": "Boy",
+    "meaning": "Servant",
+    "origin": "Arabic",
+    "id": "gh14",
+    "verified": true
+  },
+  {
+    "name": "Ghulzar",
+    "gender": "Boy",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "id": "gh15",
     "verified": true
   }
 ]

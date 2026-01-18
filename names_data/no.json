@@ -1,5 +1,93 @@
 [
   {
+    "name": "Noor",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Quranic",
+    "id": "no2",
+    "verified": true
+  },
+  {
+    "name": "Noora",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no3",
+    "verified": true
+  },
+  {
+    "name": "Noori",
+    "gender": "Girl",
+    "meaning": "Of light",
+    "origin": "Arabic",
+    "id": "no4",
+    "verified": true
+  },
+  {
+    "name": "Nooriyah",
+    "gender": "Girl",
+    "meaning": "Radiant",
+    "origin": "Arabic",
+    "id": "no5",
+    "verified": true
+  },
+  {
+    "name": "Nora",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no6",
+    "verified": true
+  },
+  {
+    "name": "Nosheen",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "no7",
+    "verified": true
+  },
+  {
+    "name": "Noshi",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Urdu",
+    "id": "no8",
+    "verified": true
+  },
+  {
+    "name": "Nouman",
+    "gender": "Boy",
+    "meaning": "Blood",
+    "origin": "Arabic",
+    "id": "no9",
+    "verified": true
+  },
+  {
+    "name": "Nour",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no10",
+    "verified": true
+  },
+  {
+    "name": "Noura",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no11",
+    "verified": true
+  },
+  {
+    "name": "Noureen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no12",
+    "verified": true
+  },
+  {
     "name": "Noyal",
     "gender": "Girl",
     "meaning": "Unique",
