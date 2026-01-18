@@ -1,10 +1,70 @@
 [
   {
+    "name": "Naajee",
+    "gender": "Boy",
+    "meaning": "Survivor",
+    "origin": "Arabic",
+    "id": "na137_var",
+    "verified": true,
+    "variant_of": "Naaji"
+  },
+  {
+    "name": "Naajeed",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "na136_var",
+    "verified": true,
+    "variant_of": "Naajid"
+  },
+  {
+    "name": "Naaji",
+    "gender": "Boy",
+    "meaning": "Survivor",
+    "origin": "Arabic",
+    "id": "na137",
+    "verified": true
+  },
+  {
+    "name": "Naajid",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "na136",
+    "verified": true
+  },
+  {
+    "id": "na1_var",
+    "name": "Naaseer",
+    "gender": "Boy",
+    "meaning": "Helper, protector",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naasir"
+  },
+  {
     "id": "na1",
     "name": "Naasir",
     "gender": "Boy",
     "meaning": "Helper, protector",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Naazeem",
+    "gender": "Boy",
+    "meaning": "Arranger",
+    "origin": "Arabic",
+    "id": "na138_var",
+    "verified": true,
+    "variant_of": "Naazim"
+  },
+  {
+    "name": "Naazim",
+    "gender": "Boy",
+    "meaning": "Arranger",
+    "origin": "Arabic",
+    "id": "na138",
     "verified": true
   },
   {
@@ -14,6 +74,42 @@
     "origin": "Quranic",
     "id": "na119",
     "verified": true
+  },
+  {
+    "name": "Nabah",
+    "gender": "Girl",
+    "meaning": "Great news",
+    "origin": "Quranic",
+    "id": "na119_var",
+    "verified": true,
+    "variant_of": "Naba"
+  },
+  {
+    "name": "Nabee",
+    "gender": "Boy",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "na97_var",
+    "verified": true,
+    "variant_of": "Nabi"
+  },
+  {
+    "id": "na4_var",
+    "name": "Nabeeh",
+    "gender": "Boy",
+    "meaning": "Noble, famous",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nabih"
+  },
+  {
+    "id": "na5_var",
+    "name": "Nabeeha",
+    "gender": "Girl",
+    "meaning": "Intelligent, noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nabiha"
   },
   {
     "id": "na2",
@@ -30,6 +126,15 @@
     "meaning": "Noble",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na3_var",
+    "name": "Nabeelah",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nabeela"
   },
   {
     "name": "Nabi",
@@ -56,6 +161,15 @@
     "verified": true
   },
   {
+    "id": "na5_var",
+    "name": "Nabihah",
+    "gender": "Girl",
+    "meaning": "Intelligent, noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nabiha"
+  },
+  {
     "id": "na6",
     "name": "Nabil",
     "gender": "Boy",
@@ -72,11 +186,46 @@
     "verified": true
   },
   {
+    "id": "na7_var",
+    "name": "Nabilah",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nabila"
+  },
+  {
+    "name": "Nabloos",
+    "gender": "Girl",
+    "meaning": "City in Palestine",
+    "origin": "Arabic",
+    "id": "na115_var",
+    "verified": true,
+    "variant_of": "Nablus"
+  },
+  {
     "name": "Nablus",
     "gender": "Girl",
     "meaning": "City in Palestine",
     "origin": "Arabic",
     "id": "na115",
+    "verified": true
+  },
+  {
+    "name": "Naceeye",
+    "gender": "Girl",
+    "meaning": "Safe; Saved",
+    "origin": "Turkish/Arabic",
+    "id": "na4_var",
+    "verified": true,
+    "variant_of": "Naciye"
+  },
+  {
+    "name": "Naciye",
+    "gender": "Girl",
+    "meaning": "Safe; Saved",
+    "origin": "Turkish/Arabic",
+    "id": "na4",
     "verified": true
   },
   {
@@ -88,12 +237,75 @@
     "verified": true
   },
   {
+    "id": "na8_var",
+    "name": "Nadah",
+    "gender": "Girl",
+    "meaning": "Dew, generosity",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nada"
+  },
+  {
+    "name": "Nadee",
+    "gender": "Boy",
+    "meaning": "Moist, damp",
+    "origin": "Arabic",
+    "id": "na85_var",
+    "verified": true,
+    "variant_of": "Nadi"
+  },
+  {
+    "id": "na10_var",
+    "name": "Nadeea",
+    "gender": "Girl",
+    "meaning": "Caller, announcer; Moist with dew",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadia"
+  },
+  {
+    "name": "Nadeede",
+    "gender": "Girl",
+    "meaning": "Rare; Precious",
+    "origin": "Turkish/Persian",
+    "id": "na5_var",
+    "verified": true,
+    "variant_of": "Nadide"
+  },
+  {
     "id": "na9",
     "name": "Nadeem",
     "gender": "Boy",
     "meaning": "Companion, friend",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na12_var",
+    "name": "Nadeer",
+    "gender": "Boy",
+    "meaning": "Rare, precious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadir"
+  },
+  {
+    "id": "na13_var",
+    "name": "Nadeera",
+    "gender": "Girl",
+    "meaning": "Rare, precious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadira"
+  },
+  {
+    "id": "na14_var",
+    "name": "Nadeeya",
+    "gender": "Girl",
+    "meaning": "Caller",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadiya"
   },
   {
     "name": "Nader",
@@ -117,6 +329,23 @@
     "gender": "Girl",
     "meaning": "Caller, announcer; Moist with dew",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "na10_var",
+    "name": "Nadiah",
+    "gender": "Girl",
+    "meaning": "Caller, announcer; Moist with dew",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadia"
+  },
+  {
+    "name": "Nadide",
+    "gender": "Girl",
+    "meaning": "Rare; Precious",
+    "origin": "Turkish/Persian",
+    "id": "na5",
     "verified": true
   },
   {
@@ -144,12 +373,30 @@
     "verified": true
   },
   {
+    "id": "na13_var",
+    "name": "Nadirah",
+    "gender": "Girl",
+    "meaning": "Rare, precious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadira"
+  },
+  {
     "id": "na14",
     "name": "Nadiya",
     "gender": "Girl",
     "meaning": "Caller",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na14_var",
+    "name": "Nadiyah",
+    "gender": "Girl",
+    "meaning": "Caller",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nadiya"
   },
   {
     "name": "Nador",
@@ -168,6 +415,68 @@
     "verified": true
   },
   {
+    "id": "na15_var",
+    "name": "Nadrah",
+    "gender": "Girl",
+    "meaning": "Radiance, bloom",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nadra"
+  },
+  {
+    "name": "Nadya",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Indonesian",
+    "id": "na133",
+    "verified": true
+  },
+  {
+    "name": "Nadyah",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Indonesian",
+    "id": "na133_var",
+    "verified": true,
+    "variant_of": "Nadya"
+  },
+  {
+    "id": "na25_var",
+    "name": "Naeef",
+    "gender": "Boy",
+    "meaning": "High, exalted (Variant of Nayef)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naif"
+  },
+  {
+    "id": "na26_var",
+    "name": "Naeel",
+    "gender": "Boy",
+    "meaning": "Attainer, achiever",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nail"
+  },
+  {
+    "id": "na27_var",
+    "name": "Naeela",
+    "gender": "Girl",
+    "meaning": "Attainer, achiever",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naila"
+  },
+  {
+    "name": "Naeele",
+    "gender": "Girl",
+    "meaning": "Winner; Achiever",
+    "origin": "Turkish/Arabic",
+    "id": "na8_var",
+    "verified": true,
+    "variant_of": "Naile"
+  },
+  {
     "id": "na16",
     "name": "Naeem",
     "gender": "Boy",
@@ -184,12 +493,56 @@
     "verified": true
   },
   {
+    "id": "na17_var",
+    "name": "Naeemah",
+    "gender": "Girl",
+    "meaning": "Blessing, living in ease",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naeema"
+  },
+  {
+    "id": "na30_var",
+    "name": "Naeera",
+    "gender": "Girl",
+    "meaning": "Shining, glittering",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naira"
+  },
+  {
+    "name": "Nael",
+    "gender": "Boy",
+    "meaning": "Achiever",
+    "origin": "Arabic",
+    "id": "na1",
+    "verified": true
+  },
+  {
+    "id": "na18_var",
+    "name": "Nafees",
+    "gender": "Boy",
+    "meaning": "Precious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nafis"
+  },
+  {
     "name": "Nafeesa",
     "gender": "Girl",
     "meaning": "Precious thing",
     "origin": "Arabic",
     "id": "na121",
     "verified": true
+  },
+  {
+    "name": "Nafeesah",
+    "gender": "Girl",
+    "meaning": "Precious thing",
+    "origin": "Arabic",
+    "id": "na121_var",
+    "verified": true,
+    "variant_of": "Nafeesa"
   },
   {
     "id": "na18",
@@ -208,6 +561,33 @@
     "verified": true
   },
   {
+    "id": "na19_var",
+    "name": "Nafisah",
+    "gender": "Girl",
+    "meaning": "Precious, valuable",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nafisa"
+  },
+  {
+    "id": "na21_var",
+    "name": "Nageeb",
+    "gender": "Boy",
+    "meaning": "Noble, intelligent (Variant of Najib)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nagib"
+  },
+  {
+    "name": "Nageehan",
+    "gender": "Girl",
+    "meaning": "Unexpected; Sudden",
+    "origin": "Persian",
+    "id": "na6_var",
+    "verified": true,
+    "variant_of": "Nagihan"
+  },
+  {
     "id": "na20",
     "name": "Nageen",
     "gender": "Girl",
@@ -224,12 +604,38 @@
     "verified": true
   },
   {
+    "name": "Naghmah",
+    "gender": "Girl",
+    "meaning": "Melody",
+    "origin": "Urdu",
+    "id": "na98_var",
+    "verified": true,
+    "variant_of": "Naghma"
+  },
+  {
     "id": "na21",
     "name": "Nagib",
     "gender": "Boy",
     "meaning": "Noble, intelligent (Variant of Najib)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Nagihan",
+    "gender": "Girl",
+    "meaning": "Unexpected; Sudden",
+    "origin": "Persian",
+    "id": "na6",
+    "verified": true
+  },
+  {
+    "id": "na20_var",
+    "name": "Nagin",
+    "gender": "Girl",
+    "meaning": "Gem, precious stone",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nageen"
   },
   {
     "name": "Nahal",
@@ -248,6 +654,15 @@
     "verified": true
   },
   {
+    "id": "na22_var",
+    "name": "Naheed",
+    "gender": "Girl",
+    "meaning": "Planet Venus",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nahid"
+  },
+  {
     "id": "na22",
     "name": "Nahid",
     "gender": "Girl",
@@ -262,6 +677,15 @@
     "meaning": "Drink of water",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na23_var",
+    "name": "Nahlah",
+    "gender": "Girl",
+    "meaning": "Drink of water",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nahla"
   },
   {
     "name": "Nahr",
@@ -304,6 +728,23 @@
     "verified": true
   },
   {
+    "id": "na27_var",
+    "name": "Nailah",
+    "gender": "Girl",
+    "meaning": "Attainer, achiever",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naila"
+  },
+  {
+    "name": "Naile",
+    "gender": "Girl",
+    "meaning": "Winner; Achiever",
+    "origin": "Turkish/Arabic",
+    "id": "na8",
+    "verified": true
+  },
+  {
     "id": "na28",
     "name": "Naim",
     "gender": "Boy",
@@ -320,12 +761,30 @@
     "verified": true
   },
   {
+    "id": "na29_var",
+    "name": "Naimah",
+    "gender": "Girl",
+    "meaning": "Comfortable, tranquil",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naima"
+  },
+  {
     "id": "na30",
     "name": "Naira",
     "gender": "Girl",
     "meaning": "Shining, glittering",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na30_var",
+    "name": "Nairah",
+    "gender": "Girl",
+    "meaning": "Shining, glittering",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naira"
   },
   {
     "name": "Naja",
@@ -376,12 +835,39 @@
     "verified": true
   },
   {
+    "name": "Najee",
+    "gender": "Boy",
+    "meaning": "Safe, survivor",
+    "origin": "Arabic",
+    "id": "na101_var",
+    "verified": true,
+    "variant_of": "Naji"
+  },
+  {
     "name": "Najeeb",
     "gender": "Boy",
     "meaning": "Excellent, noble",
     "origin": "Arabic",
     "id": "na100",
     "verified": true
+  },
+  {
+    "id": "na35_var",
+    "name": "Najeeba",
+    "gender": "Girl",
+    "meaning": "Noble, excellent",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najiba"
+  },
+  {
+    "id": "na36_var",
+    "name": "Najeeda",
+    "gender": "Girl",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najida"
   },
   {
     "name": "Naji",
@@ -408,12 +894,30 @@
     "verified": true
   },
   {
+    "id": "na35_var",
+    "name": "Najibah",
+    "gender": "Girl",
+    "meaning": "Noble, excellent",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najiba"
+  },
+  {
     "id": "na36",
     "name": "Najida",
     "gender": "Girl",
     "meaning": "Brave",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na36_var",
+    "name": "Najidah",
+    "gender": "Girl",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najida"
   },
   {
     "id": "na37",
@@ -424,12 +928,30 @@
     "verified": true
   },
   {
+    "id": "na37_var",
+    "name": "Najlah",
+    "gender": "Girl",
+    "meaning": "Of wide eyes",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najla"
+  },
+  {
     "id": "na38",
     "name": "Najm",
     "gender": "Boy",
     "meaning": "Star",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "name": "Najm-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Star of the Faith",
+    "origin": "Arabic",
+    "id": "na110_var",
+    "verified": true,
+    "variant_of": "Najm-Ud-Din"
   },
   {
     "name": "Najm-Ud-Din",
@@ -456,6 +978,15 @@
     "verified": true
   },
   {
+    "id": "na39_var",
+    "name": "Najmah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Najma"
+  },
+  {
     "name": "Najran",
     "gender": "Boy",
     "meaning": "City in Saudi Arabia",
@@ -470,6 +1001,24 @@
     "meaning": "Confidential talk, whisper",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "na40_var",
+    "name": "Najwah",
+    "gender": "Girl",
+    "meaning": "Confidential talk, whisper",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Najwa"
+  },
+  {
+    "id": "na41_var",
+    "name": "Nakeea",
+    "gender": "Girl",
+    "meaning": "Pure, faithful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nakia"
   },
   {
     "name": "Nakhl",
@@ -488,11 +1037,63 @@
     "verified": true
   },
   {
+    "id": "na41_var",
+    "name": "Nakiah",
+    "gender": "Girl",
+    "meaning": "Pure, faithful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nakia"
+  },
+  {
+    "name": "Nalan",
+    "gender": "Girl",
+    "meaning": "Lamenting; Crying",
+    "origin": "Turkish/Persian",
+    "id": "na9",
+    "verified": true
+  },
+  {
     "name": "Namar",
     "gender": "Boy",
     "meaning": "Mountain",
     "origin": "Arabic",
     "id": "na91",
+    "verified": true
+  },
+  {
+    "name": "Nameek",
+    "gender": "Boy",
+    "meaning": "Writer",
+    "origin": "Turkish/Arabic",
+    "id": "na10_var",
+    "verified": true,
+    "variant_of": "Namik"
+  },
+  {
+    "id": "na42_var",
+    "name": "Nameer",
+    "gender": "Boy",
+    "meaning": "Leopard",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Namir"
+  },
+  {
+    "id": "na43_var",
+    "name": "Nameera",
+    "gender": "Girl",
+    "meaning": "Leopardess",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Namira"
+  },
+  {
+    "name": "Namik",
+    "gender": "Boy",
+    "meaning": "Writer",
+    "origin": "Turkish/Arabic",
+    "id": "na10",
     "verified": true
   },
   {
@@ -512,12 +1113,91 @@
     "verified": true
   },
   {
+    "id": "na43_var",
+    "name": "Namirah",
+    "gender": "Girl",
+    "meaning": "Leopardess",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Namira"
+  },
+  {
     "name": "Namra",
     "gender": "Girl",
     "meaning": "Leopard; Tigress",
     "origin": "Arabic",
     "id": "na102",
     "verified": true
+  },
+  {
+    "name": "Namrah",
+    "gender": "Girl",
+    "meaning": "Leopard; Tigress",
+    "origin": "Arabic",
+    "id": "na102_var",
+    "verified": true,
+    "variant_of": "Namra"
+  },
+  {
+    "name": "Nana",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "African",
+    "id": "na134",
+    "verified": true
+  },
+  {
+    "name": "Nanah",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "African",
+    "id": "na134_var",
+    "verified": true,
+    "variant_of": "Nana"
+  },
+  {
+    "name": "Nanda",
+    "gender": "Unisex",
+    "meaning": "Joy",
+    "origin": "Indonesian",
+    "id": "na135",
+    "verified": true
+  },
+  {
+    "name": "Nandah",
+    "gender": "Unisex",
+    "meaning": "Joy",
+    "origin": "Indonesian",
+    "id": "na135_var",
+    "verified": true,
+    "variant_of": "Nanda"
+  },
+  {
+    "name": "Naoobahar",
+    "gender": "Girl",
+    "meaning": "Early spring",
+    "origin": "Persian",
+    "id": "na105_var",
+    "verified": true,
+    "variant_of": "Naubahar"
+  },
+  {
+    "name": "Naooreen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "na106_var",
+    "verified": true,
+    "variant_of": "Naureen"
+  },
+  {
+    "id": "na65_var",
+    "name": "Naooshad",
+    "gender": "Boy",
+    "meaning": "Happy",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Naushad"
   },
   {
     "name": "Naqa",
@@ -534,6 +1214,24 @@
     "origin": "Arabic",
     "id": "na118",
     "verified": true
+  },
+  {
+    "name": "Naqah",
+    "gender": "Girl",
+    "meaning": "Purity; Sand dune",
+    "origin": "Arabic",
+    "id": "na92_var",
+    "verified": true,
+    "variant_of": "Naqa"
+  },
+  {
+    "id": "na44_var",
+    "name": "Naqee",
+    "gender": "Boy",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naqi"
   },
   {
     "name": "Naqeeb",
@@ -560,12 +1258,39 @@
     "verified": true
   },
   {
+    "name": "Naqvee",
+    "gender": "Boy",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "na103_var",
+    "verified": true,
+    "variant_of": "Naqvi"
+  },
+  {
     "name": "Naqvi",
     "gender": "Boy",
     "meaning": "Pure",
     "origin": "Arabic",
     "id": "na103",
     "verified": true
+  },
+  {
+    "name": "Nareen",
+    "gender": "Girl",
+    "meaning": "Delicate; Slender",
+    "origin": "Turkish/Kurdish",
+    "id": "na11_var",
+    "verified": true,
+    "variant_of": "Narin"
+  },
+  {
+    "name": "Nargees",
+    "gender": "Girl",
+    "meaning": "Narcissus flower",
+    "origin": "Persian",
+    "id": "na95_var",
+    "verified": true,
+    "variant_of": "Nargis"
   },
   {
     "name": "Nargis",
@@ -576,6 +1301,23 @@
     "verified": true
   },
   {
+    "name": "Narin",
+    "gender": "Girl",
+    "meaning": "Delicate; Slender",
+    "origin": "Turkish/Kurdish",
+    "id": "na11",
+    "verified": true
+  },
+  {
+    "id": "na46_var",
+    "name": "Narjees",
+    "gender": "Girl",
+    "meaning": "Narcissus flower",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Narjis"
+  },
+  {
     "id": "na46",
     "name": "Narjis",
     "gender": "Girl",
@@ -584,12 +1326,48 @@
     "verified": true
   },
   {
+    "name": "Narmeen",
+    "gender": "Girl",
+    "meaning": "Soft; Delicate",
+    "origin": "Persian",
+    "id": "na122_var",
+    "verified": true,
+    "variant_of": "Narmin"
+  },
+  {
     "name": "Narmin",
     "gender": "Girl",
     "meaning": "Soft; Delicate",
     "origin": "Persian",
     "id": "na122",
     "verified": true
+  },
+  {
+    "id": "na53_var",
+    "name": "Naseeb",
+    "gender": "Boy",
+    "meaning": "Destiny, share",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nasib"
+  },
+  {
+    "id": "na54_var",
+    "name": "Naseef",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nasif"
+  },
+  {
+    "id": "na55_var",
+    "name": "Naseeh",
+    "gender": "Boy",
+    "meaning": "Advisor",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nasih"
   },
   {
     "id": "na47",
@@ -608,12 +1386,48 @@
     "verified": true
   },
   {
+    "name": "Naseer-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Helper of the Faith",
+    "origin": "Arabic",
+    "id": "na113_var",
+    "verified": true,
+    "variant_of": "Nasir-Ud-Din"
+  },
+  {
     "id": "na49",
     "name": "Naseera",
     "gender": "Girl",
     "meaning": "Helper, supporter",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na49_var",
+    "name": "Naseerah",
+    "gender": "Girl",
+    "meaning": "Helper, supporter",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naseera"
+  },
+  {
+    "id": "na50_var",
+    "name": "Nasheet",
+    "gender": "Boy",
+    "meaning": "Energetic, active",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nashit"
+  },
+  {
+    "id": "na51_var",
+    "name": "Nasheeta",
+    "gender": "Girl",
+    "meaning": "Energetic, full of life",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nashita"
   },
   {
     "id": "na50",
@@ -632,12 +1446,30 @@
     "verified": true
   },
   {
+    "id": "na51_var",
+    "name": "Nashitah",
+    "gender": "Girl",
+    "meaning": "Energetic, full of life",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nashita"
+  },
+  {
     "id": "na52",
     "name": "Nashwa",
     "gender": "Girl",
     "meaning": "Elation, happiness",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na52_var",
+    "name": "Nashwah",
+    "gender": "Girl",
+    "meaning": "Elation, happiness",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nashwa"
   },
   {
     "id": "na53",
@@ -696,6 +1528,15 @@
     "verified": true
   },
   {
+    "id": "na58_var",
+    "name": "Nasirah",
+    "gender": "Girl",
+    "meaning": "Helper, protector",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nasira"
+  },
+  {
     "id": "na59",
     "name": "Nasr",
     "gender": "Boy",
@@ -712,6 +1553,15 @@
     "verified": true
   },
   {
+    "name": "Nasrah",
+    "gender": "Girl",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "na123_var",
+    "verified": true,
+    "variant_of": "Nasra"
+  },
+  {
     "id": "na60",
     "name": "Nasreen",
     "gender": "Girl",
@@ -726,6 +1576,33 @@
     "meaning": "Wild rose",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "na62_var",
+    "name": "Nasrooddin",
+    "gender": "Boy",
+    "meaning": "Victory of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nasruddin"
+  },
+  {
+    "name": "Nasroollah",
+    "gender": "Boy",
+    "meaning": "Victory of God",
+    "origin": "Arabic",
+    "id": "na104_var",
+    "verified": true,
+    "variant_of": "Nasrullah"
+  },
+  {
+    "id": "na62_var",
+    "name": "Nasruddeen",
+    "gender": "Boy",
+    "meaning": "Victory of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nasruddin"
   },
   {
     "id": "na62",
@@ -752,6 +1629,24 @@
     "verified": true
   },
   {
+    "id": "na63_var",
+    "name": "Natashah",
+    "gender": "Girl",
+    "meaning": "Strong (Used in Muslim cultures though Russian origin)",
+    "origin": "Mixed",
+    "verified": true,
+    "variant_of": "Natasha"
+  },
+  {
+    "id": "na64_var",
+    "name": "Natheer",
+    "gender": "Boy",
+    "meaning": "Warner",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nathir"
+  },
+  {
     "id": "na64",
     "name": "Nathir",
     "gender": "Boy",
@@ -774,6 +1669,15 @@
     "origin": "Arabic",
     "id": "na106",
     "verified": true
+  },
+  {
+    "name": "Naurin",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "na106_var",
+    "verified": true,
+    "variant_of": "Naureen"
   },
   {
     "id": "na65",
@@ -840,6 +1744,15 @@
     "verified": true
   },
   {
+    "name": "Nawazeesh",
+    "gender": "Unisex",
+    "meaning": "Kindness",
+    "origin": "Persian",
+    "id": "na124_var",
+    "verified": true,
+    "variant_of": "Nawazish"
+  },
+  {
     "name": "Nawazish",
     "gender": "Unisex",
     "meaning": "Kindness",
@@ -888,6 +1801,15 @@
     "verified": true
   },
   {
+    "id": "na74_var",
+    "name": "Naylah",
+    "gender": "Girl",
+    "meaning": "Winner, achiever",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nayla"
+  },
+  {
     "name": "Nayyar",
     "gender": "Boy",
     "meaning": "Bright star; Sun",
@@ -912,12 +1834,92 @@
     "verified": true
   },
   {
+    "name": "Nazan",
+    "gender": "Girl",
+    "meaning": "Coy; Flirtatious",
+    "origin": "Turkish/Persian",
+    "id": "na12",
+    "verified": true
+  },
+  {
+    "id": "na76_var",
+    "name": "Nazeea",
+    "gender": "Girl",
+    "meaning": "Pride",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nazia"
+  },
+  {
+    "id": "na77_var",
+    "name": "Nazeeh",
+    "gender": "Boy",
+    "meaning": "Pure, chaste",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nazih"
+  },
+  {
+    "id": "na78_var",
+    "name": "Nazeeha",
+    "gender": "Girl",
+    "meaning": "Honest",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naziha"
+  },
+  {
+    "id": "na79_var",
+    "name": "Nazeem",
+    "gender": "Boy",
+    "meaning": "Arranger, organizer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nazim"
+  },
+  {
+    "id": "na80_var",
+    "name": "Nazeer",
+    "gender": "Boy",
+    "meaning": "Warner",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nazir"
+  },
+  {
+    "id": "na81_var",
+    "name": "Nazeera",
+    "gender": "Girl",
+    "meaning": "Like, equal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nazira"
+  },
+  {
+    "name": "Nazeesh",
+    "gender": "Girl",
+    "meaning": "Fragrance; Pride",
+    "origin": "Urdu",
+    "id": "na125_var",
+    "verified": true,
+    "variant_of": "Nazish"
+  },
+  {
     "id": "na76",
     "name": "Nazia",
     "gender": "Girl",
     "meaning": "Pride",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "na76_var",
+    "name": "Naziah",
+    "gender": "Girl",
+    "meaning": "Pride",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nazia"
   },
   {
     "id": "na77",
@@ -934,6 +1936,15 @@
     "meaning": "Honest",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "na78_var",
+    "name": "Nazihah",
+    "gender": "Girl",
+    "meaning": "Honest",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Naziha"
   },
   {
     "id": "na79",
@@ -960,12 +1971,30 @@
     "verified": true
   },
   {
+    "id": "na81_var",
+    "name": "Nazirah",
+    "gender": "Girl",
+    "meaning": "Like, equal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nazira"
+  },
+  {
     "name": "Nazish",
     "gender": "Girl",
     "meaning": "Fragrance; Pride",
     "origin": "Urdu",
     "id": "na125",
     "verified": true
+  },
+  {
+    "name": "Nazlee",
+    "gender": "Girl",
+    "meaning": "Delicate",
+    "origin": "Persian",
+    "id": "na126_var",
+    "verified": true,
+    "variant_of": "Nazli"
   },
   {
     "name": "Nazli",
@@ -984,6 +2013,24 @@
     "verified": true
   },
   {
+    "name": "Nazmah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "na109_var",
+    "verified": true,
+    "variant_of": "Nazma"
+  },
+  {
+    "id": "na82_var",
+    "name": "Nazmee",
+    "gender": "Boy",
+    "meaning": "Arranger",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nazmi"
+  },
+  {
     "id": "na82",
     "name": "Nazmi",
     "gender": "Boy",
@@ -1000,12 +2047,64 @@
     "verified": true
   },
   {
+    "id": "na83_var",
+    "name": "Naznin",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nazneen"
+  },
+  {
     "id": "na84",
     "name": "Nazz",
     "gender": "Girl",
     "meaning": "Pride",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Necla",
+    "gender": "Girl",
+    "meaning": "Daughter; Offspring",
+    "origin": "Turkish/Arabic",
+    "id": "ne3",
+    "verified": true
+  },
+  {
+    "name": "Neclah",
+    "gender": "Girl",
+    "meaning": "Daughter; Offspring",
+    "origin": "Turkish/Arabic",
+    "id": "ne3_var",
+    "verified": true,
+    "variant_of": "Necla"
+  },
+  {
+    "name": "Neda",
+    "gender": "Girl",
+    "meaning": "Voice; Call",
+    "origin": "Persian",
+    "id": "ne1",
+    "verified": true
+  },
+  {
+    "name": "Nedah",
+    "gender": "Girl",
+    "meaning": "Voice; Call",
+    "origin": "Persian",
+    "id": "ne1_var",
+    "verified": true,
+    "variant_of": "Neda"
+  },
+  {
+    "id": "ne1_var",
+    "name": "Nedeem",
+    "gender": "Boy",
+    "meaning": "Companion (Turkish form of Nadim)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Nedim"
   },
   {
     "id": "ne1",
@@ -1016,12 +2115,174 @@
     "verified": true
   },
   {
+    "name": "Neea",
+    "gender": "Girl",
+    "meaning": "Purpose",
+    "origin": "Swahili",
+    "id": "ni34_var",
+    "verified": true,
+    "variant_of": "Nia"
+  },
+  {
+    "name": "Neeamat",
+    "gender": "Unisex",
+    "meaning": "Blessing",
+    "origin": "Arabic",
+    "id": "ni24_var",
+    "verified": true,
+    "variant_of": "Niamat"
+  },
+  {
+    "name": "Neeamat-Ullah",
+    "gender": "Boy",
+    "meaning": "Blessing of God",
+    "origin": "Arabic",
+    "id": "ni25_var",
+    "verified": true,
+    "variant_of": "Niamat-Ullah"
+  },
+  {
+    "name": "Neeaz",
+    "gender": "Boy",
+    "meaning": "Need; Offering",
+    "origin": "Persian",
+    "id": "ni19_var",
+    "verified": true,
+    "variant_of": "Niaz"
+  },
+  {
+    "id": "ni1_var",
+    "name": "Needa",
+    "gender": "Girl",
+    "meaning": "Call, voice",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nida"
+  },
+  {
+    "name": "Needal",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Arabic",
+    "id": "ni17_var",
+    "verified": true,
+    "variant_of": "Nidal"
+  },
+  {
+    "name": "Neegar",
+    "gender": "Girl",
+    "meaning": "Picture; Beauty",
+    "origin": "Persian",
+    "id": "ni20_var",
+    "verified": true,
+    "variant_of": "Nigar"
+  },
+  {
+    "name": "Neeghat",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Urdu",
+    "id": "ni21_var",
+    "verified": true,
+    "variant_of": "Nighat"
+  },
+  {
+    "name": "Neehad",
+    "gender": "Girl",
+    "meaning": "Height",
+    "origin": "Arabic",
+    "id": "ni18_var",
+    "verified": true,
+    "variant_of": "Nihad"
+  },
+  {
+    "id": "ni2_var",
+    "name": "Neehal",
+    "gender": "Unisex",
+    "meaning": "Joyful, rain",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nihal"
+  },
+  {
+    "name": "Neehan",
+    "gender": "Girl",
+    "meaning": "Secret; Hidden",
+    "origin": "Turkish/Persian",
+    "id": "ni2_var",
+    "verified": true,
+    "variant_of": "Nihan"
+  },
+  {
+    "name": "Neehat",
+    "gender": "Boy",
+    "meaning": "Nature",
+    "origin": "Turkish",
+    "id": "ni22_var",
+    "verified": true,
+    "variant_of": "Nihat"
+  },
+  {
+    "id": "ni3_var",
+    "name": "Neehel",
+    "gender": "Girl",
+    "meaning": "Present",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nihel"
+  },
+  {
+    "name": "Neek",
+    "gender": "Unisex",
+    "meaning": "Little",
+    "origin": "Malay",
+    "id": "ni35_var",
+    "verified": true,
+    "variant_of": "Nik"
+  },
+  {
+    "name": "Neel",
+    "gender": "Boy",
+    "meaning": "Nile River",
+    "origin": "Arabic/Turkish",
+    "id": "ni15_var",
+    "verified": true,
+    "variant_of": "Nil"
+  },
+  {
     "id": "ne2",
     "name": "Neelam",
     "gender": "Girl",
     "meaning": "Sapphire",
     "origin": "Persian/Urdu",
     "verified": true
+  },
+  {
+    "name": "Neelay",
+    "gender": "Girl",
+    "meaning": "Moon of the Nile",
+    "origin": "Turkish",
+    "id": "ni23_var",
+    "verified": true,
+    "variant_of": "Nilay"
+  },
+  {
+    "name": "Neele",
+    "gender": "Boy",
+    "meaning": "Great River of Egypt",
+    "origin": "Arabic",
+    "id": "ni28_var",
+    "verified": true,
+    "variant_of": "Nile"
+  },
+  {
+    "id": "ni4_var",
+    "name": "Neelofar",
+    "gender": "Girl",
+    "meaning": "Water lily",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Nilofar"
   },
   {
     "id": "ne3",
@@ -1032,12 +2293,210 @@
     "verified": true
   },
   {
+    "name": "Neelufer",
+    "gender": "Girl",
+    "meaning": "Water lily, lotus",
+    "origin": "Turkish/Persian",
+    "id": "ni16_var",
+    "verified": true,
+    "variant_of": "Nilufer"
+  },
+  {
+    "id": "ni5_var",
+    "name": "Neema",
+    "gender": "Unisex",
+    "meaning": "Blessing",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nima"
+  },
+  {
+    "id": "ni6_var",
+    "name": "Neemah",
+    "gender": "Girl",
+    "meaning": "Blessing",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nimah"
+  },
+  {
     "id": "ne4",
     "name": "Neemat",
     "gender": "Unisex",
     "meaning": "Blessing (Variant of Nimat)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Neemet",
+    "gender": "Unisex",
+    "meaning": "Blessing (Ni'mat)",
+    "origin": "Turkish/Arabic",
+    "id": "ni6_var",
+    "verified": true,
+    "variant_of": "Nimet"
+  },
+  {
+    "name": "Neemra",
+    "gender": "Girl",
+    "meaning": "Soft; Lion",
+    "origin": "Arabic",
+    "id": "ni32_var",
+    "verified": true,
+    "variant_of": "Nimra"
+  },
+  {
+    "name": "Neeneveh",
+    "gender": "Girl",
+    "meaning": "Ninawa (Iraq)",
+    "origin": "Ancient",
+    "id": "ni29_var",
+    "verified": true,
+    "variant_of": "Nineveh"
+  },
+  {
+    "name": "Neesa",
+    "gender": "Girl",
+    "meaning": "Women",
+    "origin": "Arabic",
+    "id": "ni33_var",
+    "verified": true,
+    "variant_of": "Nisa"
+  },
+  {
+    "id": "ni8_var",
+    "name": "Neesbah",
+    "gender": "Girl",
+    "meaning": "Relationship, connection",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nisbah"
+  },
+  {
+    "id": "ni9_var",
+    "name": "Neesha",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Sanskrit/Urdu",
+    "verified": true,
+    "variant_of": "Nisha"
+  },
+  {
+    "name": "Neeshapur",
+    "gender": "Boy",
+    "meaning": "City of Turquoise (Iran)",
+    "origin": "Persian",
+    "id": "ni30_var",
+    "verified": true,
+    "variant_of": "Nishapur"
+  },
+  {
+    "id": "ni10_var",
+    "name": "Neeshat",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Nishat"
+  },
+  {
+    "id": "ni11_var",
+    "name": "Neesreen",
+    "gender": "Girl",
+    "meaning": "Wild rose",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nisreen"
+  },
+  {
+    "name": "Neeta",
+    "gender": "Girl",
+    "meaning": "Bear",
+    "origin": "Indonesian",
+    "id": "ni36_var",
+    "verified": true,
+    "variant_of": "Nita"
+  },
+  {
+    "id": "ni12_var",
+    "name": "Neeyaz",
+    "gender": "Boy",
+    "meaning": "Dedication, offering",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Niyaz"
+  },
+  {
+    "name": "Neeyazee",
+    "gender": "Boy",
+    "meaning": "Supplicant",
+    "origin": "Turkish/Persian",
+    "id": "ni7_var",
+    "verified": true,
+    "variant_of": "Niyazi"
+  },
+  {
+    "id": "ni14_var",
+    "name": "Neezam",
+    "gender": "Boy",
+    "meaning": "Order, arrangement",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nizam"
+  },
+  {
+    "name": "Neezam-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Order of the Faith",
+    "origin": "Arabic",
+    "id": "ni26_var",
+    "verified": true,
+    "variant_of": "Nizam-Ud-Din"
+  },
+  {
+    "name": "Neezam-Ul-Mulk",
+    "gender": "Boy",
+    "meaning": "Order of the Kingdom",
+    "origin": "Persian",
+    "id": "ni27_var",
+    "verified": true,
+    "variant_of": "Nizam-Ul-Mulk"
+  },
+  {
+    "name": "Neezamee",
+    "gender": "Boy",
+    "meaning": "Related to order",
+    "origin": "Arabic",
+    "id": "ni34_var",
+    "verified": true,
+    "variant_of": "Nizami"
+  },
+  {
+    "name": "Neezamuddeen",
+    "gender": "Boy",
+    "meaning": "Order of the religion",
+    "origin": "Arabic",
+    "id": "ni8_var",
+    "verified": true,
+    "variant_of": "Nizamuddin"
+  },
+  {
+    "id": "ni13_var",
+    "name": "Neezar",
+    "gender": "Boy",
+    "meaning": "Rare",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nizar"
+  },
+  {
+    "name": "Neezwa",
+    "gender": "Boy",
+    "meaning": "Historic capital of Oman",
+    "origin": "Arabic",
+    "id": "ni31_var",
+    "verified": true,
+    "variant_of": "Nizwa"
   },
   {
     "name": "Neha",
@@ -1056,12 +2515,30 @@
     "verified": true
   },
   {
+    "name": "Nehah",
+    "gender": "Girl",
+    "meaning": "Rain; Love",
+    "origin": "Sanskrit/Urdu",
+    "id": "ne14_var",
+    "verified": true,
+    "variant_of": "Neha"
+  },
+  {
     "id": "ne6",
     "name": "Nehal",
     "gender": "Girl",
     "meaning": "Rain",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Neheer",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ne12_var",
+    "verified": true,
+    "variant_of": "Nehir"
   },
   {
     "name": "Nehir",
@@ -1088,12 +2565,56 @@
     "verified": true
   },
   {
+    "id": "ne7_var",
+    "name": "Nejlah",
+    "gender": "Girl",
+    "meaning": "Wide eyes (Variant of Najla)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Nejla"
+  },
+  {
     "id": "ne8",
     "name": "Nema",
     "gender": "Girl",
     "meaning": "Blessing (Variant of Nima)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ne8_var",
+    "name": "Nemah",
+    "gender": "Girl",
+    "meaning": "Blessing (Variant of Nima)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nema"
+  },
+  {
+    "name": "Nergees",
+    "gender": "Girl",
+    "meaning": "Daffodil; Narcissus",
+    "origin": "Turkish/Persian",
+    "id": "ne4_var",
+    "verified": true,
+    "variant_of": "Nergis"
+  },
+  {
+    "name": "Nergis",
+    "gender": "Girl",
+    "meaning": "Daffodil; Narcissus",
+    "origin": "Turkish/Persian",
+    "id": "ne4",
+    "verified": true
+  },
+  {
+    "id": "ne9_var",
+    "name": "Nermeen",
+    "gender": "Girl",
+    "meaning": "Soft, delicate",
+    "origin": "Turkish/Persian",
+    "verified": true,
+    "variant_of": "Nermin"
   },
   {
     "id": "ne9",
@@ -1104,11 +2625,45 @@
     "verified": true
   },
   {
+    "id": "ne10_var",
+    "name": "Nesreen",
+    "gender": "Girl",
+    "meaning": "Wild rose (Turkish form of Nasrin)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Nesrin"
+  },
+  {
     "id": "ne10",
     "name": "Nesrin",
     "gender": "Girl",
     "meaning": "Wild rose (Turkish form of Nasrin)",
     "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Neveen",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Turkish/Persian",
+    "id": "ne7_var",
+    "verified": true,
+    "variant_of": "Nevin"
+  },
+  {
+    "name": "Nevin",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Turkish/Persian",
+    "id": "ne7",
+    "verified": true
+  },
+  {
+    "name": "Nezahat",
+    "gender": "Girl",
+    "meaning": "Purity; Decency",
+    "origin": "Turkish/Arabic",
+    "id": "ne8",
     "verified": true
   },
   {
@@ -1118,6 +2673,23 @@
     "meaning": "Order, arrangement (Variant of Nizam)",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "name": "Nia",
+    "gender": "Girl",
+    "meaning": "Purpose",
+    "origin": "Swahili",
+    "id": "ni34",
+    "verified": true
+  },
+  {
+    "name": "Niah",
+    "gender": "Girl",
+    "meaning": "Purpose",
+    "origin": "Swahili",
+    "id": "ni34_var",
+    "verified": true,
+    "variant_of": "Nia"
   },
   {
     "name": "Niamat",
@@ -1150,6 +2722,15 @@
     "meaning": "Call, voice",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "ni1_var",
+    "name": "Nidah",
+    "gender": "Girl",
+    "meaning": "Call, voice",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nida"
   },
   {
     "name": "Nidal",
@@ -1192,6 +2773,14 @@
     "verified": true
   },
   {
+    "name": "Nihan",
+    "gender": "Girl",
+    "meaning": "Secret; Hidden",
+    "origin": "Turkish/Persian",
+    "id": "ni2",
+    "verified": true
+  },
+  {
     "name": "Nihat",
     "gender": "Boy",
     "meaning": "Nature",
@@ -1208,12 +2797,29 @@
     "verified": true
   },
   {
+    "name": "Nik",
+    "gender": "Unisex",
+    "meaning": "Little",
+    "origin": "Malay",
+    "id": "ni35",
+    "verified": true
+  },
+  {
     "name": "Nil",
     "gender": "Boy",
     "meaning": "Nile River",
     "origin": "Arabic/Turkish",
     "id": "ni15",
     "verified": true
+  },
+  {
+    "id": "ne2_var",
+    "name": "Nilam",
+    "gender": "Girl",
+    "meaning": "Sapphire",
+    "origin": "Persian/Urdu",
+    "verified": true,
+    "variant_of": "Neelam"
   },
   {
     "name": "Nilay",
@@ -1238,6 +2844,24 @@
     "meaning": "Water lily",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "ne3_var",
+    "name": "Nilofer",
+    "gender": "Girl",
+    "meaning": "Lotus, water lily",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Neelofer"
+  },
+  {
+    "name": "Niloofer",
+    "gender": "Girl",
+    "meaning": "Water lily, lotus",
+    "origin": "Turkish/Persian",
+    "id": "ni16_var",
+    "verified": true,
+    "variant_of": "Nilufer"
   },
   {
     "name": "Nilufer",
@@ -1272,12 +2896,29 @@
     "verified": true
   },
   {
+    "name": "Nimet",
+    "gender": "Unisex",
+    "meaning": "Blessing (Ni'mat)",
+    "origin": "Turkish/Arabic",
+    "id": "ni6",
+    "verified": true
+  },
+  {
     "name": "Nimra",
     "gender": "Girl",
     "meaning": "Soft; Lion",
     "origin": "Arabic",
     "id": "ni32",
     "verified": true
+  },
+  {
+    "name": "Nimrah",
+    "gender": "Girl",
+    "meaning": "Soft; Lion",
+    "origin": "Arabic",
+    "id": "ni32_var",
+    "verified": true,
+    "variant_of": "Nimra"
   },
   {
     "name": "Nineveh",
@@ -1296,6 +2937,15 @@
     "verified": true
   },
   {
+    "name": "Nisah",
+    "gender": "Girl",
+    "meaning": "Women",
+    "origin": "Arabic",
+    "id": "ni33_var",
+    "verified": true,
+    "variant_of": "Nisa"
+  },
+  {
     "id": "ni8",
     "name": "Nisbah",
     "gender": "Girl",
@@ -1310,6 +2960,24 @@
     "meaning": "Night",
     "origin": "Sanskrit/Urdu",
     "verified": true
+  },
+  {
+    "id": "ni9_var",
+    "name": "Nishah",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Sanskrit/Urdu",
+    "verified": true,
+    "variant_of": "Nisha"
+  },
+  {
+    "name": "Nishapoor",
+    "gender": "Boy",
+    "meaning": "City of Turquoise (Iran)",
+    "origin": "Persian",
+    "id": "ni30_var",
+    "verified": true,
+    "variant_of": "Nishapur"
   },
   {
     "name": "Nishapur",
@@ -1336,11 +3004,45 @@
     "verified": true
   },
   {
+    "id": "ni11_var",
+    "name": "Nisrin",
+    "gender": "Girl",
+    "meaning": "Wild rose",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nisreen"
+  },
+  {
+    "name": "Nita",
+    "gender": "Girl",
+    "meaning": "Bear",
+    "origin": "Indonesian",
+    "id": "ni36",
+    "verified": true
+  },
+  {
+    "name": "Nitah",
+    "gender": "Girl",
+    "meaning": "Bear",
+    "origin": "Indonesian",
+    "id": "ni36_var",
+    "verified": true,
+    "variant_of": "Nita"
+  },
+  {
     "id": "ni12",
     "name": "Niyaz",
     "gender": "Boy",
     "meaning": "Dedication, offering",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Niyazi",
+    "gender": "Boy",
+    "meaning": "Supplicant",
+    "origin": "Turkish/Persian",
+    "id": "ni7",
     "verified": true
   },
   {
@@ -1360,6 +3062,15 @@
     "verified": true
   },
   {
+    "name": "Nizam-Ul-Moolk",
+    "gender": "Boy",
+    "meaning": "Order of the Kingdom",
+    "origin": "Persian",
+    "id": "ni27_var",
+    "verified": true,
+    "variant_of": "Nizam-Ul-Mulk"
+  },
+  {
     "name": "Nizam-Ul-Mulk",
     "gender": "Boy",
     "meaning": "Order of the Kingdom",
@@ -1373,6 +3084,23 @@
     "meaning": "Related to order",
     "origin": "Arabic",
     "id": "ni34",
+    "verified": true
+  },
+  {
+    "name": "Nizamooddin",
+    "gender": "Boy",
+    "meaning": "Order of the religion",
+    "origin": "Arabic",
+    "id": "ni8_var",
+    "verified": true,
+    "variant_of": "Nizamuddin"
+  },
+  {
+    "name": "Nizamuddin",
+    "gender": "Boy",
+    "meaning": "Order of the religion",
+    "origin": "Arabic",
+    "id": "ni8",
     "verified": true
   },
   {
@@ -1392,6 +3120,159 @@
     "verified": true
   },
   {
+    "name": "Nizwah",
+    "gender": "Boy",
+    "meaning": "Historic capital of Oman",
+    "origin": "Arabic",
+    "id": "ni31_var",
+    "verified": true,
+    "variant_of": "Nizwa"
+  },
+  {
+    "id": "nu1_var",
+    "name": "Nooaym",
+    "gender": "Boy",
+    "meaning": "Benevolent",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nuaym"
+  },
+  {
+    "name": "Noobia",
+    "gender": "Girl",
+    "meaning": "Land of Gold (Sudan/Egypt)",
+    "origin": "Ancient",
+    "id": "nu17_var",
+    "verified": true,
+    "variant_of": "Nubia"
+  },
+  {
+    "id": "nu2_var",
+    "name": "Noodrat",
+    "gender": "Girl",
+    "meaning": "Uniqueness",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Nudrat"
+  },
+  {
+    "name": "Noograha",
+    "gender": "Boy",
+    "meaning": "Blessing",
+    "origin": "Indonesian",
+    "id": "nu25_var",
+    "verified": true,
+    "variant_of": "Nugraha"
+  },
+  {
+    "id": "nu3_var",
+    "name": "Nooh",
+    "gender": "Boy",
+    "meaning": "Prophet Noah",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nuh"
+  },
+  {
+    "id": "nu4_var",
+    "name": "Nooha",
+    "gender": "Girl",
+    "meaning": "Intelligence, mind",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nuha"
+  },
+  {
+    "id": "nu5_var",
+    "name": "Nooham",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nuham"
+  },
+  {
+    "id": "nu6_var",
+    "name": "Noojood",
+    "gender": "Girl",
+    "meaning": "Noble, wise",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nujood"
+  },
+  {
+    "name": "Nooma",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "nu19_var",
+    "verified": true,
+    "variant_of": "Numa"
+  },
+  {
+    "id": "nu7_var",
+    "name": "Noomair",
+    "gender": "Boy",
+    "meaning": "Little panther",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Numair"
+  },
+  {
+    "id": "nu8_var",
+    "name": "Nooman",
+    "gender": "Boy",
+    "meaning": "Blood; Red flower",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Numan"
+  },
+  {
+    "id": "no7_var",
+    "name": "Noooman",
+    "gender": "Boy",
+    "meaning": "Blood, red (Variant of Numan)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nouman"
+  },
+  {
+    "name": "Nooor",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "no19_var",
+    "verified": true,
+    "variant_of": "Nour"
+  },
+  {
+    "id": "no8_var",
+    "name": "Nooora",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Noura"
+  },
+  {
+    "id": "no9_var",
+    "name": "Noooran",
+    "gender": "Unisex",
+    "meaning": "Two lights",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nouran"
+  },
+  {
+    "id": "no10_var",
+    "name": "Noooreen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Noureen"
+  },
+  {
     "id": "no1",
     "name": "Noor",
     "gender": "Unisex",
@@ -1408,12 +3289,30 @@
     "verified": true
   },
   {
+    "name": "Noor-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "id": "no16_var",
+    "verified": true,
+    "variant_of": "Noor-Ud-Din"
+  },
+  {
     "name": "Noor-Ud-Din",
     "gender": "Boy",
     "meaning": "Light of the Faith",
     "origin": "Arabic",
     "id": "no16",
     "verified": true
+  },
+  {
+    "name": "Noor-Ul-Aeen",
+    "gender": "Girl",
+    "meaning": "Light of the eyes",
+    "origin": "Arabic/Urdu",
+    "id": "no11_var",
+    "verified": true,
+    "variant_of": "Noor-Ul-Ain"
   },
   {
     "name": "Noor-Ul-Ain",
@@ -1424,12 +3323,30 @@
     "verified": true
   },
   {
+    "name": "Noor-Ul-Hooda",
+    "gender": "Unisex",
+    "meaning": "Light of Guidance",
+    "origin": "Arabic",
+    "id": "no17_var",
+    "verified": true,
+    "variant_of": "Noor-Ul-Huda"
+  },
+  {
     "name": "Noor-Ul-Huda",
     "gender": "Unisex",
     "meaning": "Light of Guidance",
     "origin": "Arabic",
     "id": "no17",
     "verified": true
+  },
+  {
+    "name": "Noor-Ul-Hudah",
+    "gender": "Unisex",
+    "meaning": "Light of Guidance",
+    "origin": "Arabic",
+    "id": "no17_var",
+    "verified": true,
+    "variant_of": "Noor-Ul-Huda"
   },
   {
     "name": "Noor-Ullah",
@@ -1448,6 +3365,60 @@
     "verified": true
   },
   {
+    "id": "no2_var",
+    "name": "Noorah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Noora"
+  },
+  {
+    "name": "Nooray",
+    "gender": "Girl",
+    "meaning": "Radiant moon",
+    "origin": "Turkish",
+    "id": "nu15_var",
+    "verified": true,
+    "variant_of": "Nuray"
+  },
+  {
+    "name": "Noorcan",
+    "gender": "Unisex",
+    "meaning": "Soul of light",
+    "origin": "Turkish/Persian",
+    "id": "nu2_var",
+    "verified": true,
+    "variant_of": "Nurcan"
+  },
+  {
+    "name": "Nooree",
+    "gender": "Girl",
+    "meaning": "Of light",
+    "origin": "Arabic",
+    "id": "no12_var",
+    "verified": true,
+    "variant_of": "Noori"
+  },
+  {
+    "id": "no3_var",
+    "name": "Nooreeyah",
+    "gender": "Girl",
+    "meaning": "Radiant, luminous",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nooriyah"
+  },
+  {
+    "name": "Noorgool",
+    "gender": "Girl",
+    "meaning": "Radiant rose",
+    "origin": "Turkish/Persian",
+    "id": "nu3_var",
+    "verified": true,
+    "variant_of": "Nurgul"
+  },
+  {
     "name": "Noori",
     "gender": "Girl",
     "meaning": "Of light",
@@ -1464,12 +3435,75 @@
     "verified": true
   },
   {
+    "id": "no4_var",
+    "name": "Noorooddin",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nooruddin"
+  },
+  {
+    "name": "Noorool",
+    "gender": "Girl",
+    "meaning": "Light of",
+    "origin": "Malay",
+    "id": "nu26_var",
+    "verified": true,
+    "variant_of": "Nurul"
+  },
+  {
+    "id": "no5_var",
+    "name": "Nooroolain",
+    "gender": "Girl",
+    "meaning": "Peace of eyes (Light of eyes)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Noorulain"
+  },
+  {
+    "name": "Noorsel",
+    "gender": "Girl",
+    "meaning": "Flood of light",
+    "origin": "Turkish",
+    "id": "nu4_var",
+    "verified": true,
+    "variant_of": "Nursel"
+  },
+  {
+    "name": "Noorten",
+    "gender": "Girl",
+    "meaning": "Luminous skin",
+    "origin": "Turkish/Persian",
+    "id": "nu5_var",
+    "verified": true,
+    "variant_of": "Nurten"
+  },
+  {
+    "id": "no4_var",
+    "name": "Nooruddeen",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nooruddin"
+  },
+  {
     "id": "no4",
     "name": "Nooruddin",
     "gender": "Boy",
     "meaning": "Light of the Faith",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "no5_var",
+    "name": "Noorulaeen",
+    "gender": "Girl",
+    "meaning": "Peace of eyes (Light of eyes)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Noorulain"
   },
   {
     "id": "no5",
@@ -1480,12 +3514,101 @@
     "verified": true
   },
   {
+    "id": "nu12_var",
+    "name": "Noosaybah",
+    "gender": "Girl",
+    "meaning": "One with good lineage; Famous woman warrior",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nusaybah"
+  },
+  {
+    "name": "Noosrah",
+    "gender": "Girl",
+    "meaning": "Help; Support",
+    "origin": "Arabic",
+    "id": "nu20_var",
+    "verified": true,
+    "variant_of": "Nusrah"
+  },
+  {
+    "id": "nu13_var",
+    "name": "Noosrat",
+    "gender": "Unisex",
+    "meaning": "Help, victory",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nusrat"
+  },
+  {
+    "name": "Noosrat-Fateh",
+    "gender": "Boy",
+    "meaning": "Victory of the Conqueror",
+    "origin": "Arabic",
+    "id": "nu16_var",
+    "verified": true,
+    "variant_of": "Nusrat-Fateh"
+  },
+  {
+    "name": "Nooweiba",
+    "gender": "Girl",
+    "meaning": "City in Sinai",
+    "origin": "Arabic",
+    "id": "nu18_var",
+    "verified": true,
+    "variant_of": "Nuweiba"
+  },
+  {
+    "name": "Noozha",
+    "gender": "Girl",
+    "meaning": "Pleasure trip",
+    "origin": "Arabic",
+    "id": "nu21_var",
+    "verified": true,
+    "variant_of": "Nuzha"
+  },
+  {
+    "id": "nu14_var",
+    "name": "Noozhat",
+    "gender": "Girl",
+    "meaning": "Cheerfulness",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nuzhat"
+  },
+  {
+    "name": "Nor",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Malay",
+    "id": "no13",
+    "verified": true
+  },
+  {
     "id": "no6",
     "name": "Nora",
     "gender": "Girl",
     "meaning": "Light",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "no6_var",
+    "name": "Norah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nora"
+  },
+  {
+    "name": "Noshee",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Urdu",
+    "id": "no13_var",
+    "verified": true,
+    "variant_of": "Noshi"
   },
   {
     "name": "Nosheen",
@@ -1502,6 +3625,15 @@
     "origin": "Urdu",
     "id": "no13",
     "verified": true
+  },
+  {
+    "name": "Noshin",
+    "gender": "Girl",
+    "meaning": "Sweet",
+    "origin": "Persian",
+    "id": "no14_var",
+    "verified": true,
+    "variant_of": "Nosheen"
   },
   {
     "id": "no7",
@@ -1528,6 +3660,15 @@
     "verified": true
   },
   {
+    "id": "no8_var",
+    "name": "Nourah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Noura"
+  },
+  {
     "id": "no9",
     "name": "Nouran",
     "gender": "Unisex",
@@ -1544,12 +3685,64 @@
     "verified": true
   },
   {
+    "id": "no10_var",
+    "name": "Nourin",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Noureen"
+  },
+  {
+    "name": "Noveeta",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "no14_var",
+    "verified": true,
+    "variant_of": "Novita"
+  },
+  {
+    "name": "Novita",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "no14",
+    "verified": true
+  },
+  {
+    "name": "Novitah",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "no14_var",
+    "verified": true,
+    "variant_of": "Novita"
+  },
+  {
+    "name": "Noyal",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Modern",
+    "id": "no1",
+    "verified": true
+  },
+  {
     "id": "nu1",
     "name": "Nuaym",
     "gender": "Boy",
     "meaning": "Benevolent",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Nubeea",
+    "gender": "Girl",
+    "meaning": "Land of Gold (Sudan/Egypt)",
+    "origin": "Ancient",
+    "id": "nu17_var",
+    "verified": true,
+    "variant_of": "Nubia"
   },
   {
     "name": "Nubia",
@@ -1560,12 +3753,38 @@
     "verified": true
   },
   {
+    "name": "Nubiah",
+    "gender": "Girl",
+    "meaning": "Land of Gold (Sudan/Egypt)",
+    "origin": "Ancient",
+    "id": "nu17_var",
+    "verified": true,
+    "variant_of": "Nubia"
+  },
+  {
     "id": "nu2",
     "name": "Nudrat",
     "gender": "Girl",
     "meaning": "Uniqueness",
     "origin": "Urdu",
     "verified": true
+  },
+  {
+    "name": "Nugraha",
+    "gender": "Boy",
+    "meaning": "Blessing",
+    "origin": "Indonesian",
+    "id": "nu25",
+    "verified": true
+  },
+  {
+    "name": "Nugrahah",
+    "gender": "Boy",
+    "meaning": "Blessing",
+    "origin": "Indonesian",
+    "id": "nu25_var",
+    "verified": true,
+    "variant_of": "Nugraha"
   },
   {
     "id": "nu3",
@@ -1584,6 +3803,15 @@
     "verified": true
   },
   {
+    "id": "nu4_var",
+    "name": "Nuhah",
+    "gender": "Girl",
+    "meaning": "Intelligence, mind",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Nuha"
+  },
+  {
     "id": "nu5",
     "name": "Nuham",
     "gender": "Boy",
@@ -1600,12 +3828,39 @@
     "verified": true
   },
   {
+    "id": "nu6_var",
+    "name": "Nujud",
+    "gender": "Girl",
+    "meaning": "Noble, wise",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nujood"
+  },
+  {
     "name": "Numa",
     "gender": "Girl",
     "meaning": "Beautiful",
     "origin": "Urdu",
     "id": "nu19",
     "verified": true
+  },
+  {
+    "id": "nu7_var",
+    "name": "Numaeer",
+    "gender": "Boy",
+    "meaning": "Little panther",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Numair"
+  },
+  {
+    "name": "Numah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "nu19_var",
+    "verified": true,
+    "variant_of": "Numa"
   },
   {
     "id": "nu7",
@@ -1632,12 +3887,66 @@
     "verified": true
   },
   {
+    "name": "Nur-Jahan",
+    "gender": "Girl",
+    "meaning": "Light of the World",
+    "origin": "Persian",
+    "id": "no15_var",
+    "verified": true,
+    "variant_of": "Noor-Jahan"
+  },
+  {
+    "name": "Nur-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "id": "no16_var",
+    "verified": true,
+    "variant_of": "Noor-Ud-Din"
+  },
+  {
+    "name": "Nur-Ul-Ain",
+    "gender": "Girl",
+    "meaning": "Light of the eyes",
+    "origin": "Arabic/Urdu",
+    "id": "no11_var",
+    "verified": true,
+    "variant_of": "Noor-Ul-Ain"
+  },
+  {
+    "name": "Nur-Ul-Huda",
+    "gender": "Unisex",
+    "meaning": "Light of Guidance",
+    "origin": "Arabic",
+    "id": "no17_var",
+    "verified": true,
+    "variant_of": "Noor-Ul-Huda"
+  },
+  {
+    "name": "Nur-Ullah",
+    "gender": "Boy",
+    "meaning": "Light of God",
+    "origin": "Arabic",
+    "id": "no18_var",
+    "verified": true,
+    "variant_of": "Noor-Ullah"
+  },
+  {
     "id": "nu10",
     "name": "Nura",
     "gender": "Girl",
     "meaning": "Light",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "nu10_var",
+    "name": "Nurah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nura"
   },
   {
     "name": "Nuray",
@@ -1648,12 +3957,88 @@
     "verified": true
   },
   {
+    "name": "Nurcan",
+    "gender": "Unisex",
+    "meaning": "Soul of light",
+    "origin": "Turkish/Persian",
+    "id": "nu2",
+    "verified": true
+  },
+  {
+    "id": "nu11_var",
+    "name": "Nureeyah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nuriyah"
+  },
+  {
+    "name": "Nurgul",
+    "gender": "Girl",
+    "meaning": "Radiant rose",
+    "origin": "Turkish/Persian",
+    "id": "nu3",
+    "verified": true
+  },
+  {
+    "name": "Nuri",
+    "gender": "Girl",
+    "meaning": "Of light",
+    "origin": "Arabic",
+    "id": "no12_var",
+    "verified": true,
+    "variant_of": "Noori"
+  },
+  {
     "id": "nu11",
     "name": "Nuriyah",
     "gender": "Girl",
     "meaning": "Light",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Nursel",
+    "gender": "Girl",
+    "meaning": "Flood of light",
+    "origin": "Turkish",
+    "id": "nu4",
+    "verified": true
+  },
+  {
+    "name": "Nurten",
+    "gender": "Girl",
+    "meaning": "Luminous skin",
+    "origin": "Turkish/Persian",
+    "id": "nu5",
+    "verified": true
+  },
+  {
+    "id": "no4_var",
+    "name": "Nuruddin",
+    "gender": "Boy",
+    "meaning": "Light of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nooruddin"
+  },
+  {
+    "name": "Nurul",
+    "gender": "Girl",
+    "meaning": "Light of",
+    "origin": "Malay",
+    "id": "nu26",
+    "verified": true
+  },
+  {
+    "id": "no5_var",
+    "name": "Nurulain",
+    "gender": "Girl",
+    "meaning": "Peace of eyes (Light of eyes)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Noorulain"
   },
   {
     "id": "nu12",
@@ -1688,6 +4073,15 @@
     "verified": true
   },
   {
+    "name": "Nuweeeba",
+    "gender": "Girl",
+    "meaning": "City in Sinai",
+    "origin": "Arabic",
+    "id": "nu18_var",
+    "verified": true,
+    "variant_of": "Nuweiba"
+  },
+  {
     "name": "Nuweiba",
     "gender": "Girl",
     "meaning": "City in Sinai",
@@ -1696,12 +4090,30 @@
     "verified": true
   },
   {
+    "name": "Nuweibah",
+    "gender": "Girl",
+    "meaning": "City in Sinai",
+    "origin": "Arabic",
+    "id": "nu18_var",
+    "verified": true,
+    "variant_of": "Nuweiba"
+  },
+  {
     "name": "Nuzha",
     "gender": "Girl",
     "meaning": "Pleasure trip",
     "origin": "Arabic",
     "id": "nu21",
     "verified": true
+  },
+  {
+    "name": "Nuzhah",
+    "gender": "Girl",
+    "meaning": "Pleasure trip",
+    "origin": "Arabic",
+    "id": "nu21_var",
+    "verified": true,
+    "variant_of": "Nuzha"
   },
   {
     "id": "nu14",
@@ -1720,11 +4132,29 @@
     "verified": true
   },
   {
+    "id": "ny1_var",
+    "name": "Nylah",
+    "gender": "Girl",
+    "meaning": "Winner, achiever (Variant of Nayla)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Nyla"
+  },
+  {
     "id": "ny2",
     "name": "Nyra",
     "gender": "Girl",
     "meaning": "Rose",
     "origin": "Modern",
     "verified": false
+  },
+  {
+    "id": "ny2_var",
+    "name": "Nyrah",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Modern",
+    "verified": false,
+    "variant_of": "Nyra"
   }
 ]

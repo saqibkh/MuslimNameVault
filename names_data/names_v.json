@@ -1,19 +1,63 @@
 [
   {
-    "id": "va1",
     "name": "Vafa",
     "gender": "Girl",
-    "meaning": "Loyalty, faithfulness (Variant of Wafa)",
+    "meaning": "Loyalty",
     "origin": "Persian",
+    "id": "va2",
     "verified": true
   },
   {
-    "id": "va2",
+    "name": "Vafah",
+    "gender": "Girl",
+    "meaning": "Loyalty",
+    "origin": "Persian",
+    "id": "va2_var",
+    "verified": true,
+    "variant_of": "Vafa"
+  },
+  {
+    "name": "Vahap",
+    "gender": "Boy",
+    "meaning": "Giver; Bestower",
+    "origin": "Turkish/Arabic",
+    "id": "va1",
+    "verified": true
+  },
+  {
+    "name": "Vaheed",
+    "gender": "Boy",
+    "meaning": "The One",
+    "origin": "Persian",
+    "id": "va3_var",
+    "verified": true,
+    "variant_of": "Vahid"
+  },
+  {
     "name": "Vahid",
     "gender": "Boy",
-    "meaning": "The One, unique (Variant of Wahid)",
+    "meaning": "The One",
     "origin": "Persian",
+    "id": "va3",
     "verified": true
+  },
+  {
+    "name": "Valee",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Persian",
+    "id": "va4_var",
+    "verified": true,
+    "variant_of": "Vali"
+  },
+  {
+    "name": "Valenceea",
+    "gender": "Girl",
+    "meaning": "Balansiya (Andalus)",
+    "origin": "Arabic",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Valencia"
   },
   {
     "name": "Valencia",
@@ -24,11 +68,20 @@
     "verified": true
   },
   {
-    "id": "va3",
+    "name": "Valenciah",
+    "gender": "Girl",
+    "meaning": "Balansiya (Andalus)",
+    "origin": "Arabic",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Valencia"
+  },
+  {
     "name": "Vali",
     "gender": "Boy",
-    "meaning": "Guardian, governor (Variant of Wali)",
-    "origin": "Persian/Turkish",
+    "meaning": "Guardian",
+    "origin": "Persian",
+    "id": "va4",
     "verified": true
   },
   {
@@ -40,51 +93,149 @@
     "verified": true
   },
   {
-    "id": "va4",
+    "name": "Vaneea",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "va5_var",
+    "verified": true,
+    "variant_of": "Vania"
+  },
+  {
     "name": "Vania",
     "gender": "Girl",
     "meaning": "Gift of God",
     "origin": "Persian",
+    "id": "va5",
     "verified": true
   },
   {
-    "id": "va5",
+    "name": "Vaniah",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "va5_var",
+    "verified": true,
+    "variant_of": "Vania"
+  },
+  {
+    "name": "Vareesha",
+    "gender": "Girl",
+    "meaning": "Lightning",
+    "origin": "Arabic",
+    "id": "va6_var",
+    "verified": true,
+    "variant_of": "Varisha"
+  },
+  {
     "name": "Varisha",
     "gender": "Girl",
     "meaning": "Lightning",
     "origin": "Arabic",
+    "id": "va6",
     "verified": true
   },
   {
-    "id": "va6",
+    "name": "Varishah",
+    "gender": "Girl",
+    "meaning": "Lightning",
+    "origin": "Arabic",
+    "id": "va6_var",
+    "verified": true,
+    "variant_of": "Varisha"
+  },
+  {
+    "name": "Vaseem",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Persian",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Vasim"
+  },
+  {
     "name": "Vasim",
     "gender": "Boy",
-    "meaning": "Handsome (Variant of Wasim)",
+    "meaning": "Handsome",
     "origin": "Persian",
+    "id": "va7",
     "verified": true
   },
   {
-    "id": "ve1",
     "name": "Vedat",
     "gender": "Boy",
-    "meaning": "Love, friendship (Turkish form of Wadud)",
-    "origin": "Turkish",
+    "meaning": "Love; Friendship",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
     "verified": true
   },
   {
-    "id": "ve2",
+    "id": "vi1_var",
+    "name": "Veean",
+    "gender": "Girl",
+    "meaning": "Love, hope",
+    "origin": "Kurdish",
+    "verified": true,
+    "variant_of": "Vian"
+  },
+  {
+    "name": "Veeda",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1_var",
+    "verified": true,
+    "variant_of": "Vida"
+  },
+  {
+    "id": "vi2_var",
+    "name": "Veeldan",
+    "gender": "Girl",
+    "meaning": "Children (Turkish form of Wildan)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Vildan"
+  },
+  {
+    "name": "Velee",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Turkish",
+    "id": "ve3_var",
+    "verified": true,
+    "variant_of": "Veli"
+  },
+  {
     "name": "Veli",
     "gender": "Boy",
-    "meaning": "Guardian (Turkish form of Wali)",
+    "meaning": "Guardian",
     "origin": "Turkish",
+    "id": "ve3",
     "verified": true
   },
   {
-    "id": "ve3",
+    "name": "Veseele",
+    "gender": "Girl",
+    "meaning": "Means; Occasion",
+    "origin": "Turkish/Arabic",
+    "id": "ve2_var",
+    "verified": true,
+    "variant_of": "Vesile"
+  },
+  {
+    "name": "Vesile",
+    "gender": "Girl",
+    "meaning": "Means; Occasion",
+    "origin": "Turkish/Arabic",
+    "id": "ve2",
+    "verified": true
+  },
+  {
     "name": "Veysel",
     "gender": "Boy",
-    "meaning": "Wolf (Turkish form of Uwais)",
+    "meaning": "Wolf",
     "origin": "Turkish",
+    "id": "ve4",
     "verified": true
   },
   {
@@ -94,6 +245,23 @@
     "meaning": "Love, hope",
     "origin": "Kurdish",
     "verified": true
+  },
+  {
+    "name": "Vida",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1",
+    "verified": true
+  },
+  {
+    "name": "Vidah",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1_var",
+    "verified": true,
+    "variant_of": "Vida"
   },
   {
     "id": "vi2",
@@ -112,11 +280,46 @@
     "verified": true
   },
   {
+    "name": "Voloobilis",
+    "gender": "Girl",
+    "meaning": "Walili (Morocco)",
+    "origin": "Berber/Latin",
+    "id": "vo2_var",
+    "verified": true,
+    "variant_of": "Volubilis"
+  },
+  {
+    "name": "Volubeelees",
+    "gender": "Girl",
+    "meaning": "Walili (Morocco)",
+    "origin": "Berber/Latin",
+    "id": "vo2_var",
+    "verified": true,
+    "variant_of": "Volubilis"
+  },
+  {
     "name": "Volubilis",
     "gender": "Girl",
     "meaning": "Walili (Morocco)",
     "origin": "Berber/Latin",
     "id": "vo2",
+    "verified": true
+  },
+  {
+    "name": "Vooral",
+    "gender": "Boy",
+    "meaning": "To strike and take",
+    "origin": "Turkish",
+    "id": "vu1_var",
+    "verified": true,
+    "variant_of": "Vural"
+  },
+  {
+    "name": "Vural",
+    "gender": "Boy",
+    "meaning": "To strike and take",
+    "origin": "Turkish",
+    "id": "vu1",
     "verified": true
   }
 ]

@@ -8,6 +8,15 @@
     "verified": true
   },
   {
+    "name": "Kaameel",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "Arabic",
+    "id": "ka77_var",
+    "verified": true,
+    "variant_of": "Kaamil"
+  },
+  {
     "name": "Kaamil",
     "gender": "Boy",
     "meaning": "Perfect",
@@ -32,6 +41,40 @@
     "verified": true
   },
   {
+    "name": "Kaaseeb",
+    "gender": "Boy",
+    "meaning": "Winner",
+    "origin": "Arabic",
+    "id": "ka60_var",
+    "verified": true,
+    "variant_of": "Kaasib"
+  },
+  {
+    "name": "Kaasheef",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "ka59_var",
+    "verified": true,
+    "variant_of": "Kaashif"
+  },
+  {
+    "name": "Kaashif",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "ka59",
+    "verified": true
+  },
+  {
+    "name": "Kaasib",
+    "gender": "Boy",
+    "meaning": "Winner",
+    "origin": "Arabic",
+    "id": "ka60",
+    "verified": true
+  },
+  {
     "name": "Kab",
     "gender": "Boy",
     "meaning": "Heel",
@@ -46,6 +89,15 @@
     "origin": "Islamic",
     "id": "ka40",
     "verified": true
+  },
+  {
+    "name": "Kabah",
+    "gender": "Boy",
+    "meaning": "The Kaaba",
+    "origin": "Islamic",
+    "id": "ka40_var",
+    "verified": true,
+    "variant_of": "Kaba"
   },
   {
     "name": "Kabeer",
@@ -64,6 +116,15 @@
     "verified": true
   },
   {
+    "name": "Kabool",
+    "gender": "Boy",
+    "meaning": "Capital of Afghanistan",
+    "origin": "Persian",
+    "id": "ka63_var",
+    "verified": true,
+    "variant_of": "Kabul"
+  },
+  {
     "name": "Kabul",
     "gender": "Boy",
     "meaning": "Capital of Afghanistan",
@@ -78,6 +139,15 @@
     "meaning": "Power, fate",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ka6_var",
+    "name": "Kadee",
+    "gender": "Boy",
+    "meaning": "Judge (Variant of Qadi)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kadi"
   },
   {
     "id": "ka4",
@@ -104,6 +174,15 @@
     "verified": true
   },
   {
+    "id": "ka4_var",
+    "name": "Kadim",
+    "gender": "Boy",
+    "meaning": "Servant (Variant of Khadim)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kadeem"
+  },
+  {
     "name": "Kadir",
     "gender": "Boy",
     "meaning": "Powerful",
@@ -112,12 +191,84 @@
     "verified": true
   },
   {
+    "id": "ka11_var",
+    "name": "Kaeef",
+    "gender": "Unisex",
+    "meaning": "State, condition, mood",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kaif"
+  },
+  {
+    "id": "ka12_var",
+    "name": "Kaeenaat",
+    "gender": "Girl",
+    "meaning": "Universe",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kainaat"
+  },
+  {
+    "name": "Kaeenat",
+    "gender": "Girl",
+    "meaning": "Universe",
+    "origin": "Arabic",
+    "id": "ka80_var",
+    "verified": true,
+    "variant_of": "Kainat"
+  },
+  {
+    "name": "Kaeerouan",
+    "gender": "Boy",
+    "meaning": "Historic city in Tunisia",
+    "origin": "Arabic",
+    "id": "ka64_var",
+    "verified": true,
+    "variant_of": "Kairouan"
+  },
+  {
+    "id": "ka13_var",
+    "name": "Kaees",
+    "gender": "Boy",
+    "meaning": "Wise (Variant of Qais)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kais"
+  },
+  {
+    "id": "ka14_var",
+    "name": "Kaeeser",
+    "gender": "Boy",
+    "meaning": "Emperor (Variant of Qaiser)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kaiser"
+  },
+  {
+    "id": "ka9_var",
+    "name": "Kafee",
+    "gender": "Boy",
+    "meaning": "Sufficient",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Kafi"
+  },
+  {
     "id": "ka7",
     "name": "Kafeel",
     "gender": "Boy",
     "meaning": "Responsible, guarantor",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ka8_var",
+    "name": "Kafeela",
+    "gender": "Girl",
+    "meaning": "Caravan",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kafila"
   },
   {
     "id": "ka9",
@@ -144,6 +295,24 @@
     "verified": true
   },
   {
+    "id": "ka8_var",
+    "name": "Kafilah",
+    "gender": "Girl",
+    "meaning": "Caravan",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kafila"
+  },
+  {
+    "name": "Kafoor",
+    "gender": "Boy",
+    "meaning": "Camphor (Spring in Paradise)",
+    "origin": "Quranic",
+    "id": "ka41_var",
+    "verified": true,
+    "variant_of": "Kafur"
+  },
+  {
     "name": "Kafur",
     "gender": "Boy",
     "meaning": "Camphor (Spring in Paradise)",
@@ -152,11 +321,36 @@
     "verified": true
   },
   {
+    "name": "Kagan",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Turkish",
+    "id": "ka4",
+    "verified": true
+  },
+  {
+    "id": "ka10_var",
+    "name": "Kaheel",
+    "gender": "Boy",
+    "meaning": "Friend, lover",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kahil"
+  },
+  {
     "id": "ka10",
     "name": "Kahil",
     "gender": "Boy",
     "meaning": "Friend, lover",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kahraman",
+    "gender": "Boy",
+    "meaning": "Hero",
+    "origin": "Turkish/Persian",
+    "id": "ka5",
     "verified": true
   },
   {
@@ -182,6 +376,15 @@
     "origin": "Arabic",
     "id": "ka80",
     "verified": true
+  },
+  {
+    "name": "Kairoooan",
+    "gender": "Boy",
+    "meaning": "Historic city in Tunisia",
+    "origin": "Arabic",
+    "id": "ka64_var",
+    "verified": true,
+    "variant_of": "Kairouan"
   },
   {
     "name": "Kairouan",
@@ -216,12 +419,30 @@
     "verified": true
   },
   {
+    "id": "ka16_var",
+    "name": "Kalah",
+    "gender": "Girl",
+    "meaning": "Castle, fortress",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kala"
+  },
+  {
     "id": "ka17",
     "name": "Kalam",
     "gender": "Boy",
     "meaning": "Speech, conversation",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Kalamee",
+    "gender": "Boy",
+    "meaning": "Speaker",
+    "origin": "Arabic",
+    "id": "ka83_var",
+    "verified": true,
+    "variant_of": "Kalami"
   },
   {
     "name": "Kalami",
@@ -240,6 +461,15 @@
     "verified": true
   },
   {
+    "name": "Kalbah",
+    "gender": "Girl",
+    "meaning": "City in UAE",
+    "origin": "Arabic",
+    "id": "ka65_var",
+    "verified": true,
+    "variant_of": "Kalba"
+  },
+  {
     "name": "Kaleem",
     "gender": "Boy",
     "meaning": "Speaker",
@@ -256,12 +486,57 @@
     "verified": true
   },
   {
+    "name": "Kaleemullah",
+    "gender": "Boy",
+    "meaning": "One who spoke to Allah (Musa)",
+    "origin": "Arabic",
+    "id": "ka54_var",
+    "verified": true,
+    "variant_of": "Kalimullah"
+  },
+  {
+    "name": "Kalim",
+    "gender": "Boy",
+    "meaning": "Speaker",
+    "origin": "Arabic",
+    "id": "ka53_var",
+    "verified": true,
+    "variant_of": "Kaleem"
+  },
+  {
+    "name": "Kalim-Ullah",
+    "gender": "Boy",
+    "meaning": "Speaker with God (Moses)",
+    "origin": "Arabic",
+    "id": "ka59_var",
+    "verified": true,
+    "variant_of": "Kaleem-Ullah"
+  },
+  {
+    "name": "Kalimoollah",
+    "gender": "Boy",
+    "meaning": "One who spoke to Allah (Musa)",
+    "origin": "Arabic",
+    "id": "ka54_var",
+    "verified": true,
+    "variant_of": "Kalimullah"
+  },
+  {
     "name": "Kalimullah",
     "gender": "Boy",
     "meaning": "One who spoke to Allah (Musa)",
     "origin": "Arabic",
     "id": "ka54",
     "verified": true
+  },
+  {
+    "name": "Kalsoom",
+    "gender": "Girl",
+    "meaning": "Full cheeked",
+    "origin": "Arabic",
+    "id": "ka55_var",
+    "verified": true,
+    "variant_of": "Kalsum"
   },
   {
     "name": "Kalsum",
@@ -288,6 +563,15 @@
     "verified": true
   },
   {
+    "name": "Kamal-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Perfection of the Faith",
+    "origin": "Arabic",
+    "id": "ka60_var",
+    "verified": true,
+    "variant_of": "Kamal-Ud-Din"
+  },
+  {
     "name": "Kamal-Ud-Din",
     "gender": "Boy",
     "meaning": "Perfection of the Faith",
@@ -296,12 +580,48 @@
     "verified": true
   },
   {
+    "id": "ka20_var",
+    "name": "Kamaleea",
+    "gender": "Girl",
+    "meaning": "Perfection",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kamalia"
+  },
+  {
     "id": "ka20",
     "name": "Kamalia",
     "gender": "Girl",
     "meaning": "Perfection",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ka20_var",
+    "name": "Kamaliah",
+    "gender": "Girl",
+    "meaning": "Perfection",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kamalia"
+  },
+  {
+    "id": "ka21_var",
+    "name": "Kamalooddin",
+    "gender": "Boy",
+    "meaning": "Perfection of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kamaluddin"
+  },
+  {
+    "id": "ka21_var",
+    "name": "Kamaluddeen",
+    "gender": "Boy",
+    "meaning": "Perfection of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kamaluddin"
   },
   {
     "id": "ka21",
@@ -320,12 +640,64 @@
     "verified": true
   },
   {
+    "name": "Kamaree",
+    "gender": "Unisex",
+    "meaning": "Moonlight",
+    "origin": "Swahili",
+    "id": "ka55_var",
+    "verified": true,
+    "variant_of": "Kamari"
+  },
+  {
+    "name": "Kamari",
+    "gender": "Unisex",
+    "meaning": "Moonlight",
+    "origin": "Swahili",
+    "id": "ka55",
+    "verified": true
+  },
+  {
+    "name": "Kambeez",
+    "gender": "Boy",
+    "meaning": "Fortunate",
+    "origin": "Persian",
+    "id": "ka2_var",
+    "verified": true,
+    "variant_of": "Kambiz"
+  },
+  {
+    "name": "Kambiz",
+    "gender": "Boy",
+    "meaning": "Fortunate",
+    "origin": "Persian",
+    "id": "ka2",
+    "verified": true
+  },
+  {
+    "id": "ka25_var",
+    "name": "Kameel",
+    "gender": "Boy",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kamil"
+  },
+  {
     "id": "ka24",
     "name": "Kameela",
     "gender": "Girl",
     "meaning": "Perfect, complete",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ka24_var",
+    "name": "Kameelah",
+    "gender": "Girl",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kameela"
   },
   {
     "id": "ka25",
@@ -341,6 +713,14 @@
     "gender": "Girl",
     "meaning": "Perfect, complete",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Kamilah",
+    "gender": "Girl",
+    "meaning": "Perfect",
+    "origin": "Malay",
+    "id": "ka56",
     "verified": true
   },
   {
@@ -376,6 +756,15 @@
     "verified": true
   },
   {
+    "name": "Kaniz",
+    "gender": "Girl",
+    "meaning": "Maid servant",
+    "origin": "Urdu",
+    "id": "ka56_var",
+    "verified": true,
+    "variant_of": "Kaneez"
+  },
+  {
     "name": "Kano",
     "gender": "Boy",
     "meaning": "City in Nigeria",
@@ -406,6 +795,42 @@
     "meaning": "Hidden treasure",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ka28_var",
+    "name": "Kanzah",
+    "gender": "Girl",
+    "meaning": "Hidden treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kanza"
+  },
+  {
+    "id": "ka36_var",
+    "name": "Kaookab",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kaukab"
+  },
+  {
+    "id": "ka37_var",
+    "name": "Kaoosar",
+    "gender": "Girl",
+    "meaning": "River in Paradise (Al-Kawthar)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Kausar"
+  },
+  {
+    "name": "Karachee",
+    "gender": "Boy",
+    "meaning": "Port city in Pakistan",
+    "origin": "Urdu",
+    "id": "ka68_var",
+    "verified": true,
+    "variant_of": "Karachi"
   },
   {
     "name": "Karachi",
@@ -448,6 +873,15 @@
     "verified": true
   },
   {
+    "name": "Karbalah",
+    "gender": "Boy",
+    "meaning": "Land of trial (Iraq)",
+    "origin": "Arabic",
+    "id": "ka69_var",
+    "verified": true,
+    "variant_of": "Karbala"
+  },
+  {
     "name": "Kardar",
     "gender": "Boy",
     "meaning": "Prime Minister",
@@ -462,6 +896,15 @@
     "origin": "Arabic",
     "id": "ka85",
     "verified": true
+  },
+  {
+    "id": "ka31_var",
+    "name": "Kareema",
+    "gender": "Girl",
+    "meaning": "Generous, noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Karima"
   },
   {
     "id": "ka30",
@@ -480,6 +923,15 @@
     "verified": true
   },
   {
+    "id": "ka31_var",
+    "name": "Karimah",
+    "gender": "Girl",
+    "meaning": "Generous, noble",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Karima"
+  },
+  {
     "name": "Karmel",
     "gender": "Girl",
     "meaning": "Garden; Mount Carmel",
@@ -496,12 +948,100 @@
     "verified": true
   },
   {
+    "name": "Karteeka",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "ka57_var",
+    "verified": true,
+    "variant_of": "Kartika"
+  },
+  {
+    "name": "Karteenee",
+    "gender": "Girl",
+    "meaning": "Hidden achievement",
+    "origin": "Indonesian",
+    "id": "ka58_var",
+    "verified": true,
+    "variant_of": "Kartini"
+  },
+  {
+    "name": "Kartika",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "ka57",
+    "verified": true
+  },
+  {
+    "name": "Kartikah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "ka57_var",
+    "verified": true,
+    "variant_of": "Kartika"
+  },
+  {
+    "name": "Kartini",
+    "gender": "Girl",
+    "meaning": "Hidden achievement",
+    "origin": "Indonesian",
+    "id": "ka58",
+    "verified": true
+  },
+  {
+    "id": "ka32_var",
+    "name": "Kaseeb",
+    "gender": "Boy",
+    "meaning": "Winner, provider",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kasib"
+  },
+  {
+    "id": "ka33_var",
+    "name": "Kaseem",
+    "gender": "Boy",
+    "meaning": "Divider, distributor (Variant of Qasim)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kasim"
+  },
+  {
     "name": "Kashan",
     "gender": "Boy",
     "meaning": "City of tiles (Iran)",
     "origin": "Persian",
     "id": "ka71",
     "verified": true
+  },
+  {
+    "id": "ka34_var",
+    "name": "Kasheef",
+    "gender": "Boy",
+    "meaning": "Discoverer, revealer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kashif"
+  },
+  {
+    "name": "Kasheef-Ul-Haq",
+    "gender": "Boy",
+    "meaning": "Revealer of the Truth",
+    "origin": "Arabic",
+    "id": "ka62_var",
+    "verified": true,
+    "variant_of": "Kashif-Ul-Haq"
+  },
+  {
+    "id": "ka35_var",
+    "name": "Kasheefa",
+    "gender": "Girl",
+    "meaning": "Revealer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kashifa"
   },
   {
     "name": "Kashgar",
@@ -536,12 +1076,39 @@
     "verified": true
   },
   {
+    "id": "ka35_var",
+    "name": "Kashifah",
+    "gender": "Girl",
+    "meaning": "Revealer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kashifa"
+  },
+  {
     "name": "Kashmala",
     "gender": "Girl",
     "meaning": "Necklace of flowers",
     "origin": "Urdu",
     "id": "ka81",
     "verified": true
+  },
+  {
+    "name": "Kashmalah",
+    "gender": "Girl",
+    "meaning": "Necklace of flowers",
+    "origin": "Urdu",
+    "id": "ka81_var",
+    "verified": true,
+    "variant_of": "Kashmala"
+  },
+  {
+    "name": "Kashmeer",
+    "gender": "Unisex",
+    "meaning": "Paradise on Earth",
+    "origin": "Urdu",
+    "id": "ka73_var",
+    "verified": true,
+    "variant_of": "Kashmir"
   },
   {
     "name": "Kashmir",
@@ -576,11 +1143,46 @@
     "verified": true
   },
   {
+    "name": "Kasrah",
+    "gender": "Boy",
+    "meaning": "King (Title of Persian Kings)",
+    "origin": "Persian",
+    "id": "ka49_var",
+    "verified": true,
+    "variant_of": "Kasra"
+  },
+  {
+    "name": "Kastamonoo",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "ka74_var",
+    "verified": true,
+    "variant_of": "Kastamonu"
+  },
+  {
     "name": "Kastamonu",
     "gender": "Boy",
     "meaning": "City in Turkey",
     "origin": "Turkish",
     "id": "ka74",
+    "verified": true
+  },
+  {
+    "name": "Katheer",
+    "gender": "Boy",
+    "meaning": "Much; Abundant",
+    "origin": "Arabic",
+    "id": "ka10_var",
+    "verified": true,
+    "variant_of": "Kathir"
+  },
+  {
+    "name": "Kathir",
+    "gender": "Boy",
+    "meaning": "Much; Abundant",
+    "origin": "Arabic",
+    "id": "ka10",
     "verified": true
   },
   {
@@ -608,6 +1210,15 @@
     "verified": true
   },
   {
+    "name": "Kawakeeb",
+    "gender": "Girl",
+    "meaning": "Planets, stars",
+    "origin": "Quranic",
+    "id": "ka44_var",
+    "verified": true,
+    "variant_of": "Kawakib"
+  },
+  {
     "name": "Kawakib",
     "gender": "Girl",
     "meaning": "Planets, stars",
@@ -632,11 +1243,36 @@
     "verified": true
   },
   {
+    "name": "Kaya",
+    "gender": "Boy",
+    "meaning": "Rock; Cliff",
+    "origin": "Turkish",
+    "id": "ka6",
+    "verified": true
+  },
+  {
+    "name": "Kayah",
+    "gender": "Boy",
+    "meaning": "Rock; Cliff",
+    "origin": "Turkish",
+    "id": "ka6_var",
+    "verified": true,
+    "variant_of": "Kaya"
+  },
+  {
     "name": "Kayan",
     "gender": "Boy",
     "meaning": "Existence, entity",
     "origin": "Arabic",
     "id": "ka46",
+    "verified": true
+  },
+  {
+    "name": "Kayhan",
+    "gender": "Boy",
+    "meaning": "Universe; Cosmos",
+    "origin": "Persian",
+    "id": "ka7",
     "verified": true
   },
   {
@@ -646,6 +1282,15 @@
     "meaning": "Wise",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Kayseree",
+    "gender": "Boy",
+    "meaning": "Caesarea (Turkey)",
+    "origin": "Turkish",
+    "id": "ka75_var",
+    "verified": true,
+    "variant_of": "Kayseri"
   },
   {
     "name": "Kayseri",
@@ -664,12 +1309,156 @@
     "verified": true
   },
   {
+    "id": "kz1_var",
+    "name": "Kazeem",
+    "gender": "Boy",
+    "meaning": "Restrainer of anger",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kazim"
+  },
+  {
     "id": "kz1",
     "name": "Kazim",
     "gender": "Boy",
     "meaning": "Restrainer of anger",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Keean",
+    "gender": "Boy",
+    "meaning": "King; Realm",
+    "origin": "Persian",
+    "id": "ki1_var",
+    "verified": true,
+    "variant_of": "Kian"
+  },
+  {
+    "name": "Keeara",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Swahili",
+    "id": "ki11_var",
+    "verified": true,
+    "variant_of": "Kiara"
+  },
+  {
+    "id": "ke2_var",
+    "name": "Keeesha",
+    "gender": "Girl",
+    "meaning": "Alive (Variant of Aisha)",
+    "origin": "Modern/African American",
+    "verified": true,
+    "variant_of": "Keisha"
+  },
+  {
+    "id": "ki1_var",
+    "name": "Keefah",
+    "gender": "Unisex",
+    "meaning": "Struggle, fight",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kifah"
+  },
+  {
+    "id": "ki2_var",
+    "name": "Keefayat",
+    "gender": "Unisex",
+    "meaning": "Enough, sufficient",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kifayat"
+  },
+  {
+    "name": "Keenan",
+    "gender": "Boy",
+    "meaning": "Covering, shelter",
+    "origin": "Arabic",
+    "id": "ki9_var",
+    "verified": true,
+    "variant_of": "Kinan"
+  },
+  {
+    "id": "ki3_var",
+    "name": "Keenana",
+    "gender": "Boy",
+    "meaning": "Quiver (for arrows)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kinana"
+  },
+  {
+    "name": "Keenanah",
+    "gender": "Boy",
+    "meaning": "Quiver",
+    "origin": "Arabic",
+    "id": "ki2_var",
+    "verified": true,
+    "variant_of": "Kinanah"
+  },
+  {
+    "id": "ki4_var",
+    "name": "Keenda",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kinda"
+  },
+  {
+    "id": "ki5_var",
+    "name": "Keenza",
+    "gender": "Girl",
+    "meaning": "Hidden treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kinza"
+  },
+  {
+    "id": "ki6_var",
+    "name": "Keeran",
+    "gender": "Girl",
+    "meaning": "Ray of light",
+    "origin": "Sanskrit/Urdu",
+    "verified": true,
+    "variant_of": "Kiran"
+  },
+  {
+    "name": "Keerkuk",
+    "gender": "Boy",
+    "meaning": "City in Iraq",
+    "origin": "Arabic/Kurdish",
+    "id": "ki11_var",
+    "verified": true,
+    "variant_of": "Kirkuk"
+  },
+  {
+    "id": "ki7_var",
+    "name": "Keeshwar",
+    "gender": "Girl",
+    "meaning": "Country, region",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Kishwar"
+  },
+  {
+    "name": "Keeswah",
+    "gender": "Girl",
+    "meaning": "Covering of the Kaaba",
+    "origin": "Islamic",
+    "id": "ki10_var",
+    "verified": true,
+    "variant_of": "Kiswah"
+  },
+  {
+    "id": "ki8_var",
+    "name": "Keeyan",
+    "gender": "Boy",
+    "meaning": "Being, existence",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Kiyan"
   },
   {
     "id": "ke1",
@@ -680,12 +1469,39 @@
     "verified": false
   },
   {
+    "id": "ke1_var",
+    "name": "Keharah",
+    "gender": "Girl",
+    "meaning": "Precious",
+    "origin": "African/Muslim usage",
+    "verified": false,
+    "variant_of": "Kehara"
+  },
+  {
     "id": "ke2",
     "name": "Keisha",
     "gender": "Girl",
     "meaning": "Alive (Variant of Aisha)",
     "origin": "Modern/African American",
     "verified": true
+  },
+  {
+    "id": "ke2_var",
+    "name": "Keishah",
+    "gender": "Girl",
+    "meaning": "Alive (Variant of Aisha)",
+    "origin": "Modern/African American",
+    "verified": true,
+    "variant_of": "Keisha"
+  },
+  {
+    "id": "ke3_var",
+    "name": "Keltooom",
+    "gender": "Girl",
+    "meaning": "Variant of Kulthum",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true,
+    "variant_of": "Keltoum"
   },
   {
     "id": "ke3",
@@ -720,6 +1536,24 @@
     "verified": true
   },
   {
+    "id": "ke6_var",
+    "name": "Kenzah",
+    "gender": "Girl",
+    "meaning": "Treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kenza"
+  },
+  {
+    "id": "ke7_var",
+    "name": "Kereem",
+    "gender": "Boy",
+    "meaning": "Noble (Turkish form of Karim)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Kerim"
+  },
+  {
     "name": "Kerem",
     "gender": "Boy",
     "meaning": "Kindness, nobility",
@@ -749,6 +1583,14 @@
     "meaning": "City in Iran",
     "origin": "Persian",
     "id": "ke13",
+    "verified": true
+  },
+  {
+    "name": "Kervan",
+    "gender": "Boy",
+    "meaning": "Caravan",
+    "origin": "Turkish",
+    "id": "ke2",
     "verified": true
   },
   {
@@ -784,6 +1626,41 @@
     "verified": true
   },
   {
+    "name": "Khabbab",
+    "gender": "Boy",
+    "meaning": "One who runs",
+    "origin": "Arabic",
+    "id": "kh1",
+    "verified": true
+  },
+  {
+    "id": "kh1_var",
+    "name": "Khadeeja",
+    "gender": "Girl",
+    "meaning": "Premature child; First wife of Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khadija"
+  },
+  {
+    "name": "Khadeejah",
+    "gender": "Girl",
+    "meaning": "Premature child",
+    "origin": "Malay",
+    "id": "kh38_var",
+    "verified": true,
+    "variant_of": "Khadijah"
+  },
+  {
+    "id": "kh2_var",
+    "name": "Khadeem",
+    "gender": "Boy",
+    "meaning": "Servant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khadim"
+  },
+  {
     "id": "kh1",
     "name": "Khadija",
     "gender": "Girl",
@@ -792,12 +1669,146 @@
     "verified": true
   },
   {
+    "id": "kh1_var",
+    "name": "Khadijah",
+    "gender": "Girl",
+    "meaning": "Premature child; First wife of Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khadija"
+  },
+  {
     "id": "kh2",
     "name": "Khadim",
     "gender": "Boy",
     "meaning": "Servant",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Khadra",
+    "gender": "Girl",
+    "meaning": "Green",
+    "origin": "Somali",
+    "id": "kh44",
+    "verified": true
+  },
+  {
+    "name": "Khadrah",
+    "gender": "Girl",
+    "meaning": "Green",
+    "origin": "Somali",
+    "id": "kh44_var",
+    "verified": true,
+    "variant_of": "Khadra"
+  },
+  {
+    "id": "kh4_var",
+    "name": "Khaeer",
+    "gender": "Unisex",
+    "meaning": "Good, blessing, wealth",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Khair"
+  },
+  {
+    "name": "Khaeer-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Goodness of the Faith",
+    "origin": "Arabic",
+    "id": "kh54_var",
+    "verified": true,
+    "variant_of": "Khair-Ud-Din"
+  },
+  {
+    "name": "Khaeer-Ul-Bashar",
+    "gender": "Boy",
+    "meaning": "Best of Mankind (Prophet Muhammad)",
+    "origin": "Arabic",
+    "id": "kh55_var",
+    "verified": true,
+    "variant_of": "Khair-Ul-Bashar"
+  },
+  {
+    "id": "kh5_var",
+    "name": "Khaeerat",
+    "gender": "Unisex",
+    "meaning": "Good deeds",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairat"
+  },
+  {
+    "id": "kh6_var",
+    "name": "Khaeeree",
+    "gender": "Boy",
+    "meaning": "Charitable",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairi"
+  },
+  {
+    "id": "kh7_var",
+    "name": "Khaeereeya",
+    "gender": "Girl",
+    "meaning": "Charitable, good",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairiya"
+  },
+  {
+    "id": "kh8_var",
+    "name": "Khaeeruddeen",
+    "gender": "Boy",
+    "meaning": "Goodness of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairuddin"
+  },
+  {
+    "name": "Khaeerul",
+    "gender": "Boy",
+    "meaning": "Goodness of",
+    "origin": "Malay",
+    "id": "kh42_var",
+    "verified": true,
+    "variant_of": "Khairul"
+  },
+  {
+    "id": "kh9_var",
+    "name": "Khaeerun Neesa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairun Nisa"
+  },
+  {
+    "name": "Khaeerunneesa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Indonesian",
+    "id": "kh43_var",
+    "verified": true,
+    "variant_of": "Khairunnisa"
+  },
+  {
+    "name": "Khafeef",
+    "gender": "Boy",
+    "meaning": "Nimble",
+    "origin": "Arabic",
+    "id": "kh71_var",
+    "verified": true,
+    "variant_of": "Khafif"
+  },
+  {
+    "id": "kh3_var",
+    "name": "Khafeez",
+    "gender": "Boy",
+    "meaning": "Easy, comfortable",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khafiz"
   },
   {
     "name": "Khafif",
@@ -864,11 +1875,64 @@
     "verified": true
   },
   {
+    "id": "kh7_var",
+    "name": "Khairiyah",
+    "gender": "Girl",
+    "meaning": "Charitable, good",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairiya"
+  },
+  {
+    "id": "kh8_var",
+    "name": "Khairooddin",
+    "gender": "Boy",
+    "meaning": "Goodness of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairuddin"
+  },
+  {
+    "name": "Khairool",
+    "gender": "Boy",
+    "meaning": "Goodness of",
+    "origin": "Malay",
+    "id": "kh42_var",
+    "verified": true,
+    "variant_of": "Khairul"
+  },
+  {
+    "id": "kh9_var",
+    "name": "Khairoon Nisa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairun Nisa"
+  },
+  {
+    "name": "Khairoonnisa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Indonesian",
+    "id": "kh43_var",
+    "verified": true,
+    "variant_of": "Khairunnisa"
+  },
+  {
     "id": "kh8",
     "name": "Khairuddin",
     "gender": "Boy",
     "meaning": "Goodness of the Faith",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Khairul",
+    "gender": "Boy",
+    "meaning": "Goodness of",
+    "origin": "Malay",
+    "id": "kh42",
     "verified": true
   },
   {
@@ -880,12 +1944,47 @@
     "verified": true
   },
   {
+    "id": "kh9_var",
+    "name": "Khairun Nisah",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khairun Nisa"
+  },
+  {
+    "name": "Khairunnisa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Indonesian",
+    "id": "kh43",
+    "verified": true
+  },
+  {
+    "name": "Khairunnisah",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Indonesian",
+    "id": "kh43_var",
+    "verified": true,
+    "variant_of": "Khairunnisa"
+  },
+  {
     "id": "kh10",
     "name": "Khalaf",
     "gender": "Boy",
     "meaning": "Successor, descendant",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "kh11_var",
+    "name": "Khaldoon",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khaldun"
   },
   {
     "id": "kh11",
@@ -904,6 +2003,51 @@
     "verified": true
   },
   {
+    "id": "kh15_var",
+    "name": "Khaleed",
+    "gender": "Boy",
+    "meaning": "Eternal, immortal",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Khalid"
+  },
+  {
+    "id": "kh16_var",
+    "name": "Khaleeda",
+    "gender": "Girl",
+    "meaning": "Eternal, immortal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalida"
+  },
+  {
+    "name": "Khaleedah",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Malay",
+    "id": "kh39_var",
+    "verified": true,
+    "variant_of": "Khalidah"
+  },
+  {
+    "id": "kh17_var",
+    "name": "Khaleefa",
+    "gender": "Boy",
+    "meaning": "Successor, caliph",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Khalifa"
+  },
+  {
+    "name": "Khaleefat-Ullah",
+    "gender": "Boy",
+    "meaning": "Vicegerent of God",
+    "origin": "Arabic",
+    "id": "kh56_var",
+    "verified": true,
+    "variant_of": "Khalifat-Ullah"
+  },
+  {
     "id": "kh13",
     "name": "Khaleel",
     "gender": "Boy",
@@ -912,11 +2056,73 @@
     "verified": true
   },
   {
+    "name": "Khaleel-Ur-Rahman",
+    "gender": "Boy",
+    "meaning": "Friend of the Merciful",
+    "origin": "Arabic",
+    "id": "kh57_var",
+    "verified": true,
+    "variant_of": "Khalil-Ur-Rahman"
+  },
+  {
+    "id": "kh19_var",
+    "name": "Khaleela",
+    "gender": "Girl",
+    "meaning": "Intimate friend",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalila"
+  },
+  {
+    "id": "kh20_var",
+    "name": "Khaleelullah",
+    "gender": "Boy",
+    "meaning": "Friend of Allah (Title of Ibrahim)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalilullah"
+  },
+  {
     "id": "kh14",
     "name": "Khaleeq",
     "gender": "Boy",
     "meaning": "Polite, well-mannered",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "kh22_var",
+    "name": "Khalees",
+    "gender": "Boy",
+    "meaning": "Pure, sincere",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalis"
+  },
+  {
+    "id": "kh23_var",
+    "name": "Khaleesa",
+    "gender": "Girl",
+    "meaning": "Pure, sincere",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalisa"
+  },
+  {
+    "name": "Khalfanee",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Swahili",
+    "id": "kh45_var",
+    "verified": true,
+    "variant_of": "Khalfani"
+  },
+  {
+    "name": "Khalfani",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Swahili",
+    "id": "kh45",
     "verified": true
   },
   {
@@ -936,12 +2142,30 @@
     "verified": true
   },
   {
+    "id": "kh16_var",
+    "name": "Khalidah",
+    "gender": "Girl",
+    "meaning": "Eternal, immortal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalida"
+  },
+  {
     "id": "kh17",
     "name": "Khalifa",
     "gender": "Boy",
     "meaning": "Successor, caliph",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "kh17_var",
+    "name": "Khalifah",
+    "gender": "Boy",
+    "meaning": "Successor, caliph",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Khalifa"
   },
   {
     "name": "Khalifat-Ullah",
@@ -976,6 +2200,24 @@
     "verified": true
   },
   {
+    "id": "kh19_var",
+    "name": "Khalilah",
+    "gender": "Girl",
+    "meaning": "Intimate friend",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalila"
+  },
+  {
+    "id": "kh20_var",
+    "name": "Khaliloollah",
+    "gender": "Boy",
+    "meaning": "Friend of Allah (Title of Ibrahim)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalilullah"
+  },
+  {
     "id": "kh20",
     "name": "Khalilullah",
     "gender": "Boy",
@@ -1008,12 +2250,30 @@
     "verified": true
   },
   {
+    "id": "kh23_var",
+    "name": "Khalisah",
+    "gender": "Girl",
+    "meaning": "Pure, sincere",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khalisa"
+  },
+  {
     "name": "Khallad",
     "gender": "Boy",
     "meaning": "Old",
     "origin": "Arabic",
     "id": "kh72",
     "verified": true
+  },
+  {
+    "id": "kh24_var",
+    "name": "Khamees",
+    "gender": "Boy",
+    "meaning": "Thursday; The fifth",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khamis"
   },
   {
     "id": "kh24",
@@ -1040,12 +2300,39 @@
     "verified": true
   },
   {
+    "id": "kh26_var",
+    "name": "Khansah",
+    "gender": "Girl",
+    "meaning": "Gazelle; Famous poetess",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khansa"
+  },
+  {
     "name": "Khanzada",
     "gender": "Boy",
     "meaning": "Son of a Khan",
     "origin": "Persian",
     "id": "kh58",
     "verified": true
+  },
+  {
+    "name": "Khanzadah",
+    "gender": "Boy",
+    "meaning": "Son of a Khan",
+    "origin": "Persian",
+    "id": "kh58_var",
+    "verified": true,
+    "variant_of": "Khanzada"
+  },
+  {
+    "name": "Khareejah",
+    "gender": "Boy",
+    "meaning": "External",
+    "origin": "Arabic",
+    "id": "kh73_var",
+    "verified": true,
+    "variant_of": "Kharijah"
   },
   {
     "name": "Kharijah",
@@ -1064,6 +2351,24 @@
     "verified": true
   },
   {
+    "id": "kh27_var",
+    "name": "Kharqah",
+    "gender": "Girl",
+    "meaning": "Strong wind",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kharqa"
+  },
+  {
+    "name": "Khartooom",
+    "gender": "Boy",
+    "meaning": "Elephant Trunk (Sudan)",
+    "origin": "Arabic",
+    "id": "kh63_var",
+    "verified": true,
+    "variant_of": "Khartoum"
+  },
+  {
     "name": "Khartoum",
     "gender": "Boy",
     "meaning": "Elephant Trunk (Sudan)",
@@ -1072,12 +2377,39 @@
     "verified": true
   },
   {
+    "name": "Khaseeb",
+    "gender": "Boy",
+    "meaning": "Fertile",
+    "origin": "Arabic",
+    "id": "kh74_var",
+    "verified": true,
+    "variant_of": "Khasib"
+  },
+  {
+    "id": "kh28_var",
+    "name": "Khasheea",
+    "gender": "Girl",
+    "meaning": "Humble, pious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khashia"
+  },
+  {
     "id": "kh28",
     "name": "Khashia",
     "gender": "Girl",
     "meaning": "Humble, pious",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "kh28_var",
+    "name": "Khashiah",
+    "gender": "Girl",
+    "meaning": "Humble, pious",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khashia"
   },
   {
     "name": "Khasib",
@@ -1096,6 +2428,15 @@
     "verified": true
   },
   {
+    "id": "kh30_var",
+    "name": "Khateeja",
+    "gender": "Girl",
+    "meaning": "Variant of Khadija",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khatija"
+  },
+  {
     "id": "kh29",
     "name": "Khatib",
     "gender": "Boy",
@@ -1110,6 +2451,15 @@
     "meaning": "Variant of Khadija",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "kh30_var",
+    "name": "Khatijah",
+    "gender": "Girl",
+    "meaning": "Variant of Khadija",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khatija"
   },
   {
     "name": "Khatoon",
@@ -1128,12 +2478,30 @@
     "verified": true
   },
   {
+    "name": "Khatun",
+    "gender": "Girl",
+    "meaning": "Noble woman",
+    "origin": "Persian",
+    "id": "kh49_var",
+    "verified": true,
+    "variant_of": "Khatoon"
+  },
+  {
     "name": "Khawaja",
     "gender": "Boy",
     "meaning": "Master; Lord",
     "origin": "Persian",
     "id": "kh69",
     "verified": true
+  },
+  {
+    "name": "Khawajah",
+    "gender": "Boy",
+    "meaning": "Master; Lord",
+    "origin": "Persian",
+    "id": "kh69_var",
+    "verified": true,
+    "variant_of": "Khawaja"
   },
   {
     "name": "Khawar",
@@ -1192,6 +2560,15 @@
     "verified": true
   },
   {
+    "id": "kh34_var",
+    "name": "Khayree",
+    "gender": "Boy",
+    "meaning": "Charitable",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khayri"
+  },
+  {
     "id": "kh34",
     "name": "Khayri",
     "gender": "Boy",
@@ -1216,6 +2593,24 @@
     "verified": true
   },
   {
+    "id": "kh36_var",
+    "name": "Khazeen",
+    "gender": "Boy",
+    "meaning": "Treasurer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khazin"
+  },
+  {
+    "name": "Khazeena",
+    "gender": "Girl",
+    "meaning": "Treasure",
+    "origin": "Arabic",
+    "id": "kh60_var",
+    "verified": true,
+    "variant_of": "Khazina"
+  },
+  {
     "id": "kh36",
     "name": "Khazin",
     "gender": "Boy",
@@ -1230,6 +2625,60 @@
     "origin": "Arabic",
     "id": "kh60",
     "verified": true
+  },
+  {
+    "name": "Khazinah",
+    "gender": "Girl",
+    "meaning": "Treasure",
+    "origin": "Arabic",
+    "id": "kh60_var",
+    "verified": true,
+    "variant_of": "Khazina"
+  },
+  {
+    "id": "kh37_var",
+    "name": "Kheedr",
+    "gender": "Boy",
+    "meaning": "Green; A mystic figure",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Khidr"
+  },
+  {
+    "name": "Kheerash",
+    "gender": "Boy",
+    "meaning": "Scratching",
+    "origin": "Arabic",
+    "id": "kh77_var",
+    "verified": true,
+    "variant_of": "Khirash"
+  },
+  {
+    "name": "Kheeva",
+    "gender": "Girl",
+    "meaning": "Historic city in Uzbekistan",
+    "origin": "Uzbek",
+    "id": "kh64_var",
+    "verified": true,
+    "variant_of": "Khiva"
+  },
+  {
+    "id": "kh38_var",
+    "name": "Kheezar",
+    "gender": "Boy",
+    "meaning": "Green; Guide",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khizar"
+  },
+  {
+    "name": "Kheezer",
+    "gender": "Boy",
+    "meaning": "Green; Name of a Prophet",
+    "origin": "Arabic",
+    "id": "kh52_var",
+    "verified": true,
+    "variant_of": "Khizer"
   },
   {
     "id": "kh37",
@@ -1254,6 +2703,15 @@
     "origin": "Uzbek",
     "id": "kh64",
     "verified": true
+  },
+  {
+    "name": "Khivah",
+    "gender": "Girl",
+    "meaning": "Historic city in Uzbekistan",
+    "origin": "Uzbek",
+    "id": "kh64_var",
+    "verified": true,
+    "variant_of": "Khiva"
   },
   {
     "id": "kh38",
@@ -1288,6 +2746,123 @@
     "verified": true
   },
   {
+    "name": "Khoobayb",
+    "gender": "Boy",
+    "meaning": "Fast walker",
+    "origin": "Arabic",
+    "id": "kh4_var",
+    "verified": true,
+    "variant_of": "Khubayb"
+  },
+  {
+    "name": "Khooda",
+    "gender": "Boy",
+    "meaning": "God (Bakhsh - Gift of God)",
+    "origin": "Persian",
+    "id": "kh53_var",
+    "verified": true,
+    "variant_of": "Khuda"
+  },
+  {
+    "name": "Khooda-Bakhsh",
+    "gender": "Boy",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "kh61_var",
+    "verified": true,
+    "variant_of": "Khuda-Bakhsh"
+  },
+  {
+    "id": "kh39_var",
+    "name": "Khoolood",
+    "gender": "Girl",
+    "meaning": "Immortality, eternity",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khulud"
+  },
+  {
+    "name": "Khoonais",
+    "gender": "Boy",
+    "meaning": "Hidden",
+    "origin": "Arabic",
+    "id": "kh78_var",
+    "verified": true,
+    "variant_of": "Khunais"
+  },
+  {
+    "id": "kh40_var",
+    "name": "Khoorram",
+    "gender": "Boy",
+    "meaning": "Happy, delightful",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Khurram"
+  },
+  {
+    "name": "Khoorsheed",
+    "gender": "Unisex",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "kh79_var",
+    "verified": true,
+    "variant_of": "Khursheed"
+  },
+  {
+    "id": "kh41_var",
+    "name": "Khoorshid",
+    "gender": "Unisex",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Khurshid"
+  },
+  {
+    "id": "kh42_var",
+    "name": "Khoosro",
+    "gender": "Boy",
+    "meaning": "King",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Khusro"
+  },
+  {
+    "id": "kh43_var",
+    "name": "Khoowaylid",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khuwaylid"
+  },
+  {
+    "name": "Khoozaima",
+    "gender": "Boy",
+    "meaning": "Famous Companion",
+    "origin": "Arabic",
+    "id": "kh70_var",
+    "verified": true,
+    "variant_of": "Khuzaima"
+  },
+  {
+    "id": "kh44_var",
+    "name": "Khoozama",
+    "gender": "Girl",
+    "meaning": "Lavender",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khuzama"
+  },
+  {
+    "name": "Khoozestan",
+    "gender": "Boy",
+    "meaning": "Land of Sugar (Iran)",
+    "origin": "Persian",
+    "id": "kh68_var",
+    "verified": true,
+    "variant_of": "Khuzestan"
+  },
+  {
     "name": "Khorasan",
     "gender": "Boy",
     "meaning": "Land of the Sun (Iran/Afghan)",
@@ -1301,6 +2876,23 @@
     "meaning": "Lavender",
     "origin": "Arabic",
     "id": "kh47",
+    "verified": true
+  },
+  {
+    "name": "Khozamah",
+    "gender": "Girl",
+    "meaning": "Lavender",
+    "origin": "Arabic",
+    "id": "kh47_var",
+    "verified": true,
+    "variant_of": "Khozama"
+  },
+  {
+    "name": "Khubayb",
+    "gender": "Boy",
+    "meaning": "Fast walker",
+    "origin": "Arabic",
+    "id": "kh4",
     "verified": true
   },
   {
@@ -1320,12 +2912,30 @@
     "verified": true
   },
   {
+    "name": "Khudah",
+    "gender": "Boy",
+    "meaning": "God (Bakhsh - Gift of God)",
+    "origin": "Persian",
+    "id": "kh53_var",
+    "verified": true,
+    "variant_of": "Khuda"
+  },
+  {
     "id": "kh39",
     "name": "Khulud",
     "gender": "Girl",
     "meaning": "Immortality, eternity",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Khunaees",
+    "gender": "Boy",
+    "meaning": "Hidden",
+    "origin": "Arabic",
+    "id": "kh78_var",
+    "verified": true,
+    "variant_of": "Khunais"
   },
   {
     "name": "Khunais",
@@ -1368,12 +2978,30 @@
     "verified": true
   },
   {
+    "id": "kh43_var",
+    "name": "Khuwayleed",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khuwaylid"
+  },
+  {
     "id": "kh43",
     "name": "Khuwaylid",
     "gender": "Boy",
     "meaning": "Eternal",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Khuzaeema",
+    "gender": "Boy",
+    "meaning": "Famous Companion",
+    "origin": "Arabic",
+    "id": "kh70_var",
+    "verified": true,
+    "variant_of": "Khuzaima"
   },
   {
     "name": "Khuzaima",
@@ -1384,12 +3012,30 @@
     "verified": true
   },
   {
+    "name": "Khuzaimah",
+    "gender": "Boy",
+    "meaning": "Famous Companion",
+    "origin": "Arabic",
+    "id": "kh70_var",
+    "verified": true,
+    "variant_of": "Khuzaima"
+  },
+  {
     "id": "kh44",
     "name": "Khuzama",
     "gender": "Girl",
     "meaning": "Lavender",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "kh44_var",
+    "name": "Khuzamah",
+    "gender": "Girl",
+    "meaning": "Lavender",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Khuzama"
   },
   {
     "name": "Khuzestan",
@@ -1406,6 +3052,40 @@
     "origin": "Persian",
     "id": "kh62",
     "verified": true
+  },
+  {
+    "name": "Khwajah",
+    "gender": "Boy",
+    "meaning": "Master, Lord",
+    "origin": "Persian",
+    "id": "kh62_var",
+    "verified": true,
+    "variant_of": "Khwaja"
+  },
+  {
+    "name": "Kian",
+    "gender": "Boy",
+    "meaning": "King; Realm",
+    "origin": "Persian",
+    "id": "ki1",
+    "verified": true
+  },
+  {
+    "name": "Kiara",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Swahili",
+    "id": "ki11",
+    "verified": true
+  },
+  {
+    "name": "Kiarah",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Swahili",
+    "id": "ki11_var",
+    "verified": true,
+    "variant_of": "Kiara"
   },
   {
     "id": "ki1",
@@ -1440,12 +3120,29 @@
     "verified": true
   },
   {
+    "name": "Kinanah",
+    "gender": "Boy",
+    "meaning": "Quiver",
+    "origin": "Arabic",
+    "id": "ki2",
+    "verified": true
+  },
+  {
     "id": "ki4",
     "name": "Kinda",
     "gender": "Girl",
     "meaning": "Name of an Arab tribe",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ki4_var",
+    "name": "Kindah",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kinda"
   },
   {
     "id": "ki5",
@@ -1456,12 +3153,30 @@
     "verified": true
   },
   {
+    "id": "ki5_var",
+    "name": "Kinzah",
+    "gender": "Girl",
+    "meaning": "Hidden treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kinza"
+  },
+  {
     "id": "ki6",
     "name": "Kiran",
     "gender": "Girl",
     "meaning": "Ray of light",
     "origin": "Sanskrit/Urdu",
     "verified": true
+  },
+  {
+    "name": "Kirkook",
+    "gender": "Boy",
+    "meaning": "City in Iraq",
+    "origin": "Arabic/Kurdish",
+    "id": "ki11_var",
+    "verified": true,
+    "variant_of": "Kirkuk"
   },
   {
     "name": "Kirkuk",
@@ -1496,12 +3211,39 @@
     "verified": true
   },
   {
+    "id": "ko1_var",
+    "name": "Koheenoor",
+    "gender": "Girl",
+    "meaning": "Mountain of light",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Kohinoor"
+  },
+  {
     "id": "ko1",
     "name": "Kohinoor",
     "gender": "Girl",
     "meaning": "Mountain of light",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "ko1_var",
+    "name": "Kohinur",
+    "gender": "Girl",
+    "meaning": "Mountain of light",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Kohinoor"
+  },
+  {
+    "name": "Komaeel",
+    "gender": "Boy",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "id": "ko8_var",
+    "verified": true,
+    "variant_of": "Komail"
   },
   {
     "name": "Komail",
@@ -1520,6 +3262,15 @@
     "verified": true
   },
   {
+    "id": "ko3_var",
+    "name": "Konaeen",
+    "gender": "Unisex",
+    "meaning": "Two worlds (Here and Hereafter)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Konain"
+  },
+  {
     "id": "ko3",
     "name": "Konain",
     "gender": "Unisex",
@@ -1534,6 +3285,159 @@
     "origin": "Turkish",
     "id": "ko7",
     "verified": true
+  },
+  {
+    "name": "Konyah",
+    "gender": "Girl",
+    "meaning": "City of Rumi (Turkey)",
+    "origin": "Turkish",
+    "id": "ko7_var",
+    "verified": true,
+    "variant_of": "Konya"
+  },
+  {
+    "id": "ku1_var",
+    "name": "Koobra",
+    "gender": "Girl",
+    "meaning": "Great, senior",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kubra"
+  },
+  {
+    "name": "Koodret",
+    "gender": "Boy",
+    "meaning": "Power; Might",
+    "origin": "Turkish/Arabic",
+    "id": "ku2_var",
+    "verified": true,
+    "variant_of": "Kudret"
+  },
+  {
+    "name": "Koofa",
+    "gender": "Girl",
+    "meaning": "City in Iraq",
+    "origin": "Arabic",
+    "id": "ku7_var",
+    "verified": true,
+    "variant_of": "Kufa"
+  },
+  {
+    "name": "Koolsoom",
+    "gender": "Girl",
+    "meaning": "Full of flesh (healthy)",
+    "origin": "Arabic",
+    "id": "ku10_var",
+    "verified": true,
+    "variant_of": "Kulsoom"
+  },
+  {
+    "id": "ku2_var",
+    "name": "Koolthoom",
+    "gender": "Girl",
+    "meaning": "Daughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kulthum"
+  },
+  {
+    "id": "ku3_var",
+    "name": "Koomail",
+    "gender": "Boy",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kumail"
+  },
+  {
+    "id": "ku4_var",
+    "name": "Koonz",
+    "gender": "Unisex",
+    "meaning": "Treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kunz"
+  },
+  {
+    "id": "ku5_var",
+    "name": "Koonza",
+    "gender": "Girl",
+    "meaning": "Hidden treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kunza"
+  },
+  {
+    "id": "ko4_var",
+    "name": "Koookab",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Koukab"
+  },
+  {
+    "id": "ko5_var",
+    "name": "Koooser",
+    "gender": "Girl",
+    "meaning": "River in Paradise",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kouser"
+  },
+  {
+    "id": "ku6_var",
+    "name": "Koorayb",
+    "gender": "Boy",
+    "meaning": "Name of a companion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kurayb"
+  },
+  {
+    "name": "Koordistan",
+    "gender": "Boy",
+    "meaning": "Land of Kurds",
+    "origin": "Kurdish",
+    "id": "ku8_var",
+    "verified": true,
+    "variant_of": "Kurdistan"
+  },
+  {
+    "name": "Koornia",
+    "gender": "Unisex",
+    "meaning": "Gift",
+    "origin": "Indonesian",
+    "id": "ku9_var",
+    "verified": true,
+    "variant_of": "Kurnia"
+  },
+  {
+    "name": "Koosooma",
+    "gender": "Unisex",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "ku10_var",
+    "verified": true,
+    "variant_of": "Kusuma"
+  },
+  {
+    "name": "Koowait",
+    "gender": "Boy",
+    "meaning": "Fortress near water",
+    "origin": "Arabic",
+    "id": "ku9_var",
+    "verified": true,
+    "variant_of": "Kuwait"
+  },
+  {
+    "name": "Koozey",
+    "gender": "Boy",
+    "meaning": "North",
+    "origin": "Turkish",
+    "id": "ku3_var",
+    "verified": true,
+    "variant_of": "Kuzey"
   },
   {
     "name": "Koray",
@@ -1568,12 +3472,38 @@
     "verified": true
   },
   {
+    "id": "ku1_var",
+    "name": "Kubrah",
+    "gender": "Girl",
+    "meaning": "Great, senior",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kubra"
+  },
+  {
+    "name": "Kudret",
+    "gender": "Boy",
+    "meaning": "Power; Might",
+    "origin": "Turkish/Arabic",
+    "id": "ku2",
+    "verified": true
+  },
+  {
     "name": "Kufa",
     "gender": "Girl",
     "meaning": "City in Iraq",
     "origin": "Arabic",
     "id": "ku7",
     "verified": true
+  },
+  {
+    "name": "Kufah",
+    "gender": "Girl",
+    "meaning": "City in Iraq",
+    "origin": "Arabic",
+    "id": "ku7_var",
+    "verified": true,
+    "variant_of": "Kufa"
   },
   {
     "name": "Kulsoom",
@@ -1584,12 +3514,30 @@
     "verified": true
   },
   {
+    "name": "Kulsum",
+    "gender": "Girl",
+    "meaning": "Full of flesh (healthy)",
+    "origin": "Arabic",
+    "id": "ku10_var",
+    "verified": true,
+    "variant_of": "Kulsoom"
+  },
+  {
     "id": "ku2",
     "name": "Kulthum",
     "gender": "Girl",
     "meaning": "Daughter of the Prophet",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ku3_var",
+    "name": "Kumaeel",
+    "gender": "Boy",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kumail"
   },
   {
     "id": "ku3",
@@ -1616,12 +3564,30 @@
     "verified": true
   },
   {
+    "id": "ku5_var",
+    "name": "Kunzah",
+    "gender": "Girl",
+    "meaning": "Hidden treasure",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kunza"
+  },
+  {
     "id": "ku6",
     "name": "Kurayb",
     "gender": "Boy",
     "meaning": "Name of a companion",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Kurdeestan",
+    "gender": "Boy",
+    "meaning": "Land of Kurds",
+    "origin": "Kurdish",
+    "id": "ku8_var",
+    "verified": true,
+    "variant_of": "Kurdistan"
   },
   {
     "name": "Kurdistan",
@@ -1632,11 +3598,71 @@
     "verified": true
   },
   {
+    "name": "Kurneea",
+    "gender": "Unisex",
+    "meaning": "Gift",
+    "origin": "Indonesian",
+    "id": "ku9_var",
+    "verified": true,
+    "variant_of": "Kurnia"
+  },
+  {
+    "name": "Kurnia",
+    "gender": "Unisex",
+    "meaning": "Gift",
+    "origin": "Indonesian",
+    "id": "ku9",
+    "verified": true
+  },
+  {
+    "name": "Kurniah",
+    "gender": "Unisex",
+    "meaning": "Gift",
+    "origin": "Indonesian",
+    "id": "ku9_var",
+    "verified": true,
+    "variant_of": "Kurnia"
+  },
+  {
+    "name": "Kusuma",
+    "gender": "Unisex",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "ku10",
+    "verified": true
+  },
+  {
+    "name": "Kusumah",
+    "gender": "Unisex",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "ku10_var",
+    "verified": true,
+    "variant_of": "Kusuma"
+  },
+  {
+    "name": "Kuwaeet",
+    "gender": "Boy",
+    "meaning": "Fortress near water",
+    "origin": "Arabic",
+    "id": "ku9_var",
+    "verified": true,
+    "variant_of": "Kuwait"
+  },
+  {
     "name": "Kuwait",
     "gender": "Boy",
     "meaning": "Fortress near water",
     "origin": "Arabic",
     "id": "ku9",
+    "verified": true
+  },
+  {
+    "name": "Kuzey",
+    "gender": "Boy",
+    "meaning": "North",
+    "origin": "Turkish",
+    "id": "ku3",
     "verified": true
   },
   {
@@ -1654,5 +3680,14 @@
     "meaning": "Preserved, strong",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ky2_var",
+    "name": "Kydah",
+    "gender": "Girl",
+    "meaning": "Preserved, strong",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Kyda"
   }
 ]

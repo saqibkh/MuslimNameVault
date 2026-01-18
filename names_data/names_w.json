@@ -1,18 +1,179 @@
 [
   {
-    "id": "wa1",
-    "name": "Waddah",
+    "name": "Wa'Eel",
     "gender": "Boy",
-    "meaning": "Bright, brilliant",
+    "meaning": "Seeker",
     "origin": "Arabic",
+    "id": "wa29_var",
+    "verified": true,
+    "variant_of": "Wa'il"
+  },
+  {
+    "name": "Wa'Eez",
+    "gender": "Boy",
+    "meaning": "Preacher",
+    "origin": "Arabic",
+    "id": "wa30_var",
+    "verified": true,
+    "variant_of": "Wa'iz"
+  },
+  {
+    "name": "Wa'Il",
+    "gender": "Boy",
+    "meaning": "Seeker",
+    "origin": "Arabic",
+    "id": "wa29",
     "verified": true
   },
   {
+    "name": "Wa'Iz",
+    "gender": "Boy",
+    "meaning": "Preacher",
+    "origin": "Arabic",
+    "id": "wa30",
+    "verified": true
+  },
+  {
+    "name": "Wa'L",
+    "gender": "Boy",
+    "meaning": "Refuge",
+    "origin": "Arabic",
+    "id": "wa31",
+    "verified": true
+  },
+  {
+    "name": "Wa'Qaas",
+    "gender": "Boy",
+    "meaning": "Combatant",
+    "origin": "Arabic",
+    "id": "wa32",
+    "verified": true
+  },
+  {
+    "name": "Wa'Seef",
+    "gender": "Boy",
+    "meaning": "Describer",
+    "origin": "Arabic",
+    "id": "wa33_var",
+    "verified": true,
+    "variant_of": "Wa'sif"
+  },
+  {
+    "name": "Wa'Seel",
+    "gender": "Boy",
+    "meaning": "Connected",
+    "origin": "Arabic",
+    "id": "wa34_var",
+    "verified": true,
+    "variant_of": "Wa'sil"
+  },
+  {
+    "name": "Wa'Sif",
+    "gender": "Boy",
+    "meaning": "Describer",
+    "origin": "Arabic",
+    "id": "wa33",
+    "verified": true
+  },
+  {
+    "name": "Wa'Sil",
+    "gender": "Boy",
+    "meaning": "Connected",
+    "origin": "Arabic",
+    "id": "wa34",
+    "verified": true
+  },
+  {
+    "name": "Waaheed",
+    "gender": "Boy",
+    "meaning": "One",
+    "origin": "Arabic",
+    "id": "wa35_var",
+    "verified": true,
+    "variant_of": "Waahid"
+  },
+  {
+    "name": "Waahid",
+    "gender": "Boy",
+    "meaning": "One",
+    "origin": "Arabic",
+    "id": "wa35",
+    "verified": true
+  },
+  {
+    "name": "Waajeed",
+    "gender": "Boy",
+    "meaning": "Finder",
+    "origin": "Arabic",
+    "id": "wa36_var",
+    "verified": true,
+    "variant_of": "Waajid"
+  },
+  {
+    "name": "Waajid",
+    "gender": "Boy",
+    "meaning": "Finder",
+    "origin": "Arabic",
+    "id": "wa36",
+    "verified": true
+  },
+  {
+    "name": "Waaqeef",
+    "gender": "Boy",
+    "meaning": "Acquainted",
+    "origin": "Arabic",
+    "id": "wa37_var",
+    "verified": true,
+    "variant_of": "Waaqif"
+  },
+  {
+    "name": "Waaqif",
+    "gender": "Boy",
+    "meaning": "Acquainted",
+    "origin": "Arabic",
+    "id": "wa37",
+    "verified": true
+  },
+  {
+    "name": "Waatheeq",
+    "gender": "Boy",
+    "meaning": "Confident",
+    "origin": "Arabic",
+    "id": "wa38_var",
+    "verified": true,
+    "variant_of": "Waathiq"
+  },
+  {
+    "name": "Waathiq",
+    "gender": "Boy",
+    "meaning": "Confident",
+    "origin": "Arabic",
+    "id": "wa38",
+    "verified": true
+  },
+  {
+    "name": "Waddah",
+    "gender": "Boy",
+    "meaning": "Bright",
+    "origin": "Arabic",
     "id": "wa2",
+    "verified": true
+  },
+  {
+    "name": "Wadee",
+    "gender": "Boy",
+    "meaning": "Calm",
+    "origin": "Arabic",
+    "id": "wa3_var",
+    "verified": true,
+    "variant_of": "Wadi"
+  },
+  {
     "name": "Wadi",
     "gender": "Boy",
-    "meaning": "Calm, peaceful",
+    "meaning": "Calm",
     "origin": "Arabic",
+    "id": "wa3",
     "verified": true
   },
   {
@@ -24,6 +185,24 @@
     "verified": true
   },
   {
+    "name": "Waeel",
+    "gender": "Boy",
+    "meaning": "Seeker",
+    "origin": "Arabic",
+    "id": "wa9_var",
+    "verified": true,
+    "variant_of": "Wail"
+  },
+  {
+    "name": "Waeez",
+    "gender": "Boy",
+    "meaning": "Preacher",
+    "origin": "Arabic",
+    "id": "wa10_var",
+    "verified": true,
+    "variant_of": "Waiz"
+  },
+  {
     "id": "wa3",
     "name": "Wafa",
     "gender": "Unisex",
@@ -32,20 +211,56 @@
     "verified": true
   },
   {
-    "id": "wa5",
+    "id": "wa3_var",
+    "name": "Wafah",
+    "gender": "Unisex",
+    "meaning": "Faithfulness, loyalty",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Wafa"
+  },
+  {
+    "name": "Wafeeq",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "wa4_var",
+    "verified": true,
+    "variant_of": "Wafiq"
+  },
+  {
+    "name": "Wafeeya",
+    "gender": "Girl",
+    "meaning": "Loyal",
+    "origin": "Arabic",
+    "id": "wa5_var",
+    "verified": true,
+    "variant_of": "Wafiya"
+  },
+  {
     "name": "Wafiq",
     "gender": "Boy",
     "meaning": "Successful",
     "origin": "Arabic",
+    "id": "wa4",
     "verified": true
   },
   {
-    "id": "wa6",
     "name": "Wafiya",
     "gender": "Girl",
-    "meaning": "Loyal, faithful",
+    "meaning": "Loyal",
     "origin": "Arabic",
+    "id": "wa5",
     "verified": true
+  },
+  {
+    "name": "Wafiyah",
+    "gender": "Girl",
+    "meaning": "Loyal",
+    "origin": "Arabic",
+    "id": "wa5_var",
+    "verified": true,
+    "variant_of": "Wafiya"
   },
   {
     "name": "Waha",
@@ -64,75 +279,130 @@
     "verified": true
   },
   {
-    "id": "wa8",
+    "name": "Wahah",
+    "gender": "Girl",
+    "meaning": "Oasis",
+    "origin": "Arabic",
+    "id": "wa36_var",
+    "verified": true,
+    "variant_of": "Waha"
+  },
+  {
     "name": "Wahb",
     "gender": "Boy",
-    "meaning": "Gift, donation",
+    "meaning": "Gift",
     "origin": "Arabic",
+    "id": "wa6",
     "verified": true
   },
   {
     "name": "Waheed",
     "gender": "Boy",
-    "meaning": "Unique",
-    "origin": "Arabic",
-    "id": "wa41",
-    "verified": true
+    "meaning": "One",
+    "origin": "Indonesian",
+    "id": "wa24_var",
+    "verified": true,
+    "variant_of": "Wahid"
   },
   {
     "name": "Waheeda",
     "gender": "Girl",
     "meaning": "Unique",
     "origin": "Arabic",
-    "id": "wa43",
-    "verified": true
+    "id": "wa7_var",
+    "verified": true,
+    "variant_of": "Wahida"
   },
   {
-    "id": "wa9",
+    "name": "Waheedah",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Arabic",
+    "id": "wa43_var",
+    "verified": true,
+    "variant_of": "Waheeda"
+  },
+  {
     "name": "Wahid",
     "gender": "Boy",
-    "meaning": "One, unique, peerless",
-    "origin": "Quranic",
+    "meaning": "One",
+    "origin": "Indonesian",
+    "id": "wa24",
     "verified": true
   },
   {
-    "id": "wa10",
     "name": "Wahida",
     "gender": "Girl",
-    "meaning": "Unique, exclusive",
+    "meaning": "Unique",
     "origin": "Arabic",
+    "id": "wa7",
     "verified": true
   },
   {
-    "id": "wa11",
+    "name": "Wahidah",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Arabic",
+    "id": "wa7_var",
+    "verified": true,
+    "variant_of": "Wahida"
+  },
+  {
+    "name": "Wahooj",
+    "gender": "Girl",
+    "meaning": "First light",
+    "origin": "Arabic",
+    "id": "wa8_var",
+    "verified": true,
+    "variant_of": "Wahuj"
+  },
+  {
     "name": "Wahuj",
     "gender": "Girl",
-    "meaning": "First light of day, dawn",
+    "meaning": "First light",
     "origin": "Arabic",
+    "id": "wa8",
     "verified": true
   },
   {
-    "id": "wa12",
+    "name": "Wahyoo",
+    "gender": "Boy",
+    "meaning": "Revelation",
+    "origin": "Indonesian",
+    "id": "wa25_var",
+    "verified": true,
+    "variant_of": "Wahyu"
+  },
+  {
+    "name": "Wahyu",
+    "gender": "Boy",
+    "meaning": "Revelation",
+    "origin": "Indonesian",
+    "id": "wa25",
+    "verified": true
+  },
+  {
     "name": "Wail",
     "gender": "Boy",
-    "meaning": "Seeker of protection",
+    "meaning": "Seeker",
     "origin": "Arabic",
+    "id": "wa9",
     "verified": true
   },
   {
-    "id": "wa13",
     "name": "Waiz",
     "gender": "Boy",
-    "meaning": "Preacher, advisor",
+    "meaning": "Preacher",
     "origin": "Arabic",
+    "id": "wa10",
     "verified": true
   },
   {
-    "id": "wa14",
     "name": "Wajahat",
     "gender": "Boy",
-    "meaning": "Dignity, respect",
+    "meaning": "Dignity",
     "origin": "Arabic",
+    "id": "wa11",
     "verified": true
   },
   {
@@ -144,12 +414,39 @@
     "verified": true
   },
   {
-    "id": "wa15",
+    "id": "wa16_var",
+    "name": "Wajeed",
+    "gender": "Boy",
+    "meaning": "Finder, lover",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Wajid"
+  },
+  {
     "name": "Wajeeh",
     "gender": "Boy",
-    "meaning": "Noble, eminent",
+    "meaning": "Noble",
     "origin": "Quranic",
+    "id": "wa12",
     "verified": true
+  },
+  {
+    "name": "Wajeeh-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Eminent of the Faith",
+    "origin": "Arabic",
+    "id": "wa44_var",
+    "verified": true,
+    "variant_of": "Wajih-Ud-Din"
+  },
+  {
+    "name": "Wajeeh-Ullah",
+    "gender": "Boy",
+    "meaning": "Face of God (Direction)",
+    "origin": "Arabic",
+    "id": "wa45_var",
+    "verified": true,
+    "variant_of": "Wajih-Ullah"
   },
   {
     "name": "Wajeeha",
@@ -160,6 +457,15 @@
     "verified": true
   },
   {
+    "name": "Wajeehah",
+    "gender": "Girl",
+    "meaning": "Eminent",
+    "origin": "Arabic",
+    "id": "wa51_var",
+    "verified": true,
+    "variant_of": "Wajeeha"
+  },
+  {
     "id": "wa16",
     "name": "Wajid",
     "gender": "Boy",
@@ -168,11 +474,11 @@
     "verified": true
   },
   {
-    "id": "wa17",
     "name": "Wajih",
     "gender": "Boy",
-    "meaning": "Noble, eminent",
+    "meaning": "Noble",
     "origin": "Quranic",
+    "id": "wa13",
     "verified": true
   },
   {
@@ -192,6 +498,24 @@
     "verified": true
   },
   {
+    "name": "Wajiha",
+    "gender": "Girl",
+    "meaning": "Eminent",
+    "origin": "Arabic",
+    "id": "wa51_var",
+    "verified": true,
+    "variant_of": "Wajeeha"
+  },
+  {
+    "name": "Wakeel",
+    "gender": "Boy",
+    "meaning": "Trustee",
+    "origin": "Quranic",
+    "id": "wa14_var",
+    "verified": true,
+    "variant_of": "Wakil"
+  },
+  {
     "name": "Wakhan",
     "gender": "Boy",
     "meaning": "Corridor in Afghanistan",
@@ -200,28 +524,74 @@
     "verified": true
   },
   {
-    "id": "wa18",
     "name": "Wakil",
     "gender": "Boy",
-    "meaning": "Trustee, guardian",
+    "meaning": "Trustee",
     "origin": "Quranic",
+    "id": "wa14",
     "verified": true
   },
   {
-    "id": "wa19",
     "name": "Wala",
     "gender": "Girl",
     "meaning": "Loyalty",
     "origin": "Arabic",
+    "id": "wa15",
     "verified": true
   },
   {
+    "name": "Walah",
+    "gender": "Girl",
+    "meaning": "Loyalty",
+    "origin": "Arabic",
+    "id": "wa15_var",
+    "verified": true,
+    "variant_of": "Wala"
+  },
+  {
+    "id": "wa22_var",
+    "name": "Walee",
+    "gender": "Boy",
+    "meaning": "Guardian, protector, friend",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Wali"
+  },
+  {
+    "name": "Walee-Ullah",
+    "gender": "Boy",
+    "meaning": "Friend of God",
+    "origin": "Arabic",
+    "id": "wa46_var",
+    "verified": true,
+    "variant_of": "Wali-Ullah"
+  },
+  {
+    "id": "wa20_var",
     "name": "Waleed",
     "gender": "Boy",
-    "meaning": "Newborn",
+    "meaning": "Newborn child",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Walid"
+  },
+  {
+    "name": "Waleeda",
+    "gender": "Girl",
+    "meaning": "Newborn girl",
     "origin": "Arabic",
-    "id": "wa52",
-    "verified": true
+    "id": "wa16_var",
+    "verified": true,
+    "variant_of": "Walida"
+  },
+  {
+    "name": "Waleeya",
+    "gender": "Girl",
+    "meaning": "Guardian",
+    "origin": "Arabic",
+    "id": "wa53_var",
+    "verified": true,
+    "variant_of": "Waliya"
   },
   {
     "id": "wa22",
@@ -240,20 +610,30 @@
     "verified": true
   },
   {
-    "id": "wa20",
     "name": "Walid",
     "gender": "Boy",
-    "meaning": "Newborn child",
-    "origin": "Quranic",
-    "verified": true
+    "meaning": "Newborn",
+    "origin": "Arabic",
+    "id": "wa52_var",
+    "verified": true,
+    "variant_of": "Waleed"
   },
   {
-    "id": "wa21",
     "name": "Walida",
     "gender": "Girl",
     "meaning": "Newborn girl",
     "origin": "Arabic",
+    "id": "wa16",
     "verified": true
+  },
+  {
+    "name": "Walidah",
+    "gender": "Girl",
+    "meaning": "Newborn girl",
+    "origin": "Arabic",
+    "id": "wa16_var",
+    "verified": true,
+    "variant_of": "Walida"
   },
   {
     "name": "Waliya",
@@ -264,12 +644,38 @@
     "verified": true
   },
   {
-    "id": "wa23",
+    "name": "Waliyah",
+    "gender": "Girl",
+    "meaning": "Guardian",
+    "origin": "Arabic",
+    "id": "wa53_var",
+    "verified": true,
+    "variant_of": "Waliya"
+  },
+  {
     "name": "Walladah",
     "gender": "Girl",
-    "meaning": "Prolific, fruitful",
+    "meaning": "Prolific",
     "origin": "Arabic",
+    "id": "wa17",
     "verified": true
+  },
+  {
+    "name": "Wan",
+    "gender": "Unisex",
+    "meaning": "Noble",
+    "origin": "Malay",
+    "id": "wa26",
+    "verified": true
+  },
+  {
+    "name": "Waneea",
+    "gender": "Girl",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "id": "wa54_var",
+    "verified": true,
+    "variant_of": "Wania"
   },
   {
     "name": "Wania",
@@ -280,12 +686,30 @@
     "verified": true
   },
   {
+    "name": "Waniah",
+    "gender": "Girl",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "id": "wa54_var",
+    "verified": true,
+    "variant_of": "Wania"
+  },
+  {
     "id": "wa24",
     "name": "Waqar",
     "gender": "Boy",
     "meaning": "Dignity, majesty",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "name": "Waqar-Un-Neesa",
+    "gender": "Girl",
+    "meaning": "Dignity of Women",
+    "origin": "Arabic",
+    "id": "wa47_var",
+    "verified": true,
+    "variant_of": "Waqar-Un-Nisa"
   },
   {
     "name": "Waqar-Un-Nisa",
@@ -296,11 +720,20 @@
     "verified": true
   },
   {
-    "id": "wa25",
+    "name": "Waqar-Un-Nisah",
+    "gender": "Girl",
+    "meaning": "Dignity of Women",
+    "origin": "Arabic",
+    "id": "wa47_var",
+    "verified": true,
+    "variant_of": "Waqar-Un-Nisa"
+  },
+  {
     "name": "Waqas",
     "gender": "Boy",
-    "meaning": "Warrior; A famous Companion",
+    "meaning": "Warrior",
     "origin": "Arabic",
+    "id": "wa18",
     "verified": true
   },
   {
@@ -310,6 +743,15 @@
     "origin": "Quranic",
     "id": "wa38",
     "verified": true
+  },
+  {
+    "name": "Waraqah",
+    "gender": "Boy",
+    "meaning": "Leaf",
+    "origin": "Quranic",
+    "id": "wa38_var",
+    "verified": true,
+    "variant_of": "Waraqa"
   },
   {
     "name": "Ward",
@@ -328,12 +770,57 @@
     "verified": true
   },
   {
+    "id": "wa27_var",
+    "name": "Wardah",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Germanic/Arabic usage",
+    "verified": true,
+    "variant_of": "Warda"
+  },
+  {
+    "name": "Wareesha",
+    "gender": "Girl",
+    "meaning": "Happiness; Lightning",
+    "origin": "Urdu",
+    "id": "wa1",
+    "verified": true
+  },
+  {
+    "name": "Wareeshah",
+    "gender": "Girl",
+    "meaning": "Happiness; Lightning",
+    "origin": "Urdu",
+    "id": "wa1_var",
+    "verified": true,
+    "variant_of": "Wareesha"
+  },
+  {
+    "name": "Wareeth",
+    "gender": "Boy",
+    "meaning": "Heir",
+    "origin": "Quranic",
+    "id": "wa48_var",
+    "verified": true,
+    "variant_of": "Warith"
+  },
+  {
     "name": "Warisha",
+    "gender": "Girl",
+    "meaning": "Happiness; Lightning",
+    "origin": "Urdu",
+    "id": "wa1_var",
+    "verified": true,
+    "variant_of": "Wareesha"
+  },
+  {
+    "name": "Warishah",
     "gender": "Girl",
     "meaning": "Happiness",
     "origin": "Urdu",
-    "id": "wa55",
-    "verified": true
+    "id": "wa55_var",
+    "verified": true,
+    "variant_of": "Warisha"
   },
   {
     "name": "Warith",
@@ -344,52 +831,117 @@
     "verified": true
   },
   {
-    "id": "wa28",
     "name": "Warqa",
     "gender": "Girl",
-    "meaning": "Dove, pigeon",
+    "meaning": "Dove",
     "origin": "Arabic",
+    "id": "wa19",
     "verified": true
   },
   {
+    "name": "Warqah",
+    "gender": "Girl",
+    "meaning": "Dove",
+    "origin": "Arabic",
+    "id": "wa19_var",
+    "verified": true,
+    "variant_of": "Warqa"
+  },
+  {
+    "name": "Waseef",
+    "gender": "Boy",
+    "meaning": "Describer",
+    "origin": "Arabic",
+    "id": "wa20_var",
+    "verified": true,
+    "variant_of": "Wasif"
+  },
+  {
+    "name": "Waseel",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "id": "wa21_var",
+    "verified": true,
+    "variant_of": "Wasil"
+  },
+  {
+    "id": "wa31_var",
     "name": "Waseem",
-    "gender": "Boy",
-    "meaning": "Handsome",
-    "origin": "Arabic",
-    "id": "wa42",
-    "verified": true
-  },
-  {
-    "id": "wa29",
-    "name": "Wasif",
-    "gender": "Boy",
-    "meaning": "Describer, praiser",
-    "origin": "Arabic",
-    "verified": true
-  },
-  {
-    "id": "wa30",
-    "name": "Wasil",
-    "gender": "Boy",
-    "meaning": "Inseparable friend",
-    "origin": "Arabic",
-    "verified": true
-  },
-  {
-    "id": "wa31",
-    "name": "Wasim",
     "gender": "Boy",
     "meaning": "Handsome, graceful",
     "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Wasim"
+  },
+  {
+    "name": "Waseema",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "wa22_var",
+    "verified": true,
+    "variant_of": "Wasima"
+  },
+  {
+    "name": "Waseeq",
+    "gender": "Boy",
+    "meaning": "Confident",
+    "origin": "Arabic",
+    "id": "wa56_var",
+    "verified": true,
+    "variant_of": "Wasiq"
+  },
+  {
+    "name": "Waseet",
+    "gender": "Boy",
+    "meaning": "Middle City (Iraq)",
+    "origin": "Arabic",
+    "id": "wa50_var",
+    "verified": true,
+    "variant_of": "Wasit"
+  },
+  {
+    "name": "Wasif",
+    "gender": "Boy",
+    "meaning": "Describer",
+    "origin": "Arabic",
+    "id": "wa20",
     "verified": true
   },
   {
-    "id": "wa32",
+    "name": "Wasil",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "id": "wa21",
+    "verified": true
+  },
+  {
+    "name": "Wasim",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "wa42_var",
+    "verified": true,
+    "variant_of": "Waseem"
+  },
+  {
     "name": "Wasima",
     "gender": "Girl",
-    "meaning": "Beautiful, pretty",
+    "meaning": "Beautiful",
     "origin": "Arabic",
+    "id": "wa22",
     "verified": true
+  },
+  {
+    "name": "Wasimah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "wa22_var",
+    "verified": true,
+    "variant_of": "Wasima"
   },
   {
     "name": "Wasiq",
@@ -408,6 +960,15 @@
     "verified": true
   },
   {
+    "name": "Watee",
+    "gender": "Girl",
+    "meaning": "Woman",
+    "origin": "Indonesian",
+    "id": "wa27_var",
+    "verified": true,
+    "variant_of": "Wati"
+  },
+  {
     "name": "Wateen",
     "gender": "Unisex",
     "meaning": "Aorta (Life vein)",
@@ -416,12 +977,55 @@
     "verified": true
   },
   {
-    "id": "wa33",
+    "name": "Watheeq",
+    "gender": "Boy",
+    "meaning": "Confident",
+    "origin": "Arabic",
+    "id": "wa23_var",
+    "verified": true,
+    "variant_of": "Wathiq"
+  },
+  {
     "name": "Wathiq",
     "gender": "Boy",
-    "meaning": "Confident, sure",
+    "meaning": "Confident",
     "origin": "Arabic",
+    "id": "wa23",
     "verified": true
+  },
+  {
+    "name": "Wati",
+    "gender": "Girl",
+    "meaning": "Woman",
+    "origin": "Indonesian",
+    "id": "wa27",
+    "verified": true
+  },
+  {
+    "name": "Watin",
+    "gender": "Unisex",
+    "meaning": "Aorta (Life vein)",
+    "origin": "Quranic",
+    "id": "wa40_var",
+    "verified": true,
+    "variant_of": "Wateen"
+  },
+  {
+    "name": "Wawan",
+    "gender": "Boy",
+    "meaning": "Man",
+    "origin": "Indonesian",
+    "id": "wa28",
+    "verified": true
+  },
+  {
+    "id": "wa34_var",
+    "name": "Wazeer",
+    "gender": "Boy",
+    "meaning": "Minister",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Wazir"
   },
   {
     "id": "wa34",
@@ -432,19 +1036,117 @@
     "verified": true
   },
   {
-    "id": "wa4",
+    "name": "Wee'Am",
+    "gender": "Unisex",
+    "meaning": "Harmony",
+    "origin": "Arabic",
+    "id": "wi1_var",
+    "verified": true,
+    "variant_of": "Wi'Am"
+  },
+  {
+    "name": "Weebowo",
+    "gender": "Boy",
+    "meaning": "Authority",
+    "origin": "Indonesian",
+    "id": "wi6_var",
+    "verified": true,
+    "variant_of": "Wibowo"
+  },
+  {
+    "id": "wi2_var",
+    "name": "Weedad",
+    "gender": "Girl",
+    "meaning": "Love, friendship",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Widad"
+  },
+  {
+    "name": "Weedya",
+    "gender": "Girl",
+    "meaning": "Knowledge",
+    "origin": "Indonesian",
+    "id": "wi7_var",
+    "verified": true,
+    "variant_of": "Widya"
+  },
+  {
+    "name": "Weejdan",
+    "gender": "Unisex",
+    "meaning": "Sentiment",
+    "origin": "Arabic",
+    "id": "wi2_var",
+    "verified": true,
+    "variant_of": "Wijdan"
+  },
+  {
+    "name": "Weeldan",
+    "gender": "Boy",
+    "meaning": "Children of Paradise",
+    "origin": "Quranic",
+    "id": "wi3_var",
+    "verified": true,
+    "variant_of": "Wildan"
+  },
+  {
+    "name": "Weesal",
+    "gender": "Girl",
+    "meaning": "Union",
+    "origin": "Arabic",
+    "id": "wi4_var",
+    "verified": true,
+    "variant_of": "Wisal"
+  },
+  {
+    "name": "Weesam",
+    "gender": "Unisex",
+    "meaning": "Badge of honor",
+    "origin": "Arabic",
+    "id": "wi5_var",
+    "verified": true,
+    "variant_of": "Wisam"
+  },
+  {
+    "name": "Weeween",
+    "gender": "Girl",
+    "meaning": "Winner",
+    "origin": "Indonesian",
+    "id": "wi8_var",
+    "verified": true,
+    "variant_of": "Wiwin"
+  },
+  {
     "name": "Wfeeq",
     "gender": "Boy",
     "meaning": "Successful",
     "origin": "Arabic",
+    "id": "wf1",
     "verified": true
   },
   {
-    "id": "wi1",
+    "name": "Wfiq",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "wf1_var",
+    "verified": true,
+    "variant_of": "Wfeeq"
+  },
+  {
     "name": "Wi'Am",
     "gender": "Unisex",
-    "meaning": "Harmony, agreement",
+    "meaning": "Harmony",
     "origin": "Arabic",
+    "id": "wi1",
+    "verified": true
+  },
+  {
+    "name": "Wibowo",
+    "gender": "Boy",
+    "meaning": "Authority",
+    "origin": "Indonesian",
+    "id": "wi6",
     "verified": true
   },
   {
@@ -456,35 +1158,77 @@
     "verified": true
   },
   {
-    "id": "wi3",
-    "name": "Wijdan",
-    "gender": "Unisex",
-    "meaning": "Sentiment, feeling",
-    "origin": "Arabic",
+    "name": "Widya",
+    "gender": "Girl",
+    "meaning": "Knowledge",
+    "origin": "Indonesian",
+    "id": "wi7",
     "verified": true
   },
   {
-    "id": "wi4",
+    "name": "Widyah",
+    "gender": "Girl",
+    "meaning": "Knowledge",
+    "origin": "Indonesian",
+    "id": "wi7_var",
+    "verified": true,
+    "variant_of": "Widya"
+  },
+  {
+    "name": "Wijdan",
+    "gender": "Unisex",
+    "meaning": "Sentiment",
+    "origin": "Arabic",
+    "id": "wi2",
+    "verified": true
+  },
+  {
     "name": "Wildan",
     "gender": "Boy",
     "meaning": "Children of Paradise",
     "origin": "Quranic",
+    "id": "wi3",
     "verified": true
   },
   {
-    "id": "wi5",
     "name": "Wisal",
     "gender": "Girl",
-    "meaning": "Union, communion (with God)",
+    "meaning": "Union",
     "origin": "Arabic",
+    "id": "wi4",
     "verified": true
   },
   {
-    "id": "wi6",
     "name": "Wisam",
     "gender": "Unisex",
-    "meaning": "Badge of honor, medal",
+    "meaning": "Badge of honor",
     "origin": "Arabic",
+    "id": "wi5",
+    "verified": true
+  },
+  {
+    "name": "Wiwin",
+    "gender": "Girl",
+    "meaning": "Winner",
+    "origin": "Indonesian",
+    "id": "wi8",
+    "verified": true
+  },
+  {
+    "name": "Woolan",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Indonesian",
+    "id": "wu1_var",
+    "verified": true,
+    "variant_of": "Wulan"
+  },
+  {
+    "name": "Wulan",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Indonesian",
+    "id": "wu1",
     "verified": true
   }
 ]

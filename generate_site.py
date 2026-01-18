@@ -161,6 +161,60 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
         ))
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
 
+def generate_rich_description(name, meaning, gender, origin, transliteration):
+    """
+    Generates a unique, non-repetitive description for every name
+    to prevent Google 'Duplicate Content' penalties.
+    """
+    # 1. Gender-specific Introductions
+    intro_templates = []
+    if gender == 'Boy':
+        intro_templates = [
+            f"If you are looking for a strong and significant name for your son, <strong>{name}</strong> is a standout choice.",
+            f"The name <strong>{name}</strong> is a classic masculine title rooted in {origin} tradition.",
+            f"For parents seeking a noble identity for their baby boy, <strong>{name}</strong> offers deep spiritual resonance."
+        ]
+    elif gender == 'Girl':
+        intro_templates = [
+            f"Graceful and timeless, the name <strong>{name}</strong> is a beautiful choice for a baby girl.",
+            f"<strong>{name}</strong> is a feminine title rich in history, originating from {origin} roots.",
+            f"Capturing elegance and depth, <strong>{name}</strong> stands out as a meaningful name for your daughter."
+        ]
+    else: # Unisex
+        intro_templates = [
+            f"<strong>{name}</strong> is a versatile and harmonious name suitable for both boys and girls.",
+            f"With its {origin} roots, <strong>{name}</strong> is a unique unisex choice carrying profound meaning."
+        ]
+
+    # 2. Meaning Analysis
+    meaning_lower = meaning.lower() if meaning else ""
+    meaning_text = ""
+    if "god" in meaning_lower or "allah" in meaning_lower:
+        meaning_text = f"It carries a divine connection, translating essentially to '<em>{meaning}</em>'. This bestows a sense of spiritual protection upon the bearer."
+    elif "beautiful" in meaning_lower or "flower" in meaning_lower or "light" in meaning_lower:
+        meaning_text = f"The literal meaning, '<em>{meaning}</em>', evokes imagery of nature and radiance, suggesting a personality full of life and positivity."
+    elif "warrior" in meaning_lower or "brave" in meaning_lower or "lion" in meaning_lower:
+        meaning_text = f"Meaning '<em>{meaning}</em>', this name carries a weight of authority, courage, and leadership."
+    else:
+        meaning_text = f"The name holds the profound meaning of '<em>{meaning}</em>', reflecting qualities that parents often wish to bestow upon their child."
+
+    # 3. Cultural Context (Randomized variations)
+    cultural_templates = [
+        f"In {origin} culture, names are more than labels; they are prayers. {name} is widely respected for its positive connotations.",
+        f"Pronounced as <em>{transliteration or name}</em>, it has a rhythmic flow that makes it memorable and distinct.",
+        f"While popular in {origin} regions, {name} has a modern appeal that transcends borders."
+    ]
+
+    # 4. Closing Recommendation
+    closing = "It is an excellent choice for a modern Muslim family honoring tradition."
+    
+    # Combine random selections
+    # Ensure lists aren't empty to avoid errors
+    p1 = random.choice(intro_templates) if intro_templates else f"The name <strong>{name}</strong> is a beautiful choice."
+    p2 = random.choice(cultural_templates)
+    
+    return f"{p1} {meaning_text} <br><br> {p2} {closing}"
+
 def generate_website():
     print("🚀 Starting Website Generation...")
     

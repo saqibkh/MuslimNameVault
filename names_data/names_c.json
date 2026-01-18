@@ -1,42 +1,154 @@
 [
   {
-    "id": "ca1",
+    "name": "Caeera",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2_var",
+    "verified": true,
+    "variant_of": "Caira"
+  },
+  {
+    "name": "Caeero",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "ca8_var",
+    "verified": true,
+    "variant_of": "Cairo"
+  },
+  {
     "name": "Cafer",
     "gender": "Boy",
-    "meaning": "Stream, rivulet (Turkish form of Jafar)",
+    "meaning": "Stream",
     "origin": "Turkish",
+    "id": "ca6",
     "verified": true
   },
   {
-    "id": "ca2",
+    "name": "Cahaya",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca18",
+    "verified": true
+  },
+  {
+    "name": "Cahayah",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca18_var",
+    "verified": true,
+    "variant_of": "Cahaya"
+  },
+  {
+    "name": "Caheet",
+    "gender": "Boy",
+    "meaning": "Hardworking",
+    "origin": "Turkish",
+    "id": "ca7_var",
+    "verified": true,
+    "variant_of": "Cahit"
+  },
+  {
     "name": "Cahit",
     "gender": "Boy",
-    "meaning": "Hardworking, striver (Variant of Jahid)",
+    "meaning": "Hardworking",
     "origin": "Turkish",
+    "id": "ca7",
     "verified": true
   },
   {
-    "id": "ca3",
+    "name": "Cahya",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca16",
+    "verified": true
+  },
+  {
+    "name": "Cahyah",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca16_var",
+    "verified": true,
+    "variant_of": "Cahya"
+  },
+  {
+    "name": "Caira",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2",
+    "verified": true
+  },
+  {
+    "name": "Cairah",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2_var",
+    "verified": true,
+    "variant_of": "Caira"
+  },
+  {
     "name": "Cairo",
     "gender": "Boy",
-    "meaning": "Victorious (Anglicized Al-Qahirah)",
+    "meaning": "Victorious",
     "origin": "Arabic",
+    "id": "ca8",
     "verified": true
   },
   {
-    "id": "ca4",
     "name": "Caleb",
     "gender": "Boy",
-    "meaning": "Dog, faithful (Variant of Kaleb)",
-    "origin": "Arabic/Hebrew",
+    "meaning": "Faithful",
+    "origin": "Arabic",
+    "id": "ca9",
     "verified": true
   },
   {
-    "id": "ca5",
+    "name": "Cameel",
+    "gender": "Boy",
+    "meaning": "Perfect (Variant of Kamil)",
+    "origin": "Arabic",
+    "id": "ca3_var",
+    "verified": true,
+    "variant_of": "Camil"
+  },
+  {
+    "name": "Cameelo",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "North African",
+    "id": "ca17_var",
+    "verified": true,
+    "variant_of": "Camilo"
+  },
+  {
+    "name": "Camil",
+    "gender": "Boy",
+    "meaning": "Perfect (Variant of Kamil)",
+    "origin": "Arabic",
+    "id": "ca3",
+    "verified": true
+  },
+  {
+    "name": "Camilo",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "North African",
+    "id": "ca17",
+    "verified": true
+  },
+  {
     "name": "Can",
     "gender": "Boy",
-    "meaning": "Life, soul, spirit (Pronounced 'Jan')",
+    "meaning": "Life; Soul; Spirit",
     "origin": "Turkish",
+    "id": "ca1",
     "verified": true
   },
   {
@@ -48,35 +160,44 @@
     "verified": true
   },
   {
-    "id": "ca6",
     "name": "Canan",
     "gender": "Girl",
-    "meaning": "Beloved, sweetheart (Pronounced 'Janan')",
+    "meaning": "Beloved",
     "origin": "Turkish",
+    "id": "ca10",
     "verified": true
   },
   {
-    "id": "ca7",
     "name": "Candan",
     "gender": "Unisex",
-    "meaning": "Sincere, heartfelt",
+    "meaning": "Sincere",
     "origin": "Turkish",
+    "id": "ca11",
     "verified": true
   },
   {
-    "id": "ca8",
     "name": "Cansel",
     "gender": "Girl",
     "meaning": "Flood of life",
     "origin": "Turkish",
+    "id": "ca12",
     "verified": true
   },
   {
-    "id": "ca9",
+    "name": "Cansoo",
+    "gender": "Girl",
+    "meaning": "Water of life",
+    "origin": "Turkish",
+    "id": "ca13_var",
+    "verified": true,
+    "variant_of": "Cansu"
+  },
+  {
     "name": "Cansu",
     "gender": "Girl",
     "meaning": "Water of life",
     "origin": "Turkish",
+    "id": "ca13",
     "verified": true
   },
   {
@@ -88,92 +209,287 @@
     "verified": true
   },
   {
-    "id": "ca10",
+    "name": "Caseem",
+    "gender": "Boy",
+    "meaning": "Divider (Variant of Qasim)",
+    "origin": "Arabic",
+    "id": "ca4_var",
+    "verified": true,
+    "variant_of": "Casim"
+  },
+  {
+    "name": "Casim",
+    "gender": "Boy",
+    "meaning": "Divider (Variant of Qasim)",
+    "origin": "Arabic",
+    "id": "ca4",
+    "verified": true
+  },
+  {
+    "name": "Caveea",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Urdu",
+    "id": "ca14_var",
+    "verified": true,
+    "variant_of": "Cavia"
+  },
+  {
+    "name": "Caveed",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Turkish",
+    "id": "ca15_var",
+    "verified": true,
+    "variant_of": "Cavid"
+  },
+  {
     "name": "Cavia",
     "gender": "Girl",
-    "meaning": "Poem, rhyme (Variant of Qafiya)",
+    "meaning": "Poem",
     "origin": "Urdu",
+    "id": "ca14",
     "verified": true
   },
   {
-    "id": "ca11",
+    "name": "Caviah",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Urdu",
+    "id": "ca14_var",
+    "verified": true,
+    "variant_of": "Cavia"
+  },
+  {
     "name": "Cavid",
     "gender": "Boy",
-    "meaning": "Eternal (Turkish form of Javaid)",
+    "meaning": "Eternal",
     "origin": "Turkish",
+    "id": "ca15",
     "verified": true
   },
   {
-    "id": "ca12",
     "name": "Cayla",
     "gender": "Girl",
-    "meaning": "Castle, fortress (Variant of Qayla)",
+    "meaning": "Fortress, Castle (Variant of Qayla)",
     "origin": "Arabic",
+    "id": "ca5",
     "verified": true
   },
   {
-    "id": "ce1",
+    "name": "Caylah",
+    "gender": "Girl",
+    "meaning": "Fortress, Castle (Variant of Qayla)",
+    "origin": "Arabic",
+    "id": "ca5_var",
+    "verified": true,
+    "variant_of": "Cayla"
+  },
+  {
+    "name": "Cebraeel",
+    "gender": "Boy",
+    "meaning": "Gabriel",
+    "origin": "Turkish",
+    "id": "ce5_var",
+    "verified": true,
+    "variant_of": "Cebrail"
+  },
+  {
     "name": "Cebrail",
     "gender": "Boy",
-    "meaning": "Gabriel (Angel Jibreel)",
+    "meaning": "Gabriel",
     "origin": "Turkish",
+    "id": "ce5",
     "verified": true
   },
   {
-    "id": "ce2",
+    "name": "Ceehad",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Turkish",
+    "id": "ci3_var",
+    "verified": true,
+    "variant_of": "Cihad"
+  },
+  {
+    "name": "Ceehan",
+    "gender": "Boy",
+    "meaning": "Universe",
+    "origin": "Turkish",
+    "id": "ci1_var",
+    "verified": true,
+    "variant_of": "Cihan"
+  },
+  {
+    "name": "Ceehangeer",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Turkish",
+    "id": "ci4_var",
+    "verified": true,
+    "variant_of": "Cihangir"
+  },
+  {
+    "name": "Ceenar",
+    "gender": "Boy",
+    "meaning": "Plane Tree",
+    "origin": "Turkish",
+    "id": "ci2_var",
+    "verified": true,
+    "variant_of": "Cinar"
+  },
+  {
+    "name": "Ceetra",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6_var",
+    "verified": true,
+    "variant_of": "Citra"
+  },
+  {
+    "name": "Ceevan",
+    "gender": "Boy",
+    "meaning": "Young",
+    "origin": "Turkish",
+    "id": "ci5_var",
+    "verified": true,
+    "variant_of": "Civan"
+  },
+  {
     "name": "Celal",
     "gender": "Boy",
-    "meaning": "Glory, majesty (Turkish form of Jalal)",
+    "meaning": "Glory",
     "origin": "Turkish",
+    "id": "ce6",
     "verified": true
   },
   {
-    "id": "ce3",
+    "name": "Celeel",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Turkish",
+    "id": "ce7_var",
+    "verified": true,
+    "variant_of": "Celil"
+  },
+  {
+    "name": "Celeena",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3_var",
+    "verified": true,
+    "variant_of": "Celina"
+  },
+  {
     "name": "Celil",
     "gender": "Boy",
-    "meaning": "Great, exalted (Turkish form of Jalil)",
+    "meaning": "Great",
     "origin": "Turkish",
+    "id": "ce7",
     "verified": true
   },
   {
-    "id": "ce4",
+    "name": "Celina",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3",
+    "verified": true
+  },
+  {
+    "name": "Celinah",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3_var",
+    "verified": true,
+    "variant_of": "Celina"
+  },
+  {
     "name": "Cem",
     "gender": "Boy",
-    "meaning": "King, ruler (Short for Jamshed)",
-    "origin": "Turkish/Persian",
+    "meaning": "Ruler; King",
+    "origin": "Turkish",
+    "id": "ce1",
     "verified": true
   },
   {
-    "id": "ce5",
     "name": "Cemal",
     "gender": "Boy",
     "meaning": "Beauty (Turkish form of Jamal)",
     "origin": "Turkish",
+    "id": "ce4",
     "verified": true
   },
   {
-    "id": "ce6",
+    "name": "Cemeel",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce8_var",
+    "verified": true,
+    "variant_of": "Cemil"
+  },
+  {
+    "name": "Cemeele",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce9_var",
+    "verified": true,
+    "variant_of": "Cemile"
+  },
+  {
     "name": "Cemil",
     "gender": "Boy",
-    "meaning": "Beautiful (Turkish form of Jamil)",
+    "meaning": "Beautiful",
     "origin": "Turkish",
+    "id": "ce8",
     "verified": true
   },
   {
-    "id": "ce7",
     "name": "Cemile",
     "gender": "Girl",
-    "meaning": "Beautiful (Turkish form of Jamila)",
+    "meaning": "Beautiful",
     "origin": "Turkish",
+    "id": "ce9",
     "verified": true
   },
   {
-    "id": "ce8",
+    "name": "Cenda",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ce15",
+    "verified": true
+  },
+  {
+    "name": "Cendah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ce15_var",
+    "verified": true,
+    "variant_of": "Cenda"
+  },
+  {
     "name": "Cennet",
     "gender": "Girl",
-    "meaning": "Paradise (Turkish form of Jannah)",
+    "meaning": "Paradise",
     "origin": "Turkish",
+    "id": "ce10",
     "verified": true
+  },
+  {
+    "name": "Ceoota",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Ceuta"
   },
   {
     "name": "Ceuta",
@@ -184,155 +500,342 @@
     "verified": true
   },
   {
-    "id": "ce9",
+    "name": "Ceutah",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Ceuta"
+  },
+  {
     "name": "Cevat",
     "gender": "Boy",
-    "meaning": "Generous (Turkish form of Jawad)",
+    "meaning": "Generous",
     "origin": "Turkish",
+    "id": "ce11",
     "verified": true
   },
   {
-    "id": "ce10",
     "name": "Ceyda",
     "gender": "Girl",
-    "meaning": "Good, helpful (Turkish form of Jayda)",
+    "meaning": "Beautiful woman",
     "origin": "Turkish",
+    "id": "ce2",
     "verified": true
   },
   {
-    "id": "ce11",
+    "name": "Ceydah",
+    "gender": "Girl",
+    "meaning": "Beautiful woman",
+    "origin": "Turkish",
+    "id": "ce2_var",
+    "verified": true,
+    "variant_of": "Ceyda"
+  },
+  {
+    "name": "Ceyhoon",
+    "gender": "Boy",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ce12_var",
+    "verified": true,
+    "variant_of": "Ceyhun"
+  },
+  {
     "name": "Ceyhun",
     "gender": "Boy",
-    "meaning": "River in Paradise (Jayhun)",
+    "meaning": "River",
     "origin": "Turkish",
+    "id": "ce12",
     "verified": true
   },
   {
-    "id": "ce12",
     "name": "Ceylan",
     "gender": "Girl",
     "meaning": "Gazelle",
     "origin": "Turkish",
+    "id": "ce13",
     "verified": true
   },
   {
-    "id": "ce13",
+    "name": "Cezmee",
+    "gender": "Boy",
+    "meaning": "Resolute",
+    "origin": "Turkish",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Cezmi"
+  },
+  {
     "name": "Cezmi",
     "gender": "Boy",
-    "meaning": "Resolute (Turkish form of Jazmi)",
+    "meaning": "Resolute",
     "origin": "Turkish",
+    "id": "ce14",
     "verified": true
   },
   {
-    "id": "ch1",
+    "name": "Chaeereel",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Indonesian",
+    "id": "ch16_var",
+    "verified": true,
+    "variant_of": "Chairil"
+  },
+  {
+    "name": "Chafeea",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3_var",
+    "verified": true,
+    "variant_of": "Chafia"
+  },
+  {
+    "name": "Chafeek",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ch4_var",
+    "verified": true,
+    "variant_of": "Chafik"
+  },
+  {
     "name": "Chafia",
     "gender": "Girl",
-    "meaning": "Healer (Variant of Shafia)",
-    "origin": "Arabic (Maghrebi)",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3",
     "verified": true
   },
   {
-    "id": "ch2",
+    "name": "Chafiah",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3_var",
+    "verified": true,
+    "variant_of": "Chafia"
+  },
+  {
     "name": "Chafik",
     "gender": "Boy",
-    "meaning": "Compassionate (Variant of Shafiq)",
-    "origin": "Arabic (Maghrebi)",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ch4",
     "verified": true
   },
   {
-    "id": "ch3",
+    "name": "Chairil",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Indonesian",
+    "id": "ch16",
+    "verified": true
+  },
+  {
+    "name": "Chakeer",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ch5_var",
+    "verified": true,
+    "variant_of": "Chakir"
+  },
+  {
     "name": "Chakir",
     "gender": "Boy",
-    "meaning": "Thankful (Variant of Shakir)",
-    "origin": "Arabic (Maghrebi)",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ch5",
     "verified": true
   },
   {
-    "id": "ch4",
     "name": "Chaman",
     "gender": "Unisex",
     "meaning": "Garden",
-    "origin": "Persian/Urdu",
+    "origin": "Persian",
+    "id": "ch6",
     "verified": true
   },
   {
-    "id": "ch5",
     "name": "Chamanara",
     "gender": "Girl",
-    "meaning": "Adorning the garden",
+    "meaning": "Adorning",
     "origin": "Persian",
+    "id": "ch7",
     "verified": true
   },
   {
-    "id": "ch6",
+    "name": "Chamanarah",
+    "gender": "Girl",
+    "meaning": "Adorning",
+    "origin": "Persian",
+    "id": "ch7_var",
+    "verified": true,
+    "variant_of": "Chamanara"
+  },
+  {
     "name": "Chand",
     "gender": "Unisex",
     "meaning": "Moon",
-    "origin": "Urdu/Persian",
+    "origin": "Urdu",
+    "id": "ch8",
     "verified": true
   },
   {
-    "id": "ch7",
     "name": "Chanda",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch1",
+    "verified": true
+  },
+  {
+    "name": "Chandah",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch1_var",
+    "verified": true,
+    "variant_of": "Chanda"
+  },
+  {
+    "name": "Chandnee",
     "gender": "Girl",
     "meaning": "Moonlight",
     "origin": "Urdu",
-    "verified": true
+    "id": "ch9_var",
+    "verified": true,
+    "variant_of": "Chandni"
   },
   {
-    "id": "ch8",
     "name": "Chandni",
     "gender": "Girl",
     "meaning": "Moonlight",
     "origin": "Urdu",
+    "id": "ch9",
     "verified": true
   },
   {
-    "id": "ch9",
     "name": "Changez",
     "gender": "Boy",
-    "meaning": "Brave (Variant of Genghis)",
-    "origin": "Mongol/Urdu",
+    "meaning": "Brave",
+    "origin": "Turkish/Urdu",
+    "id": "ch2",
     "verified": true
   },
   {
-    "id": "ch10",
+    "name": "Chaoosikoo",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chausiku"
+  },
+  {
     "name": "Charagh",
     "gender": "Boy",
-    "meaning": "Lamp, light",
+    "meaning": "Lamp",
     "origin": "Persian",
+    "id": "ch10",
     "verified": true
   },
   {
-    "id": "ch11",
+    "name": "Chauseeku",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chausiku"
+  },
+  {
+    "name": "Chausiku",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17",
+    "verified": true
+  },
+  {
+    "name": "Chawdhoory",
+    "gender": "Boy",
+    "meaning": "Land owner",
+    "origin": "Sanskrit",
+    "id": "ch11_var",
+    "verified": true,
+    "variant_of": "Chawdhury"
+  },
+  {
     "name": "Chawdhury",
     "gender": "Boy",
-    "meaning": "Land owner, title",
-    "origin": "Sanskrit/Urdu",
+    "meaning": "Land owner",
+    "origin": "Sanskrit",
+    "id": "ch11",
     "verified": true
   },
   {
-    "id": "ch12",
+    "name": "Cheeragh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch14_var",
+    "verified": true,
+    "variant_of": "Chiragh"
+  },
+  {
+    "name": "Cheesty",
+    "gender": "Boy",
+    "meaning": "Famous Sufi Saint order",
+    "origin": "Persian",
+    "id": "ch16_var",
+    "verified": true,
+    "variant_of": "Chisty"
+  },
+  {
+    "name": "Cheetral",
+    "gender": "Boy",
+    "meaning": "Mountain region in Pakistan",
+    "origin": "Urdu",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chitral"
+  },
+  {
     "name": "Chehra",
     "gender": "Girl",
-    "meaning": "Face, visage",
+    "meaning": "Face",
     "origin": "Persian",
+    "id": "ch12",
     "verified": true
   },
   {
-    "id": "ch13",
+    "name": "Chehrah",
+    "gender": "Girl",
+    "meaning": "Face",
+    "origin": "Persian",
+    "id": "ch12_var",
+    "verified": true,
+    "variant_of": "Chehra"
+  },
+  {
     "name": "Chessy",
     "gender": "Girl",
     "meaning": "Peaceful",
     "origin": "Persian",
+    "id": "ch13",
     "verified": true
   },
   {
-    "id": "ch14",
     "name": "Chiragh",
     "gender": "Boy",
-    "meaning": "Lamp, light",
+    "meaning": "Lamp",
     "origin": "Persian",
+    "id": "ch14",
     "verified": true
   },
   {
@@ -352,43 +855,77 @@
     "verified": true
   },
   {
-    "id": "ch15",
+    "name": "Chooodhry",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Urdu",
+    "id": "ch15_var",
+    "verified": true,
+    "variant_of": "Choudhry"
+  },
+  {
     "name": "Choudhry",
     "gender": "Boy",
-    "meaning": "Community leader",
+    "meaning": "Leader",
     "origin": "Urdu",
+    "id": "ch15",
     "verified": true
   },
   {
-    "id": "ci1",
     "name": "Cihad",
     "gender": "Boy",
-    "meaning": "Struggle, holy war (Turkish form of Jihad)",
+    "meaning": "Struggle",
     "origin": "Turkish",
-    "verified": true
-  },
-  {
-    "id": "ci2",
-    "name": "Cihan",
-    "gender": "Unisex",
-    "meaning": "World, universe (Turkish form of Jahan)",
-    "origin": "Turkish",
-    "verified": true
-  },
-  {
     "id": "ci3",
+    "verified": true
+  },
+  {
+    "name": "Cihan",
+    "gender": "Boy",
+    "meaning": "Universe",
+    "origin": "Turkish",
+    "id": "ci1",
+    "verified": true
+  },
+  {
     "name": "Cihangir",
     "gender": "Boy",
-    "meaning": "Conqueror of the world (Jahangir)",
+    "meaning": "Conqueror",
     "origin": "Turkish",
+    "id": "ci4",
     "verified": true
   },
   {
-    "id": "ci4",
+    "name": "Cinar",
+    "gender": "Boy",
+    "meaning": "Plane Tree",
+    "origin": "Turkish",
+    "id": "ci2",
+    "verified": true
+  },
+  {
+    "name": "Citra",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6",
+    "verified": true
+  },
+  {
+    "name": "Citrah",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6_var",
+    "verified": true,
+    "variant_of": "Citra"
+  },
+  {
     "name": "Civan",
     "gender": "Boy",
-    "meaning": "Young, youth (Jawan)",
+    "meaning": "Young",
     "origin": "Turkish",
+    "id": "ci5",
     "verified": true
   },
   {
@@ -400,6 +937,24 @@
     "verified": true
   },
   {
+    "name": "Cordobah",
+    "gender": "Girl",
+    "meaning": "Qurtuba; Jewel of Andalus",
+    "origin": "Arabic",
+    "id": "co1_var",
+    "verified": true,
+    "variant_of": "Cordoba"
+  },
+  {
+    "name": "Cyproos",
+    "gender": "Girl",
+    "meaning": "Island (Qibris)",
+    "origin": "Greek/Arabic",
+    "id": "cy3_var",
+    "verified": true,
+    "variant_of": "Cyprus"
+  },
+  {
     "name": "Cyprus",
     "gender": "Girl",
     "meaning": "Island (Qibris)",
@@ -408,19 +963,37 @@
     "verified": true
   },
   {
-    "id": "cy2",
     "name": "Cyra",
     "gender": "Girl",
-    "meaning": "Moon-faced, sun",
+    "meaning": "Moon-faced",
     "origin": "Persian",
+    "id": "cy1",
     "verified": true
   },
   {
-    "id": "cy1",
+    "name": "Cyrah",
+    "gender": "Girl",
+    "meaning": "Moon-faced",
+    "origin": "Persian",
+    "id": "cy1_var",
+    "verified": true,
+    "variant_of": "Cyra"
+  },
+  {
+    "name": "Cyroos",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "cy2_var",
+    "verified": true,
+    "variant_of": "Cyrus"
+  },
+  {
     "name": "Cyrus",
     "gender": "Boy",
-    "meaning": "Sun, throne; King Cyrus the Great",
+    "meaning": "Sun",
     "origin": "Persian",
+    "id": "cy2",
     "verified": true
   }
 ]

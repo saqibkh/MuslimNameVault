@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="text-center max-w-3xl mx-auto mb-16 mt-10">
+    <div class="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-emerald-50 text-emerald-800 text-sm font-bold mb-6 border border-emerald-100 shadow-sm animate-fade-in-up">
+        <span class="text-lg">✨</span> Discover 13,000+ Verified Islamic Names
+    </div>
+    
+    <h1 class="text-5xl md:text-7xl font-bold text-slate-900 mb-6 tracking-tight leading-tight font-heading">
+        Find a Name with <br>
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-500">Deep Meaning</span>
+    </h1>
+    
+    <p class="text-xl text-slate-600 leading-relaxed mb-10 max-w-2xl mx-auto">
+        Explore our curated collection of beautiful names from the Quran, Sunnah, and Islamic history, complete with meanings, origins, and pronunciation.
+    </p>
+    
+    <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="/names-a/" class="px-8 py-4 bg-emerald-700 text-white rounded-xl font-bold hover:bg-emerald-800 transition shadow-lg shadow-emerald-700/20 text-lg flex items-center justify-center gap-2">
+            Start Browsing A-Z
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" /></svg>
+        </a>
+        <button onclick="randomName()" class="px-8 py-4 bg-white text-emerald-800 border border-slate-200 rounded-xl font-bold hover:bg-emerald-50 hover:border-emerald-200 transition text-lg flex items-center justify-center gap-2 shadow-sm cursor-pointer">
+            <span>Surprise Me</span> 
+            <span class="text-xl">🎲</span>
+        </button>
+    </div>
+</div>
+
+<div class="max-w-6xl mx-auto bg-white p-8 md:p-12 rounded-3xl shadow-xl shadow-slate-200/50 border border-slate-100">
+    <div class="flex items-center gap-3 mb-8 justify-center md:justify-start">
+        <div class="p-2 bg-emerald-100 rounded-lg text-emerald-700">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+        </div>
+        <h2 class="text-3xl font-bold text-slate-800 font-heading">Browse Dictionary</h2>
+    </div>
+    
+    <div class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-9 gap-3 md:gap-4">
+        {% for letter in alphabet %}
+        <a href="/names-{{ letter|lower }}/" 
+           class="group relative bg-slate-50 hover:bg-emerald-600 hover:text-white transition-all duration-200 transform hover:-translate-y-1 rounded-xl py-4 text-center border border-slate-200 hover:border-emerald-600 shadow-sm hover:shadow-lg">
+            <span class="text-2xl font-bold font-heading block">{{ letter }}</span>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+    function randomName() {
+        const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const randomLetter = letters[Math.floor(Math.random() * letters.length)];
+        window.location.href = `/names-${randomLetter.toLowerCase()}/`;
+    }
+</script>
+{% endblock %}

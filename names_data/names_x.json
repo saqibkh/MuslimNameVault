@@ -1,11 +1,20 @@
 [
   {
-    "id": "xa1",
     "name": "Xasan",
     "gender": "Boy",
-    "meaning": "Handsome, good (Somali form of Hasan)",
+    "meaning": "Handsome",
     "origin": "Somali",
+    "id": "xa1",
     "verified": true
+  },
+  {
+    "name": "Xateeva",
+    "gender": "Girl",
+    "meaning": "Shatiba (Andalus)",
+    "origin": "Arabic",
+    "id": "xa6_var",
+    "verified": true,
+    "variant_of": "Xativa"
   },
   {
     "name": "Xativa",
@@ -16,20 +25,47 @@
     "verified": true
   },
   {
-    "id": "xa2",
-    "name": "Xavier",
-    "gender": "Boy",
-    "meaning": "Bright (Sometimes used in mixed cultures)",
-    "origin": "Mixed",
-    "verified": false
+    "name": "Xativah",
+    "gender": "Girl",
+    "meaning": "Shatiba (Andalus)",
+    "origin": "Arabic",
+    "id": "xa6_var",
+    "verified": true,
+    "variant_of": "Xativa"
   },
   {
-    "id": "xa3",
+    "name": "Xaveeer",
+    "gender": "Boy",
+    "meaning": "Bright",
+    "origin": "Mixed",
+    "id": "xa2_var",
+    "verified": true,
+    "variant_of": "Xavier"
+  },
+  {
+    "name": "Xavier",
+    "gender": "Boy",
+    "meaning": "Bright",
+    "origin": "Mixed",
+    "id": "xa2",
+    "verified": true
+  },
+  {
     "name": "Xawa",
     "gender": "Girl",
-    "meaning": "Eve (Somali form of Hawa)",
+    "meaning": "Eve",
     "origin": "Somali",
+    "id": "xa3",
     "verified": true
+  },
+  {
+    "name": "Xawah",
+    "gender": "Girl",
+    "meaning": "Eve",
+    "origin": "Somali",
+    "id": "xa3_var",
+    "verified": true,
+    "variant_of": "Xawa"
   },
   {
     "id": "xa4",
@@ -40,11 +76,29 @@
     "verified": true
   },
   {
+    "id": "xa5_var",
+    "name": "Xooseen",
+    "gender": "Boy",
+    "meaning": "Little beauty (Somali form of Hussein)",
+    "origin": "Somali",
+    "verified": true,
+    "variant_of": "Xuseen"
+  },
+  {
     "id": "xa5",
     "name": "Xuseen",
     "gender": "Boy",
     "meaning": "Little beauty (Somali form of Hussein)",
     "origin": "Somali",
     "verified": true
+  },
+  {
+    "id": "xa5_var",
+    "name": "Xusin",
+    "gender": "Boy",
+    "meaning": "Little beauty (Somali form of Hussein)",
+    "origin": "Somali",
+    "verified": true,
+    "variant_of": "Xuseen"
   }
 ]

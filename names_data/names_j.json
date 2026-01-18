@@ -1,18 +1,61 @@
 [
   {
-    "id": "ja1",
+    "name": "Jaabeer",
+    "gender": "Boy",
+    "meaning": "Comforter",
+    "origin": "Arabic",
+    "id": "ja32_var",
+    "verified": true,
+    "variant_of": "Jaabir"
+  },
+  {
     "name": "Jaabir",
     "gender": "Boy",
-    "meaning": "Comforter, consoler",
+    "meaning": "Comforter",
     "origin": "Arabic",
+    "id": "ja32",
     "verified": true
   },
   {
-    "id": "ja2",
     "name": "Jaafar",
     "gender": "Boy",
-    "meaning": "Rivulet, stream",
+    "meaning": "Stream",
+    "origin": "Malay",
+    "id": "ja66",
+    "verified": true
+  },
+  {
+    "name": "Jaaheed",
+    "gender": "Boy",
+    "meaning": "Striver",
     "origin": "Arabic",
+    "id": "ja76_var",
+    "verified": true,
+    "variant_of": "Jaahid"
+  },
+  {
+    "name": "Jaahid",
+    "gender": "Boy",
+    "meaning": "Striver",
+    "origin": "Arabic",
+    "id": "ja76",
+    "verified": true
+  },
+  {
+    "name": "Jaamee",
+    "gender": "Boy",
+    "meaning": "Gatherer",
+    "origin": "Arabic",
+    "id": "ja77_var",
+    "verified": true,
+    "variant_of": "Jaami"
+  },
+  {
+    "name": "Jaami",
+    "gender": "Boy",
+    "meaning": "Gatherer",
+    "origin": "Arabic",
+    "id": "ja77",
     "verified": true
   },
   {
@@ -24,11 +67,11 @@
     "verified": true
   },
   {
-    "id": "ja4",
     "name": "Jabalah",
-    "gender": "Girl",
-    "meaning": "Daughter of Musafh; Narrator of Hadith",
+    "gender": "Boy",
+    "meaning": "Mountain",
     "origin": "Arabic",
+    "id": "ja6",
     "verified": true
   },
   {
@@ -40,6 +83,23 @@
     "verified": true
   },
   {
+    "name": "Jabaree",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Swahili",
+    "id": "ja67_var",
+    "verified": true,
+    "variant_of": "Jabari"
+  },
+  {
+    "name": "Jabari",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Swahili",
+    "id": "ja67",
+    "verified": true
+  },
+  {
     "id": "ja5",
     "name": "Jabbar",
     "gender": "Boy",
@@ -48,12 +108,21 @@
     "verified": true
   },
   {
-    "id": "ja6",
     "name": "Jabeen",
     "gender": "Girl",
     "meaning": "Forehead",
     "origin": "Persian",
+    "id": "ja33",
     "verified": true
+  },
+  {
+    "name": "Jabeer",
+    "gender": "Boy",
+    "meaning": "Comforter",
+    "origin": "Arabic",
+    "id": "ja10_var",
+    "verified": true,
+    "variant_of": "Jabir"
   },
   {
     "name": "Jabin",
@@ -64,11 +133,11 @@
     "verified": true
   },
   {
-    "id": "ja7",
     "name": "Jabir",
     "gender": "Boy",
-    "meaning": "Comforter; Great chemist (Jabir ibn Hayyan)",
+    "meaning": "Comforter",
     "origin": "Arabic",
+    "id": "ja10",
     "verified": true
   },
   {
@@ -80,11 +149,11 @@
     "verified": true
   },
   {
-    "id": "ja9",
     "name": "Jad",
     "gender": "Boy",
-    "meaning": "Generosity; Curly hair",
+    "meaning": "Generosity",
     "origin": "Arabic",
+    "id": "ja11",
     "verified": true
   },
   {
@@ -104,36 +173,81 @@
     "verified": true
   },
   {
-    "id": "ja11",
     "name": "Jadeed",
     "gender": "Boy",
-    "meaning": "New, fresh",
+    "meaning": "New",
     "origin": "Arabic",
+    "id": "ja34",
     "verified": true
   },
   {
-    "id": "ja12",
+    "name": "Jadeer",
+    "gender": "Boy",
+    "meaning": "Worthy",
+    "origin": "Arabic",
+    "id": "ja35_var",
+    "verified": true,
+    "variant_of": "Jadir"
+  },
+  {
+    "name": "Jadid",
+    "gender": "Boy",
+    "meaning": "New",
+    "origin": "Arabic",
+    "id": "ja34_var",
+    "verified": true,
+    "variant_of": "Jadeed"
+  },
+  {
     "name": "Jadir",
     "gender": "Boy",
-    "meaning": "Worthy, suitable",
+    "meaning": "Worthy",
     "origin": "Arabic",
+    "id": "ja35",
     "verified": true
   },
   {
-    "id": "ja13",
     "name": "Jadwa",
     "gender": "Girl",
-    "meaning": "Gift, present",
+    "meaning": "Gift",
     "origin": "Arabic",
+    "id": "ja36",
     "verified": true
   },
   {
-    "id": "ja14",
+    "name": "Jadwah",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "ja36_var",
+    "verified": true,
+    "variant_of": "Jadwa"
+  },
+  {
+    "name": "Jaeeyana",
+    "gender": "Girl",
+    "meaning": "Strength",
+    "origin": "Arabic",
+    "id": "ja42_var",
+    "verified": true,
+    "variant_of": "Jaiyana"
+  },
+  {
     "name": "Jafar",
     "gender": "Boy",
-    "meaning": "Stream; Brother of Ali (RA)",
+    "meaning": "Stream",
     "origin": "Arabic",
+    "id": "ja12",
     "verified": true
+  },
+  {
+    "name": "Jafeeya",
+    "gender": "Girl",
+    "meaning": "To ensure peace",
+    "origin": "Arabic",
+    "id": "ja37_var",
+    "verified": true,
+    "variant_of": "Jafiya"
   },
   {
     "name": "Jaffa",
@@ -144,44 +258,115 @@
     "verified": true
   },
   {
-    "id": "ja15",
+    "name": "Jaffah",
+    "gender": "Girl",
+    "meaning": "Yafa (Beauty)",
+    "origin": "Arabic",
+    "id": "ja80_var",
+    "verified": true,
+    "variant_of": "Jaffa"
+  },
+  {
     "name": "Jafiya",
     "gender": "Girl",
     "meaning": "To ensure peace",
     "origin": "Arabic",
+    "id": "ja37",
     "verified": true
   },
   {
-    "id": "ja16",
+    "name": "Jafiyah",
+    "gender": "Girl",
+    "meaning": "To ensure peace",
+    "origin": "Arabic",
+    "id": "ja37_var",
+    "verified": true,
+    "variant_of": "Jafiya"
+  },
+  {
+    "name": "Jah",
+    "gender": "Girl",
+    "meaning": "Dignity",
+    "origin": "African",
+    "id": "ja68",
+    "verified": true
+  },
+  {
     "name": "Jahan",
     "gender": "Unisex",
     "meaning": "World",
     "origin": "Persian",
+    "id": "ja13",
     "verified": true
   },
   {
-    "id": "ja17",
     "name": "Jahanara",
     "gender": "Girl",
     "meaning": "Adorning the world",
     "origin": "Persian",
+    "id": "ja38",
     "verified": true
   },
   {
-    "id": "ja18",
+    "name": "Jahanarah",
+    "gender": "Girl",
+    "meaning": "Adorning the world",
+    "origin": "Persian",
+    "id": "ja38_var",
+    "verified": true,
+    "variant_of": "Jahanara"
+  },
+  {
+    "name": "Jahangeer",
+    "gender": "Boy",
+    "meaning": "Conqueror of the World",
+    "origin": "Persian",
+    "id": "ja14_var",
+    "verified": true,
+    "variant_of": "Jahangir"
+  },
+  {
     "name": "Jahangir",
     "gender": "Boy",
-    "meaning": "Conqueror of the world",
+    "meaning": "Conqueror of the World",
     "origin": "Persian",
+    "id": "ja14",
     "verified": true
   },
   {
-    "id": "ja19",
     "name": "Jahanzeb",
     "gender": "Boy",
     "meaning": "Beautiful",
     "origin": "Persian",
+    "id": "ja15",
     "verified": true
+  },
+  {
+    "id": "ja20_var",
+    "name": "Jaheed",
+    "gender": "Boy",
+    "meaning": "Striver, diligent",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Jahid"
+  },
+  {
+    "name": "Jaheeda",
+    "gender": "Girl",
+    "meaning": "One who strives",
+    "origin": "Arabic",
+    "id": "ja39_var",
+    "verified": true,
+    "variant_of": "Jahida"
+  },
+  {
+    "name": "Jaheez",
+    "gender": "Boy",
+    "meaning": "Ogling",
+    "origin": "Arabic",
+    "id": "ja40_var",
+    "verified": true,
+    "variant_of": "Jahiz"
   },
   {
     "id": "ja20",
@@ -192,27 +377,36 @@
     "verified": true
   },
   {
-    "id": "ja21",
     "name": "Jahida",
     "gender": "Girl",
     "meaning": "One who strives",
     "origin": "Arabic",
+    "id": "ja39",
     "verified": true
   },
   {
-    "id": "ja22",
+    "name": "Jahidah",
+    "gender": "Girl",
+    "meaning": "One who strives",
+    "origin": "Arabic",
+    "id": "ja39_var",
+    "verified": true,
+    "variant_of": "Jahida"
+  },
+  {
     "name": "Jahiz",
     "gender": "Boy",
     "meaning": "Ogling",
     "origin": "Arabic",
+    "id": "ja40",
     "verified": true
   },
   {
-    "id": "ja23",
     "name": "Jahmy",
     "gender": "Boy",
     "meaning": "Sullen",
     "origin": "Arabic",
+    "id": "ja41",
     "verified": true
   },
   {
@@ -224,12 +418,47 @@
     "verified": true
   },
   {
-    "id": "ja24",
+    "name": "Jahrah",
+    "gender": "Girl",
+    "meaning": "City in Kuwait",
+    "origin": "Arabic",
+    "id": "ja81_var",
+    "verified": true,
+    "variant_of": "Jahra"
+  },
+  {
     "name": "Jaiyana",
     "gender": "Girl",
     "meaning": "Strength",
     "origin": "Arabic",
+    "id": "ja42",
     "verified": true
+  },
+  {
+    "name": "Jaiyanah",
+    "gender": "Girl",
+    "meaning": "Strength",
+    "origin": "Arabic",
+    "id": "ja42_var",
+    "verified": true,
+    "variant_of": "Jaiyana"
+  },
+  {
+    "name": "Jaka",
+    "gender": "Boy",
+    "meaning": "Young man",
+    "origin": "Indonesian",
+    "id": "ja69",
+    "verified": true
+  },
+  {
+    "name": "Jakah",
+    "gender": "Boy",
+    "meaning": "Young man",
+    "origin": "Indonesian",
+    "id": "ja69_var",
+    "verified": true,
+    "variant_of": "Jaka"
   },
   {
     "name": "Jakarta",
@@ -240,20 +469,38 @@
     "verified": true
   },
   {
-    "id": "ja25",
+    "name": "Jakartah",
+    "gender": "Boy",
+    "meaning": "Capital of Indonesia",
+    "origin": "Indonesian",
+    "id": "ja82_var",
+    "verified": true,
+    "variant_of": "Jakarta"
+  },
+  {
     "name": "Jal",
     "gender": "Boy",
-    "meaning": "Resolution, resolution",
+    "meaning": "Resolution",
     "origin": "Arabic",
+    "id": "ja43",
     "verified": true
   },
   {
-    "id": "ja26",
     "name": "Jalal",
     "gender": "Boy",
-    "meaning": "Glory, majesty",
-    "origin": "Arabic",
+    "meaning": "Greatness",
+    "origin": "Urdu",
+    "id": "ja70",
     "verified": true
+  },
+  {
+    "name": "Jalal-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Majesty of the Faith (Rumi)",
+    "origin": "Arabic",
+    "id": "ja76_var",
+    "verified": true,
+    "variant_of": "Jalal-Ud-Din"
   },
   {
     "name": "Jalal-Ud-Din",
@@ -272,6 +519,24 @@
     "verified": true
   },
   {
+    "id": "ja27_var",
+    "name": "Jalalooddin",
+    "gender": "Boy",
+    "meaning": "Glory of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Jalaluddin"
+  },
+  {
+    "id": "ja27_var",
+    "name": "Jalaluddeen",
+    "gender": "Boy",
+    "meaning": "Glory of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Jalaluddin"
+  },
+  {
     "id": "ja27",
     "name": "Jalaluddin",
     "gender": "Boy",
@@ -280,52 +545,121 @@
     "verified": true
   },
   {
-    "id": "ja28",
+    "name": "Jale",
+    "gender": "Girl",
+    "meaning": "Dew",
+    "origin": "Turkish/Persian",
+    "id": "ja2",
+    "verified": true
+  },
+  {
     "name": "Jaleel",
     "gender": "Boy",
-    "meaning": "Great, revered",
-    "origin": "Quranic",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ja16",
     "verified": true
   },
   {
-    "id": "ja29",
     "name": "Jaleela",
     "gender": "Girl",
-    "meaning": "Great, exalted",
+    "meaning": "Great",
     "origin": "Arabic",
+    "id": "ja44",
     "verified": true
   },
   {
-    "id": "ja30",
+    "name": "Jaleelah",
+    "gender": "Girl",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ja44_var",
+    "verified": true,
+    "variant_of": "Jaleela"
+  },
+  {
     "name": "Jalees",
     "gender": "Boy",
     "meaning": "Companion",
     "origin": "Arabic",
+    "id": "ja45",
     "verified": true
   },
   {
-    "id": "ja31",
+    "name": "Jaleh",
+    "gender": "Girl",
+    "meaning": "Dew",
+    "origin": "Persian",
+    "id": "ja1",
+    "verified": true
+  },
+  {
     "name": "Jalil",
     "gender": "Boy",
-    "meaning": "Great, exalted",
-    "origin": "Quranic",
+    "meaning": "Great",
+    "origin": "Arabic",
+    "id": "ja17",
     "verified": true
   },
   {
-    "id": "ja32",
     "name": "Jalila",
     "gender": "Girl",
-    "meaning": "Great, exalted",
+    "meaning": "Exalted",
     "origin": "Arabic",
+    "id": "ja46",
     "verified": true
   },
   {
-    "id": "ja33",
+    "name": "Jalilah",
+    "gender": "Girl",
+    "meaning": "Exalted",
+    "origin": "Arabic",
+    "id": "ja46_var",
+    "verified": true,
+    "variant_of": "Jalila"
+  },
+  {
+    "name": "Jalis",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Arabic",
+    "id": "ja45_var",
+    "verified": true,
+    "variant_of": "Jalees"
+  },
+  {
+    "name": "Jama",
+    "gender": "Boy",
+    "meaning": "Crowd",
+    "origin": "Somali",
+    "id": "ja71",
+    "verified": true
+  },
+  {
+    "name": "Jamah",
+    "gender": "Boy",
+    "meaning": "Crowd",
+    "origin": "Somali",
+    "id": "ja71_var",
+    "verified": true,
+    "variant_of": "Jama"
+  },
+  {
     "name": "Jamal",
     "gender": "Boy",
     "meaning": "Beauty",
     "origin": "Arabic",
+    "id": "ja18",
     "verified": true
+  },
+  {
+    "name": "Jamal-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Beauty of the Faith",
+    "origin": "Arabic",
+    "id": "ja77_var",
+    "verified": true,
+    "variant_of": "Jamal-Ud-Din"
   },
   {
     "name": "Jamal-Ud-Din",
@@ -336,27 +670,54 @@
     "verified": true
   },
   {
-    "id": "ja34",
     "name": "Jamala",
     "gender": "Girl",
     "meaning": "Beauty",
     "origin": "Arabic",
+    "id": "ja47",
     "verified": true
   },
   {
-    "id": "ja35",
+    "name": "Jamalah",
+    "gender": "Girl",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "ja47_var",
+    "verified": true,
+    "variant_of": "Jamala"
+  },
+  {
+    "name": "Jamalooddin",
+    "gender": "Boy",
+    "meaning": "Beauty of the Faith",
+    "origin": "Arabic",
+    "id": "ja48_var",
+    "verified": true,
+    "variant_of": "Jamaluddin"
+  },
+  {
+    "name": "Jamaluddeen",
+    "gender": "Boy",
+    "meaning": "Beauty of the Faith",
+    "origin": "Arabic",
+    "id": "ja48_var",
+    "verified": true,
+    "variant_of": "Jamaluddin"
+  },
+  {
     "name": "Jamaluddin",
     "gender": "Boy",
     "meaning": "Beauty of the Faith",
     "origin": "Arabic",
+    "id": "ja48",
     "verified": true
   },
   {
-    "id": "ja36",
     "name": "Jameel",
     "gender": "Boy",
     "meaning": "Beautiful",
     "origin": "Arabic",
+    "id": "ja49",
     "verified": true
   },
   {
@@ -368,35 +729,61 @@
     "verified": true
   },
   {
-    "id": "ja38",
+    "name": "Jameelah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Malay",
+    "id": "ja72_var",
+    "verified": true,
+    "variant_of": "Jamilah"
+  },
+  {
     "name": "Jamesha",
     "gender": "Girl",
     "meaning": "Beautiful leader",
     "origin": "Arabic",
+    "id": "ja50",
     "verified": true
   },
   {
-    "id": "ja39",
+    "name": "Jameshah",
+    "gender": "Girl",
+    "meaning": "Beautiful leader",
+    "origin": "Arabic",
+    "id": "ja50_var",
+    "verified": true,
+    "variant_of": "Jamesha"
+  },
+  {
     "name": "Jamil",
     "gender": "Boy",
-    "meaning": "Handsome",
+    "meaning": "Beautiful",
     "origin": "Arabic",
+    "id": "ja7",
     "verified": true
   },
   {
-    "id": "ja40",
     "name": "Jamila",
     "gender": "Girl",
     "meaning": "Beautiful",
     "origin": "Arabic",
+    "id": "ja19",
     "verified": true
   },
   {
-    "id": "ja41",
+    "name": "Jamilah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Malay",
+    "id": "ja72",
+    "verified": true
+  },
+  {
     "name": "Jamshed",
     "gender": "Boy",
-    "meaning": "The sun king",
+    "meaning": "Shining river",
     "origin": "Persian",
+    "id": "ja3",
     "verified": true
   },
   {
@@ -408,35 +795,52 @@
     "verified": true
   },
   {
-    "id": "ja42",
     "name": "Jana",
     "gender": "Girl",
-    "meaning": "Harvest, fruit",
-    "origin": "Quranic",
+    "meaning": "Harvest",
+    "origin": "Arabic",
+    "id": "ja20",
     "verified": true
   },
   {
-    "id": "ja43",
+    "name": "Janah",
+    "gender": "Girl",
+    "meaning": "Harvest",
+    "origin": "Arabic",
+    "id": "ja20_var",
+    "verified": true,
+    "variant_of": "Jana"
+  },
+  {
     "name": "Janan",
     "gender": "Unisex",
-    "meaning": "Heart, soul",
+    "meaning": "Heart; Soul",
     "origin": "Arabic",
+    "id": "ja8",
     "verified": true
   },
   {
-    "id": "ja44",
     "name": "Janna",
     "gender": "Girl",
-    "meaning": "Garden, paradise",
+    "meaning": "Paradise",
     "origin": "Quranic",
+    "id": "ja51",
     "verified": true
   },
   {
-    "id": "ja45",
     "name": "Jannah",
     "gender": "Girl",
-    "meaning": "Garden, paradise",
-    "origin": "Quranic",
+    "meaning": "Paradise",
+    "origin": "Indonesian",
+    "id": "ja73",
+    "verified": true
+  },
+  {
+    "name": "Jannan",
+    "gender": "Boy",
+    "meaning": "Heart; Soul",
+    "origin": "Arabic",
+    "id": "ja4",
     "verified": true
   },
   {
@@ -448,6 +852,15 @@
     "verified": true
   },
   {
+    "name": "Jaoohar",
+    "gender": "Boy",
+    "meaning": "Gem; Essence",
+    "origin": "Arabic",
+    "id": "ja5_var",
+    "verified": true,
+    "variant_of": "Jauhar"
+  },
+  {
     "name": "Jarash",
     "gender": "Boy",
     "meaning": "Ancient city in Jordan",
@@ -456,27 +869,72 @@
     "verified": true
   },
   {
-    "id": "ja46",
+    "name": "Jaree",
+    "gender": "Boy",
+    "meaning": "Bold",
+    "origin": "Arabic",
+    "id": "ja52_var",
+    "verified": true,
+    "variant_of": "Jari"
+  },
+  {
+    "name": "Jareeah",
+    "gender": "Girl",
+    "meaning": "Family",
+    "origin": "Arabic",
+    "id": "ja53_var",
+    "verified": true,
+    "variant_of": "Jariah"
+  },
+  {
+    "name": "Jareer",
+    "gender": "Boy",
+    "meaning": "Bedouin",
+    "origin": "Arabic",
+    "id": "ja9_var",
+    "verified": true,
+    "variant_of": "Jarir"
+  },
+  {
+    "name": "Jareeya",
+    "gender": "Girl",
+    "meaning": "Maid",
+    "origin": "Arabic",
+    "id": "ja21_var",
+    "verified": true,
+    "variant_of": "Jariya"
+  },
+  {
+    "name": "Jareeyah",
+    "gender": "Boy",
+    "meaning": "Ship",
+    "origin": "Arabic",
+    "id": "ja54_var",
+    "verified": true,
+    "variant_of": "Jariyah"
+  },
+  {
     "name": "Jari",
     "gender": "Boy",
-    "meaning": "Bold, brave",
+    "meaning": "Bold",
     "origin": "Arabic",
+    "id": "ja52",
     "verified": true
   },
   {
-    "id": "ja47",
     "name": "Jariah",
     "gender": "Girl",
-    "meaning": "Family, kin",
+    "meaning": "Family",
     "origin": "Arabic",
+    "id": "ja53",
     "verified": true
   },
   {
-    "id": "ja48",
     "name": "Jarir",
     "gender": "Boy",
-    "meaning": "One who pulls; A famous poet",
+    "meaning": "Bedouin",
     "origin": "Arabic",
+    "id": "ja9",
     "verified": true
   },
   {
@@ -484,23 +942,23 @@
     "gender": "Girl",
     "meaning": "Maid",
     "origin": "Arabic",
-    "id": "ja88",
+    "id": "ja21",
     "verified": true
   },
   {
-    "id": "ja49",
     "name": "Jariyah",
     "gender": "Boy",
     "meaning": "Ship",
     "origin": "Arabic",
+    "id": "ja54",
     "verified": true
   },
   {
-    "id": "ja50",
     "name": "Jarood",
     "gender": "Boy",
-    "meaning": "Name of a companion",
+    "meaning": "Name of a Companion",
     "origin": "Arabic",
+    "id": "ja55",
     "verified": true
   },
   {
@@ -512,35 +970,89 @@
     "verified": true
   },
   {
-    "id": "ja51",
+    "name": "Jarud",
+    "gender": "Boy",
+    "meaning": "Name of a Companion",
+    "origin": "Arabic",
+    "id": "ja55_var",
+    "verified": true,
+    "variant_of": "Jarood"
+  },
+  {
+    "name": "Jaseem",
+    "gender": "Boy",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "ja22_var",
+    "verified": true,
+    "variant_of": "Jasim"
+  },
+  {
     "name": "Jasim",
     "gender": "Boy",
-    "meaning": "Strong, powerful",
+    "meaning": "Strong",
     "origin": "Arabic",
+    "id": "ja22",
     "verified": true
   },
   {
-    "id": "ja52",
+    "name": "Jasmeen",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "id": "ja56_var",
+    "verified": true,
+    "variant_of": "Jasmin"
+  },
+  {
+    "name": "Jasmeena",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "ja57_var",
+    "verified": true,
+    "variant_of": "Jasmina"
+  },
+  {
     "name": "Jasmin",
     "gender": "Girl",
-    "meaning": "Jasmine flower",
+    "meaning": "Jasmine",
     "origin": "Persian",
+    "id": "ja56",
     "verified": true
   },
   {
-    "id": "ja53",
     "name": "Jasmina",
     "gender": "Girl",
     "meaning": "Flower",
     "origin": "Persian",
+    "id": "ja57",
     "verified": true
   },
   {
-    "id": "ja54",
+    "name": "Jasminah",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "ja57_var",
+    "verified": true,
+    "variant_of": "Jasmina"
+  },
+  {
+    "name": "Jasoor",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ja24_var",
+    "verified": true,
+    "variant_of": "Jasur"
+  },
+  {
     "name": "Jasser",
     "gender": "Boy",
     "meaning": "Fearless",
     "origin": "Arabic",
+    "id": "ja23",
     "verified": true
   },
   {
@@ -548,64 +1060,117 @@
     "gender": "Boy",
     "meaning": "Brave",
     "origin": "Arabic",
-    "id": "ja89",
+    "id": "ja24",
     "verified": true
   },
   {
-    "id": "ja55",
     "name": "Jauhar",
-    "gender": "Unisex",
-    "meaning": "Gem, jewel",
+    "gender": "Boy",
+    "meaning": "Gem; Essence",
     "origin": "Arabic",
+    "id": "ja5",
     "verified": true
   },
   {
-    "id": "ja56",
     "name": "Javad",
     "gender": "Boy",
-    "meaning": "Generous, liberal",
+    "meaning": "Generous",
     "origin": "Persian",
+    "id": "ja58",
     "verified": true
   },
   {
-    "id": "ja57",
+    "name": "Javaeed",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Persian",
+    "id": "ja59_var",
+    "verified": true,
+    "variant_of": "Javaid"
+  },
+  {
     "name": "Javaid",
     "gender": "Boy",
     "meaning": "Eternal",
     "origin": "Persian",
+    "id": "ja59",
     "verified": true
   },
   {
-    "id": "ja58",
     "name": "Javed",
     "gender": "Boy",
     "meaning": "Eternal",
     "origin": "Persian",
+    "id": "ja25",
     "verified": true
   },
   {
-    "id": "ja59",
+    "name": "Javereea",
+    "gender": "Girl",
+    "meaning": "Name of Wife of Prophet",
+    "origin": "Arabic",
+    "id": "ja60_var",
+    "verified": true,
+    "variant_of": "Javeria"
+  },
+  {
     "name": "Javeria",
     "gender": "Girl",
-    "meaning": "Name of Prophet's wife (Juwayriya)",
+    "meaning": "Name of Wife of Prophet",
     "origin": "Arabic",
+    "id": "ja60",
     "verified": true
   },
   {
-    "id": "ja60",
+    "name": "Javeriah",
+    "gender": "Girl",
+    "meaning": "Name of Wife of Prophet",
+    "origin": "Arabic",
+    "id": "ja60_var",
+    "verified": true,
+    "variant_of": "Javeria"
+  },
+  {
     "name": "Jawad",
     "gender": "Boy",
-    "meaning": "Generous, liberal",
+    "meaning": "Generous",
     "origin": "Arabic",
+    "id": "ja26",
     "verified": true
   },
   {
-    "id": "ja61",
+    "name": "Jawaheer",
+    "gender": "Girl",
+    "meaning": "Jewels",
+    "origin": "Arabic",
+    "id": "ja27_var",
+    "verified": true,
+    "variant_of": "Jawahir"
+  },
+  {
+    "name": "Jawaher",
+    "gender": "Girl",
+    "meaning": "Jewels",
+    "origin": "Arabic",
+    "id": "ja74",
+    "verified": true
+  },
+  {
     "name": "Jawahir",
     "gender": "Girl",
     "meaning": "Jewels",
     "origin": "Arabic",
+    "id": "ja27",
     "verified": true
+  },
+  {
+    "name": "Jawareea",
+    "gender": "Girl",
+    "meaning": "Bringer of happiness",
+    "origin": "Arabic",
+    "id": "ja87_var",
+    "verified": true,
+    "variant_of": "Jawaria"
   },
   {
     "name": "Jawaria",
@@ -616,19 +1181,28 @@
     "verified": true
   },
   {
-    "id": "ja62",
+    "name": "Jawariah",
+    "gender": "Girl",
+    "meaning": "Bringer of happiness",
+    "origin": "Arabic",
+    "id": "ja87_var",
+    "verified": true,
+    "variant_of": "Jawaria"
+  },
+  {
     "name": "Jawdan",
     "gender": "Boy",
     "meaning": "Goodness",
     "origin": "Arabic",
+    "id": "ja61",
     "verified": true
   },
   {
-    "id": "ja63",
     "name": "Jawdat",
     "gender": "Boy",
-    "meaning": "Excellence",
+    "meaning": "Goodness",
     "origin": "Arabic",
+    "id": "ja28",
     "verified": true
   },
   {
@@ -640,28 +1214,63 @@
     "verified": true
   },
   {
-    "id": "ja64",
     "name": "Jawhar",
     "gender": "Boy",
-    "meaning": "Jewel, essence",
+    "meaning": "Jewel",
     "origin": "Arabic",
+    "id": "ja29",
     "verified": true
   },
   {
-    "id": "ja65",
     "name": "Jawhara",
     "gender": "Girl",
-    "meaning": "Jewel, gem",
+    "meaning": "Jewel",
     "origin": "Arabic",
+    "id": "ja62",
     "verified": true
   },
   {
-    "id": "ja66",
+    "name": "Jawharah",
+    "gender": "Girl",
+    "meaning": "Jewel",
+    "origin": "Arabic",
+    "id": "ja62_var",
+    "verified": true,
+    "variant_of": "Jawhara"
+  },
+  {
     "name": "Jawza",
     "gender": "Girl",
     "meaning": "Gemini",
     "origin": "Arabic",
+    "id": "ja63",
     "verified": true
+  },
+  {
+    "name": "Jawzah",
+    "gender": "Girl",
+    "meaning": "Gemini",
+    "origin": "Arabic",
+    "id": "ja63_var",
+    "verified": true,
+    "variant_of": "Jawza"
+  },
+  {
+    "name": "Jaya",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Indonesian",
+    "id": "ja75",
+    "verified": true
+  },
+  {
+    "name": "Jayah",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Indonesian",
+    "id": "ja75_var",
+    "verified": true,
+    "variant_of": "Jaya"
   },
   {
     "name": "Jayhan",
@@ -672,28 +1281,82 @@
     "verified": true
   },
   {
-    "id": "ja67",
     "name": "Jaza",
     "gender": "Unisex",
     "meaning": "Reward",
     "origin": "Arabic",
+    "id": "ja30",
     "verified": true
   },
   {
-    "id": "ja68",
+    "name": "Jazah",
+    "gender": "Unisex",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "ja30_var",
+    "verified": true,
+    "variant_of": "Jaza"
+  },
+  {
+    "name": "Jazeeb",
+    "gender": "Boy",
+    "meaning": "Attractive",
+    "origin": "Arabic",
+    "id": "ja31_var",
+    "verified": true,
+    "variant_of": "Jazib"
+  },
+  {
+    "name": "Jazeeba",
+    "gender": "Girl",
+    "meaning": "Attractive",
+    "origin": "Arabic",
+    "id": "ja64_var",
+    "verified": true,
+    "variant_of": "Jaziba"
+  },
+  {
+    "name": "Jazeera",
+    "gender": "Girl",
+    "meaning": "Island",
+    "origin": "Arabic",
+    "id": "ja72_var",
+    "verified": true,
+    "variant_of": "Jazira"
+  },
+  {
+    "name": "Jazeeya",
+    "gender": "Girl",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "ja65_var",
+    "verified": true,
+    "variant_of": "Jaziya"
+  },
+  {
     "name": "Jazib",
     "gender": "Boy",
-    "meaning": "Attractive, handsome",
+    "meaning": "Attractive",
     "origin": "Arabic",
+    "id": "ja31",
     "verified": true
   },
   {
-    "id": "ja69",
     "name": "Jaziba",
     "gender": "Girl",
     "meaning": "Attractive",
     "origin": "Arabic",
+    "id": "ja64",
     "verified": true
+  },
+  {
+    "name": "Jazibah",
+    "gender": "Girl",
+    "meaning": "Attractive",
+    "origin": "Arabic",
+    "id": "ja64_var",
+    "verified": true,
+    "variant_of": "Jaziba"
   },
   {
     "name": "Jazira",
@@ -704,12 +1367,30 @@
     "verified": true
   },
   {
-    "id": "ja70",
+    "name": "Jazirah",
+    "gender": "Girl",
+    "meaning": "Island",
+    "origin": "Arabic",
+    "id": "ja72_var",
+    "verified": true,
+    "variant_of": "Jazira"
+  },
+  {
     "name": "Jaziya",
     "gender": "Girl",
     "meaning": "Reward",
     "origin": "Arabic",
+    "id": "ja65",
     "verified": true
+  },
+  {
+    "name": "Jaziyah",
+    "gender": "Girl",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "ja65_var",
+    "verified": true,
+    "variant_of": "Jaziya"
   },
   {
     "name": "Jeddah",
@@ -720,44 +1401,222 @@
     "verified": true
   },
   {
-    "id": "je1",
+    "name": "Jeebal",
+    "gender": "Boy",
+    "meaning": "Mountains (Region in Iran)",
+    "origin": "Arabic",
+    "id": "ji11_var",
+    "verified": true,
+    "variant_of": "Jibal"
+  },
+  {
+    "name": "Jeebran",
+    "gender": "Boy",
+    "meaning": "Reward",
+    "origin": "Arabic",
+    "id": "ji2_var",
+    "verified": true,
+    "variant_of": "Jibran"
+  },
+  {
+    "name": "Jeebreel",
+    "gender": "Boy",
+    "meaning": "Archangel",
+    "origin": "Arabic",
+    "id": "ji3_var",
+    "verified": true,
+    "variant_of": "Jibril"
+  },
+  {
+    "name": "Jeegar",
+    "gender": "Boy",
+    "meaning": "Heart (Liver)",
+    "origin": "Urdu",
+    "id": "ji10_var",
+    "verified": true,
+    "variant_of": "Jigar"
+  },
+  {
+    "name": "Jeehad",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Arabic",
+    "id": "ji4_var",
+    "verified": true,
+    "variant_of": "Jihad"
+  },
+  {
+    "name": "Jeehan",
+    "gender": "Girl",
+    "meaning": "World; Universe",
+    "origin": "Arabic",
+    "id": "ji1_var",
+    "verified": true,
+    "variant_of": "Jihan"
+  },
+  {
     "name": "Jeelan",
     "gender": "Boy",
-    "meaning": "It is a city in Iran",
+    "meaning": "City in Iran",
     "origin": "Persian",
+    "id": "je2",
     "verified": true
   },
   {
-    "id": "je2",
+    "name": "Jeenan",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ji5_var",
+    "verified": true,
+    "variant_of": "Jinan"
+  },
+  {
+    "name": "Jeenda",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "id": "ji9_var",
+    "verified": true,
+    "variant_of": "Jinda"
+  },
+  {
+    "name": "Jeeyad",
+    "gender": "Boy",
+    "meaning": "Good",
+    "origin": "Arabic",
+    "id": "ji6_var",
+    "verified": true,
+    "variant_of": "Jiyad"
+  },
+  {
+    "name": "Jeeyan",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "id": "ji10_var",
+    "verified": true,
+    "variant_of": "Jiyan"
+  },
+  {
+    "name": "Jeezah",
+    "gender": "Girl",
+    "meaning": "Valley; Side",
+    "origin": "Arabic",
+    "id": "ji9_var",
+    "verified": true,
+    "variant_of": "Jizah"
+  },
+  {
+    "name": "Jeezan",
+    "gender": "Boy",
+    "meaning": "City in Saudi Arabia",
+    "origin": "Arabic",
+    "id": "ji12_var",
+    "verified": true,
+    "variant_of": "Jizan"
+  },
+  {
+    "name": "Jefree",
+    "gender": "Boy",
+    "meaning": "Peace",
+    "origin": "Malay",
+    "id": "je9_var",
+    "verified": true,
+    "variant_of": "Jefri"
+  },
+  {
+    "name": "Jefri",
+    "gender": "Boy",
+    "meaning": "Peace",
+    "origin": "Malay",
+    "id": "je9",
+    "verified": true
+  },
+  {
     "name": "Jehan",
     "gender": "Unisex",
-    "meaning": "World (Variant of Jahan)",
+    "meaning": "World",
     "origin": "Persian",
+    "id": "je3",
     "verified": true
+  },
+  {
+    "name": "Jehangeer",
+    "gender": "Boy",
+    "meaning": "King of the World",
+    "origin": "Persian",
+    "id": "je1_var",
+    "verified": true,
+    "variant_of": "Jehangir"
   },
   {
     "name": "Jehangir",
     "gender": "Boy",
     "meaning": "King of the World",
     "origin": "Persian",
-    "id": "je11",
+    "id": "je1",
     "verified": true
   },
   {
-    "id": "je3",
+    "name": "Jelanee",
+    "gender": "Boy",
+    "meaning": "Mighty",
+    "origin": "Swahili",
+    "id": "je10_var",
+    "verified": true,
+    "variant_of": "Jelani"
+  },
+  {
+    "name": "Jelani",
+    "gender": "Boy",
+    "meaning": "Mighty",
+    "origin": "Swahili",
+    "id": "je10",
+    "verified": true
+  },
+  {
+    "name": "Jemeel",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "je4_var",
+    "verified": true,
+    "variant_of": "Jemil"
+  },
+  {
     "name": "Jemil",
     "gender": "Boy",
-    "meaning": "Beautiful (Variant of Jamil)",
+    "meaning": "Beautiful",
     "origin": "Arabic",
+    "id": "je4",
     "verified": true
   },
   {
-    "id": "je4",
     "name": "Jena",
     "gender": "Girl",
-    "meaning": "Paradise (Variant of Janna)",
+    "meaning": "Paradise",
     "origin": "Arabic",
+    "id": "je5",
     "verified": true
+  },
+  {
+    "name": "Jenah",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Arabic",
+    "id": "je5_var",
+    "verified": true,
+    "variant_of": "Jena"
+  },
+  {
+    "name": "Jeneen",
+    "gender": "Girl",
+    "meaning": "Garden; Historic city in Palestine",
+    "origin": "Arabic",
+    "id": "je8_var",
+    "verified": true,
+    "variant_of": "Jenin"
   },
   {
     "name": "Jenin",
@@ -768,20 +1627,29 @@
     "verified": true
   },
   {
-    "id": "je5",
     "name": "Jenna",
     "gender": "Girl",
-    "meaning": "Heaven, paradise",
+    "meaning": "Heaven",
     "origin": "Arabic",
+    "id": "je6",
     "verified": true
   },
   {
-    "id": "je6",
     "name": "Jennah",
     "gender": "Girl",
     "meaning": "Paradise",
     "origin": "Arabic",
+    "id": "je7",
     "verified": true
+  },
+  {
+    "name": "Jereecho",
+    "gender": "Girl",
+    "meaning": "Ariha (Fragrant City)",
+    "origin": "Arabic",
+    "id": "je10_var",
+    "verified": true,
+    "variant_of": "Jericho"
   },
   {
     "name": "Jericho",
@@ -792,12 +1660,30 @@
     "verified": true
   },
   {
-    "id": "je7",
+    "name": "Jesseneea",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "je8_var",
+    "verified": true,
+    "variant_of": "Jessenia"
+  },
+  {
     "name": "Jessenia",
     "gender": "Girl",
     "meaning": "Flower",
     "origin": "Persian",
+    "id": "je8",
     "verified": true
+  },
+  {
+    "name": "Jesseniah",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "je8_var",
+    "verified": true,
+    "variant_of": "Jessenia"
   },
   {
     "name": "Jibal",
@@ -808,27 +1694,27 @@
     "verified": true
   },
   {
-    "id": "ji1",
     "name": "Jibran",
     "gender": "Boy",
-    "meaning": "Reward, result; Khalil Gibran",
+    "meaning": "Reward",
     "origin": "Arabic",
+    "id": "ji2",
     "verified": true
   },
   {
-    "id": "ji2",
     "name": "Jibreel",
     "gender": "Boy",
-    "meaning": "Archangel Gabriel",
+    "meaning": "Angel Gabriel",
     "origin": "Quranic",
+    "id": "ji7",
     "verified": true
   },
   {
-    "id": "ji3",
     "name": "Jibril",
     "gender": "Boy",
-    "meaning": "Archangel Gabriel",
-    "origin": "Quranic",
+    "meaning": "Archangel",
+    "origin": "Arabic",
+    "id": "ji3",
     "verified": true
   },
   {
@@ -840,51 +1726,68 @@
     "verified": true
   },
   {
-    "id": "ji4",
     "name": "Jihad",
     "gender": "Boy",
-    "meaning": "Struggle, effort",
-    "origin": "Quranic",
+    "meaning": "Struggle",
+    "origin": "Arabic",
+    "id": "ji4",
     "verified": true
   },
   {
-    "id": "ji5",
+    "name": "Jihan",
+    "gender": "Girl",
+    "meaning": "World; Universe",
+    "origin": "Arabic",
+    "id": "ji1",
+    "verified": true
+  },
+  {
     "name": "Jilan",
     "gender": "Boy",
     "meaning": "Courtier",
     "origin": "Arabic",
+    "id": "ji8",
     "verified": true
   },
   {
-    "id": "ji6",
     "name": "Jinan",
     "gender": "Girl",
-    "meaning": "Gardens, paradise",
+    "meaning": "Gardens",
     "origin": "Arabic",
+    "id": "ji5",
     "verified": true
   },
   {
-    "id": "ji7",
     "name": "Jinda",
     "gender": "Unisex",
-    "meaning": "Life, alive",
+    "meaning": "Life",
     "origin": "Kurdish",
+    "id": "ji9",
     "verified": true
+  },
+  {
+    "name": "Jindah",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "id": "ji9_var",
+    "verified": true,
+    "variant_of": "Jinda"
   },
   {
     "name": "Jiyad",
     "gender": "Boy",
     "meaning": "Good",
     "origin": "Arabic",
-    "id": "ji13",
+    "id": "ji6",
     "verified": true
   },
   {
-    "id": "ji8",
     "name": "Jiyan",
     "gender": "Unisex",
     "meaning": "Life",
     "origin": "Kurdish",
+    "id": "ji10",
     "verified": true
   },
   {
@@ -904,20 +1807,261 @@
     "verified": true
   },
   {
-    "id": "jo1",
-    "name": "Johara",
-    "gender": "Girl",
-    "meaning": "Jewel (Variant of Jawhara)",
-    "origin": "Arabic",
+    "name": "Johan",
+    "gender": "Boy",
+    "meaning": "Champion",
+    "origin": "Malay",
+    "id": "jo6",
     "verified": true
   },
   {
+    "name": "Johara",
+    "gender": "Girl",
+    "meaning": "Jewel",
+    "origin": "Arabic",
     "id": "jo2",
+    "verified": true
+  },
+  {
+    "name": "Joharah",
+    "gender": "Girl",
+    "meaning": "Jewel",
+    "origin": "Arabic",
+    "id": "jo2_var",
+    "verified": true,
+    "variant_of": "Johara"
+  },
+  {
+    "name": "Joko",
+    "gender": "Boy",
+    "meaning": "Young man",
+    "origin": "Indonesian",
+    "id": "jo7",
+    "verified": true
+  },
+  {
+    "name": "Joobail",
+    "gender": "Boy",
+    "meaning": "Small mountain; City in KSA",
+    "origin": "Arabic",
+    "id": "ju15_var",
+    "verified": true,
+    "variant_of": "Jubail"
+  },
+  {
+    "name": "Joobair",
+    "gender": "Boy",
+    "meaning": "One who helps",
+    "origin": "Arabic",
+    "id": "ju3_var",
+    "verified": true,
+    "variant_of": "Jubair"
+  },
+  {
     "name": "Jood",
     "gender": "Girl",
     "meaning": "Generosity",
     "origin": "Arabic",
+    "id": "jo3",
     "verified": true
+  },
+  {
+    "id": "ju3_var",
+    "name": "Joodi",
+    "gender": "Girl",
+    "meaning": "Mount Judi (where Noah's Ark rested)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Judi"
+  },
+  {
+    "name": "Joohayman",
+    "gender": "Boy",
+    "meaning": "Sullen",
+    "origin": "Arabic",
+    "id": "ju1_var",
+    "verified": true,
+    "variant_of": "Juhayman"
+  },
+  {
+    "id": "ju4_var",
+    "name": "Joohayna",
+    "gender": "Girl",
+    "meaning": "Darkness at end of night; Arab tribe",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Juhayna"
+  },
+  {
+    "name": "Jooma",
+    "gender": "Boy",
+    "meaning": "Friday",
+    "origin": "Arabic",
+    "id": "ju9_var",
+    "verified": true,
+    "variant_of": "Juma"
+  },
+  {
+    "name": "Jooman",
+    "gender": "Unisex",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "ju8_var",
+    "verified": true,
+    "variant_of": "Juman"
+  },
+  {
+    "id": "jo7_var",
+    "name": "Joomana",
+    "gender": "Girl",
+    "meaning": "Silver pearl",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Jumana"
+  },
+  {
+    "name": "Joomanah",
+    "gender": "Girl",
+    "meaning": "Silver Pearl",
+    "origin": "Arabic",
+    "id": "ju5_var",
+    "verified": true,
+    "variant_of": "Jumanah"
+  },
+  {
+    "name": "Joomoke",
+    "gender": "Girl",
+    "meaning": "Everyone loves the child",
+    "origin": "African (Yoruba)",
+    "id": "ju13_var",
+    "verified": true,
+    "variant_of": "Jumoke"
+  },
+  {
+    "name": "Joonaid",
+    "gender": "Boy",
+    "meaning": "Soldier",
+    "origin": "Arabic",
+    "id": "ju6_var",
+    "verified": true,
+    "variant_of": "Junaid"
+  },
+  {
+    "id": "ju7_var",
+    "name": "Joonayd",
+    "gender": "Boy",
+    "meaning": "Soldier, warrior",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Junayd"
+  },
+  {
+    "name": "Joondoob",
+    "gender": "Boy",
+    "meaning": "Grasshopper",
+    "origin": "Arabic",
+    "id": "ju2_var",
+    "verified": true,
+    "variant_of": "Jundub"
+  },
+  {
+    "name": "Joood",
+    "gender": "Girl",
+    "meaning": "Generosity",
+    "origin": "Arabic",
+    "id": "jo1_var",
+    "verified": true,
+    "variant_of": "Joud"
+  },
+  {
+    "name": "Jooodi",
+    "gender": "Unisex",
+    "meaning": "Mount Judi",
+    "origin": "Quranic",
+    "id": "jo4_var",
+    "verified": true,
+    "variant_of": "Joudi"
+  },
+  {
+    "name": "Joooin",
+    "gender": "Boy",
+    "meaning": "Sibling",
+    "origin": "Arabic",
+    "id": "jo5_var",
+    "verified": true,
+    "variant_of": "Jouin"
+  },
+  {
+    "name": "Joorayj",
+    "gender": "Boy",
+    "meaning": "A Monk",
+    "origin": "Arabic",
+    "id": "ju10_var",
+    "verified": true,
+    "variant_of": "Jurayj"
+  },
+  {
+    "name": "Joosoof",
+    "gender": "Boy",
+    "meaning": "Joseph",
+    "origin": "Arabic",
+    "id": "ju11_var",
+    "verified": true,
+    "variant_of": "Jusuf"
+  },
+  {
+    "id": "ju10_var",
+    "name": "Joostina",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Latin/Muslim usage",
+    "verified": false,
+    "variant_of": "Justina"
+  },
+  {
+    "name": "Jooti",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Kurdish",
+    "id": "ju12_var",
+    "verified": true,
+    "variant_of": "Juti"
+  },
+  {
+    "name": "Joowairiya",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ju17_var",
+    "verified": true,
+    "variant_of": "Juwairiya"
+  },
+  {
+    "id": "ju13_var",
+    "name": "Joowayriya",
+    "gender": "Girl",
+    "meaning": "Damask rose; Wife of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Juwayriya"
+  },
+  {
+    "name": "Joowayriyah",
+    "gender": "Girl",
+    "meaning": "Young Woman",
+    "origin": "Arabic",
+    "id": "ju7_var",
+    "verified": true,
+    "variant_of": "Juwayriyah"
+  },
+  {
+    "name": "Joowita",
+    "gender": "Girl",
+    "meaning": "Lovely",
+    "origin": "Indonesian",
+    "id": "ju14_var",
+    "verified": true,
+    "variant_of": "Juwita"
   },
   {
     "name": "Jordan",
@@ -928,28 +2072,64 @@
     "verified": true
   },
   {
-    "id": "jo3",
     "name": "Joud",
-    "gender": "Unisex",
+    "gender": "Girl",
     "meaning": "Generosity",
     "origin": "Arabic",
+    "id": "jo1",
     "verified": true
   },
   {
-    "id": "jo4",
+    "name": "Joudee",
+    "gender": "Unisex",
+    "meaning": "Mount Judi",
+    "origin": "Quranic",
+    "id": "jo4_var",
+    "verified": true,
+    "variant_of": "Joudi"
+  },
+  {
     "name": "Joudi",
     "gender": "Unisex",
-    "meaning": "Kindness; Mount Judi (Noah's Ark)",
+    "meaning": "Mount Judi",
     "origin": "Quranic",
+    "id": "jo4",
     "verified": true
   },
   {
-    "id": "jo5",
+    "name": "Joueen",
+    "gender": "Boy",
+    "meaning": "Sibling",
+    "origin": "Arabic",
+    "id": "jo5_var",
+    "verified": true,
+    "variant_of": "Jouin"
+  },
+  {
     "name": "Jouin",
     "gender": "Boy",
     "meaning": "Sibling",
     "origin": "Arabic",
+    "id": "jo5",
     "verified": true
+  },
+  {
+    "name": "Jubaeel",
+    "gender": "Boy",
+    "meaning": "Small mountain; City in KSA",
+    "origin": "Arabic",
+    "id": "ju15_var",
+    "verified": true,
+    "variant_of": "Jubail"
+  },
+  {
+    "name": "Jubaeer",
+    "gender": "Boy",
+    "meaning": "One who helps",
+    "origin": "Arabic",
+    "id": "ju3_var",
+    "verified": true,
+    "variant_of": "Jubair"
   },
   {
     "name": "Jubail",
@@ -960,20 +2140,29 @@
     "verified": true
   },
   {
-    "id": "ju1",
     "name": "Jubair",
     "gender": "Boy",
-    "meaning": "Counsels; To stitch together",
+    "meaning": "One who helps",
     "origin": "Arabic",
+    "id": "ju3",
     "verified": true
   },
   {
-    "id": "ju2",
     "name": "Jud",
-    "gender": "Unisex",
+    "gender": "Boy",
     "meaning": "Generosity",
     "origin": "Arabic",
+    "id": "ju4",
     "verified": true
+  },
+  {
+    "id": "ju3_var",
+    "name": "Judee",
+    "gender": "Girl",
+    "meaning": "Mount Judi (where Noah's Ark rested)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Judi"
   },
   {
     "id": "ju3",
@@ -981,6 +2170,14 @@
     "gender": "Girl",
     "meaning": "Mount Judi (where Noah's Ark rested)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Juhayman",
+    "gender": "Boy",
+    "meaning": "Sullen",
+    "origin": "Arabic",
+    "id": "ju1",
     "verified": true
   },
   {
@@ -992,19 +2189,37 @@
     "verified": true
   },
   {
-    "id": "ju6",
+    "id": "ju4_var",
+    "name": "Juhaynah",
+    "gender": "Girl",
+    "meaning": "Darkness at end of night; Arab tribe",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Juhayna"
+  },
+  {
     "name": "Juma",
     "gender": "Boy",
-    "meaning": "Friday, born on Friday",
+    "meaning": "Friday",
     "origin": "Arabic",
+    "id": "ju9",
     "verified": true
   },
   {
-    "id": "jo6",
+    "name": "Jumah",
+    "gender": "Boy",
+    "meaning": "Friday",
+    "origin": "Arabic",
+    "id": "ju9_var",
+    "verified": true,
+    "variant_of": "Juma"
+  },
+  {
     "name": "Juman",
     "gender": "Unisex",
     "meaning": "Pearl",
     "origin": "Arabic",
+    "id": "ju8",
     "verified": true
   },
   {
@@ -1016,19 +2231,36 @@
     "verified": true
   },
   {
-    "id": "ju5",
     "name": "Jumanah",
     "gender": "Girl",
-    "meaning": "Pearl",
+    "meaning": "Silver Pearl",
     "origin": "Arabic",
+    "id": "ju5",
     "verified": true
   },
   {
-    "id": "ju8",
+    "name": "Jumoke",
+    "gender": "Girl",
+    "meaning": "Everyone loves the child",
+    "origin": "African (Yoruba)",
+    "id": "ju13",
+    "verified": true
+  },
+  {
+    "name": "Junaeed",
+    "gender": "Boy",
+    "meaning": "Soldier",
+    "origin": "Arabic",
+    "id": "ju6_var",
+    "verified": true,
+    "variant_of": "Junaid"
+  },
+  {
     "name": "Junaid",
     "gender": "Boy",
-    "meaning": "Small army",
+    "meaning": "Soldier",
     "origin": "Arabic",
+    "id": "ju6",
     "verified": true
   },
   {
@@ -1040,12 +2272,29 @@
     "verified": true
   },
   {
-    "id": "ju9",
+    "name": "Jundub",
+    "gender": "Boy",
+    "meaning": "Grasshopper",
+    "origin": "Arabic",
+    "id": "ju2",
+    "verified": true
+  },
+  {
     "name": "Jurayj",
     "gender": "Boy",
-    "meaning": "A monk (Historic figure)",
+    "meaning": "A Monk",
     "origin": "Arabic",
+    "id": "ju10",
     "verified": true
+  },
+  {
+    "id": "ju10_var",
+    "name": "Justeena",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Latin/Muslim usage",
+    "verified": false,
+    "variant_of": "Justina"
   },
   {
     "id": "ju10",
@@ -1056,20 +2305,47 @@
     "verified": false
   },
   {
-    "id": "ju11",
+    "id": "ju10_var",
+    "name": "Justinah",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Latin/Muslim usage",
+    "verified": false,
+    "variant_of": "Justina"
+  },
+  {
     "name": "Jusuf",
     "gender": "Boy",
-    "meaning": "Prophet Yusuf (Variant)",
+    "meaning": "Joseph",
     "origin": "Arabic",
+    "id": "ju11",
     "verified": true
   },
   {
-    "id": "ju12",
+    "name": "Jutee",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Kurdish",
+    "id": "ju12_var",
+    "verified": true,
+    "variant_of": "Juti"
+  },
+  {
     "name": "Juti",
     "gender": "Unisex",
     "meaning": "Light",
     "origin": "Kurdish",
+    "id": "ju12",
     "verified": true
+  },
+  {
+    "name": "Juwaeereeya",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ju17_var",
+    "verified": true,
+    "variant_of": "Juwairiya"
   },
   {
     "name": "Juwairiya",
@@ -1078,6 +2354,33 @@
     "origin": "Arabic",
     "id": "ju17",
     "verified": true
+  },
+  {
+    "name": "Juwairiyah",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ju17_var",
+    "verified": true,
+    "variant_of": "Juwairiya"
+  },
+  {
+    "id": "ju13_var",
+    "name": "Juwayreeya",
+    "gender": "Girl",
+    "meaning": "Damask rose; Wife of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Juwayriya"
+  },
+  {
+    "name": "Juwayreeyah",
+    "gender": "Girl",
+    "meaning": "Young Woman",
+    "origin": "Arabic",
+    "id": "ju7_var",
+    "verified": true,
+    "variant_of": "Juwayriyah"
   },
   {
     "id": "ju13",
@@ -1092,7 +2395,33 @@
     "gender": "Girl",
     "meaning": "Young Woman",
     "origin": "Arabic",
-    "id": "ju18",
+    "id": "ju7",
     "verified": true
+  },
+  {
+    "name": "Juweeta",
+    "gender": "Girl",
+    "meaning": "Lovely",
+    "origin": "Indonesian",
+    "id": "ju14_var",
+    "verified": true,
+    "variant_of": "Juwita"
+  },
+  {
+    "name": "Juwita",
+    "gender": "Girl",
+    "meaning": "Lovely",
+    "origin": "Indonesian",
+    "id": "ju14",
+    "verified": true
+  },
+  {
+    "name": "Juwitah",
+    "gender": "Girl",
+    "meaning": "Lovely",
+    "origin": "Indonesian",
+    "id": "ju14_var",
+    "verified": true,
+    "variant_of": "Juwita"
   }
 ]

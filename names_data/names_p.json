@@ -1,5 +1,14 @@
 [
   {
+    "id": "pa1_var",
+    "name": "Padeedah",
+    "gender": "Girl",
+    "meaning": "Phenomenon",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Padidah"
+  },
+  {
     "id": "pa1",
     "name": "Padidah",
     "gender": "Girl",
@@ -8,12 +17,39 @@
     "verified": true
   },
   {
+    "id": "pa3_var",
+    "name": "Paeegham",
+    "gender": "Boy",
+    "meaning": "Message",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Paigham"
+  },
+  {
+    "id": "pa4_var",
+    "name": "Paeeman",
+    "gender": "Boy",
+    "meaning": "Promise, covenant",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Paiman"
+  },
+  {
     "id": "pa2",
     "name": "Pahana",
     "gender": "Girl",
     "meaning": "Precious stone",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "pa2_var",
+    "name": "Pahanah",
+    "gender": "Girl",
+    "meaning": "Precious stone",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pahana"
   },
   {
     "id": "pa3",
@@ -30,6 +66,24 @@
     "meaning": "Promise, covenant",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "name": "Pakeestan",
+    "gender": "Boy",
+    "meaning": "Land of the Pure",
+    "origin": "Urdu",
+    "id": "pa23_var",
+    "verified": true,
+    "variant_of": "Pakistan"
+  },
+  {
+    "id": "pa5_var",
+    "name": "Pakeeza",
+    "gender": "Girl",
+    "meaning": "Pure, chaste",
+    "origin": "Persian/Urdu",
+    "verified": true,
+    "variant_of": "Pakiza"
   },
   {
     "name": "Pakeezah",
@@ -56,6 +110,24 @@
     "verified": true
   },
   {
+    "id": "pa5_var",
+    "name": "Pakizah",
+    "gender": "Girl",
+    "meaning": "Pure, chaste",
+    "origin": "Persian/Urdu",
+    "verified": true,
+    "variant_of": "Pakiza"
+  },
+  {
+    "name": "Palesteene",
+    "gender": "Girl",
+    "meaning": "Falastin",
+    "origin": "Arabic",
+    "id": "pa24_var",
+    "verified": true,
+    "variant_of": "Palestine"
+  },
+  {
     "name": "Palestine",
     "gender": "Girl",
     "meaning": "Falastin",
@@ -72,6 +144,15 @@
     "verified": true
   },
   {
+    "name": "Palmyrah",
+    "gender": "Girl",
+    "meaning": "Tadmor (City of Dates)",
+    "origin": "Arabic",
+    "id": "pa25_var",
+    "verified": true,
+    "variant_of": "Palmyra"
+  },
+  {
     "id": "pa6",
     "name": "Palwasha",
     "gender": "Girl",
@@ -80,12 +161,39 @@
     "verified": true
   },
   {
+    "id": "pa6_var",
+    "name": "Palwashah",
+    "gender": "Girl",
+    "meaning": "Light ray of moon",
+    "origin": "Pashto",
+    "verified": true,
+    "variant_of": "Palwasha"
+  },
+  {
+    "name": "Pameer",
+    "gender": "Boy",
+    "meaning": "Roof of the World (Mountains)",
+    "origin": "Persian",
+    "id": "pa26_var",
+    "verified": true,
+    "variant_of": "Pamir"
+  },
+  {
     "name": "Pamir",
     "gender": "Boy",
     "meaning": "Roof of the World (Mountains)",
     "origin": "Persian",
     "id": "pa26",
     "verified": true
+  },
+  {
+    "name": "Panjsheer",
+    "gender": "Boy",
+    "meaning": "Five Lions (Afghanistan)",
+    "origin": "Persian",
+    "id": "pa27_var",
+    "verified": true,
+    "variant_of": "Panjshir"
   },
   {
     "name": "Panjshir",
@@ -104,6 +212,32 @@
     "verified": true
   },
   {
+    "id": "pa7_var",
+    "name": "Panrah",
+    "gender": "Girl",
+    "meaning": "Leaf",
+    "origin": "Pashto",
+    "verified": true,
+    "variant_of": "Panra"
+  },
+  {
+    "name": "Panya",
+    "gender": "Unisex",
+    "meaning": "Mouse",
+    "origin": "Swahili",
+    "id": "pa5",
+    "verified": true
+  },
+  {
+    "name": "Panyah",
+    "gender": "Unisex",
+    "meaning": "Mouse",
+    "origin": "Swahili",
+    "id": "pa5_var",
+    "verified": true,
+    "variant_of": "Panya"
+  },
+  {
     "id": "pa8",
     "name": "Parastoo",
     "gender": "Girl",
@@ -112,12 +246,92 @@
     "verified": true
   },
   {
+    "id": "pa8_var",
+    "name": "Parastu",
+    "gender": "Girl",
+    "meaning": "Swallow (bird)",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parastoo"
+  },
+  {
+    "name": "Pardees",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Persian",
+    "id": "pa2_var",
+    "verified": true,
+    "variant_of": "Pardis"
+  },
+  {
+    "name": "Pardis",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Persian",
+    "id": "pa2",
+    "verified": true
+  },
+  {
+    "id": "pa11_var",
+    "name": "Paree",
+    "gender": "Girl",
+    "meaning": "Fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pari"
+  },
+  {
+    "id": "pa9_var",
+    "name": "Pareerooo",
+    "gender": "Girl",
+    "meaning": "Face like a fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pareerou"
+  },
+  {
     "id": "pa9",
     "name": "Pareerou",
     "gender": "Girl",
     "meaning": "Face like a fairy",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "name": "Parees",
+    "gender": "Girl",
+    "meaning": "Fairy-like (Parisa)",
+    "origin": "Persian",
+    "id": "pa21_var",
+    "verified": true,
+    "variant_of": "Paris"
+  },
+  {
+    "id": "pa12_var",
+    "name": "Pareesa",
+    "gender": "Girl",
+    "meaning": "Like a fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parisa"
+  },
+  {
+    "id": "pa13_var",
+    "name": "Pareeshad",
+    "gender": "Girl",
+    "meaning": "Happy fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parishad"
+  },
+  {
+    "id": "pa14_var",
+    "name": "Pareezad",
+    "gender": "Unisex",
+    "meaning": "Born of a fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parizad"
   },
   {
     "id": "pa10",
@@ -136,6 +350,15 @@
     "verified": true
   },
   {
+    "id": "pa9_var",
+    "name": "Parirou",
+    "gender": "Girl",
+    "meaning": "Face like a fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pareerou"
+  },
+  {
     "name": "Paris",
     "gender": "Girl",
     "meaning": "Fairy-like (Parisa)",
@@ -150,6 +373,15 @@
     "meaning": "Like a fairy",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "pa12_var",
+    "name": "Parisah",
+    "gender": "Girl",
+    "meaning": "Like a fairy",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parisa"
   },
   {
     "id": "pa13",
@@ -176,6 +408,24 @@
     "verified": true
   },
   {
+    "id": "pa15_var",
+    "name": "Parsah",
+    "gender": "Unisex",
+    "meaning": "Pious, devout",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parsa"
+  },
+  {
+    "id": "pa16_var",
+    "name": "Parvaeez",
+    "gender": "Boy",
+    "meaning": "Fortunate, victorious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Parvaiz"
+  },
+  {
     "id": "pa16",
     "name": "Parvaiz",
     "gender": "Boy",
@@ -190,6 +440,15 @@
     "meaning": "The Pleiades (Cluster of stars)",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "name": "Parveez",
+    "gender": "Boy",
+    "meaning": "Fortunate; Victorious",
+    "origin": "Persian",
+    "id": "pa22_var",
+    "verified": true,
+    "variant_of": "Parviz"
   },
   {
     "id": "pa18",
@@ -216,6 +475,15 @@
     "verified": true
   },
   {
+    "id": "pa19_var",
+    "name": "Pashah",
+    "gender": "Boy",
+    "meaning": "Lord, king, high rank",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Pasha"
+  },
+  {
     "id": "pa20",
     "name": "Payam",
     "gender": "Boy",
@@ -232,6 +500,42 @@
     "verified": true
   },
   {
+    "name": "Peenar",
+    "gender": "Girl",
+    "meaning": "Spring, fountain",
+    "origin": "Turkish",
+    "id": "pi4_var",
+    "verified": true,
+    "variant_of": "Pinar"
+  },
+  {
+    "id": "pi1_var",
+    "name": "Peer",
+    "gender": "Boy",
+    "meaning": "Elder, Saint, Spiritual Guide",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pir"
+  },
+  {
+    "id": "pi2_var",
+    "name": "Peerouz",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pirouz"
+  },
+  {
+    "id": "pi3_var",
+    "name": "Peerzada",
+    "gender": "Boy",
+    "meaning": "Son of a Saint",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pirzada"
+  },
+  {
     "id": "pe2",
     "name": "Pehla",
     "gender": "Girl",
@@ -240,12 +544,39 @@
     "verified": true
   },
   {
+    "id": "pe2_var",
+    "name": "Pehlah",
+    "gender": "Girl",
+    "meaning": "The first born",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Pehla"
+  },
+  {
+    "id": "pe3_var",
+    "name": "Peleen",
+    "gender": "Girl",
+    "meaning": "Wormwood plant",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Pelin"
+  },
+  {
     "id": "pe3",
     "name": "Pelin",
     "gender": "Girl",
     "meaning": "Wormwood plant",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "pe5_var",
+    "name": "Pervaeez",
+    "gender": "Boy",
+    "meaning": "Breeze, victorious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pervaiz"
   },
   {
     "id": "pe5",
@@ -262,6 +593,24 @@
     "meaning": "Cluster of stars",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "pe6_var",
+    "name": "Pervin",
+    "gender": "Girl",
+    "meaning": "Cluster of stars",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Perveen"
+  },
+  {
+    "id": "pe4_var",
+    "name": "Perwaeez",
+    "gender": "Boy",
+    "meaning": "Victorious (Variant of Parvaiz)",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Perwaiz"
   },
   {
     "id": "pe4",
@@ -296,12 +645,30 @@
     "verified": true
   },
   {
+    "name": "Petrah",
+    "gender": "Girl",
+    "meaning": "Rock City (Jordan)",
+    "origin": "Greek/Arabic",
+    "id": "pe9_var",
+    "verified": true,
+    "variant_of": "Petra"
+  },
+  {
     "id": "ph1",
     "name": "Phool",
     "gender": "Unisex",
     "meaning": "Flower",
     "origin": "Urdu",
     "verified": true
+  },
+  {
+    "id": "ph1_var",
+    "name": "Phul",
+    "gender": "Unisex",
+    "meaning": "Flower",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Phool"
   },
   {
     "name": "Pinar",
@@ -320,6 +687,15 @@
     "verified": true
   },
   {
+    "id": "pi2_var",
+    "name": "Piroooz",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pirouz"
+  },
+  {
     "id": "pi2",
     "name": "Pirouz",
     "gender": "Boy",
@@ -336,12 +712,111 @@
     "verified": true
   },
   {
+    "id": "pi3_var",
+    "name": "Pirzadah",
+    "gender": "Boy",
+    "meaning": "Son of a Saint",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pirzada"
+  },
+  {
     "id": "po1",
     "name": "Polat",
     "gender": "Boy",
     "meaning": "Steel",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "pu1_var",
+    "name": "Poojman",
+    "gender": "Boy",
+    "meaning": "Desire, wish",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pujman"
+  },
+  {
+    "id": "pu2_var",
+    "name": "Pooneh",
+    "gender": "Girl",
+    "meaning": "Pennyroyal (Flower)",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Puneh"
+  },
+  {
+    "name": "Poonjab",
+    "gender": "Boy",
+    "meaning": "Five Waters (Land)",
+    "origin": "Urdu/Persian",
+    "id": "pu4_var",
+    "verified": true,
+    "variant_of": "Punjab"
+  },
+  {
+    "id": "po4_var",
+    "name": "Poooran",
+    "gender": "Girl",
+    "meaning": "Successor",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pouran"
+  },
+  {
+    "id": "po3_var",
+    "name": "Poooya",
+    "gender": "Boy",
+    "meaning": "Searcher, dynamic",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pouya"
+  },
+  {
+    "id": "pu3_var",
+    "name": "Pooran",
+    "gender": "Girl",
+    "meaning": "Successor",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Puran"
+  },
+  {
+    "name": "Poornama",
+    "gender": "Unisex",
+    "meaning": "Full moon",
+    "origin": "Indonesian",
+    "id": "pu1_var",
+    "verified": true,
+    "variant_of": "Purnama"
+  },
+  {
+    "name": "Pootra",
+    "gender": "Boy",
+    "meaning": "Son",
+    "origin": "Indonesian",
+    "id": "pu2_var",
+    "verified": true,
+    "variant_of": "Putra"
+  },
+  {
+    "name": "Pootri",
+    "gender": "Girl",
+    "meaning": "Daughter",
+    "origin": "Indonesian",
+    "id": "pu3_var",
+    "verified": true,
+    "variant_of": "Putri"
+  },
+  {
+    "id": "po2_var",
+    "name": "Porgool",
+    "gender": "Girl",
+    "meaning": "Full of flowers",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Porgul"
   },
   {
     "id": "po2",
@@ -366,6 +841,15 @@
     "meaning": "Searcher, dynamic",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "po3_var",
+    "name": "Pouyah",
+    "gender": "Boy",
+    "meaning": "Searcher, dynamic",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Pouya"
   },
   {
     "id": "pu1",
@@ -397,6 +881,57 @@
     "gender": "Girl",
     "meaning": "Successor",
     "origin": "Persian",
+    "verified": true
+  },
+  {
+    "name": "Purnama",
+    "gender": "Unisex",
+    "meaning": "Full moon",
+    "origin": "Indonesian",
+    "id": "pu1",
+    "verified": true
+  },
+  {
+    "name": "Purnamah",
+    "gender": "Unisex",
+    "meaning": "Full moon",
+    "origin": "Indonesian",
+    "id": "pu1_var",
+    "verified": true,
+    "variant_of": "Purnama"
+  },
+  {
+    "name": "Putra",
+    "gender": "Boy",
+    "meaning": "Son",
+    "origin": "Indonesian",
+    "id": "pu2",
+    "verified": true
+  },
+  {
+    "name": "Putrah",
+    "gender": "Boy",
+    "meaning": "Son",
+    "origin": "Indonesian",
+    "id": "pu2_var",
+    "verified": true,
+    "variant_of": "Putra"
+  },
+  {
+    "name": "Putree",
+    "gender": "Girl",
+    "meaning": "Daughter",
+    "origin": "Indonesian",
+    "id": "pu3_var",
+    "verified": true,
+    "variant_of": "Putri"
+  },
+  {
+    "name": "Putri",
+    "gender": "Girl",
+    "meaning": "Daughter",
+    "origin": "Indonesian",
+    "id": "pu3",
     "verified": true
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "id": "ia1",
     "name": "Iad",
     "gender": "Boy",
-    "meaning": "Reinforcement, support (Variant of Iyad)",
+    "meaning": "Reinforcement",
     "origin": "Arabic",
+    "id": "ia1",
     "verified": true
   },
   {
@@ -20,15 +20,15 @@
     "gender": "Girl",
     "meaning": "Pride",
     "origin": "Arabic",
-    "id": "ib11",
+    "id": "ib1",
     "verified": true
   },
   {
-    "id": "ib1",
     "name": "Ibad",
     "gender": "Boy",
-    "meaning": "Worshippers, servants",
-    "origin": "Quranic",
+    "meaning": "Servants",
+    "origin": "Arabic",
+    "id": "ib2",
     "verified": true
   },
   {
@@ -40,6 +40,15 @@
     "verified": true
   },
   {
+    "name": "Ibah",
+    "gender": "Girl",
+    "meaning": "Pride",
+    "origin": "Arabic",
+    "id": "ib1_var",
+    "verified": true,
+    "variant_of": "Iba"
+  },
+  {
     "id": "ib3",
     "name": "Ibar",
     "gender": "Boy",
@@ -48,11 +57,11 @@
     "verified": true
   },
   {
-    "id": "ib4",
     "name": "Ibne",
     "gender": "Boy",
     "meaning": "Son of",
     "origin": "Arabic",
+    "id": "ib5",
     "verified": true
   },
   {
@@ -64,27 +73,81 @@
     "verified": true
   },
   {
-    "id": "ib5",
+    "name": "Ibrah",
+    "gender": "Girl",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "ib10_var",
+    "verified": true,
+    "variant_of": "Ibra"
+  },
+  {
+    "name": "Ibraheem",
+    "gender": "Boy",
+    "meaning": "Father of many",
+    "origin": "Arabic",
+    "id": "ib3_var",
+    "verified": true,
+    "variant_of": "Ibrahim"
+  },
+  {
     "name": "Ibrahim",
     "gender": "Boy",
-    "meaning": "Father of nations; Prophet Abraham",
-    "origin": "Quranic",
+    "meaning": "Father of many",
+    "origin": "Arabic",
+    "id": "ib3",
     "verified": true
   },
   {
-    "id": "ib6",
+    "name": "Ibreeseem",
+    "gender": "Girl",
+    "meaning": "Silk",
+    "origin": "Turkish",
+    "id": "ib6_var",
+    "verified": true,
+    "variant_of": "Ibrisim"
+  },
+  {
     "name": "Ibrisim",
     "gender": "Girl",
     "meaning": "Silk",
     "origin": "Turkish",
+    "id": "ib6",
     "verified": true
   },
   {
-    "id": "ib7",
+    "name": "Ibteehaj",
+    "gender": "Girl",
+    "meaning": "Joy",
+    "origin": "Arabic",
+    "id": "ib7_var",
+    "verified": true,
+    "variant_of": "Ibtihaj"
+  },
+  {
+    "id": "ib8_var",
+    "name": "Ibteehal",
+    "gender": "Girl",
+    "meaning": "Supplication, prayer",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ibtihal"
+  },
+  {
+    "name": "Ibteesam",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Arabic",
+    "id": "ib4_var",
+    "verified": true,
+    "variant_of": "Ibtisam"
+  },
+  {
     "name": "Ibtihaj",
     "gender": "Girl",
-    "meaning": "Joy, delight",
+    "meaning": "Joy",
     "origin": "Arabic",
+    "id": "ib7",
     "verified": true
   },
   {
@@ -96,28 +159,63 @@
     "verified": true
   },
   {
-    "id": "ib9",
     "name": "Ibtisam",
     "gender": "Girl",
-    "meaning": "Smiling",
+    "meaning": "Smile",
     "origin": "Arabic",
+    "id": "ib4",
     "verified": true
   },
   {
-    "id": "ic2",
+    "name": "Iceem",
+    "gender": "Girl",
+    "meaning": "My sip",
+    "origin": "Turkish",
+    "id": "ic2_var",
+    "verified": true,
+    "variant_of": "Icim"
+  },
+  {
     "name": "Icim",
     "gender": "Girl",
-    "meaning": "My sip, my inside",
+    "meaning": "My sip",
     "origin": "Turkish",
+    "id": "ic2",
     "verified": true
   },
   {
-    "id": "ic1",
     "name": "Iclal",
     "gender": "Girl",
-    "meaning": "Honor, majesty (Turkish form of Ijlal)",
-    "origin": "Turkish",
+    "meaning": "Honor; Glory",
+    "origin": "Turkish/Arabic",
+    "id": "ic1",
     "verified": true
+  },
+  {
+    "name": "Ideel",
+    "gender": "Boy",
+    "meaning": "Justice",
+    "origin": "Somali",
+    "id": "id3_var",
+    "verified": true,
+    "variant_of": "Idil"
+  },
+  {
+    "name": "Idil",
+    "gender": "Boy",
+    "meaning": "Justice",
+    "origin": "Somali",
+    "id": "id3",
+    "verified": true
+  },
+  {
+    "name": "Idleeb",
+    "gender": "Boy",
+    "meaning": "City in Syria",
+    "origin": "Arabic",
+    "id": "id4_var",
+    "verified": true,
+    "variant_of": "Idlib"
   },
   {
     "name": "Idlib",
@@ -128,27 +226,27 @@
     "verified": true
   },
   {
-    "id": "id1",
     "name": "Idrak",
     "gender": "Boy",
-    "meaning": "Intellect, perception",
+    "meaning": "Intellect",
     "origin": "Arabic",
+    "id": "id2",
     "verified": true
   },
   {
-    "id": "id2",
     "name": "Idrees",
     "gender": "Boy",
-    "meaning": "Prophet Enoch",
-    "origin": "Quranic",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "id1",
     "verified": true
   },
   {
-    "id": "id3",
     "name": "Idris",
     "gender": "Boy",
-    "meaning": "Interpreter; Prophet Enoch",
-    "origin": "Quranic",
+    "meaning": "Interpreter",
+    "origin": "African",
+    "id": "id4",
     "verified": true
   },
   {
@@ -160,20 +258,29 @@
     "verified": true
   },
   {
-    "id": "if2",
     "name": "Iffat",
     "gender": "Girl",
-    "meaning": "Chastity, virtue",
+    "meaning": "Chastity",
     "origin": "Arabic",
+    "id": "if1",
     "verified": true
   },
   {
-    "id": "if3",
     "name": "Ifra",
     "gender": "Girl",
     "meaning": "Giving happiness",
     "origin": "Arabic",
+    "id": "if3",
     "verified": true
+  },
+  {
+    "name": "Ifrah",
+    "gender": "Girl",
+    "meaning": "Giving happiness",
+    "origin": "Arabic",
+    "id": "if3_var",
+    "verified": true,
+    "variant_of": "Ifra"
   },
   {
     "name": "Ifrane",
@@ -184,11 +291,29 @@
     "verified": true
   },
   {
-    "id": "if4",
+    "name": "Ifteekhar",
+    "gender": "Boy",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "if2_var",
+    "verified": true,
+    "variant_of": "Iftikhar"
+  },
+  {
+    "name": "Ifteekhar-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Pride of the Faith",
+    "origin": "Arabic",
+    "id": "if6_var",
+    "verified": true,
+    "variant_of": "Iftikhar-Ud-Din"
+  },
+  {
     "name": "Iftikhar",
     "gender": "Boy",
-    "meaning": "Honor, glory",
+    "meaning": "Honor",
     "origin": "Arabic",
+    "id": "if2",
     "verified": true
   },
   {
@@ -200,27 +325,36 @@
     "verified": true
   },
   {
-    "id": "if5",
     "name": "Ifza",
     "gender": "Girl",
     "meaning": "Protective angel",
     "origin": "Arabic",
+    "id": "if4",
     "verified": true
   },
   {
-    "id": "ih1",
+    "name": "Ifzah",
+    "gender": "Girl",
+    "meaning": "Protective angel",
+    "origin": "Arabic",
+    "id": "if4_var",
+    "verified": true,
+    "variant_of": "Ifza"
+  },
+  {
     "name": "Ihab",
     "gender": "Boy",
-    "meaning": "Gift, grant",
+    "meaning": "Gift",
     "origin": "Arabic",
+    "id": "ih2",
     "verified": true
   },
   {
-    "id": "ih2",
     "name": "Ihsan",
     "gender": "Unisex",
-    "meaning": "Beneficence, kindness, perfection",
-    "origin": "Quranic",
+    "meaning": "Kindness",
+    "origin": "Arabic",
+    "id": "ih1",
     "verified": true
   },
   {
@@ -232,28 +366,54 @@
     "verified": true
   },
   {
-    "id": "ih3",
+    "name": "Ihteesham",
+    "gender": "Boy",
+    "meaning": "Modesty",
+    "origin": "Arabic",
+    "id": "ih3_var",
+    "verified": true,
+    "variant_of": "Ihtisham"
+  },
+  {
     "name": "Ihtisham",
     "gender": "Boy",
-    "meaning": "Modesty, decency",
+    "meaning": "Modesty",
     "origin": "Arabic",
+    "id": "ih3",
     "verified": true
   },
   {
-    "id": "ij1",
     "name": "Ijaz",
     "gender": "Boy",
-    "meaning": "Miracle, inimitability",
+    "meaning": "Miracle",
     "origin": "Arabic",
+    "id": "ij1",
     "verified": true
   },
   {
-    "id": "ij2",
     "name": "Ijlal",
     "gender": "Boy",
-    "meaning": "Respect, honor",
+    "meaning": "Honor",
     "origin": "Arabic",
+    "id": "ij2",
     "verified": true
+  },
+  {
+    "name": "Ika",
+    "gender": "Girl",
+    "meaning": "One",
+    "origin": "Indonesian",
+    "id": "ik3",
+    "verified": true
+  },
+  {
+    "name": "Ikah",
+    "gender": "Girl",
+    "meaning": "One",
+    "origin": "Indonesian",
+    "id": "ik3_var",
+    "verified": true,
+    "variant_of": "Ika"
   },
   {
     "id": "ik1",
@@ -264,6 +424,31 @@
     "verified": true
   },
   {
+    "name": "Ikhsan",
+    "gender": "Boy",
+    "meaning": "Charity",
+    "origin": "Indonesian",
+    "id": "ik4",
+    "verified": true
+  },
+  {
+    "name": "Ikhwan",
+    "gender": "Boy",
+    "meaning": "Brothers",
+    "origin": "Malay",
+    "id": "ik5",
+    "verified": true
+  },
+  {
+    "name": "Ikleel",
+    "gender": "Girl",
+    "meaning": "Crown, garland",
+    "origin": "Arabic",
+    "id": "ik5_var",
+    "verified": true,
+    "variant_of": "Iklil"
+  },
+  {
     "name": "Iklil",
     "gender": "Girl",
     "meaning": "Crown, garland",
@@ -272,11 +457,11 @@
     "verified": true
   },
   {
-    "id": "ik2",
     "name": "Ikram",
     "gender": "Unisex",
-    "meaning": "Honor, hospitality, generosity",
-    "origin": "Quranic",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "ik2",
     "verified": true
   },
   {
@@ -288,12 +473,30 @@
     "verified": true
   },
   {
-    "id": "ik3",
+    "name": "Ikreemah",
+    "gender": "Boy",
+    "meaning": "Female Pigeon",
+    "origin": "Arabic",
+    "id": "ik1_var",
+    "verified": true,
+    "variant_of": "Ikrimah"
+  },
+  {
     "name": "Ikrimah",
     "gender": "Boy",
-    "meaning": "Female pigeon; A famous Companion",
+    "meaning": "Female Pigeon",
     "origin": "Arabic",
+    "id": "ik1",
     "verified": true
+  },
+  {
+    "id": "ik4_var",
+    "name": "Ikteemal",
+    "gender": "Girl",
+    "meaning": "Completion, perfection",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Iktimal"
   },
   {
     "id": "ik4",
@@ -312,51 +515,102 @@
     "verified": true
   },
   {
+    "name": "Ilahee",
+    "gender": "Boy",
+    "meaning": "Divine",
+    "origin": "Arabic",
+    "id": "il5_var",
+    "verified": true,
+    "variant_of": "Ilahi"
+  },
+  {
     "name": "Ilahi",
     "gender": "Boy",
-    "meaning": "My God (Relating to God)",
+    "meaning": "Divine",
     "origin": "Arabic",
+    "id": "il5",
+    "verified": true
+  },
+  {
+    "name": "Ileeas",
+    "gender": "Boy",
+    "meaning": "Prophet Elijah",
+    "origin": "Quranic",
+    "id": "il8_var",
+    "verified": true,
+    "variant_of": "Ilias"
+  },
+  {
+    "name": "Ilham",
+    "gender": "Girl",
+    "meaning": "Inspiration",
+    "origin": "Arabic",
+    "id": "il3",
+    "verified": true
+  },
+  {
+    "name": "Ilhan",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Turkish",
     "id": "il7",
     "verified": true
   },
   {
-    "id": "il2",
-    "name": "Ilham",
-    "gender": "Unisex",
-    "meaning": "Inspiration, revelation",
-    "origin": "Arabic",
-    "verified": true
-  },
-  {
-    "id": "il3",
-    "name": "Ilhan",
-    "gender": "Boy",
-    "meaning": "Ruler, emperor",
-    "origin": "Turkish",
-    "verified": true
-  },
-  {
-    "id": "il4",
     "name": "Ilias",
     "gender": "Boy",
-    "meaning": "Prophet Elijah (Variant of Ilyas)",
+    "meaning": "Prophet Elijah",
     "origin": "Quranic",
+    "id": "il8",
     "verified": true
   },
   {
-    "id": "il5",
+    "name": "Ilkay",
+    "gender": "Unisex",
+    "meaning": "New moon",
+    "origin": "Turkish",
+    "id": "il1",
+    "verified": true
+  },
+  {
+    "name": "Ilker",
+    "gender": "Boy",
+    "meaning": "First Man",
+    "origin": "Turkish",
+    "id": "il4",
+    "verified": true
+  },
+  {
+    "name": "Ilknoor",
+    "gender": "Girl",
+    "meaning": "First light",
+    "origin": "Turkish",
+    "id": "il2_var",
+    "verified": true,
+    "variant_of": "Ilknur"
+  },
+  {
+    "name": "Ilknur",
+    "gender": "Girl",
+    "meaning": "First light",
+    "origin": "Turkish",
+    "id": "il2",
+    "verified": true
+  },
+  {
     "name": "Ilm",
     "gender": "Unisex",
     "meaning": "Knowledge",
     "origin": "Arabic",
+    "id": "il9",
     "verified": true
   },
   {
-    "id": "il6",
     "name": "Ilyas",
     "gender": "Boy",
-    "meaning": "Prophet Elijah",
-    "origin": "Quranic",
+    "meaning": "Prophet",
+    "origin": "Arabic",
+    "id": "il6",
     "verified": true
   },
   {
@@ -364,16 +618,25 @@
     "gender": "Boy",
     "meaning": "Support",
     "origin": "Arabic",
-    "id": "im10",
+    "id": "im3",
     "verified": true
   },
   {
-    "id": "im1",
     "name": "Imad",
     "gender": "Boy",
-    "meaning": "Pillar, support",
+    "meaning": "Pillar",
     "origin": "Arabic",
+    "id": "im1",
     "verified": true
+  },
+  {
+    "name": "Imad-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Pillar of the Faith",
+    "origin": "Arabic",
+    "id": "im9_var",
+    "verified": true,
+    "variant_of": "Imad-Ud-Din"
   },
   {
     "name": "Imad-Ud-Din",
@@ -384,6 +647,24 @@
     "verified": true
   },
   {
+    "id": "im2_var",
+    "name": "Imadooddin",
+    "gender": "Boy",
+    "meaning": "Pillar of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Imaduddin"
+  },
+  {
+    "id": "im2_var",
+    "name": "Imaduddeen",
+    "gender": "Boy",
+    "meaning": "Pillar of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Imaduddin"
+  },
+  {
     "id": "im2",
     "name": "Imaduddin",
     "gender": "Boy",
@@ -392,59 +673,103 @@
     "verified": true
   },
   {
-    "id": "im3",
     "name": "Imam",
     "gender": "Boy",
     "meaning": "Leader",
-    "origin": "Quranic",
-    "verified": true
-  },
-  {
+    "origin": "Arabic",
     "id": "im4",
-    "name": "Iman",
-    "gender": "Unisex",
-    "meaning": "Faith, belief",
-    "origin": "Quranic",
     "verified": true
   },
   {
+    "name": "Iman",
+    "gender": "Girl",
+    "meaning": "Faith",
+    "origin": "Arabic",
     "id": "im5",
+    "verified": true
+  },
+  {
+    "name": "Imanee",
+    "gender": "Girl",
+    "meaning": "Faith",
+    "origin": "Swahili",
+    "id": "im9_var",
+    "verified": true,
+    "variant_of": "Imani"
+  },
+  {
     "name": "Imani",
     "gender": "Girl",
     "meaning": "Faith",
-    "origin": "Arabic/Swahili",
+    "origin": "Swahili",
+    "id": "im9",
     "verified": true
   },
   {
-    "id": "im6",
+    "name": "Imelda",
+    "gender": "Girl",
+    "meaning": "Powerful fighter",
+    "origin": "Indonesian",
+    "id": "im8",
+    "verified": true
+  },
+  {
+    "name": "Imeldah",
+    "gender": "Girl",
+    "meaning": "Powerful fighter",
+    "origin": "Indonesian",
+    "id": "im8_var",
+    "verified": true,
+    "variant_of": "Imelda"
+  },
+  {
     "name": "Imran",
     "gender": "Boy",
-    "meaning": "Prosperity; Father of Maryam",
-    "origin": "Quranic",
+    "meaning": "Prosperity",
+    "origin": "Arabic",
+    "id": "im6",
     "verified": true
   },
   {
-    "id": "im7",
+    "name": "Imteeaz",
+    "gender": "Boy",
+    "meaning": "Distinction",
+    "origin": "Arabic",
+    "id": "im2_var",
+    "verified": true,
+    "variant_of": "Imtiaz"
+  },
+  {
+    "name": "Imteeyaz",
+    "gender": "Boy",
+    "meaning": "Distinction",
+    "origin": "Arabic",
+    "id": "im7_var",
+    "verified": true,
+    "variant_of": "Imtiyaz"
+  },
+  {
     "name": "Imtiaz",
     "gender": "Boy",
-    "meaning": "Distinction, privilege",
+    "meaning": "Distinction",
     "origin": "Arabic",
+    "id": "im2",
     "verified": true
   },
   {
-    "id": "im8",
     "name": "Imtiyaz",
     "gender": "Boy",
     "meaning": "Distinction",
     "origin": "Arabic",
+    "id": "im7",
     "verified": true
   },
   {
-    "id": "in1",
     "name": "Inaam",
     "gender": "Unisex",
-    "meaning": "Reward, gift",
+    "meaning": "Reward",
     "origin": "Arabic",
+    "id": "in8",
     "verified": true
   },
   {
@@ -457,10 +782,10 @@
   },
   {
     "name": "Inam",
-    "gender": "Unisex",
-    "meaning": "Prize, reward",
+    "gender": "Boy",
+    "meaning": "Reward",
     "origin": "Arabic",
-    "id": "in11",
+    "id": "in3",
     "verified": true
   },
   {
@@ -472,19 +797,36 @@
     "verified": true
   },
   {
-    "id": "in2",
     "name": "Inan",
     "gender": "Boy",
     "meaning": "Rein",
     "origin": "Arabic",
+    "id": "in9",
     "verified": true
   },
   {
-    "id": "in3",
+    "name": "Inara",
+    "gender": "Girl",
+    "meaning": "Illumination",
+    "origin": "Arabic",
+    "id": "in2",
+    "verified": true
+  },
+  {
+    "name": "Inarah",
+    "gender": "Girl",
+    "meaning": "Illumination",
+    "origin": "Arabic",
+    "id": "in2_var",
+    "verified": true,
+    "variant_of": "Inara"
+  },
+  {
     "name": "Inas",
     "gender": "Girl",
-    "meaning": "Sociability, friendliness",
+    "meaning": "Sociability",
     "origin": "Arabic",
+    "id": "in10",
     "verified": true
   },
   {
@@ -496,20 +838,72 @@
     "verified": true
   },
   {
-    "id": "in4",
+    "name": "Inayah",
+    "gender": "Girl",
+    "meaning": "Concern, solitude",
+    "origin": "Arabic",
+    "id": "in10_var",
+    "verified": true,
+    "variant_of": "Inaya"
+  },
+  {
     "name": "Inayat",
     "gender": "Unisex",
-    "meaning": "Care, concern, favor",
+    "meaning": "Bounty",
     "origin": "Arabic",
+    "id": "in4",
     "verified": true
+  },
+  {
+    "name": "Incee",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Turkish",
+    "id": "in1_var",
+    "verified": true,
+    "variant_of": "Inci"
   },
   {
     "name": "Inci",
     "gender": "Girl",
     "meaning": "Pearl",
     "origin": "Turkish",
-    "id": "in9",
+    "id": "in1",
     "verified": true
+  },
+  {
+    "name": "Indah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "in12",
+    "verified": true
+  },
+  {
+    "name": "Indoos",
+    "gender": "Boy",
+    "meaning": "River Sindh",
+    "origin": "Urdu",
+    "id": "in14_var",
+    "verified": true,
+    "variant_of": "Indus"
+  },
+  {
+    "name": "Indra",
+    "gender": "Boy",
+    "meaning": "King of gods",
+    "origin": "Indonesian",
+    "id": "in13",
+    "verified": true
+  },
+  {
+    "name": "Indrah",
+    "gender": "Boy",
+    "meaning": "King of gods",
+    "origin": "Indonesian",
+    "id": "in13_var",
+    "verified": true,
+    "variant_of": "Indra"
   },
   {
     "name": "Indus",
@@ -520,35 +914,88 @@
     "verified": true
   },
   {
-    "id": "in5",
     "name": "Insaf",
     "gender": "Unisex",
-    "meaning": "Justice, equity",
+    "meaning": "Justice",
     "origin": "Arabic",
+    "id": "in5",
     "verified": true
   },
   {
     "name": "Insha",
     "gender": "Girl",
-    "meaning": "Creation",
+    "meaning": "Sentence",
     "origin": "Arabic",
-    "id": "in15",
+    "id": "in6",
     "verified": true
   },
   {
-    "id": "in6",
+    "name": "Inshah",
+    "gender": "Girl",
+    "meaning": "Sentence",
+    "origin": "Arabic",
+    "id": "in6_var",
+    "verified": true,
+    "variant_of": "Insha"
+  },
+  {
+    "name": "Insheera",
+    "gender": "Girl",
+    "meaning": "Joy, delight",
+    "origin": "Quranic",
+    "id": "in11_var",
+    "verified": true,
+    "variant_of": "Inshira"
+  },
+  {
     "name": "Inshira",
     "gender": "Girl",
-    "meaning": "Joy, delight, expansion (of heart)",
+    "meaning": "Joy, delight",
     "origin": "Quranic",
+    "id": "in11",
     "verified": true
   },
   {
-    "id": "in7",
-    "name": "Intisar",
+    "name": "Inshirah",
     "gender": "Girl",
-    "meaning": "Victory, triumph",
+    "meaning": "Joy, delight",
+    "origin": "Quranic",
+    "id": "in11_var",
+    "verified": true,
+    "variant_of": "Inshira"
+  },
+  {
+    "name": "Intan",
+    "gender": "Girl",
+    "meaning": "Diamond",
+    "origin": "Malay",
+    "id": "in14",
+    "verified": true
+  },
+  {
+    "name": "Inteesar",
+    "gender": "Boy",
+    "meaning": "Victory",
     "origin": "Arabic",
+    "id": "in7_var",
+    "verified": true,
+    "variant_of": "Intisar"
+  },
+  {
+    "name": "Inteezar",
+    "gender": "Boy",
+    "meaning": "Wait, expectation",
+    "origin": "Arabic",
+    "id": "in12_var",
+    "verified": true,
+    "variant_of": "Intizar"
+  },
+  {
+    "name": "Intisar",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Arabic",
+    "id": "in7",
     "verified": true
   },
   {
@@ -558,6 +1005,15 @@
     "origin": "Arabic",
     "id": "in12",
     "verified": true
+  },
+  {
+    "name": "Ionee",
+    "gender": "Girl",
+    "meaning": "Ancient name for Greece (Yunan)",
+    "origin": "Arabic",
+    "id": "io1_var",
+    "verified": true,
+    "variant_of": "Ioni"
   },
   {
     "name": "Ioni",
@@ -576,20 +1032,38 @@
     "verified": true
   },
   {
-    "id": "iq1",
     "name": "Iqbal",
     "gender": "Boy",
-    "meaning": "Prosperity, good fortune",
+    "meaning": "Prosperity",
     "origin": "Arabic",
+    "id": "iq1",
     "verified": true
   },
   {
-    "id": "iq2",
     "name": "Iqra",
     "gender": "Girl",
-    "meaning": "Recite, read (First word revealed)",
-    "origin": "Quranic",
+    "meaning": "Read",
+    "origin": "Arabic",
+    "id": "iq2",
     "verified": true
+  },
+  {
+    "name": "Iqrah",
+    "gender": "Girl",
+    "meaning": "Read",
+    "origin": "Arabic",
+    "id": "iq2_var",
+    "verified": true,
+    "variant_of": "Iqra"
+  },
+  {
+    "id": "iq3_var",
+    "name": "Iqteedar",
+    "gender": "Boy",
+    "meaning": "Power, authority",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Iqtidar"
   },
   {
     "id": "iq3",
@@ -600,11 +1074,28 @@
     "verified": true
   },
   {
-    "id": "ir1",
+    "name": "Ira",
+    "gender": "Girl",
+    "meaning": "Earth",
+    "origin": "Indonesian",
+    "id": "ir9",
+    "verified": true
+  },
+  {
+    "name": "Irah",
+    "gender": "Girl",
+    "meaning": "Earth",
+    "origin": "Indonesian",
+    "id": "ir9_var",
+    "verified": true,
+    "variant_of": "Ira"
+  },
+  {
     "name": "Iraj",
     "gender": "Boy",
     "meaning": "Sun",
     "origin": "Persian",
+    "id": "ir5",
     "verified": true
   },
   {
@@ -616,6 +1107,23 @@
     "verified": true
   },
   {
+    "name": "Irbad",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ir3",
+    "verified": true
+  },
+  {
+    "name": "Irbeed",
+    "gender": "Boy",
+    "meaning": "City in Jordan",
+    "origin": "Arabic",
+    "id": "ir8_var",
+    "verified": true,
+    "variant_of": "Irbid"
+  },
+  {
     "name": "Irbid",
     "gender": "Boy",
     "meaning": "City in Jordan",
@@ -624,11 +1132,19 @@
     "verified": true
   },
   {
-    "id": "ir3",
+    "name": "Irem",
+    "gender": "Girl",
+    "meaning": "Garden of Eden",
+    "origin": "Turkish",
+    "id": "ir1",
+    "verified": true
+  },
+  {
     "name": "Irfan",
     "gender": "Boy",
-    "meaning": "Knowledge, wisdom, gratitude",
+    "meaning": "Knowledge",
     "origin": "Arabic",
+    "id": "ir4",
     "verified": true
   },
   {
@@ -636,23 +1152,32 @@
     "gender": "Girl",
     "meaning": "River",
     "origin": "Turkish",
-    "id": "ir7",
+    "id": "ir2",
     "verified": true
   },
   {
-    "id": "ir4",
     "name": "Irsa",
     "gender": "Girl",
     "meaning": "Rainbow",
     "origin": "Persian",
+    "id": "ir6",
     "verified": true
   },
   {
-    "id": "ir5",
+    "name": "Irsah",
+    "gender": "Girl",
+    "meaning": "Rainbow",
+    "origin": "Persian",
+    "id": "ir6_var",
+    "verified": true,
+    "variant_of": "Irsa"
+  },
+  {
     "name": "Irshad",
     "gender": "Boy",
-    "meaning": "Guidance, direction",
+    "meaning": "Guidance",
     "origin": "Arabic",
+    "id": "ir7",
     "verified": true
   },
   {
@@ -664,59 +1189,128 @@
     "verified": true
   },
   {
-    "id": "ir6",
+    "name": "Irtazah",
+    "gender": "Boy",
+    "meaning": "Favorite",
+    "origin": "Arabic",
+    "id": "ir9_var",
+    "verified": true,
+    "variant_of": "Irtaza"
+  },
+  {
+    "name": "Irteeza",
+    "gender": "Boy",
+    "meaning": "Contentment",
+    "origin": "Arabic",
+    "id": "ir8_var",
+    "verified": true,
+    "variant_of": "Irtiza"
+  },
+  {
     "name": "Irtiza",
     "gender": "Boy",
-    "meaning": "Contentment, approval",
+    "meaning": "Contentment",
     "origin": "Arabic",
+    "id": "ir8",
     "verified": true
   },
   {
-    "id": "is1",
+    "name": "Irtizah",
+    "gender": "Boy",
+    "meaning": "Contentment",
+    "origin": "Arabic",
+    "id": "ir8_var",
+    "verified": true,
+    "variant_of": "Irtiza"
+  },
+  {
+    "name": "Irwan",
+    "gender": "Boy",
+    "meaning": "Patience",
+    "origin": "Indonesian",
+    "id": "ir10",
+    "verified": true
+  },
+  {
     "name": "Isa",
     "gender": "Boy",
     "meaning": "Prophet Jesus",
-    "origin": "Quranic",
+    "origin": "Arabic",
+    "id": "is3",
     "verified": true
   },
   {
-    "id": "is2",
     "name": "Isaad",
     "gender": "Boy",
     "meaning": "To make happy",
     "origin": "Arabic",
+    "id": "is14",
     "verified": true
   },
   {
-    "id": "is3",
+    "name": "Isabel",
+    "gender": "Girl",
+    "meaning": "Pledged to God",
+    "origin": "Turkish",
+    "id": "is16",
+    "verified": true
+  },
+  {
+    "name": "Isaf",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "is2",
+    "verified": true
+  },
+  {
+    "name": "Isah",
+    "gender": "Boy",
+    "meaning": "Prophet Jesus",
+    "origin": "Arabic",
+    "id": "is3_var",
+    "verified": true,
+    "variant_of": "Isa"
+  },
+  {
     "name": "Isam",
     "gender": "Boy",
-    "meaning": "Safeguard, bond",
+    "meaning": "Safeguard",
     "origin": "Arabic",
+    "id": "is4",
     "verified": true
   },
   {
     "name": "Isfahan",
     "gender": "Boy",
-    "meaning": "City in Iran",
+    "meaning": "Name of a Persian city",
     "origin": "Persian",
-    "id": "is14",
+    "id": "is1",
     "verified": true
   },
   {
-    "id": "is4",
     "name": "Isha",
     "gender": "Girl",
-    "meaning": "Night prayer",
+    "meaning": "Night Prayer",
     "origin": "Arabic",
+    "id": "is5",
     "verified": true
   },
   {
-    "id": "is5",
+    "name": "Ishah",
+    "gender": "Girl",
+    "meaning": "Night Prayer",
+    "origin": "Arabic",
+    "id": "is5_var",
+    "verified": true,
+    "variant_of": "Isha"
+  },
+  {
     "name": "Ishaq",
     "gender": "Boy",
     "meaning": "Prophet Isaac",
-    "origin": "Quranic",
+    "origin": "Arabic",
+    "id": "is6",
     "verified": true
   },
   {
@@ -728,20 +1322,29 @@
     "verified": true
   },
   {
-    "id": "is6",
     "name": "Ishrat",
-    "gender": "Unisex",
-    "meaning": "Enjoyment, pleasure",
+    "gender": "Girl",
+    "meaning": "Enjoyment",
     "origin": "Arabic",
+    "id": "is7",
     "verified": true
   },
   {
     "name": "Iskandar",
     "gender": "Boy",
-    "meaning": "Defender of men",
-    "origin": "Arabic/Persian",
-    "id": "is16",
+    "meaning": "Alexander",
+    "origin": "Arabic",
+    "id": "is8",
     "verified": true
+  },
+  {
+    "name": "Iskandareeya",
+    "gender": "Girl",
+    "meaning": "Alexandria (Egypt)",
+    "origin": "Arabic",
+    "id": "is18_var",
+    "verified": true,
+    "variant_of": "Iskandariya"
   },
   {
     "name": "Iskandariya",
@@ -752,6 +1355,15 @@
     "verified": true
   },
   {
+    "name": "Iskandariyah",
+    "gender": "Girl",
+    "meaning": "Alexandria (Egypt)",
+    "origin": "Arabic",
+    "id": "is18_var",
+    "verified": true,
+    "variant_of": "Iskandariya"
+  },
+  {
     "id": "is7",
     "name": "Islah",
     "gender": "Unisex",
@@ -760,11 +1372,11 @@
     "verified": true
   },
   {
-    "id": "is8",
     "name": "Islam",
     "gender": "Boy",
-    "meaning": "Submission to Allah",
+    "meaning": "Submission",
     "origin": "Arabic",
+    "id": "is9",
     "verified": true
   },
   {
@@ -787,24 +1399,33 @@
     "name": "Ismaeel",
     "gender": "Boy",
     "meaning": "Prophet Ishmael",
-    "origin": "Quranic",
-    "id": "is22",
+    "origin": "Arabic",
+    "id": "is10",
     "verified": true
   },
   {
-    "id": "is10",
+    "id": "is9_var",
+    "name": "Ismah",
+    "gender": "Girl",
+    "meaning": "Safeguarding",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Isma"
+  },
+  {
     "name": "Ismail",
     "gender": "Boy",
-    "meaning": "Prophet Ishmael",
-    "origin": "Quranic",
+    "meaning": "Heard by God",
+    "origin": "African",
+    "id": "is17",
     "verified": true
   },
   {
-    "id": "is11",
     "name": "Ismat",
-    "gender": "Unisex",
-    "meaning": "Protection, chastity",
+    "gender": "Girl",
+    "meaning": "Purity",
     "origin": "Arabic",
+    "id": "is11",
     "verified": true
   },
   {
@@ -816,19 +1437,28 @@
     "verified": true
   },
   {
-    "id": "is12",
     "name": "Isra",
     "gender": "Girl",
-    "meaning": "Night journey",
-    "origin": "Quranic",
+    "meaning": "Night Journey",
+    "origin": "Arabic",
+    "id": "is12",
     "verified": true
   },
   {
-    "id": "is13",
+    "name": "Israh",
+    "gender": "Girl",
+    "meaning": "Night Journey",
+    "origin": "Arabic",
+    "id": "is12_var",
+    "verified": true,
+    "variant_of": "Isra"
+  },
+  {
     "name": "Israr",
     "gender": "Boy",
-    "meaning": "Secret, persistence",
+    "meaning": "Persistence",
     "origin": "Arabic",
+    "id": "is15",
     "verified": true
   },
   {
@@ -840,12 +1470,30 @@
     "verified": true
   },
   {
+    "name": "Issah",
+    "gender": "Boy",
+    "meaning": "Jesus",
+    "origin": "Arabic",
+    "id": "is23_var",
+    "verified": true,
+    "variant_of": "Issa"
+  },
+  {
     "name": "Istabraq",
     "gender": "Girl",
     "meaning": "Brocade, rich silk",
     "origin": "Quranic",
     "id": "is15",
     "verified": true
+  },
+  {
+    "name": "Istanbool",
+    "gender": "Unisex",
+    "meaning": "City of Islam (Islambol)",
+    "origin": "Turkish",
+    "id": "is20_var",
+    "verified": true,
+    "variant_of": "Istanbul"
   },
   {
     "name": "Istanbul",
@@ -856,12 +1504,30 @@
     "verified": true
   },
   {
+    "name": "Isteefa",
+    "gender": "Boy",
+    "meaning": "Selection",
+    "origin": "Arabic",
+    "id": "is13_var",
+    "verified": true,
+    "variant_of": "Istifa"
+  },
+  {
     "name": "Istifa",
     "gender": "Boy",
     "meaning": "Selection",
     "origin": "Arabic",
-    "id": "is24",
+    "id": "is13",
     "verified": true
+  },
+  {
+    "name": "Istifah",
+    "gender": "Boy",
+    "meaning": "Selection",
+    "origin": "Arabic",
+    "id": "is13_var",
+    "verified": true,
+    "variant_of": "Istifa"
   },
   {
     "name": "Itban",
@@ -872,12 +1538,39 @@
     "verified": true
   },
   {
+    "id": "it1_var",
+    "name": "Iteedal",
+    "gender": "Girl",
+    "meaning": "Moderation",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Itidal"
+  },
+  {
+    "id": "it2_var",
+    "name": "Iteemad",
+    "gender": "Girl",
+    "meaning": "Reliance, trust",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Itimad"
+  },
+  {
     "name": "Ithra",
     "gender": "Girl",
     "meaning": "Wealth",
     "origin": "Arabic",
     "id": "it6",
     "verified": true
+  },
+  {
+    "name": "Ithrah",
+    "gender": "Girl",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "it6_var",
+    "verified": true,
+    "variant_of": "Ithra"
   },
   {
     "id": "it1",
@@ -912,19 +1605,27 @@
     "verified": true
   },
   {
-    "id": "iy1",
-    "name": "Iyad",
+    "name": "Iwan",
     "gender": "Boy",
-    "meaning": "Support, reinforcement",
-    "origin": "Arabic",
+    "meaning": "Gracious gift of God",
+    "origin": "Indonesian",
+    "id": "iw1",
     "verified": true
   },
   {
-    "id": "iy2",
+    "name": "Iyad",
+    "gender": "Boy",
+    "meaning": "Support",
+    "origin": "Arabic",
+    "id": "iy1",
+    "verified": true
+  },
+  {
     "name": "Iyas",
     "gender": "Boy",
     "meaning": "Consolation",
     "origin": "Arabic",
+    "id": "iy3",
     "verified": true
   },
   {
@@ -932,15 +1633,23 @@
     "gender": "Boy",
     "meaning": "Protection",
     "origin": "Arabic",
-    "id": "iy3",
+    "id": "iy2",
     "verified": true
   },
   {
-    "id": "iz1",
     "name": "Izaan",
     "gender": "Boy",
-    "meaning": "Obedience",
+    "meaning": "Obedience; Submission",
     "origin": "Arabic",
+    "id": "iz1",
+    "verified": true
+  },
+  {
+    "name": "Izel",
+    "gender": "Girl",
+    "meaning": "Trace; Sign",
+    "origin": "Turkish",
+    "id": "iz3",
     "verified": true
   },
   {
@@ -960,6 +1669,24 @@
     "verified": true
   },
   {
+    "id": "iz2_var",
+    "name": "Izmah",
+    "gender": "Girl",
+    "meaning": "Higher position",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Izma"
+  },
+  {
+    "name": "Izmeer",
+    "gender": "Girl",
+    "meaning": "Pearl of the Aegean",
+    "origin": "Turkish",
+    "id": "iz9_var",
+    "verified": true,
+    "variant_of": "Izmir"
+  },
+  {
     "name": "Izmir",
     "gender": "Girl",
     "meaning": "Pearl of the Aegean",
@@ -968,12 +1695,38 @@
     "verified": true
   },
   {
-    "id": "iz3",
+    "name": "Izra",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "iz2",
+    "verified": true
+  },
+  {
+    "name": "Izrah",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Arabic",
+    "id": "iz2_var",
+    "verified": true,
+    "variant_of": "Izra"
+  },
+  {
     "name": "Izz",
     "gender": "Boy",
-    "meaning": "Glory, honor, might",
+    "meaning": "Glory",
     "origin": "Arabic",
+    "id": "iz6",
     "verified": true
+  },
+  {
+    "name": "Izz-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Glory of the Faith",
+    "origin": "Arabic",
+    "id": "iz8_var",
+    "verified": true,
+    "variant_of": "Izz-Ud-Din"
   },
   {
     "name": "Izz-Ud-Din",
@@ -984,27 +1737,61 @@
     "verified": true
   },
   {
-    "id": "iz4",
     "name": "Izza",
     "gender": "Girl",
-    "meaning": "Honor, fame, power",
+    "meaning": "Honor",
     "origin": "Quranic",
+    "id": "iz7",
     "verified": true
   },
   {
-    "id": "iz5",
+    "name": "Izzah",
+    "gender": "Girl",
+    "meaning": "Power",
+    "origin": "Malay",
+    "id": "iz9",
+    "verified": true
+  },
+  {
     "name": "Izzat",
     "gender": "Unisex",
-    "meaning": "Honor, rank",
+    "meaning": "Honor",
     "origin": "Arabic",
+    "id": "iz5",
     "verified": true
   },
   {
-    "id": "iz6",
+    "name": "Izzet",
+    "gender": "Boy",
+    "meaning": "Honor; Greatness",
+    "origin": "Turkish/Arabic",
+    "id": "iz4",
+    "verified": true
+  },
+  {
+    "name": "Izzooddin",
+    "gender": "Boy",
+    "meaning": "Glory of the Religion",
+    "origin": "Arabic",
+    "id": "iz8_var",
+    "verified": true,
+    "variant_of": "Izzuddin"
+  },
+  {
+    "name": "Izzuddeen",
+    "gender": "Boy",
+    "meaning": "Glory of the Religion",
+    "origin": "Arabic",
+    "id": "iz8_var",
+    "verified": true,
+    "variant_of": "Izzuddin"
+  },
+  {
     "name": "Izzuddin",
     "gender": "Boy",
     "meaning": "Glory of the Religion",
     "origin": "Arabic",
+    "id": "iz8",
     "verified": true
   }
 ]

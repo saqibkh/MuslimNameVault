@@ -1,11 +1,81 @@
 [
   {
+    "name": "Baaheer",
+    "gender": "Boy",
+    "meaning": "Dazzling",
+    "origin": "Arabic",
+    "id": "ba124_var",
+    "verified": true,
+    "variant_of": "Baahir"
+  },
+  {
+    "name": "Baahir",
+    "gender": "Boy",
+    "meaning": "Dazzling",
+    "origin": "Arabic",
+    "id": "ba124",
+    "verified": true
+  },
+  {
+    "id": "ba1_var",
+    "name": "Baaree",
+    "gender": "Boy",
+    "meaning": "Originator, creator",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Baari"
+  },
+  {
+    "name": "Baareeq",
+    "gender": "Boy",
+    "meaning": "Shining",
+    "origin": "Arabic",
+    "id": "ba125_var",
+    "verified": true,
+    "variant_of": "Baariq"
+  },
+  {
     "id": "ba1",
     "name": "Baari",
     "gender": "Boy",
     "meaning": "Originator, creator",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "name": "Baariq",
+    "gender": "Boy",
+    "meaning": "Shining",
+    "origin": "Arabic",
+    "id": "ba125",
+    "verified": true
+  },
+  {
+    "id": "ba2_var",
+    "name": "Baaseem",
+    "gender": "Boy",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baasim"
+  },
+  {
+    "id": "ba3_var",
+    "name": "Baaseema",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baasima"
+  },
+  {
+    "name": "Baaseet",
+    "gender": "Boy",
+    "meaning": "Expander",
+    "origin": "Arabic",
+    "id": "ba133_var",
+    "verified": true,
+    "variant_of": "Baasit"
   },
   {
     "id": "ba2",
@@ -24,6 +94,15 @@
     "verified": true
   },
   {
+    "id": "ba3_var",
+    "name": "Baasimah",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baasima"
+  },
+  {
     "name": "Baasit",
     "gender": "Boy",
     "meaning": "Expander",
@@ -40,12 +119,29 @@
     "verified": true
   },
   {
+    "name": "Babak",
+    "gender": "Boy",
+    "meaning": "Little father",
+    "origin": "Persian",
+    "id": "ba1",
+    "verified": true
+  },
+  {
     "name": "Babar",
     "gender": "Boy",
     "meaning": "Tiger",
     "origin": "Persian/Turkish",
     "id": "ba109",
     "verified": true
+  },
+  {
+    "name": "Babeel",
+    "gender": "Boy",
+    "meaning": "Babylon (Ancient city in Iraq)",
+    "origin": "Arabic/Akkadian",
+    "id": "ba115_var",
+    "verified": true,
+    "variant_of": "Babil"
   },
   {
     "id": "ba5",
@@ -88,6 +184,60 @@
     "verified": true
   },
   {
+    "id": "ba8_var",
+    "name": "Badee",
+    "gender": "Boy",
+    "meaning": "Wonderful, marvelous",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badi"
+  },
+  {
+    "id": "ba9_var",
+    "name": "Badeea",
+    "gender": "Girl",
+    "meaning": "Unique, unprecedented",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badia"
+  },
+  {
+    "name": "Badeeh",
+    "gender": "Boy",
+    "meaning": "Witty",
+    "origin": "Arabic",
+    "id": "ba126_var",
+    "verified": true,
+    "variant_of": "Badih"
+  },
+  {
+    "id": "ba10_var",
+    "name": "Badeeha",
+    "gender": "Girl",
+    "meaning": "Insight, quick-witted",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badiha"
+  },
+  {
+    "name": "Badeer",
+    "gender": "Boy",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "id": "ba127_var",
+    "verified": true,
+    "variant_of": "Badir"
+  },
+  {
+    "id": "ba11_var",
+    "name": "Badeeya",
+    "gender": "Girl",
+    "meaning": "Desert, countryside",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badiya"
+  },
+  {
     "id": "ba8",
     "name": "Badi",
     "gender": "Boy",
@@ -104,11 +254,45 @@
     "verified": true
   },
   {
+    "id": "ba9_var",
+    "name": "Badiah",
+    "gender": "Girl",
+    "meaning": "Unique, unprecedented",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badia"
+  },
+  {
+    "name": "Badih",
+    "gender": "Boy",
+    "meaning": "Witty",
+    "origin": "Arabic",
+    "id": "ba126",
+    "verified": true
+  },
+  {
     "id": "ba10",
     "name": "Badiha",
     "gender": "Girl",
     "meaning": "Insight, quick-witted",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ba10_var",
+    "name": "Badihah",
+    "gender": "Girl",
+    "meaning": "Insight, quick-witted",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badiha"
+  },
+  {
+    "name": "Badir",
+    "gender": "Boy",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "id": "ba127",
     "verified": true
   },
   {
@@ -120,12 +304,30 @@
     "verified": true
   },
   {
+    "id": "ba11_var",
+    "name": "Badiyah",
+    "gender": "Girl",
+    "meaning": "Desert, countryside",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badiya"
+  },
+  {
     "name": "Badr",
     "gender": "Boy",
     "meaning": "Full moon; Site of first battle",
     "origin": "Quranic",
     "id": "ba101",
     "verified": true
+  },
+  {
+    "name": "Badr-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Full moon of the Faith",
+    "origin": "Arabic",
+    "id": "ba111_var",
+    "verified": true,
+    "variant_of": "Badr-Ud-Din"
   },
   {
     "name": "Badr-Ud-Din",
@@ -144,6 +346,33 @@
     "verified": true
   },
   {
+    "id": "ba12_var",
+    "name": "Badrah",
+    "gender": "Girl",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badra"
+  },
+  {
+    "id": "ba13_var",
+    "name": "Badree",
+    "gender": "Boy",
+    "meaning": "Of the full moon; One who fought in Badr",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badri"
+  },
+  {
+    "id": "ba14_var",
+    "name": "Badreeya",
+    "gender": "Girl",
+    "meaning": "Resembling full moon",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badriya"
+  },
+  {
     "id": "ba13",
     "name": "Badri",
     "gender": "Boy",
@@ -160,12 +389,83 @@
     "verified": true
   },
   {
+    "id": "ba14_var",
+    "name": "Badriyah",
+    "gender": "Girl",
+    "meaning": "Resembling full moon",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badriya"
+  },
+  {
+    "id": "ba15_var",
+    "name": "Badrooddin",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badruddin"
+  },
+  {
+    "name": "Badrool",
+    "gender": "Boy",
+    "meaning": "Full moon of",
+    "origin": "Malay",
+    "id": "ba118_var",
+    "verified": true,
+    "variant_of": "Badrul"
+  },
+  {
+    "id": "ba16_var",
+    "name": "Badroon Nisa",
+    "gender": "Girl",
+    "meaning": "Full moon of the women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badrun Nisa"
+  },
+  {
+    "name": "Badroonnisa",
+    "gender": "Girl",
+    "meaning": "Moon of women",
+    "origin": "Arabic",
+    "id": "ba128_var",
+    "verified": true,
+    "variant_of": "Badrunnisa"
+  },
+  {
+    "id": "ba15_var",
+    "name": "Badruddeen",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badruddin"
+  },
+  {
     "id": "ba15",
     "name": "Badruddin",
     "gender": "Boy",
     "meaning": "Full moon of the faith",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Badrul",
+    "gender": "Boy",
+    "meaning": "Full moon of",
+    "origin": "Malay",
+    "id": "ba118",
+    "verified": true
+  },
+  {
+    "id": "ba16_var",
+    "name": "Badrun Neesa",
+    "gender": "Girl",
+    "meaning": "Full moon of the women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badrun Nisa"
   },
   {
     "id": "ba16",
@@ -176,11 +476,90 @@
     "verified": true
   },
   {
+    "id": "ba16_var",
+    "name": "Badrun Nisah",
+    "gender": "Girl",
+    "meaning": "Full moon of the women",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Badrun Nisa"
+  },
+  {
+    "name": "Badrunneesa",
+    "gender": "Girl",
+    "meaning": "Moon of women",
+    "origin": "Arabic",
+    "id": "ba128_var",
+    "verified": true,
+    "variant_of": "Badrunnisa"
+  },
+  {
+    "name": "Badrunnisa",
+    "gender": "Girl",
+    "meaning": "Moon of women",
+    "origin": "Arabic",
+    "id": "ba128",
+    "verified": true
+  },
+  {
+    "name": "Badrunnisah",
+    "gender": "Girl",
+    "meaning": "Moon of women",
+    "origin": "Arabic",
+    "id": "ba128_var",
+    "verified": true,
+    "variant_of": "Badrunnisa"
+  },
+  {
+    "name": "Baeeg",
+    "gender": "Boy",
+    "meaning": "Lord; Master",
+    "origin": "Turkish",
+    "id": "ba134_var",
+    "verified": true,
+    "variant_of": "Baig"
+  },
+  {
+    "name": "Baees",
+    "gender": "Boy",
+    "meaning": "One who brings about",
+    "origin": "Arabic",
+    "id": "ba135_var",
+    "verified": true,
+    "variant_of": "Bais"
+  },
+  {
+    "id": "ba31_var",
+    "name": "Baeeza",
+    "gender": "Girl",
+    "meaning": "White, bright",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baiza"
+  },
+  {
     "name": "Baghdad",
     "gender": "Unisex",
     "meaning": "Capital of Iraq; Gift of God",
     "origin": "Persian/Arabic",
     "id": "ba117",
+    "verified": true
+  },
+  {
+    "name": "Bagoos",
+    "gender": "Boy",
+    "meaning": "Handsome, good",
+    "origin": "Indonesian",
+    "id": "ba119_var",
+    "verified": true,
+    "variant_of": "Bagus"
+  },
+  {
+    "name": "Bagus",
+    "gender": "Boy",
+    "meaning": "Handsome, good",
+    "origin": "Indonesian",
+    "id": "ba119",
     "verified": true
   },
   {
@@ -192,12 +571,30 @@
     "verified": true
   },
   {
+    "name": "Baha-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Splendor of the Faith",
+    "origin": "Arabic",
+    "id": "ba112_var",
+    "verified": true,
+    "variant_of": "Baha-Ud-Din"
+  },
+  {
     "name": "Baha-Ud-Din",
     "gender": "Boy",
     "meaning": "Splendor of the Faith",
     "origin": "Arabic",
     "id": "ba112",
     "verified": true
+  },
+  {
+    "id": "ba18_var",
+    "name": "Bahadoor",
+    "gender": "Boy",
+    "meaning": "Brave, bold",
+    "origin": "Turkish/Persian",
+    "verified": true,
+    "variant_of": "Bahadur"
   },
   {
     "id": "ba18",
@@ -208,12 +605,39 @@
     "verified": true
   },
   {
+    "id": "bh2_var",
+    "name": "Bahah",
+    "gender": "Boy",
+    "meaning": "Glory, splendor",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baha"
+  },
+  {
     "name": "Bahalla",
     "gender": "Girl",
     "meaning": "City in Oman",
     "origin": "Arabic",
     "id": "ba102",
     "verified": true
+  },
+  {
+    "name": "Bahallah",
+    "gender": "Girl",
+    "meaning": "City in Oman",
+    "origin": "Arabic",
+    "id": "ba102_var",
+    "verified": true,
+    "variant_of": "Bahalla"
+  },
+  {
+    "name": "Bahaooddin",
+    "gender": "Boy",
+    "meaning": "Glow of the religion",
+    "origin": "Arabic",
+    "id": "ba131_var",
+    "verified": true,
+    "variant_of": "Bahauddin"
   },
   {
     "id": "ba19",
@@ -224,6 +648,23 @@
     "verified": true
   },
   {
+    "name": "Bahareh",
+    "gender": "Girl",
+    "meaning": "Bringer of spring",
+    "origin": "Persian",
+    "id": "ba2",
+    "verified": true
+  },
+  {
+    "name": "Bahauddeen",
+    "gender": "Boy",
+    "meaning": "Glow of the religion",
+    "origin": "Arabic",
+    "id": "ba131_var",
+    "verified": true,
+    "variant_of": "Bahauddin"
+  },
+  {
     "name": "Bahauddin",
     "gender": "Boy",
     "meaning": "Glow of the religion",
@@ -232,12 +673,75 @@
     "verified": true
   },
   {
+    "id": "ba20_var",
+    "name": "Baheea",
+    "gender": "Girl",
+    "meaning": "Nice, beautiful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahia"
+  },
+  {
+    "id": "ba21_var",
+    "name": "Baheej",
+    "gender": "Boy",
+    "meaning": "Cheerful, happy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahij"
+  },
+  {
+    "id": "ba22_var",
+    "name": "Baheeja",
+    "gender": "Girl",
+    "meaning": "Happy, joyful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahija"
+  },
+  {
+    "id": "ba23_var",
+    "name": "Baheer",
+    "gender": "Boy",
+    "meaning": "Dazzling, brilliant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahir"
+  },
+  {
+    "id": "ba24_var",
+    "name": "Baheera",
+    "gender": "Girl",
+    "meaning": "Dazzling, brilliant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahira"
+  },
+  {
+    "id": "ba25_var",
+    "name": "Baheeya",
+    "gender": "Girl",
+    "meaning": "Beautiful, radiant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahiya"
+  },
+  {
     "id": "ba20",
     "name": "Bahia",
     "gender": "Girl",
     "meaning": "Nice, beautiful",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba20_var",
+    "name": "Bahiah",
+    "gender": "Girl",
+    "meaning": "Nice, beautiful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahia"
   },
   {
     "id": "ba21",
@@ -256,6 +760,15 @@
     "verified": true
   },
   {
+    "id": "ba22_var",
+    "name": "Bahijah",
+    "gender": "Girl",
+    "meaning": "Happy, joyful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahija"
+  },
+  {
     "id": "ba23",
     "name": "Bahir",
     "gender": "Boy",
@@ -272,12 +785,30 @@
     "verified": true
   },
   {
+    "id": "ba24_var",
+    "name": "Bahirah",
+    "gender": "Girl",
+    "meaning": "Dazzling, brilliant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahira"
+  },
+  {
     "id": "ba25",
     "name": "Bahiya",
     "gender": "Girl",
     "meaning": "Beautiful, radiant",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba25_var",
+    "name": "Bahiyah",
+    "gender": "Girl",
+    "meaning": "Beautiful, radiant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahiya"
   },
   {
     "id": "ba26",
@@ -296,6 +827,15 @@
     "verified": true
   },
   {
+    "name": "Bahlah",
+    "gender": "Girl",
+    "meaning": "Historic oasis in Oman",
+    "origin": "Arabic",
+    "id": "ba118_var",
+    "verified": true,
+    "variant_of": "Bahla"
+  },
+  {
     "id": "ba27",
     "name": "Bahman",
     "gender": "Boy",
@@ -310,6 +850,15 @@
     "meaning": "Storm, strong wind",
     "origin": "Kurdish",
     "verified": true
+  },
+  {
+    "name": "Bahraeen",
+    "gender": "Boy",
+    "meaning": "The Two Seas; Island nation",
+    "origin": "Arabic",
+    "id": "ba119_var",
+    "verified": true,
+    "variant_of": "Bahrain"
   },
   {
     "name": "Bahrain",
@@ -328,11 +877,37 @@
     "verified": true
   },
   {
+    "id": "ba30_var",
+    "name": "Bahree",
+    "gender": "Boy",
+    "meaning": "Maritime, naval",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bahri"
+  },
+  {
+    "name": "Bahreen",
+    "gender": "Boy",
+    "meaning": "Of the sea",
+    "origin": "Malay",
+    "id": "ba120_var",
+    "verified": true,
+    "variant_of": "Bahrin"
+  },
+  {
     "id": "ba30",
     "name": "Bahri",
     "gender": "Boy",
     "meaning": "Maritime, naval",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Bahrin",
+    "gender": "Boy",
+    "meaning": "Of the sea",
+    "origin": "Malay",
+    "id": "ba120",
     "verified": true
   },
   {
@@ -360,12 +935,65 @@
     "verified": true
   },
   {
+    "id": "ba31_var",
+    "name": "Baizah",
+    "gender": "Girl",
+    "meaning": "White, bright",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baiza"
+  },
+  {
+    "id": "ba32_var",
+    "name": "Bajeela",
+    "gender": "Girl",
+    "meaning": "Dignified, honored",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bajila"
+  },
+  {
     "id": "ba32",
     "name": "Bajila",
     "gender": "Girl",
     "meaning": "Dignified, honored",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba32_var",
+    "name": "Bajilah",
+    "gender": "Girl",
+    "meaning": "Dignified, honored",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bajila"
+  },
+  {
+    "name": "Bakaree",
+    "gender": "Boy",
+    "meaning": "Promise",
+    "origin": "Swahili",
+    "id": "ba121_var",
+    "verified": true,
+    "variant_of": "Bakari"
+  },
+  {
+    "name": "Bakari",
+    "gender": "Boy",
+    "meaning": "Promise",
+    "origin": "Swahili",
+    "id": "ba121",
+    "verified": true
+  },
+  {
+    "id": "ba36_var",
+    "name": "Bakeer",
+    "gender": "Boy",
+    "meaning": "Early, dawn",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bakir"
   },
   {
     "id": "ba33",
@@ -382,6 +1010,15 @@
     "meaning": "Lucky, fortunate",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "ba35_var",
+    "name": "Bakhteeyar",
+    "gender": "Boy",
+    "meaning": "Lucky, fortunate",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bakhtiyar"
   },
   {
     "id": "ba35",
@@ -408,12 +1045,39 @@
     "verified": true
   },
   {
+    "name": "Bakkah",
+    "gender": "Girl",
+    "meaning": "Ancient name of Mecca",
+    "origin": "Quranic",
+    "id": "ba103_var",
+    "verified": true,
+    "variant_of": "Bakka"
+  },
+  {
+    "name": "Bakoo",
+    "gender": "Boy",
+    "meaning": "Capital of Azerbaijan; Windy city",
+    "origin": "Persian",
+    "id": "ba120_var",
+    "verified": true,
+    "variant_of": "Baku"
+  },
+  {
     "id": "ba37",
     "name": "Bakr",
     "gender": "Boy",
     "meaning": "Young camel; First Caliph (Abu Bakr)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba38_var",
+    "name": "Bakree",
+    "gender": "Boy",
+    "meaning": "One who starts early",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bakri"
   },
   {
     "id": "ba38",
@@ -448,12 +1112,29 @@
     "verified": true
   },
   {
+    "name": "Baleeg",
+    "gender": "Boy",
+    "meaning": "Eloquent",
+    "origin": "Arabic",
+    "id": "ba130",
+    "verified": true
+  },
+  {
     "id": "ba40",
     "name": "Baleegh",
     "gender": "Boy",
     "meaning": "Eloquent",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Balig",
+    "gender": "Boy",
+    "meaning": "Eloquent",
+    "origin": "Arabic",
+    "id": "ba130_var",
+    "verified": true,
+    "variant_of": "Baleeg"
   },
   {
     "id": "ba41",
@@ -470,6 +1151,15 @@
     "origin": "Persian",
     "id": "ba122",
     "verified": true
+  },
+  {
+    "id": "ba42_var",
+    "name": "Balqees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Balqis"
   },
   {
     "id": "ba42",
@@ -496,6 +1186,15 @@
     "verified": true
   },
   {
+    "name": "Bameeyan",
+    "gender": "Boy",
+    "meaning": "Valley in Afghanistan",
+    "origin": "Persian",
+    "id": "ba124_var",
+    "verified": true,
+    "variant_of": "Bamiyan"
+  },
+  {
     "name": "Bamiyan",
     "gender": "Boy",
     "meaning": "Valley in Afghanistan",
@@ -520,12 +1219,48 @@
     "verified": true
   },
   {
+    "id": "ba45_var",
+    "name": "Banafshah",
+    "gender": "Girl",
+    "meaning": "Violet flower",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Banafsha"
+  },
+  {
+    "id": "ba44_var",
+    "name": "Banah",
+    "gender": "Girl",
+    "meaning": "Tree type",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bana"
+  },
+  {
     "id": "ba46",
     "name": "Banan",
     "gender": "Girl",
     "meaning": "Fingertips",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "ba47_var",
+    "name": "Baneen",
+    "gender": "Boy",
+    "meaning": "Wise, sensible",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Banin"
+  },
+  {
+    "name": "Baneeyas",
+    "gender": "Boy",
+    "meaning": "City in Syria/Golan",
+    "origin": "Arabic",
+    "id": "ba125_var",
+    "verified": true,
+    "variant_of": "Baniyas"
   },
   {
     "id": "ba47",
@@ -550,6 +1285,24 @@
     "meaning": "Lady, princess",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "ba49_var",
+    "name": "Baqee",
+    "gender": "Boy",
+    "meaning": "Eternal, everlasting",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Baqi"
+  },
+  {
+    "id": "ba50_var",
+    "name": "Baqeer",
+    "gender": "Boy",
+    "meaning": "Deeply learned, genius",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baqir"
   },
   {
     "id": "ba49",
@@ -584,12 +1337,30 @@
     "verified": true
   },
   {
+    "id": "ba52_var",
+    "name": "Baraah",
+    "gender": "Boy",
+    "meaning": "Innocent",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Baraa"
+  },
+  {
     "name": "Barada",
     "gender": "Girl",
     "meaning": "River of Damascus; Cold water",
     "origin": "Arabic",
     "id": "ba126",
     "verified": true
+  },
+  {
+    "name": "Baradah",
+    "gender": "Girl",
+    "meaning": "River of Damascus; Cold water",
+    "origin": "Arabic",
+    "id": "ba126_var",
+    "verified": true,
+    "variant_of": "Barada"
   },
   {
     "id": "ba53",
@@ -632,12 +1403,48 @@
     "verified": true
   },
   {
+    "id": "ba58_var",
+    "name": "Baree",
+    "gender": "Boy",
+    "meaning": "The Evolver (Attribute of Allah)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Bari"
+  },
+  {
     "id": "ba57",
     "name": "Bareea",
     "gender": "Girl",
     "meaning": "Innocent, blameless",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba60_var",
+    "name": "Bareeah",
+    "gender": "Girl",
+    "meaning": "Excelling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bariah"
+  },
+  {
+    "id": "ba61_var",
+    "name": "Bareek",
+    "gender": "Boy",
+    "meaning": "Shining, lightning",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Barik"
+  },
+  {
+    "id": "ba62_var",
+    "name": "Bareen",
+    "gender": "Unisex",
+    "meaning": "High, lofty",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Barin"
   },
   {
     "name": "Bareeq",
@@ -648,12 +1455,39 @@
     "verified": true
   },
   {
+    "id": "ba63_var",
+    "name": "Bareer",
+    "gender": "Boy",
+    "meaning": "Faithful, truthful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Barir"
+  },
+  {
     "name": "Bareera",
     "gender": "Girl",
     "meaning": "Pious",
     "origin": "Arabic",
     "id": "ba132",
     "verified": true
+  },
+  {
+    "id": "ba64_var",
+    "name": "Bareerah",
+    "gender": "Girl",
+    "meaning": "Faithful, devoted",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Barirah"
+  },
+  {
+    "name": "Barees",
+    "gender": "Boy",
+    "meaning": "Peace",
+    "origin": "Turkish",
+    "id": "ba110_var",
+    "verified": true,
+    "variant_of": "Baris"
   },
   {
     "id": "ba58",
@@ -696,12 +1530,30 @@
     "verified": true
   },
   {
+    "name": "Bariq",
+    "gender": "Boy",
+    "meaning": "Glitter; Flash",
+    "origin": "Arabic",
+    "id": "ba136_var",
+    "verified": true,
+    "variant_of": "Bareeq"
+  },
+  {
     "id": "ba63",
     "name": "Barir",
     "gender": "Boy",
     "meaning": "Faithful, truthful",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Barira",
+    "gender": "Girl",
+    "meaning": "Pious",
+    "origin": "Arabic",
+    "id": "ba132_var",
+    "verified": true,
+    "variant_of": "Bareera"
   },
   {
     "id": "ba64",
@@ -728,6 +1580,23 @@
     "verified": true
   },
   {
+    "name": "Barkatoollah",
+    "gender": "Boy",
+    "meaning": "Blessing of Allah",
+    "origin": "Arabic",
+    "id": "ba131_var",
+    "verified": true,
+    "variant_of": "Barkatullah"
+  },
+  {
+    "name": "Barkatullah",
+    "gender": "Boy",
+    "meaning": "Blessing of Allah",
+    "origin": "Arabic",
+    "id": "ba131",
+    "verified": true
+  },
+  {
     "id": "ba66",
     "name": "Barq",
     "gender": "Boy",
@@ -742,6 +1611,15 @@
     "origin": "Arabic",
     "id": "ba127",
     "verified": true
+  },
+  {
+    "name": "Barqah",
+    "gender": "Girl",
+    "meaning": "Cyrenaica (Region in Libya)",
+    "origin": "Arabic",
+    "id": "ba127_var",
+    "verified": true,
+    "variant_of": "Barqa"
   },
   {
     "name": "Barr",
@@ -776,12 +1654,30 @@
     "verified": true
   },
   {
+    "id": "ba69_var",
+    "name": "Barzeen",
+    "gender": "Boy",
+    "meaning": "Daring",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Barzin"
+  },
+  {
     "id": "ba69",
     "name": "Barzin",
     "gender": "Boy",
     "meaning": "Daring",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "name": "Basaeer",
+    "gender": "Girl",
+    "meaning": "Insight",
+    "origin": "Arabic",
+    "id": "ba139_var",
+    "verified": true,
+    "variant_of": "Basair"
   },
   {
     "name": "Basair",
@@ -816,12 +1712,39 @@
     "verified": true
   },
   {
+    "id": "ba83_var",
+    "name": "Baseel",
+    "gender": "Boy",
+    "meaning": "Brave, fearless",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basil"
+  },
+  {
+    "id": "ba84_var",
+    "name": "Baseela",
+    "gender": "Girl",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basila"
+  },
+  {
     "id": "ba71",
     "name": "Baseem",
     "gender": "Boy",
     "meaning": "Smiling",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba86_var",
+    "name": "Baseema",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basima"
   },
   {
     "id": "ba72",
@@ -840,12 +1763,30 @@
     "verified": true
   },
   {
+    "id": "ba73_var",
+    "name": "Baseerah",
+    "gender": "Girl",
+    "meaning": "Insight, wisdom",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baseera"
+  },
+  {
     "id": "ba74",
     "name": "Baseerat",
     "gender": "Girl",
     "meaning": "Insight",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba89_var",
+    "name": "Baseet",
+    "gender": "Boy",
+    "meaning": "Extender, expander",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Basit"
   },
   {
     "id": "ba75",
@@ -862,6 +1803,24 @@
     "meaning": "Bringer of glad tidings",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba77_var",
+    "name": "Bashaeer",
+    "gender": "Girl",
+    "meaning": "Good news, omens",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bashair"
+  },
+  {
+    "id": "ba75_var",
+    "name": "Bashah",
+    "gender": "Boy",
+    "meaning": "King, emperor (Pasha)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Basha"
   },
   {
     "id": "ba77",
@@ -904,6 +1863,15 @@
     "verified": true
   },
   {
+    "id": "ba80_var",
+    "name": "Basheerah",
+    "gender": "Girl",
+    "meaning": "Bringer of good news",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Basheera"
+  },
+  {
     "id": "ba81",
     "name": "Bashir",
     "gender": "Boy",
@@ -918,6 +1886,15 @@
     "meaning": "Joyful, bringer of news",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba82_var",
+    "name": "Bashirah",
+    "gender": "Girl",
+    "meaning": "Joyful, bringer of news",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bashira"
   },
   {
     "id": "ba83",
@@ -936,6 +1913,15 @@
     "verified": true
   },
   {
+    "id": "ba84_var",
+    "name": "Basilah",
+    "gender": "Girl",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basila"
+  },
+  {
     "id": "ba85",
     "name": "Basim",
     "gender": "Boy",
@@ -952,6 +1938,15 @@
     "verified": true
   },
   {
+    "id": "ba86_var",
+    "name": "Basimah",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basima"
+  },
+  {
     "id": "ba87",
     "name": "Basir",
     "gender": "Boy",
@@ -966,6 +1961,24 @@
     "meaning": "Sagacious, wise",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba88_var",
+    "name": "Basirah",
+    "gender": "Girl",
+    "meaning": "Sagacious, wise",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Basira"
+  },
+  {
+    "id": "ba74_var",
+    "name": "Basirat",
+    "gender": "Girl",
+    "meaning": "Insight",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Baseerat"
   },
   {
     "id": "ba89",
@@ -1000,12 +2013,47 @@
     "verified": true
   },
   {
+    "name": "Basrah",
+    "gender": "Girl",
+    "meaning": "Historic city in Iraq",
+    "origin": "Arabic",
+    "id": "ba128_var",
+    "verified": true,
+    "variant_of": "Basra"
+  },
+  {
+    "name": "Basree",
+    "gender": "Boy",
+    "meaning": "Vision",
+    "origin": "Malay",
+    "id": "ba122_var",
+    "verified": true,
+    "variant_of": "Basri"
+  },
+  {
+    "name": "Basri",
+    "gender": "Boy",
+    "meaning": "Vision",
+    "origin": "Malay",
+    "id": "ba122",
+    "verified": true
+  },
+  {
     "id": "ba92",
     "name": "Bassam",
     "gender": "Boy",
     "meaning": "Always smiling",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ba93_var",
+    "name": "Bateen",
+    "gender": "Boy",
+    "meaning": "Inward, hidden (Attribute of Allah)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Batin"
   },
   {
     "id": "ba93",
@@ -1024,11 +2072,37 @@
     "verified": true
   },
   {
+    "name": "Batnah",
+    "gender": "Girl",
+    "meaning": "City in Algeria",
+    "origin": "Berber/Arabic",
+    "id": "ba129_var",
+    "verified": true,
+    "variant_of": "Batna"
+  },
+  {
+    "name": "Batoohan",
+    "gender": "Boy",
+    "meaning": "Strong ruler",
+    "origin": "Turkish",
+    "id": "ba132_var",
+    "verified": true,
+    "variant_of": "Batuhan"
+  },
+  {
     "id": "ba94",
     "name": "Batool",
     "gender": "Girl",
     "meaning": "Ascetic virgin (Title of Mary and Fatimah)",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Batuhan",
+    "gender": "Boy",
+    "meaning": "Strong ruler",
+    "origin": "Turkish",
+    "id": "ba132",
     "verified": true
   },
   {
@@ -1072,12 +2146,39 @@
     "verified": true
   },
   {
+    "name": "Baydah",
+    "gender": "Girl",
+    "meaning": "Desert, wilderness",
+    "origin": "Arabic",
+    "id": "ba107_var",
+    "verified": true,
+    "variant_of": "Bayda"
+  },
+  {
     "id": "ba97",
     "name": "Bayhas",
     "gender": "Boy",
     "meaning": "Name of a lion; Courageous",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Bayoo",
+    "gender": "Boy",
+    "meaning": "Wind",
+    "origin": "Indonesian",
+    "id": "ba123_var",
+    "verified": true,
+    "variant_of": "Bayu"
+  },
+  {
+    "name": "Bayroot",
+    "gender": "Girl",
+    "meaning": "Beirut (Capital of Lebanon)",
+    "origin": "Arabic",
+    "id": "ba130_var",
+    "verified": true,
+    "variant_of": "Bayrut"
   },
   {
     "name": "Bayrut",
@@ -1104,6 +2205,14 @@
     "verified": true
   },
   {
+    "name": "Bayu",
+    "gender": "Boy",
+    "meaning": "Wind",
+    "origin": "Indonesian",
+    "id": "ba123",
+    "verified": true
+  },
+  {
     "id": "ba99",
     "name": "Baz",
     "gender": "Boy",
@@ -1118,6 +2227,15 @@
     "origin": "Arabic",
     "id": "ba141",
     "verified": true
+  },
+  {
+    "name": "Bazeel",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ba142_var",
+    "verified": true,
+    "variant_of": "Bazil"
   },
   {
     "name": "Bazil",
@@ -1136,6 +2254,24 @@
     "verified": true
   },
   {
+    "id": "ba100_var",
+    "name": "Bazlah",
+    "gender": "Girl",
+    "meaning": "Reward, generous",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bazla"
+  },
+  {
+    "name": "Bazloor",
+    "gender": "Boy",
+    "meaning": "Bounty",
+    "origin": "Arabic",
+    "id": "ba143_var",
+    "verified": true,
+    "variant_of": "Bazlur"
+  },
+  {
     "name": "Bazlur",
     "gender": "Boy",
     "meaning": "Bounty",
@@ -1144,12 +2280,192 @@
     "verified": true
   },
   {
+    "id": "bi1_var",
+    "name": "Bee",
+    "gender": "Girl",
+    "meaning": "Lady (Short for Bibi)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Bi"
+  },
+  {
+    "id": "bi2_var",
+    "name": "Beebee",
+    "gender": "Girl",
+    "meaning": "Lady, matron",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bibi"
+  },
+  {
+    "id": "bl2_var",
+    "name": "Beelal",
+    "gender": "Boy",
+    "meaning": "First Muezzin (Included here for searchability)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bilal"
+  },
+  {
+    "id": "bi4_var",
+    "name": "Beelqees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bilqis"
+  },
+  {
+    "name": "Beema",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Indonesian",
+    "id": "bi15_var",
+    "verified": true,
+    "variant_of": "Bima"
+  },
+  {
     "id": "be1",
     "name": "Beena",
     "gender": "Girl",
     "meaning": "Seeing, clear-sighted",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "be1_var",
+    "name": "Beenah",
+    "gender": "Girl",
+    "meaning": "Seeing, clear-sighted",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Beena"
+  },
+  {
+    "id": "bi6_var",
+    "name": "Beeneesh",
+    "gender": "Girl",
+    "meaning": "Vision, cleverness",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Binish"
+  },
+  {
+    "id": "bi7_var",
+    "name": "Beent",
+    "gender": "Girl",
+    "meaning": "Daughter",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bint"
+  },
+  {
+    "name": "Beentang",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "bi16_var",
+    "verified": true,
+    "variant_of": "Bintang"
+  },
+  {
+    "id": "bi8_var",
+    "name": "Beenyameen",
+    "gender": "Boy",
+    "meaning": "Benjamin (Prophet Yusuf's brother)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Binyamin"
+  },
+  {
+    "id": "bi9_var",
+    "name": "Beerrah",
+    "gender": "Girl",
+    "meaning": "Good deed",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Birrah"
+  },
+  {
+    "name": "Beesan",
+    "gender": "Girl",
+    "meaning": "Ancient city in Palestine",
+    "origin": "Arabic (Levant)",
+    "id": "bi15_var",
+    "verified": true,
+    "variant_of": "Bisan"
+  },
+  {
+    "name": "Beeshara",
+    "gender": "Girl",
+    "meaning": "Good news",
+    "origin": "Swahili",
+    "id": "bi17_var",
+    "verified": true,
+    "variant_of": "Bishara"
+  },
+  {
+    "id": "bi10_var",
+    "name": "Beeshr",
+    "gender": "Boy",
+    "meaning": "Joy, happiness",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bishr"
+  },
+  {
+    "name": "Beeskra",
+    "gender": "Girl",
+    "meaning": "Queen of the Zibans (Algeria)",
+    "origin": "Arabic",
+    "id": "bi16_var",
+    "verified": true,
+    "variant_of": "Biskra"
+  },
+  {
+    "id": "bi11_var",
+    "name": "Beesma",
+    "gender": "Girl",
+    "meaning": "Smile (Urdu variant of Basma)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Bisma"
+  },
+  {
+    "id": "bi12_var",
+    "name": "Beesmal",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Bismal"
+  },
+  {
+    "id": "bi13_var",
+    "name": "Beesman",
+    "gender": "Girl",
+    "meaning": "Polite",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bisman"
+  },
+  {
+    "id": "bi14_var",
+    "name": "Beeta",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bita"
+  },
+  {
+    "id": "be2_var",
+    "name": "Begoom",
+    "gender": "Girl",
+    "meaning": "Lady, queen, honorific",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Begum"
   },
   {
     "id": "be2",
@@ -1184,6 +2500,15 @@
     "verified": true
   },
   {
+    "id": "be7_var",
+    "name": "Behroooz",
+    "gender": "Boy",
+    "meaning": "Good day, lucky",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Behrouz"
+  },
+  {
     "id": "be6",
     "name": "Behrooz",
     "gender": "Boy",
@@ -1198,6 +2523,15 @@
     "meaning": "Good day, lucky",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "be6_var",
+    "name": "Behruz",
+    "gender": "Boy",
+    "meaning": "Fortunate, good day",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Behrooz"
   },
   {
     "id": "be8",
@@ -1216,12 +2550,38 @@
     "verified": true
   },
   {
+    "name": "Bekaah",
+    "gender": "Girl",
+    "meaning": "Valley in Lebanon",
+    "origin": "Arabic",
+    "id": "be16_var",
+    "verified": true,
+    "variant_of": "Bekaa"
+  },
+  {
     "id": "be9",
     "name": "Belal",
     "gender": "Boy",
     "meaning": "Water (Variant of Bilal)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Bello",
+    "gender": "Boy",
+    "meaning": "Helper of the faith",
+    "origin": "Hausa",
+    "id": "be16",
+    "verified": true
+  },
+  {
+    "id": "be10_var",
+    "name": "Benazeer",
+    "gender": "Girl",
+    "meaning": "Incomparable, matchless",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Benazir"
   },
   {
     "id": "be10",
@@ -1238,6 +2598,15 @@
     "origin": "Sanskrit/Arabic",
     "id": "be17",
     "verified": true
+  },
+  {
+    "id": "be11_var",
+    "name": "Bereen",
+    "gender": "Girl",
+    "meaning": "Best, highest",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Berin"
   },
   {
     "id": "be11",
@@ -1272,6 +2641,15 @@
     "verified": true
   },
   {
+    "id": "br2_var",
+    "name": "Bernah",
+    "gender": "Girl",
+    "meaning": "Young, brave",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Berna"
+  },
+  {
     "name": "Bey",
     "gender": "Boy",
     "meaning": "Lord, Chief",
@@ -1288,6 +2666,15 @@
     "verified": true
   },
   {
+    "id": "be12_var",
+    "name": "Beyzah",
+    "gender": "Girl",
+    "meaning": "White, pure",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Beyza"
+  },
+  {
     "id": "be13",
     "name": "Beza",
     "gender": "Boy",
@@ -1296,19 +2683,46 @@
     "verified": true
   },
   {
-    "id": "bh1",
+    "id": "be13_var",
+    "name": "Bezah",
+    "gender": "Boy",
+    "meaning": "White",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Beza"
+  },
+  {
+    "name": "Bhadoor",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Turkish",
+    "id": "bh1_var",
+    "verified": true,
+    "variant_of": "Bhadur"
+  },
+  {
     "name": "Bhadur",
     "gender": "Boy",
-    "meaning": "Brave (Variant of Bahadur)",
-    "origin": "Turkish/Urdu",
+    "meaning": "Brave",
+    "origin": "Turkish",
+    "id": "bh1",
     "verified": true
   },
   {
-    "id": "bh3",
+    "name": "Bhaee",
+    "gender": "Boy",
+    "meaning": "Brother",
+    "origin": "Urdu",
+    "id": "bh2_var",
+    "verified": true,
+    "variant_of": "Bhai"
+  },
+  {
     "name": "Bhai",
     "gender": "Boy",
-    "meaning": "Brother (Honorific)",
+    "meaning": "Brother",
     "origin": "Urdu",
+    "id": "bh2",
     "verified": true
   },
   {
@@ -1344,12 +2758,38 @@
     "verified": true
   },
   {
+    "name": "Bima",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Indonesian",
+    "id": "bi15",
+    "verified": true
+  },
+  {
+    "name": "Bimah",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Indonesian",
+    "id": "bi15_var",
+    "verified": true,
+    "variant_of": "Bima"
+  },
+  {
     "id": "bi5",
     "name": "Bina",
     "gender": "Girl",
     "meaning": "Vision, sight",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "bi5_var",
+    "name": "Binah",
+    "gender": "Girl",
+    "meaning": "Vision, sight",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bina"
   },
   {
     "id": "bi6",
@@ -1365,6 +2805,14 @@
     "gender": "Girl",
     "meaning": "Daughter",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "name": "Bintang",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "bi16",
     "verified": true
   },
   {
@@ -1392,6 +2840,23 @@
     "verified": true
   },
   {
+    "name": "Bishara",
+    "gender": "Girl",
+    "meaning": "Good news",
+    "origin": "Swahili",
+    "id": "bi17",
+    "verified": true
+  },
+  {
+    "name": "Bisharah",
+    "gender": "Girl",
+    "meaning": "Good news",
+    "origin": "Swahili",
+    "id": "bi17_var",
+    "verified": true,
+    "variant_of": "Bishara"
+  },
+  {
     "id": "bi10",
     "name": "Bishr",
     "gender": "Boy",
@@ -1408,12 +2873,30 @@
     "verified": true
   },
   {
+    "name": "Biskrah",
+    "gender": "Girl",
+    "meaning": "Queen of the Zibans (Algeria)",
+    "origin": "Arabic",
+    "id": "bi16_var",
+    "verified": true,
+    "variant_of": "Biskra"
+  },
+  {
     "id": "bi11",
     "name": "Bisma",
     "gender": "Girl",
     "meaning": "Smile (Urdu variant of Basma)",
     "origin": "Urdu",
     "verified": true
+  },
+  {
+    "id": "bi11_var",
+    "name": "Bismah",
+    "gender": "Girl",
+    "meaning": "Smile (Urdu variant of Basma)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Bisma"
   },
   {
     "id": "bi12",
@@ -1440,27 +2923,369 @@
     "verified": true
   },
   {
-    "id": "bo1",
+    "id": "bi14_var",
+    "name": "Bitah",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Bita"
+  },
+  {
     "name": "Boman",
     "gender": "Boy",
     "meaning": "Great mind",
     "origin": "Persian",
+    "id": "bo2",
     "verified": true
   },
   {
-    "id": "bo3",
+    "name": "Boodi",
+    "gender": "Boy",
+    "meaning": "Wisdom",
+    "origin": "Indonesian",
+    "id": "bu29_var",
+    "verified": true,
+    "variant_of": "Budi"
+  },
+  {
+    "id": "bu1_var",
+    "name": "Boodoor",
+    "gender": "Girl",
+    "meaning": "Full moons (Plural of Badr)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Budur"
+  },
+  {
+    "id": "bu2_var",
+    "name": "Boohairah",
+    "gender": "Girl",
+    "meaning": "Small lake",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buhairah"
+  },
+  {
+    "id": "bu3_var",
+    "name": "Boohaysah",
+    "gender": "Girl",
+    "meaning": "Walking with pride; A narrator of Hadith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buhaysah"
+  },
+  {
+    "id": "bu4_var",
+    "name": "Boohayyah",
+    "gender": "Girl",
+    "meaning": "Beautiful, radiant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buhayyah"
+  },
+  {
+    "id": "bu5_var",
+    "name": "Boojair",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi (Companion)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bujair"
+  },
+  {
+    "id": "bu6_var",
+    "name": "Bookayr",
+    "gender": "Boy",
+    "meaning": "Early morning; Name of a narrator",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bukayr"
+  },
+  {
+    "id": "bu7_var",
+    "name": "Bookhari",
+    "gender": "Boy",
+    "meaning": "From Bukhara; Imam Bukhari",
+    "origin": "Persian/Arabic",
+    "verified": true,
+    "variant_of": "Bukhari"
+  },
+  {
+    "id": "bl1_var",
+    "name": "Boolbool",
+    "gender": "Unisex",
+    "meaning": "Nightingale",
+    "origin": "Arabic/Persian",
+    "verified": true,
+    "variant_of": "Bulbul"
+  },
+  {
+    "id": "bu9_var",
+    "name": "Booloot",
+    "gender": "Boy",
+    "meaning": "Cloud",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Bulut"
+  },
+  {
+    "id": "bu21_var",
+    "name": "Boolqis",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba (Variant of Balqis)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bulqis"
+  },
+  {
+    "name": "Boonga",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "bu30_var",
+    "verified": true,
+    "variant_of": "Bunga"
+  },
+  {
+    "id": "bu22_var",
+    "name": "Boonyamin",
+    "gender": "Boy",
+    "meaning": "Benjamin (Brother of Yusuf)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Bunyamin"
+  },
+  {
+    "name": "Boooira",
+    "gender": "Girl",
+    "meaning": "City in Algeria",
+    "origin": "Berber",
+    "id": "bo9_var",
+    "verified": true,
+    "variant_of": "Bouira"
+  },
+  {
+    "name": "Boooloos",
+    "gender": "Boy",
+    "meaning": "Paul",
+    "origin": "Arabic",
+    "id": "bo5_var",
+    "verified": true,
+    "variant_of": "Boulus"
+  },
+  {
+    "name": "Boooran",
+    "gender": "Girl",
+    "meaning": "Cold wind",
+    "origin": "Arabic",
+    "id": "bo6_var",
+    "verified": true,
+    "variant_of": "Bouran"
+  },
+  {
+    "id": "bu10_var",
+    "name": "Booraida",
+    "gender": "Boy",
+    "meaning": "Little cool one; A companion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buraida"
+  },
+  {
+    "id": "bu11_var",
+    "name": "Boorak",
+    "gender": "Boy",
+    "meaning": "Lightning; The steed of the Prophet",
+    "origin": "Arabic/Turkish",
+    "verified": true,
+    "variant_of": "Burak"
+  },
+  {
+    "name": "Booraq",
+    "gender": "Boy",
+    "meaning": "Creature of the Night Journey",
+    "origin": "Islamic History",
+    "id": "bu27_var",
+    "verified": true,
+    "variant_of": "Buraq"
+  },
+  {
+    "id": "bu12_var",
+    "name": "Boorayd",
+    "gender": "Boy",
+    "meaning": "Cold, mild",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Burayd"
+  },
+  {
+    "name": "Booraydah",
+    "gender": "Boy",
+    "meaning": "Coolness; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "bu6_var",
+    "verified": true,
+    "variant_of": "Buraydah"
+  },
+  {
+    "id": "bu13_var",
+    "name": "Boorhan",
+    "gender": "Boy",
+    "meaning": "Proof, evidence",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Burhan"
+  },
+  {
+    "name": "Boorhan-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Proof of the Faith",
+    "origin": "Arabic",
+    "id": "bu29_var",
+    "verified": true,
+    "variant_of": "Burhan-Ud-Din"
+  },
+  {
+    "id": "bu14_var",
+    "name": "Boorhanooddin",
+    "gender": "Boy",
+    "meaning": "Proof of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Burhanuddin"
+  },
+  {
+    "id": "bu15_var",
+    "name": "Boori",
+    "gender": "Boy",
+    "meaning": "Excellent person",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buri"
+  },
+  {
+    "name": "Boorj",
+    "gender": "Boy",
+    "meaning": "Tower, constellation",
+    "origin": "Arabic",
+    "id": "bu28_var",
+    "verified": true,
+    "variant_of": "Burj"
+  },
+  {
+    "id": "bu23_var",
+    "name": "Booroom",
+    "gender": "Boy",
+    "meaning": "Bud, blossom",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Burum"
+  },
+  {
+    "name": "Boorsa",
+    "gender": "Girl",
+    "meaning": "Historic Ottoman capital",
+    "origin": "Turkish",
+    "id": "bu30_var",
+    "verified": true,
+    "variant_of": "Bursa"
+  },
+  {
+    "id": "bu16_var",
+    "name": "Boorzin",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Burzin"
+  },
+  {
+    "id": "bu17_var",
+    "name": "Boosayrah",
+    "gender": "Girl",
+    "meaning": "Insight, she-camel",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Busayrah"
+  },
+  {
+    "id": "bu24_var",
+    "name": "Booshr",
+    "gender": "Boy",
+    "meaning": "Joy, happiness",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bushr"
+  },
+  {
+    "id": "bu18_var",
+    "name": "Booshra",
+    "gender": "Girl",
+    "meaning": "Good news, glad tidings",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Bushra"
+  },
+  {
+    "id": "bu19_var",
+    "name": "Boosr",
+    "gender": "Boy",
+    "meaning": "Unripened dates; Name of a Companion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Busr"
+  },
+  {
+    "id": "bu20_var",
+    "name": "Boothayna",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body; Soft sand",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buthayna"
+  },
+  {
+    "id": "bu25_var",
+    "name": "Bootroos",
+    "gender": "Boy",
+    "meaning": "Peter (Arabic form)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Butrus"
+  },
+  {
+    "id": "bu26_var",
+    "name": "Boozoorg",
+    "gender": "Boy",
+    "meaning": "Great, elder",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Buzurg"
+  },
+  {
     "name": "Bora",
     "gender": "Boy",
-    "meaning": "Storm, hurricane",
+    "meaning": "Storm",
     "origin": "Turkish",
+    "id": "bo1",
     "verified": true
   },
   {
-    "id": "bo2",
+    "name": "Borah",
+    "gender": "Boy",
+    "meaning": "Storm",
+    "origin": "Turkish",
+    "id": "bo1_var",
+    "verified": true,
+    "variant_of": "Bora"
+  },
+  {
     "name": "Boran",
     "gender": "Boy",
     "meaning": "Thunderstorm",
     "origin": "Turkish",
+    "id": "bo3",
     "verified": true
   },
   {
@@ -1472,12 +3297,30 @@
     "verified": true
   },
   {
-    "id": "bo4",
+    "name": "Bosrah",
+    "gender": "Girl",
+    "meaning": "Ancient city in Syria",
+    "origin": "Arabic",
+    "id": "bo8_var",
+    "verified": true,
+    "variant_of": "Bosra"
+  },
+  {
     "name": "Bostan",
     "gender": "Unisex",
-    "meaning": "Garden, orchard",
+    "meaning": "Garden",
     "origin": "Persian",
+    "id": "bo4",
     "verified": true
+  },
+  {
+    "name": "Boueera",
+    "gender": "Girl",
+    "meaning": "City in Algeria",
+    "origin": "Berber",
+    "id": "bo9_var",
+    "verified": true,
+    "variant_of": "Bouira"
   },
   {
     "name": "Bouira",
@@ -1488,28 +3331,46 @@
     "verified": true
   },
   {
-    "id": "bo6",
+    "name": "Bouirah",
+    "gender": "Girl",
+    "meaning": "City in Algeria",
+    "origin": "Berber",
+    "id": "bo9_var",
+    "verified": true,
+    "variant_of": "Bouira"
+  },
+  {
     "name": "Boulus",
     "gender": "Boy",
-    "meaning": "Arabic form of Paul (Small)",
+    "meaning": "Paul",
     "origin": "Arabic",
+    "id": "bo5",
     "verified": true
   },
   {
-    "id": "bo5",
     "name": "Bouran",
     "gender": "Girl",
-    "meaning": "Cold wind, rain",
+    "meaning": "Cold wind",
     "origin": "Arabic",
+    "id": "bo6",
     "verified": true
   },
   {
-    "id": "bo7",
     "name": "Bozorg",
     "gender": "Boy",
-    "meaning": "Great, large",
+    "meaning": "Great",
     "origin": "Persian",
+    "id": "bo7",
     "verified": true
+  },
+  {
+    "id": "br1_var",
+    "name": "Braheem",
+    "gender": "Boy",
+    "meaning": "Father of multitudes (Variant of Ibrahim)",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true,
+    "variant_of": "Brahim"
   },
   {
     "id": "br1",
@@ -1520,12 +3381,38 @@
     "verified": true
   },
   {
+    "name": "Budee",
+    "gender": "Boy",
+    "meaning": "Wisdom",
+    "origin": "Indonesian",
+    "id": "bu29_var",
+    "verified": true,
+    "variant_of": "Budi"
+  },
+  {
+    "name": "Budi",
+    "gender": "Boy",
+    "meaning": "Wisdom",
+    "origin": "Indonesian",
+    "id": "bu29",
+    "verified": true
+  },
+  {
     "id": "bu1",
     "name": "Budur",
     "gender": "Girl",
     "meaning": "Full moons (Plural of Badr)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "bu2_var",
+    "name": "Buhaeerah",
+    "gender": "Girl",
+    "meaning": "Small lake",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buhairah"
   },
   {
     "id": "bu2",
@@ -1552,6 +3439,15 @@
     "verified": true
   },
   {
+    "id": "bu5_var",
+    "name": "Bujaeer",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi (Companion)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bujair"
+  },
+  {
     "id": "bu5",
     "name": "Bujair",
     "gender": "Boy",
@@ -1566,6 +3462,15 @@
     "meaning": "Early morning; Name of a narrator",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "bu7_var",
+    "name": "Bukharee",
+    "gender": "Boy",
+    "meaning": "From Bukhara; Imam Bukhari",
+    "origin": "Persian/Arabic",
+    "verified": true,
+    "variant_of": "Bukhari"
   },
   {
     "id": "bu7",
@@ -1584,6 +3489,15 @@
     "verified": true
   },
   {
+    "id": "bu21_var",
+    "name": "Bulqees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba (Variant of Balqis)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Bulqis"
+  },
+  {
     "id": "bu21",
     "name": "Bulqis",
     "gender": "Girl",
@@ -1600,6 +3514,32 @@
     "verified": true
   },
   {
+    "name": "Bunga",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "bu30",
+    "verified": true
+  },
+  {
+    "name": "Bungah",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Indonesian",
+    "id": "bu30_var",
+    "verified": true,
+    "variant_of": "Bunga"
+  },
+  {
+    "id": "bu22_var",
+    "name": "Bunyameen",
+    "gender": "Boy",
+    "meaning": "Benjamin (Brother of Yusuf)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Bunyamin"
+  },
+  {
     "id": "bu22",
     "name": "Bunyamin",
     "gender": "Boy",
@@ -1608,12 +3548,30 @@
     "verified": true
   },
   {
+    "id": "bu10_var",
+    "name": "Buraeeda",
+    "gender": "Boy",
+    "meaning": "Little cool one; A companion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buraida"
+  },
+  {
     "id": "bu10",
     "name": "Buraida",
     "gender": "Boy",
     "meaning": "Little cool one; A companion",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "bu10_var",
+    "name": "Buraidah",
+    "gender": "Boy",
+    "meaning": "Little cool one; A companion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buraida"
   },
   {
     "id": "bu11",
@@ -1640,6 +3598,23 @@
     "verified": true
   },
   {
+    "name": "Buraydah",
+    "gender": "Boy",
+    "meaning": "Coolness; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "bu6",
+    "verified": true
+  },
+  {
+    "id": "bu15_var",
+    "name": "Buree",
+    "gender": "Boy",
+    "meaning": "Excellent person",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buri"
+  },
+  {
     "id": "bu13",
     "name": "Burhan",
     "gender": "Boy",
@@ -1648,12 +3623,30 @@
     "verified": true
   },
   {
+    "name": "Burhan-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Proof of the Faith",
+    "origin": "Arabic",
+    "id": "bu29_var",
+    "verified": true,
+    "variant_of": "Burhan-Ud-Din"
+  },
+  {
     "name": "Burhan-Ud-Din",
     "gender": "Boy",
     "meaning": "Proof of the Faith",
     "origin": "Arabic",
     "id": "bu29",
     "verified": true
+  },
+  {
+    "id": "bu14_var",
+    "name": "Burhanuddeen",
+    "gender": "Boy",
+    "meaning": "Proof of the Faith",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Burhanuddin"
   },
   {
     "id": "bu14",
@@ -1688,12 +3681,30 @@
     "verified": true
   },
   {
+    "name": "Bursah",
+    "gender": "Girl",
+    "meaning": "Historic Ottoman capital",
+    "origin": "Turkish",
+    "id": "bu30_var",
+    "verified": true,
+    "variant_of": "Bursa"
+  },
+  {
     "id": "bu23",
     "name": "Burum",
     "gender": "Boy",
     "meaning": "Bud, blossom",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "bu16_var",
+    "name": "Burzeen",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Burzin"
   },
   {
     "id": "bu16",
@@ -1728,6 +3739,15 @@
     "verified": true
   },
   {
+    "id": "bu18_var",
+    "name": "Bushrah",
+    "gender": "Girl",
+    "meaning": "Good news, glad tidings",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Bushra"
+  },
+  {
     "id": "bu19",
     "name": "Busr",
     "gender": "Boy",
@@ -1742,6 +3762,15 @@
     "meaning": "Of beautiful and tender body; Soft sand",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "bu20_var",
+    "name": "Buthaynah",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body; Soft sand",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Buthayna"
   },
   {
     "id": "bu25",

@@ -1,58 +1,223 @@
 [
   {
-    "id": "qa1",
+    "name": "Qaabeel",
+    "gender": "Boy",
+    "meaning": "Acceptor, approver",
+    "origin": "Arabic",
+    "id": "qa11_var",
+    "verified": true,
+    "variant_of": "Qaabil"
+  },
+  {
     "name": "Qaabil",
     "gender": "Boy",
     "meaning": "Acceptor, approver",
     "origin": "Arabic",
+    "id": "qa11",
     "verified": true
   },
   {
-    "id": "qa2",
+    "name": "Qaaeed",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "qa39_var",
+    "verified": true,
+    "variant_of": "Qaaid"
+  },
+  {
+    "name": "Qaaid",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "qa39",
+    "verified": true
+  },
+  {
+    "name": "Qaaneea",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12_var",
+    "verified": true,
+    "variant_of": "Qaania"
+  },
+  {
+    "name": "Qaaneet",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "id": "qa37_var",
+    "verified": true,
+    "variant_of": "Qaanit"
+  },
+  {
     "name": "Qaania",
     "gender": "Girl",
     "meaning": "Content, satisfied",
     "origin": "Arabic",
+    "id": "qa12",
     "verified": true
   },
   {
-    "id": "qa3",
+    "name": "Qaaniah",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12_var",
+    "verified": true,
+    "variant_of": "Qaania"
+  },
+  {
+    "name": "Qaanit",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "id": "qa37",
+    "verified": true
+  },
+  {
+    "name": "Qaaseem",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Arabic",
+    "id": "qa38_var",
+    "verified": true,
+    "variant_of": "Qaasim"
+  },
+  {
+    "name": "Qaasim",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Arabic",
+    "id": "qa38",
+    "verified": true
+  },
+  {
+    "name": "Qabeed",
+    "gender": "Boy",
+    "meaning": "Good runner",
+    "origin": "Arabic",
+    "id": "qa13_var",
+    "verified": true,
+    "variant_of": "Qabid"
+  },
+  {
+    "name": "Qabeel",
+    "gender": "Boy",
+    "meaning": "Able; Capable",
+    "origin": "Arabic",
+    "id": "qa1_var",
+    "verified": true,
+    "variant_of": "Qabil"
+  },
+  {
+    "name": "Qabid",
+    "gender": "Boy",
+    "meaning": "Good runner",
+    "origin": "Arabic",
+    "id": "qa13",
+    "verified": true
+  },
+  {
     "name": "Qabil",
     "gender": "Boy",
-    "meaning": "Able, capable; Son of Adam (Cain)",
-    "origin": "Quranic",
+    "meaning": "Able; Capable",
+    "origin": "Arabic",
+    "id": "qa1",
     "verified": true
   },
   {
-    "id": "qa4",
+    "name": "Qaboos",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "qa2_var",
+    "verified": true,
+    "variant_of": "Qabus"
+  },
+  {
     "name": "Qabus",
     "gender": "Boy",
     "meaning": "Handsome",
     "origin": "Arabic",
+    "id": "qa2",
     "verified": true
   },
   {
-    "id": "qa5",
+    "name": "Qadar",
+    "gender": "Boy",
+    "meaning": "Divine destiny",
+    "origin": "Arabic",
+    "id": "qa3",
+    "verified": true
+  },
+  {
+    "name": "Qaddoor",
+    "gender": "Boy",
+    "meaning": "Capable",
+    "origin": "Arabic",
+    "id": "qa4_var",
+    "verified": true,
+    "variant_of": "Qaddur"
+  },
+  {
+    "name": "Qaddur",
+    "gender": "Boy",
+    "meaning": "Capable",
+    "origin": "Arabic",
+    "id": "qa4",
+    "verified": true
+  },
+  {
+    "name": "Qadee",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "qa15_var",
+    "verified": true,
+    "variant_of": "Qadi"
+  },
+  {
+    "name": "Qadeem",
+    "gender": "Boy",
+    "meaning": "Ancient",
+    "origin": "Arabic",
+    "id": "qa16_var",
+    "verified": true,
+    "variant_of": "Qadim"
+  },
+  {
     "name": "Qadeer",
     "gender": "Boy",
     "meaning": "Powerful, capable",
     "origin": "Quranic",
+    "id": "qa14",
     "verified": true
   },
   {
-    "id": "qa6",
+    "name": "Qadeera",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17_var",
+    "verified": true,
+    "variant_of": "Qadira"
+  },
+  {
     "name": "Qadi",
     "gender": "Boy",
     "meaning": "Judge",
     "origin": "Arabic",
+    "id": "qa15",
     "verified": true
   },
   {
-    "id": "qa7",
     "name": "Qadim",
     "gender": "Boy",
     "meaning": "Ancient",
     "origin": "Arabic",
+    "id": "qa16",
     "verified": true
   },
   {
@@ -64,43 +229,124 @@
     "verified": true
   },
   {
-    "id": "qa9",
     "name": "Qadira",
     "gender": "Girl",
     "meaning": "Powerful, capable",
     "origin": "Arabic",
+    "id": "qa17",
     "verified": true
   },
   {
-    "id": "qa10",
+    "name": "Qadirah",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17_var",
+    "verified": true,
+    "variant_of": "Qadira"
+  },
+  {
+    "name": "Qaeed",
+    "gender": "Boy",
+    "meaning": "Leader, commander",
+    "origin": "Arabic",
+    "id": "qa20_var",
+    "verified": true,
+    "variant_of": "Qaid"
+  },
+  {
+    "name": "Qaeem",
+    "gender": "Boy",
+    "meaning": "Rising, standing",
+    "origin": "Quranic",
+    "id": "qa21_var",
+    "verified": true,
+    "variant_of": "Qaim"
+  },
+  {
+    "name": "Qaeerawan",
+    "gender": "Boy",
+    "meaning": "Caravan (Tunisia)",
+    "origin": "Arabic",
+    "id": "qa41_var",
+    "verified": true,
+    "variant_of": "Qairawan"
+  },
+  {
+    "name": "Qaees",
+    "gender": "Boy",
+    "meaning": "Lover; Measure",
+    "origin": "Arabic",
+    "id": "qa22_var",
+    "verified": true,
+    "variant_of": "Qais"
+  },
+  {
+    "name": "Qaeesar",
+    "gender": "Boy",
+    "meaning": "Caesar",
+    "origin": "Arabic",
+    "id": "qa38_var",
+    "verified": true,
+    "variant_of": "Qaisar"
+  },
+  {
+    "name": "Qaeeser",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qa23_var",
+    "verified": true,
+    "variant_of": "Qaiser"
+  },
+  {
+    "name": "Qaheera",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18_var",
+    "verified": true,
+    "variant_of": "Qahira"
+  },
+  {
     "name": "Qahira",
     "gender": "Girl",
-    "meaning": "Victorious (City of Cairo)",
+    "meaning": "Victorious",
     "origin": "Arabic",
+    "id": "qa18",
     "verified": true
   },
   {
-    "id": "qa11",
+    "name": "Qahirah",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18_var",
+    "verified": true,
+    "variant_of": "Qahira"
+  },
+  {
     "name": "Qahr",
     "gender": "Boy",
     "meaning": "Power, dominance",
     "origin": "Arabic",
+    "id": "qa19",
     "verified": true
   },
   {
-    "id": "qa12",
     "name": "Qaid",
     "gender": "Boy",
     "meaning": "Leader, commander",
     "origin": "Arabic",
+    "id": "qa20",
     "verified": true
   },
   {
-    "id": "qa13",
     "name": "Qaim",
     "gender": "Boy",
     "meaning": "Rising, standing",
     "origin": "Quranic",
+    "id": "qa21",
     "verified": true
   },
   {
@@ -112,11 +358,11 @@
     "verified": true
   },
   {
-    "id": "qa14",
     "name": "Qais",
     "gender": "Boy",
     "meaning": "Lover; Measure",
     "origin": "Arabic",
+    "id": "qa22",
     "verified": true
   },
   {
@@ -128,20 +374,29 @@
     "verified": true
   },
   {
-    "id": "qa15",
     "name": "Qaiser",
     "gender": "Boy",
-    "meaning": "Emperor (Caesar)",
+    "meaning": "Emperor",
     "origin": "Arabic",
+    "id": "qa23",
     "verified": true
   },
   {
-    "id": "qa16",
     "name": "Qamar",
     "gender": "Unisex",
     "meaning": "Moon",
-    "origin": "Quranic",
+    "origin": "Urdu",
+    "id": "qa35",
     "verified": true
+  },
+  {
+    "name": "Qamar-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Moon of the Faith",
+    "origin": "Arabic",
+    "id": "qa39_var",
+    "verified": true,
+    "variant_of": "Qamar-Ud-Din"
   },
   {
     "name": "Qamar-Ud-Din",
@@ -160,19 +415,28 @@
     "verified": true
   },
   {
-    "id": "qa17",
+    "name": "Qamaree",
+    "gender": "Girl",
+    "meaning": "Moon-like",
+    "origin": "Arabic",
+    "id": "qa24_var",
+    "verified": true,
+    "variant_of": "Qamari"
+  },
+  {
     "name": "Qamari",
     "gender": "Girl",
     "meaning": "Moon-like",
     "origin": "Arabic",
+    "id": "qa24",
     "verified": true
   },
   {
-    "id": "qa18",
     "name": "Qanaat",
     "gender": "Unisex",
     "meaning": "Patience, contentment",
     "origin": "Arabic",
+    "id": "qa25",
     "verified": true
   },
   {
@@ -184,20 +448,72 @@
     "verified": true
   },
   {
-    "id": "qa19",
-    "name": "Qani",
+    "name": "Qanee",
     "gender": "Boy",
-    "meaning": "Content, satisfied",
+    "meaning": "Satisfied",
     "origin": "Arabic",
+    "id": "qa40",
     "verified": true
   },
   {
-    "id": "qa20",
+    "name": "Qaneea",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26_var",
+    "verified": true,
+    "variant_of": "Qania"
+  },
+  {
+    "name": "Qaneet",
+    "gender": "Boy",
+    "meaning": "Obedient; Submissive to Allah",
+    "origin": "Quranic",
+    "id": "qa6_var",
+    "verified": true,
+    "variant_of": "Qanit"
+  },
+  {
+    "name": "Qani",
+    "gender": "Boy",
+    "meaning": "Content; Satisfied",
+    "origin": "Arabic",
+    "id": "qa5",
+    "verified": true
+  },
+  {
     "name": "Qania",
     "gender": "Girl",
     "meaning": "Content, satisfied",
     "origin": "Arabic",
+    "id": "qa26",
     "verified": true
+  },
+  {
+    "name": "Qaniah",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26_var",
+    "verified": true,
+    "variant_of": "Qania"
+  },
+  {
+    "name": "Qanit",
+    "gender": "Boy",
+    "meaning": "Obedient; Submissive to Allah",
+    "origin": "Quranic",
+    "id": "qa6",
+    "verified": true
+  },
+  {
+    "name": "Qanoon",
+    "gender": "Boy",
+    "meaning": "Law, rule",
+    "origin": "Arabic",
+    "id": "qa28_var",
+    "verified": true,
+    "variant_of": "Qanun"
   },
   {
     "name": "Qantara",
@@ -208,27 +524,36 @@
     "verified": true
   },
   {
-    "id": "qa21",
     "name": "Qantarah",
     "gender": "Girl",
     "meaning": "Small bridge",
     "origin": "Arabic",
+    "id": "qa27",
     "verified": true
   },
   {
-    "id": "qa22",
     "name": "Qanun",
     "gender": "Boy",
     "meaning": "Law, rule",
     "origin": "Arabic",
+    "id": "qa28",
     "verified": true
   },
   {
-    "id": "qa23",
+    "name": "Qareen",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Quranic",
+    "id": "qa29_var",
+    "verified": true,
+    "variant_of": "Qarin"
+  },
+  {
     "name": "Qarin",
     "gender": "Boy",
     "meaning": "Companion",
     "origin": "Quranic",
+    "id": "qa29",
     "verified": true
   },
   {
@@ -240,11 +565,74 @@
     "verified": true
   },
   {
-    "id": "qa24",
+    "name": "Qaseed",
+    "gender": "Boy",
+    "meaning": "Messenger; Representative",
+    "origin": "Arabic",
+    "id": "qa7_var",
+    "verified": true,
+    "variant_of": "Qasid"
+  },
+  {
+    "name": "Qaseeda",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Arabic",
+    "id": "qa35_var",
+    "verified": true,
+    "variant_of": "Qasida"
+  },
+  {
+    "name": "Qaseef",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "qa8_var",
+    "verified": true,
+    "variant_of": "Qasif"
+  },
+  {
+    "name": "Qaseem",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Urdu",
+    "id": "qa36_var",
+    "verified": true,
+    "variant_of": "Qasim"
+  },
+  {
+    "name": "Qaseema",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30_var",
+    "verified": true,
+    "variant_of": "Qasima"
+  },
+  {
+    "name": "Qaseeoun",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44_var",
+    "verified": true,
+    "variant_of": "Qasioun"
+  },
+  {
+    "name": "Qaseet",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "qa41_var",
+    "verified": true,
+    "variant_of": "Qasit"
+  },
+  {
     "name": "Qasid",
     "gender": "Boy",
-    "meaning": "Messenger",
+    "meaning": "Messenger; Representative",
     "origin": "Arabic",
+    "id": "qa7",
     "verified": true
   },
   {
@@ -256,28 +644,55 @@
     "verified": true
   },
   {
-    "id": "qa25",
+    "name": "Qasidah",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Arabic",
+    "id": "qa35_var",
+    "verified": true,
+    "variant_of": "Qasida"
+  },
+  {
     "name": "Qasif",
     "gender": "Boy",
     "meaning": "Discoverer",
     "origin": "Arabic",
+    "id": "qa8",
     "verified": true
   },
   {
-    "id": "qa26",
     "name": "Qasim",
     "gender": "Boy",
-    "meaning": "Distributor, divider; Son of the Prophet",
-    "origin": "Arabic",
+    "meaning": "Divider",
+    "origin": "Urdu",
+    "id": "qa36",
     "verified": true
   },
   {
-    "id": "qa27",
     "name": "Qasima",
     "gender": "Girl",
     "meaning": "Distributor",
     "origin": "Arabic",
+    "id": "qa30",
     "verified": true
+  },
+  {
+    "name": "Qasimah",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30_var",
+    "verified": true,
+    "variant_of": "Qasima"
+  },
+  {
+    "name": "Qasiooon",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44_var",
+    "verified": true,
+    "variant_of": "Qasioun"
   },
   {
     "name": "Qasioun",
@@ -288,20 +703,46 @@
     "verified": true
   },
   {
-    "id": "qa28",
+    "name": "Qasit",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "qa41",
+    "verified": true
+  },
+  {
     "name": "Qasoomah",
     "gender": "Girl",
     "meaning": "Poetess",
     "origin": "Arabic",
+    "id": "qa31",
     "verified": true
   },
   {
-    "id": "qa29",
+    "name": "Qasumah",
+    "gender": "Girl",
+    "meaning": "Poetess",
+    "origin": "Arabic",
+    "id": "qa31_var",
+    "verified": true,
+    "variant_of": "Qasoomah"
+  },
+  {
     "name": "Qatadah",
     "gender": "Boy",
-    "meaning": "A hardwood tree; A Companion",
+    "meaning": "Name of a Sahabi; A hardwood tree",
     "origin": "Arabic",
+    "id": "qa9",
     "verified": true
+  },
+  {
+    "name": "Qateef",
+    "gender": "Boy",
+    "meaning": "Harvest (Saudi Arabia)",
+    "origin": "Arabic",
+    "id": "qa45_var",
+    "verified": true,
+    "variant_of": "Qatif"
   },
   {
     "name": "Qatif",
@@ -320,20 +761,38 @@
     "verified": true
   },
   {
-    "id": "qa31",
     "name": "Qays",
     "gender": "Boy",
-    "meaning": "Firmness",
+    "meaning": "Firm; Name of a Sahabi",
     "origin": "Arabic",
+    "id": "qa10",
     "verified": true
   },
   {
-    "id": "qa30",
+    "name": "Qayyeem",
+    "gender": "Boy",
+    "meaning": "Straight, valuable",
+    "origin": "Quranic",
+    "id": "qa32_var",
+    "verified": true,
+    "variant_of": "Qayyim"
+  },
+  {
     "name": "Qayyim",
     "gender": "Boy",
     "meaning": "Straight, valuable",
     "origin": "Quranic",
+    "id": "qa32",
     "verified": true
+  },
+  {
+    "name": "Qayyoom",
+    "gender": "Boy",
+    "meaning": "Self-subsisting (Allah)",
+    "origin": "Quranic",
+    "id": "qa37_var",
+    "verified": true,
+    "variant_of": "Qayyum"
   },
   {
     "name": "Qayyum",
@@ -344,20 +803,119 @@
     "verified": true
   },
   {
-    "id": "qa32",
+    "name": "Qazafee",
+    "gender": "Boy",
+    "meaning": "One who lives in vast woods",
+    "origin": "Arabic",
+    "id": "qa33_var",
+    "verified": true,
+    "variant_of": "Qazafi"
+  },
+  {
     "name": "Qazafi",
     "gender": "Boy",
     "meaning": "One who lives in vast woods",
     "origin": "Arabic",
+    "id": "qa33",
     "verified": true
   },
   {
-    "id": "qa33",
+    "name": "Qazee",
+    "gender": "Boy",
+    "meaning": "Judge, justice",
+    "origin": "Arabic",
+    "id": "qa34_var",
+    "verified": true,
+    "variant_of": "Qazi"
+  },
+  {
     "name": "Qazi",
     "gender": "Boy",
     "meaning": "Judge, justice",
     "origin": "Arabic",
+    "id": "qa34",
     "verified": true
+  },
+  {
+    "name": "Qeebla",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6_var",
+    "verified": true,
+    "variant_of": "Qibla"
+  },
+  {
+    "id": "qi1_var",
+    "name": "Qeendeel",
+    "gender": "Boy",
+    "meaning": "Oil lamp",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qindil"
+  },
+  {
+    "id": "qi2_var",
+    "name": "Qeerat",
+    "gender": "Girl",
+    "meaning": "Beautiful recitation",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qirat"
+  },
+  {
+    "name": "Qeesmat",
+    "gender": "Unisex",
+    "meaning": "Destiny",
+    "origin": "Arabic",
+    "id": "qi1_var",
+    "verified": true,
+    "variant_of": "Qismat"
+  },
+  {
+    "id": "qi3_var",
+    "name": "Qeesmet",
+    "gender": "Girl",
+    "meaning": "Destiny, fate",
+    "origin": "Turkish/Arabic",
+    "verified": true,
+    "variant_of": "Qismet"
+  },
+  {
+    "name": "Qeesra",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7_var",
+    "verified": true,
+    "variant_of": "Qisra"
+  },
+  {
+    "name": "Qeesteena",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8_var",
+    "verified": true,
+    "variant_of": "Qistina"
+  },
+  {
+    "id": "qi4_var",
+    "name": "Qeeswarah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qiswarah"
+  },
+  {
+    "id": "qi5_var",
+    "name": "Qeeyam",
+    "gender": "Boy",
+    "meaning": "Standing (in prayer)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qiyam"
   },
   {
     "name": "Qena",
@@ -368,12 +926,30 @@
     "verified": true
   },
   {
+    "name": "Qenah",
+    "gender": "Boy",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "qe1_var",
+    "verified": true,
+    "variant_of": "Qena"
+  },
+  {
     "name": "Qibla",
     "gender": "Girl",
     "meaning": "Direction of prayer",
     "origin": "Islamic",
     "id": "qi6",
     "verified": true
+  },
+  {
+    "name": "Qiblah",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6_var",
+    "verified": true,
+    "variant_of": "Qibla"
   },
   {
     "id": "qi1",
@@ -389,6 +965,14 @@
     "gender": "Girl",
     "meaning": "Beautiful recitation",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Qismat",
+    "gender": "Unisex",
+    "meaning": "Destiny",
+    "origin": "Arabic",
+    "id": "qi1",
     "verified": true
   },
   {
@@ -408,12 +992,30 @@
     "verified": true
   },
   {
+    "name": "Qisrah",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7_var",
+    "verified": true,
+    "variant_of": "Qisra"
+  },
+  {
     "name": "Qistina",
     "gender": "Girl",
     "meaning": "Justice",
     "origin": "Arabic",
     "id": "qi8",
     "verified": true
+  },
+  {
+    "name": "Qistinah",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8_var",
+    "verified": true,
+    "variant_of": "Qistina"
   },
   {
     "id": "qi4",
@@ -440,6 +1042,186 @@
     "verified": true
   },
   {
+    "id": "qu1_var",
+    "name": "Qoobool",
+    "gender": "Girl",
+    "meaning": "Acceptance",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qubul"
+  },
+  {
+    "name": "Qoodamah",
+    "gender": "Boy",
+    "meaning": "Courage",
+    "origin": "Arabic",
+    "id": "qu1_var",
+    "verified": true,
+    "variant_of": "Qudamah"
+  },
+  {
+    "id": "qu3_var",
+    "name": "Qoodrah",
+    "gender": "Unisex",
+    "meaning": "Power, ability",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qudrah"
+  },
+  {
+    "name": "Qoodrat",
+    "gender": "Unisex",
+    "meaning": "Power, Nature",
+    "origin": "Arabic",
+    "id": "qu15_var",
+    "verified": true,
+    "variant_of": "Qudrat"
+  },
+  {
+    "name": "Qoodrat-Ullah",
+    "gender": "Boy",
+    "meaning": "Power of God",
+    "origin": "Arabic",
+    "id": "qu16_var",
+    "verified": true,
+    "variant_of": "Qudrat-Ullah"
+  },
+  {
+    "id": "qu4_var",
+    "name": "Qoods",
+    "gender": "Unisex",
+    "meaning": "Holiness; Jerusalem",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Quds"
+  },
+  {
+    "name": "Qoodsia",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia"
+  },
+  {
+    "id": "qu5_var",
+    "name": "Qoodsiya",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya"
+  },
+  {
+    "id": "qu6_var",
+    "name": "Qoodwa",
+    "gender": "Girl",
+    "meaning": "Model, example",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudwa"
+  },
+  {
+    "name": "Qooratoolain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu19_var",
+    "verified": true,
+    "variant_of": "Quratulain"
+  },
+  {
+    "name": "Qoorb",
+    "gender": "Boy",
+    "meaning": "Closeness",
+    "origin": "Arabic",
+    "id": "qu5_var",
+    "verified": true,
+    "variant_of": "Qurb"
+  },
+  {
+    "name": "Qoorban",
+    "gender": "Boy",
+    "meaning": "Sacrifice",
+    "origin": "Arabic",
+    "id": "qu2_var",
+    "verified": true,
+    "variant_of": "Qurban"
+  },
+  {
+    "name": "Qoorrat-Ul-Ain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "id": "qu14_var",
+    "verified": true,
+    "variant_of": "Qurrat-Ul-Ain"
+  },
+  {
+    "id": "qu8_var",
+    "name": "Qoorratoolain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qurratulain"
+  },
+  {
+    "name": "Qoosantina",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina"
+  },
+  {
+    "name": "Qoosay",
+    "gender": "Boy",
+    "meaning": "Distant; Ancestor of the Prophet",
+    "origin": "Arabic",
+    "id": "qu3_var",
+    "verified": true,
+    "variant_of": "Qusay"
+  },
+  {
+    "name": "Qootaybah",
+    "gender": "Boy",
+    "meaning": "Narrator of Hadith",
+    "origin": "Arabic",
+    "id": "qu4_var",
+    "verified": true,
+    "variant_of": "Qutaybah"
+  },
+  {
+    "id": "qu11_var",
+    "name": "Qootb",
+    "gender": "Boy",
+    "meaning": "Axis, pole, leader",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qutb"
+  },
+  {
+    "name": "Qootb-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17_var",
+    "verified": true,
+    "variant_of": "Qutb-Ud-Din"
+  },
+  {
+    "id": "qu12_var",
+    "name": "Qootooz",
+    "gender": "Boy",
+    "meaning": "Vicious (Historical Mamluk Sultan)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Qutuz"
+  },
+  {
     "id": "qu1",
     "name": "Qubul",
     "gender": "Girl",
@@ -448,11 +1230,11 @@
     "verified": true
   },
   {
-    "id": "qu2",
     "name": "Qudamah",
     "gender": "Boy",
-    "meaning": "Courage; Old name",
+    "meaning": "Courage",
     "origin": "Arabic",
+    "id": "qu1",
     "verified": true
   },
   {
@@ -488,12 +1270,39 @@
     "verified": true
   },
   {
+    "name": "Qudseea",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia"
+  },
+  {
+    "id": "qu5_var",
+    "name": "Qudseeya",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya"
+  },
+  {
     "name": "Qudsia",
     "gender": "Girl",
     "meaning": "Holy; From Jerusalem",
     "origin": "Arabic",
     "id": "qu13",
     "verified": true
+  },
+  {
+    "name": "Qudsiah",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia"
   },
   {
     "id": "qu5",
@@ -504,12 +1313,39 @@
     "verified": true
   },
   {
+    "id": "qu5_var",
+    "name": "Qudsiyah",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya"
+  },
+  {
     "id": "qu6",
     "name": "Qudwa",
     "gender": "Girl",
     "meaning": "Model, example",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "qu6_var",
+    "name": "Qudwah",
+    "gender": "Girl",
+    "meaning": "Model, example",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudwa"
+  },
+  {
+    "name": "Quratulaeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu19_var",
+    "verified": true,
+    "variant_of": "Quratulain"
   },
   {
     "name": "Quratulain",
@@ -520,12 +1356,29 @@
     "verified": true
   },
   {
-    "id": "qu7",
+    "name": "Qurb",
+    "gender": "Boy",
+    "meaning": "Closeness",
+    "origin": "Arabic",
+    "id": "qu5",
+    "verified": true
+  },
+  {
     "name": "Qurban",
     "gender": "Boy",
     "meaning": "Sacrifice",
-    "origin": "Quranic",
+    "origin": "Arabic",
+    "id": "qu2",
     "verified": true
+  },
+  {
+    "name": "Qurrat-Ul-Aeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "id": "qu14_var",
+    "verified": true,
+    "variant_of": "Qurrat-Ul-Ain"
   },
   {
     "name": "Qurrat-Ul-Ain",
@@ -536,12 +1389,30 @@
     "verified": true
   },
   {
+    "id": "qu8_var",
+    "name": "Qurratulaeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qurratulain"
+  },
+  {
     "id": "qu8",
     "name": "Qurratulain",
     "gender": "Girl",
     "meaning": "Delight of the eyes",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "name": "Qusanteena",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina"
   },
   {
     "name": "Qusantina",
@@ -552,19 +1423,28 @@
     "verified": true
   },
   {
-    "id": "qu9",
+    "name": "Qusantinah",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina"
+  },
+  {
     "name": "Qusay",
     "gender": "Boy",
     "meaning": "Distant; Ancestor of the Prophet",
     "origin": "Arabic",
+    "id": "qu3",
     "verified": true
   },
   {
-    "id": "qu10",
     "name": "Qutaybah",
     "gender": "Boy",
-    "meaning": "Impatient; A famous narrator",
+    "meaning": "Narrator of Hadith",
     "origin": "Arabic",
+    "id": "qu4",
     "verified": true
   },
   {
@@ -574,6 +1454,15 @@
     "meaning": "Axis, pole, leader",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Qutb-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17_var",
+    "verified": true,
+    "variant_of": "Qutb-Ud-Din"
   },
   {
     "name": "Qutb-Ud-Din",

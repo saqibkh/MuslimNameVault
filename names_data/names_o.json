@@ -1,5 +1,23 @@
 [
   {
+    "id": "ob1_var",
+    "name": "Obaeed",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Obaid"
+  },
+  {
+    "id": "ob2_var",
+    "name": "Obaeedullah",
+    "gender": "Boy",
+    "meaning": "Little servant of Allah",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Obaidullah"
+  },
+  {
     "id": "ob1",
     "name": "Obaid",
     "gender": "Boy",
@@ -8,12 +26,30 @@
     "verified": true
   },
   {
+    "id": "ob2_var",
+    "name": "Obaidoollah",
+    "gender": "Boy",
+    "meaning": "Little servant of Allah",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Obaidullah"
+  },
+  {
     "id": "ob2",
     "name": "Obaidullah",
     "gender": "Boy",
     "meaning": "Little servant of Allah",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "od1_var",
+    "name": "Odaee",
+    "gender": "Boy",
+    "meaning": "Sunrise, rising",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Odai"
   },
   {
     "id": "od1",
@@ -32,11 +68,29 @@
     "verified": false
   },
   {
-    "id": "og1",
+    "name": "Ogooz",
+    "gender": "Boy",
+    "meaning": "Strong; First Turkic tribes",
+    "origin": "Turkish",
+    "id": "og1_var",
+    "verified": true,
+    "variant_of": "Oguz"
+  },
+  {
+    "id": "og2_var",
+    "name": "Ogoozhan",
+    "gender": "Boy",
+    "meaning": "Strong ruler",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Oguzhan"
+  },
+  {
     "name": "Oguz",
     "gender": "Boy",
-    "meaning": "Strong, pure",
+    "meaning": "Strong; First Turkic tribes",
     "origin": "Turkish",
+    "id": "og1",
     "verified": true
   },
   {
@@ -62,6 +116,15 @@
     "meaning": "Spider; Name of a famous Companion (Ukasha)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ok1_var",
+    "name": "Okashah",
+    "gender": "Boy",
+    "meaning": "Spider; Name of a famous Companion (Ukasha)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Okasha"
   },
   {
     "id": "ok2",
@@ -96,12 +159,39 @@
     "verified": true
   },
   {
+    "id": "ol2_var",
+    "name": "Olyah",
+    "gender": "Girl",
+    "meaning": "High, tall",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Olya"
+  },
+  {
     "id": "om1",
     "name": "Oma",
     "gender": "Girl",
     "meaning": "Leader, life giver",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "om2_var",
+    "name": "Omaeer",
+    "gender": "Boy",
+    "meaning": "Long lived, populating",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Omair"
+  },
+  {
+    "id": "om1_var",
+    "name": "Omah",
+    "gender": "Girl",
+    "meaning": "Leader, life giver",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Oma"
   },
   {
     "id": "om2",
@@ -120,6 +210,15 @@
     "verified": true
   },
   {
+    "id": "om8_var",
+    "name": "Omamah",
+    "gender": "Girl",
+    "meaning": "Granddaughter of the Prophet (Umamah)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Omama"
+  },
+  {
     "name": "Oman",
     "gender": "Boy",
     "meaning": "Settled; Country",
@@ -128,19 +227,28 @@
     "verified": true
   },
   {
-    "id": "om3",
     "name": "Omar",
     "gender": "Boy",
-    "meaning": "Life, long-lived; Second Caliph",
-    "origin": "Arabic",
+    "meaning": "Long lived",
+    "origin": "African",
+    "id": "om3",
     "verified": true
   },
   {
-    "id": "om4",
+    "name": "Omaree",
+    "gender": "Boy",
+    "meaning": "God the highest",
+    "origin": "Swahili",
+    "id": "om4_var",
+    "verified": true,
+    "variant_of": "Omari"
+  },
+  {
     "name": "Omari",
     "gender": "Boy",
-    "meaning": "Populous, flourishing",
-    "origin": "Swahili/Arabic",
+    "meaning": "God the highest",
+    "origin": "Swahili",
+    "id": "om4",
     "verified": true
   },
   {
@@ -152,6 +260,33 @@
     "verified": true
   },
   {
+    "name": "Omaymah",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "id": "om10_var",
+    "verified": true,
+    "variant_of": "Omayma"
+  },
+  {
+    "name": "Omeed",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Persian",
+    "id": "om1_var",
+    "verified": true,
+    "variant_of": "Omid"
+  },
+  {
+    "id": "om7_var",
+    "name": "Omeeer",
+    "gender": "Boy",
+    "meaning": "Long lived",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Omeir"
+  },
+  {
     "id": "om7",
     "name": "Omeir",
     "gender": "Boy",
@@ -160,12 +295,21 @@
     "verified": true
   },
   {
-    "id": "om5",
     "name": "Omid",
     "gender": "Boy",
     "meaning": "Hope",
     "origin": "Persian",
+    "id": "om1",
     "verified": true
+  },
+  {
+    "name": "Omoor",
+    "gender": "Unisex",
+    "meaning": "Life (Umr)",
+    "origin": "Turkish/Arabic",
+    "id": "om2_var",
+    "verified": true,
+    "variant_of": "Omur"
   },
   {
     "id": "om6",
@@ -176,12 +320,56 @@
     "verified": true
   },
   {
-    "id": "on1",
+    "name": "Omur",
+    "gender": "Unisex",
+    "meaning": "Life (Umr)",
+    "origin": "Turkish/Arabic",
+    "id": "om2",
+    "verified": true
+  },
+  {
+    "name": "Onoor",
+    "gender": "Boy",
+    "meaning": "Honor; Pride",
+    "origin": "Turkish",
+    "id": "on1_var",
+    "verified": true,
+    "variant_of": "Onur"
+  },
+  {
     "name": "Onur",
     "gender": "Boy",
-    "meaning": "Honor, dignity",
+    "meaning": "Honor; Pride",
     "origin": "Turkish",
+    "id": "on1",
     "verified": true
+  },
+  {
+    "id": "ou1_var",
+    "name": "Oooais",
+    "gender": "Boy",
+    "meaning": "Wolf (Variant of Owais)",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true,
+    "variant_of": "Ouais"
+  },
+  {
+    "id": "ou2_var",
+    "name": "Ooom",
+    "gender": "Girl",
+    "meaning": "Mother (Umm)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Oum"
+  },
+  {
+    "id": "ou3_var",
+    "name": "Ooosama",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ousama"
   },
   {
     "name": "Oran",
@@ -216,12 +404,30 @@
     "verified": true
   },
   {
+    "id": "or2_var",
+    "name": "Orzalah",
+    "gender": "Girl",
+    "meaning": "Firefly",
+    "origin": "Pashto",
+    "verified": true,
+    "variant_of": "Orzala"
+  },
+  {
     "id": "os1",
     "name": "Osama",
     "gender": "Boy",
     "meaning": "Lion",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "os1_var",
+    "name": "Osamah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Osama"
   },
   {
     "id": "os3",
@@ -232,12 +438,21 @@
     "verified": true
   },
   {
-    "id": "ot1",
     "name": "Othman",
     "gender": "Boy",
-    "meaning": "Third Caliph (Variant of Uthman)",
-    "origin": "Arabic",
+    "meaning": "Wise",
+    "origin": "Malay",
+    "id": "ot1",
     "verified": true
+  },
+  {
+    "id": "ou1_var",
+    "name": "Ouaees",
+    "gender": "Boy",
+    "meaning": "Wolf (Variant of Owais)",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true,
+    "variant_of": "Ouais"
   },
   {
     "id": "ou1",
@@ -264,6 +479,33 @@
     "verified": true
   },
   {
+    "id": "ou3_var",
+    "name": "Ousamah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ousama"
+  },
+  {
+    "id": "ow2_var",
+    "name": "Owaeeb",
+    "gender": "Boy",
+    "meaning": "Repentant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Owaib"
+  },
+  {
+    "id": "ow1_var",
+    "name": "Owaees",
+    "gender": "Boy",
+    "meaning": "Little wolf; A famous Sufi",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Owais"
+  },
+  {
     "id": "ow2",
     "name": "Owaib",
     "gender": "Boy",
@@ -280,12 +522,30 @@
     "verified": true
   },
   {
+    "name": "Oxoos",
+    "gender": "Boy",
+    "meaning": "Amu Darya River",
+    "origin": "Persian",
+    "id": "ox1_var",
+    "verified": true,
+    "variant_of": "Oxus"
+  },
+  {
     "name": "Oxus",
     "gender": "Boy",
     "meaning": "Amu Darya River",
     "origin": "Persian",
     "id": "ox1",
     "verified": true
+  },
+  {
+    "id": "oz1_var",
+    "name": "Ozaeer",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra (Uzair)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Ozair"
   },
   {
     "id": "oz1",
@@ -304,6 +564,14 @@
     "verified": true
   },
   {
+    "name": "Ozcan",
+    "gender": "Boy",
+    "meaning": "Pure soul",
+    "origin": "Turkish",
+    "id": "oz2",
+    "verified": true
+  },
+  {
     "id": "oz2",
     "name": "Ozge",
     "gender": "Girl",
@@ -312,11 +580,28 @@
     "verified": true
   },
   {
+    "id": "oz3_var",
+    "name": "Ozgoor",
+    "gender": "Unisex",
+    "meaning": "Free, independent",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Ozgur"
+  },
+  {
     "id": "oz3",
     "name": "Ozgur",
     "gender": "Unisex",
     "meaning": "Free, independent",
     "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Ozkan",
+    "gender": "Boy",
+    "meaning": "Noble blood",
+    "origin": "Turkish",
+    "id": "oz5",
     "verified": true
   },
   {

@@ -48,12 +48,39 @@
     "verified": true
   },
   {
+    "id": "eb1_var",
+    "name": "Ebah",
+    "gender": "Girl",
+    "meaning": "Pride, refusal (to do bad)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Eba"
+  },
+  {
+    "id": "eb4_var",
+    "name": "Ebee",
+    "gender": "Boy",
+    "meaning": "Paternal",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Ebi"
+  },
+  {
     "id": "eb4",
     "name": "Ebi",
     "gender": "Boy",
     "meaning": "Paternal",
     "origin": "Persian",
     "verified": true
+  },
+  {
+    "id": "eb5_var",
+    "name": "Ebraheem",
+    "gender": "Boy",
+    "meaning": "Father of multitudes (Variant of Ibrahim)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Ebrahim"
   },
   {
     "id": "eb5",
@@ -64,12 +91,39 @@
     "verified": true
   },
   {
+    "id": "eb6_var",
+    "name": "Ebroo",
+    "gender": "Girl",
+    "meaning": "Cloud art, marbling",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Ebru"
+  },
+  {
     "id": "eb6",
     "name": "Ebru",
     "gender": "Girl",
     "meaning": "Cloud art, marbling",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "eb7_var",
+    "name": "Ebteehal",
+    "gender": "Girl",
+    "meaning": "Supplication, prayer (Variant of Ibtihal)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ebtihal"
+  },
+  {
+    "id": "eb8_var",
+    "name": "Ebteesam",
+    "gender": "Girl",
+    "meaning": "Smiling (Variant of Ibtisam)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ebtisam"
   },
   {
     "id": "eb7",
@@ -88,20 +142,56 @@
     "verified": true
   },
   {
-    "id": "ec1",
     "name": "Ece",
     "gender": "Girl",
-    "meaning": "Queen, beautiful woman",
+    "meaning": "Queen",
     "origin": "Turkish",
+    "id": "ec1",
     "verified": true
   },
   {
-    "id": "ec2",
+    "name": "Ecreen",
+    "gender": "Girl",
+    "meaning": "Reward",
+    "origin": "Turkish",
+    "id": "ec2_var",
+    "verified": true,
+    "variant_of": "Ecrin"
+  },
+  {
     "name": "Ecrin",
     "gender": "Girl",
-    "meaning": "Reward, gift of God",
+    "meaning": "Reward",
     "origin": "Turkish",
+    "id": "ec2",
     "verified": true
+  },
+  {
+    "id": "ed2_var",
+    "name": "Edeeb",
+    "gender": "Boy",
+    "meaning": "Polite, man of letters (Variant of Adib)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Edib"
+  },
+  {
+    "name": "Edeerne",
+    "gender": "Girl",
+    "meaning": "City in Turkey (Adrianople)",
+    "origin": "Turkish",
+    "id": "ed6_var",
+    "verified": true,
+    "variant_of": "Edirne"
+  },
+  {
+    "id": "ed3_var",
+    "name": "Edeez",
+    "gender": "Boy",
+    "meaning": "High, precious",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Ediz"
   },
   {
     "id": "ed1",
@@ -144,12 +234,93 @@
     "verified": true
   },
   {
+    "id": "ed4_var",
+    "name": "Edrah",
+    "gender": "Girl",
+    "meaning": "Power, strength",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Edra"
+  },
+  {
+    "id": "ed5_var",
+    "name": "Edrees",
+    "gender": "Boy",
+    "meaning": "Prophet Idris (Enoch)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Edris"
+  },
+  {
     "id": "ed5",
     "name": "Edris",
     "gender": "Boy",
     "meaning": "Prophet Idris (Enoch)",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "ei1_var",
+    "name": "Eeed",
+    "gender": "Boy",
+    "meaning": "Festivity, celebration",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Eid"
+  },
+  {
+    "id": "ei2_var",
+    "name": "Eeedam",
+    "gender": "Boy",
+    "meaning": "Determination",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Eidam"
+  },
+  {
+    "id": "ei3_var",
+    "name": "Eeehab",
+    "gender": "Boy",
+    "meaning": "To give freely",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Eihab"
+  },
+  {
+    "name": "Eeelaf",
+    "gender": "Girl",
+    "meaning": "Pact, covenant",
+    "origin": "Quranic",
+    "id": "ei6_var",
+    "verified": true,
+    "variant_of": "Eilaf"
+  },
+  {
+    "id": "ei4_var",
+    "name": "Eeeman",
+    "gender": "Unisex",
+    "meaning": "Faith (Variant of Iman)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Eiman"
+  },
+  {
+    "name": "Eeera",
+    "gender": "Girl",
+    "meaning": "Snow",
+    "origin": "Welsh (Adopted)",
+    "id": "ei7_var",
+    "verified": true,
+    "variant_of": "Eira"
+  },
+  {
+    "id": "ei5_var",
+    "name": "Eeesa",
+    "gender": "Boy",
+    "meaning": "Jesus (Variant of Isa)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Eisa"
   },
   {
     "id": "ef1",
@@ -192,6 +363,22 @@
     "verified": true
   },
   {
+    "name": "Ege",
+    "gender": "Unisex",
+    "meaning": "Aegean Sea",
+    "origin": "Turkish",
+    "id": "eg1",
+    "verified": true
+  },
+  {
+    "name": "Egemen",
+    "gender": "Boy",
+    "meaning": "Dominant",
+    "origin": "Turkish",
+    "id": "eg2",
+    "verified": true
+  },
+  {
     "id": "eh1",
     "name": "Ehab",
     "gender": "Boy",
@@ -214,6 +401,15 @@
     "meaning": "Perfection, excellence, charity",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "eh5_var",
+    "name": "Ehteeram",
+    "gender": "Unisex",
+    "meaning": "Honor, respect",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ehtiram"
   },
   {
     "id": "eh4",
@@ -280,6 +476,15 @@
     "verified": true
   },
   {
+    "name": "Eirah",
+    "gender": "Girl",
+    "meaning": "Snow",
+    "origin": "Welsh (Adopted)",
+    "id": "ei7_var",
+    "verified": true,
+    "variant_of": "Eira"
+  },
+  {
     "id": "ei5",
     "name": "Eisa",
     "gender": "Boy",
@@ -288,20 +493,38 @@
     "verified": true
   },
   {
-    "id": "ej1",
+    "id": "ei5_var",
+    "name": "Eisah",
+    "gender": "Boy",
+    "meaning": "Jesus (Variant of Isa)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Eisa"
+  },
+  {
     "name": "Ejaz",
     "gender": "Boy",
-    "meaning": "Miracle, astonishment (Variant of Ijaz)",
+    "meaning": "Miracle",
     "origin": "Arabic",
+    "id": "ej1",
     "verified": true
   },
   {
-    "id": "ej2",
     "name": "Ejlaal",
     "gender": "Boy",
-    "meaning": "To honor, exalt",
+    "meaning": "To honor",
     "origin": "Arabic",
+    "id": "ej2",
     "verified": true
+  },
+  {
+    "id": "ek2_var",
+    "name": "Ekeen",
+    "gender": "Unisex",
+    "meaning": "Harvest, crop",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Ekin"
   },
   {
     "id": "ek1",
@@ -317,6 +540,14 @@
     "gender": "Unisex",
     "meaning": "Harvest, crop",
     "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "name": "Eko",
+    "gender": "Boy",
+    "meaning": "First child",
+    "origin": "Indonesian",
+    "id": "ek4",
     "verified": true
   },
   {
@@ -344,6 +575,24 @@
     "verified": true
   },
   {
+    "id": "el1_var",
+    "name": "Elah",
+    "gender": "Girl",
+    "meaning": "Hazel (eyes); Oak",
+    "origin": "Turkish/Hebrew",
+    "verified": true,
+    "variant_of": "Ela"
+  },
+  {
+    "id": "el2_var",
+    "name": "Elahee",
+    "gender": "Boy",
+    "meaning": "My God",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Elahi"
+  },
+  {
     "id": "el2",
     "name": "Elahi",
     "gender": "Boy",
@@ -360,12 +609,30 @@
     "verified": true
   },
   {
+    "name": "Elazeeg",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "el14_var",
+    "verified": true,
+    "variant_of": "Elazig"
+  },
+  {
     "name": "Elazig",
     "gender": "Boy",
     "meaning": "City in Turkey",
     "origin": "Turkish",
     "id": "el14",
     "verified": true
+  },
+  {
+    "name": "Elboorz",
+    "gender": "Boy",
+    "meaning": "Mountain range in Iran",
+    "origin": "Persian",
+    "id": "el15_var",
+    "verified": true,
+    "variant_of": "Elburz"
   },
   {
     "name": "Elburz",
@@ -382,6 +649,42 @@
     "meaning": "Ruler of the country",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "el7_var",
+    "name": "Eleeas",
+    "gender": "Boy",
+    "meaning": "Prophet Ilyas (Elijah)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Elias"
+  },
+  {
+    "id": "el8_var",
+    "name": "Eleef",
+    "gender": "Girl",
+    "meaning": "First letter (Alif); Slender",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Elif"
+  },
+  {
+    "id": "el9_var",
+    "name": "Eleesha",
+    "gender": "Boy",
+    "meaning": "Prophet Al-Yasa",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Elisha"
+  },
+  {
+    "id": "el10_var",
+    "name": "Eleeza",
+    "gender": "Girl",
+    "meaning": "Unique, precious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Eliza"
   },
   {
     "id": "el5",
@@ -424,6 +727,15 @@
     "verified": true
   },
   {
+    "id": "el9_var",
+    "name": "Elishah",
+    "gender": "Boy",
+    "meaning": "Prophet Al-Yasa",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Elisha"
+  },
+  {
     "id": "el10",
     "name": "Eliza",
     "gender": "Girl",
@@ -432,11 +744,46 @@
     "verified": true
   },
   {
+    "id": "el10_var",
+    "name": "Elizah",
+    "gender": "Girl",
+    "meaning": "Unique, precious",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Eliza"
+  },
+  {
     "id": "el11",
     "name": "Elma",
     "gender": "Girl",
     "meaning": "Apple; Sweet",
     "origin": "Turkish",
+    "verified": true
+  },
+  {
+    "id": "el11_var",
+    "name": "Elmah",
+    "gender": "Girl",
+    "meaning": "Apple; Sweet",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Elma"
+  },
+  {
+    "name": "Elmee",
+    "gender": "Boy",
+    "meaning": "Knowledge",
+    "origin": "Somali",
+    "id": "el15_var",
+    "verified": true,
+    "variant_of": "Elmi"
+  },
+  {
+    "name": "Elmi",
+    "gender": "Boy",
+    "meaning": "Knowledge",
+    "origin": "Somali",
+    "id": "el15",
     "verified": true
   },
   {
@@ -480,6 +827,42 @@
     "verified": true
   },
   {
+    "id": "em5_var",
+    "name": "Emeel",
+    "gender": "Boy",
+    "meaning": "Friend; Hardworking",
+    "origin": "Arabic/Turkish",
+    "verified": true,
+    "variant_of": "Emil"
+  },
+  {
+    "id": "em6_var",
+    "name": "Emeena",
+    "gender": "Girl",
+    "meaning": "Trustworthy (Variant of Amina)",
+    "origin": "Bosnian/Turkish",
+    "verified": true,
+    "variant_of": "Emina"
+  },
+  {
+    "id": "em7_var",
+    "name": "Emeer",
+    "gender": "Boy",
+    "meaning": "Prince, commander (Variant of Amir)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Emir"
+  },
+  {
+    "id": "em8_var",
+    "name": "Emeera",
+    "gender": "Girl",
+    "meaning": "Princess (Variant of Amira)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Emira"
+  },
+  {
     "id": "em4",
     "name": "Emel",
     "gender": "Girl",
@@ -504,6 +887,15 @@
     "verified": true
   },
   {
+    "id": "em6_var",
+    "name": "Eminah",
+    "gender": "Girl",
+    "meaning": "Trustworthy (Variant of Amina)",
+    "origin": "Bosnian/Turkish",
+    "verified": true,
+    "variant_of": "Emina"
+  },
+  {
     "id": "em7",
     "name": "Emir",
     "gender": "Boy",
@@ -520,12 +912,30 @@
     "verified": true
   },
   {
+    "id": "em8_var",
+    "name": "Emirah",
+    "gender": "Girl",
+    "meaning": "Princess (Variant of Amira)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Emira"
+  },
+  {
     "id": "em9",
     "name": "Emna",
     "gender": "Girl",
     "meaning": "Safe, peaceful (Variant of Amna)",
     "origin": "Arabic (Maghrebi)",
     "verified": true
+  },
+  {
+    "id": "em9_var",
+    "name": "Emnah",
+    "gender": "Girl",
+    "meaning": "Safe, peaceful (Variant of Amna)",
+    "origin": "Arabic (Maghrebi)",
+    "verified": true,
+    "variant_of": "Emna"
   },
   {
     "id": "em10",
@@ -560,12 +970,47 @@
     "verified": true
   },
   {
+    "name": "Endang",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "en8",
+    "verified": true
+  },
+  {
+    "id": "en3_var",
+    "name": "Enees",
+    "gender": "Boy",
+    "meaning": "Friend (Variant of Anis)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Enis"
+  },
+  {
+    "id": "en4_var",
+    "name": "Eneesa",
+    "gender": "Girl",
+    "meaning": "Good friend (Variant of Anisa)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Enisa"
+  },
+  {
     "name": "Enes",
     "gender": "Boy",
     "meaning": "Friendly (Anas)",
     "origin": "Turkish",
     "id": "en7",
     "verified": true
+  },
+  {
+    "name": "Engeen",
+    "gender": "Boy",
+    "meaning": "Vast, boundless",
+    "origin": "Turkish",
+    "id": "en8_var",
+    "verified": true,
+    "variant_of": "Engin"
   },
   {
     "name": "Engin",
@@ -592,6 +1037,15 @@
     "verified": true
   },
   {
+    "id": "en4_var",
+    "name": "Enisah",
+    "gender": "Girl",
+    "meaning": "Good friend (Variant of Anisa)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Enisa"
+  },
+  {
     "id": "en5",
     "name": "Ensar",
     "gender": "Boy",
@@ -606,6 +1060,15 @@
     "meaning": "Luminous, bright (Variant of Anwar)",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "name": "Eoophrates",
+    "gender": "Boy",
+    "meaning": "Furat River",
+    "origin": "Greek/Arabic",
+    "id": "eu1_var",
+    "verified": true,
+    "variant_of": "Euphrates"
   },
   {
     "id": "er1",
@@ -624,12 +1087,30 @@
     "verified": true
   },
   {
+    "name": "Erbeel",
+    "gender": "Boy",
+    "meaning": "Ancient city (Arbil)",
+    "origin": "Kurdish",
+    "id": "er9_var",
+    "verified": true,
+    "variant_of": "Erbil"
+  },
+  {
     "name": "Erbil",
     "gender": "Boy",
     "meaning": "Ancient city (Arbil)",
     "origin": "Kurdish",
     "id": "er9",
     "verified": true
+  },
+  {
+    "id": "er7_var",
+    "name": "Ereena",
+    "gender": "Girl",
+    "meaning": "Beautiful lady",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Erina"
   },
   {
     "name": "Eren",
@@ -664,12 +1145,64 @@
     "verified": true
   },
   {
+    "id": "er7_var",
+    "name": "Erinah",
+    "gender": "Girl",
+    "meaning": "Beautiful lady",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Erina"
+  },
+  {
+    "name": "Erlangga",
+    "gender": "Boy",
+    "meaning": "One who crosses the water",
+    "origin": "Indonesian",
+    "id": "er9",
+    "verified": true
+  },
+  {
+    "name": "Erlanggah",
+    "gender": "Boy",
+    "meaning": "One who crosses the water",
+    "origin": "Indonesian",
+    "id": "er9_var",
+    "verified": true,
+    "variant_of": "Erlangga"
+  },
+  {
+    "name": "Erna",
+    "gender": "Girl",
+    "meaning": "Eagle",
+    "origin": "Indonesian",
+    "id": "er10",
+    "verified": true
+  },
+  {
+    "name": "Ernah",
+    "gender": "Girl",
+    "meaning": "Eagle",
+    "origin": "Indonesian",
+    "id": "er10_var",
+    "verified": true,
+    "variant_of": "Erna"
+  },
+  {
     "id": "er5",
     "name": "Erol",
     "gender": "Boy",
     "meaning": "Brave",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "er6_var",
+    "name": "Eroom",
+    "gender": "Girl",
+    "meaning": "Heaven (Variant of Iram)",
+    "origin": "Urdu",
+    "verified": true,
+    "variant_of": "Erum"
   },
   {
     "id": "er6",
@@ -680,12 +1213,30 @@
     "verified": true
   },
   {
+    "name": "Erzeencan",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "er10_var",
+    "verified": true,
+    "variant_of": "Erzincan"
+  },
+  {
     "name": "Erzincan",
     "gender": "Boy",
     "meaning": "City in Turkey",
     "origin": "Turkish",
     "id": "er10",
     "verified": true
+  },
+  {
+    "name": "Erzooroom",
+    "gender": "Boy",
+    "meaning": "City in Turkey",
+    "origin": "Turkish",
+    "id": "er11_var",
+    "verified": true,
+    "variant_of": "Erzurum"
   },
   {
     "name": "Erzurum",
@@ -702,6 +1253,15 @@
     "meaning": "Prophet Jesus (Variant of Isa)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "es1_var",
+    "name": "Esah",
+    "gender": "Boy",
+    "meaning": "Prophet Jesus (Variant of Isa)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Esa"
   },
   {
     "name": "Esen",
@@ -726,6 +1286,15 @@
     "meaning": "Flower of Paradise",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "es2_var",
+    "name": "Eshah",
+    "gender": "Girl",
+    "meaning": "Life (Variant of Aisha) or Night prayer (Isha)",
+    "origin": "Arabic/Urdu",
+    "verified": true,
+    "variant_of": "Esha"
   },
   {
     "id": "es4",
@@ -760,6 +1329,24 @@
     "verified": true
   },
   {
+    "id": "es7_var",
+    "name": "Esmaeel",
+    "gender": "Boy",
+    "meaning": "Prophet Ishmael (Variant of Ismail)",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Esmail"
+  },
+  {
+    "id": "es6_var",
+    "name": "Esmah",
+    "gender": "Girl",
+    "meaning": "Names; Supreme (Variant of Asma)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Esma"
+  },
+  {
     "id": "es7",
     "name": "Esmail",
     "gender": "Boy",
@@ -784,6 +1371,15 @@
     "verified": true
   },
   {
+    "id": "es9_var",
+    "name": "Esrah",
+    "gender": "Girl",
+    "meaning": "Night journey (Variant of Isra)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Esra"
+  },
+  {
     "name": "Essa",
     "gender": "Boy",
     "meaning": "Jesus (Prophet)",
@@ -792,12 +1388,39 @@
     "verified": true
   },
   {
+    "name": "Essah",
+    "gender": "Boy",
+    "meaning": "Jesus (Prophet)",
+    "origin": "Quranic",
+    "id": "es11_var",
+    "verified": true,
+    "variant_of": "Essa"
+  },
+  {
     "id": "es10",
     "name": "Essam",
     "gender": "Boy",
     "meaning": "Safeguard (Variant of Issam)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "et3_var",
+    "name": "Etee",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Eti"
+  },
+  {
+    "id": "et2_var",
+    "name": "Eteedal",
+    "gender": "Unisex",
+    "meaning": "Moderation, justice (Variant of Itidal)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Etidal"
   },
   {
     "id": "et1",
@@ -832,6 +1455,15 @@
     "verified": true
   },
   {
+    "id": "ev2_var",
+    "name": "Eveen",
+    "gender": "Girl",
+    "meaning": "Love, grain",
+    "origin": "Kurdish/Turkish",
+    "verified": true,
+    "variant_of": "Evin"
+  },
+  {
     "id": "ev2",
     "name": "Evin",
     "gender": "Girl",
@@ -846,6 +1478,23 @@
     "meaning": "Universe, cosmos",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "name": "Ewa",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "African",
+    "id": "ew1",
+    "verified": true
+  },
+  {
+    "name": "Ewah",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "African",
+    "id": "ew1_var",
+    "verified": true,
+    "variant_of": "Ewa"
   },
   {
     "id": "ey1",
@@ -864,6 +1513,24 @@
     "verified": true
   },
   {
+    "id": "ey2_var",
+    "name": "Eylah",
+    "gender": "Girl",
+    "meaning": "Oak tree",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Eyla"
+  },
+  {
+    "name": "Eylool",
+    "gender": "Girl",
+    "meaning": "September",
+    "origin": "Turkish",
+    "id": "ey5_var",
+    "verified": true,
+    "variant_of": "Eylul"
+  },
+  {
     "name": "Eylul",
     "gender": "Girl",
     "meaning": "September",
@@ -878,6 +1545,23 @@
     "meaning": "Blessed, lucky (Variant of Ayman)",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "name": "Eymen",
+    "gender": "Boy",
+    "meaning": "Blessed; Lucky",
+    "origin": "Turkish",
+    "id": "ey1",
+    "verified": true
+  },
+  {
+    "id": "ey4_var",
+    "name": "Eyoop",
+    "gender": "Boy",
+    "meaning": "Prophet Job (Variant of Ayyub)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Eyup"
   },
   {
     "id": "ey4",
@@ -912,12 +1596,38 @@
     "verified": true
   },
   {
+    "name": "Ezgee",
+    "gender": "Girl",
+    "meaning": "Melody",
+    "origin": "Turkish",
+    "id": "ez2_var",
+    "verified": true,
+    "variant_of": "Ezgi"
+  },
+  {
+    "name": "Ezgi",
+    "gender": "Girl",
+    "meaning": "Melody",
+    "origin": "Turkish",
+    "id": "ez2",
+    "verified": true
+  },
+  {
     "id": "ez2",
     "name": "Ezra",
     "gender": "Boy",
     "meaning": "Prophet Uzair (Ezra)",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "ez2_var",
+    "name": "Ezrah",
+    "gender": "Boy",
+    "meaning": "Prophet Uzair (Ezra)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Ezra"
   },
   {
     "id": "ez3",

@@ -1,5 +1,115 @@
 [
   {
+    "name": "Ya'Roob",
+    "gender": "Boy",
+    "meaning": "Ancient Arab",
+    "origin": "Arabic",
+    "id": "ya23_var",
+    "verified": true,
+    "variant_of": "Ya'rub"
+  },
+  {
+    "name": "Ya'Rub",
+    "gender": "Boy",
+    "meaning": "Ancient Arab",
+    "origin": "Arabic",
+    "id": "ya23",
+    "verified": true
+  },
+  {
+    "name": "Ya'Smeen",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Arabic",
+    "id": "ya24_var",
+    "verified": true,
+    "variant_of": "Ya'smin"
+  },
+  {
+    "name": "Ya'Smin",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Arabic",
+    "id": "ya24",
+    "verified": true
+  },
+  {
+    "name": "Ya'Soob",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "ya25_var",
+    "verified": true,
+    "variant_of": "Ya'sub"
+  },
+  {
+    "name": "Ya'Sub",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "ya25",
+    "verified": true
+  },
+  {
+    "name": "Yaafeer",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ya26_var",
+    "verified": true,
+    "variant_of": "Yaafir"
+  },
+  {
+    "name": "Yaafir",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ya26",
+    "verified": true
+  },
+  {
+    "name": "Yaameen",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ya27_var",
+    "verified": true,
+    "variant_of": "Yaamin"
+  },
+  {
+    "name": "Yaamin",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ya27",
+    "verified": true
+  },
+  {
+    "name": "Yaasar",
+    "gender": "Boy",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "ya28",
+    "verified": true
+  },
+  {
+    "name": "Yaaseer",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Arabic",
+    "id": "ya29_var",
+    "verified": true,
+    "variant_of": "Yaasir"
+  },
+  {
+    "name": "Yaasir",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Arabic",
+    "id": "ya29",
+    "verified": true
+  },
+  {
     "name": "Yafa",
     "gender": "Girl",
     "meaning": "Jaffa (City in Palestine)",
@@ -8,12 +118,39 @@
     "verified": true
   },
   {
+    "name": "Yafah",
+    "gender": "Girl",
+    "meaning": "Jaffa (City in Palestine)",
+    "origin": "Arabic",
+    "id": "ya29_var",
+    "verified": true,
+    "variant_of": "Yafa"
+  },
+  {
+    "id": "ya1_var",
+    "name": "Yafeeah",
+    "gender": "Girl",
+    "meaning": "High, youthful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yafiah"
+  },
+  {
     "id": "ya1",
     "name": "Yafiah",
     "gender": "Girl",
     "meaning": "High, youthful",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "name": "Yagmoor",
+    "gender": "Unisex",
+    "meaning": "Rain",
+    "origin": "Turkish",
+    "id": "ya30_var",
+    "verified": true,
+    "variant_of": "Yagmur"
   },
   {
     "name": "Yagmur",
@@ -32,12 +169,39 @@
     "verified": true
   },
   {
+    "id": "ya2_var",
+    "name": "Yahyah",
+    "gender": "Boy",
+    "meaning": "To live; Prophet John (the Baptist)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yahya"
+  },
+  {
+    "name": "Yakhoot",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Quranic",
+    "id": "ya31_var",
+    "verified": true,
+    "variant_of": "Yakhut"
+  },
+  {
     "name": "Yakhut",
     "gender": "Girl",
     "meaning": "Ruby",
     "origin": "Quranic",
     "id": "ya31",
     "verified": true
+  },
+  {
+    "id": "ya3_var",
+    "name": "Yakoob",
+    "gender": "Boy",
+    "meaning": "Prophet Jacob (Variant of Yaqub)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yakub"
   },
   {
     "id": "ya3",
@@ -48,12 +212,56 @@
     "verified": true
   },
   {
+    "name": "Yaleen",
+    "gender": "Boy",
+    "meaning": "Simple; Pure",
+    "origin": "Turkish",
+    "id": "ya3_var",
+    "verified": true,
+    "variant_of": "Yalin"
+  },
+  {
+    "id": "ya4_var",
+    "name": "Yaleena",
+    "gender": "Girl",
+    "meaning": "Soft, gentle",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yalina"
+  },
+  {
+    "name": "Yalin",
+    "gender": "Boy",
+    "meaning": "Simple; Pure",
+    "origin": "Turkish",
+    "id": "ya3",
+    "verified": true
+  },
+  {
     "id": "ya4",
     "name": "Yalina",
     "gender": "Girl",
     "meaning": "Soft, gentle",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ya4_var",
+    "name": "Yalinah",
+    "gender": "Girl",
+    "meaning": "Soft, gentle",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yalina"
+  },
+  {
+    "id": "ya5_var",
+    "name": "Yalqoot",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yalqut"
   },
   {
     "id": "ya5",
@@ -70,6 +278,15 @@
     "meaning": "Mountain",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ya6_var",
+    "name": "Yamah",
+    "gender": "Boy",
+    "meaning": "Mountain",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yama"
   },
   {
     "name": "Yamam",
@@ -96,6 +313,15 @@
     "verified": true
   },
   {
+    "id": "ya10_var",
+    "name": "Yameena",
+    "gender": "Girl",
+    "meaning": "Right, proper, blessed",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yamina"
+  },
+  {
     "id": "ya9",
     "name": "Yamin",
     "gender": "Boy",
@@ -112,11 +338,46 @@
     "verified": true
   },
   {
+    "id": "ya10_var",
+    "name": "Yaminah",
+    "gender": "Girl",
+    "meaning": "Right, proper, blessed",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yamina"
+  },
+  {
     "id": "ya11",
     "name": "Yana",
     "gender": "Girl",
     "meaning": "Doer of good",
     "origin": "Arabic",
+    "verified": true
+  },
+  {
+    "id": "ya11_var",
+    "name": "Yanah",
+    "gender": "Girl",
+    "meaning": "Doer of good",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yana"
+  },
+  {
+    "name": "Yantee",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Indonesian",
+    "id": "ya19_var",
+    "verified": true,
+    "variant_of": "Yanti"
+  },
+  {
+    "name": "Yanti",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Indonesian",
+    "id": "ya19",
     "verified": true
   },
   {
@@ -126,6 +387,15 @@
     "meaning": "Certainty, belief",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "ya12_var",
+    "name": "Yaqin",
+    "gender": "Boy",
+    "meaning": "Certainty, belief",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yaqeen"
   },
   {
     "name": "Yaqoob",
@@ -152,6 +422,15 @@
     "verified": true
   },
   {
+    "id": "ya13_var",
+    "name": "Yaqut",
+    "gender": "Unisex",
+    "meaning": "Ruby, precious stone",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yaqoot"
+  },
+  {
     "id": "ya15",
     "name": "Yara",
     "gender": "Girl",
@@ -168,11 +447,28 @@
     "verified": true
   },
   {
+    "name": "Yarmoook",
+    "gender": "Boy",
+    "meaning": "River/Battle site",
+    "origin": "Arabic",
+    "id": "ya35_var",
+    "verified": true,
+    "variant_of": "Yarmouk"
+  },
+  {
     "name": "Yarmouk",
     "gender": "Boy",
     "meaning": "River/Battle site",
     "origin": "Arabic",
     "id": "ya35",
+    "verified": true
+  },
+  {
+    "name": "Yas",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "id": "ya2",
     "verified": true
   },
   {
@@ -182,6 +478,24 @@
     "meaning": "Ease, wealth",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ya18_var",
+    "name": "Yaseen",
+    "gender": "Boy",
+    "meaning": "Sura of Quran; Name of Prophet",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yasin"
+  },
+  {
+    "id": "ya19_var",
+    "name": "Yaseer",
+    "gender": "Boy",
+    "meaning": "Wealthy, easy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yasir"
   },
   {
     "id": "ya18",
@@ -208,6 +522,15 @@
     "verified": true
   },
   {
+    "id": "ya22_var",
+    "name": "Yasmeena",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yasmina"
+  },
+  {
     "name": "Yasmen",
     "gender": "Girl",
     "meaning": "Jasmine",
@@ -232,12 +555,30 @@
     "verified": true
   },
   {
+    "id": "ya22_var",
+    "name": "Yasminah",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yasmina"
+  },
+  {
     "id": "ya23",
     "name": "Yasna",
     "gender": "Girl",
     "meaning": "White rose",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "ya23_var",
+    "name": "Yasnah",
+    "gender": "Girl",
+    "meaning": "White rose",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yasna"
   },
   {
     "id": "ya24",
@@ -248,12 +589,47 @@
     "verified": true
   },
   {
+    "name": "Yatee",
+    "gender": "Girl",
+    "meaning": "Control",
+    "origin": "Indonesian",
+    "id": "ya21_var",
+    "verified": true,
+    "variant_of": "Yati"
+  },
+  {
+    "id": "ya25_var",
+    "name": "Yathreeb",
+    "gender": "Girl",
+    "meaning": "Former name of Medina",
+    "origin": "History",
+    "verified": true,
+    "variant_of": "Yathrib"
+  },
+  {
     "id": "ya25",
     "name": "Yathrib",
     "gender": "Girl",
     "meaning": "Former name of Medina",
     "origin": "History",
     "verified": true
+  },
+  {
+    "name": "Yati",
+    "gender": "Girl",
+    "meaning": "Control",
+    "origin": "Indonesian",
+    "id": "ya21",
+    "verified": true
+  },
+  {
+    "name": "Yavooz",
+    "gender": "Boy",
+    "meaning": "Stern, grim",
+    "origin": "Turkish",
+    "id": "ya34_var",
+    "verified": true,
+    "variant_of": "Yavuz"
   },
   {
     "name": "Yavuz",
@@ -288,6 +664,15 @@
     "verified": true
   },
   {
+    "id": "ya28_var",
+    "name": "Yazeed",
+    "gender": "Boy",
+    "meaning": "Increase, grow",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yazid"
+  },
+  {
     "id": "ya28",
     "name": "Yazid",
     "gender": "Boy",
@@ -296,12 +681,66 @@
     "verified": true
   },
   {
+    "name": "Yeegeet",
+    "gender": "Boy",
+    "meaning": "Brave hero",
+    "origin": "Turkish",
+    "id": "yi2_var",
+    "verified": true,
+    "variant_of": "Yigit"
+  },
+  {
+    "name": "Yeeldeereem",
+    "gender": "Boy",
+    "meaning": "Lightning (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "yi2_var",
+    "verified": true,
+    "variant_of": "Yildirim"
+  },
+  {
+    "name": "Yeeldeez",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Turkish",
+    "id": "yi1_var",
+    "verified": true,
+    "variant_of": "Yildiz"
+  },
+  {
+    "name": "Yeelmaz",
+    "gender": "Boy",
+    "meaning": "Unyielding; Dauntless",
+    "origin": "Turkish",
+    "id": "yi4_var",
+    "verified": true,
+    "variant_of": "Yilmaz"
+  },
+  {
     "id": "ye1",
     "name": "Yelda",
     "gender": "Girl",
     "meaning": "Dark night, longest night",
     "origin": "Turkish",
     "verified": true
+  },
+  {
+    "id": "ye1_var",
+    "name": "Yeldah",
+    "gender": "Girl",
+    "meaning": "Dark night, longest night",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Yelda"
+  },
+  {
+    "name": "Yeleez",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ye3_var",
+    "verified": true,
+    "variant_of": "Yeliz"
   },
   {
     "name": "Yeliz",
@@ -320,6 +759,32 @@
     "verified": true
   },
   {
+    "name": "Yenee",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "ye4_var",
+    "verified": true,
+    "variant_of": "Yeni"
+  },
+  {
+    "name": "Yeni",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "ye4",
+    "verified": true
+  },
+  {
+    "name": "Yeseem",
+    "gender": "Girl",
+    "meaning": "Jade",
+    "origin": "Turkish",
+    "id": "ye4_var",
+    "verified": true,
+    "variant_of": "Yesim"
+  },
+  {
     "name": "Yesim",
     "gender": "Girl",
     "meaning": "Jade",
@@ -336,11 +801,27 @@
     "verified": true
   },
   {
+    "name": "Yildirim",
+    "gender": "Boy",
+    "meaning": "Lightning (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "yi2",
+    "verified": true
+  },
+  {
     "name": "Yildiz",
     "gender": "Girl",
     "meaning": "Star",
     "origin": "Turkish",
     "id": "yi1",
+    "verified": true
+  },
+  {
+    "name": "Yilmaz",
+    "gender": "Boy",
+    "meaning": "Unyielding; Dauntless",
+    "origin": "Turkish",
+    "id": "yi4",
     "verified": true
   },
   {
@@ -352,12 +833,174 @@
     "verified": false
   },
   {
+    "id": "yo1_var",
+    "name": "Yolandah",
+    "gender": "Girl",
+    "meaning": "Violet flower",
+    "origin": "Greek/Mixed",
+    "verified": false,
+    "variant_of": "Yolanda"
+  },
+  {
+    "name": "Yoodi",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2_var",
+    "verified": true,
+    "variant_of": "Yudi"
+  },
+  {
+    "name": "Yoolia",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia"
+  },
+  {
+    "name": "Yooliana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana"
+  },
+  {
+    "id": "yu1_var",
+    "name": "Yoomna",
+    "gender": "Girl",
+    "meaning": "Good fortune, success, right side",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yumna"
+  },
+  {
+    "name": "Yooni",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5_var",
+    "verified": true,
+    "variant_of": "Yuni"
+  },
+  {
+    "id": "yu2_var",
+    "name": "Yoonoos",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (The Dove)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yunus"
+  },
+  {
+    "id": "yo2_var",
+    "name": "Yooomna",
+    "gender": "Girl",
+    "meaning": "Right side, blessed (Variant of Yumna)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Youmna"
+  },
+  {
+    "id": "yo3_var",
+    "name": "Yooones",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (Variant of Yunus)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Younes"
+  },
+  {
+    "id": "yo4_var",
+    "name": "Yooosef",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph (Variant of Yusuf)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousef"
+  },
+  {
+    "name": "Yooosoof",
+    "gender": "Boy",
+    "meaning": "Joseph (Prophet)",
+    "origin": "Quranic",
+    "id": "yo6_var",
+    "verified": true,
+    "variant_of": "Yousuf"
+  },
+  {
+    "id": "yo5_var",
+    "name": "Yooosra",
+    "gender": "Girl",
+    "meaning": "Ease (Variant of Yusra)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousra"
+  },
+  {
+    "name": "Yoosof",
+    "gender": "Boy",
+    "meaning": "Joseph",
+    "origin": "Malay",
+    "id": "yu6_var",
+    "verified": true,
+    "variant_of": "Yusof"
+  },
+  {
+    "id": "yu5_var",
+    "name": "Yoosoof",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph; God increases",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusuf"
+  },
+  {
+    "name": "Yoosr",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "id": "yu7_var",
+    "verified": true,
+    "variant_of": "Yusr"
+  },
+  {
+    "id": "yu6_var",
+    "name": "Yoosra",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusra"
+  },
+  {
+    "id": "yu4_var",
+    "name": "Yoosri",
+    "gender": "Boy",
+    "meaning": "Well to do, wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yusri"
+  },
+  {
     "id": "yo2",
     "name": "Youmna",
     "gender": "Girl",
     "meaning": "Right side, blessed (Variant of Yumna)",
     "origin": "Arabic",
     "verified": true
+  },
+  {
+    "id": "yo2_var",
+    "name": "Youmnah",
+    "gender": "Girl",
+    "meaning": "Right side, blessed (Variant of Yumna)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Youmna"
   },
   {
     "id": "yo3",
@@ -384,12 +1027,90 @@
     "verified": true
   },
   {
+    "id": "yo5_var",
+    "name": "Yousrah",
+    "gender": "Girl",
+    "meaning": "Ease (Variant of Yusra)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousra"
+  },
+  {
     "name": "Yousuf",
     "gender": "Boy",
     "meaning": "Joseph (Prophet)",
     "origin": "Quranic",
     "id": "yo6",
     "verified": true
+  },
+  {
+    "name": "Yudee",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2_var",
+    "verified": true,
+    "variant_of": "Yudi"
+  },
+  {
+    "name": "Yudi",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2",
+    "verified": true
+  },
+  {
+    "name": "Yuleea",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia"
+  },
+  {
+    "name": "Yuleeana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana"
+  },
+  {
+    "name": "Yulia",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3",
+    "verified": true
+  },
+  {
+    "name": "Yuliah",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia"
+  },
+  {
+    "name": "Yuliana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4",
+    "verified": true
+  },
+  {
+    "name": "Yulianah",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana"
   },
   {
     "id": "yu1",
@@ -400,11 +1121,45 @@
     "verified": true
   },
   {
+    "id": "yu1_var",
+    "name": "Yumnah",
+    "gender": "Girl",
+    "meaning": "Good fortune, success, right side",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yumna"
+  },
+  {
+    "name": "Yunee",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5_var",
+    "verified": true,
+    "variant_of": "Yuni"
+  },
+  {
+    "name": "Yuni",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5",
+    "verified": true
+  },
+  {
     "id": "yu2",
     "name": "Yunus",
     "gender": "Boy",
     "meaning": "Prophet Jonah (The Dove)",
     "origin": "Quranic",
+    "verified": true
+  },
+  {
+    "name": "Yusof",
+    "gender": "Boy",
+    "meaning": "Joseph",
+    "origin": "Malay",
+    "id": "yu6",
     "verified": true
   },
   {
@@ -422,6 +1177,24 @@
     "meaning": "Ease",
     "origin": "Quranic",
     "verified": true
+  },
+  {
+    "id": "yu6_var",
+    "name": "Yusrah",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusra"
+  },
+  {
+    "id": "yu4_var",
+    "name": "Yusree",
+    "gender": "Boy",
+    "meaning": "Well to do, wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yusri"
   },
   {
     "id": "yu4",
