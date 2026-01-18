@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Kiara",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Swahili",
+    "id": "ki11",
+    "verified": true
+  },
+  {
     "name": "Kifah",
     "gender": "Boy",
     "meaning": "Struggle",
@@ -16,11 +24,35 @@
     "verified": true
   },
   {
+    "name": "Kifayat",
+    "gender": "Unisex",
+    "meaning": "Enough",
+    "origin": "Arabic",
+    "id": "ki7",
+    "verified": true
+  },
+  {
+    "name": "Kinana",
+    "gender": "Boy",
+    "meaning": "Quiver",
+    "origin": "Arabic",
+    "id": "ki8",
+    "verified": true
+  },
+  {
     "name": "Kinanah",
     "gender": "Boy",
     "meaning": "Quiver",
     "origin": "Arabic",
     "id": "ki2",
+    "verified": true
+  },
+  {
+    "name": "Kinda",
+    "gender": "Girl",
+    "meaning": "Arab Tribe",
+    "origin": "Arabic",
+    "id": "ki9",
     "verified": true
   },
   {
@@ -45,6 +77,14 @@
     "meaning": "Country",
     "origin": "Persian",
     "id": "ki6",
+    "verified": true
+  },
+  {
+    "name": "Kiyan",
+    "gender": "Boy",
+    "meaning": "Existence",
+    "origin": "Persian",
+    "id": "ki10",
     "verified": true
   }
 ]

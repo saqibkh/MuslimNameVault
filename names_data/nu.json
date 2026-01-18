@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Nugraha",
+    "gender": "Boy",
+    "meaning": "Blessing",
+    "origin": "Indonesian",
+    "id": "nu25",
+    "verified": true
+  },
+  {
     "name": "Nuh",
     "gender": "Boy",
     "meaning": "Prophet Noah",
@@ -141,6 +149,14 @@
     "meaning": "Luminous skin",
     "origin": "Turkish/Persian",
     "id": "nu5",
+    "verified": true
+  },
+  {
+    "name": "Nurul",
+    "gender": "Girl",
+    "meaning": "Light of",
+    "origin": "Malay",
+    "id": "nu26",
     "verified": true
   },
   {

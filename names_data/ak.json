@@ -8,11 +8,67 @@
     "verified": true
   },
   {
+    "name": "Akhfash",
+    "gender": "Boy",
+    "meaning": "Small eyes",
+    "origin": "Arabic",
+    "id": "ak8",
+    "verified": true
+  },
+  {
+    "name": "Akhlaq",
+    "gender": "Boy",
+    "meaning": "Good manners",
+    "origin": "Arabic",
+    "id": "ak4",
+    "verified": true
+  },
+  {
+    "name": "Akhtar",
+    "gender": "Boy",
+    "meaning": "Star",
+    "origin": "Urdu",
+    "id": "ak5",
+    "verified": true
+  },
+  {
     "name": "Akif",
     "gender": "Boy",
     "meaning": "Attached; Devoted",
     "origin": "Arabic",
     "id": "ak1",
+    "verified": true
+  },
+  {
+    "name": "Akil",
+    "gender": "Boy",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "ak6",
+    "verified": true
+  },
+  {
+    "name": "Akilah",
+    "gender": "Girl",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "ak9",
+    "verified": true
+  },
+  {
+    "name": "Akmal",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "Malay",
+    "id": "ak7",
+    "verified": true
+  },
+  {
+    "name": "Akram",
+    "gender": "Boy",
+    "meaning": "Most generous",
+    "origin": "Arabic",
+    "id": "ak3",
     "verified": true
   }
 ]

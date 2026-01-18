@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cihad",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Turkish",
+    "id": "ci3",
+    "verified": true
+  },
+  {
     "name": "Cihan",
     "gender": "Boy",
     "meaning": "Universe",
@@ -8,11 +16,35 @@
     "verified": true
   },
   {
+    "name": "Cihangir",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Turkish",
+    "id": "ci4",
+    "verified": true
+  },
+  {
     "name": "Cinar",
     "gender": "Boy",
     "meaning": "Plane Tree",
     "origin": "Turkish",
     "id": "ci2",
+    "verified": true
+  },
+  {
+    "name": "Citra",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6",
+    "verified": true
+  },
+  {
+    "name": "Civan",
+    "gender": "Boy",
+    "meaning": "Young",
+    "origin": "Turkish",
+    "id": "ci5",
     "verified": true
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "name": "Afaf",
+    "gender": "Girl",
+    "meaning": "Chastity",
+    "origin": "Arabic",
+    "id": "af6",
+    "verified": true
+  },
+  {
+    "name": "Afeef",
+    "gender": "Boy",
+    "meaning": "Chaste",
+    "origin": "Arabic",
+    "id": "af11",
+    "verified": true
+  },
+  {
     "name": "Affan",
     "gender": "Boy",
     "meaning": "Chaste; Modest (Father of Uthman)",
@@ -16,6 +32,38 @@
     "verified": true
   },
   {
+    "name": "Afifa",
+    "gender": "Girl",
+    "meaning": "Virtuous",
+    "origin": "Malay",
+    "id": "af7",
+    "verified": true
+  },
+  {
+    "name": "Afifah",
+    "gender": "Girl",
+    "meaning": "Chaste",
+    "origin": "Arabic",
+    "id": "af12",
+    "verified": true
+  },
+  {
+    "name": "Afiq",
+    "gender": "Boy",
+    "meaning": "Honest",
+    "origin": "Malay",
+    "id": "af8",
+    "verified": true
+  },
+  {
+    "name": "Afiya",
+    "gender": "Girl",
+    "meaning": "Health",
+    "origin": "Swahili",
+    "id": "af17",
+    "verified": true
+  },
+  {
     "name": "Afra",
     "gender": "Girl",
     "meaning": "White; Dust-colored",
@@ -24,11 +72,83 @@
     "verified": true
   },
   {
+    "name": "Afrah",
+    "gender": "Girl",
+    "meaning": "Joys",
+    "origin": "Arabic",
+    "id": "af9",
+    "verified": true
+  },
+  {
+    "name": "Afras",
+    "gender": "Boy",
+    "meaning": "Horses",
+    "origin": "Arabic",
+    "id": "af13",
+    "verified": true
+  },
+  {
     "name": "Afreen",
     "gender": "Girl",
     "meaning": "Beautiful; Praise",
     "origin": "Persian",
     "id": "af2",
+    "verified": true
+  },
+  {
+    "name": "Afroz",
+    "gender": "Unisex",
+    "meaning": "Illuminated",
+    "origin": "Persian",
+    "id": "af14",
+    "verified": true
+  },
+  {
+    "name": "Afruz",
+    "gender": "Boy",
+    "meaning": "Kindling",
+    "origin": "Persian",
+    "id": "af10",
+    "verified": true
+  },
+  {
+    "name": "Afsah",
+    "gender": "Boy",
+    "meaning": "Eloquent",
+    "origin": "Arabic",
+    "id": "af15",
+    "verified": true
+  },
+  {
+    "name": "Afshan",
+    "gender": "Girl",
+    "meaning": "Sprinkled",
+    "origin": "Persian",
+    "id": "af18",
+    "verified": true
+  },
+  {
+    "name": "Aftab",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "af16",
+    "verified": true
+  },
+  {
+    "name": "Afya",
+    "gender": "Girl",
+    "meaning": "Health",
+    "origin": "Arabic",
+    "id": "af19",
+    "verified": true
+  },
+  {
+    "name": "Afza",
+    "gender": "Girl",
+    "meaning": "Augmenting",
+    "origin": "Arabic",
+    "id": "af20",
     "verified": true
   },
   {

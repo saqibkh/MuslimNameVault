@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Sehar",
+    "gender": "Girl",
+    "meaning": "Dawn",
+    "origin": "Urdu",
+    "id": "se20",
+    "verified": true
+  },
+  {
     "name": "Seher",
     "gender": "Girl",
     "meaning": "Dawn",
@@ -48,11 +56,35 @@
     "verified": true
   },
   {
+    "name": "Selim",
+    "gender": "Boy",
+    "meaning": "Safe",
+    "origin": "Turkish",
+    "id": "se21",
+    "verified": true
+  },
+  {
     "name": "Selin",
     "gender": "Girl",
     "meaning": "Flowing water",
     "origin": "Turkish",
     "id": "se1",
+    "verified": true
+  },
+  {
+    "name": "Selina",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Turkish",
+    "id": "se22",
+    "verified": true
+  },
+  {
+    "name": "Selma",
+    "gender": "Girl",
+    "meaning": "Peaceful",
+    "origin": "Turkish",
+    "id": "se23",
     "verified": true
   },
   {
@@ -77,6 +109,14 @@
     "meaning": "Dawn; First light",
     "origin": "Persian",
     "id": "se2",
+    "verified": true
+  },
+  {
+    "name": "Septi",
+    "gender": "Girl",
+    "meaning": "Born in September",
+    "origin": "Indonesian",
+    "id": "se25",
     "verified": true
   },
   {
@@ -109,6 +149,22 @@
     "meaning": "Noble blood",
     "origin": "Turkish",
     "id": "se14",
+    "verified": true
+  },
+  {
+    "name": "Setiawan",
+    "gender": "Boy",
+    "meaning": "Faithful",
+    "origin": "Indonesian",
+    "id": "se26",
+    "verified": true
+  },
+  {
+    "name": "Sevda",
+    "gender": "Girl",
+    "meaning": "Love",
+    "origin": "Turkish",
+    "id": "se24",
     "verified": true
   },
   {

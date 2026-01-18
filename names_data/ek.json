@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ekhlas",
+    "gender": "Girl",
+    "meaning": "Sincerity",
+    "origin": "Quranic",
+    "id": "ek1",
+    "verified": true
+  },
+  {
+    "name": "Ekin",
+    "gender": "Unisex",
+    "meaning": "Harvest",
+    "origin": "Turkish",
+    "id": "ek2",
+    "verified": true
+  },
+  {
+    "name": "Eko",
+    "gender": "Boy",
+    "meaning": "First child",
+    "origin": "Indonesian",
+    "id": "ek4",
+    "verified": true
+  },
+  {
+    "name": "Ekram",
+    "gender": "Unisex",
+    "meaning": "Honor",
+    "origin": "Arabic",
+    "id": "ek3",
+    "verified": true
+  }
+]

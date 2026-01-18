@@ -1,5 +1,21 @@
 [
   {
+    "name": "Zeek",
+    "gender": "Boy",
+    "meaning": "Flash of light",
+    "origin": "Arabic",
+    "id": "ze5",
+    "verified": true
+  },
+  {
+    "name": "Zehra",
+    "gender": "Girl",
+    "meaning": "Radiant",
+    "origin": "Arabic",
+    "id": "ze6",
+    "verified": true
+  },
+  {
     "name": "Zeki",
     "gender": "Boy",
     "meaning": "Intelligent; Clever",
@@ -16,11 +32,27 @@
     "verified": true
   },
   {
+    "name": "Zenia",
+    "gender": "Girl",
+    "meaning": "Flower",
+    "origin": "Persian",
+    "id": "ze7",
+    "verified": true
+  },
+  {
     "name": "Zerrin",
     "gender": "Girl",
     "meaning": "Golden",
     "origin": "Persian",
     "id": "ze4",
+    "verified": true
+  },
+  {
+    "name": "Zeynab",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ze8",
     "verified": true
   },
   {

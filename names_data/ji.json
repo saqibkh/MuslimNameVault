@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Jibreel",
+    "gender": "Boy",
+    "meaning": "Angel Gabriel",
+    "origin": "Quranic",
+    "id": "ji7",
+    "verified": true
+  },
+  {
     "name": "Jibril",
     "gender": "Boy",
     "meaning": "Archangel",
@@ -32,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Jilan",
+    "gender": "Boy",
+    "meaning": "Courtier",
+    "origin": "Arabic",
+    "id": "ji8",
+    "verified": true
+  },
+  {
     "name": "Jinan",
     "gender": "Girl",
     "meaning": "Gardens",
@@ -40,11 +56,27 @@
     "verified": true
   },
   {
+    "name": "Jinda",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "id": "ji9",
+    "verified": true
+  },
+  {
     "name": "Jiyad",
     "gender": "Boy",
     "meaning": "Good",
     "origin": "Arabic",
     "id": "ji6",
+    "verified": true
+  },
+  {
+    "name": "Jiyan",
+    "gender": "Unisex",
+    "meaning": "Life",
+    "origin": "Kurdish",
+    "id": "ji10",
     "verified": true
   }
 ]

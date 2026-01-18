@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ria",
+    "gender": "Girl",
+    "meaning": "River",
+    "origin": "Indonesian",
+    "id": "ri17",
+    "verified": true
+  },
+  {
     "name": "Riaz",
     "gender": "Boy",
     "meaning": "Garden; Devotion",
@@ -32,11 +40,75 @@
     "verified": true
   },
   {
+    "name": "Riffat",
+    "gender": "Unisex",
+    "meaning": "Highness",
+    "origin": "Arabic",
+    "id": "ri9",
+    "verified": true
+  },
+  {
     "name": "Rihab",
     "gender": "Girl",
     "meaning": "Spaciousness",
     "origin": "Arabic",
     "id": "ri6",
+    "verified": true
+  },
+  {
+    "name": "Riham",
+    "gender": "Girl",
+    "meaning": "Light rain",
+    "origin": "Arabic",
+    "id": "ri10",
+    "verified": true
+  },
+  {
+    "name": "Rihana",
+    "gender": "Girl",
+    "meaning": "Sweet basil",
+    "origin": "Arabic",
+    "id": "ri11",
+    "verified": true
+  },
+  {
+    "name": "Rim",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Arabic",
+    "id": "ri12",
+    "verified": true
+  },
+  {
+    "name": "Rima",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "ri13",
+    "verified": true
+  },
+  {
+    "name": "Rimsha",
+    "gender": "Girl",
+    "meaning": "Bouquet",
+    "origin": "Urdu",
+    "id": "ri14",
+    "verified": true
+  },
+  {
+    "name": "Rina",
+    "gender": "Girl",
+    "meaning": "Day",
+    "origin": "Indonesian",
+    "id": "ri18",
+    "verified": true
+  },
+  {
+    "name": "Rini",
+    "gender": "Girl",
+    "meaning": "Little bunny",
+    "origin": "Indonesian",
+    "id": "ri19",
     "verified": true
   },
   {
@@ -56,11 +128,43 @@
     "verified": true
   },
   {
+    "name": "Rizki",
+    "gender": "Unisex",
+    "meaning": "Sustenance",
+    "origin": "Indonesian",
+    "id": "ri20",
+    "verified": true
+  },
+  {
+    "name": "Rizky",
+    "gender": "Unisex",
+    "meaning": "Provision",
+    "origin": "Indonesian",
+    "id": "ri21",
+    "verified": true
+  },
+  {
     "name": "Rizq",
     "gender": "Boy",
     "meaning": "Livelihood; Sustenance",
     "origin": "Arabic",
     "id": "ri8",
+    "verified": true
+  },
+  {
+    "name": "Rizwan",
+    "gender": "Boy",
+    "meaning": "Acceptance",
+    "origin": "Quranic",
+    "id": "ri15",
+    "verified": true
+  },
+  {
+    "name": "Rizwana",
+    "gender": "Girl",
+    "meaning": "Guardian of heaven",
+    "origin": "Arabic",
+    "id": "ri16",
     "verified": true
   }
 ]

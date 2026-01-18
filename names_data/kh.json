@@ -16,11 +16,27 @@
     "verified": true
   },
   {
+    "name": "Khadijah",
+    "gender": "Girl",
+    "meaning": "Premature child",
+    "origin": "Malay",
+    "id": "kh38",
+    "verified": true
+  },
+  {
     "name": "Khadim",
     "gender": "Boy",
     "meaning": "Servant",
     "origin": "Arabic",
     "id": "kh7",
+    "verified": true
+  },
+  {
+    "name": "Khadra",
+    "gender": "Girl",
+    "meaning": "Green",
+    "origin": "Somali",
+    "id": "kh44",
     "verified": true
   },
   {
@@ -56,6 +72,22 @@
     "verified": true
   },
   {
+    "name": "Khairul",
+    "gender": "Boy",
+    "meaning": "Goodness of",
+    "origin": "Malay",
+    "id": "kh42",
+    "verified": true
+  },
+  {
+    "name": "Khairunnisa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Indonesian",
+    "id": "kh43",
+    "verified": true
+  },
+  {
     "name": "Khalaf",
     "gender": "Boy",
     "meaning": "Successor",
@@ -80,6 +112,14 @@
     "verified": true
   },
   {
+    "name": "Khalfani",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Swahili",
+    "id": "kh45",
+    "verified": true
+  },
+  {
     "name": "Khalid",
     "gender": "Boy",
     "meaning": "Eternal",
@@ -96,6 +136,22 @@
     "verified": true
   },
   {
+    "name": "Khalidah",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Malay",
+    "id": "kh39",
+    "verified": true
+  },
+  {
+    "name": "Khalil",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "African",
+    "id": "kh40",
+    "verified": true
+  },
+  {
     "name": "Khalis",
     "gender": "Boy",
     "meaning": "Pure",
@@ -109,6 +165,14 @@
     "meaning": "Old; Aged",
     "origin": "Arabic",
     "id": "kh2",
+    "verified": true
+  },
+  {
+    "name": "Khamis",
+    "gender": "Boy",
+    "meaning": "Thursday",
+    "origin": "Swahili",
+    "id": "kh41",
     "verified": true
   },
   {
@@ -160,6 +224,14 @@
     "verified": true
   },
   {
+    "name": "Khayr",
+    "gender": "Unisex",
+    "meaning": "Goodness",
+    "origin": "Arabic",
+    "id": "kh34",
+    "verified": true
+  },
+  {
     "name": "Khayri",
     "gender": "Boy",
     "meaning": "Charitable",
@@ -181,6 +253,14 @@
     "meaning": "Green",
     "origin": "Arabic",
     "id": "kh25",
+    "verified": true
+  },
+  {
+    "name": "Khazin",
+    "gender": "Boy",
+    "meaning": "Treasurer",
+    "origin": "Arabic",
+    "id": "kh35",
     "verified": true
   },
   {
@@ -256,11 +336,27 @@
     "verified": true
   },
   {
+    "name": "Khuwaylid",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "kh36",
+    "verified": true
+  },
+  {
     "name": "Khuzaima",
     "gender": "Boy",
     "meaning": "Dragon Tree",
     "origin": "Arabic",
     "id": "kh33",
+    "verified": true
+  },
+  {
+    "name": "Khuzama",
+    "gender": "Girl",
+    "meaning": "Lavender",
+    "origin": "Arabic",
+    "id": "kh37",
     "verified": true
   }
 ]

@@ -6,5 +6,29 @@
     "origin": "Arabic",
     "id": "it1",
     "verified": true
+  },
+  {
+    "name": "Itidal",
+    "gender": "Girl",
+    "meaning": "Moderation",
+    "origin": "Arabic",
+    "id": "it2",
+    "verified": true
+  },
+  {
+    "name": "Itimad",
+    "gender": "Girl",
+    "meaning": "Reliance",
+    "origin": "Arabic",
+    "id": "it3",
+    "verified": true
+  },
+  {
+    "name": "Itr",
+    "gender": "Unisex",
+    "meaning": "Perfume",
+    "origin": "Arabic",
+    "id": "it4",
+    "verified": true
   }
 ]

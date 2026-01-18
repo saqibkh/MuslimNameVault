@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Amam",
+    "gender": "Boy",
+    "meaning": "Safety",
+    "origin": "Arabic",
+    "id": "am31",
+    "verified": true
+  },
+  {
     "name": "Aman",
     "gender": "Boy",
     "meaning": "Peace",
@@ -72,11 +80,35 @@
     "verified": true
   },
   {
+    "name": "Amatullah",
+    "gender": "Girl",
+    "meaning": "Servant of Allah",
+    "origin": "Arabic",
+    "id": "am32",
+    "verified": true
+  },
+  {
     "name": "Ambar",
     "gender": "Girl",
     "meaning": "Ambergris (Perfume)",
     "origin": "Arabic",
     "id": "am14",
+    "verified": true
+  },
+  {
+    "name": "Amber",
+    "gender": "Girl",
+    "meaning": "Jewel",
+    "origin": "Arabic",
+    "id": "am30",
+    "verified": true
+  },
+  {
+    "name": "Ambreen",
+    "gender": "Girl",
+    "meaning": "Sky",
+    "origin": "Persian",
+    "id": "am18",
     "verified": true
   },
   {
@@ -88,11 +120,43 @@
     "verified": true
   },
   {
+    "name": "Ameen",
+    "gender": "Boy",
+    "meaning": "Trustworthy",
+    "origin": "Arabic",
+    "id": "am19",
+    "verified": true
+  },
+  {
+    "name": "Ameer",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Arabic",
+    "id": "am20",
+    "verified": true
+  },
+  {
+    "name": "Ameera",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Arabic",
+    "id": "am21",
+    "verified": true
+  },
+  {
     "name": "Amel",
     "gender": "Girl",
     "meaning": "Hope",
     "origin": "Arabic",
     "id": "am7",
+    "verified": true
+  },
+  {
+    "name": "Amer",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Arabic",
+    "id": "am22",
     "verified": true
   },
   {
@@ -104,11 +168,51 @@
     "verified": true
   },
   {
+    "name": "Amin",
+    "gender": "Boy",
+    "meaning": "Trustworthy",
+    "origin": "Arabic",
+    "id": "am23",
+    "verified": true
+  },
+  {
+    "name": "Amina",
+    "gender": "Girl",
+    "meaning": "Trustworthy",
+    "origin": "Arabic",
+    "id": "am24",
+    "verified": true
+  },
+  {
     "name": "Aminah",
     "gender": "Girl",
     "meaning": "Trustworthy",
     "origin": "Arabic",
     "id": "am17",
+    "verified": true
+  },
+  {
+    "name": "Amir",
+    "gender": "Boy",
+    "meaning": "Prince",
+    "origin": "Arabic",
+    "id": "am25",
+    "verified": true
+  },
+  {
+    "name": "Amira",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Arabic",
+    "id": "am26",
+    "verified": true
+  },
+  {
+    "name": "Amjad",
+    "gender": "Boy",
+    "meaning": "Glorious",
+    "origin": "Arabic",
+    "id": "am27",
     "verified": true
   },
   {
@@ -128,11 +232,27 @@
     "verified": true
   },
   {
+    "name": "Amr",
+    "gender": "Boy",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "id": "am28",
+    "verified": true
+  },
+  {
     "name": "Amra",
     "gender": "Girl",
     "meaning": "Long life",
     "origin": "Arabic",
     "id": "am10",
+    "verified": true
+  },
+  {
+    "name": "Amro",
+    "gender": "Boy",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "id": "am29",
     "verified": true
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "name": "Eid",
+    "gender": "Boy",
+    "meaning": "Festivity",
+    "origin": "Arabic",
+    "id": "ei3",
+    "verified": true
+  },
+  {
+    "name": "Eidam",
+    "gender": "Boy",
+    "meaning": "Determination",
+    "origin": "Arabic",
+    "id": "ei4",
+    "verified": true
+  },
+  {
+    "name": "Eihab",
+    "gender": "Boy",
+    "meaning": "To give freely",
+    "origin": "Arabic",
+    "id": "ei5",
+    "verified": true
+  },
+  {
     "name": "Eiman",
     "gender": "Girl",
     "meaning": "Faith",

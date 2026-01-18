@@ -1,5 +1,21 @@
 [
   {
+    "name": "Hoda",
+    "gender": "Girl",
+    "meaning": "Guidance",
+    "origin": "Arabic",
+    "id": "ho8",
+    "verified": true
+  },
+  {
+    "name": "Hodan",
+    "gender": "Girl",
+    "meaning": "Lush",
+    "origin": "Somali",
+    "id": "ho10",
+    "verified": true
+  },
+  {
     "name": "Homan",
     "gender": "Boy",
     "meaning": "Good soul",
@@ -45,6 +61,14 @@
     "meaning": "Angel",
     "origin": "Arabic",
     "id": "ho7",
+    "verified": true
+  },
+  {
+    "name": "Hossam",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "ho9",
     "verified": true
   },
   {

@@ -32,6 +32,22 @@
     "verified": true
   },
   {
+    "name": "Imani",
+    "gender": "Girl",
+    "meaning": "Faith",
+    "origin": "Swahili",
+    "id": "im9",
+    "verified": true
+  },
+  {
+    "name": "Imelda",
+    "gender": "Girl",
+    "meaning": "Powerful fighter",
+    "origin": "Indonesian",
+    "id": "im8",
+    "verified": true
+  },
+  {
     "name": "Imran",
     "gender": "Boy",
     "meaning": "Prosperity",
@@ -45,6 +61,14 @@
     "meaning": "Distinction",
     "origin": "Arabic",
     "id": "im2",
+    "verified": true
+  },
+  {
+    "name": "Imtiyaz",
+    "gender": "Boy",
+    "meaning": "Distinction",
+    "origin": "Arabic",
+    "id": "im7",
     "verified": true
   }
 ]

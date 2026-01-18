@@ -1,5 +1,21 @@
 [
   {
+    "name": "Bi",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Urdu",
+    "id": "bi7",
+    "verified": true
+  },
+  {
+    "name": "Bibi",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Persian",
+    "id": "bi8",
+    "verified": true
+  },
+  {
     "name": "Bilal",
     "gender": "Boy",
     "meaning": "Water",
@@ -16,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Bima",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Indonesian",
+    "id": "bi15",
+    "verified": true
+  },
+  {
     "name": "Bina",
     "gender": "Girl",
     "meaning": "Vision",
@@ -24,11 +48,51 @@
     "verified": true
   },
   {
+    "name": "Binish",
+    "gender": "Girl",
+    "meaning": "Vision",
+    "origin": "Persian",
+    "id": "bi9",
+    "verified": true
+  },
+  {
+    "name": "Bint",
+    "gender": "Girl",
+    "meaning": "Daughter",
+    "origin": "Arabic",
+    "id": "bi10",
+    "verified": true
+  },
+  {
+    "name": "Bintang",
+    "gender": "Unisex",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "bi16",
+    "verified": true
+  },
+  {
     "name": "Binyamin",
     "gender": "Boy",
     "meaning": "Brother of Prophet Yusuf",
     "origin": "Quranic",
     "id": "bi6",
+    "verified": true
+  },
+  {
+    "name": "Birrah",
+    "gender": "Girl",
+    "meaning": "Good deed",
+    "origin": "Arabic",
+    "id": "bi11",
+    "verified": true
+  },
+  {
+    "name": "Bishara",
+    "gender": "Girl",
+    "meaning": "Good news",
+    "origin": "Swahili",
+    "id": "bi17",
     "verified": true
   },
   {
@@ -45,6 +109,30 @@
     "meaning": "Smile",
     "origin": "Urdu",
     "id": "bi5",
+    "verified": true
+  },
+  {
+    "name": "Bismal",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Urdu",
+    "id": "bi12",
+    "verified": true
+  },
+  {
+    "name": "Bisman",
+    "gender": "Girl",
+    "meaning": "Polite",
+    "origin": "Persian",
+    "id": "bi13",
+    "verified": true
+  },
+  {
+    "name": "Bita",
+    "gender": "Girl",
+    "meaning": "Unique",
+    "origin": "Persian",
+    "id": "bi14",
     "verified": true
   }
 ]

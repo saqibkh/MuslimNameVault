@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Arab",
+    "gender": "Boy",
+    "meaning": "Peaceful",
+    "origin": "Arabic",
+    "id": "ar27",
+    "verified": true
+  },
+  {
     "name": "Arafat",
     "gender": "Boy",
     "meaning": "Mountain near Mecca",
     "origin": "Arabic",
     "id": "ar6",
+    "verified": true
+  },
+  {
+    "name": "Araiz",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Urdu",
+    "id": "ar28",
     "verified": true
   },
   {
@@ -40,11 +56,35 @@
     "verified": true
   },
   {
+    "name": "Areeba",
+    "gender": "Girl",
+    "meaning": "Wise",
+    "origin": "Arabic",
+    "id": "ar29",
+    "verified": true
+  },
+  {
+    "name": "Areed",
+    "gender": "Boy",
+    "meaning": "Respectable",
+    "origin": "Arabic",
+    "id": "ar30",
+    "verified": true
+  },
+  {
     "name": "Areej",
     "gender": "Girl",
     "meaning": "Scent of a flower",
     "origin": "Arabic",
     "id": "ar7",
+    "verified": true
+  },
+  {
+    "name": "Areem",
+    "gender": "Girl",
+    "meaning": "Heaven",
+    "origin": "Arabic",
+    "id": "ar31",
     "verified": true
   },
   {
@@ -61,6 +101,14 @@
     "meaning": "Wish; Desire",
     "origin": "Persian",
     "id": "ar2",
+    "verified": true
+  },
+  {
+    "name": "Arfa",
+    "gender": "Girl",
+    "meaning": "High status",
+    "origin": "Arabic",
+    "id": "ar32",
     "verified": true
   },
   {
@@ -96,11 +144,35 @@
     "verified": true
   },
   {
+    "name": "Ariba",
+    "gender": "Girl",
+    "meaning": "Wise",
+    "origin": "Arabic",
+    "id": "ar33",
+    "verified": true
+  },
+  {
     "name": "Arif",
     "gender": "Boy",
     "meaning": "Knowledgeable",
     "origin": "Arabic",
     "id": "ar10",
+    "verified": true
+  },
+  {
+    "name": "Arifa",
+    "gender": "Girl",
+    "meaning": "Learned",
+    "origin": "Arabic",
+    "id": "ar34",
+    "verified": true
+  },
+  {
+    "name": "Arifin",
+    "gender": "Boy",
+    "meaning": "Wise men",
+    "origin": "Indonesian",
+    "id": "ar42",
     "verified": true
   },
   {
@@ -120,11 +192,43 @@
     "verified": true
   },
   {
+    "name": "Aris",
+    "gender": "Boy",
+    "meaning": "Noble",
+    "origin": "Indonesian",
+    "id": "ar43",
+    "verified": true
+  },
+  {
     "name": "Arish",
     "gender": "Boy",
     "meaning": "Righteous",
     "origin": "Arabic",
     "id": "ar12",
+    "verified": true
+  },
+  {
+    "name": "Arisha",
+    "gender": "Girl",
+    "meaning": "Highness",
+    "origin": "Arabic",
+    "id": "ar35",
+    "verified": true
+  },
+  {
+    "name": "Arissa",
+    "gender": "Girl",
+    "meaning": "Bright",
+    "origin": "Urdu",
+    "id": "ar36",
+    "verified": true
+  },
+  {
+    "name": "Armaan",
+    "gender": "Boy",
+    "meaning": "Desire",
+    "origin": "Persian",
+    "id": "ar37",
     "verified": true
   },
   {
@@ -168,6 +272,14 @@
     "verified": true
   },
   {
+    "name": "Arsalan",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Turkish",
+    "id": "ar38",
+    "verified": true
+  },
+  {
     "name": "Arsh",
     "gender": "Boy",
     "meaning": "Throne",
@@ -184,11 +296,27 @@
     "verified": true
   },
   {
+    "name": "Arshi",
+    "gender": "Girl",
+    "meaning": "Of the throne",
+    "origin": "Arabic",
+    "id": "ar39",
+    "verified": true
+  },
+  {
     "name": "Arshia",
     "gender": "Unisex",
     "meaning": "Heavenly",
     "origin": "Persian",
     "id": "ar26",
+    "verified": true
+  },
+  {
+    "name": "Arumi",
+    "gender": "Girl",
+    "meaning": "Origin",
+    "origin": "Indonesian",
+    "id": "ar44",
     "verified": true
   },
   {
@@ -205,6 +333,22 @@
     "meaning": "Warrior",
     "origin": "Arabic",
     "id": "ar18",
+    "verified": true
+  },
+  {
+    "name": "Arzo",
+    "gender": "Girl",
+    "meaning": "Wish",
+    "origin": "Persian",
+    "id": "ar40",
+    "verified": true
+  },
+  {
+    "name": "Arzu",
+    "gender": "Girl",
+    "meaning": "Wish",
+    "origin": "Persian",
+    "id": "ar41",
     "verified": true
   }
 ]

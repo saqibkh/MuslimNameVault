@@ -1,10 +1,50 @@
 [
   {
+    "name": "Reem",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Arabic",
+    "id": "re5",
+    "verified": true
+  },
+  {
+    "name": "Reema",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "re6",
+    "verified": true
+  },
+  {
     "name": "Reha",
     "gender": "Boy",
     "meaning": "Salvation; Rescue",
     "origin": "Turkish/Arabic",
     "id": "re1",
+    "verified": true
+  },
+  {
+    "name": "Rehan",
+    "gender": "Boy",
+    "meaning": "Scented plant",
+    "origin": "Quranic",
+    "id": "re7",
+    "verified": true
+  },
+  {
+    "name": "Rehana",
+    "gender": "Girl",
+    "meaning": "Sweet basil",
+    "origin": "Arabic",
+    "id": "re8",
+    "verified": true
+  },
+  {
+    "name": "Rehema",
+    "gender": "Girl",
+    "meaning": "Compassion",
+    "origin": "Swahili",
+    "id": "re13",
     "verified": true
   },
   {
@@ -24,11 +64,43 @@
     "verified": true
   },
   {
+    "name": "Reshma",
+    "gender": "Girl",
+    "meaning": "Silk",
+    "origin": "Persian",
+    "id": "re9",
+    "verified": true
+  },
+  {
+    "name": "Reya",
+    "gender": "Girl",
+    "meaning": "Grace",
+    "origin": "Arabic",
+    "id": "re10",
+    "verified": true
+  },
+  {
     "name": "Reyhan",
     "gender": "Girl",
     "meaning": "Sweet basil",
     "origin": "Turkish/Arabic",
     "id": "re4",
+    "verified": true
+  },
+  {
+    "name": "Reza",
+    "gender": "Boy",
+    "meaning": "Consent",
+    "origin": "Persian",
+    "id": "re11",
+    "verified": true
+  },
+  {
+    "name": "Rezwan",
+    "gender": "Boy",
+    "meaning": "Keeper of heaven",
+    "origin": "Arabic",
+    "id": "re12",
     "verified": true
   }
 ]

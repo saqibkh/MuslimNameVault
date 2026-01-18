@@ -1,5 +1,13 @@
 [
   {
+    "name": "Kaab",
+    "gender": "Boy",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "id": "ka34",
+    "verified": true
+  },
+  {
     "name": "Kaamil",
     "gender": "Boy",
     "meaning": "Perfect",
@@ -13,6 +21,22 @@
     "meaning": "Ruler; King of Kings",
     "origin": "Turkish",
     "id": "ka1",
+    "verified": true
+  },
+  {
+    "name": "Kaashif",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "ka59",
+    "verified": true
+  },
+  {
+    "name": "Kaasib",
+    "gender": "Boy",
+    "meaning": "Winner",
+    "origin": "Arabic",
+    "id": "ka60",
     "verified": true
   },
   {
@@ -32,11 +56,83 @@
     "verified": true
   },
   {
+    "name": "Kadar",
+    "gender": "Boy",
+    "meaning": "Power",
+    "origin": "Arabic",
+    "id": "ka35",
+    "verified": true
+  },
+  {
+    "name": "Kadeem",
+    "gender": "Boy",
+    "meaning": "Servant",
+    "origin": "Arabic",
+    "id": "ka36",
+    "verified": true
+  },
+  {
+    "name": "Kadeer",
+    "gender": "Boy",
+    "meaning": "Powerful",
+    "origin": "Arabic",
+    "id": "ka37",
+    "verified": true
+  },
+  {
+    "name": "Kadi",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "ka38",
+    "verified": true
+  },
+  {
+    "name": "Kadir",
+    "gender": "Boy",
+    "meaning": "Powerful",
+    "origin": "Malay",
+    "id": "ka54",
+    "verified": true
+  },
+  {
+    "name": "Kafeel",
+    "gender": "Boy",
+    "meaning": "Responsible",
+    "origin": "Arabic",
+    "id": "ka39",
+    "verified": true
+  },
+  {
+    "name": "Kafi",
+    "gender": "Boy",
+    "meaning": "Sufficient",
+    "origin": "Quranic",
+    "id": "ka41",
+    "verified": true
+  },
+  {
+    "name": "Kafila",
+    "gender": "Girl",
+    "meaning": "Caravan",
+    "origin": "Arabic",
+    "id": "ka40",
+    "verified": true
+  },
+  {
     "name": "Kagan",
     "gender": "Boy",
     "meaning": "Emperor",
     "origin": "Turkish",
     "id": "ka4",
+    "verified": true
+  },
+  {
+    "name": "Kahil",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Arabic",
+    "id": "ka42",
     "verified": true
   },
   {
@@ -72,6 +168,22 @@
     "verified": true
   },
   {
+    "name": "Kala",
+    "gender": "Girl",
+    "meaning": "Castle",
+    "origin": "Arabic",
+    "id": "ka43",
+    "verified": true
+  },
+  {
+    "name": "Kalam",
+    "gender": "Boy",
+    "meaning": "Speech",
+    "origin": "Arabic",
+    "id": "ka44",
+    "verified": true
+  },
+  {
     "name": "Kalami",
     "gender": "Boy",
     "meaning": "Speaker",
@@ -96,11 +208,51 @@
     "verified": true
   },
   {
+    "name": "Kaltham",
+    "gender": "Girl",
+    "meaning": "Name of Al-Kaltham",
+    "origin": "Arabic",
+    "id": "ka45",
+    "verified": true
+  },
+  {
     "name": "Kamal",
     "gender": "Boy",
     "meaning": "Perfection",
     "origin": "Arabic",
     "id": "ka9",
+    "verified": true
+  },
+  {
+    "name": "Kamalia",
+    "gender": "Girl",
+    "meaning": "Perfection",
+    "origin": "Arabic",
+    "id": "ka46",
+    "verified": true
+  },
+  {
+    "name": "Kamaluddin",
+    "gender": "Boy",
+    "meaning": "Perfection of Faith",
+    "origin": "Arabic",
+    "id": "ka47",
+    "verified": true
+  },
+  {
+    "name": "Kamar",
+    "gender": "Boy",
+    "meaning": "Moon",
+    "origin": "Arabic",
+    "id": "ka48",
+    "verified": true
+  },
+  {
+    "name": "Kamari",
+    "gender": "Unisex",
+    "meaning": "Moonlight",
+    "origin": "Swahili",
+    "id": "ka55",
     "verified": true
   },
   {
@@ -112,11 +264,35 @@
     "verified": true
   },
   {
+    "name": "Kameela",
+    "gender": "Girl",
+    "meaning": "Perfect",
+    "origin": "Arabic",
+    "id": "ka49",
+    "verified": true
+  },
+  {
     "name": "Kamil",
     "gender": "Boy",
     "meaning": "Perfect",
     "origin": "Arabic",
     "id": "ka19",
+    "verified": true
+  },
+  {
+    "name": "Kamila",
+    "gender": "Girl",
+    "meaning": "Complete",
+    "origin": "Arabic",
+    "id": "ka50",
+    "verified": true
+  },
+  {
+    "name": "Kamilah",
+    "gender": "Girl",
+    "meaning": "Perfect",
+    "origin": "Malay",
+    "id": "ka56",
     "verified": true
   },
   {
@@ -160,11 +336,51 @@
     "verified": true
   },
   {
+    "name": "Karim",
+    "gender": "Boy",
+    "meaning": "Noble",
+    "origin": "Quranic",
+    "id": "ka51",
+    "verified": true
+  },
+  {
     "name": "Karima",
     "gender": "Girl",
     "meaning": "Generous",
     "origin": "Arabic",
     "id": "ka25",
+    "verified": true
+  },
+  {
+    "name": "Kartika",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Indonesian",
+    "id": "ka57",
+    "verified": true
+  },
+  {
+    "name": "Kartini",
+    "gender": "Girl",
+    "meaning": "Hidden achievement",
+    "origin": "Indonesian",
+    "id": "ka58",
+    "verified": true
+  },
+  {
+    "name": "Kashif",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "ka52",
+    "verified": true
+  },
+  {
+    "name": "Kashifa",
+    "gender": "Girl",
+    "meaning": "Revealer",
+    "origin": "Arabic",
+    "id": "ka53",
     "verified": true
   },
   {

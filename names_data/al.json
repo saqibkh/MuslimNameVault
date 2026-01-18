@@ -1,5 +1,45 @@
 [
   {
+    "name": "Al-Amin",
+    "gender": "Boy",
+    "meaning": "The Trustworthy",
+    "origin": "Arabic",
+    "id": "al29",
+    "verified": true
+  },
+  {
+    "name": "Ala",
+    "gender": "Boy",
+    "meaning": "Excellence",
+    "origin": "Arabic",
+    "id": "al35",
+    "verified": true
+  },
+  {
+    "name": "Aladdin",
+    "gender": "Boy",
+    "meaning": "Glory of Faith",
+    "origin": "Arabic",
+    "id": "al36",
+    "verified": true
+  },
+  {
+    "name": "Alam",
+    "gender": "Boy",
+    "meaning": "World",
+    "origin": "Urdu",
+    "id": "al30",
+    "verified": true
+  },
+  {
+    "name": "Alamgir",
+    "gender": "Boy",
+    "meaning": "World Conqueror",
+    "origin": "Persian",
+    "id": "al37",
+    "verified": true
+  },
+  {
     "name": "Alara",
     "gender": "Girl",
     "meaning": "Water fairy; Red ornament",
@@ -48,11 +88,43 @@
     "verified": true
   },
   {
+    "name": "Alfian",
+    "gender": "Boy",
+    "meaning": "Thousand",
+    "origin": "Indonesian",
+    "id": "al31",
+    "verified": true
+  },
+  {
     "name": "Alhan",
     "gender": "Girl",
     "meaning": "Melody",
     "origin": "Arabic",
     "id": "al19",
+    "verified": true
+  },
+  {
+    "name": "Alhassan",
+    "gender": "Boy",
+    "meaning": "The handsome",
+    "origin": "African",
+    "id": "al39",
+    "verified": true
+  },
+  {
+    "name": "Ali",
+    "gender": "Boy",
+    "meaning": "High",
+    "origin": "Somali",
+    "id": "al32",
+    "verified": true
+  },
+  {
+    "name": "Alia",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Malay",
+    "id": "al33",
     "verified": true
   },
   {
@@ -72,11 +144,35 @@
     "verified": true
   },
   {
+    "name": "Alina",
+    "gender": "Girl",
+    "meaning": "Bright, beautiful",
+    "origin": "Arabic",
+    "id": "al23",
+    "verified": true
+  },
+  {
+    "name": "Alishba",
+    "gender": "Girl",
+    "meaning": "Lovely",
+    "origin": "Urdu",
+    "id": "al24",
+    "verified": true
+  },
+  {
     "name": "Aliya",
     "gender": "Girl",
     "meaning": "High standing",
     "origin": "Arabic",
     "id": "al20",
+    "verified": true
+  },
+  {
+    "name": "Aliyah",
+    "gender": "Girl",
+    "meaning": "Exalted",
+    "origin": "Arabic",
+    "id": "al40",
     "verified": true
   },
   {
@@ -160,11 +256,59 @@
     "verified": true
   },
   {
+    "name": "Aludra",
+    "gender": "Girl",
+    "meaning": "Virgin",
+    "origin": "Arabic",
+    "id": "al25",
+    "verified": true
+  },
+  {
+    "name": "Alveena",
+    "gender": "Girl",
+    "meaning": "Loved one",
+    "origin": "Arabic",
+    "id": "al26",
+    "verified": true
+  },
+  {
+    "name": "Alvi",
+    "gender": "Boy",
+    "meaning": "Fan of Ali",
+    "origin": "Urdu",
+    "id": "al34",
+    "verified": true
+  },
+  {
     "name": "Alvina",
     "gender": "Girl",
     "meaning": "Friend of All",
     "origin": "Urdu",
     "id": "al22",
+    "verified": true
+  },
+  {
+    "name": "Aly",
+    "gender": "Boy",
+    "meaning": "High",
+    "origin": "Arabic",
+    "id": "al27",
+    "verified": true
+  },
+  {
+    "name": "Alya",
+    "gender": "Girl",
+    "meaning": "Sky, heaven",
+    "origin": "Arabic",
+    "id": "al28",
+    "verified": true
+  },
+  {
+    "name": "Alyan",
+    "gender": "Boy",
+    "meaning": "Tall",
+    "origin": "Arabic",
+    "id": "al38",
     "verified": true
   },
   {

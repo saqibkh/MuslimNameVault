@@ -1,5 +1,13 @@
 [
   {
+    "name": "Midhat",
+    "gender": "Boy",
+    "meaning": "Praise",
+    "origin": "Arabic",
+    "id": "mi24",
+    "verified": true
+  },
+  {
     "name": "Miftah",
     "gender": "Boy",
     "meaning": "Key",
@@ -13,6 +21,22 @@
     "meaning": "Name of a companion",
     "origin": "Arabic",
     "id": "mi7",
+    "verified": true
+  },
+  {
+    "name": "Mika",
+    "gender": "Boy",
+    "meaning": "Cool",
+    "origin": "Arabic",
+    "id": "mi25",
+    "verified": true
+  },
+  {
+    "name": "Mikaeel",
+    "gender": "Boy",
+    "meaning": "Archangel",
+    "origin": "Quranic",
+    "id": "mi26",
     "verified": true
   },
   {
@@ -112,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Miral",
+    "gender": "Girl",
+    "meaning": "Deer",
+    "origin": "Turkish",
+    "id": "mi27",
+    "verified": true
+  },
+  {
     "name": "Miran",
     "gender": "Boy",
     "meaning": "Princes; Rulers",
@@ -133,6 +165,14 @@
     "meaning": "Light of Allah",
     "origin": "Arabic",
     "id": "mi2",
+    "verified": true
+  },
+  {
+    "name": "Mirna",
+    "gender": "Girl",
+    "meaning": "Peaceful",
+    "origin": "Indonesian",
+    "id": "mi29",
     "verified": true
   },
   {
@@ -165,6 +205,14 @@
     "meaning": "Torch; Light",
     "origin": "Arabic",
     "id": "mi3",
+    "verified": true
+  },
+  {
+    "name": "Misk",
+    "gender": "Unisex",
+    "meaning": "Musk",
+    "origin": "Quranic",
+    "id": "mi28",
     "verified": true
   },
   {

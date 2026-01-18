@@ -1,5 +1,13 @@
 [
   {
+    "name": "Hubab",
+    "gender": "Boy",
+    "meaning": "Aim, friendship",
+    "origin": "Arabic",
+    "id": "hu16",
+    "verified": true
+  },
+  {
     "name": "Hud",
     "gender": "Boy",
     "meaning": "Prophet",
@@ -21,6 +29,14 @@
     "meaning": "Short-statured",
     "origin": "Arabic",
     "id": "hu3",
+    "verified": true
+  },
+  {
+    "name": "Hujaymah",
+    "gender": "Girl",
+    "meaning": "Attack",
+    "origin": "Arabic",
+    "id": "hu17",
     "verified": true
   },
   {
@@ -56,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Humair",
+    "gender": "Boy",
+    "meaning": "Reddish",
+    "origin": "Arabic",
+    "id": "hu18",
+    "verified": true
+  },
+  {
     "name": "Humaira",
     "gender": "Girl",
     "meaning": "Reddish",
@@ -72,11 +96,35 @@
     "verified": true
   },
   {
+    "name": "Humayl",
+    "gender": "Boy",
+    "meaning": "Companion of Prophet",
+    "origin": "Arabic",
+    "id": "hu19",
+    "verified": true
+  },
+  {
+    "name": "Humayrah",
+    "gender": "Girl",
+    "meaning": "Red color",
+    "origin": "Arabic",
+    "id": "hu20",
+    "verified": true
+  },
+  {
     "name": "Humayun",
     "gender": "Boy",
     "meaning": "Blessed",
     "origin": "Persian",
     "id": "hu10",
+    "verified": true
+  },
+  {
+    "name": "Humza",
+    "gender": "Boy",
+    "meaning": "Lion (Variant of Hamza)",
+    "origin": "Arabic",
+    "id": "hu21",
     "verified": true
   },
   {
@@ -88,11 +136,35 @@
     "verified": true
   },
   {
+    "name": "Huriya",
+    "gender": "Girl",
+    "meaning": "Angel, nymph",
+    "origin": "Arabic",
+    "id": "hu22",
+    "verified": true
+  },
+  {
+    "name": "Hurrem",
+    "gender": "Girl",
+    "meaning": "Cheery, happy",
+    "origin": "Turkish",
+    "id": "hu23",
+    "verified": true
+  },
+  {
     "name": "Husain",
     "gender": "Boy",
     "meaning": "Little Beauty",
     "origin": "Arabic",
     "id": "hu12",
+    "verified": true
+  },
+  {
+    "name": "Husin",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Malay",
+    "id": "hu24",
     "verified": true
   },
   {
@@ -104,11 +176,27 @@
     "verified": true
   },
   {
+    "name": "Husni",
+    "gender": "Boy",
+    "meaning": "Excellence",
+    "origin": "Malay",
+    "id": "hu25",
+    "verified": true
+  },
+  {
     "name": "Hussain",
     "gender": "Boy",
     "meaning": "Beautiful",
     "origin": "Arabic",
     "id": "hu14",
+    "verified": true
+  },
+  {
+    "name": "Hussein",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Somali",
+    "id": "hu26",
     "verified": true
   },
   {

@@ -1,10 +1,42 @@
 [
   {
+    "name": "Beena",
+    "gender": "Girl",
+    "meaning": "Seeing",
+    "origin": "Persian",
+    "id": "be9",
+    "verified": true
+  },
+  {
+    "name": "Begum",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Turkish",
+    "id": "be10",
+    "verified": true
+  },
+  {
+    "name": "Behjat",
+    "gender": "Unisex",
+    "meaning": "Joy",
+    "origin": "Arabic",
+    "id": "be11",
+    "verified": true
+  },
+  {
     "name": "Behnam",
     "gender": "Boy",
     "meaning": "Reputable",
     "origin": "Persian",
     "id": "be5",
+    "verified": true
+  },
+  {
+    "name": "Behram",
+    "gender": "Boy",
+    "meaning": "Mars",
+    "origin": "Persian",
+    "id": "be12",
     "verified": true
   },
   {
@@ -40,11 +72,27 @@
     "verified": true
   },
   {
+    "name": "Bello",
+    "gender": "Boy",
+    "meaning": "Helper of the faith",
+    "origin": "Hausa",
+    "id": "be16",
+    "verified": true
+  },
+  {
     "name": "Benazir",
     "gender": "Girl",
     "meaning": "Incomparable",
     "origin": "Persian",
     "id": "be4",
+    "verified": true
+  },
+  {
+    "name": "Berin",
+    "gender": "Girl",
+    "meaning": "Best",
+    "origin": "Turkish",
+    "id": "be13",
     "verified": true
   },
   {
@@ -61,6 +109,22 @@
     "meaning": "Solid Man",
     "origin": "Turkish",
     "id": "be7",
+    "verified": true
+  },
+  {
+    "name": "Beyza",
+    "gender": "Girl",
+    "meaning": "White",
+    "origin": "Turkish",
+    "id": "be14",
+    "verified": true
+  },
+  {
+    "name": "Beza",
+    "gender": "Boy",
+    "meaning": "White",
+    "origin": "Arabic",
+    "id": "be15",
     "verified": true
   }
 ]

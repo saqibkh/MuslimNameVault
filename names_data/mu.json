@@ -1,5 +1,13 @@
 [
   {
+    "name": "Muad",
+    "gender": "Boy",
+    "meaning": "Protected",
+    "origin": "Somali",
+    "id": "mu77",
+    "verified": true
+  },
+  {
     "name": "Muadh",
     "gender": "Boy",
     "meaning": "Protected",
@@ -16,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Muawiya",
+    "gender": "Boy",
+    "meaning": "Young fox",
+    "origin": "Arabic",
+    "id": "mu68",
+    "verified": true
+  },
+  {
     "name": "Muawiyah",
     "gender": "Boy",
     "meaning": "Young Fox",
@@ -29,6 +45,14 @@
     "meaning": "Supported",
     "origin": "Arabic",
     "id": "mu8",
+    "verified": true
+  },
+  {
+    "name": "Muazzam",
+    "gender": "Boy",
+    "meaning": "Exalted",
+    "origin": "Arabic",
+    "id": "mu69",
     "verified": true
   },
   {
@@ -109,6 +133,46 @@
     "meaning": "Protector",
     "origin": "Arabic",
     "id": "mu18",
+    "verified": true
+  },
+  {
+    "name": "Muhamad",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Indonesian",
+    "id": "mu78",
+    "verified": true
+  },
+  {
+    "name": "Muhammad",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Quranic",
+    "id": "mu70",
+    "verified": true
+  },
+  {
+    "name": "Muhannad",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "mu71",
+    "verified": true
+  },
+  {
+    "name": "Muhd",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Malay",
+    "id": "mu79",
+    "verified": true
+  },
+  {
+    "name": "Muhib",
+    "gender": "Boy",
+    "meaning": "Lover",
+    "origin": "Arabic",
+    "id": "mu72",
     "verified": true
   },
   {
@@ -216,6 +280,14 @@
     "verified": true
   },
   {
+    "name": "Mulya",
+    "gender": "Unisex",
+    "meaning": "Noble",
+    "origin": "Indonesian",
+    "id": "mu80",
+    "verified": true
+  },
+  {
     "name": "Mumin",
     "gender": "Boy",
     "meaning": "Believer",
@@ -229,6 +301,14 @@
     "meaning": "Distinguished",
     "origin": "Arabic",
     "id": "mu31",
+    "verified": true
+  },
+  {
+    "name": "Muna",
+    "gender": "Girl",
+    "meaning": "Wishes",
+    "origin": "Arabic",
+    "id": "mu73",
     "verified": true
   },
   {
@@ -256,6 +336,14 @@
     "verified": true
   },
   {
+    "name": "Muneeiba",
+    "gender": "Girl",
+    "meaning": "One who turns",
+    "origin": "Arabic",
+    "id": "mu74",
+    "verified": true
+  },
+  {
     "name": "Muneer",
     "gender": "Boy",
     "meaning": "Shining",
@@ -264,11 +352,27 @@
     "verified": true
   },
   {
+    "name": "Muniba",
+    "gender": "Girl",
+    "meaning": "One who turns",
+    "origin": "Quranic",
+    "id": "mu75",
+    "verified": true
+  },
+  {
     "name": "Munir",
     "gender": "Boy",
     "meaning": "Shining",
     "origin": "Arabic",
     "id": "mu36",
+    "verified": true
+  },
+  {
+    "name": "Munira",
+    "gender": "Girl",
+    "meaning": "Illuminating",
+    "origin": "Quranic",
+    "id": "mu76",
     "verified": true
   },
   {
@@ -325,6 +429,14 @@
     "meaning": "Wish; Desire",
     "origin": "Turkish",
     "id": "mu1",
+    "verified": true
+  },
+  {
+    "name": "Murni",
+    "gender": "Girl",
+    "meaning": "Pure",
+    "origin": "Indonesian",
+    "id": "mu81",
     "verified": true
   },
   {
@@ -448,6 +560,14 @@
     "verified": true
   },
   {
+    "name": "Mustapha",
+    "gender": "Boy",
+    "meaning": "Chosen",
+    "origin": "African",
+    "id": "mu82",
+    "verified": true
+  },
+  {
     "name": "Mustaqeem",
     "gender": "Boy",
     "meaning": "Straight",
@@ -485,6 +605,14 @@
     "meaning": "Obedient",
     "origin": "Arabic",
     "id": "mu61",
+    "verified": true
+  },
+  {
+    "name": "Mutiara",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Indonesian",
+    "id": "mu83",
     "verified": true
   },
   {

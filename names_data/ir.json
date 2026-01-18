@@ -1,5 +1,21 @@
 [
   {
+    "name": "Ira",
+    "gender": "Girl",
+    "meaning": "Earth",
+    "origin": "Indonesian",
+    "id": "ir9",
+    "verified": true
+  },
+  {
+    "name": "Iraj",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "ir5",
+    "verified": true
+  },
+  {
     "name": "Irbad",
     "gender": "Boy",
     "meaning": "Name of a Sahabi",
@@ -29,6 +45,38 @@
     "meaning": "River",
     "origin": "Turkish",
     "id": "ir2",
+    "verified": true
+  },
+  {
+    "name": "Irsa",
+    "gender": "Girl",
+    "meaning": "Rainbow",
+    "origin": "Persian",
+    "id": "ir6",
+    "verified": true
+  },
+  {
+    "name": "Irshad",
+    "gender": "Boy",
+    "meaning": "Guidance",
+    "origin": "Arabic",
+    "id": "ir7",
+    "verified": true
+  },
+  {
+    "name": "Irtiza",
+    "gender": "Boy",
+    "meaning": "Contentment",
+    "origin": "Arabic",
+    "id": "ir8",
+    "verified": true
+  },
+  {
+    "name": "Irwan",
+    "gender": "Boy",
+    "meaning": "Patience",
+    "origin": "Indonesian",
+    "id": "ir10",
     "verified": true
   }
 ]

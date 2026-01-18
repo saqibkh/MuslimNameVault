@@ -6,5 +6,37 @@
     "origin": "Turkish",
     "id": "ef1",
     "verified": true
+  },
+  {
+    "name": "Effat",
+    "gender": "Girl",
+    "meaning": "Chastity",
+    "origin": "Persian",
+    "id": "ef2",
+    "verified": true
+  },
+  {
+    "name": "Efrah",
+    "gender": "Girl",
+    "meaning": "Festival",
+    "origin": "Arabic",
+    "id": "ef3",
+    "verified": true
+  },
+  {
+    "name": "Efsan",
+    "gender": "Girl",
+    "meaning": "Tale",
+    "origin": "Turkish",
+    "id": "ef4",
+    "verified": true
+  },
+  {
+    "name": "Efthal",
+    "gender": "Boy",
+    "meaning": "Better",
+    "origin": "Arabic",
+    "id": "ef5",
+    "verified": true
   }
 ]

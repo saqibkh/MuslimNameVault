@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Tyra",
+    "gender": "Girl",
+    "meaning": "Untouched",
+    "origin": "Arabic",
+    "id": "ty1",
+    "verified": true
+  },
+  {
+    "name": "Tysir",
+    "gender": "Boy",
+    "meaning": "Facilitation",
+    "origin": "Arabic",
+    "id": "ty2",
+    "verified": true
+  }
+]

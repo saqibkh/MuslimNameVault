@@ -1,5 +1,21 @@
 [
   {
+    "name": "Asad",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "as20",
+    "verified": true
+  },
+  {
+    "name": "Asadullah",
+    "gender": "Boy",
+    "meaning": "Lion of God",
+    "origin": "Urdu",
+    "id": "as33",
+    "verified": true
+  },
+  {
     "name": "Asal",
     "gender": "Girl",
     "meaning": "Honey",
@@ -21,6 +37,78 @@
     "meaning": "Mark; Sign",
     "origin": "Arabic",
     "id": "as3",
+    "verified": true
+  },
+  {
+    "name": "Asbagh",
+    "gender": "Boy",
+    "meaning": "Colored",
+    "origin": "Arabic",
+    "id": "as36",
+    "verified": true
+  },
+  {
+    "name": "Asbah",
+    "gender": "Girl",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "as21",
+    "verified": true
+  },
+  {
+    "name": "Asbat",
+    "gender": "Boy",
+    "meaning": "Tribes",
+    "origin": "Arabic",
+    "id": "as37",
+    "verified": true
+  },
+  {
+    "name": "Aseed",
+    "gender": "Boy",
+    "meaning": "Narrator",
+    "origin": "Arabic",
+    "id": "as38",
+    "verified": true
+  },
+  {
+    "name": "Aseel",
+    "gender": "Unisex",
+    "meaning": "Genuine",
+    "origin": "Arabic",
+    "id": "as22",
+    "verified": true
+  },
+  {
+    "name": "Aseela",
+    "gender": "Girl",
+    "meaning": "Noble",
+    "origin": "Arabic",
+    "id": "as23",
+    "verified": true
+  },
+  {
+    "name": "Asfa",
+    "gender": "Girl",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "as24",
+    "verified": true
+  },
+  {
+    "name": "Asghar",
+    "gender": "Boy",
+    "meaning": "Smaller",
+    "origin": "Arabic",
+    "id": "as25",
+    "verified": true
+  },
+  {
+    "name": "Ash'ath",
+    "gender": "Boy",
+    "meaning": "Disheveled",
+    "origin": "Arabic",
+    "id": "as39",
     "verified": true
   },
   {
@@ -56,6 +144,14 @@
     "verified": true
   },
   {
+    "name": "Ashim",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "as26",
+    "verified": true
+  },
+  {
     "name": "Ashiq",
     "gender": "Boy",
     "meaning": "Lover",
@@ -72,11 +168,27 @@
     "verified": true
   },
   {
+    "name": "Ashraf",
+    "gender": "Boy",
+    "meaning": "Honorable",
+    "origin": "Arabic",
+    "id": "as27",
+    "verified": true
+  },
+  {
     "name": "Asif",
     "gender": "Boy",
     "meaning": "Forgiveness",
     "origin": "Arabic",
     "id": "as18",
+    "verified": true
+  },
+  {
+    "name": "Asifa",
+    "gender": "Girl",
+    "meaning": "Organizer",
+    "origin": "Arabic",
+    "id": "as28",
     "verified": true
   },
   {
@@ -93,6 +205,30 @@
     "meaning": "Protector",
     "origin": "Arabic",
     "id": "as11",
+    "verified": true
+  },
+  {
+    "name": "Asima",
+    "gender": "Girl",
+    "meaning": "Protector",
+    "origin": "Arabic",
+    "id": "as29",
+    "verified": true
+  },
+  {
+    "name": "Asir",
+    "gender": "Boy",
+    "meaning": "Captivating",
+    "origin": "Arabic",
+    "id": "as40",
+    "verified": true
+  },
+  {
+    "name": "Asiya",
+    "gender": "Girl",
+    "meaning": "Pharaoh's Wife",
+    "origin": "Quranic",
+    "id": "as30",
     "verified": true
   },
   {
@@ -136,6 +272,14 @@
     "verified": true
   },
   {
+    "name": "Asmaul",
+    "gender": "Girl",
+    "meaning": "Names of",
+    "origin": "Indonesian",
+    "id": "as34",
+    "verified": true
+  },
+  {
     "name": "Asra",
     "gender": "Girl",
     "meaning": "Travel by night",
@@ -144,11 +288,35 @@
     "verified": true
   },
   {
+    "name": "Asrar",
+    "gender": "Unisex",
+    "meaning": "Secrets",
+    "origin": "Arabic",
+    "id": "as31",
+    "verified": true
+  },
+  {
+    "name": "Asri",
+    "gender": "Boy",
+    "meaning": "Modern",
+    "origin": "Malay",
+    "id": "as35",
+    "verified": true
+  },
+  {
     "name": "Aswad",
     "gender": "Boy",
     "meaning": "Black; Name of a Sahabi",
     "origin": "Arabic",
     "id": "as13",
+    "verified": true
+  },
+  {
+    "name": "Asya",
+    "gender": "Girl",
+    "meaning": "Grace",
+    "origin": "Arabic",
+    "id": "as32",
     "verified": true
   }
 ]

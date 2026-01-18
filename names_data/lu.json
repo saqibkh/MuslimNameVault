@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Lubaba",
+    "gender": "Girl",
+    "meaning": "Essence",
+    "origin": "Arabic",
+    "id": "lu9",
+    "verified": true
+  },
+  {
     "name": "Lubabah",
     "gender": "Girl",
     "meaning": "Essence",
@@ -21,6 +29,38 @@
     "meaning": "Tree",
     "origin": "Arabic",
     "id": "lu4",
+    "verified": true
+  },
+  {
+    "name": "Lujain",
+    "gender": "Girl",
+    "meaning": "Silver",
+    "origin": "Arabic",
+    "id": "lu10",
+    "verified": true
+  },
+  {
+    "name": "Lukman",
+    "gender": "Boy",
+    "meaning": "Wise",
+    "origin": "Indonesian",
+    "id": "lu14",
+    "verified": true
+  },
+  {
+    "name": "Lulu",
+    "gender": "Girl",
+    "meaning": "Pearls",
+    "origin": "Quranic",
+    "id": "lu11",
+    "verified": true
+  },
+  {
+    "name": "Lulwa",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "lu12",
     "verified": true
   },
   {
@@ -53,6 +93,14 @@
     "meaning": "Kind",
     "origin": "Arabic",
     "id": "lu8",
+    "verified": true
+  },
+  {
+    "name": "Lutfiya",
+    "gender": "Girl",
+    "meaning": "Graceful",
+    "origin": "Arabic",
+    "id": "lu13",
     "verified": true
   },
   {

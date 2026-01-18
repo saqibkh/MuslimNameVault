@@ -8,6 +8,14 @@
     "verified": true
   },
   {
+    "name": "Ezel",
+    "gender": "Unisex",
+    "meaning": "Eternity",
+    "origin": "Turkish",
+    "id": "ez4",
+    "verified": true
+  },
+  {
     "name": "Ezgi",
     "gender": "Girl",
     "meaning": "Melody",
@@ -16,11 +24,27 @@
     "verified": true
   },
   {
+    "name": "Ezra",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra",
+    "origin": "Quranic",
+    "id": "ez5",
+    "verified": true
+  },
+  {
     "name": "Ezzah",
     "gender": "Girl",
     "meaning": "Honor",
     "origin": "Arabic",
     "id": "ez1",
+    "verified": true
+  },
+  {
+    "name": "Ezzat",
+    "gender": "Boy",
+    "meaning": "Honor",
+    "origin": "Persian",
+    "id": "ez6",
     "verified": true
   }
 ]

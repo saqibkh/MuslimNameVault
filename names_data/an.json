@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ana",
+    "gender": "Girl",
+    "meaning": "Prestige",
+    "origin": "Arabic",
+    "id": "an18",
+    "verified": true
+  },
+  {
     "name": "Anabia",
     "gender": "Girl",
     "meaning": "To turn towards Allah",
@@ -16,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Anam",
+    "gender": "Girl",
+    "meaning": "Creatures",
+    "origin": "Arabic",
+    "id": "an19",
+    "verified": true
+  },
+  {
     "name": "Anan",
     "gender": "Unisex",
     "meaning": "Clouds",
@@ -24,11 +40,35 @@
     "verified": true
   },
   {
+    "name": "Anas",
+    "gender": "Boy",
+    "meaning": "Affection",
+    "origin": "Arabic",
+    "id": "an20",
+    "verified": true
+  },
+  {
+    "name": "Anaya",
+    "gender": "Girl",
+    "meaning": "Care",
+    "origin": "Arabic",
+    "id": "an21",
+    "verified": true
+  },
+  {
     "name": "Anbar",
     "gender": "Girl",
     "meaning": "Perfume; Ambergris",
     "origin": "Arabic",
     "id": "an9",
+    "verified": true
+  },
+  {
+    "name": "Andal",
+    "gender": "Girl",
+    "meaning": "Nightingale",
+    "origin": "Arabic",
+    "id": "an28",
     "verified": true
   },
   {
@@ -45,6 +85,30 @@
     "meaning": "Close Companion",
     "origin": "Arabic",
     "id": "an10",
+    "verified": true
+  },
+  {
+    "name": "Aneesa",
+    "gender": "Girl",
+    "meaning": "Friendly",
+    "origin": "Arabic",
+    "id": "an22",
+    "verified": true
+  },
+  {
+    "name": "Anggun",
+    "gender": "Girl",
+    "meaning": "Elegant",
+    "origin": "Indonesian",
+    "id": "an29",
+    "verified": true
+  },
+  {
+    "name": "Anika",
+    "gender": "Girl",
+    "meaning": "Graceful",
+    "origin": "Arabic",
+    "id": "an23",
     "verified": true
   },
   {
@@ -72,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Anisah",
+    "gender": "Girl",
+    "meaning": "Friendly",
+    "origin": "Arabic",
+    "id": "an30",
+    "verified": true
+  },
+  {
     "name": "Anjum",
     "gender": "Unisex",
     "meaning": "Stars",
@@ -85,6 +157,22 @@
     "meaning": "Leopard",
     "origin": "Arabic",
     "id": "an11",
+    "verified": true
+  },
+  {
+    "name": "Annas",
+    "gender": "Boy",
+    "meaning": "Group of people",
+    "origin": "Arabic",
+    "id": "an24",
+    "verified": true
+  },
+  {
+    "name": "Anouar",
+    "gender": "Boy",
+    "meaning": "Radiant",
+    "origin": "Arabic",
+    "id": "an25",
     "verified": true
   },
   {
@@ -133,6 +221,22 @@
     "meaning": "Lights",
     "origin": "Arabic",
     "id": "an8",
+    "verified": true
+  },
+  {
+    "name": "Anwara",
+    "gender": "Girl",
+    "meaning": "Ray of light",
+    "origin": "Arabic",
+    "id": "an26",
+    "verified": true
+  },
+  {
+    "name": "Anzala",
+    "gender": "Girl",
+    "meaning": "Revelation",
+    "origin": "Urdu",
+    "id": "an27",
     "verified": true
   }
 ]

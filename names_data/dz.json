@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dzaki",
+    "gender": "Boy",
+    "meaning": "Smart",
+    "origin": "Indonesian",
+    "id": "dz3",
+    "verified": true
+  },
+  {
+    "name": "Dzakir",
+    "gender": "Boy",
+    "meaning": "One who remembers",
+    "origin": "Indonesian",
+    "id": "dz1",
+    "verified": true
+  },
+  {
+    "name": "Dzalikha",
+    "gender": "Girl",
+    "meaning": "Zuleikha",
+    "origin": "Indonesian",
+    "id": "dz2",
+    "verified": true
+  }
+]

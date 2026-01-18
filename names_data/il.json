@@ -16,6 +16,22 @@
     "verified": true
   },
   {
+    "name": "Ilhan",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Turkish",
+    "id": "il7",
+    "verified": true
+  },
+  {
+    "name": "Ilias",
+    "gender": "Boy",
+    "meaning": "Prophet Elijah",
+    "origin": "Quranic",
+    "id": "il8",
+    "verified": true
+  },
+  {
     "name": "Ilkay",
     "gender": "Unisex",
     "meaning": "New moon",
@@ -37,6 +53,14 @@
     "meaning": "First light",
     "origin": "Turkish",
     "id": "il2",
+    "verified": true
+  },
+  {
+    "name": "Ilm",
+    "gender": "Unisex",
+    "meaning": "Knowledge",
+    "origin": "Arabic",
+    "id": "il9",
     "verified": true
   },
   {

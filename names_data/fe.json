@@ -1,10 +1,26 @@
 [
   {
+    "name": "Febri",
+    "gender": "Unisex",
+    "meaning": "Born in February",
+    "origin": "Indonesian",
+    "id": "fe6",
+    "verified": true
+  },
+  {
     "name": "Feray",
     "gender": "Girl",
     "meaning": "Radiance of the moon",
     "origin": "Turkish",
     "id": "fe1",
+    "verified": true
+  },
+  {
+    "name": "Ferdi",
+    "gender": "Boy",
+    "meaning": "Individual",
+    "origin": "Turkish",
+    "id": "fe7",
     "verified": true
   },
   {

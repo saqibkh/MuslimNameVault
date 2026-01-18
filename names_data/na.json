@@ -1,10 +1,34 @@
 [
   {
+    "name": "Naaji",
+    "gender": "Boy",
+    "meaning": "Survivor",
+    "origin": "Arabic",
+    "id": "na137",
+    "verified": true
+  },
+  {
+    "name": "Naajid",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Arabic",
+    "id": "na136",
+    "verified": true
+  },
+  {
     "name": "Naasir",
     "gender": "Boy",
     "meaning": "Helper",
     "origin": "Arabic",
     "id": "na14",
+    "verified": true
+  },
+  {
+    "name": "Naazim",
+    "gender": "Boy",
+    "meaning": "Arranger",
+    "origin": "Arabic",
+    "id": "na138",
     "verified": true
   },
   {
@@ -181,6 +205,14 @@
     "meaning": "Radiance",
     "origin": "Quranic",
     "id": "na34",
+    "verified": true
+  },
+  {
+    "name": "Nadya",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Indonesian",
+    "id": "na133",
     "verified": true
   },
   {
@@ -565,6 +597,22 @@
     "meaning": "Leopard",
     "origin": "Arabic",
     "id": "na76",
+    "verified": true
+  },
+  {
+    "name": "Nana",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "African",
+    "id": "na134",
+    "verified": true
+  },
+  {
+    "name": "Nanda",
+    "gender": "Unisex",
+    "meaning": "Joy",
+    "origin": "Indonesian",
+    "id": "na135",
     "verified": true
   },
   {

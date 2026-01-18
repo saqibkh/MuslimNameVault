@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Gharam",
+    "gender": "Girl",
+    "meaning": "Love, infatuation",
+    "origin": "Arabic",
+    "id": "gh16",
+    "verified": true
+  },
+  {
     "name": "Ghassan",
     "gender": "Boy",
     "meaning": "Prime of youth",
@@ -64,6 +72,14 @@
     "verified": true
   },
   {
+    "name": "Ghazal",
+    "gender": "Girl",
+    "meaning": "Poem, ode",
+    "origin": "Arabic",
+    "id": "gh17",
+    "verified": true
+  },
+  {
     "name": "Ghazanfar",
     "gender": "Boy",
     "meaning": "Lion",
@@ -77,6 +93,14 @@
     "meaning": "Conqueror",
     "origin": "Arabic",
     "id": "gh12",
+    "verified": true
+  },
+  {
+    "name": "Ghaziya",
+    "gender": "Girl",
+    "meaning": "Female Warrior",
+    "origin": "Arabic",
+    "id": "gh18",
     "verified": true
   },
   {
@@ -117,6 +141,22 @@
     "meaning": "Garden",
     "origin": "Persian",
     "id": "gh15",
+    "verified": true
+  },
+  {
+    "name": "Ghunwah",
+    "gender": "Girl",
+    "meaning": "Song, melody",
+    "origin": "Arabic",
+    "id": "gh19",
+    "verified": true
+  },
+  {
+    "name": "Ghusoon",
+    "gender": "Girl",
+    "meaning": "Branches of a tree",
+    "origin": "Arabic",
+    "id": "gh20",
     "verified": true
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Uftade",
+    "gender": "Boy",
+    "meaning": "Fallen",
+    "origin": "Persian",
+    "id": "uf2",
+    "verified": true
+  },
+  {
     "name": "Ufuk",
     "gender": "Boy",
     "meaning": "Horizon",

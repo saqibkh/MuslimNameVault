@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Ifra",
+    "gender": "Girl",
+    "meaning": "Giving happiness",
+    "origin": "Arabic",
+    "id": "if3",
+    "verified": true
+  },
+  {
     "name": "Iftikhar",
     "gender": "Boy",
     "meaning": "Honor",
     "origin": "Arabic",
     "id": "if2",
+    "verified": true
+  },
+  {
+    "name": "Ifza",
+    "gender": "Girl",
+    "meaning": "Protective angel",
+    "origin": "Arabic",
+    "id": "if4",
     "verified": true
   }
 ]

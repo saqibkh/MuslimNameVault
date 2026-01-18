@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Tulay",
+    "gender": "Girl",
+    "meaning": "Tulle moon",
+    "origin": "Turkish",
+    "id": "tu7",
+    "verified": true
+  },
+  {
     "name": "Tuncay",
     "gender": "Boy",
     "meaning": "Bronze moon",
@@ -37,6 +45,14 @@
     "meaning": "Settlement; Historical Ottoman hero",
     "origin": "Turkish",
     "id": "tu5",
+    "verified": true
+  },
+  {
+    "name": "Tuti",
+    "gender": "Girl",
+    "meaning": "Obedient",
+    "origin": "Indonesian",
+    "id": "tu8",
     "verified": true
   },
   {

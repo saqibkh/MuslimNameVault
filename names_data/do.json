@@ -1,5 +1,21 @@
 [
   {
+    "name": "Doha",
+    "gender": "Girl",
+    "meaning": "Forenoon",
+    "origin": "Quranic",
+    "id": "do3",
+    "verified": true
+  },
+  {
+    "name": "Dolat",
+    "gender": "Girl",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "do4",
+    "verified": true
+  },
+  {
     "name": "Donya",
     "gender": "Girl",
     "meaning": "World",
@@ -8,11 +24,59 @@
     "verified": true
   },
   {
+    "name": "Dora",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "do5",
+    "verified": true
+  },
+  {
+    "name": "Dorar",
+    "gender": "Girl",
+    "meaning": "Pearls",
+    "origin": "Arabic",
+    "id": "do6",
+    "verified": true
+  },
+  {
     "name": "Doruk",
     "gender": "Boy",
     "meaning": "Peak; Summit",
     "origin": "Turkish",
     "id": "do2",
+    "verified": true
+  },
+  {
+    "name": "Dost",
+    "gender": "Boy",
+    "meaning": "Friend",
+    "origin": "Persian",
+    "id": "do7",
+    "verified": true
+  },
+  {
+    "name": "Dostdar",
+    "gender": "Boy",
+    "meaning": "One who loves friends",
+    "origin": "Persian",
+    "id": "do8",
+    "verified": true
+  },
+  {
+    "name": "Douha",
+    "gender": "Girl",
+    "meaning": "Morning",
+    "origin": "Arabic",
+    "id": "do9",
+    "verified": true
+  },
+  {
+    "name": "Dounia",
+    "gender": "Girl",
+    "meaning": "The world",
+    "origin": "Arabic",
+    "id": "do10",
     "verified": true
   }
 ]

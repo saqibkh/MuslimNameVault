@@ -1,5 +1,13 @@
 [
   {
+    "name": "Dian",
+    "gender": "Unisex",
+    "meaning": "Candle, light",
+    "origin": "Indonesian",
+    "id": "di21",
+    "verified": true
+  },
+  {
     "name": "Diba",
     "gender": "Girl",
     "meaning": "Brocade",
@@ -8,11 +16,35 @@
     "verified": true
   },
   {
+    "name": "Didar",
+    "gender": "Girl",
+    "meaning": "Vision",
+    "origin": "Persian",
+    "id": "di11",
+    "verified": true
+  },
+  {
+    "name": "Dihyah",
+    "gender": "Boy",
+    "meaning": "Commander",
+    "origin": "Arabic",
+    "id": "di12",
+    "verified": true
+  },
+  {
     "name": "Dil",
     "gender": "Unisex",
     "meaning": "Heart",
     "origin": "Persian",
     "id": "di10",
+    "verified": true
+  },
+  {
+    "name": "Dila",
+    "gender": "Girl",
+    "meaning": "Heart",
+    "origin": "Persian",
+    "id": "di13",
     "verified": true
   },
   {
@@ -32,11 +64,35 @@
     "verified": true
   },
   {
+    "name": "Dilbar",
+    "gender": "Girl",
+    "meaning": "Lover",
+    "origin": "Persian",
+    "id": "di14",
+    "verified": true
+  },
+  {
     "name": "Dildar",
     "gender": "Boy",
     "meaning": "Charmer",
     "origin": "Persian",
     "id": "di4",
+    "verified": true
+  },
+  {
+    "name": "Dilkash",
+    "gender": "Girl",
+    "meaning": "Attractive",
+    "origin": "Persian",
+    "id": "di15",
+    "verified": true
+  },
+  {
+    "name": "Dilruba",
+    "gender": "Girl",
+    "meaning": "Heart-ravishing",
+    "origin": "Persian",
+    "id": "di16",
     "verified": true
   },
   {
@@ -48,11 +104,35 @@
     "verified": true
   },
   {
+    "name": "Dima",
+    "gender": "Girl",
+    "meaning": "Downpour",
+    "origin": "Arabic",
+    "id": "di17",
+    "verified": true
+  },
+  {
     "name": "Dina",
     "gender": "Girl",
     "meaning": "Love",
     "origin": "Arabic",
     "id": "di6",
+    "verified": true
+  },
+  {
+    "name": "Dinar",
+    "gender": "Unisex",
+    "meaning": "Gold coin",
+    "origin": "Arabic",
+    "id": "di18",
+    "verified": true
+  },
+  {
+    "name": "Dini",
+    "gender": "Girl",
+    "meaning": "Faith",
+    "origin": "Indonesian",
+    "id": "di22",
     "verified": true
   },
   {
@@ -77,6 +157,30 @@
     "meaning": "Wolves",
     "origin": "Arabic",
     "id": "di8",
+    "verified": true
+  },
+  {
+    "name": "Diyana",
+    "gender": "Girl",
+    "meaning": "Religion",
+    "origin": "Arabic",
+    "id": "di23",
+    "verified": true
+  },
+  {
+    "name": "Diyari",
+    "gender": "Boy",
+    "meaning": "A gift",
+    "origin": "Kurdish",
+    "id": "di19",
+    "verified": true
+  },
+  {
+    "name": "Dizhwar",
+    "gender": "Boy",
+    "meaning": "Mean",
+    "origin": "Kurdish",
+    "id": "di20",
     "verified": true
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Laaiq",
+    "gender": "Boy",
+    "meaning": "Worthy",
+    "origin": "Arabic",
+    "id": "la19",
+    "verified": true
+  },
+  {
     "name": "Labib",
     "gender": "Boy",
     "meaning": "Sensible",
@@ -21,6 +29,14 @@
     "meaning": "Companion",
     "origin": "Arabic",
     "id": "la5",
+    "verified": true
+  },
+  {
+    "name": "Ladid",
+    "gender": "Boy",
+    "meaning": "Pleasant",
+    "origin": "Arabic",
+    "id": "la20",
     "verified": true
   },
   {
@@ -48,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Laith",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "la21",
+    "verified": true
+  },
+  {
     "name": "Lajlaj",
     "gender": "Boy",
     "meaning": "A companion of the Prophet",
@@ -69,6 +93,14 @@
     "meaning": "Tulip",
     "origin": "Persian",
     "id": "la3",
+    "verified": true
+  },
+  {
+    "name": "Lama",
+    "gender": "Girl",
+    "meaning": "Dark lips",
+    "origin": "Arabic",
+    "id": "la22",
     "verified": true
   },
   {
@@ -96,11 +128,27 @@
     "verified": true
   },
   {
+    "name": "Laraib",
+    "gender": "Girl",
+    "meaning": "No doubt",
+    "origin": "Urdu",
+    "id": "la23",
+    "verified": true
+  },
+  {
     "name": "Lateef",
     "gender": "Boy",
     "meaning": "Gentle",
     "origin": "Arabic",
     "id": "la14",
+    "verified": true
+  },
+  {
+    "name": "Lateefa",
+    "gender": "Girl",
+    "meaning": "Gentle",
+    "origin": "Arabic",
+    "id": "la24",
     "verified": true
   },
   {
@@ -117,6 +165,14 @@
     "meaning": "Gentle",
     "origin": "Arabic",
     "id": "la16",
+    "verified": true
+  },
+  {
+    "name": "Latifah",
+    "gender": "Girl",
+    "meaning": "Gentle",
+    "origin": "Malay",
+    "id": "la26",
     "verified": true
   },
   {
@@ -141,6 +197,14 @@
     "meaning": "Lion",
     "origin": "Arabic",
     "id": "la18",
+    "verified": true
+  },
+  {
+    "name": "Lazim",
+    "gender": "Boy",
+    "meaning": "Necessary",
+    "origin": "Arabic",
+    "id": "la25",
     "verified": true
   }
 ]

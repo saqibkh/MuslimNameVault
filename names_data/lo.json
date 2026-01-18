@@ -1,10 +1,42 @@
 [
   {
+    "name": "Lodhi",
+    "gender": "Boy",
+    "meaning": "Afghan Tribe",
+    "origin": "Pashto",
+    "id": "lo2",
+    "verified": true
+  },
+  {
     "name": "Lokman",
     "gender": "Boy",
     "meaning": "Wise man (Luqman)",
     "origin": "Turkish/Quranic",
     "id": "lo1",
+    "verified": true
+  },
+  {
+    "name": "Lotfi",
+    "gender": "Boy",
+    "meaning": "Kind",
+    "origin": "Arabic",
+    "id": "lo3",
+    "verified": true
+  },
+  {
+    "name": "Loujain",
+    "gender": "Girl",
+    "meaning": "Silver",
+    "origin": "Arabic",
+    "id": "lo4",
+    "verified": true
+  },
+  {
+    "name": "Loulia",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "lo5",
     "verified": true
   }
 ]

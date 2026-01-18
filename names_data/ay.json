@@ -1,5 +1,21 @@
 [
   {
+    "name": "Aya",
+    "gender": "Girl",
+    "meaning": "Verse",
+    "origin": "Quranic",
+    "id": "ay15",
+    "verified": true
+  },
+  {
+    "name": "Ayaan",
+    "gender": "Boy",
+    "meaning": "God's gift",
+    "origin": "Arabic",
+    "id": "ay16",
+    "verified": true
+  },
+  {
     "name": "Ayah",
     "gender": "Girl",
     "meaning": "Sign; Verse",
@@ -32,6 +48,22 @@
     "verified": true
   },
   {
+    "name": "Ayat",
+    "gender": "Girl",
+    "meaning": "Verses",
+    "origin": "Quranic",
+    "id": "ay17",
+    "verified": true
+  },
+  {
+    "name": "Ayatullah",
+    "gender": "Boy",
+    "meaning": "Sign of Allah",
+    "origin": "Arabic",
+    "id": "ay18",
+    "verified": true
+  },
+  {
     "name": "Ayaz",
     "gender": "Boy",
     "meaning": "Night Breeze",
@@ -45,6 +77,38 @@
     "meaning": "Enlightened",
     "origin": "Turkish",
     "id": "ay12",
+    "verified": true
+  },
+  {
+    "name": "Ayesha",
+    "gender": "Girl",
+    "meaning": "Alive",
+    "origin": "Arabic",
+    "id": "ay19",
+    "verified": true
+  },
+  {
+    "name": "Ayham",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ay20",
+    "verified": true
+  },
+  {
+    "name": "Ayish",
+    "gender": "Boy",
+    "meaning": "Living",
+    "origin": "Arabic",
+    "id": "ay21",
+    "verified": true
+  },
+  {
+    "name": "Ayisha",
+    "gender": "Girl",
+    "meaning": "Living",
+    "origin": "Arabic",
+    "id": "ay22",
     "verified": true
   },
   {
@@ -72,6 +136,22 @@
     "verified": true
   },
   {
+    "name": "Ayn",
+    "gender": "Unisex",
+    "meaning": "Eye",
+    "origin": "Arabic",
+    "id": "ay23",
+    "verified": true
+  },
+  {
+    "name": "Aynur",
+    "gender": "Girl",
+    "meaning": "Moonlight",
+    "origin": "Turkic",
+    "id": "ay29",
+    "verified": true
+  },
+  {
     "name": "Ayra",
     "gender": "Girl",
     "meaning": "Respectable; Noble",
@@ -88,11 +168,35 @@
     "verified": true
   },
   {
+    "name": "Aysha",
+    "gender": "Girl",
+    "meaning": "Alive",
+    "origin": "Arabic",
+    "id": "ay24",
+    "verified": true
+  },
+  {
+    "name": "Ayu",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ay27",
+    "verified": true
+  },
+  {
     "name": "Ayub",
     "gender": "Boy",
     "meaning": "Prophet Job",
     "origin": "Quranic",
     "id": "ay10",
+    "verified": true
+  },
+  {
+    "name": "Ayur",
+    "gender": "Boy",
+    "meaning": "Moon",
+    "origin": "Persian",
+    "id": "ay25",
     "verified": true
   },
   {
@@ -104,11 +208,27 @@
     "verified": true
   },
   {
+    "name": "Ayyash",
+    "gender": "Boy",
+    "meaning": "Bread seller",
+    "origin": "Arabic",
+    "id": "ay28",
+    "verified": true
+  },
+  {
     "name": "Ayyub",
     "gender": "Boy",
     "meaning": "Prophet Job",
     "origin": "Arabic",
     "id": "ay14",
+    "verified": true
+  },
+  {
+    "name": "Ayzal",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "ay26",
     "verified": true
   }
 ]

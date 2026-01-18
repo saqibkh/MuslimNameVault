@@ -6,5 +6,13 @@
     "origin": "Arabic",
     "id": "ej1",
     "verified": true
+  },
+  {
+    "name": "Ejlaal",
+    "gender": "Boy",
+    "meaning": "To honor",
+    "origin": "Arabic",
+    "id": "ej2",
+    "verified": true
   }
 ]

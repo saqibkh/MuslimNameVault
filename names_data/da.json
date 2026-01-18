@@ -8,6 +8,30 @@
     "verified": true
   },
   {
+    "name": "Daad",
+    "gender": "Girl",
+    "meaning": "Old name",
+    "origin": "Arabic",
+    "id": "da38",
+    "verified": true
+  },
+  {
+    "name": "Daaim",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "da60",
+    "verified": true
+  },
+  {
+    "name": "Daamin",
+    "gender": "Boy",
+    "meaning": "Guarantor",
+    "origin": "Arabic",
+    "id": "da61",
+    "verified": true
+  },
+  {
     "name": "Daana",
     "gender": "Girl",
     "meaning": "Wise",
@@ -40,11 +64,35 @@
     "verified": true
   },
   {
+    "name": "Daeem",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Arabic",
+    "id": "da39",
+    "verified": true
+  },
+  {
+    "name": "Daffa",
+    "gender": "Boy",
+    "meaning": "Defender",
+    "origin": "Indonesian",
+    "id": "da56",
+    "verified": true
+  },
+  {
     "name": "Dafi",
     "gender": "Boy",
     "meaning": "One who prevents misfortune",
     "origin": "Arabic",
     "id": "da33",
+    "verified": true
+  },
+  {
+    "name": "Dafiyah",
+    "gender": "Girl",
+    "meaning": "Narrator",
+    "origin": "Arabic",
+    "id": "da40",
     "verified": true
   },
   {
@@ -72,6 +120,22 @@
     "verified": true
   },
   {
+    "name": "Dahlan",
+    "gender": "Boy",
+    "meaning": "Entrance",
+    "origin": "Indonesian",
+    "id": "da57",
+    "verified": true
+  },
+  {
+    "name": "Dahma",
+    "gender": "Girl",
+    "meaning": "She-camel",
+    "origin": "Arabic",
+    "id": "da41",
+    "verified": true
+  },
+  {
     "name": "Daim",
     "gender": "Boy",
     "meaning": "Eternal",
@@ -85,6 +149,22 @@
     "meaning": "Prophet",
     "origin": "Arabic",
     "id": "da21",
+    "verified": true
+  },
+  {
+    "name": "Daiyan",
+    "gender": "Boy",
+    "meaning": "Ruler",
+    "origin": "Arabic",
+    "id": "da42",
+    "verified": true
+  },
+  {
+    "name": "Dakilah",
+    "gender": "Girl",
+    "meaning": "Country",
+    "origin": "Arabic",
+    "id": "da43",
     "verified": true
   },
   {
@@ -104,6 +184,14 @@
     "verified": true
   },
   {
+    "name": "Daleel",
+    "gender": "Boy",
+    "meaning": "Guide",
+    "origin": "Arabic",
+    "id": "da44",
+    "verified": true
+  },
+  {
     "name": "Dalia",
     "gender": "Girl",
     "meaning": "Dahlia flower",
@@ -112,11 +200,43 @@
     "verified": true
   },
   {
+    "name": "Dalil",
+    "gender": "Boy",
+    "meaning": "Guide",
+    "origin": "Arabic",
+    "id": "da45",
+    "verified": true
+  },
+  {
+    "name": "Dalila",
+    "gender": "Girl",
+    "meaning": "Guide",
+    "origin": "Arabic",
+    "id": "da46",
+    "verified": true
+  },
+  {
+    "name": "Daliya",
+    "gender": "Girl",
+    "meaning": "Dahlia flower",
+    "origin": "Arabic",
+    "id": "da47",
+    "verified": true
+  },
+  {
     "name": "Daman",
     "gender": "Boy",
     "meaning": "Guarantor",
     "origin": "Arabic",
     "id": "da23",
+    "verified": true
+  },
+  {
+    "name": "Damar",
+    "gender": "Boy",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "da58",
     "verified": true
   },
   {
@@ -133,6 +253,14 @@
     "meaning": "Heart; Conscience",
     "origin": "Arabic",
     "id": "da24",
+    "verified": true
+  },
+  {
+    "name": "Damira",
+    "gender": "Girl",
+    "meaning": "Long lived",
+    "origin": "Arabic",
+    "id": "da48",
     "verified": true
   },
   {
@@ -160,6 +288,14 @@
     "verified": true
   },
   {
+    "name": "Daneen",
+    "gender": "Girl",
+    "meaning": "Princess",
+    "origin": "Arabic",
+    "id": "da49",
+    "verified": true
+  },
+  {
     "name": "Dani",
     "gender": "Boy",
     "meaning": "Near",
@@ -176,11 +312,27 @@
     "verified": true
   },
   {
+    "name": "Danial",
+    "gender": "Boy",
+    "meaning": "Prophet Daniel",
+    "origin": "Quranic",
+    "id": "da50",
+    "verified": true
+  },
+  {
     "name": "Danish",
     "gender": "Boy",
     "meaning": "Wisdom",
     "origin": "Persian",
     "id": "da27",
+    "verified": true
+  },
+  {
+    "name": "Daniya",
+    "gender": "Girl",
+    "meaning": "Kind hearted",
+    "origin": "Arabic",
+    "id": "da51",
     "verified": true
   },
   {
@@ -224,6 +376,22 @@
     "verified": true
   },
   {
+    "name": "Darin",
+    "gender": "Boy",
+    "meaning": "Gift",
+    "origin": "Persian",
+    "id": "da62",
+    "verified": true
+  },
+  {
+    "name": "Daris",
+    "gender": "Boy",
+    "meaning": "Scholar",
+    "origin": "Arabic",
+    "id": "da52",
+    "verified": true
+  },
+  {
     "name": "Dariya",
     "gender": "Girl",
     "meaning": "River",
@@ -240,11 +408,35 @@
     "verified": true
   },
   {
+    "name": "Darya",
+    "gender": "Unisex",
+    "meaning": "Sea",
+    "origin": "Persian",
+    "id": "da53",
+    "verified": true
+  },
+  {
     "name": "Daud",
     "gender": "Boy",
     "meaning": "Beloved",
     "origin": "Arabic",
     "id": "da14",
+    "verified": true
+  },
+  {
+    "name": "Daulat",
+    "gender": "Unisex",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "da54",
+    "verified": true
+  },
+  {
+    "name": "Dawar",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "da55",
     "verified": true
   },
   {
@@ -269,6 +461,14 @@
     "meaning": "Beloved",
     "origin": "Arabic",
     "id": "da15",
+    "verified": true
+  },
+  {
+    "name": "Dayang",
+    "gender": "Girl",
+    "meaning": "Lady",
+    "origin": "Malay",
+    "id": "da59",
     "verified": true
   },
   {

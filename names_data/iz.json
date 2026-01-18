@@ -32,6 +32,22 @@
     "verified": true
   },
   {
+    "name": "Izza",
+    "gender": "Girl",
+    "meaning": "Honor",
+    "origin": "Quranic",
+    "id": "iz7",
+    "verified": true
+  },
+  {
+    "name": "Izzah",
+    "gender": "Girl",
+    "meaning": "Power",
+    "origin": "Malay",
+    "id": "iz9",
+    "verified": true
+  },
+  {
     "name": "Izzat",
     "gender": "Unisex",
     "meaning": "Honor",
@@ -45,6 +61,14 @@
     "meaning": "Honor; Greatness",
     "origin": "Turkish/Arabic",
     "id": "iz4",
+    "verified": true
+  },
+  {
+    "name": "Izzuddin",
+    "gender": "Boy",
+    "meaning": "Glory of the Religion",
+    "origin": "Arabic",
+    "id": "iz8",
     "verified": true
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "name": "Robina",
+    "gender": "Girl",
+    "meaning": "Gem",
+    "origin": "Urdu",
+    "id": "ro6",
+    "verified": true
+  },
+  {
+    "name": "Roha",
+    "gender": "Girl",
+    "meaning": "Soul",
+    "origin": "Arabic",
+    "id": "ro7",
+    "verified": true
+  },
+  {
     "name": "Rohaan",
     "gender": "Boy",
     "meaning": "Spiritual; Kindhearted",
@@ -16,11 +32,67 @@
     "verified": true
   },
   {
+    "name": "Rohan",
+    "gender": "Boy",
+    "meaning": "Ascending",
+    "origin": "Arabic",
+    "id": "ro8",
+    "verified": true
+  },
+  {
+    "name": "Rohani",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Malay",
+    "id": "ro16",
+    "verified": true
+  },
+  {
+    "name": "Rohin",
+    "gender": "Boy",
+    "meaning": "Rising",
+    "origin": "Sanskrit",
+    "id": "ro9",
+    "verified": true
+  },
+  {
+    "name": "Rohina",
+    "gender": "Girl",
+    "meaning": "Iron",
+    "origin": "Persian",
+    "id": "ro10",
+    "verified": true
+  },
+  {
     "name": "Romaisa",
     "gender": "Girl",
     "meaning": "Bunch of flowers; Heavens",
     "origin": "Arabic",
     "id": "ro2",
+    "verified": true
+  },
+  {
+    "name": "Romana",
+    "gender": "Girl",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ro11",
+    "verified": true
+  },
+  {
+    "name": "Romeesa",
+    "gender": "Girl",
+    "meaning": "Heavens beauty",
+    "origin": "Urdu",
+    "id": "ro12",
+    "verified": true
+  },
+  {
+    "name": "Ros",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Malay",
+    "id": "ro17",
     "verified": true
   },
   {
@@ -32,11 +104,51 @@
     "verified": true
   },
   {
+    "name": "Roshni",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Persian",
+    "id": "ro13",
+    "verified": true
+  },
+  {
+    "name": "Rosli",
+    "gender": "Boy",
+    "meaning": "Rose",
+    "origin": "Malay",
+    "id": "ro18",
+    "verified": true
+  },
+  {
+    "name": "Rosman",
+    "gender": "Boy",
+    "meaning": "Rose man",
+    "origin": "Malay",
+    "id": "ro19",
+    "verified": true
+  },
+  {
     "name": "Roya",
     "gender": "Girl",
     "meaning": "Dream; Vision",
     "origin": "Persian",
     "id": "ro3",
+    "verified": true
+  },
+  {
+    "name": "Roza",
+    "gender": "Girl",
+    "meaning": "Fast",
+    "origin": "Persian",
+    "id": "ro14",
+    "verified": true
+  },
+  {
+    "name": "Rozina",
+    "gender": "Girl",
+    "meaning": "Daily",
+    "origin": "Persian",
+    "id": "ro15",
     "verified": true
   }
 ]

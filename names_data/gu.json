@@ -1,5 +1,13 @@
 [
   {
+    "name": "Guedado",
+    "gender": "Girl",
+    "meaning": "Wanted by no one",
+    "origin": "African (Fulani)",
+    "id": "gu18",
+    "verified": true
+  },
+  {
     "name": "Gul",
     "gender": "Girl",
     "meaning": "Flower",
@@ -32,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Gulbano",
+    "gender": "Girl",
+    "meaning": "Princess of flowers",
+    "origin": "Persian",
+    "id": "gu13",
+    "verified": true
+  },
+  {
     "name": "Gulbarg",
     "gender": "Girl",
     "meaning": "Rose petal",
@@ -48,11 +64,43 @@
     "verified": true
   },
   {
+    "name": "Guliz",
+    "gender": "Girl",
+    "meaning": "Trace of a rose",
+    "origin": "Turkish",
+    "id": "gu14",
+    "verified": true
+  },
+  {
+    "name": "Gulnar",
+    "gender": "Girl",
+    "meaning": "Pomegranate flower",
+    "origin": "Persian",
+    "id": "gu15",
+    "verified": true
+  },
+  {
     "name": "Gulnara",
     "gender": "Girl",
     "meaning": "Pomegranate flower",
     "origin": "Persian/Central Asian",
     "id": "gu5",
+    "verified": true
+  },
+  {
+    "name": "Gulnaz",
+    "gender": "Girl",
+    "meaning": "Cute like a flower",
+    "origin": "Persian",
+    "id": "gu16",
+    "verified": true
+  },
+  {
+    "name": "Gulrukh",
+    "gender": "Girl",
+    "meaning": "Face like a flower",
+    "origin": "Persian",
+    "id": "gu17",
     "verified": true
   },
   {
@@ -88,11 +136,27 @@
     "verified": true
   },
   {
+    "name": "Gunawan",
+    "gender": "Boy",
+    "meaning": "Useful person",
+    "origin": "Indonesian",
+    "id": "gu19",
+    "verified": true
+  },
+  {
     "name": "Gunes",
     "gender": "Unisex",
     "meaning": "Sun",
     "origin": "Turkish",
     "id": "gu8",
+    "verified": true
+  },
+  {
+    "name": "Guntur",
+    "gender": "Boy",
+    "meaning": "Thunder",
+    "origin": "Indonesian",
+    "id": "gu20",
     "verified": true
   }
 ]

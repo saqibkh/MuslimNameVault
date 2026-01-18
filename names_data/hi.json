@@ -16,6 +16,22 @@
     "verified": true
   },
   {
+    "name": "Hibaq",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Somali",
+    "id": "hi17",
+    "verified": true
+  },
+  {
+    "name": "Hibatullah",
+    "gender": "Unisex",
+    "meaning": "Gift of Allah",
+    "origin": "Arabic",
+    "id": "hi13",
+    "verified": true
+  },
+  {
     "name": "Hidayah",
     "gender": "Girl",
     "meaning": "Guidance",
@@ -24,11 +40,27 @@
     "verified": true
   },
   {
+    "name": "Hidayat",
+    "gender": "Boy",
+    "meaning": "Instruction",
+    "origin": "Quranic",
+    "id": "hi14",
+    "verified": true
+  },
+  {
     "name": "Hikmah",
     "gender": "Girl",
     "meaning": "Wisdom",
     "origin": "Arabic",
     "id": "hi8",
+    "verified": true
+  },
+  {
+    "name": "Hikmat",
+    "gender": "Unisex",
+    "meaning": "Wisdom",
+    "origin": "Arabic",
+    "id": "hi15",
     "verified": true
   },
   {
@@ -93,6 +125,14 @@
     "meaning": "Hope",
     "origin": "Kurdish",
     "id": "hi3",
+    "verified": true
+  },
+  {
+    "name": "Hiyam",
+    "gender": "Girl",
+    "meaning": "Passion, love",
+    "origin": "Arabic",
+    "id": "hi16",
     "verified": true
   }
 ]

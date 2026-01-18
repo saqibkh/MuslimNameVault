@@ -6,5 +6,13 @@
     "origin": "Turkish",
     "id": "ec1",
     "verified": true
+  },
+  {
+    "name": "Ecrin",
+    "gender": "Girl",
+    "meaning": "Reward",
+    "origin": "Turkish",
+    "id": "ec2",
+    "verified": true
   }
 ]

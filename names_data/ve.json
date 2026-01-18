@@ -8,11 +8,27 @@
     "verified": true
   },
   {
+    "name": "Veli",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Turkish",
+    "id": "ve3",
+    "verified": true
+  },
+  {
     "name": "Vesile",
     "gender": "Girl",
     "meaning": "Means; Occasion",
     "origin": "Turkish/Arabic",
     "id": "ve2",
+    "verified": true
+  },
+  {
+    "name": "Veysel",
+    "gender": "Boy",
+    "meaning": "Wolf",
+    "origin": "Turkish",
+    "id": "ve4",
     "verified": true
   }
 ]

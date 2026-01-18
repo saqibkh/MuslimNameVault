@@ -48,6 +48,38 @@
     "verified": true
   },
   {
+    "name": "Firdaus",
+    "gender": "Boy",
+    "meaning": "Paradise",
+    "origin": "Malay",
+    "id": "fi8",
+    "verified": true
+  },
+  {
+    "name": "Firman",
+    "gender": "Boy",
+    "meaning": "Decree",
+    "origin": "Indonesian",
+    "id": "fi9",
+    "verified": true
+  },
+  {
+    "name": "Fitri",
+    "gender": "Unisex",
+    "meaning": "Pure",
+    "origin": "Indonesian",
+    "id": "fi10",
+    "verified": true
+  },
+  {
+    "name": "Fitria",
+    "gender": "Girl",
+    "meaning": "Pure nature",
+    "origin": "Indonesian",
+    "id": "fi11",
+    "verified": true
+  },
+  {
     "name": "Fiza",
     "gender": "Girl",
     "meaning": "Breeze",

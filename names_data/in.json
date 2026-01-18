@@ -16,11 +16,27 @@
     "verified": true
   },
   {
+    "name": "Inan",
+    "gender": "Boy",
+    "meaning": "Rein",
+    "origin": "Arabic",
+    "id": "in9",
+    "verified": true
+  },
+  {
     "name": "Inara",
     "gender": "Girl",
     "meaning": "Illumination",
     "origin": "Arabic",
     "id": "in2",
+    "verified": true
+  },
+  {
+    "name": "Inas",
+    "gender": "Girl",
+    "meaning": "Sociability",
+    "origin": "Arabic",
+    "id": "in10",
     "verified": true
   },
   {
@@ -40,6 +56,22 @@
     "verified": true
   },
   {
+    "name": "Indah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "in12",
+    "verified": true
+  },
+  {
+    "name": "Indra",
+    "gender": "Boy",
+    "meaning": "King of gods",
+    "origin": "Indonesian",
+    "id": "in13",
+    "verified": true
+  },
+  {
     "name": "Insaf",
     "gender": "Unisex",
     "meaning": "Justice",
@@ -53,6 +85,22 @@
     "meaning": "Sentence",
     "origin": "Arabic",
     "id": "in6",
+    "verified": true
+  },
+  {
+    "name": "Inshira",
+    "gender": "Girl",
+    "meaning": "Joy, delight",
+    "origin": "Quranic",
+    "id": "in11",
+    "verified": true
+  },
+  {
+    "name": "Intan",
+    "gender": "Girl",
+    "meaning": "Diamond",
+    "origin": "Malay",
+    "id": "in14",
     "verified": true
   },
   {

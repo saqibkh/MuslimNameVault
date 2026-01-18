@@ -1,5 +1,13 @@
 [
   {
+    "name": "Icim",
+    "gender": "Girl",
+    "meaning": "My sip",
+    "origin": "Turkish",
+    "id": "ic2",
+    "verified": true
+  },
+  {
     "name": "Iclal",
     "gender": "Girl",
     "meaning": "Honor; Glory",

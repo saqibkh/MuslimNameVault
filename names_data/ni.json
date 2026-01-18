@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nia",
+    "gender": "Girl",
+    "meaning": "Purpose",
+    "origin": "Swahili",
+    "id": "ni34",
+    "verified": true
+  },
+  {
     "name": "Niamat",
     "gender": "Unisex",
     "meaning": "Blessing",
@@ -85,6 +93,14 @@
     "meaning": "Present",
     "origin": "Arabic",
     "id": "ni17",
+    "verified": true
+  },
+  {
+    "name": "Nik",
+    "gender": "Unisex",
+    "meaning": "Little",
+    "origin": "Malay",
+    "id": "ni35",
     "verified": true
   },
   {
@@ -205,6 +221,14 @@
     "meaning": "Wild rose",
     "origin": "Arabic",
     "id": "ni28",
+    "verified": true
+  },
+  {
+    "name": "Nita",
+    "gender": "Girl",
+    "meaning": "Bear",
+    "origin": "Indonesian",
+    "id": "ni36",
     "verified": true
   },
   {

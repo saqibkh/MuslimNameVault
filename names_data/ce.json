@@ -1,5 +1,29 @@
 [
   {
+    "name": "Cebrail",
+    "gender": "Boy",
+    "meaning": "Gabriel",
+    "origin": "Turkish",
+    "id": "ce5",
+    "verified": true
+  },
+  {
+    "name": "Celal",
+    "gender": "Boy",
+    "meaning": "Glory",
+    "origin": "Turkish",
+    "id": "ce6",
+    "verified": true
+  },
+  {
+    "name": "Celil",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Turkish",
+    "id": "ce7",
+    "verified": true
+  },
+  {
     "name": "Celina",
     "gender": "Girl",
     "meaning": "Heaven; Moon",
@@ -24,11 +48,75 @@
     "verified": true
   },
   {
+    "name": "Cemil",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce8",
+    "verified": true
+  },
+  {
+    "name": "Cemile",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce9",
+    "verified": true
+  },
+  {
+    "name": "Cenda",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ce15",
+    "verified": true
+  },
+  {
+    "name": "Cennet",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Turkish",
+    "id": "ce10",
+    "verified": true
+  },
+  {
+    "name": "Cevat",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Turkish",
+    "id": "ce11",
+    "verified": true
+  },
+  {
     "name": "Ceyda",
     "gender": "Girl",
     "meaning": "Beautiful woman",
     "origin": "Turkish",
     "id": "ce2",
+    "verified": true
+  },
+  {
+    "name": "Ceyhun",
+    "gender": "Boy",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ce12",
+    "verified": true
+  },
+  {
+    "name": "Ceylan",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Turkish",
+    "id": "ce13",
+    "verified": true
+  },
+  {
+    "name": "Cezmi",
+    "gender": "Boy",
+    "meaning": "Resolute",
+    "origin": "Turkish",
+    "id": "ce14",
     "verified": true
   }
 ]

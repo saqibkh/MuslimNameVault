@@ -1,10 +1,26 @@
 [
   {
+    "name": "Mega",
+    "gender": "Unisex",
+    "meaning": "Cloud",
+    "origin": "Indonesian",
+    "id": "me21",
+    "verified": true
+  },
+  {
     "name": "Mehan",
     "gender": "Girl",
     "meaning": "Soft",
     "origin": "Persian",
     "id": "me9",
+    "verified": true
+  },
+  {
+    "name": "Mehdi",
+    "gender": "Boy",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "me15",
     "verified": true
   },
   {
@@ -21,6 +37,14 @@
     "meaning": "Praised",
     "origin": "Arabic",
     "id": "me11",
+    "verified": true
+  },
+  {
+    "name": "Mehmoona",
+    "gender": "Girl",
+    "meaning": "Blessed",
+    "origin": "Urdu",
+    "id": "me16",
     "verified": true
   },
   {
@@ -56,11 +80,43 @@
     "verified": true
   },
   {
+    "name": "Mehwish",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "me17",
+    "verified": true
+  },
+  {
+    "name": "Mekka",
+    "gender": "Girl",
+    "meaning": "Makkah",
+    "origin": "Arabic",
+    "id": "me18",
+    "verified": true
+  },
+  {
+    "name": "Melati",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Indonesian",
+    "id": "me22",
+    "verified": true
+  },
+  {
     "name": "Melek",
     "gender": "Girl",
     "meaning": "Angel",
     "origin": "Turkish/Arabic",
     "id": "me5",
+    "verified": true
+  },
+  {
+    "name": "Melike",
+    "gender": "Girl",
+    "meaning": "Queen",
+    "origin": "Turkish",
+    "id": "me19",
     "verified": true
   },
   {
@@ -77,6 +133,14 @@
     "meaning": "Sea breeze",
     "origin": "Turkish",
     "id": "me6",
+    "verified": true
+  },
+  {
+    "name": "Meral",
+    "gender": "Girl",
+    "meaning": "Deer",
+    "origin": "Turkish",
+    "id": "me20",
     "verified": true
   },
   {

@@ -1,5 +1,13 @@
 [
   {
+    "name": "Leen",
+    "gender": "Girl",
+    "meaning": "Softness",
+    "origin": "Arabic",
+    "id": "le3",
+    "verified": true
+  },
+  {
     "name": "Leena",
     "gender": "Girl",
     "meaning": "Tender",
@@ -8,11 +16,35 @@
     "verified": true
   },
   {
+    "name": "Leila",
+    "gender": "Girl",
+    "meaning": "Dark beauty",
+    "origin": "Arabic",
+    "id": "le4",
+    "verified": true
+  },
+  {
+    "name": "Lestari",
+    "gender": "Girl",
+    "meaning": "Everlasting",
+    "origin": "Indonesian",
+    "id": "le6",
+    "verified": true
+  },
+  {
     "name": "Levent",
     "gender": "Boy",
     "meaning": "Handsome; Navy soldier",
     "origin": "Turkish",
     "id": "le1",
+    "verified": true
+  },
+  {
+    "name": "Leyla",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Turkish",
+    "id": "le5",
     "verified": true
   }
 ]

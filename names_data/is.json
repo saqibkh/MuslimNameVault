@@ -8,6 +8,22 @@
     "verified": true
   },
   {
+    "name": "Isaad",
+    "gender": "Boy",
+    "meaning": "To make happy",
+    "origin": "Arabic",
+    "id": "is14",
+    "verified": true
+  },
+  {
+    "name": "Isabel",
+    "gender": "Girl",
+    "meaning": "Pledged to God",
+    "origin": "Turkish",
+    "id": "is16",
+    "verified": true
+  },
+  {
     "name": "Isaf",
     "gender": "Boy",
     "meaning": "Name of a Sahabi",
@@ -80,6 +96,14 @@
     "verified": true
   },
   {
+    "name": "Ismail",
+    "gender": "Boy",
+    "meaning": "Heard by God",
+    "origin": "African",
+    "id": "is17",
+    "verified": true
+  },
+  {
     "name": "Ismat",
     "gender": "Girl",
     "meaning": "Purity",
@@ -93,6 +117,14 @@
     "meaning": "Night Journey",
     "origin": "Arabic",
     "id": "is12",
+    "verified": true
+  },
+  {
+    "name": "Israr",
+    "gender": "Boy",
+    "meaning": "Persistence",
+    "origin": "Arabic",
+    "id": "is15",
     "verified": true
   },
   {

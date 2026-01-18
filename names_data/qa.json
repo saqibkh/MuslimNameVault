@@ -1,5 +1,53 @@
 [
   {
+    "name": "Qaabil",
+    "gender": "Boy",
+    "meaning": "Acceptor, approver",
+    "origin": "Arabic",
+    "id": "qa11",
+    "verified": true
+  },
+  {
+    "name": "Qaaid",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "qa39",
+    "verified": true
+  },
+  {
+    "name": "Qaania",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12",
+    "verified": true
+  },
+  {
+    "name": "Qaanit",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "id": "qa37",
+    "verified": true
+  },
+  {
+    "name": "Qaasim",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Arabic",
+    "id": "qa38",
+    "verified": true
+  },
+  {
+    "name": "Qabid",
+    "gender": "Boy",
+    "meaning": "Good runner",
+    "origin": "Arabic",
+    "id": "qa13",
+    "verified": true
+  },
+  {
     "name": "Qabil",
     "gender": "Boy",
     "meaning": "Able; Capable",
@@ -32,6 +80,118 @@
     "verified": true
   },
   {
+    "name": "Qadeer",
+    "gender": "Boy",
+    "meaning": "Powerful, capable",
+    "origin": "Quranic",
+    "id": "qa14",
+    "verified": true
+  },
+  {
+    "name": "Qadi",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "qa15",
+    "verified": true
+  },
+  {
+    "name": "Qadim",
+    "gender": "Boy",
+    "meaning": "Ancient",
+    "origin": "Arabic",
+    "id": "qa16",
+    "verified": true
+  },
+  {
+    "name": "Qadira",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17",
+    "verified": true
+  },
+  {
+    "name": "Qahira",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18",
+    "verified": true
+  },
+  {
+    "name": "Qahr",
+    "gender": "Boy",
+    "meaning": "Power, dominance",
+    "origin": "Arabic",
+    "id": "qa19",
+    "verified": true
+  },
+  {
+    "name": "Qaid",
+    "gender": "Boy",
+    "meaning": "Leader, commander",
+    "origin": "Arabic",
+    "id": "qa20",
+    "verified": true
+  },
+  {
+    "name": "Qaim",
+    "gender": "Boy",
+    "meaning": "Rising, standing",
+    "origin": "Quranic",
+    "id": "qa21",
+    "verified": true
+  },
+  {
+    "name": "Qais",
+    "gender": "Boy",
+    "meaning": "Lover; Measure",
+    "origin": "Arabic",
+    "id": "qa22",
+    "verified": true
+  },
+  {
+    "name": "Qaiser",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qa23",
+    "verified": true
+  },
+  {
+    "name": "Qamar",
+    "gender": "Unisex",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "qa35",
+    "verified": true
+  },
+  {
+    "name": "Qamari",
+    "gender": "Girl",
+    "meaning": "Moon-like",
+    "origin": "Arabic",
+    "id": "qa24",
+    "verified": true
+  },
+  {
+    "name": "Qanaat",
+    "gender": "Unisex",
+    "meaning": "Patience, contentment",
+    "origin": "Arabic",
+    "id": "qa25",
+    "verified": true
+  },
+  {
+    "name": "Qanee",
+    "gender": "Boy",
+    "meaning": "Satisfied",
+    "origin": "Arabic",
+    "id": "qa40",
+    "verified": true
+  },
+  {
     "name": "Qani",
     "gender": "Boy",
     "meaning": "Content; Satisfied",
@@ -40,11 +200,43 @@
     "verified": true
   },
   {
+    "name": "Qania",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26",
+    "verified": true
+  },
+  {
     "name": "Qanit",
     "gender": "Boy",
     "meaning": "Obedient; Submissive to Allah",
     "origin": "Quranic",
     "id": "qa6",
+    "verified": true
+  },
+  {
+    "name": "Qantarah",
+    "gender": "Girl",
+    "meaning": "Small bridge",
+    "origin": "Arabic",
+    "id": "qa27",
+    "verified": true
+  },
+  {
+    "name": "Qanun",
+    "gender": "Boy",
+    "meaning": "Law, rule",
+    "origin": "Arabic",
+    "id": "qa28",
+    "verified": true
+  },
+  {
+    "name": "Qarin",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Quranic",
+    "id": "qa29",
     "verified": true
   },
   {
@@ -64,6 +256,38 @@
     "verified": true
   },
   {
+    "name": "Qasim",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Urdu",
+    "id": "qa36",
+    "verified": true
+  },
+  {
+    "name": "Qasima",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30",
+    "verified": true
+  },
+  {
+    "name": "Qasit",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "qa41",
+    "verified": true
+  },
+  {
+    "name": "Qasoomah",
+    "gender": "Girl",
+    "meaning": "Poetess",
+    "origin": "Arabic",
+    "id": "qa31",
+    "verified": true
+  },
+  {
     "name": "Qatadah",
     "gender": "Boy",
     "meaning": "Name of a Sahabi; A hardwood tree",
@@ -77,6 +301,30 @@
     "meaning": "Firm; Name of a Sahabi",
     "origin": "Arabic",
     "id": "qa10",
+    "verified": true
+  },
+  {
+    "name": "Qayyim",
+    "gender": "Boy",
+    "meaning": "Straight, valuable",
+    "origin": "Quranic",
+    "id": "qa32",
+    "verified": true
+  },
+  {
+    "name": "Qazafi",
+    "gender": "Boy",
+    "meaning": "One who lives in vast woods",
+    "origin": "Arabic",
+    "id": "qa33",
+    "verified": true
+  },
+  {
+    "name": "Qazi",
+    "gender": "Boy",
+    "meaning": "Judge, justice",
+    "origin": "Arabic",
+    "id": "qa34",
     "verified": true
   }
 ]

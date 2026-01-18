@@ -1,10 +1,26 @@
 [
   {
+    "name": "Dhaakir",
+    "gender": "Boy",
+    "meaning": "One who praises",
+    "origin": "Quranic",
+    "id": "dh8",
+    "verified": true
+  },
+  {
     "name": "Dhafir",
     "gender": "Boy",
     "meaning": "Victorious",
     "origin": "Arabic",
     "id": "dh6",
+    "verified": true
+  },
+  {
+    "name": "Dhakir",
+    "gender": "Boy",
+    "meaning": "One who remembers",
+    "origin": "Quranic",
+    "id": "dh9",
     "verified": true
   },
   {
@@ -24,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Dhakiyah",
+    "gender": "Girl",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "dh10",
+    "verified": true
+  },
+  {
     "name": "Dhakwan",
     "gender": "Boy",
     "meaning": "Intelligent",
@@ -32,11 +56,43 @@
     "verified": true
   },
   {
+    "name": "Dhameer",
+    "gender": "Boy",
+    "meaning": "Conscience",
+    "origin": "Arabic",
+    "id": "dh11",
+    "verified": true
+  },
+  {
+    "name": "Dhani",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Indonesian",
+    "id": "dh15",
+    "verified": true
+  },
+  {
+    "name": "Dhia",
+    "gender": "Boy",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "dh12",
+    "verified": true
+  },
+  {
     "name": "Dhiya",
     "gender": "Unisex",
     "meaning": "Light; Splendor",
     "origin": "Arabic",
     "id": "dh4",
+    "verified": true
+  },
+  {
+    "name": "Dhu",
+    "gender": "Boy",
+    "meaning": "Possessor",
+    "origin": "Arabic",
+    "id": "dh14",
     "verified": true
   },
   {
@@ -53,6 +109,14 @@
     "meaning": "Name of the Prophet's sword",
     "origin": "Arabic",
     "id": "dh5",
+    "verified": true
+  },
+  {
+    "name": "Dhulfiqar",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "History",
+    "id": "dh13",
     "verified": true
   }
 ]

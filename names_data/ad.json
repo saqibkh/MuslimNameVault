@@ -1,10 +1,26 @@
 [
   {
+    "name": "Ada",
+    "gender": "Girl",
+    "meaning": "Grace, nobility",
+    "origin": "Urdu",
+    "id": "ad17",
+    "verified": true
+  },
+  {
     "name": "Adal",
     "gender": "Girl",
     "meaning": "Justice",
     "origin": "Arabic",
     "id": "ad1",
+    "verified": true
+  },
+  {
+    "name": "Adala",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "ad27",
     "verified": true
   },
   {
@@ -16,11 +32,59 @@
     "verified": true
   },
   {
+    "name": "Adama",
+    "gender": "Boy",
+    "meaning": "Adam",
+    "origin": "West African",
+    "id": "ad18",
+    "verified": true
+  },
+  {
+    "name": "Adan",
+    "gender": "Boy",
+    "meaning": "Settler; Eden",
+    "origin": "Arabic",
+    "id": "ad12",
+    "verified": true
+  },
+  {
     "name": "Adara",
     "gender": "Girl",
     "meaning": "Virgin",
     "origin": "Arabic",
     "id": "ad3",
+    "verified": true
+  },
+  {
+    "name": "Adawi",
+    "gender": "Boy",
+    "meaning": "From the tribe of Adiy",
+    "origin": "Arabic",
+    "id": "ad19",
+    "verified": true
+  },
+  {
+    "name": "Adawiyah",
+    "gender": "Girl",
+    "meaning": "Plant (Summer plant)",
+    "origin": "Arabic",
+    "id": "ad32",
+    "verified": true
+  },
+  {
+    "name": "Adbul",
+    "gender": "Boy",
+    "meaning": "Servant of",
+    "origin": "Arabic",
+    "id": "ad28",
+    "verified": true
+  },
+  {
+    "name": "Ade",
+    "gender": "Boy",
+    "meaning": "Royal",
+    "origin": "African",
+    "id": "ad20",
     "verified": true
   },
   {
@@ -40,11 +104,35 @@
     "verified": true
   },
   {
+    "name": "Adeel",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Urdu",
+    "id": "ad21",
+    "verified": true
+  },
+  {
     "name": "Adeela",
     "gender": "Girl",
     "meaning": "Just; Equal",
     "origin": "Arabic",
     "id": "ad9",
+    "verified": true
+  },
+  {
+    "name": "Adeem",
+    "gender": "Boy",
+    "meaning": "Rare",
+    "origin": "Arabic",
+    "id": "ad33",
+    "verified": true
+  },
+  {
+    "name": "Aden",
+    "gender": "Boy",
+    "meaning": "Fire; Little fire",
+    "origin": "Irish/Arabic",
+    "id": "ad13",
     "verified": true
   },
   {
@@ -56,11 +144,43 @@
     "verified": true
   },
   {
+    "name": "Adib",
+    "gender": "Boy",
+    "meaning": "Cultured, polite",
+    "origin": "Arabic",
+    "id": "ad14",
+    "verified": true
+  },
+  {
+    "name": "Adiba",
+    "gender": "Girl",
+    "meaning": "Cultured, polite",
+    "origin": "Arabic",
+    "id": "ad15",
+    "verified": true
+  },
+  {
     "name": "Adil",
     "gender": "Boy",
     "meaning": "Just; Honest",
     "origin": "Arabic",
     "id": "ad10",
+    "verified": true
+  },
+  {
+    "name": "Adila",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Malay",
+    "id": "ad22",
+    "verified": true
+  },
+  {
+    "name": "Adilah",
+    "gender": "Girl",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "ad34",
     "verified": true
   },
   {
@@ -72,6 +192,30 @@
     "verified": true
   },
   {
+    "name": "Adira",
+    "gender": "Girl",
+    "meaning": "Strong",
+    "origin": "Arabic",
+    "id": "ad23",
+    "verified": true
+  },
+  {
+    "name": "Adiratna",
+    "gender": "Girl",
+    "meaning": "Beautiful jewel",
+    "origin": "Indonesian",
+    "id": "ad29",
+    "verified": true
+  },
+  {
+    "name": "Adiv",
+    "gender": "Boy",
+    "meaning": "Pleasant, gentle",
+    "origin": "Hebrew/Arabic",
+    "id": "ad16",
+    "verified": true
+  },
+  {
     "name": "Adiva",
     "gender": "Girl",
     "meaning": "Pleasant; Gentle",
@@ -80,11 +224,59 @@
     "verified": true
   },
   {
+    "name": "Adl",
+    "gender": "Boy",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "ad30",
+    "verified": true
+  },
+  {
     "name": "Adla",
     "gender": "Girl",
     "meaning": "Justice",
     "origin": "Arabic",
     "id": "ad7",
+    "verified": true
+  },
+  {
+    "name": "Adlan",
+    "gender": "Boy",
+    "meaning": "Fair",
+    "origin": "Indonesian",
+    "id": "ad24",
+    "verified": true
+  },
+  {
+    "name": "Adli",
+    "gender": "Boy",
+    "meaning": "Judicial",
+    "origin": "Arabic",
+    "id": "ad25",
+    "verified": true
+  },
+  {
+    "name": "Adn",
+    "gender": "Boy",
+    "meaning": "Eden",
+    "origin": "Arabic",
+    "id": "ad31",
+    "verified": true
+  },
+  {
+    "name": "Adnan",
+    "gender": "Boy",
+    "meaning": "Settler",
+    "origin": "Malay",
+    "id": "ad26",
+    "verified": true
+  },
+  {
+    "name": "Adria",
+    "gender": "Girl",
+    "meaning": "Wealthy",
+    "origin": "Arabic",
+    "id": "ad35",
     "verified": true
   }
 ]

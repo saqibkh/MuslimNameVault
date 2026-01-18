@@ -1,5 +1,13 @@
 [
   {
+    "name": "Esa",
+    "gender": "Boy",
+    "meaning": "Prophet Jesus",
+    "origin": "Arabic",
+    "id": "es7",
+    "verified": true
+  },
+  {
     "name": "Esha",
     "gender": "Girl",
     "meaning": "Life",
@@ -32,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Eshrat",
+    "gender": "Unisex",
+    "meaning": "Delight",
+    "origin": "Persian",
+    "id": "es8",
+    "verified": true
+  },
+  {
     "name": "Esma",
     "gender": "Girl",
     "meaning": "Attributes of God",
@@ -40,11 +56,35 @@
     "verified": true
   },
   {
+    "name": "Esmail",
+    "gender": "Boy",
+    "meaning": "Prophet Ishmael",
+    "origin": "Persian",
+    "id": "es9",
+    "verified": true
+  },
+  {
+    "name": "Esmeray",
+    "gender": "Girl",
+    "meaning": "Dark moon",
+    "origin": "Turkish",
+    "id": "es10",
+    "verified": true
+  },
+  {
     "name": "Esra",
     "gender": "Girl",
     "meaning": "Night journey",
     "origin": "Turkish",
     "id": "es5",
+    "verified": true
+  },
+  {
+    "name": "Essam",
+    "gender": "Boy",
+    "meaning": "Safeguard",
+    "origin": "Arabic",
+    "id": "es11",
     "verified": true
   }
 ]

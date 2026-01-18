@@ -1,5 +1,61 @@
 [
   {
+    "name": "Chafia",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3",
+    "verified": true
+  },
+  {
+    "name": "Chafik",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ch4",
+    "verified": true
+  },
+  {
+    "name": "Chairil",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Indonesian",
+    "id": "ch16",
+    "verified": true
+  },
+  {
+    "name": "Chakir",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ch5",
+    "verified": true
+  },
+  {
+    "name": "Chaman",
+    "gender": "Unisex",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "id": "ch6",
+    "verified": true
+  },
+  {
+    "name": "Chamanara",
+    "gender": "Girl",
+    "meaning": "Adorning",
+    "origin": "Persian",
+    "id": "ch7",
+    "verified": true
+  },
+  {
+    "name": "Chand",
+    "gender": "Unisex",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch8",
+    "verified": true
+  },
+  {
     "name": "Chanda",
     "gender": "Girl",
     "meaning": "Moon",
@@ -8,11 +64,75 @@
     "verified": true
   },
   {
+    "name": "Chandni",
+    "gender": "Girl",
+    "meaning": "Moonlight",
+    "origin": "Urdu",
+    "id": "ch9",
+    "verified": true
+  },
+  {
     "name": "Changez",
     "gender": "Boy",
     "meaning": "Brave",
     "origin": "Turkish/Urdu",
     "id": "ch2",
+    "verified": true
+  },
+  {
+    "name": "Charagh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch10",
+    "verified": true
+  },
+  {
+    "name": "Chausiku",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17",
+    "verified": true
+  },
+  {
+    "name": "Chawdhury",
+    "gender": "Boy",
+    "meaning": "Land owner",
+    "origin": "Sanskrit",
+    "id": "ch11",
+    "verified": true
+  },
+  {
+    "name": "Chehra",
+    "gender": "Girl",
+    "meaning": "Face",
+    "origin": "Persian",
+    "id": "ch12",
+    "verified": true
+  },
+  {
+    "name": "Chessy",
+    "gender": "Girl",
+    "meaning": "Peaceful",
+    "origin": "Persian",
+    "id": "ch13",
+    "verified": true
+  },
+  {
+    "name": "Chiragh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch14",
+    "verified": true
+  },
+  {
+    "name": "Choudhry",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Urdu",
+    "id": "ch15",
     "verified": true
   }
 ]

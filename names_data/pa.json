@@ -1,5 +1,13 @@
 [
   {
+    "name": "Panya",
+    "gender": "Unisex",
+    "meaning": "Mouse",
+    "origin": "Swahili",
+    "id": "pa5",
+    "verified": true
+  },
+  {
     "name": "Parastoo",
     "gender": "Girl",
     "meaning": "Swallow (bird)",

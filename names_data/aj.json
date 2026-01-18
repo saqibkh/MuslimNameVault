@@ -1,10 +1,50 @@
 [
   {
+    "name": "Ajawid",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "aj5",
+    "verified": true
+  },
+  {
+    "name": "Ajib",
+    "gender": "Boy",
+    "meaning": "Wonderful",
+    "origin": "Arabic",
+    "id": "aj6",
+    "verified": true
+  },
+  {
+    "name": "Ajlah",
+    "gender": "Boy",
+    "meaning": "Bald",
+    "origin": "Arabic",
+    "id": "aj7",
+    "verified": true
+  },
+  {
     "name": "Ajlan",
     "gender": "Boy",
     "meaning": "Haste; Quickly",
     "origin": "Arabic",
     "id": "aj1",
+    "verified": true
+  },
+  {
+    "name": "Ajmal",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Urdu",
+    "id": "aj4",
+    "verified": true
+  },
+  {
+    "name": "Ajrad",
+    "gender": "Boy",
+    "meaning": "Naked",
+    "origin": "Arabic",
+    "id": "aj8",
     "verified": true
   },
   {
