@@ -488,7 +488,42 @@ def generate_theme_collections(all_names):
                 is_letter_page=True 
             )
 
-
+def generate_origin_collections(all_names):
+    """
+    Groups names by their origin (e.g., Arabic, Persian, Turkish) 
+    and generates specific collection pages.
+    """
+    print("🌍 Generating Origin Pages...")
+    
+    # 1. Identify all unique origins
+    origin_groups = {}
+    
+    for n in all_names:
+        # Split complex origins like "Arabic, Persian" into separate entries
+        raw_origins = n.get('origin', 'Unknown').replace('/', ',').split(',')
+        
+        for origin in raw_origins:
+            clean_origin = origin.strip()
+            if len(clean_origin) < 3: continue # Skip abbreviations or empty
+            
+            if clean_origin not in origin_groups:
+                origin_groups[clean_origin] = []
+            origin_groups[clean_origin].append(n)
+            
+    # 2. Generate a page for each major origin
+    for origin, names in origin_groups.items():
+        if len(names) < 5: continue # Skip origins with too few names
+        
+        slug = f"names-origin-{origin.lower().replace(' ', '-')}"
+        
+        generate_collection_page(
+            slug,
+            f"{origin} Muslim Names",
+            f"Browse our collection of {len(names)} Muslim baby names of {origin} origin.",
+            names,
+            all_names,
+            is_letter_page=True # Treat as a pre-filtered list
+        )
 
 def generate_website():
     print("🚀 Starting Website Generation...")
@@ -741,8 +776,11 @@ def generate_website():
     generate_collection_page("names-sahaba", "Names of Sahaba & Sahabiyat", "Names of the noble Companions of Prophet Muhammad (SAW).", sahaba_names, names)
     generate_collection_page("names-quranic", "Direct Quranic Names", "Names directly mentioned in the Holy Quran.", quranic_direct, names)
     
-    # 6. Generate Thematic Pages
+    # 6a. Generate Thematic Pages
     generate_theme_collections(names)
+
+    # 6b. Generate Origin Collections
+    generate_origin_collections(names)
 
     # 7. Generate Finder Page
     finder_template = env.from_string("""
