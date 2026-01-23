@@ -450,6 +450,130 @@ def generate_rich_description(name, meaning, gender, origin, transliteration):
     return f"{p1} {meaning_text} <br><br> {p2} {closing}"
 
 
+def generate_surprise_page():
+    """
+    Generates a static page that uses Client-Side JS to fetch 
+    and display 20 random names from the search index.
+    """
+    print("🎲 Generating Surprise Page...")
+    
+    template = env.from_string("""
+    {% extends "base.html" %}
+    {% block content %}
+    <div class="max-w-6xl mx-auto min-h-screen">
+        <div class="text-center mb-10 mt-8">
+            <div class="inline-block p-3 rounded-full bg-indigo-100 text-indigo-600 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+                </svg>
+            </div>
+            <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-4 font-heading">Surprise Me!</h1>
+            <p class="text-xl text-slate-600 max-w-2xl mx-auto">Here are 20 random names for inspiration.</p>
+            
+            <button onclick="loadRandomNames()" class="mt-8 px-8 py-3 bg-indigo-600 text-white font-bold rounded-full hover:bg-indigo-700 hover:shadow-lg transition transform active:scale-95 flex items-center gap-2 mx-auto">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                </svg>
+                Shuffle Again
+            </button>
+        </div>
+
+        <div id="surpriseGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            </div>
+    </div>
+
+    <script>
+        // Store data globally to avoid re-fetching
+        let allNamesData = null;
+
+        async function loadRandomNames() {
+            const grid = document.getElementById('surpriseGrid');
+            
+            // Show Loading State
+            if (!allNamesData) {
+                grid.innerHTML = '<div class="col-span-full text-center py-20 text-slate-400">Loading name database...</div>';
+            } else {
+                grid.style.opacity = '0.5';
+            }
+
+            // Fetch Data (Once)
+            if (!allNamesData) {
+                try {
+                    const response = await fetch('/search_index.json');
+                    allNamesData = await response.json();
+                } catch (e) {
+                    grid.innerHTML = '<div class="col-span-full text-center text-red-500">Error loading names. Please refresh.</div>';
+                    return;
+                }
+            }
+
+            // Pick 20 Random Items
+            const randomSelection = [];
+            const usedIndices = new Set();
+            const total = allNamesData.length;
+            
+            // Safety check if database is small
+            const count = Math.min(20, total);
+
+            while (randomSelection.length < count) {
+                const idx = Math.floor(Math.random() * total);
+                if (!usedIndices.has(idx)) {
+                    usedIndices.add(idx);
+                    randomSelection.push(allNamesData[idx]);
+                }
+            }
+
+            // Render
+            grid.innerHTML = '';
+            grid.style.opacity = '1';
+            
+            randomSelection.forEach(item => {
+                // Determine styling based on gender
+                let badgeClass = 'bg-slate-100 text-slate-600';
+                if(item.g === 'B') badgeClass = 'bg-blue-50 text-blue-600 border-blue-100';
+                if(item.g === 'G') badgeClass = 'bg-pink-50 text-pink-600 border-pink-100';
+                if(item.g === 'U') badgeClass = 'bg-purple-50 text-purple-600 border-purple-100';
+                
+                const genderLabel = item.g === 'B' ? 'Boy' : (item.g === 'G' ? 'Girl' : 'Unisex');
+
+                const card = `
+                <a href="${item.s}" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-lg transition group animate-fade-in-up">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-indigo-700">${item.n}</h3>
+                        <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${genderLabel}</span>
+                    </div>
+                    <p class="text-slate-600 line-clamp-2">${item.m}</p>
+                </a>
+                `;
+                grid.insertAdjacentHTML('beforeend', card);
+            });
+        }
+
+        // Run on page load
+        document.addEventListener('DOMContentLoaded', loadRandomNames);
+    </script>
+    
+    <style>
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-in-up {
+            animation: fadeInUp 0.5s ease-out forwards;
+        }
+    </style>
+    {% endblock %}
+    """)
+
+    folder_path = os.path.join(OUTPUT_DIR, 'surprise')
+    os.makedirs(folder_path, exist_ok=True)
+    with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(template.render(
+            title="Surprise Me | MuslimNameVault",
+            description="Generate random Muslim baby names for inspiration.",
+            url=f"{SITE_URL}/surprise/"
+        ))
+    print("✅ Generated Surprise Page")
 
 def generate_theme_collections(all_names):
     """
@@ -798,6 +922,9 @@ def generate_website():
 
     # 6b. Generate Origin Collections
     generate_origin_collections(names)
+
+    # 6c. Generate Surprise Page
+    generate_surprise_page()
 
     # 7. Generate Finder Page
     finder_template = env.from_string("""
