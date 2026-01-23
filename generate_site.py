@@ -102,7 +102,7 @@ def load_names():
 
 def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False):
     """ 
-    Generates a collection page with Gender Filtering AND Favorites (Heart) functionality.
+    Generates a collection page with Gender Filtering, Favorites, AND Badges.
     """
     folder_path = os.path.join(OUTPUT_DIR, folder_name)
     os.makedirs(folder_path, exist_ok=True)
@@ -113,6 +113,11 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
     else:
         target_names = {n.lower() for n in name_list}
         filtered_names = [n for n in all_names if n['name'].lower() in target_names]
+
+    # PASS LISTS TO TEMPLATE
+    # We use sets for faster lookup O(1)
+    trending_set = set(config.TRENDING_2026)
+    quranic_set = set(config.QURANIC_DIRECT) if hasattr(config, 'QURANIC_DIRECT') else set()
 
     template = env.from_string("""
     {% extends "base.html" %}
@@ -130,7 +135,7 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
                         <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
                     </svg>
-                    View My Favorites (<span id="favCountBadge">0</span>)
+                    View Favorites (<span id="favCountBadge">0</span>)
                 </a>
             </div>
 
@@ -149,6 +154,20 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             <div class="name-card relative group" data-gender="{{ n.gender|capitalize }}" data-name="{{ n.name }}">
                 
                 <a href="/name-{{ safe_slug }}/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    
+                    <div class="flex flex-wrap gap-2 mb-3">
+                        {% if n.name in trending %}
+                        <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-amber-50 border border-amber-100 text-amber-700 text-xs font-bold uppercase tracking-wider">
+                            🔥 Trending
+                        </span>
+                        {% endif %}
+                        {% if n.name in quranic %}
+                        <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-emerald-50 border border-emerald-100 text-emerald-700 text-xs font-bold uppercase tracking-wider">
+                            📖 Quranic
+                        </span>
+                        {% endif %}
+                    </div>
+
                     <div class="flex justify-between items-start mb-2">
                         <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">{{ n.name }}</h3>
                         {% if n.gender|capitalize == 'Boy' %}
@@ -177,13 +196,11 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             <p class="text-slate-500 text-lg">No names match this filter.</p>
         </div>
     </div>
-
+    
     <script>
-        // --- 1. GENDER FILTER LOGIC ---
         function applyGenderFilter(gender) {
             localStorage.setItem('genderPreference', gender);
             updateFilterButtons(gender);
-            
             const cards = document.querySelectorAll('.name-card');
             let visible = 0;
             cards.forEach(card => {
@@ -194,7 +211,6 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             });
             document.getElementById('emptyState').classList.toggle('hidden', visible > 0);
         }
-
         function updateFilterButtons(gender) {
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.className = `filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500`;
@@ -208,71 +224,37 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
                 }
             });
         }
-
-        // --- 2. FAVORITES LOGIC ---
-        function getFavorites() {
-            return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
-        }
-
+        function getFavorites() { return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]'); }
         function toggleFavorite(btn, name, gender, meaning, link) {
             let favs = getFavorites();
             const index = favs.findIndex(f => f.name === name);
-            
-            if (index > -1) {
-                // Remove
-                favs.splice(index, 1);
-                animateHeart(btn, false);
-            } else {
-                // Add
-                favs.push({ name, gender, meaning, link, date: new Date().getTime() });
-                animateHeart(btn, true);
-            }
-            
+            if (index > -1) { favs.splice(index, 1); animateHeart(btn, false); } 
+            else { favs.push({ name, gender, meaning, link, date: new Date().getTime() }); animateHeart(btn, true); }
             localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
             updateFavCount();
         }
-
         function animateHeart(btn, isFav) {
             const icon = btn.querySelector('.heart-icon');
             if (isFav) {
-                btn.classList.add('text-rose-600');
-                btn.classList.remove('text-slate-300');
-                icon.setAttribute('fill', 'currentColor');
-                // Little pop animation
-                btn.style.transform = 'scale(1.2)';
-                setTimeout(() => btn.style.transform = 'scale(1)', 200);
+                btn.classList.add('text-rose-600'); btn.classList.remove('text-slate-300'); icon.setAttribute('fill', 'currentColor');
+                btn.style.transform = 'scale(1.2)'; setTimeout(() => btn.style.transform = 'scale(1)', 200);
             } else {
-                btn.classList.remove('text-rose-600');
-                btn.classList.add('text-slate-300');
-                icon.setAttribute('fill', 'none');
+                btn.classList.remove('text-rose-600'); btn.classList.add('text-slate-300'); icon.setAttribute('fill', 'none');
             }
         }
-
         function initFavoritesUI() {
             const favs = getFavorites();
             const favNames = new Set(favs.map(f => f.name));
-            
             document.querySelectorAll('.fav-btn').forEach(btn => {
-                // Find the name associated with this button
-                // We access the onclick attribute to parse the name, or use data attributes. 
-                // A safer way is to rely on the parent card's data attribute we added.
                 const card = btn.closest('.name-card');
-                const name = card.dataset.name;
-                
-                if (favNames.has(name)) {
-                    animateHeart(btn, true);
-                }
+                if (favNames.has(card.dataset.name)) animateHeart(btn, true);
             });
             updateFavCount();
         }
-
         function updateFavCount() {
-            const count = getFavorites().length;
             const badge = document.getElementById('favCountBadge');
-            if(badge) badge.innerText = count;
+            if(badge) badge.innerText = getFavorites().length;
         }
-
-        // --- INIT ---
         document.addEventListener('DOMContentLoaded', () => {
             const savedGender = localStorage.getItem('genderPreference') || 'All';
             applyGenderFilter(savedGender);
@@ -287,7 +269,9 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             title=f"{title} | MuslimNameVault",
             description=description,
             names=filtered_names,
-            url=f"{SITE_URL}/{folder_name}/"
+            url=f"{SITE_URL}/{folder_name}/",
+            trending=trending_set,  # PASSING DATA
+            quranic=quranic_set     # PASSING DATA
         ))
 
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
@@ -414,6 +398,55 @@ def generate_favorites_page():
         ))
     print(f"✅ Generated Favorites Page")
 
+def get_related_names(current_name_entry, all_names, limit=6):
+    """
+    Finds related names based on:
+    1. Rhyming (same last 3 letters)
+    2. Same Origin + Gender
+    3. Same Starting Letter + Gender
+    """
+    scores = []
+    target_name = current_name_entry['name']
+    target_suffix = target_name[-3:].lower() # Last 3 chars for rhyming
+    target_origin = current_name_entry.get('origin', 'Unknown')
+    target_gender = current_name_entry.get('gender', 'Unisex')
+
+    for other in all_names:
+        # Skip self
+        if other['name'] == target_name:
+            continue
+            
+        score = 0
+        
+        # 1. Gender Match (High Priority) - Parents usually want recommendations for the same gender
+        if other.get('gender') == target_gender:
+            score += 10
+        elif target_gender == 'Unisex' or other.get('gender') == 'Unisex':
+             score += 5
+        else:
+            continue # Skip opposite gender recommendations usually
+            
+        # 2. Rhyming Match (Very High Priority)
+        # e.g. Rayyan & Ayaan
+        if other['name'].lower().endswith(target_suffix):
+            score += 20
+            
+        # 3. Origin Match
+        if other.get('origin') == target_origin:
+            score += 5
+            
+        # 4. Starting Letter Match
+        if other['name'][0] == target_name[0]:
+            score += 3
+
+        # Only add if relevant
+        if score > 10:
+            scores.append((score, other))
+
+    # Sort by score (descending) and take top N
+    scores.sort(key=lambda x: x[0], reverse=True)
+    return [item[1] for item in scores[:limit]]
+
 def generate_rich_description(name, meaning, gender, origin, transliteration):
     """
     Generates a unique, non-repetitive description for every name
@@ -477,25 +510,119 @@ def generate_website():
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
     # 1. Generate Index Page (Homepage)
-    index_template = env.get_template('index.html')
-    
-    with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
-        f.write(index_template.render(
-            title="Muslim Name Vault - Meaningful Islamic Names Dictionary",
-            description="The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciations.",
-            url=SITE_URL,
-            total_names=len(names),
-            alphabet=list(alphabet)
-        ))
-    print("✅ Generated Homepage.")
+    try:
+        index_template = env.get_template('index.html')
+        with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
+            f.write(index_template.render(
+                title="Muslim Name Vault - Meaningful Islamic Names Dictionary",
+                description="The most comprehensive collection of Muslim baby names with meanings, origins, and pronunciations.",
+                url=SITE_URL,
+                total_names=len(names),
+                alphabet=list(alphabet)
+            ))
+        print("✅ Generated Homepage.")
+    except Exception as e:
+        print(f"⚠️ Warning: Could not generate homepage (missing index.html?): {e}")
 
     # 2. Initialize Search Index
     search_index = []
     
-    # 3. Generate Individual Name Pages
-    detail_template = env.get_template('detail.html')
+    # 3. Define INLINE Detail Template (Gives us full control without editing external files)
+    detail_template_str = """
+    {% extends "base.html" %}
+    {% block content %}
+    <div class="max-w-4xl mx-auto py-10 px-4">
+        
+        <nav class="text-sm text-slate-500 mb-6">
+            <a href="/" class="hover:text-emerald-600">Home</a> &rsaquo; 
+            <a href="/names-{{ letter|lower }}/" class="hover:text-emerald-600">Names starting with {{ letter }}</a> &rsaquo;
+            <span class="text-slate-800 font-bold">{{ name.name }}</span>
+        </nav>
+
+        <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100">
+            <div class="bg-emerald-600 p-8 text-white text-center relative">
+                <h1 class="text-5xl md:text-6xl font-bold font-heading mb-2">{{ name.name }}</h1>
+                <p class="text-emerald-100 text-xl">{{ name.transliteration }}</p>
+                
+                <div class="absolute top-4 right-4 bg-white/20 backdrop-blur px-3 py-1 rounded text-sm font-bold">
+                    {{ name.gender }}
+                </div>
+            </div>
+
+            <div class="p-8 md:p-12">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
+                    <div class="bg-slate-50 p-6 rounded-xl border border-slate-100">
+                        <h3 class="text-xs font-bold uppercase text-slate-400 tracking-wider mb-1">Meaning</h3>
+                        <p class="text-2xl font-serif text-slate-800 leading-snug">{{ name.meaning }}</p>
+                    </div>
+                    <div class="bg-slate-50 p-6 rounded-xl border border-slate-100">
+                        <h3 class="text-xs font-bold uppercase text-slate-400 tracking-wider mb-1">Origin</h3>
+                        <p class="text-2xl font-serif text-slate-800">{{ name.origin }}</p>
+                    </div>
+                </div>
+
+                <div class="prose prose-lg text-slate-600 max-w-none mb-12">
+                    {{ generated_content|safe }}
+                </div>
+                
+                <div class="flex justify-between items-center py-6 border-t border-slate-100">
+                    {% if prev_name %}
+                    <a href="/name-{{ prev_name.name|lower|replace(' ', '-') }}/" class="group flex items-center text-slate-600 hover:text-emerald-600 transition">
+                        <span class="text-2xl mr-2">&larr;</span>
+                        <div class="text-left">
+                            <span class="block text-xs text-slate-400 uppercase">Previous</span>
+                            <span class="font-bold group-hover:underline">{{ prev_name.name }}</span>
+                        </div>
+                    </a>
+                    {% else %}
+                    <div></div>
+                    {% endif %}
+
+                    {% if next_name %}
+                    <a href="/name-{{ next_name.name|lower|replace(' ', '-') }}/" class="group flex items-center text-right text-slate-600 hover:text-emerald-600 transition">
+                        <div class="text-right">
+                            <span class="block text-xs text-slate-400 uppercase">Next</span>
+                            <span class="font-bold group-hover:underline">{{ next_name.name }}</span>
+                        </div>
+                        <span class="text-2xl ml-2">&rarr;</span>
+                    </a>
+                    {% endif %}
+                </div>
+
+            </div>
+        </div>
+
+        <div class="mt-16">
+            <h3 class="text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2">
+                <svg class="w-6 h-6 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>
+                Similar Names & Suggestions
+            </h3>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                {% for rel in related_names %}
+                <a href="/name-{{ rel.name|lower|replace(' ', '-') }}/" class="group block p-4 rounded-xl border border-slate-200 bg-white hover:border-emerald-500 hover:shadow-md transition">
+                    <div class="flex justify-between items-center mb-1">
+                        <span class="font-bold text-slate-800 group-hover:text-emerald-700">{{ rel.name }}</span>
+                        {% if rel.gender == 'Boy' %}
+                            <span class="text-[10px] font-bold uppercase text-blue-600 bg-blue-50 px-2 py-0.5 rounded">{{ rel.gender }}</span>
+                        {% elif rel.gender == 'Girl' %}
+                            <span class="text-[10px] font-bold uppercase text-pink-600 bg-pink-50 px-2 py-0.5 rounded">{{ rel.gender }}</span>
+                        {% endif %}
+                    </div>
+                    <p class="text-xs text-slate-500 line-clamp-1">{{ rel.meaning }}</p>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        
+    </div>
+    {{ schema_markup|safe }}
+    {% endblock %}
+    """
     
-    for name_entry in names:
+    detail_template = env.from_string(detail_template_str)
+
+    for i, name_entry in enumerate(names):
         # Data Cleaning
         name = name_entry.get('name', 'Unknown')
         meaning = name_entry.get('meaning', 'Unknown meaning')
@@ -516,27 +643,18 @@ def generate_website():
         })
 
         # --- SEO CONTENT GENERATION ---
-        
-        # A. Rich Description
-        gender_full = "boy" if gender == 'Boy' else "girl"
-        if gender == 'Unisex': gender_full = "boy or girl"
-        
         long_desc = generate_rich_description(name, meaning, gender, origin, name_entry.get('transliteration'))
 
-        # B. Related Names (Same starting letter)
-        first_char = name[0].upper()
-        related_names = [n for n in names if n.get('origin') == origin and n['name'] != name]
-        
-        # 2. Fallback: If not enough origin matches, find names with same Gender
-        if len(related_names) < 5:
-            related_names += [n for n in names if n.get('gender') == gender and n['name'] != name]
-            
-        # 3. Shuffle and pick 10
-        import random
-        random.shuffle(related_names)
-        related_names = related_names[:12] # Show 12 related names
+        # SMART RELATED NAMES
+        related_names = get_related_names(name_entry, names)
 
-        # C. JSON-LD Schema
+        # NEXT / PREV LOGIC
+        prev_name = names[i-1] if i > 0 else None
+        next_name = names[i+1] if i < len(names) - 1 else None
+
+        # SCHEMAS
+        first_char = name[0].upper()
+        
         schema_data = {
             "@context": "https://schema.org/",
             "@type": "DefinedTerm",
@@ -548,29 +666,19 @@ def generate_website():
             "gender": "Male" if gender == 'Boy' else ("Female" if gender == 'Girl' else "Unisex")
         }
 
-        # D. Breadcrumbs Schema
         breadcrumb_data = {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [{
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": SITE_URL
+                "@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL
             }, {
-                "@type": "ListItem",
-                "position": 2,
-                "name": f"Names starting with {first_char}",
+                "@type": "ListItem", "position": 2, "name": f"Names starting with {first_char}",
                 "item": f"{SITE_URL}/names-{first_char.lower()}/"
             }, {
-                "@type": "ListItem",
-                "position": 3,
-                "name": name,
-                "item": f"{SITE_URL}/{slug}/"
+                "@type": "ListItem", "position": 3, "name": name, "item": f"{SITE_URL}/{slug}/"
             }]
         }
 
-        # Combine Schemas
         full_schema = f"""
         <script type="application/ld+json">{json.dumps(schema_data)}</script>
         <script type="application/ld+json">{json.dumps(breadcrumb_data)}</script>
@@ -586,7 +694,9 @@ def generate_website():
                 generated_content=long_desc,
                 related_names=related_names,
                 schema_markup=full_schema,
-                letter=first_char
+                letter=first_char,
+                prev_name=prev_name,
+                next_name=next_name
             ))
 
     # 4. Generate A-Z Collection Pages
@@ -603,33 +713,22 @@ def generate_website():
             is_letter_page=True
         )
 
-    # 5. Generate Special Collections (Trending, Prophets, etc.)
-    generate_collection_page(
-        "names-trending", 
-        "Trending Muslim Names 2026", 
-        "The most popular and trending Muslim baby names for boys and girls in 2026.",
-        config.TRENDING_2026, names, is_letter_page=False
-    )
-    generate_collection_page(
-        "names-prophets", 
-        "Names of Prophets", 
-        "Honorable names of the Prophets (AS) mentioned in Islam.",
-        config.PROPHET_NAMES, names, is_letter_page=False
-    )
-    generate_collection_page(
-        "names-sahaba", 
-        "Names of Sahaba & Sahabiyat", 
-        "Names of the noble Companions of Prophet Muhammad (SAW).",
-        config.SAHABA_NAMES, names, is_letter_page=False
-    )
-    generate_collection_page(
-        "names-quranic", 
-        "Direct Quranic Names", 
-        "Names directly mentioned in the Holy Quran.",
-        config.QURANIC_DIRECT, names, is_letter_page=False
-    )
+    # 5. Generate Special Collections
+    # Ensure config vars exist, fallback to empty list if not
+    trending_list = getattr(config, 'TRENDING_2026', [])
+    prophet_names = getattr(config, 'PROPHET_NAMES', [])
+    sahaba_names = getattr(config, 'SAHABA_NAMES', [])
+    quranic_direct = getattr(config, 'QURANIC_DIRECT', [])
 
-    # 6. Generate Finder Page
+    generate_collection_page("names-trending", "Trending Muslim Names 2026", "The most popular and trending Muslim baby names for boys and girls in 2026.", trending_list, names)
+    generate_collection_page("names-prophets", "Names of Prophets", "Honorable names of the Prophets (AS) mentioned in Islam.", prophet_names, names)
+    generate_collection_page("names-sahaba", "Names of Sahaba & Sahabiyat", "Names of the noble Companions of Prophet Muhammad (SAW).", sahaba_names, names)
+    generate_collection_page("names-quranic", "Direct Quranic Names", "Names directly mentioned in the Holy Quran.", quranic_direct, names)
+
+    # 6. Generate Finder Page (Keep your existing finder code block here)
+    # ... (Paste your existing Finder Page block here) ... 
+    # Since I am replacing the function, I will include the finder block for completeness:
+    
     finder_template = env.from_string("""
     {% extends "base.html" %}
     {% block content %}
@@ -650,35 +749,18 @@ def generate_website():
         const fInput = document.getElementById('finderInput');
         const fResults = document.getElementById('finderResults');
         let fData = [];
-        
-        // Load the full search index
         fetch('/search_index.json').then(r=>r.json()).then(d=>{fData=d});
-        
         fInput.addEventListener('input', (e)=>{
             const q = e.target.value.toLowerCase().trim();
             fResults.innerHTML = '';
-            
             if(q.length < 2) return;
-            
-            // Search logic (matches name OR meaning)
-            const res = fData.filter(i => 
-                i.n.toLowerCase().includes(q) || 
-                i.m.toLowerCase().includes(q)
-            ).slice(0, 50); // Limit to 50 results
-            
-            if(res.length === 0) {
-                 fResults.innerHTML = '<div class="p-4 text-slate-500 text-center">No names found matching that query.</div>';
-                 return;
-            }
-
+            const res = fData.filter(i => i.n.toLowerCase().includes(q) || i.m.toLowerCase().includes(q)).slice(0, 50); 
+            if(res.length === 0) { fResults.innerHTML = '<div class="p-4 text-slate-500 text-center">No names found.</div>'; return; }
             res.forEach(r => {
                 fResults.innerHTML += `
                 <a href="${r.s}" class="block p-4 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition rounded-lg">
                     <div class="flex justify-between items-center">
-                        <div>
-                            <span class="font-bold text-lg text-slate-800">${r.n}</span>
-                            <span class="block text-sm text-slate-500">${r.m}</span>
-                        </div>
+                        <div><span class="font-bold text-lg text-slate-800">${r.n}</span><span class="block text-sm text-slate-500">${r.m}</span></div>
                         <span class="text-xs font-bold uppercase px-2 py-1 bg-slate-100 rounded text-slate-600">${r.g}</span>
                     </div>
                 </a>`;

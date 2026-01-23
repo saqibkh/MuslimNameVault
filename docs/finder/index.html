@@ -115,35 +115,18 @@
         const fInput = document.getElementById('finderInput');
         const fResults = document.getElementById('finderResults');
         let fData = [];
-        
-        // Load the full search index
         fetch('/search_index.json').then(r=>r.json()).then(d=>{fData=d});
-        
         fInput.addEventListener('input', (e)=>{
             const q = e.target.value.toLowerCase().trim();
             fResults.innerHTML = '';
-            
             if(q.length < 2) return;
-            
-            // Search logic (matches name OR meaning)
-            const res = fData.filter(i => 
-                i.n.toLowerCase().includes(q) || 
-                i.m.toLowerCase().includes(q)
-            ).slice(0, 50); // Limit to 50 results
-            
-            if(res.length === 0) {
-                 fResults.innerHTML = '<div class="p-4 text-slate-500 text-center">No names found matching that query.</div>';
-                 return;
-            }
-
+            const res = fData.filter(i => i.n.toLowerCase().includes(q) || i.m.toLowerCase().includes(q)).slice(0, 50); 
+            if(res.length === 0) { fResults.innerHTML = '<div class="p-4 text-slate-500 text-center">No names found.</div>'; return; }
             res.forEach(r => {
                 fResults.innerHTML += `
                 <a href="${r.s}" class="block p-4 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition rounded-lg">
                     <div class="flex justify-between items-center">
-                        <div>
-                            <span class="font-bold text-lg text-slate-800">${r.n}</span>
-                            <span class="block text-sm text-slate-500">${r.m}</span>
-                        </div>
+                        <div><span class="font-bold text-lg text-slate-800">${r.n}</span><span class="block text-sm text-slate-500">${r.m}</span></div>
                         <span class="text-xs font-bold uppercase px-2 py-1 bg-slate-100 rounded text-slate-600">${r.g}</span>
                     </div>
                 </a>`;
