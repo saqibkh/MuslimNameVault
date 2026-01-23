@@ -99,15 +99,14 @@ def load_names():
     # Sort A-Z
     return sorted(all_names, key=lambda x: x.get('name', ''))
 
+
 def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False):
-    """
-    Generates a collection page (e.g., 'names-trending' or 'names-a').
-    If is_letter_page is True, name_list is assumed to be the actual list of dicts.
-    If False, name_list is a list of strings (names) to look up.
+    """ 
+    Generates a collection page with Gender Filtering.
     """
     folder_path = os.path.join(OUTPUT_DIR, folder_name)
     os.makedirs(folder_path, exist_ok=True)
-    
+
     filtered_names = []
     if is_letter_page:
         filtered_names = name_list
@@ -115,33 +114,67 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
         # Filter names: Find matches in our database
         target_names = {n.lower() for n in name_list}
         filtered_names = [n for n in all_names if n['name'].lower() in target_names]
-    
-    # Inline Template for Collections (Uses Base.html)
+
+    # Inline Template with Gender Filtering Logic
     template = env.from_string("""
     {% extends "base.html" %}
+
     {% block content %}
     <div class="max-w-6xl mx-auto">
-        <div class="text-center mb-12 mt-8">
+        <div class="text-center mb-8 mt-8">
             <span class="inline-block py-1.5 px-4 rounded-full bg-emerald-100 text-emerald-800 text-sm font-bold mb-4 border border-emerald-200">
                 {{ names|length }} Names Found
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 font-heading">{{ title }}</h1>
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">{{ description }}</p>
         </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+
+        <div class="flex flex-wrap justify-center gap-3 mb-10" id="genderControls">
+            <button onclick="applyGenderFilter('All')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500 hover:text-emerald-600" 
+                data-filter="All">
+                All
+            </button>
+            <button onclick="applyGenderFilter('Boy')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500 hover:text-blue-600" 
+                data-filter="Boy">
+                Boys
+            </button>
+            <button onclick="applyGenderFilter('Girl')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500 hover:text-pink-600" 
+                data-filter="Girl">
+                Girls
+            </button>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             {% for n in names %}
             <a href="/name-{{ n.name|lower|replace(' ', '-') }}/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="{{ n.gender }}">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">{{ n.name }}</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">{{ n.gender }}</span>
+                    
+                    {% if n.gender == 'Boy' %}
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">{{ n.gender }}</span>
+                    {% elif n.gender == 'Girl' %}
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">{{ n.gender }}</span>
+                    {% else %}
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">{{ n.gender }}</span>
+                    {% endif %}
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">{{ n.meaning }}</p>
             </a>
             {% endfor %}
         </div>
-        
+
+        <div id="emptyState" class="hidden text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
+            <p class="text-slate-500 text-lg">No names found for this specific filter.</p>
+            <button onclick="applyGenderFilter('All')" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Show All Names</button>
+        </div>
+
         {% if names|length == 0 %}
         <div class="text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
             <p class="text-slate-500 text-lg">We are adding more names to this collection soon!</p>
@@ -149,9 +182,73 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
         </div>
         {% endif %}
     </div>
+
+    <script>
+        function applyGenderFilter(gender) {
+            // 1. Save preference
+            localStorage.setItem('genderPreference', gender);
+
+            // 2. Update UI Buttons
+            const buttons = document.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => {
+                // Reset styling
+                btn.classList.remove('bg-emerald-600', 'bg-blue-600', 'bg-pink-600', 'text-white', 'border-transparent');
+                btn.classList.add('bg-white', 'text-slate-500', 'border-slate-200');
+                
+                // Apply Active Styling
+                if (btn.dataset.filter === gender) {
+                    btn.classList.remove('bg-white', 'text-slate-500', 'border-slate-200');
+                    btn.classList.add('text-white', 'border-transparent');
+                    if(gender === 'All') btn.classList.add('bg-emerald-600');
+                    if(gender === 'Boy') btn.classList.add('bg-blue-600');
+                    if(gender === 'Girl') btn.classList.add('bg-pink-600');
+                }
+            });
+
+            // 3. Filter Grid Items
+            const cards = document.querySelectorAll('.name-card');
+            let visibleCount = 0;
+
+            cards.forEach(card => {
+                const cardGender = card.getAttribute('data-gender');
+                let shouldShow = false;
+
+                if (gender === 'All') {
+                    shouldShow = true;
+                } else if (gender === 'Boy') {
+                    // Show Boys AND Unisex
+                    if (cardGender === 'Boy' || cardGender === 'Unisex') shouldShow = true;
+                } else if (gender === 'Girl') {
+                    // Show Girls AND Unisex
+                    if (cardGender === 'Girl' || cardGender === 'Unisex') shouldShow = true;
+                }
+
+                if (shouldShow) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            // 4. Handle Empty State
+            const emptyState = document.getElementById('emptyState');
+            if (visibleCount === 0 && cards.length > 0) {
+                emptyState.classList.remove('hidden');
+            } else {
+                emptyState.classList.add('hidden');
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            const savedGender = localStorage.getItem('genderPreference') || 'All';
+            applyGenderFilter(savedGender);
+        });
+    </script>
     {% endblock %}
     """)
-    
+
     with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
         f.write(template.render(
             title=f"{title} | MuslimNameVault",
@@ -159,6 +256,7 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             names=filtered_names,
             url=f"{SITE_URL}/{folder_name}/"
         ))
+
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
 
 def generate_rich_description(name, meaning, gender, origin, transliteration):

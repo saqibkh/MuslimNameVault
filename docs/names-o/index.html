@@ -99,677 +99,1202 @@
     <main class="flex-grow container mx-auto px-4 py-8">
         
     <div class="max-w-6xl mx-auto">
-        <div class="text-center mb-12 mt-8">
+        <div class="text-center mb-8 mt-8">
             <span class="inline-block py-1.5 px-4 rounded-full bg-emerald-100 text-emerald-800 text-sm font-bold mb-4 border border-emerald-200">
                 73 Names Found
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 font-heading">Muslim Names Starting with O | MuslimNameVault</h1>
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">Browse our comprehensive collection of 73 Islamic names starting with the letter O. Find the perfect name with deep meaning.</p>
         </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+
+        <div class="flex flex-wrap justify-center gap-3 mb-10" id="genderControls">
+            <button onclick="applyGenderFilter('All')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500 hover:text-emerald-600" 
+                data-filter="All">
+                All
+            </button>
+            <button onclick="applyGenderFilter('Boy')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500 hover:text-blue-600" 
+                data-filter="Boy">
+                Boys
+            </button>
+            <button onclick="applyGenderFilter('Girl')" 
+                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500 hover:text-pink-600" 
+                data-filter="Girl">
+                Girls
+            </button>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             
             <a href="/name-obaeed/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Obaeed</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little servant of God</p>
             </a>
             
             <a href="/name-obaeedullah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Obaeedullah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little servant of Allah</p>
             </a>
             
             <a href="/name-obaid/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Obaid</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little servant of God</p>
             </a>
             
             <a href="/name-obaidoollah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Obaidoollah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little servant of Allah</p>
             </a>
             
             <a href="/name-obaidullah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Obaidullah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little servant of Allah</p>
             </a>
             
             <a href="/name-odaee/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Odaee</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Sunrise, rising</p>
             </a>
             
             <a href="/name-odai/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Odai</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Sunrise, rising</p>
             </a>
             
             <a href="/name-odell/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Odell</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wealthy</p>
             </a>
             
             <a href="/name-ogooz/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ogooz</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Strong; First Turkic tribes</p>
             </a>
             
             <a href="/name-ogoozhan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ogoozhan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Strong ruler</p>
             </a>
             
             <a href="/name-oguz/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oguz</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Strong; First Turkic tribes</p>
             </a>
             
             <a href="/name-oguzhan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oguzhan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Strong ruler</p>
             </a>
             
             <a href="/name-okan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Okan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Archer</p>
             </a>
             
             <a href="/name-okasha/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Okasha</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Spider; Name of a famous Companion (Ukasha)</p>
             </a>
             
             <a href="/name-okashah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Okashah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Spider; Name of a famous Companion (Ukasha)</p>
             </a>
             
             <a href="/name-oktay/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oktay</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Strong as a bow</p>
             </a>
             
             <a href="/name-olcay/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Olcay</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Luck, fortune</p>
             </a>
             
             <a href="/name-olfat/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Olfat</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Affection, familiarity (Variant of Ulfat)</p>
             </a>
             
             <a href="/name-olya/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Olya</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">High, tall</p>
             </a>
             
             <a href="/name-olyah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Olyah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">High, tall</p>
             </a>
             
             <a href="/name-oma/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oma</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Leader, life giver</p>
             </a>
             
             <a href="/name-omaeer/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omaeer</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Long lived, populating</p>
             </a>
             
             <a href="/name-omah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Leader, life giver</p>
             </a>
             
             <a href="/name-omair/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omair</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Long lived, populating</p>
             </a>
             
             <a href="/name-omama/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omama</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Granddaughter of the Prophet (Umamah)</p>
             </a>
             
             <a href="/name-omamah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omamah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Granddaughter of the Prophet (Umamah)</p>
             </a>
             
             <a href="/name-oman/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oman</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Settled; Country</p>
             </a>
             
             <a href="/name-omar/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omar</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Long lived</p>
             </a>
             
             <a href="/name-omaree/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omaree</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">God the highest</p>
             </a>
             
             <a href="/name-omari/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omari</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">God the highest</p>
             </a>
             
             <a href="/name-omayma/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omayma</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little mother</p>
             </a>
             
             <a href="/name-omaymah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omaymah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little mother</p>
             </a>
             
             <a href="/name-omeed/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omeed</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Hope</p>
             </a>
             
             <a href="/name-omeeer/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omeeer</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Long lived</p>
             </a>
             
             <a href="/name-omeir/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omeir</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Long lived</p>
             </a>
             
             <a href="/name-omid/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omid</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Hope</p>
             </a>
             
             <a href="/name-omoor/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omoor</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Life (Umr)</p>
             </a>
             
             <a href="/name-omran/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omran</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Prosperity, structure (Variant of Imran)</p>
             </a>
             
             <a href="/name-omur/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Omur</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Life (Umr)</p>
             </a>
             
             <a href="/name-onoor/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Onoor</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Honor; Pride</p>
             </a>
             
             <a href="/name-onur/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Onur</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Honor; Pride</p>
             </a>
             
             <a href="/name-oooais/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oooais</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wolf (Variant of Owais)</p>
             </a>
             
             <a href="/name-ooom/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ooom</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Mother (Umm)</p>
             </a>
             
             <a href="/name-ooosama/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ooosama</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
             </a>
             
             <a href="/name-oran/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oran</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wahran (Algeria)</p>
             </a>
             
             <a href="/name-orayb/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Orayb</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Keen, sharp</p>
             </a>
             
             <a href="/name-orhan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Orhan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Great leader</p>
             </a>
             
             <a href="/name-orzala/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Orzala</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Firefly</p>
             </a>
             
             <a href="/name-orzalah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Orzalah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Firefly</p>
             </a>
             
             <a href="/name-osama/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Osama</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
             </a>
             
             <a href="/name-osamah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Osamah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
             </a>
             
             <a href="/name-osman/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Osman</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Founder of Ottoman Empire</p>
             </a>
             
             <a href="/name-othman/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Othman</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wise</p>
             </a>
             
             <a href="/name-ouaees/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ouaees</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wolf (Variant of Owais)</p>
             </a>
             
             <a href="/name-ouais/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ouais</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Wolf (Variant of Owais)</p>
             </a>
             
             <a href="/name-oum/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oum</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Mother (Umm)</p>
             </a>
             
             <a href="/name-ousama/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ousama</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
             </a>
             
             <a href="/name-ousamah/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ousamah</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
             </a>
             
             <a href="/name-owaeeb/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Owaeeb</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Repentant</p>
             </a>
             
             <a href="/name-owaees/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Owaees</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little wolf; A famous Sufi</p>
             </a>
             
             <a href="/name-owaib/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Owaib</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Repentant</p>
             </a>
             
             <a href="/name-owais/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Owais</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Little wolf; A famous Sufi</p>
             </a>
             
             <a href="/name-oxoos/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oxoos</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Amu Darya River</p>
             </a>
             
             <a href="/name-oxus/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Oxus</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Amu Darya River</p>
             </a>
             
             <a href="/name-ozaeer/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozaeer</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Prophet Ezra (Uzair)</p>
             </a>
             
             <a href="/name-ozair/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozair</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Prophet Ezra (Uzair)</p>
             </a>
             
             <a href="/name-ozan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Bard, poet</p>
             </a>
             
             <a href="/name-ozcan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozcan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Pure soul</p>
             </a>
             
             <a href="/name-ozge/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozge</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Unique, different</p>
             </a>
             
             <a href="/name-ozgoor/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozgoor</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Free, independent</p>
             </a>
             
             <a href="/name-ozgur/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Unisex">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozgur</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Free, independent</p>
             </a>
             
             <a href="/name-ozkan/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Boy">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozkan</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Boy</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Noble blood</p>
             </a>
             
             <a href="/name-ozlem/" 
-               class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden">
+               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
+               data-gender="Girl">
+                
                 <div class="flex justify-between items-start mb-2 relative z-10">
                     <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ozlem</h3>
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Girl</span>
+                    
+                    
+                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                    
                 </div>
+                
                 <p class="text-slate-600 line-clamp-2 relative z-10">Yearning, missing</p>
             </a>
             
         </div>
-        
+
+        <div id="emptyState" class="hidden text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
+            <p class="text-slate-500 text-lg">No names found for this specific filter.</p>
+            <button onclick="applyGenderFilter('All')" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Show All Names</button>
+        </div>
+
         
     </div>
+
+    <script>
+        function applyGenderFilter(gender) {
+            // 1. Save preference
+            localStorage.setItem('genderPreference', gender);
+
+            // 2. Update UI Buttons
+            const buttons = document.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => {
+                // Reset styling
+                btn.classList.remove('bg-emerald-600', 'bg-blue-600', 'bg-pink-600', 'text-white', 'border-transparent');
+                btn.classList.add('bg-white', 'text-slate-500', 'border-slate-200');
+                
+                // Apply Active Styling
+                if (btn.dataset.filter === gender) {
+                    btn.classList.remove('bg-white', 'text-slate-500', 'border-slate-200');
+                    btn.classList.add('text-white', 'border-transparent');
+                    if(gender === 'All') btn.classList.add('bg-emerald-600');
+                    if(gender === 'Boy') btn.classList.add('bg-blue-600');
+                    if(gender === 'Girl') btn.classList.add('bg-pink-600');
+                }
+            });
+
+            // 3. Filter Grid Items
+            const cards = document.querySelectorAll('.name-card');
+            let visibleCount = 0;
+
+            cards.forEach(card => {
+                const cardGender = card.getAttribute('data-gender');
+                let shouldShow = false;
+
+                if (gender === 'All') {
+                    shouldShow = true;
+                } else if (gender === 'Boy') {
+                    // Show Boys AND Unisex
+                    if (cardGender === 'Boy' || cardGender === 'Unisex') shouldShow = true;
+                } else if (gender === 'Girl') {
+                    // Show Girls AND Unisex
+                    if (cardGender === 'Girl' || cardGender === 'Unisex') shouldShow = true;
+                }
+
+                if (shouldShow) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            // 4. Handle Empty State
+            const emptyState = document.getElementById('emptyState');
+            if (visibleCount === 0 && cards.length > 0) {
+                emptyState.classList.remove('hidden');
+            } else {
+                emptyState.classList.add('hidden');
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            const savedGender = localStorage.getItem('genderPreference') || 'All';
+            applyGenderFilter(savedGender);
+        });
+    </script>
     
     </main>
 
