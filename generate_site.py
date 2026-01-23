@@ -453,7 +453,7 @@ def generate_rich_description(name, meaning, gender, origin, transliteration):
 def generate_surprise_page():
     """
     Generates a static page that uses Client-Side JS to fetch 
-    and display 20 random names from the search index.
+    and display 20 random names, with Gender Filtering support.
     """
     print("🎲 Generating Surprise Page...")
     
@@ -468,9 +468,21 @@ def generate_surprise_page():
                 </svg>
             </div>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-4 font-heading">Surprise Me!</h1>
-            <p class="text-xl text-slate-600 max-w-2xl mx-auto">Here are 20 random names for inspiration.</p>
+            <p class="text-xl text-slate-600 max-w-2xl mx-auto">Discover random Muslim baby names for inspiration.</p>
             
-            <button onclick="loadRandomNames()" class="mt-8 px-8 py-3 bg-indigo-600 text-white font-bold rounded-full hover:bg-indigo-700 hover:shadow-lg transition transform active:scale-95 flex items-center gap-2 mx-auto">
+            <div class="flex flex-wrap justify-center gap-3 mt-8 mb-8">
+                <button onclick="setGender('All')" id="btn-All" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-transparent bg-indigo-600 text-white shadow-md">
+                    All
+                </button>
+                <button onclick="setGender('Boy')" id="btn-Boy" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 bg-white hover:border-blue-400 hover:text-blue-600">
+                    Boys
+                </button>
+                <button onclick="setGender('Girl')" id="btn-Girl" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 bg-white hover:border-pink-400 hover:text-pink-600">
+                    Girls
+                </button>
+            </div>
+
+            <button onclick="loadRandomNames()" class="px-8 py-3 bg-slate-800 text-white font-bold rounded-full hover:bg-slate-900 hover:shadow-lg transition transform active:scale-95 flex items-center gap-2 mx-auto">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                 </svg>
@@ -483,13 +495,36 @@ def generate_surprise_page():
     </div>
 
     <script>
-        // Store data globally to avoid re-fetching
         let allNamesData = null;
+        let currentGender = 'All';
+
+        function setGender(gender) {
+            currentGender = gender;
+            
+            // Update UI Buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                // Reset to default style
+                btn.className = 'filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 bg-white hover:border-slate-300';
+            });
+
+            // Set Active Style
+            const activeBtn = document.getElementById('btn-' + gender);
+            if(gender === 'All') {
+                activeBtn.className = 'filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-transparent bg-indigo-600 text-white shadow-md';
+            } else if (gender === 'Boy') {
+                activeBtn.className = 'filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-blue-600 bg-blue-600 text-white shadow-md';
+            } else if (gender === 'Girl') {
+                activeBtn.className = 'filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-pink-600 bg-pink-600 text-white shadow-md';
+            }
+
+            // Reload names with new filter
+            loadRandomNames();
+        }
 
         async function loadRandomNames() {
             const grid = document.getElementById('surpriseGrid');
             
-            // Show Loading State
+            // Show Loading State if data isn't loaded yet
             if (!allNamesData) {
                 grid.innerHTML = '<div class="col-span-full text-center py-20 text-slate-400">Loading name database...</div>';
             } else {
@@ -507,19 +542,33 @@ def generate_surprise_page():
                 }
             }
 
-            // Pick 20 Random Items
+            // FILTER DATA BASED ON GENDER
+            // 'B' = Boy, 'G' = Girl, 'U' = Unisex
+            let filteredPool = allNamesData;
+            
+            if (currentGender === 'Boy') {
+                filteredPool = allNamesData.filter(n => n.g === 'B' || n.g === 'U');
+            } else if (currentGender === 'Girl') {
+                filteredPool = allNamesData.filter(n => n.g === 'G' || n.g === 'U');
+            }
+
+            // Pick 20 Random Items from the FILTERED pool
             const randomSelection = [];
             const usedIndices = new Set();
-            const total = allNamesData.length;
-            
-            // Safety check if database is small
+            const total = filteredPool.length;
             const count = Math.min(20, total);
+
+            if (total === 0) {
+                grid.innerHTML = '<div class="col-span-full text-center py-10 text-slate-500">No names found for this filter.</div>';
+                grid.style.opacity = '1';
+                return;
+            }
 
             while (randomSelection.length < count) {
                 const idx = Math.floor(Math.random() * total);
                 if (!usedIndices.has(idx)) {
                     usedIndices.add(idx);
-                    randomSelection.push(allNamesData[idx]);
+                    randomSelection.push(filteredPool[idx]);
                 }
             }
 
@@ -528,7 +577,6 @@ def generate_surprise_page():
             grid.style.opacity = '1';
             
             randomSelection.forEach(item => {
-                // Determine styling based on gender
                 let badgeClass = 'bg-slate-100 text-slate-600';
                 if(item.g === 'B') badgeClass = 'bg-blue-50 text-blue-600 border-blue-100';
                 if(item.g === 'G') badgeClass = 'bg-pink-50 text-pink-600 border-pink-100';
