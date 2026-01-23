@@ -1,51 +1,95 @@
-# MuslimNameVault 🌙
+# MuslimNameVault - Static Site Generator
 
-A comprehensive static website generator and database for Muslim baby names. This project creates a fast, SEO-friendly, and interactive dictionary website featuring native audio pronunciations, origin filtering, and deep meanings.
+This project is a custom static site generator that builds **MuslimNameVault.com**. It takes a database of names (JSON files) and compiles them into a fast, SEO-optimized website with features like search, audio pronunciation, and smart filtering.
 
 ## 📂 Project Structure
 
-This repository is organized as follows:
+Here is an overview of the key files you need to maintain:
 
-### 🐍 Core Scripts
+### 🐍 Python Scripts (The Logic)
 
-* **`generate_site.py`**
-    * **The Main Builder.** This script reads the JSON database, compiles the data, and generates the static HTML website in the `output/` folder. It creates the Index, Alphabetical pages, Name Detail pages, Sitemap, and the Global Search Index.
+| File | Description |
+| :--- | :--- |
+| **`generate_site.py`** | **The Main Engine.** Run this script to rebuild the website. It reads the data, applies templates, generates all HTML pages (A-Z, details, collections, surprise), and builds the search index. |
+| **`config.py`** | **The Curator.** Contains manual lists for special collections (e.g., `TRENDING_2026`, `PROPHET_NAMES`, `QURANIC_DIRECT`). **Update this file to change which names appear in the "Curated Lists" dropdown.** |
+| **`seo_utils.py`** | **The SEO Helper.** Handles the generation of the `sitemap.xml` file so Google can index all your pages correctly. |
+| **`generate_audio.py`** | *(Optional)* A utility script used to generate MP3 text-to-speech files for new names. Run this only when you add new names to the database. |
 
-* **`generate_audio.py`**
-    * **The Voice Engine.** This script iterates through the name database and uses Google Text-to-Speech (gTTS) to generate MP3 files for every name. It intelligently selects the correct accent (Arabic, Persian, Turkish) based on the name's origin.
+### 📄 Data & Content (The Database)
 
-* **`update_database.py`**
-    * **The Data Manager.** This script takes raw input from `new_names.json` and intelligently merges it into the existing `names_data/` library. It handles deduplication, ID assignment, and alphabetical sorting.
-
-### 🗂️ Data & Output
-
-* **`names_data/`**
-    * **The Database Source.** This folder contains the source of truth for all names. Data is split into smaller JSON files (e.g., `aa.json`, `kh.json`) based on the first two letters of the name to keep the dataset manageable.
-
-* **`output/`**
-    * **The Build Directory.** This contains the fully generated website ready for deployment.
-        * `*.html`: The static web pages.
-        * `audio/`: The generated MP3 pronunciation files.
-        * `sitemap.xml` & `robots.txt`: SEO files.
-        * `search_index.json`: Data for the search bar.
-    * *Note: This is the folder you upload to GitHub Pages or your hosting provider.*
-
-### ⚙️ Configuration
-
-* **`new_names.json`**
-    * **The Staging File.** This is where you paste lists of new names you wish to add to the database. The `update_database.py` script reads from here.
-    * *Format:* `[{"name": "Ali", "gender": "Boy", "meaning": "High", "origin": "Arabic"}, ...]`
-
-* **`requirements.txt`**
-    * **Dependencies.** Lists the Python libraries required to run the tools (Jinja2 for templating, gTTS for audio).
+| Folder/File | Description |
+| :--- | :--- |
+| **`names_data/*.json`** | **The Name Database.** The names are split into multiple JSON files (e.g., `names_a.json`, `names_b.json`). <br>To add a new name, simply open the corresponding letter file and add a new JSON entry. |
+| **`templates/`** | Contains `base.html` (the header/footer layout) and other HTML components. |
+| **`docs/`** | **The Output.** This is the "public" folder. When you run the generator, it fills this folder with the final HTML files. **This is the folder you publish to the web.** |
 
 ---
 
-## 🚀 Workflow: How to Update the Site
+## 🛠️ How to Add New Names
 
-Follow these steps to add new names and rebuild the project:
+1.  Open the **`names_data/`** folder.
+2.  Open the JSON file matching the letter (e.g., `names_a.json` for "Ali").
+3.  Add a new entry inside the list following this format:
+    ```json
+    {
+        "name": "Ali",
+        "transliteration": "Ali",
+        "meaning": "High, Exalted, Champion",
+        "gender": "Boy",
+        "origin": "Arabic",
+        "arabic_spelling": "علي"
+    }
+    ```
+4.  Save the file.
+5.  Run the build script (see below).
 
-### 1. Installation
-Install the required Python libraries:
+---
+
+## ⚙️ How to Update Curated Lists (Trending, Prophets, etc.)
+
+1.  Open **`config.py`**.
+2.  Find the list you want to update (e.g., `TRENDING_2026`).
+3.  Add the **exact spelling** of the name as a string to the list.
+    ```python
+    TRENDING_2026 = [
+        "Aaliyah",
+        "Muhammad",
+        "Zayn",
+        "NewNameHere"  # <--- Add new name here
+    ]
+    ```
+4.  Save and rebuild.
+
+---
+
+## 🚀 How to Build the Website
+
+Whenever you make changes to data, config, or templates, you must rebuild the site.
+
+1.  Open your terminal/command prompt.
+2.  Navigate to the project folder.
+3.  Run the following command:
+    ```bash
+    python generate_site.py
+    ```
+4.  You should see output like:
+    ```text
+    🚀 Starting Website Generation...
+    ✅ Loaded 13,000 names.
+    🌍 Top Origins found for Menu: ['Arabic', 'Persian', 'Urdu', ...]
+    ✅ Generated Collection: Trending Muslim Names 2026
+    ✅ Generated Surprise Page
+    🎉 Site Generation Complete!
+    ```
+
+---
+
+## 💻 Requirements
+
+To run this project, you need Python installed along with the `Jinja2` library.
+
+**Installation:**
 ```bash
-pip install -r requirements.txt
+pip install jinja2
+
+
