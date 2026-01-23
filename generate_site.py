@@ -102,7 +102,7 @@ def load_names():
 
 def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False):
     """ 
-    Generates a collection page with Gender Filtering.
+    Generates a collection page with Gender Filtering AND Favorites (Heart) functionality.
     """
     folder_path = os.path.join(OUTPUT_DIR, folder_name)
     os.makedirs(folder_path, exist_ok=True)
@@ -111,11 +111,9 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
     if is_letter_page:
         filtered_names = name_list
     else:
-        # Filter names: Find matches in our database
         target_names = {n.lower() for n in name_list}
         filtered_names = [n for n in all_names if n['name'].lower() in target_names]
 
-    # Inline Template with Gender Filtering Logic
     template = env.from_string("""
     {% extends "base.html" %}
 
@@ -126,124 +124,159 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
                 {{ names|length }} Names Found
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 font-heading">{{ title }}</h1>
+            
+            <div class="flex justify-center gap-4 mb-6">
+                <a href="/favorites/" class="inline-flex items-center text-rose-600 font-bold hover:text-rose-700 transition">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+                    </svg>
+                    View My Favorites (<span id="favCountBadge">0</span>)
+                </a>
+            </div>
+
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">{{ description }}</p>
         </div>
 
-        <div class="flex flex-wrap justify-center gap-3 mb-10" id="genderControls">
-            <button onclick="applyGenderFilter('All')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500 hover:text-emerald-600" 
-                data-filter="All">
-                All
-            </button>
-            <button onclick="applyGenderFilter('Boy')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500 hover:text-blue-600" 
-                data-filter="Boy">
-                Boys
-            </button>
-            <button onclick="applyGenderFilter('Girl')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500 hover:text-pink-600" 
-                data-filter="Girl">
-                Girls
-            </button>
+        <div class="flex flex-wrap justify-center gap-3 mb-10">
+            <button onclick="applyGenderFilter('All')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500" data-filter="All">All</button>
+            <button onclick="applyGenderFilter('Boy')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500" data-filter="Boy">Boys</button>
+            <button onclick="applyGenderFilter('Girl')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500" data-filter="Girl">Girls</button>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             {% for n in names %}
-            <a href="/name-{{ n.name|lower|replace(' ', '-') }}/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="{{ n.gender }}">
+            {% set safe_slug = n.name|lower|replace(' ', '-')|replace("'", "") %}
+            <div class="name-card relative group" data-gender="{{ n.gender|capitalize }}" data-name="{{ n.name }}">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">{{ n.name }}</h3>
-                    
-                    {% if n.gender == 'Boy' %}
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">{{ n.gender }}</span>
-                    {% elif n.gender == 'Girl' %}
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">{{ n.gender }}</span>
-                    {% else %}
-                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">{{ n.gender }}</span>
-                    {% endif %}
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">{{ n.meaning }}</p>
-            </a>
+                <a href="/name-{{ safe_slug }}/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">{{ n.name }}</h3>
+                        {% if n.gender|capitalize == 'Boy' %}
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">{{ n.gender }}</span>
+                        {% elif n.gender|capitalize == 'Girl' %}
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">{{ n.gender }}</span>
+                        {% else %}
+                            <span class="text-xs font-bold uppercase tracking-wider text-purple-600 bg-purple-50 px-2 py-1 rounded border border-purple-100">{{ n.gender }}</span>
+                        {% endif %}
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">{{ n.meaning }}</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, '{{ n.name }}', '{{ n.gender }}', '{{ n.meaning|escape }}', '/name-{{ safe_slug }}/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             {% endfor %}
         </div>
-
+        
         <div id="emptyState" class="hidden text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
-            <p class="text-slate-500 text-lg">No names found for this specific filter.</p>
-            <button onclick="applyGenderFilter('All')" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Show All Names</button>
+            <p class="text-slate-500 text-lg">No names match this filter.</p>
         </div>
-
-        {% if names|length == 0 %}
-        <div class="text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
-            <p class="text-slate-500 text-lg">We are adding more names to this collection soon!</p>
-            <a href="/" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Return Home</a>
-        </div>
-        {% endif %}
     </div>
 
     <script>
+        // --- 1. GENDER FILTER LOGIC ---
         function applyGenderFilter(gender) {
-            // 1. Save preference
             localStorage.setItem('genderPreference', gender);
+            updateFilterButtons(gender);
+            
+            const cards = document.querySelectorAll('.name-card');
+            let visible = 0;
+            cards.forEach(card => {
+                const g = card.dataset.gender;
+                const show = (gender === 'All') || (g === gender) || (g === 'Unisex') || (gender === 'Boy' && g === 'Unisex') || (gender === 'Girl' && g === 'Unisex');
+                card.style.display = show ? 'block' : 'none';
+                if(show) visible++;
+            });
+            document.getElementById('emptyState').classList.toggle('hidden', visible > 0);
+        }
 
-            // 2. Update UI Buttons
-            const buttons = document.querySelectorAll('.filter-btn');
-            buttons.forEach(btn => {
-                // Reset styling
-                btn.classList.remove('bg-emerald-600', 'bg-blue-600', 'bg-pink-600', 'text-white', 'border-transparent');
-                btn.classList.add('bg-white', 'text-slate-500', 'border-slate-200');
-                
-                // Apply Active Styling
-                if (btn.dataset.filter === gender) {
-                    btn.classList.remove('bg-white', 'text-slate-500', 'border-slate-200');
+        function updateFilterButtons(gender) {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.className = `filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500`;
+                if(btn.dataset.filter === gender) {
                     btn.classList.add('text-white', 'border-transparent');
                     if(gender === 'All') btn.classList.add('bg-emerald-600');
                     if(gender === 'Boy') btn.classList.add('bg-blue-600');
                     if(gender === 'Girl') btn.classList.add('bg-pink-600');
-                }
-            });
-
-            // 3. Filter Grid Items
-            const cards = document.querySelectorAll('.name-card');
-            let visibleCount = 0;
-
-            cards.forEach(card => {
-                const cardGender = card.getAttribute('data-gender');
-                let shouldShow = false;
-
-                if (gender === 'All') {
-                    shouldShow = true;
-                } else if (gender === 'Boy') {
-                    // Show Boys AND Unisex
-                    if (cardGender === 'Boy' || cardGender === 'Unisex') shouldShow = true;
-                } else if (gender === 'Girl') {
-                    // Show Girls AND Unisex
-                    if (cardGender === 'Girl' || cardGender === 'Unisex') shouldShow = true;
-                }
-
-                if (shouldShow) {
-                    card.style.display = 'block';
-                    visibleCount++;
                 } else {
-                    card.style.display = 'none';
+                    btn.classList.add('bg-white');
                 }
             });
+        }
 
-            // 4. Handle Empty State
-            const emptyState = document.getElementById('emptyState');
-            if (visibleCount === 0 && cards.length > 0) {
-                emptyState.classList.remove('hidden');
+        // --- 2. FAVORITES LOGIC ---
+        function getFavorites() {
+            return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+        }
+
+        function toggleFavorite(btn, name, gender, meaning, link) {
+            let favs = getFavorites();
+            const index = favs.findIndex(f => f.name === name);
+            
+            if (index > -1) {
+                // Remove
+                favs.splice(index, 1);
+                animateHeart(btn, false);
             } else {
-                emptyState.classList.add('hidden');
+                // Add
+                favs.push({ name, gender, meaning, link, date: new Date().getTime() });
+                animateHeart(btn, true);
+            }
+            
+            localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
+            updateFavCount();
+        }
+
+        function animateHeart(btn, isFav) {
+            const icon = btn.querySelector('.heart-icon');
+            if (isFav) {
+                btn.classList.add('text-rose-600');
+                btn.classList.remove('text-slate-300');
+                icon.setAttribute('fill', 'currentColor');
+                // Little pop animation
+                btn.style.transform = 'scale(1.2)';
+                setTimeout(() => btn.style.transform = 'scale(1)', 200);
+            } else {
+                btn.classList.remove('text-rose-600');
+                btn.classList.add('text-slate-300');
+                icon.setAttribute('fill', 'none');
             }
         }
 
-        // Initialize on page load
+        function initFavoritesUI() {
+            const favs = getFavorites();
+            const favNames = new Set(favs.map(f => f.name));
+            
+            document.querySelectorAll('.fav-btn').forEach(btn => {
+                // Find the name associated with this button
+                // We access the onclick attribute to parse the name, or use data attributes. 
+                // A safer way is to rely on the parent card's data attribute we added.
+                const card = btn.closest('.name-card');
+                const name = card.dataset.name;
+                
+                if (favNames.has(name)) {
+                    animateHeart(btn, true);
+                }
+            });
+            updateFavCount();
+        }
+
+        function updateFavCount() {
+            const count = getFavorites().length;
+            const badge = document.getElementById('favCountBadge');
+            if(badge) badge.innerText = count;
+        }
+
+        // --- INIT ---
         document.addEventListener('DOMContentLoaded', () => {
             const savedGender = localStorage.getItem('genderPreference') || 'All';
             applyGenderFilter(savedGender);
+            initFavoritesUI();
         });
     </script>
     {% endblock %}
@@ -258,6 +291,128 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
         ))
 
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
+
+def generate_favorites_page():
+    """
+    Generates the static /favorites/ page.
+    The content is populated client-side via localStorage.
+    """
+    folder_path = os.path.join(OUTPUT_DIR, 'favorites')
+    os.makedirs(folder_path, exist_ok=True)
+
+    template = env.from_string("""
+    {% extends "base.html" %}
+
+    {% block content %}
+    <div class="max-w-4xl mx-auto min-h-screen">
+        <div class="text-center mb-10 mt-8">
+            <h1 class="text-4xl font-bold text-slate-900 mb-2 font-heading">My Shortlist</h1>
+            <p class="text-lg text-slate-600">Names you have saved for later.</p>
+        </div>
+
+        <div id="favEmptyState" class="hidden text-center py-20 bg-slate-50 rounded-2xl border-2 border-dashed border-slate-200">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto text-slate-300 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+            </svg>
+            <h3 class="text-xl font-bold text-slate-700">No favorites yet</h3>
+            <p class="text-slate-500 mb-6">Start browsing and click the heart icon to add names here.</p>
+            <a href="/names-a/" class="inline-block px-6 py-3 bg-emerald-600 text-white font-bold rounded-lg hover:bg-emerald-700 transition">Browse Names</a>
+        </div>
+
+        <div id="favList" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            </div>
+        
+        <div id="favActions" class="hidden mt-10 text-center flex justify-center gap-4">
+             <button onclick="printList()" class="px-6 py-3 bg-white border border-slate-300 text-slate-700 font-bold rounded-lg hover:bg-slate-50 transition shadow-sm">
+                Print List
+            </button>
+            <button onclick="clearFavorites()" class="px-6 py-3 bg-white border border-rose-200 text-rose-600 font-bold rounded-lg hover:bg-rose-50 transition shadow-sm">
+                Clear All
+            </button>
+        </div>
+    </div>
+
+    <script>
+        function renderFavorites() {
+            const favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+            const list = document.getElementById('favList');
+            const empty = document.getElementById('favEmptyState');
+            const actions = document.getElementById('favActions');
+
+            list.innerHTML = '';
+
+            if (favs.length === 0) {
+                empty.classList.remove('hidden');
+                actions.classList.add('hidden');
+                return;
+            }
+
+            empty.classList.add('hidden');
+            actions.classList.remove('hidden');
+
+            favs.forEach((n, index) => {
+                const isBoy = n.gender === 'Boy';
+                const isGirl = n.gender === 'Girl';
+                
+                // Determine colors
+                let badgeClass = 'text-purple-600 bg-purple-50 border-purple-100';
+                if(isBoy) badgeClass = 'text-blue-600 bg-blue-50 border-blue-100';
+                if(isGirl) badgeClass = 'text-pink-600 bg-pink-50 border-pink-100';
+
+                const html = `
+                <div class="relative p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
+                    <div>
+                        <div class="flex justify-between items-start mb-2">
+                            <a href="${n.link}" class="text-2xl font-bold text-slate-800 hover:text-emerald-700 hover:underline">
+                                ${n.name}
+                            </a>
+                            <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${n.gender}</span>
+                        </div>
+                        <p class="text-slate-600 text-sm mb-4">${n.meaning}</p>
+                    </div>
+                    
+                    <button onclick="removeFav(${index})" class="text-sm text-rose-500 font-semibold hover:text-rose-700 self-start flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
+                        </svg>
+                        Remove
+                    </button>
+                </div>
+                `;
+                list.insertAdjacentHTML('beforeend', html);
+            });
+        }
+
+        function removeFav(index) {
+            let favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+            favs.splice(index, 1);
+            localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
+            renderFavorites();
+        }
+
+        function clearFavorites() {
+            if(confirm('Are you sure you want to delete all favorites?')) {
+                localStorage.removeItem('muslimNamesFavs');
+                renderFavorites();
+            }
+        }
+        
+        function printList() {
+            window.print();
+        }
+
+        document.addEventListener('DOMContentLoaded', renderFavorites);
+    </script>
+    {% endblock %}
+    """)
+
+    with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(template.render(
+            title="My Favorites | MuslimNameVault",
+            description="Your shortlisted Muslim baby names.",
+            url=f"{SITE_URL}/favorites/"
+        ))
+    print(f"✅ Generated Favorites Page")
 
 def generate_rich_description(name, meaning, gender, origin, transliteration):
     """

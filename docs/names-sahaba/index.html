@@ -104,715 +104,1035 @@
                 41 Names Found
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 font-heading">Names of Sahaba & Sahabiyat | MuslimNameVault</h1>
+            
+            <div class="flex justify-center gap-4 mb-6">
+                <a href="/favorites/" class="inline-flex items-center text-rose-600 font-bold hover:text-rose-700 transition">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+                    </svg>
+                    View My Favorites (<span id="favCountBadge">0</span>)
+                </a>
+            </div>
+
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">Names of the noble Companions of Prophet Muhammad (SAW).</p>
         </div>
 
-        <div class="flex flex-wrap justify-center gap-3 mb-10" id="genderControls">
-            <button onclick="applyGenderFilter('All')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500 hover:text-emerald-600" 
-                data-filter="All">
-                All
-            </button>
-            <button onclick="applyGenderFilter('Boy')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500 hover:text-blue-600" 
-                data-filter="Boy">
-                Boys
-            </button>
-            <button onclick="applyGenderFilter('Girl')" 
-                class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500 hover:text-pink-600" 
-                data-filter="Girl">
-                Girls
-            </button>
+        <div class="flex flex-wrap justify-center gap-3 mb-10">
+            <button onclick="applyGenderFilter('All')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500" data-filter="All">All</button>
+            <button onclick="applyGenderFilter('Boy')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500" data-filter="Boy">Boys</button>
+            <button onclick="applyGenderFilter('Girl')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500" data-filter="Girl">Girls</button>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             
-            <a href="/name-abbas/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Abbas</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Lion, stern</p>
-            </a>
             
-            <a href="/name-abdur-rahman/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Abbas">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Abdur Rahman</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Servant of the Most Merciful</p>
-            </a>
+                <a href="/name-abbas/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Abbas</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Lion, stern</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Abbas', 'Boy', 'Lion, stern', '/name-abbas/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-aisha/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Aisha</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Alive, prosperous</p>
-            </a>
             
-            <a href="/name-ali/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Abdur Rahman">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ali</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">High, elevated, champion</p>
-            </a>
+                <a href="/name-abdur-rahman/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Abdur Rahman</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Servant of the Most Merciful</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Abdur Rahman', 'Boy', 'Servant of the Most Merciful', '/name-abdur-rahman/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-ammar/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ammar</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Builder; Long-lived</p>
-            </a>
             
-            <a href="/name-amr/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Girl" data-name="Aisha">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Amr</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Life</p>
-            </a>
+                <a href="/name-aisha/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Aisha</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Alive, prosperous</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Aisha', 'Girl', 'Alive, prosperous', '/name-aisha/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-anas/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Anas</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Affection, friendliness</p>
-            </a>
             
-            <a href="/name-asma/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Boy" data-name="Ali">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Asma</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Exalted, high</p>
-            </a>
+                <a href="/name-ali/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ali</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">High, elevated, champion</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Ali', 'Boy', 'High, elevated, champion', '/name-ali/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-barakah/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Unisex">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Barakah</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-50 px-2 py-1 rounded border border-slate-100">Unisex</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Blessing</p>
-            </a>
             
-            <a href="/name-bilal/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Ammar">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Bilal</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">First Muezzin (Included here for searchability)</p>
-            </a>
+                <a href="/name-ammar/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ammar</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Builder; Long-lived</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Ammar', 'Boy', 'Builder; Long-lived', '/name-ammar/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-fatima/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Fatima</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">One who weans; Daughter of the Prophet</p>
-            </a>
             
-            <a href="/name-hafsa/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Boy" data-name="Amr">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hafsa</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Cub (Young lioness); Wife of the Prophet</p>
-            </a>
+                <a href="/name-amr/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Amr</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Life</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Amr', 'Boy', 'Life', '/name-amr/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-halima/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Halima</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Gentle, patient; Prophet's wet nurse</p>
-            </a>
             
-            <a href="/name-hamza/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Anas">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hamza</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Lion; Strong; Uncle of the Prophet</p>
-            </a>
+                <a href="/name-anas/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Anas</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Affection, friendliness</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Anas', 'Boy', 'Affection, friendliness', '/name-anas/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-hassan/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hassan</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Very handsome, good</p>
-            </a>
             
-            <a href="/name-hind/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Girl" data-name="Asma">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hind</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">India</p>
-            </a>
+                <a href="/name-asma/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Asma</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Exalted, high</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Asma', 'Girl', 'Exalted, high', '/name-asma/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-hussain/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hussain</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Beautiful, handsome; Grandson of Prophet</p>
-            </a>
             
-            <a href="/name-jabir/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Unisex" data-name="Barakah">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Jabir</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Comforter</p>
-            </a>
+                <a href="/name-barakah/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Barakah</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-purple-600 bg-purple-50 px-2 py-1 rounded border border-purple-100">Unisex</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Blessing</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Barakah', 'Unisex', 'Blessing', '/name-barakah/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-juwayriya/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Juwayriya</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Damask rose; Wife of the Prophet</p>
-            </a>
             
-            <a href="/name-khadija/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Boy" data-name="Bilal">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Khadija</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Premature child; First wife of Prophet</p>
-            </a>
+                <a href="/name-bilal/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Bilal</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">First Muezzin (Included here for searchability)</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Bilal', 'Boy', 'First Muezzin (Included here for searchability)', '/name-bilal/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-khalid/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Khalid</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Eternal, immortal</p>
-            </a>
             
-            <a href="/name-laila/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Girl" data-name="Fatima">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Laila</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Night</p>
-            </a>
+                <a href="/name-fatima/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Fatima</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">One who weans; Daughter of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Fatima', 'Girl', 'One who weans; Daughter of the Prophet', '/name-fatima/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-muawiyah/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Muawiyah</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Young Fox</p>
-            </a>
             
-            <a href="/name-musab/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Girl" data-name="Hafsa">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Musab</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Camel</p>
-            </a>
+                <a href="/name-hafsa/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hafsa</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Cub (Young lioness); Wife of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Hafsa', 'Girl', 'Cub (Young lioness); Wife of the Prophet', '/name-hafsa/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-nusaybah/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Nusaybah</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">One with good lineage; Famous woman warrior</p>
-            </a>
             
-            <a href="/name-ruqayya/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Girl" data-name="Halima">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ruqayya</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Rise, ascent; Daughter of Prophet</p>
-            </a>
+                <a href="/name-halima/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Halima</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Gentle, patient; Prophet's wet nurse</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Halima', 'Girl', 'Gentle, patient; Prophet&#39;s wet nurse', '/name-halima/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-saad/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Saad</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Good luck</p>
-            </a>
             
-            <a href="/name-saeed/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Hamza">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Saeed</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Happy, lucky</p>
-            </a>
+                <a href="/name-hamza/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hamza</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Lion; Strong; Uncle of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Hamza', 'Boy', 'Lion; Strong; Uncle of the Prophet', '/name-hamza/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-salman/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Salman</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Safe</p>
-            </a>
             
-            <a href="/name-sawda/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Boy" data-name="Hassan">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Sawda</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Black; Wife of the Prophet</p>
-            </a>
+                <a href="/name-hassan/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hassan</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Very handsome, good</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Hassan', 'Boy', 'Very handsome, good', '/name-hassan/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-suhail/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Suhail</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Gentle, easy; Star</p>
-            </a>
             
-            <a href="/name-sumayyah/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Girl" data-name="Hind">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Sumayyah</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">High above</p>
-            </a>
+                <a href="/name-hind/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hind</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">India</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Hind', 'Girl', 'India', '/name-hind/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-talha/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Talha</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Fruitful tree; Famous Companion</p>
-            </a>
             
-            <a href="/name-umar/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Hussain">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Umar</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Life, long-lived; Second Caliph</p>
-            </a>
+                <a href="/name-hussain/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Hussain</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Beautiful, handsome; Grandson of Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Hussain', 'Boy', 'Beautiful, handsome; Grandson of Prophet', '/name-hussain/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-umm-kulthum/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Umm Kulthum</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Mother of chubby face; Daughter of the Prophet</p>
-            </a>
             
-            <a href="/name-usama/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Boy" data-name="Jabir">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Usama</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Lion</p>
-            </a>
+                <a href="/name-jabir/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Jabir</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Comforter</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Jabir', 'Boy', 'Comforter', '/name-jabir/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-uthman/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Uthman</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Baby bustard</p>
-            </a>
             
-            <a href="/name-yasir/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            <div class="name-card relative group" data-gender="Girl" data-name="Juwayriya">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Yasir</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Wealthy, easy</p>
-            </a>
+                <a href="/name-juwayriya/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Juwayriya</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Damask rose; Wife of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Juwayriya', 'Girl', 'Damask rose; Wife of the Prophet', '/name-juwayriya/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-zaid/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
-                
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zaid</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Growth</p>
-            </a>
             
-            <a href="/name-zainab/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Girl">
+            <div class="name-card relative group" data-gender="Girl" data-name="Khadija">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zainab</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
-                    
-                </div>
-                
-                <p class="text-slate-600 line-clamp-2 relative z-10">Fragrant flower</p>
-            </a>
+                <a href="/name-khadija/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Khadija</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Premature child; First wife of Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Khadija', 'Girl', 'Premature child; First wife of Prophet', '/name-khadija/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
-            <a href="/name-zubair/" 
-               class="name-card block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition group relative overflow-hidden"
-               data-gender="Boy">
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Khalid">
                 
-                <div class="flex justify-between items-start mb-2 relative z-10">
-                    <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zubair</h3>
-                    
-                    
-                        <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
-                    
-                </div>
+                <a href="/name-khalid/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Khalid</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Eternal, immortal</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Khalid', 'Boy', 'Eternal, immortal', '/name-khalid/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Laila">
                 
-                <p class="text-slate-600 line-clamp-2 relative z-10">Strong, powerful; Famous Companion</p>
-            </a>
+                <a href="/name-laila/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Laila</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Night</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Laila', 'Girl', 'Night', '/name-laila/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Muawiyah">
+                
+                <a href="/name-muawiyah/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Muawiyah</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Young Fox</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Muawiyah', 'Boy', 'Young Fox', '/name-muawiyah/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Musab">
+                
+                <a href="/name-musab/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Musab</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Camel</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Musab', 'Boy', 'Camel', '/name-musab/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Nusaybah">
+                
+                <a href="/name-nusaybah/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Nusaybah</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">One with good lineage; Famous woman warrior</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Nusaybah', 'Girl', 'One with good lineage; Famous woman warrior', '/name-nusaybah/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Ruqayya">
+                
+                <a href="/name-ruqayya/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Ruqayya</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Rise, ascent; Daughter of Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Ruqayya', 'Girl', 'Rise, ascent; Daughter of Prophet', '/name-ruqayya/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Saad">
+                
+                <a href="/name-saad/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Saad</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Good luck</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Saad', 'Boy', 'Good luck', '/name-saad/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Saeed">
+                
+                <a href="/name-saeed/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Saeed</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Happy, lucky</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Saeed', 'Boy', 'Happy, lucky', '/name-saeed/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Salman">
+                
+                <a href="/name-salman/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Salman</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Safe</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Salman', 'Boy', 'Safe', '/name-salman/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Sawda">
+                
+                <a href="/name-sawda/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Sawda</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Black; Wife of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Sawda', 'Girl', 'Black; Wife of the Prophet', '/name-sawda/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Suhail">
+                
+                <a href="/name-suhail/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Suhail</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Gentle, easy; Star</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Suhail', 'Boy', 'Gentle, easy; Star', '/name-suhail/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Sumayyah">
+                
+                <a href="/name-sumayyah/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Sumayyah</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">High above</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Sumayyah', 'Girl', 'High above', '/name-sumayyah/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Talha">
+                
+                <a href="/name-talha/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Talha</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Fruitful tree; Famous Companion</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Talha', 'Boy', 'Fruitful tree; Famous Companion', '/name-talha/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Umar">
+                
+                <a href="/name-umar/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Umar</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Life, long-lived; Second Caliph</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Umar', 'Boy', 'Life, long-lived; Second Caliph', '/name-umar/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Umm Kulthum">
+                
+                <a href="/name-umm-kulthum/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Umm Kulthum</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Mother of chubby face; Daughter of the Prophet</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Umm Kulthum', 'Girl', 'Mother of chubby face; Daughter of the Prophet', '/name-umm-kulthum/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Usama">
+                
+                <a href="/name-usama/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Usama</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Lion</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Usama', 'Boy', 'Lion', '/name-usama/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Uthman">
+                
+                <a href="/name-uthman/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Uthman</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Baby bustard</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Uthman', 'Boy', 'Baby bustard', '/name-uthman/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Yasir">
+                
+                <a href="/name-yasir/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Yasir</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Wealthy, easy</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Yasir', 'Boy', 'Wealthy, easy', '/name-yasir/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Zaid">
+                
+                <a href="/name-zaid/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zaid</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Growth</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Zaid', 'Boy', 'Growth', '/name-zaid/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Girl" data-name="Zainab">
+                
+                <a href="/name-zainab/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zainab</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-pink-600 bg-pink-50 px-2 py-1 rounded border border-pink-100">Girl</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Fragrant flower</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Zainab', 'Girl', 'Fragrant flower', '/name-zainab/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
+            
+            
+            <div class="name-card relative group" data-gender="Boy" data-name="Zubair">
+                
+                <a href="/name-zubair/" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-emerald-500 hover:shadow-lg transition h-full">
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700">Zubair</h3>
+                        
+                            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2 py-1 rounded border border-blue-100">Boy</span>
+                        
+                    </div>
+                    <p class="text-slate-600 line-clamp-2 pr-8">Strong, powerful; Famous Companion</p>
+                </a>
+
+                <button onclick="toggleFavorite(this, 'Zubair', 'Boy', 'Strong, powerful; Famous Companion', '/name-zubair/')"
+                    class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+            </div>
             
         </div>
-
-        <div id="emptyState" class="hidden text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
-            <p class="text-slate-500 text-lg">No names found for this specific filter.</p>
-            <button onclick="applyGenderFilter('All')" class="text-emerald-600 font-bold mt-2 inline-block hover:underline">Show All Names</button>
-        </div>
-
         
+        <div id="emptyState" class="hidden text-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
+            <p class="text-slate-500 text-lg">No names match this filter.</p>
+        </div>
     </div>
 
     <script>
+        // --- 1. GENDER FILTER LOGIC ---
         function applyGenderFilter(gender) {
-            // 1. Save preference
             localStorage.setItem('genderPreference', gender);
+            updateFilterButtons(gender);
+            
+            const cards = document.querySelectorAll('.name-card');
+            let visible = 0;
+            cards.forEach(card => {
+                const g = card.dataset.gender;
+                const show = (gender === 'All') || (g === gender) || (g === 'Unisex') || (gender === 'Boy' && g === 'Unisex') || (gender === 'Girl' && g === 'Unisex');
+                card.style.display = show ? 'block' : 'none';
+                if(show) visible++;
+            });
+            document.getElementById('emptyState').classList.toggle('hidden', visible > 0);
+        }
 
-            // 2. Update UI Buttons
-            const buttons = document.querySelectorAll('.filter-btn');
-            buttons.forEach(btn => {
-                // Reset styling
-                btn.classList.remove('bg-emerald-600', 'bg-blue-600', 'bg-pink-600', 'text-white', 'border-transparent');
-                btn.classList.add('bg-white', 'text-slate-500', 'border-slate-200');
-                
-                // Apply Active Styling
-                if (btn.dataset.filter === gender) {
-                    btn.classList.remove('bg-white', 'text-slate-500', 'border-slate-200');
+        function updateFilterButtons(gender) {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.className = `filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500`;
+                if(btn.dataset.filter === gender) {
                     btn.classList.add('text-white', 'border-transparent');
                     if(gender === 'All') btn.classList.add('bg-emerald-600');
                     if(gender === 'Boy') btn.classList.add('bg-blue-600');
                     if(gender === 'Girl') btn.classList.add('bg-pink-600');
-                }
-            });
-
-            // 3. Filter Grid Items
-            const cards = document.querySelectorAll('.name-card');
-            let visibleCount = 0;
-
-            cards.forEach(card => {
-                const cardGender = card.getAttribute('data-gender');
-                let shouldShow = false;
-
-                if (gender === 'All') {
-                    shouldShow = true;
-                } else if (gender === 'Boy') {
-                    // Show Boys AND Unisex
-                    if (cardGender === 'Boy' || cardGender === 'Unisex') shouldShow = true;
-                } else if (gender === 'Girl') {
-                    // Show Girls AND Unisex
-                    if (cardGender === 'Girl' || cardGender === 'Unisex') shouldShow = true;
-                }
-
-                if (shouldShow) {
-                    card.style.display = 'block';
-                    visibleCount++;
                 } else {
-                    card.style.display = 'none';
+                    btn.classList.add('bg-white');
                 }
             });
+        }
 
-            // 4. Handle Empty State
-            const emptyState = document.getElementById('emptyState');
-            if (visibleCount === 0 && cards.length > 0) {
-                emptyState.classList.remove('hidden');
+        // --- 2. FAVORITES LOGIC ---
+        function getFavorites() {
+            return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+        }
+
+        function toggleFavorite(btn, name, gender, meaning, link) {
+            let favs = getFavorites();
+            const index = favs.findIndex(f => f.name === name);
+            
+            if (index > -1) {
+                // Remove
+                favs.splice(index, 1);
+                animateHeart(btn, false);
             } else {
-                emptyState.classList.add('hidden');
+                // Add
+                favs.push({ name, gender, meaning, link, date: new Date().getTime() });
+                animateHeart(btn, true);
+            }
+            
+            localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
+            updateFavCount();
+        }
+
+        function animateHeart(btn, isFav) {
+            const icon = btn.querySelector('.heart-icon');
+            if (isFav) {
+                btn.classList.add('text-rose-600');
+                btn.classList.remove('text-slate-300');
+                icon.setAttribute('fill', 'currentColor');
+                // Little pop animation
+                btn.style.transform = 'scale(1.2)';
+                setTimeout(() => btn.style.transform = 'scale(1)', 200);
+            } else {
+                btn.classList.remove('text-rose-600');
+                btn.classList.add('text-slate-300');
+                icon.setAttribute('fill', 'none');
             }
         }
 
-        // Initialize on page load
+        function initFavoritesUI() {
+            const favs = getFavorites();
+            const favNames = new Set(favs.map(f => f.name));
+            
+            document.querySelectorAll('.fav-btn').forEach(btn => {
+                // Find the name associated with this button
+                // We access the onclick attribute to parse the name, or use data attributes. 
+                // A safer way is to rely on the parent card's data attribute we added.
+                const card = btn.closest('.name-card');
+                const name = card.dataset.name;
+                
+                if (favNames.has(name)) {
+                    animateHeart(btn, true);
+                }
+            });
+            updateFavCount();
+        }
+
+        function updateFavCount() {
+            const count = getFavorites().length;
+            const badge = document.getElementById('favCountBadge');
+            if(badge) badge.innerText = count;
+        }
+
+        // --- INIT ---
         document.addEventListener('DOMContentLoaded', () => {
             const savedGender = localStorage.getItem('genderPreference') || 'All';
             applyGenderFilter(savedGender);
+            initFavoritesUI();
         });
     </script>
     
