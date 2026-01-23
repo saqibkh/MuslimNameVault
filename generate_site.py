@@ -533,6 +533,23 @@ def generate_website():
     
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
+    origin_counts = {}
+    for n in names:
+        # Handle "Arabic, Persian"
+        raw_origins = n.get('origin', 'Unknown').replace('/', ',').split(',')
+        for origin in raw_origins:
+            clean = origin.strip()
+            if len(clean) >= 3: # Skip empty/short
+                origin_counts[clean] = origin_counts.get(clean, 0) + 1
+    
+    # Get Top 10 Origins by count
+    top_origins = sorted(origin_counts.items(), key=lambda x: x[1], reverse=True)[:10]
+    
+    # Pass to ALL templates globally
+    env.globals['nav_origins'] = top_origins
+    print(f"🌍 Top Origins found for Menu: {[o[0] for o in top_origins]}")
+    # -----------------------------------------------------
+
     # 1. Generate Index Page (Homepage)
     try:
         index_template = env.get_template('index.html')
