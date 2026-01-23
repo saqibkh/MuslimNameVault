@@ -27,58 +27,6 @@ Sitemap: {SITE_URL}/sitemap.xml
         f.write(content)
     print("✅ Generated robots.txt")
 
-def generate_rich_description(name, meaning, gender, origin, transliteration):
-    """
-    Generates a unique, non-repetitive description for every name
-    to prevent Google 'Duplicate Content' penalties.
-    """
-    # 1. Gender-specific Introductions
-    intro_templates = []
-    if gender == 'Boy':
-        intro_templates = [
-            f"If you are looking for a strong and significant name for your son, <strong>{name}</strong> is a standout choice.",
-            f"The name <strong>{name}</strong> is a classic masculine title rooted in {origin} tradition.",
-            f"For parents seeking a noble identity for their baby boy, <strong>{name}</strong> offers deep spiritual resonance."
-        ]
-    elif gender == 'Girl':
-        intro_templates = [
-            f"Graceful and timeless, the name <strong>{name}</strong> is a beautiful choice for a baby girl.",
-            f"<strong>{name}</strong> is a feminine title rich in history, originating from {origin} roots.",
-            f"Capturing elegance and depth, <strong>{name}</strong> stands out as a meaningful name for your daughter."
-        ]
-    else: # Unisex
-        intro_templates = [
-            f"<strong>{name}</strong> is a versatile and harmonious name suitable for both boys and girls.",
-            f"With its {origin} roots, <strong>{name}</strong> is a unique unisex choice carrying profound meaning."
-        ]
-
-    # 2. Meaning Analysis
-    meaning_lower = meaning.lower()
-    meaning_text = ""
-    if "god" in meaning_lower or "allah" in meaning_lower:
-        meaning_text = f"It carries a divine connection, translating essentially to '<em>{meaning}</em>'. This bestows a sense of spiritual protection upon the bearer."
-    elif "beautiful" in meaning_lower or "flower" in meaning_lower or "light" in meaning_lower:
-        meaning_text = f"The literal meaning, '<em>{meaning}</em>', evokes imagery of nature and radiance, suggesting a personality full of life and positivity."
-    elif "warrior" in meaning_lower or "brave" in meaning_lower or "lion" in meaning_lower:
-        meaning_text = f"Meaning '<em>{meaning}</em>', this name carries a weight of authority, courage, and leadership."
-    else:
-        meaning_text = f"The name holds the profound meaning of '<em>{meaning}</em>', reflecting qualities that parents often wish to bestow upon their child."
-
-    # 3. Cultural Context (Randomized variations)
-    cultural_templates = [
-        f"In {origin} culture, names are more than labels; they are prayers. {name} is widely respected for its positive connotations.",
-        f"Pronounced as <em>{transliteration or name}</em>, it has a rhythmic flow that makes it memorable and distinct.",
-        f"While popular in {origin} regions, {name} has a modern appeal that transcends borders."
-    ]
-
-    # 4. Closing Recommendation
-    closing = "It is an excellent choice for a modern Muslim family honoring tradition."
-    
-    # Combine random selections
-    paragraph_1 = f"{random.choice(intro_templates)} {meaning_text}"
-    paragraph_2 = f"{random.choice(cultural_templates)} {closing}"
-    
-    return f"{paragraph_1} <br><br> {paragraph_2}"
 
 def load_names():
     """Loads all JSON files from the names_data directory."""
@@ -501,6 +449,47 @@ def generate_rich_description(name, meaning, gender, origin, transliteration):
     
     return f"{p1} {meaning_text} <br><br> {p2} {closing}"
 
+
+
+def generate_theme_collections(all_names):
+    """
+    Scans name meanings and generates collection pages for specific themes.
+    """
+    themes = {
+        "Light": ["light", "shine", "bright", "radiant", "glow", "nur", "luminous", "sun", "moon", "star"],
+        "Strength": ["strong", "brave", "warrior", "power", "mighty", "lion", "sword", "leader"],
+        "Beauty": ["beauty", "beautiful", "pretty", "lovely", "grace", "elegant"],
+        "Nature": ["flower", "rose", "garden", "river", "ocean", "tree", "mountain", "sky", "cloud"],
+        "Wisdom": ["wise", "knowledge", "intellect", "intelligent", "mind", "learn"],
+        "Faith": ["faith", "god", "allah", "worship", "divine", "holy", "religion", "pious"],
+        "Happiness": ["happy", "joy", "bliss", "smile", "laugh", "cheerful"]
+    }
+    
+    print("🎨 Generating Theme Pages...")
+    
+    for theme_name, keywords in themes.items():
+        slug = f"names-meaning-{theme_name.lower()}"
+        
+        filtered_names = []
+        for n in all_names:
+            meaning_text = n.get('meaning', '').lower()
+            if any(k in meaning_text for k in keywords):
+                filtered_names.append(n)
+                
+        if filtered_names:
+            # FIX: Added is_letter_page=True
+            # This tells the function: "filtered_names is already a list of dicts, don't try to look them up again."
+            generate_collection_page(
+                slug,
+                f"Muslim Names Meaning {theme_name}",
+                f"Browse our collection of {len(filtered_names)} Muslim baby names associated with {theme_name.lower()}.",
+                filtered_names,
+                all_names,
+                is_letter_page=True 
+            )
+
+
+
 def generate_website():
     print("🚀 Starting Website Generation...")
     
@@ -527,7 +516,7 @@ def generate_website():
     # 2. Initialize Search Index
     search_index = []
     
-    # 3. Define INLINE Detail Template (Gives us full control without editing external files)
+    # 3. Define INLINE Detail Template
     detail_template_str = """
     {% extends "base.html" %}
     {% block content %}
@@ -542,7 +531,22 @@ def generate_website():
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100">
             <div class="bg-emerald-600 p-8 text-white text-center relative">
                 <h1 class="text-5xl md:text-6xl font-bold font-heading mb-2">{{ name.name }}</h1>
-                <p class="text-emerald-100 text-xl">{{ name.transliteration }}</p>
+                
+                <div class="flex items-center justify-center gap-3 mt-2">
+                    <p class="text-emerald-100 text-xl">{{ name.transliteration }}</p>
+                    
+                    {% if audio_file %}
+                    <button onclick="document.getElementById('nameAudio').play()" 
+                            class="bg-white/20 hover:bg-white/40 text-white p-2 rounded-full transition shadow-sm backdrop-blur-sm" 
+                            title="Listen to native pronunciation"
+                            aria-label="Play pronunciation">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.828M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                        </svg>
+                    </button>
+                    <audio id="nameAudio" src="/audio/{{ audio_file }}" preload="none"></audio>
+                    {% endif %}
+                </div>
                 
                 <div class="absolute top-4 right-4 bg-white/20 backdrop-blur px-3 py-1 rounded text-sm font-bold">
                     {{ name.gender }}
@@ -629,11 +633,22 @@ def generate_website():
         gender = name_entry.get('gender', 'Unisex')
         origin = name_entry.get('origin', 'Islamic')
         
-        # Create Slug
+        # Create Slug for Page
         slug = f"name-{name.strip().lower().replace(' ', '-')}"
         folder_path = os.path.join(OUTPUT_DIR, slug)
         os.makedirs(folder_path, exist_ok=True)
         
+        # --- AUDIO FILE CHECK ---
+        # Logic from generate_audio.py: name.lower().strip().replace(' ', '-').replace("'", "")
+        safe_audio_name = name.lower().strip().replace(' ', '-').replace("'", "")
+        audio_filename = f"{safe_audio_name}.mp3"
+        audio_file_path = os.path.join(OUTPUT_DIR, 'audio', audio_filename)
+        
+        # Only pass the filename if the file actually exists
+        has_audio = None
+        if os.path.exists(audio_file_path):
+            has_audio = audio_filename
+
         # Add to Search Index
         search_index.append({
             "n": name,
@@ -696,7 +711,8 @@ def generate_website():
                 schema_markup=full_schema,
                 letter=first_char,
                 prev_name=prev_name,
-                next_name=next_name
+                next_name=next_name,
+                audio_file=has_audio  # PASS AUDIO TO TEMPLATE
             ))
 
     # 4. Generate A-Z Collection Pages
@@ -724,11 +740,11 @@ def generate_website():
     generate_collection_page("names-prophets", "Names of Prophets", "Honorable names of the Prophets (AS) mentioned in Islam.", prophet_names, names)
     generate_collection_page("names-sahaba", "Names of Sahaba & Sahabiyat", "Names of the noble Companions of Prophet Muhammad (SAW).", sahaba_names, names)
     generate_collection_page("names-quranic", "Direct Quranic Names", "Names directly mentioned in the Holy Quran.", quranic_direct, names)
-
-    # 6. Generate Finder Page (Keep your existing finder code block here)
-    # ... (Paste your existing Finder Page block here) ... 
-    # Since I am replacing the function, I will include the finder block for completeness:
     
+    # 6. Generate Thematic Pages
+    generate_theme_collections(names)
+
+    # 7. Generate Finder Page
     finder_template = env.from_string("""
     {% extends "base.html" %}
     {% block content %}
@@ -780,12 +796,12 @@ def generate_website():
         ))
     print("✅ Generated Finder Page")
 
-    # 7. Save Search Index
+    # 8. Save Search Index
     with open(os.path.join(OUTPUT_DIR, 'search_index.json'), 'w', encoding='utf-8') as f:
         json.dump(search_index, f)
     print("✅ Generated Search Index.")
 
-    # 8. Generate Sitemap
+    # 9. Generate Sitemap
     generate_sitemap(names, OUTPUT_DIR, SITE_URL)
     print("✅ Generated Sitemap.")
 

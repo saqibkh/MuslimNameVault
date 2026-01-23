@@ -112,7 +112,22 @@
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100">
             <div class="bg-emerald-600 p-8 text-white text-center relative">
                 <h1 class="text-5xl md:text-6xl font-bold font-heading mb-2">Istifah</h1>
-                <p class="text-emerald-100 text-xl"></p>
+                
+                <div class="flex items-center justify-center gap-3 mt-2">
+                    <p class="text-emerald-100 text-xl"></p>
+                    
+                    
+                    <button onclick="document.getElementById('nameAudio').play()" 
+                            class="bg-white/20 hover:bg-white/40 text-white p-2 rounded-full transition shadow-sm backdrop-blur-sm" 
+                            title="Listen to native pronunciation"
+                            aria-label="Play pronunciation">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.828M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                        </svg>
+                    </button>
+                    <audio id="nameAudio" src="/audio/istifah.mp3" preload="none"></audio>
+                    
+                </div>
                 
                 <div class="absolute top-4 right-4 bg-white/20 backdrop-blur px-3 py-1 rounded text-sm font-bold">
                     Boy
@@ -132,7 +147,7 @@
                 </div>
 
                 <div class="prose prose-lg text-slate-600 max-w-none mb-12">
-                    The name <strong>Istifah</strong> is a classic masculine title rooted in Arabic tradition. The name holds the profound meaning of '<em>Selection</em>', reflecting qualities that parents often wish to bestow upon their child. <br><br> While popular in Arabic regions, Istifah has a modern appeal that transcends borders. It is an excellent choice for a modern Muslim family honoring tradition.
+                    The name <strong>Istifah</strong> is a classic masculine title rooted in Arabic tradition. The name holds the profound meaning of '<em>Selection</em>', reflecting qualities that parents often wish to bestow upon their child. <br><br> Pronounced as <em>Istifah</em>, it has a rhythmic flow that makes it memorable and distinct. It is an excellent choice for a modern Muslim family honoring tradition.
                 </div>
                 
                 <div class="flex justify-between items-center py-6 border-t border-slate-100">
