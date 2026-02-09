@@ -671,6 +671,10 @@ def generate_origin_collections(all_names):
     origin_groups = {}
     
     for n in all_names:
+        # Skip names with apostrophes or dots to prevent broken links
+        if "'" in n.get('name', '') or "." in n.get('name', ''):
+            continue
+
         # Split complex origins like "Arabic, Persian" into separate entries
         raw_origins = n.get('origin', 'Unknown').replace('/', ',').split(',')
         
