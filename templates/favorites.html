@@ -44,7 +44,7 @@
                 
                 const link = document.createElement('a');
                 // CLEAN URL FIX:
-                link.href = `/name-${fav.name.toLowerCase().replace(' ', '-')}/`;
+		link.href = `/name-${fav.name.toLowerCase().replace(' ', '-').replace("'", "")}/`;
                 link.className = 'absolute inset-0 z-0';
                 card.appendChild(link);
 

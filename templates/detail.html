@@ -20,12 +20,12 @@
                 <p class="text-emerald-200 text-2xl font-heading opacity-90 mb-8">{{ name.transliteration if name.transliteration else name.name }}</p>
                 
                 <div class="flex justify-center">
-                    <button onclick="document.getElementById('audio-{{ name.name }}').play()" 
+                    <button onclick="document.getElementById('audio-{{ name.name|lower|replace("'", "") }}').play()" 
                             class="group bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white hover:text-emerald-900 text-white px-8 py-3 rounded-full font-bold transition-all duration-300 flex items-center gap-3">
                         <span class="group-hover:scale-110 transition-transform text-xl">🔊</span>
                         <span>Listen to Pronunciation</span>
                     </button>
-                    <audio id="audio-{{ name.name }}" src="/audio/{{ name.name|lower }}.mp3"></audio>
+                    <audio id="audio-{{ name.name|lower|replace("'", "") }}" src="/audio/{{ name.name|lower|strip|replace(' ', '-')|replace("'", "") }}.mp3"></audio>
                 </div>
             </div>
             
@@ -54,6 +54,22 @@
                     {{ generated_content|safe }}
                 </div>
             </div>
+
+            <div class="border-t border-slate-100 py-8 flex justify-between items-center">
+                {% if prev_name %}
+                <a href="/name-{{ prev_name.name|lower|replace(' ', '-')|replace("'", "") }}/" class="text-emerald-700 font-bold hover:underline flex items-center gap-2">
+                    &larr; {{ prev_name.name }}
+                </a>
+                {% else %}
+                <div></div>
+                {% endif %}
+
+                {% if next_name %}
+                <a href="/name-{{ next_name.name|lower|replace(' ', '-')|replace("'", "") }}/" class="text-emerald-700 font-bold hover:underline flex items-center gap-2">
+                    {{ next_name.name }} &rarr;
+                </a>
+                {% endif %}
+            </div>
             
             <div class="border-t border-slate-100 pt-10">
                 <div class="flex items-center gap-2 mb-6">
@@ -62,7 +78,7 @@
                 </div>
                 <div class="flex flex-wrap gap-3">
                     {% for related in related_names %}
-                    <a href="/name-{{ related.name|lower|replace(' ', '-') }}/" 
+                    <a href="/name-{{ related.name|lower|replace(' ', '-')|replace("'", "") }}/" 
                        class="px-5 py-2.5 bg-white border border-slate-200 text-slate-700 rounded-xl hover:bg-emerald-600 hover:text-white hover:border-emerald-600 transition shadow-sm font-medium">
                         {{ related.name }}
                     </a>

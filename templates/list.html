@@ -57,7 +57,7 @@
             </svg>
         </button>
 
-        <a href="/name-{{ name.name|lower|replace(' ', '-') }}/" class="block h-full flex flex-col pl-3">
+        <a href="/name-{{ name.name|lower|replace(' ', '-')|replace("'", "") }}/" class="...">
             <div class="flex justify-between items-start pr-12 mb-3">
                 <div>
                     <h2 class="text-2xl font-bold text-slate-900 group-hover:text-{{ gender_cls }}-700 transition">{{ name.name }}</h2>
