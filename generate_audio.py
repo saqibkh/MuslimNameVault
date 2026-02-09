@@ -17,7 +17,7 @@ if not os.path.exists(AUDIO_OUTPUT_FOLDER):
 def get_safe_filename(name):
     """Converts 'Ali ibn Abi Talib' to 'ali-ibn-abi-talib'"""
     # This must match the slug logic in generate_site.py
-    return name.lower().strip().replace(' ', '-').replace("'", "")
+    return name.lower().strip().replace(' ', '-')
 
 def determine_lang(origin):
     """Decides which language code to use based on Origin."""

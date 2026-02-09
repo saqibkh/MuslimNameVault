@@ -671,6 +671,10 @@ def generate_origin_collections(all_names):
     origin_groups = {}
     
     for n in all_names:
+        # Skip names with apostrophes or dots to prevent broken links
+        if "'" in n.get('name', '') or "." in n.get('name', ''):
+            continue
+
         # Split complex origins like "Arabic, Persian" into separate entries
         raw_origins = n.get('origin', 'Unknown').replace('/', ',').split(',')
         
@@ -863,7 +867,7 @@ def generate_website():
         os.makedirs(folder_path, exist_ok=True)
         
         # --- AUDIO FILE CHECK ---
-        # Logic from generate_audio.py: name.lower().strip().replace(' ', '-').replace("'", "")
+        # Logic from generate_audio.py: name.lower().strip().replace(' ', '-')
         safe_audio_name = name.lower().strip().replace(' ', '-').replace("'", "")
         audio_filename = f"{safe_audio_name}.mp3"
         audio_file_path = os.path.join(OUTPUT_DIR, 'audio', audio_filename)
@@ -942,7 +946,13 @@ def generate_website():
     # 4. Generate A-Z Collection Pages
     for char in alphabet:
         slug = f"names-{char.lower()}"
-        filtered_names = [n for n in names if n['name'].startswith(char)]
+
+        filtered_names = [
+            n for n in names
+            if n['name'].startswith(char)
+            and "'" not in n['name']
+            and "." not in n['name']
+        ]
         
         generate_collection_page(
             slug,

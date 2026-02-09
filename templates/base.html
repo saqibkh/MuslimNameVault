@@ -116,7 +116,7 @@
                                 <div class="grid grid-cols-2 gap-2">
                                     {% if nav_origins %}
                                         {% for origin, count in nav_origins %}
-                                        <a href="/names-origin-{{ origin|lower|replace(' ', '-')|replace(',', '') }}/" 
+                                        <a href="/names-origin-{{ origin|lower|replace(' ', '-') }}/" 
                                            class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
                                            title="{{ origin }}">
                                             {{ origin }}
