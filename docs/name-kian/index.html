@@ -56,139 +56,176 @@
 <body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen selection:bg-emerald-100 selection:text-emerald-900">
 
     <nav class="bg-emerald-900 text-white shadow-lg sticky top-0 z-50 border-b border-emerald-800">
-        <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="container mx-auto px-4 py-3">
             
-            <a href="/" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
-                <span>MuslimNameVault</span>
-            </a>
-
-            <div class="relative w-full md:w-96 group">
-                <div class="relative">
-                    <input type="text" id="globalSearch" placeholder="Search dictionary..." 
-                           class="w-full pl-10 pr-4 py-2 rounded-lg text-slate-800 bg-emerald-50 focus:bg-white focus:ring-2 focus:ring-emerald-400 outline-none transition shadow-inner placeholder-emerald-800/50">
-                    <span class="absolute left-3 top-2.5 text-emerald-700">🔍</span>
-                </div>
-                <div id="globalSearchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded-lg shadow-xl border border-slate-200 max-h-80 overflow-y-auto search-results z-50"></div>
-            </div>
-
-            <div class="hidden md:flex gap-6 items-center font-medium">
-                <a href="/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100">Home</a>
+            <div class="flex flex-col md:flex-row justify-between items-center gap-4">
                 
-                <a href="/finder/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100 flex items-center gap-1">
-                    <span>🔍 Finder</span>
-                </a>
+                <div class="flex justify-between items-center w-full md:w-auto">
+                    <a href="/" class="text-2xl font-bold tracking-tight flex items-center gap-2 hover:text-emerald-100 transition font-heading">
+                        <span>MuslimNameVault</span>
+                    </a>
 
-
-                <div class="relative group">
-                    <button class="flex items-center gap-1 hover:text-emerald-200 transition opacity-90 hover:opacity-100 outline-none cursor-pointer py-2">
-                        Collections
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    <button id="mobileMenuBtn" class="md:hidden p-2 text-emerald-200 hover:text-white focus:outline-none focus:ring-2 focus:ring-emerald-400 rounded-lg">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                         </svg>
                     </button>
+                </div>
+
+                <div class="relative w-full md:w-96 group order-2 md:order-none">
+                    <div class="relative">
+                        <input type="text" id="globalSearch" placeholder="Search dictionary..." 
+                               class="w-full pl-10 pr-4 py-2 rounded-lg text-slate-800 bg-emerald-50 focus:bg-white focus:ring-2 focus:ring-emerald-400 outline-none transition shadow-inner placeholder-emerald-800/50">
+                        <span class="absolute left-3 top-2.5 text-emerald-700">🔍</span>
+                    </div>
+                    <div id="globalSearchResults" class="hidden absolute top-full left-0 right-0 bg-white mt-2 rounded-lg shadow-xl border border-slate-200 max-h-80 overflow-y-auto search-results z-50"></div>
+                </div>
+
+                <div class="hidden md:flex gap-6 items-center font-medium">
+                    <a href="/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100">Home</a>
                     
-                    <div class="absolute top-full right-0 pt-2 w-56 hidden group-hover:block z-50 hover:block">
-                        <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
-                            <a href="/names-trending/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>🔥</span> Trending 2026
-                            </a>
-                            <a href="/names-prophets/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>🕌</span> Prophets
-                            </a>
-                            <a href="/names-sahaba/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
-                                <span>⚔️</span> Sahaba
-                            </a>
-                            <a href="/names-quranic/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition flex items-center gap-2">
-                                <span>📖</span> Quranic Names
-                            </a>
+                    <a href="/finder/" class="hover:text-emerald-200 transition opacity-90 hover:opacity-100 flex items-center gap-1">
+                        <span>🔍 Finder</span>
+                    </a>
+
+                    <div class="relative group">
+                        <button class="flex items-center gap-1 hover:text-emerald-200 transition opacity-90 hover:opacity-100 outline-none cursor-pointer py-2">
+                            Collections
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        
+                        <div class="absolute top-full right-0 pt-2 w-56 hidden group-hover:block z-50 hover:block">
+                            <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
+                                <a href="/names-trending/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                    <span>🔥</span> Trending 2026
+                                </a>
+                                <a href="/names-prophets/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                    <span>🕌</span> Prophets
+                                </a>
+                                <a href="/names-sahaba/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition border-b border-slate-50 flex items-center gap-2">
+                                    <span>⚔️</span> Sahaba
+                                </a>
+                                <a href="/names-quranic/" class="block px-4 py-3 text-slate-700 hover:bg-emerald-50 hover:text-emerald-700 transition flex items-center gap-2">
+                                    <span>📖</span> Quranic Names
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="relative group">
+                        <button class="flex items-center gap-1 hover:text-emerald-200 transition opacity-90 hover:opacity-100 outline-none cursor-pointer py-2">
+                            Origins
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        
+                        <div class="absolute top-full right-0 pt-2 w-64 hidden group-hover:block z-50 hover:block">
+                            <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
+                                <div class="bg-slate-50 p-3">
+                                    <div class="grid grid-cols-2 gap-2">
+                                        
+                                            
+                                            <a href="/names-origin-arabic/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Arabic">
+                                                Arabic
+                                            </a>
+                                            
+                                            <a href="/names-origin-persian/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Persian">
+                                                Persian
+                                            </a>
+                                            
+                                            <a href="/names-origin-turkish/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Turkish">
+                                                Turkish
+                                            </a>
+                                            
+                                            <a href="/names-origin-quranic/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Quranic">
+                                                Quranic
+                                            </a>
+                                            
+                                            <a href="/names-origin-indonesian/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Indonesian">
+                                                Indonesian
+                                            </a>
+                                            
+                                            <a href="/names-origin-urdu/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Urdu">
+                                                Urdu
+                                            </a>
+                                            
+                                            <a href="/names-origin-malay/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Malay">
+                                                Malay
+                                            </a>
+                                            
+                                            <a href="/names-origin-swahili/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Swahili">
+                                                Swahili
+                                            </a>
+                                            
+                                            <a href="/names-origin-african/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="African">
+                                                African
+                                            </a>
+                                            
+                                            <a href="/names-origin-somali/" 
+                                               class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
+                                               title="Somali">
+                                                Somali
+                                            </a>
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="relative group">
-                    <button class="flex items-center gap-1 hover:text-emerald-200 transition opacity-90 hover:opacity-100 outline-none cursor-pointer py-2">
-                        Origins
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                        </svg>
-                    </button>
-                    
-                    <div class="absolute top-full right-0 pt-2 w-64 hidden group-hover:block z-50 hover:block">
-                        <div class="bg-white rounded-xl shadow-xl border border-slate-100 overflow-hidden transform origin-top-right transition-all">
-                            
-                            <div class="bg-slate-50 p-3">
-                                <div class="grid grid-cols-2 gap-2">
-                                    
-                                        
-                                        <a href="/names-origin-arabic/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Arabic">
-                                            Arabic
-                                        </a>
-                                        
-                                        <a href="/names-origin-persian/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Persian">
-                                            Persian
-                                        </a>
-                                        
-                                        <a href="/names-origin-turkish/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Turkish">
-                                            Turkish
-                                        </a>
-                                        
-                                        <a href="/names-origin-quranic/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Quranic">
-                                            Quranic
-                                        </a>
-                                        
-                                        <a href="/names-origin-indonesian/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Indonesian">
-                                            Indonesian
-                                        </a>
-                                        
-                                        <a href="/names-origin-urdu/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Urdu">
-                                            Urdu
-                                        </a>
-                                        
-                                        <a href="/names-origin-malay/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Malay">
-                                            Malay
-                                        </a>
-                                        
-                                        <a href="/names-origin-swahili/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Swahili">
-                                            Swahili
-                                        </a>
-                                        
-                                        <a href="/names-origin-african/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="African">
-                                            African
-                                        </a>
-                                        
-                                        <a href="/names-origin-somali/" 
-                                           class="text-center py-1.5 px-2 bg-white border border-slate-200 rounded text-xs font-semibold text-slate-600 hover:border-emerald-500 hover:text-emerald-700 transition shadow-sm truncate"
-                                           title="Somali">
-                                            Somali
-                                        </a>
-                                        
-                                    
-                                </div>
-                                </div>
-
-                        </div>
-                    </div>
-                </div>
-
             </div>
+
+            <div id="mobileMenu" class="hidden md:hidden border-t border-emerald-800 mt-4 pt-4 flex flex-col gap-2 transition-all">
+                <a href="/" class="block py-3 px-4 hover:bg-emerald-800 rounded-lg text-emerald-100 font-medium flex items-center gap-2">
+                    <span>🏠</span> Home
+                </a>
+                <a href="/finder/" class="block py-3 px-4 hover:bg-emerald-800 rounded-lg text-emerald-100 font-medium flex items-center gap-2">
+                    <span>🔍</span> Finder
+                </a>
+                
+                <div class="py-2">
+                    <span class="px-4 text-xs font-bold text-emerald-400 uppercase tracking-widest mb-2 block">Collections</span>
+                    <div class="grid grid-cols-2 gap-2 px-2">
+                        <a href="/names-trending/" class="bg-emerald-800/50 py-2 px-3 rounded-lg text-sm text-center text-emerald-50 hover:bg-emerald-800 transition">🔥 Trending</a>
+                        <a href="/names-prophets/" class="bg-emerald-800/50 py-2 px-3 rounded-lg text-sm text-center text-emerald-50 hover:bg-emerald-800 transition">🕌 Prophets</a>
+                        <a href="/names-quranic/" class="bg-emerald-800/50 py-2 px-3 rounded-lg text-sm text-center text-emerald-50 hover:bg-emerald-800 transition">📖 Quranic</a>
+                        <a href="/names-sahaba/" class="bg-emerald-800/50 py-2 px-3 rounded-lg text-sm text-center text-emerald-50 hover:bg-emerald-800 transition">⚔️ Sahaba</a>
+                    </div>
+                </div>
+
+                <div class="py-2">
+                    <span class="px-4 text-xs font-bold text-emerald-400 uppercase tracking-widest mb-2 block">Popular Origins</span>
+                    <div class="grid grid-cols-4 gap-2 px-2">
+                        <a href="/names-origin-arabic/" class="bg-emerald-800/30 py-1.5 px-1 rounded text-xs text-center text-emerald-100 hover:bg-emerald-800">Arabic</a>
+                        <a href="/names-origin-urdu/" class="bg-emerald-800/30 py-1.5 px-1 rounded text-xs text-center text-emerald-100 hover:bg-emerald-800">Urdu</a>
+                        <a href="/names-origin-turkish/" class="bg-emerald-800/30 py-1.5 px-1 rounded text-xs text-center text-emerald-100 hover:bg-emerald-800">Turkish</a>
+                        <a href="/names-origin-persian/" class="bg-emerald-800/30 py-1.5 px-1 rounded text-xs text-center text-emerald-100 hover:bg-emerald-800">Persian</a>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </nav>
 
@@ -240,7 +277,7 @@
                 </div>
 
                 <div class="prose prose-lg text-slate-600 max-w-none mb-12">
-                    If you are looking for a strong and significant name for your son, <strong>Kian</strong> is a standout choice. The name holds the profound meaning of '<em>King; Realm</em>', reflecting qualities that parents often wish to bestow upon their child. <br><br> Pronounced as <em>Kian</em>, it has a rhythmic flow that makes it memorable and distinct. It is an excellent choice for a modern Muslim family honoring tradition.
+                    The name <strong>Kian</strong> is a classic masculine title rooted in Persian tradition. The name holds the profound meaning of '<em>King; Realm</em>', reflecting qualities that parents often wish to bestow upon their child. <br><br> While popular in Persian regions, Kian has a modern appeal that transcends borders. It is an excellent choice for a modern Muslim family honoring tradition.
                 </div>
                 
                 <div class="flex justify-between items-center py-6 border-t border-slate-100">
@@ -366,52 +403,72 @@
     </footer>
 
     <script>
+        // --- 📱 MOBILE MENU LOGIC ---
+        const mobileBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+
+        if (mobileBtn && mobileMenu) {
+            mobileBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+        }
+
+        // --- 🔍 SEARCH LOGIC ---
         const globalSearchInput = document.getElementById('globalSearch');
         const resultsContainer = document.getElementById('globalSearchResults');
         let searchIndex = [];
 
+        // Fetch the index once
         fetch('/search_index.json')
             .then(response => response.json())
             .then(data => { searchIndex = data; })
             .catch(err => console.error("Error loading search index:", err));
 
-        globalSearchInput.addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase().trim();
-            resultsContainer.innerHTML = '';
-            
-            if (query.length < 2) {
-                resultsContainer.classList.add('hidden');
-                return;
-            }
+        // Listen for typing
+        if (globalSearchInput) {
+            globalSearchInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                resultsContainer.innerHTML = '';
+                
+                if (query.length < 2) {
+                    resultsContainer.classList.add('hidden');
+                    return;
+                }
 
-            const results = searchIndex.filter(item => item.n.toLowerCase().startsWith(query) || item.n.toLowerCase().includes(query)).slice(0, 8);
+                const results = searchIndex.filter(item => 
+                    item.n.toLowerCase().startsWith(query) || 
+                    item.n.toLowerCase().includes(query)
+                ).slice(0, 8);
 
-            if (results.length > 0) {
-                resultsContainer.classList.remove('hidden');
-                results.forEach(item => {
-                    const div = document.createElement('a');
-                    div.href = item.s;
-                    div.className = "block px-4 py-3 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition flex justify-between items-center group";
-                    div.innerHTML = `
-                        <div>
-                            <span class="font-bold text-slate-800 block group-hover:text-emerald-700">${item.n}</span>
-                            <span class="text-xs text-slate-500 truncate block max-w-[200px]">${item.m}</span>
-                        </div>
-                        <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-100 text-slate-600 uppercase">${item.g || 'U'}</span>
-                    `;
-                    resultsContainer.appendChild(div);
-                });
-            } else {
-                resultsContainer.classList.remove('hidden');
-                resultsContainer.innerHTML = '<div class="px-4 py-3 text-slate-500 text-sm">No names found.</div>';
-            }
-        });
+                if (results.length > 0) {
+                    resultsContainer.classList.remove('hidden');
+                    results.forEach(item => {
+                        const div = document.createElement('a');
+                        // Use the pre-calculated slug from JSON to avoid 404s
+                        div.href = item.s;
+                        div.className = "block px-4 py-3 hover:bg-emerald-50 border-b border-slate-100 last:border-0 transition flex justify-between items-center group";
+                        div.innerHTML = `
+                            <div>
+                                <span class="font-bold text-slate-800 block group-hover:text-emerald-700">${item.n}</span>
+                                <span class="text-xs text-slate-500 truncate block max-w-[200px]">${item.m}</span>
+                            </div>
+                            <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-100 text-slate-600 uppercase">${item.g || 'U'}</span>
+                        `;
+                        resultsContainer.appendChild(div);
+                    });
+                } else {
+                    resultsContainer.classList.remove('hidden');
+                    resultsContainer.innerHTML = '<div class="px-4 py-3 text-slate-500 text-sm">No names found.</div>';
+                }
+            });
 
-        document.addEventListener('click', (e) => {
-            if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
-                resultsContainer.classList.add('hidden');
-            }
-        });
+            // Close search when clicking outside
+            document.addEventListener('click', (e) => {
+                if (!globalSearchInput.contains(e.target) && !resultsContainer.contains(e.target)) {
+                    resultsContainer.classList.add('hidden');
+                }
+            });
+        }
     </script>
 </body>
 </html>
