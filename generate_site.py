@@ -863,7 +863,7 @@ def generate_website():
         os.makedirs(folder_path, exist_ok=True)
         
         # --- AUDIO FILE CHECK ---
-        # Logic from generate_audio.py: name.lower().strip().replace(' ', '-').replace("'", "")
+        # Logic from generate_audio.py: name.lower().strip().replace(' ', '-')
         safe_audio_name = name.lower().strip().replace(' ', '-').replace("'", "")
         audio_filename = f"{safe_audio_name}.mp3"
         audio_file_path = os.path.join(OUTPUT_DIR, 'audio', audio_filename)
