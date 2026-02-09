@@ -942,7 +942,13 @@ def generate_website():
     # 4. Generate A-Z Collection Pages
     for char in alphabet:
         slug = f"names-{char.lower()}"
-        filtered_names = [n for n in names if n['name'].startswith(char)]
+
+        filtered_names = [
+            n for n in names
+            if n['name'].startswith(char)
+            and "'" not in n['name']
+            and "." not in n['name']
+        ]
         
         generate_collection_page(
             slug,
