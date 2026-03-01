@@ -247,11 +247,13 @@
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">Browse our collection of 12 Muslim baby names of North African origin.</p>
         </div>
 
+        
         <div class="flex flex-wrap justify-center gap-3 mb-10">
             <button onclick="applyGenderFilter('All')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500" data-filter="All">All</button>
             <button onclick="applyGenderFilter('Boy')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500" data-filter="Boy">Boys</button>
             <button onclick="applyGenderFilter('Girl')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500" data-filter="Girl">Girls</button>
         </div>
+        
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             
@@ -657,8 +659,10 @@
             if(badge) badge.innerText = getFavorites().length;
         }
         document.addEventListener('DOMContentLoaded', () => {
+            
             const savedGender = localStorage.getItem('genderPreference') || 'All';
             applyGenderFilter(savedGender);
+            
             initFavoritesUI();
         });
     </script>
