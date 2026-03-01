@@ -47,6 +47,76 @@ def load_names():
     # Sort A-Z
     return sorted(all_names, key=lambda x: x.get('name', ''))
 
+def generate_suggest_page():
+    """Generates a simple suggestion page using Formspree to email results."""
+    print("📝 Generating Suggestion Page...")
+
+    template = env.from_string("""
+    {% extends "base.html" %}
+    {% block content %}
+    <div class="max-w-2xl mx-auto py-16 px-4 min-h-screen">
+        <div class="text-center mb-10">
+            <span class="inline-block p-3 rounded-full bg-emerald-100 text-emerald-600 mb-4">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                </svg>
+            </span>
+            <h1 class="text-4xl md:text-5xl font-bold mb-4 font-heading text-slate-900">Suggest a Name</h1>
+            <p class="text-slate-600 text-lg">Help us grow the vault! If you know a beautiful Muslim name we missed, submit it below.</p>
+        </div>
+
+        <form action="https://formspree.io/f/xaqdzewg" method="POST" class="bg-white p-8 rounded-2xl shadow-xl border border-slate-100 space-y-6">
+
+            <div>
+                <label class="block text-sm font-bold text-slate-700 mb-2">Name *</label>
+                <input type="text" name="Name" required placeholder="e.g. Zayd" class="w-full px-4 py-3 rounded-lg bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none transition">
+            </div>
+
+            <div>
+                <label class="block text-sm font-bold text-slate-700 mb-2">Meaning *</label>
+                <textarea name="Meaning" required rows="3" placeholder="e.g. Abundance, Growth" class="w-full px-4 py-3 rounded-lg bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none transition"></textarea>
+            </div>
+
+            <div class="grid grid-cols-2 gap-4">
+                <div>
+                    <label class="block text-sm font-bold text-slate-700 mb-2">Gender</label>
+                    <select name="Gender" class="w-full px-4 py-3 rounded-lg bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none transition">
+                        <option value="Boy">Boy</option>
+                        <option value="Girl">Girl</option>
+                        <option value="Unisex">Unisex</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block text-sm font-bold text-slate-700 mb-2">Origin (Optional)</label>
+                    <input type="text" name="Origin" placeholder="e.g. Arabic" class="w-full px-4 py-3 rounded-lg bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none transition">
+                </div>
+            </div>
+
+            <div>
+                <label class="block text-sm font-bold text-slate-700 mb-2">Your Email (Optional)</label>
+                <input type="email" name="_replyto" placeholder="To notify you when it's added" class="w-full px-4 py-3 rounded-lg bg-slate-50 border border-slate-200 focus:ring-2 focus:ring-emerald-500 outline-none transition">
+            </div>
+
+            <input type="hidden" name="_subject" value="New Name Suggestion for MuslimNameVault!">
+            <input type="hidden" name="_next" value="https://muslimnamevault.com/">
+
+            <button type="submit" class="w-full py-4 bg-emerald-600 text-white font-bold rounded-xl hover:bg-emerald-700 transition shadow-lg flex justify-center items-center gap-2">
+                Send Suggestion
+            </button>
+        </form>
+    </div>
+    {% endblock %}
+    """)
+
+    folder_path = os.path.join(OUTPUT_DIR, 'suggest')
+    os.makedirs(folder_path, exist_ok=True)
+    with open(os.path.join(folder_path, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(template.render(
+            title="Suggest a Name | MuslimNameVault",
+            description="Submit a new Muslim baby name to our database.",
+            url=f"{SITE_URL}/suggest/"
+        ))
+    print("✅ Generated Suggestion Page")
 
 def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False, show_gender_filter=True):
     """ 
@@ -1065,6 +1135,8 @@ def generate_website():
             url=f"{SITE_URL}/finder/"
         ))
     print("✅ Generated Finder Page")
+
+    generate_suggest_page()
 
     # 8. Save Search Index
     with open(os.path.join(OUTPUT_DIR, 'search_index.json'), 'w', encoding='utf-8') as f:
