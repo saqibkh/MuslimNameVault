@@ -868,10 +868,28 @@ def generate_website():
                     </div>
                 </div>
 
+                {% if name.spellings %}
+                <div class="mb-10 animate-fade-in-up">
+                    <h3 class="text-sm font-bold text-slate-800 mb-4 flex items-center gap-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" /></svg>
+                        Global Spellings
+                    </h3>
+                    <div class="flex flex-wrap gap-3">
+                        {% for lang, script in name.spellings.items() %}
+                        <div class="bg-white px-4 py-3 rounded-xl border border-slate-200 shadow-sm flex items-center gap-3 hover:border-emerald-300 transition">
+                            <span class="text-[10px] font-extrabold text-slate-400 uppercase tracking-wider">{{ lang }}</span>
+                            <span class="text-2xl font-medium text-slate-800 {% if lang in ['Arabic', 'Urdu', 'Persian', 'Pashto'] %}arabic-text{% endif %}">
+                                {{ script }}
+                            </span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
                 <div class="prose prose-lg text-slate-600 max-w-none mb-12">
                     {{ generated_content|safe }}
                 </div>
-                
+
                 <div class="flex justify-between items-center py-6 border-t border-slate-100">
                     {% if prev_name %}
                     <a href="/name-{{ prev_name.name|lower|replace(' ', '-') }}/" class="group flex items-center text-slate-600 hover:text-emerald-600 transition">
@@ -926,7 +944,7 @@ def generate_website():
     {{ schema_markup|safe }}
     {% endblock %}
     """
-    
+   
     detail_template = env.from_string(detail_template_str)
 
     for i, name_entry in enumerate(names):
@@ -935,6 +953,21 @@ def generate_website():
         meaning = name_entry.get('meaning', 'Unknown meaning')
         gender = name_entry.get('gender', 'Unisex')
         origin = name_entry.get('origin', 'Islamic')
+        
+        # --- NEW CODE: Remove redundant Latin spellings ---
+        if 'spellings' in name_entry:
+            cleaned_spellings = {}
+            for lang, script in name_entry['spellings'].items():
+                # Compare case-insensitively. Only keep it if it's actually different.
+                if script.strip().lower() != name.strip().lower():
+                    cleaned_spellings[lang] = script
+            
+            # If valid spellings remain, update it. Otherwise, remove the key entirely.
+            if cleaned_spellings:
+                name_entry['spellings'] = cleaned_spellings
+            else:
+                del name_entry['spellings']
+        # --------------------------------------------------
         
         # Create Slug for Page
         slug = f"name-{name.strip().lower().replace(' ', '-')}"
