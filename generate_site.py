@@ -974,7 +974,30 @@ def generate_website():
     generate_collection_page("names-prophets", "Names of Prophets", "Honorable names of the Prophets (AS) mentioned in Islam.", prophet_names, names)
     generate_collection_page("names-sahaba", "Names of Sahaba & Sahabiyat", "Names of the noble Companions of Prophet Muhammad (SAW).", sahaba_names, names)
     generate_collection_page("names-quranic", "Direct Quranic Names", "Names directly mentioned in the Holy Quran.", quranic_direct, names)
-    
+   
+    # --- ADD DEDICATED GENDER PAGES HERE ---
+    boy_names = [n for n in names if n.get('gender', '').lower() in ['boy', 'unisex']]
+    girl_names = [n for n in names if n.get('gender', '').lower() in ['girl', 'unisex']]
+
+    generate_collection_page(
+        "muslim-boy-names", 
+        "Muslim Boy Names", 
+        "A comprehensive collection of beautiful, strong, and meaningful Islamic names for boys.", 
+        boy_names, 
+        names, 
+        is_letter_page=True 
+    )
+
+    generate_collection_page(
+        "muslim-girl-names", 
+        "Muslim Girl Names", 
+        "Explore our curated list of elegant, meaningful, and beautiful Islamic names for girls.", 
+        girl_names, 
+        names, 
+        is_letter_page=True 
+    )
+    # ---------------------------------------
+
     # 6a. Generate Thematic Pages
     generate_theme_collections(names)
 
