@@ -48,7 +48,7 @@ def load_names():
     return sorted(all_names, key=lambda x: x.get('name', ''))
 
 
-def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False):
+def generate_collection_page(folder_name, title, description, name_list, all_names, is_letter_page=False, show_gender_filter=True):
     """ 
     Generates a collection page with Gender Filtering, Favorites, AND Badges.
     """
@@ -90,11 +90,13 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             <p class="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">{{ description }}</p>
         </div>
 
+        {% if show_gender_filter %}
         <div class="flex flex-wrap justify-center gap-3 mb-10">
             <button onclick="applyGenderFilter('All')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-emerald-500" data-filter="All">All</button>
             <button onclick="applyGenderFilter('Boy')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-blue-500" data-filter="Boy">Boys</button>
             <button onclick="applyGenderFilter('Girl')" class="filter-btn px-6 py-2 rounded-full font-bold transition-all border-2 border-slate-200 text-slate-500 hover:border-pink-500" data-filter="Girl">Girls</button>
         </div>
+        {% endif %}
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="namesGrid">
             {% for n in names %}
@@ -204,8 +206,10 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             if(badge) badge.innerText = getFavorites().length;
         }
         document.addEventListener('DOMContentLoaded', () => {
+            {% if show_gender_filter %}
             const savedGender = localStorage.getItem('genderPreference') || 'All';
             applyGenderFilter(savedGender);
+            {% endif %}
             initFavoritesUI();
         });
     </script>
@@ -219,7 +223,8 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
             names=filtered_names,
             url=f"{SITE_URL}/{folder_name}/",
             trending=trending_set,  # PASSING DATA
-            quranic=quranic_set     # PASSING DATA
+            quranic=quranic_set,     # PASSING DATA
+            show_gender_filter=show_gender_filter
         ))
 
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
@@ -985,7 +990,8 @@ def generate_website():
         "A comprehensive collection of beautiful, strong, and meaningful Islamic names for boys.", 
         boy_names, 
         names, 
-        is_letter_page=True 
+        is_letter_page=True,
+        show_gender_filter=False
     )
 
     generate_collection_page(
@@ -994,7 +1000,8 @@ def generate_website():
         "Explore our curated list of elegant, meaningful, and beautiful Islamic names for girls.", 
         girl_names, 
         names, 
-        is_letter_page=True 
+        is_letter_page=True,
+        show_gender_filter=False
     )
     # ---------------------------------------
 
