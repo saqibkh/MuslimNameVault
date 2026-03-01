@@ -1,937 +1,1927 @@
 [
-  {
-    "id": "pa1_var",
-    "name": "Padeedah",
-    "gender": "Girl",
-    "meaning": "Phenomenon",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Padidah"
-  },
-  {
-    "id": "pa1",
-    "name": "Padidah",
-    "gender": "Girl",
-    "meaning": "Phenomenon",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa3_var",
-    "name": "Paeegham",
-    "gender": "Boy",
-    "meaning": "Message",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Paigham"
-  },
-  {
-    "id": "pa4_var",
-    "name": "Paeeman",
-    "gender": "Boy",
-    "meaning": "Promise, covenant",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Paiman"
-  },
-  {
-    "id": "pa2",
-    "name": "Pahana",
-    "gender": "Girl",
-    "meaning": "Precious stone",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa2_var",
-    "name": "Pahanah",
-    "gender": "Girl",
-    "meaning": "Precious stone",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pahana"
-  },
-  {
-    "id": "pa3",
-    "name": "Paigham",
-    "gender": "Boy",
-    "meaning": "Message",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa4",
-    "name": "Paiman",
-    "gender": "Boy",
-    "meaning": "Promise, covenant",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Pakeestan",
-    "gender": "Boy",
-    "meaning": "Land of the Pure",
-    "origin": "Urdu",
-    "id": "pa23_var",
-    "verified": true,
-    "variant_of": "Pakistan"
-  },
-  {
-    "id": "pa5_var",
-    "name": "Pakeeza",
-    "gender": "Girl",
-    "meaning": "Pure, chaste",
-    "origin": "Persian/Urdu",
-    "verified": true,
-    "variant_of": "Pakiza"
-  },
-  {
-    "name": "Pakeezah",
-    "gender": "Girl",
-    "meaning": "Pure",
-    "origin": "Persian",
-    "id": "pa28",
-    "verified": true
-  },
-  {
-    "name": "Pakistan",
-    "gender": "Boy",
-    "meaning": "Land of the Pure",
-    "origin": "Urdu",
-    "id": "pa23",
-    "verified": true
-  },
-  {
-    "id": "pa5",
-    "name": "Pakiza",
-    "gender": "Girl",
-    "meaning": "Pure, chaste",
-    "origin": "Persian/Urdu",
-    "verified": true
-  },
-  {
-    "id": "pa5_var",
-    "name": "Pakizah",
-    "gender": "Girl",
-    "meaning": "Pure, chaste",
-    "origin": "Persian/Urdu",
-    "verified": true,
-    "variant_of": "Pakiza"
-  },
-  {
-    "name": "Palesteene",
-    "gender": "Girl",
-    "meaning": "Falastin",
-    "origin": "Arabic",
-    "id": "pa24_var",
-    "verified": true,
-    "variant_of": "Palestine"
-  },
-  {
-    "name": "Palestine",
-    "gender": "Girl",
-    "meaning": "Falastin",
-    "origin": "Arabic",
-    "id": "pa24",
-    "verified": true
-  },
-  {
-    "name": "Palmyra",
-    "gender": "Girl",
-    "meaning": "Tadmor (City of Dates)",
-    "origin": "Arabic",
-    "id": "pa25",
-    "verified": true
-  },
-  {
-    "name": "Palmyrah",
-    "gender": "Girl",
-    "meaning": "Tadmor (City of Dates)",
-    "origin": "Arabic",
-    "id": "pa25_var",
-    "verified": true,
-    "variant_of": "Palmyra"
-  },
-  {
-    "id": "pa6",
-    "name": "Palwasha",
-    "gender": "Girl",
-    "meaning": "Light ray of moon",
-    "origin": "Pashto",
-    "verified": true
-  },
-  {
-    "id": "pa6_var",
-    "name": "Palwashah",
-    "gender": "Girl",
-    "meaning": "Light ray of moon",
-    "origin": "Pashto",
-    "verified": true,
-    "variant_of": "Palwasha"
-  },
-  {
-    "name": "Pameer",
-    "gender": "Boy",
-    "meaning": "Roof of the World (Mountains)",
-    "origin": "Persian",
-    "id": "pa26_var",
-    "verified": true,
-    "variant_of": "Pamir"
-  },
-  {
-    "name": "Pamir",
-    "gender": "Boy",
-    "meaning": "Roof of the World (Mountains)",
-    "origin": "Persian",
-    "id": "pa26",
-    "verified": true
-  },
-  {
-    "name": "Panjsheer",
-    "gender": "Boy",
-    "meaning": "Five Lions (Afghanistan)",
-    "origin": "Persian",
-    "id": "pa27_var",
-    "verified": true,
-    "variant_of": "Panjshir"
-  },
-  {
-    "name": "Panjshir",
-    "gender": "Boy",
-    "meaning": "Five Lions (Afghanistan)",
-    "origin": "Persian",
-    "id": "pa27",
-    "verified": true
-  },
-  {
-    "id": "pa7",
-    "name": "Panra",
-    "gender": "Girl",
-    "meaning": "Leaf",
-    "origin": "Pashto",
-    "verified": true
-  },
-  {
-    "id": "pa7_var",
-    "name": "Panrah",
-    "gender": "Girl",
-    "meaning": "Leaf",
-    "origin": "Pashto",
-    "verified": true,
-    "variant_of": "Panra"
-  },
-  {
-    "name": "Panya",
-    "gender": "Unisex",
-    "meaning": "Mouse",
-    "origin": "Swahili",
-    "id": "pa5",
-    "verified": true
-  },
-  {
-    "name": "Panyah",
-    "gender": "Unisex",
-    "meaning": "Mouse",
-    "origin": "Swahili",
-    "id": "pa5_var",
-    "verified": true,
-    "variant_of": "Panya"
-  },
-  {
-    "id": "pa8",
-    "name": "Parastoo",
-    "gender": "Girl",
-    "meaning": "Swallow (bird)",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa8_var",
-    "name": "Parastu",
-    "gender": "Girl",
-    "meaning": "Swallow (bird)",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parastoo"
-  },
-  {
-    "name": "Pardees",
-    "gender": "Girl",
-    "meaning": "Paradise",
-    "origin": "Persian",
-    "id": "pa2_var",
-    "verified": true,
-    "variant_of": "Pardis"
-  },
-  {
-    "name": "Pardis",
-    "gender": "Girl",
-    "meaning": "Paradise",
-    "origin": "Persian",
-    "id": "pa2",
-    "verified": true
-  },
-  {
-    "id": "pa11_var",
-    "name": "Paree",
-    "gender": "Girl",
-    "meaning": "Fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pari"
-  },
-  {
-    "id": "pa9_var",
-    "name": "Pareerooo",
-    "gender": "Girl",
-    "meaning": "Face like a fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pareerou"
-  },
-  {
-    "id": "pa9",
-    "name": "Pareerou",
-    "gender": "Girl",
-    "meaning": "Face like a fairy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Parees",
-    "gender": "Girl",
-    "meaning": "Fairy-like (Parisa)",
-    "origin": "Persian",
-    "id": "pa21_var",
-    "verified": true,
-    "variant_of": "Paris"
-  },
-  {
-    "id": "pa12_var",
-    "name": "Pareesa",
-    "gender": "Girl",
-    "meaning": "Like a fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parisa"
-  },
-  {
-    "id": "pa13_var",
-    "name": "Pareeshad",
-    "gender": "Girl",
-    "meaning": "Happy fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parishad"
-  },
-  {
-    "id": "pa14_var",
-    "name": "Pareezad",
-    "gender": "Unisex",
-    "meaning": "Born of a fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parizad"
-  },
-  {
-    "id": "pa10",
-    "name": "Parham",
-    "gender": "Boy",
-    "meaning": "Abraham (Persian variant)",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa11",
-    "name": "Pari",
-    "gender": "Girl",
-    "meaning": "Fairy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa9_var",
-    "name": "Parirou",
-    "gender": "Girl",
-    "meaning": "Face like a fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pareerou"
-  },
-  {
-    "name": "Paris",
-    "gender": "Girl",
-    "meaning": "Fairy-like (Parisa)",
-    "origin": "Persian",
-    "id": "pa21",
-    "verified": true
-  },
-  {
-    "id": "pa12",
-    "name": "Parisa",
-    "gender": "Girl",
-    "meaning": "Like a fairy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa12_var",
-    "name": "Parisah",
-    "gender": "Girl",
-    "meaning": "Like a fairy",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parisa"
-  },
-  {
-    "id": "pa13",
-    "name": "Parishad",
-    "gender": "Girl",
-    "meaning": "Happy fairy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa14",
-    "name": "Parizad",
-    "gender": "Unisex",
-    "meaning": "Born of a fairy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa15",
-    "name": "Parsa",
-    "gender": "Unisex",
-    "meaning": "Pious, devout",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa15_var",
-    "name": "Parsah",
-    "gender": "Unisex",
-    "meaning": "Pious, devout",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parsa"
-  },
-  {
-    "id": "pa16_var",
-    "name": "Parvaeez",
-    "gender": "Boy",
-    "meaning": "Fortunate, victorious",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Parvaiz"
-  },
-  {
-    "id": "pa16",
-    "name": "Parvaiz",
-    "gender": "Boy",
-    "meaning": "Fortunate, victorious",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pa17",
-    "name": "Parveen",
-    "gender": "Girl",
-    "meaning": "The Pleiades (Cluster of stars)",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Parveez",
-    "gender": "Boy",
-    "meaning": "Fortunate; Victorious",
-    "origin": "Persian",
-    "id": "pa22_var",
-    "verified": true,
-    "variant_of": "Parviz"
-  },
-  {
-    "id": "pa18",
-    "name": "Parvin",
-    "gender": "Girl",
-    "meaning": "The Pleiades",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Parviz",
-    "gender": "Boy",
-    "meaning": "Fortunate; Victorious",
-    "origin": "Persian",
-    "id": "pa22",
-    "verified": true
-  },
-  {
-    "id": "pa19",
-    "name": "Pasha",
-    "gender": "Boy",
-    "meaning": "Lord, king, high rank",
-    "origin": "Turkish",
-    "verified": true
-  },
-  {
-    "id": "pa19_var",
-    "name": "Pashah",
-    "gender": "Boy",
-    "meaning": "Lord, king, high rank",
-    "origin": "Turkish",
-    "verified": true,
-    "variant_of": "Pasha"
-  },
-  {
-    "id": "pa20",
-    "name": "Payam",
-    "gender": "Boy",
-    "meaning": "Message",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pe1",
-    "name": "Pedram",
-    "gender": "Boy",
-    "meaning": "Successful, happy",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Peenar",
-    "gender": "Girl",
-    "meaning": "Spring, fountain",
-    "origin": "Turkish",
-    "id": "pi4_var",
-    "verified": true,
-    "variant_of": "Pinar"
-  },
-  {
-    "id": "pi1_var",
-    "name": "Peer",
-    "gender": "Boy",
-    "meaning": "Elder, Saint, Spiritual Guide",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pir"
-  },
-  {
-    "id": "pi2_var",
-    "name": "Peerouz",
-    "gender": "Boy",
-    "meaning": "Victorious",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pirouz"
-  },
-  {
-    "id": "pi3_var",
-    "name": "Peerzada",
-    "gender": "Boy",
-    "meaning": "Son of a Saint",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pirzada"
-  },
-  {
-    "id": "pe2",
-    "name": "Pehla",
-    "gender": "Girl",
-    "meaning": "The first born",
-    "origin": "Urdu",
-    "verified": true
-  },
-  {
-    "id": "pe2_var",
-    "name": "Pehlah",
-    "gender": "Girl",
-    "meaning": "The first born",
-    "origin": "Urdu",
-    "verified": true,
-    "variant_of": "Pehla"
-  },
-  {
-    "id": "pe3_var",
-    "name": "Peleen",
-    "gender": "Girl",
-    "meaning": "Wormwood plant",
-    "origin": "Turkish",
-    "verified": true,
-    "variant_of": "Pelin"
-  },
-  {
-    "id": "pe3",
-    "name": "Pelin",
-    "gender": "Girl",
-    "meaning": "Wormwood plant",
-    "origin": "Turkish",
-    "verified": true
-  },
-  {
-    "id": "pe5_var",
-    "name": "Pervaeez",
-    "gender": "Boy",
-    "meaning": "Breeze, victorious",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pervaiz"
-  },
-  {
-    "id": "pe5",
-    "name": "Pervaiz",
-    "gender": "Boy",
-    "meaning": "Breeze, victorious",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pe6",
-    "name": "Perveen",
-    "gender": "Girl",
-    "meaning": "Cluster of stars",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pe6_var",
-    "name": "Pervin",
-    "gender": "Girl",
-    "meaning": "Cluster of stars",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Perveen"
-  },
-  {
-    "id": "pe4_var",
-    "name": "Perwaeez",
-    "gender": "Boy",
-    "meaning": "Victorious (Variant of Parvaiz)",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Perwaiz"
-  },
-  {
-    "id": "pe4",
-    "name": "Perwaiz",
-    "gender": "Boy",
-    "meaning": "Victorious (Variant of Parvaiz)",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pe7",
-    "name": "Pesang",
-    "gender": "Boy",
-    "meaning": "Leader, forward",
-    "origin": "Kurdish",
-    "verified": true
-  },
-  {
-    "name": "Peshawar",
-    "gender": "Boy",
-    "meaning": "City at the Frontier",
-    "origin": "Pashto/Urdu",
-    "id": "pe8",
-    "verified": true
-  },
-  {
-    "name": "Petra",
-    "gender": "Girl",
-    "meaning": "Rock City (Jordan)",
-    "origin": "Greek/Arabic",
-    "id": "pe9",
-    "verified": true
-  },
-  {
-    "name": "Petrah",
-    "gender": "Girl",
-    "meaning": "Rock City (Jordan)",
-    "origin": "Greek/Arabic",
-    "id": "pe9_var",
-    "verified": true,
-    "variant_of": "Petra"
-  },
-  {
-    "id": "ph1",
-    "name": "Phool",
-    "gender": "Unisex",
-    "meaning": "Flower",
-    "origin": "Urdu",
-    "verified": true
-  },
-  {
-    "id": "ph1_var",
-    "name": "Phul",
-    "gender": "Unisex",
-    "meaning": "Flower",
-    "origin": "Urdu",
-    "verified": true,
-    "variant_of": "Phool"
-  },
-  {
-    "name": "Pinar",
-    "gender": "Girl",
-    "meaning": "Spring, fountain",
-    "origin": "Turkish",
-    "id": "pi4",
-    "verified": true
-  },
-  {
-    "id": "pi1",
-    "name": "Pir",
-    "gender": "Boy",
-    "meaning": "Elder, Saint, Spiritual Guide",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pi2_var",
-    "name": "Piroooz",
-    "gender": "Boy",
-    "meaning": "Victorious",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pirouz"
-  },
-  {
-    "id": "pi2",
-    "name": "Pirouz",
-    "gender": "Boy",
-    "meaning": "Victorious",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pi3",
-    "name": "Pirzada",
-    "gender": "Boy",
-    "meaning": "Son of a Saint",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pi3_var",
-    "name": "Pirzadah",
-    "gender": "Boy",
-    "meaning": "Son of a Saint",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pirzada"
-  },
-  {
-    "id": "po1",
-    "name": "Polat",
-    "gender": "Boy",
-    "meaning": "Steel",
-    "origin": "Turkish",
-    "verified": true
-  },
-  {
-    "id": "pu1_var",
-    "name": "Poojman",
-    "gender": "Boy",
-    "meaning": "Desire, wish",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pujman"
-  },
-  {
-    "id": "pu2_var",
-    "name": "Pooneh",
-    "gender": "Girl",
-    "meaning": "Pennyroyal (Flower)",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Puneh"
-  },
-  {
-    "name": "Poonjab",
-    "gender": "Boy",
-    "meaning": "Five Waters (Land)",
-    "origin": "Urdu/Persian",
-    "id": "pu4_var",
-    "verified": true,
-    "variant_of": "Punjab"
-  },
-  {
-    "id": "po4_var",
-    "name": "Poooran",
-    "gender": "Girl",
-    "meaning": "Successor",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pouran"
-  },
-  {
-    "id": "po3_var",
-    "name": "Poooya",
-    "gender": "Boy",
-    "meaning": "Searcher, dynamic",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pouya"
-  },
-  {
-    "id": "pu3_var",
-    "name": "Pooran",
-    "gender": "Girl",
-    "meaning": "Successor",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Puran"
-  },
-  {
-    "name": "Poornama",
-    "gender": "Unisex",
-    "meaning": "Full moon",
-    "origin": "Indonesian",
-    "id": "pu1_var",
-    "verified": true,
-    "variant_of": "Purnama"
-  },
-  {
-    "name": "Pootra",
-    "gender": "Boy",
-    "meaning": "Son",
-    "origin": "Indonesian",
-    "id": "pu2_var",
-    "verified": true,
-    "variant_of": "Putra"
-  },
-  {
-    "name": "Pootri",
-    "gender": "Girl",
-    "meaning": "Daughter",
-    "origin": "Indonesian",
-    "id": "pu3_var",
-    "verified": true,
-    "variant_of": "Putri"
-  },
-  {
-    "id": "po2_var",
-    "name": "Porgool",
-    "gender": "Girl",
-    "meaning": "Full of flowers",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Porgul"
-  },
-  {
-    "id": "po2",
-    "name": "Porgul",
-    "gender": "Girl",
-    "meaning": "Full of flowers",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "po4",
-    "name": "Pouran",
-    "gender": "Girl",
-    "meaning": "Successor",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "po3",
-    "name": "Pouya",
-    "gender": "Boy",
-    "meaning": "Searcher, dynamic",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "po3_var",
-    "name": "Pouyah",
-    "gender": "Boy",
-    "meaning": "Searcher, dynamic",
-    "origin": "Persian",
-    "verified": true,
-    "variant_of": "Pouya"
-  },
-  {
-    "id": "pu1",
-    "name": "Pujman",
-    "gender": "Boy",
-    "meaning": "Desire, wish",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "id": "pu2",
-    "name": "Puneh",
-    "gender": "Girl",
-    "meaning": "Pennyroyal (Flower)",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Punjab",
-    "gender": "Boy",
-    "meaning": "Five Waters (Land)",
-    "origin": "Urdu/Persian",
-    "id": "pu4",
-    "verified": true
-  },
-  {
-    "id": "pu3",
-    "name": "Puran",
-    "gender": "Girl",
-    "meaning": "Successor",
-    "origin": "Persian",
-    "verified": true
-  },
-  {
-    "name": "Purnama",
-    "gender": "Unisex",
-    "meaning": "Full moon",
-    "origin": "Indonesian",
-    "id": "pu1",
-    "verified": true
-  },
-  {
-    "name": "Purnamah",
-    "gender": "Unisex",
-    "meaning": "Full moon",
-    "origin": "Indonesian",
-    "id": "pu1_var",
-    "verified": true,
-    "variant_of": "Purnama"
-  },
-  {
-    "name": "Putra",
-    "gender": "Boy",
-    "meaning": "Son",
-    "origin": "Indonesian",
-    "id": "pu2",
-    "verified": true
-  },
-  {
-    "name": "Putrah",
-    "gender": "Boy",
-    "meaning": "Son",
-    "origin": "Indonesian",
-    "id": "pu2_var",
-    "verified": true,
-    "variant_of": "Putra"
-  },
-  {
-    "name": "Putree",
-    "gender": "Girl",
-    "meaning": "Daughter",
-    "origin": "Indonesian",
-    "id": "pu3_var",
-    "verified": true,
-    "variant_of": "Putri"
-  },
-  {
-    "name": "Putri",
-    "gender": "Girl",
-    "meaning": "Daughter",
-    "origin": "Indonesian",
-    "id": "pu3",
-    "verified": true
-  }
+    {
+        "id": "pa1_var",
+        "name": "Padeedah",
+        "gender": "Girl",
+        "meaning": "Phenomenon",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Padidah",
+        "spellings": {
+            "Arabic": "بديده",
+            "Urdu": "پدیدہ",
+            "Persian": "پدیده",
+            "Turkish": "Padiedah",
+            "Bengali": "পড়েদাঃ",
+            "Indonesian": "Padeedah",
+            "Pashto": "پادشاه"
+        }
+    },
+    {
+        "id": "pa1",
+        "name": "Padidah",
+        "gender": "Girl",
+        "meaning": "Phenomenon",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بادية",
+            "Urdu": "پدیدہ",
+            "Persian": "پدیده",
+            "Turkish": "Padida",
+            "Bengali": "পাদিদাঃ",
+            "Indonesian": "Padida",
+            "Pashto": "پادشاه"
+        }
+    },
+    {
+        "id": "pa3_var",
+        "name": "Paeegham",
+        "gender": "Boy",
+        "meaning": "Message",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Paigham",
+        "spellings": {
+            "Arabic": "بيجهام",
+            "Urdu": "پائیگھم",
+            "Persian": "پیغام",
+            "Turkish": "Paeegham",
+            "Bengali": "পাইঘাম",
+            "Indonesian": "Paeegham",
+            "Pashto": "پایګام"
+        }
+    },
+    {
+        "id": "pa4_var",
+        "name": "Paeeman",
+        "gender": "Boy",
+        "meaning": "Promise, covenant",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Paiman",
+        "spellings": {
+            "Arabic": "بايمان",
+            "Urdu": "پیمان",
+            "Persian": "پیمن",
+            "Turkish": "Paeeman",
+            "Bengali": "পাইমান",
+            "Indonesian": "Paeeman",
+            "Pashto": "پیمان"
+        }
+    },
+    {
+        "id": "pa2",
+        "name": "Pahana",
+        "gender": "Girl",
+        "meaning": "Precious stone",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باهانا",
+            "Urdu": "پاہنا",
+            "Persian": "پاهانا",
+            "Turkish": "Pahana",
+            "Bengali": "পাহানা",
+            "Indonesian": "Pahana",
+            "Pashto": "پاهانه"
+        }
+    },
+    {
+        "id": "pa2_var",
+        "name": "Pahanah",
+        "gender": "Girl",
+        "meaning": "Precious stone",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pahana",
+        "spellings": {
+            "Arabic": "باهانا",
+            "Urdu": "پاہنہ",
+            "Persian": "پاهانا",
+            "Turkish": "Pahanah",
+            "Bengali": "পাহানঃ",
+            "Indonesian": "Pahanah",
+            "Pashto": "پاهانه"
+        }
+    },
+    {
+        "id": "pa3",
+        "name": "Paigham",
+        "gender": "Boy",
+        "meaning": "Message",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيجام",
+            "Urdu": "پائیگھم",
+            "Persian": "پیغم",
+            "Turkish": "Paigham",
+            "Bengali": "পাইঘাম",
+            "Indonesian": "Paiham",
+            "Pashto": "پایګام"
+        }
+    },
+    {
+        "id": "pa4",
+        "name": "Paiman",
+        "gender": "Boy",
+        "meaning": "Promise, covenant",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيمان",
+            "Urdu": "پیمان",
+            "Persian": "پیمن",
+            "Turkish": "Paiman",
+            "Bengali": "পাইমান",
+            "Indonesian": "Paiman",
+            "Pashto": "پیمان"
+        }
+    },
+    {
+        "name": "Pakeestan",
+        "gender": "Boy",
+        "meaning": "Land of the Pure",
+        "origin": "Urdu",
+        "id": "pa23_var",
+        "verified": true,
+        "variant_of": "Pakistan",
+        "spellings": {
+            "Arabic": "باكستان",
+            "Urdu": "پاکستان",
+            "Persian": "پاکستان",
+            "Turkish": "Pakistan",
+            "Bengali": "পাকিস্তান",
+            "Indonesian": "Pakistan",
+            "Pashto": "پاکستان"
+        }
+    },
+    {
+        "id": "pa5_var",
+        "name": "Pakeeza",
+        "gender": "Girl",
+        "meaning": "Pure, chaste",
+        "origin": "Persian/Urdu",
+        "verified": true,
+        "variant_of": "Pakiza",
+        "spellings": {
+            "Arabic": "باكيزا",
+            "Urdu": "پاکیزہ",
+            "Persian": "پاکیزا",
+            "Turkish": "Pakeeza",
+            "Bengali": "পাকিজা",
+            "Indonesian": "Pakeeza",
+            "Pashto": "پاکیزا"
+        }
+    },
+    {
+        "name": "Pakeezah",
+        "gender": "Girl",
+        "meaning": "Pure",
+        "origin": "Persian",
+        "id": "pa28",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باكيزا",
+            "Urdu": "پاکیزہ",
+            "Persian": "پاکیزه",
+            "Turkish": "Pakeezah",
+            "Bengali": "পাকিজাঃ",
+            "Indonesian": "Pakeezah",
+            "Pashto": "پاکیزه"
+        }
+    },
+    {
+        "name": "Pakistan",
+        "gender": "Boy",
+        "meaning": "Land of the Pure",
+        "origin": "Urdu",
+        "id": "pa23",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باكستان",
+            "Urdu": "پاکستان",
+            "Persian": "پاکستان",
+            "Turkish": "Pakistan",
+            "Bengali": "পাকিস্তান",
+            "Indonesian": "Pakistan",
+            "Pashto": "پاکیستان"
+        }
+    },
+    {
+        "id": "pa5",
+        "name": "Pakiza",
+        "gender": "Girl",
+        "meaning": "Pure, chaste",
+        "origin": "Persian/Urdu",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باكيزا",
+            "Urdu": "پاکیزہ",
+            "Persian": "پاکیزا",
+            "Turkish": "Pakiza",
+            "Bengali": "পাকিজা",
+            "Indonesian": "Pakiza",
+            "Pashto": "پاکیزه"
+        }
+    },
+    {
+        "id": "pa5_var",
+        "name": "Pakizah",
+        "gender": "Girl",
+        "meaning": "Pure, chaste",
+        "origin": "Persian/Urdu",
+        "verified": true,
+        "variant_of": "Pakiza",
+        "spellings": {
+            "Arabic": "باكيزا",
+            "Urdu": "پاکیزہ",
+            "Persian": "پاکیزه",
+            "Turkish": "Pakistan",
+            "Bengali": "পাকিজাঃ",
+            "Indonesian": "Pakizah",
+            "Pashto": "پاکیزه"
+        }
+    },
+    {
+        "name": "Palesteene",
+        "gender": "Girl",
+        "meaning": "Falastin",
+        "origin": "Arabic",
+        "id": "pa24_var",
+        "verified": true,
+        "variant_of": "Palestine",
+        "spellings": {
+            "Arabic": "فلسطين",
+            "Urdu": "فلسطینی",
+            "Persian": "فلسطین",
+            "Turkish": "Filistin",
+            "Bengali": "প্যালেস্টিন",
+            "Indonesian": "Palestina",
+            "Pashto": "فلسطین"
+        }
+    },
+    {
+        "name": "Palestine",
+        "gender": "Girl",
+        "meaning": "Falastin",
+        "origin": "Arabic",
+        "id": "pa24",
+        "verified": true,
+        "spellings": {
+            "Arabic": "فلسطين",
+            "Urdu": "فلسطین",
+            "Persian": "فلسطین",
+            "Turkish": "Filistin",
+            "Bengali": "প্যালেস্টাইন",
+            "Indonesian": "Palestina",
+            "Pashto": "فلسطین"
+        }
+    },
+    {
+        "name": "Palmyra",
+        "gender": "Girl",
+        "meaning": "Tadmor (City of Dates)",
+        "origin": "Arabic",
+        "id": "pa25",
+        "verified": true,
+        "spellings": {
+            "Arabic": "تدمر",
+            "Urdu": "پالمیرا",
+            "Persian": "پالمیرا",
+            "Turkish": "Palmira",
+            "Bengali": "পালমাইরা",
+            "Indonesian": "Palmira",
+            "Pashto": "پالمیرا"
+        }
+    },
+    {
+        "name": "Palmyrah",
+        "gender": "Girl",
+        "meaning": "Tadmor (City of Dates)",
+        "origin": "Arabic",
+        "id": "pa25_var",
+        "verified": true,
+        "variant_of": "Palmyra",
+        "spellings": {
+            "Arabic": "تدمر",
+            "Urdu": "پالمیرہ",
+            "Persian": "پالمیرا",
+            "Turkish": "Palmira",
+            "Bengali": "পালমিরাহ",
+            "Indonesian": "Palmira",
+            "Pashto": "پالمیره"
+        }
+    },
+    {
+        "id": "pa6",
+        "name": "Palwasha",
+        "gender": "Girl",
+        "meaning": "Light ray of moon",
+        "origin": "Pashto",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بالواشا",
+            "Urdu": "پلوشہ",
+            "Persian": "پالواشا",
+            "Turkish": "Palvaşa",
+            "Bengali": "পালওয়াশা",
+            "Indonesian": "Palwasha",
+            "Pashto": "پلوشه"
+        }
+    },
+    {
+        "id": "pa6_var",
+        "name": "Palwashah",
+        "gender": "Girl",
+        "meaning": "Light ray of moon",
+        "origin": "Pashto",
+        "verified": true,
+        "variant_of": "Palwasha",
+        "spellings": {
+            "Arabic": "بالواشة",
+            "Urdu": "پلوشہ",
+            "Persian": "پالواشاه",
+            "Turkish": "Palvaşa",
+            "Bengali": "পালওয়াশাহ",
+            "Indonesian": "Palwashah",
+            "Pashto": "پلوشه"
+        }
+    },
+    {
+        "name": "Pameer",
+        "gender": "Boy",
+        "meaning": "Roof of the World (Mountains)",
+        "origin": "Persian",
+        "id": "pa26_var",
+        "verified": true,
+        "variant_of": "Pamir",
+        "spellings": {
+            "Arabic": "بامير",
+            "Urdu": "پامیر",
+            "Persian": "پامیر",
+            "Turkish": "Pameer",
+            "Bengali": "পামির",
+            "Indonesian": "Pameer",
+            "Pashto": "پامیر"
+        }
+    },
+    {
+        "name": "Pamir",
+        "gender": "Boy",
+        "meaning": "Roof of the World (Mountains)",
+        "origin": "Persian",
+        "id": "pa26",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بامير",
+            "Urdu": "پامیر",
+            "Persian": "پامیر",
+            "Turkish": "Pamir",
+            "Bengali": "পামির",
+            "Indonesian": "Pamir",
+            "Pashto": "پامیر"
+        }
+    },
+    {
+        "name": "Panjsheer",
+        "gender": "Boy",
+        "meaning": "Five Lions (Afghanistan)",
+        "origin": "Persian",
+        "id": "pa27_var",
+        "verified": true,
+        "variant_of": "Panjshir",
+        "spellings": {
+            "Arabic": "بانجشير",
+            "Urdu": "پنجشیر",
+            "Persian": "پنجشیر",
+            "Turkish": "Panjşeer",
+            "Bengali": "পাঞ্জশির",
+            "Indonesian": "Panjsheer",
+            "Pashto": "پنجشیر"
+        }
+    },
+    {
+        "name": "Panjshir",
+        "gender": "Boy",
+        "meaning": "Five Lions (Afghanistan)",
+        "origin": "Persian",
+        "id": "pa27",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بنجشير",
+            "Urdu": "پنجشیر",
+            "Persian": "پنجشیر",
+            "Turkish": "Penşir",
+            "Bengali": "পাঞ্জশির",
+            "Indonesian": "Panjshir",
+            "Pashto": "پنجشیر"
+        }
+    },
+    {
+        "id": "pa7",
+        "name": "Panra",
+        "gender": "Girl",
+        "meaning": "Leaf",
+        "origin": "Pashto",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بانرا",
+            "Urdu": "پانڑا",
+            "Persian": "پانرا",
+            "Turkish": "Panra",
+            "Bengali": "পানরা",
+            "Indonesian": "panra",
+            "Pashto": "پانرا"
+        }
+    },
+    {
+        "id": "pa7_var",
+        "name": "Panrah",
+        "gender": "Girl",
+        "meaning": "Leaf",
+        "origin": "Pashto",
+        "verified": true,
+        "variant_of": "Panra",
+        "spellings": {
+            "Arabic": "بانراه",
+            "Urdu": "پانرہ",
+            "Persian": "پانراه",
+            "Turkish": "Panrah",
+            "Bengali": "পানরাহ",
+            "Indonesian": "Panrah",
+            "Pashto": "پنجره"
+        }
+    },
+    {
+        "name": "Panya",
+        "gender": "Unisex",
+        "meaning": "Mouse",
+        "origin": "Swahili",
+        "id": "pa5",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بانيا",
+            "Urdu": "پنیا",
+            "Persian": "پانیا",
+            "Turkish": "Panya",
+            "Bengali": "পানিয়া",
+            "Indonesian": "Panya",
+            "Pashto": "پانیا"
+        }
+    },
+    {
+        "name": "Panyah",
+        "gender": "Unisex",
+        "meaning": "Mouse",
+        "origin": "Swahili",
+        "id": "pa5_var",
+        "verified": true,
+        "variant_of": "Panya",
+        "spellings": {
+            "Arabic": "بانياه",
+            "Urdu": "پنیہ",
+            "Persian": "پانیاه",
+            "Turkish": "Panyah",
+            "Bengali": "পানাহ",
+            "Indonesian": "Panyah",
+            "Pashto": "پناه"
+        }
+    },
+    {
+        "id": "pa8",
+        "name": "Parastoo",
+        "gender": "Girl",
+        "meaning": "Swallow (bird)",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باراستو",
+            "Urdu": "پیراسٹو",
+            "Persian": "پرستو",
+            "Turkish": "Parastoo",
+            "Bengali": "পরস্তু",
+            "Indonesian": "Parastoo",
+            "Pashto": "پارستو"
+        }
+    },
+    {
+        "id": "pa8_var",
+        "name": "Parastu",
+        "gender": "Girl",
+        "meaning": "Swallow (bird)",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parastoo",
+        "spellings": {
+            "Arabic": "باراستو",
+            "Urdu": "پارستو",
+            "Persian": "پرستو",
+            "Turkish": "Paraştü",
+            "Bengali": "পরস্তু",
+            "Indonesian": "Parastu",
+            "Pashto": "پارستو"
+        }
+    },
+    {
+        "name": "Pardees",
+        "gender": "Girl",
+        "meaning": "Paradise",
+        "origin": "Persian",
+        "id": "pa2_var",
+        "verified": true,
+        "variant_of": "Pardis",
+        "spellings": {
+            "Arabic": "باردييس",
+            "Urdu": "پردیس",
+            "Persian": "پردیس",
+            "Turkish": "Pardeler",
+            "Bengali": "পারদিস",
+            "Indonesian": "Pardee",
+            "Pashto": "پردیس"
+        }
+    },
+    {
+        "name": "Pardis",
+        "gender": "Girl",
+        "meaning": "Paradise",
+        "origin": "Persian",
+        "id": "pa2",
+        "verified": true,
+        "spellings": {
+            "Arabic": "برديس",
+            "Urdu": "پردیس",
+            "Persian": "پردیس",
+            "Turkish": "Pardis",
+            "Bengali": "পারদিস",
+            "Indonesian": "Pardis",
+            "Pashto": "پاردیس"
+        }
+    },
+    {
+        "id": "pa11_var",
+        "name": "Paree",
+        "gender": "Girl",
+        "meaning": "Fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pari",
+        "spellings": {
+            "Arabic": "باري",
+            "Urdu": "پاری",
+            "Persian": "پاری",
+            "Turkish": "Paree",
+            "Bengali": "পরী",
+            "Indonesian": "Paree",
+            "Pashto": "پیری"
+        }
+    },
+    {
+        "id": "pa9_var",
+        "name": "Pareerooo",
+        "gender": "Girl",
+        "meaning": "Face like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pareerou",
+        "spellings": {
+            "Arabic": "باريروو",
+            "Urdu": "پیریرو",
+            "Persian": "پریروو",
+            "Turkish": "Pareeroo",
+            "Bengali": "পরেরুও",
+            "Indonesian": "Pareeroooo",
+            "Pashto": "پیررووو"
+        }
+    },
+    {
+        "id": "pa9",
+        "name": "Pareerou",
+        "gender": "Girl",
+        "meaning": "Face like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باريرو",
+            "Urdu": "پیریرو",
+            "Persian": "پاریرو",
+            "Turkish": "Parerou",
+            "Bengali": "পরেরউ",
+            "Indonesian": "Pareerou",
+            "Pashto": "پیریرو"
+        }
+    },
+    {
+        "name": "Parees",
+        "gender": "Girl",
+        "meaning": "Fairy-like (Parisa)",
+        "origin": "Persian",
+        "id": "pa21_var",
+        "verified": true,
+        "variant_of": "Paris",
+        "spellings": {
+            "Arabic": "باريز",
+            "Urdu": "پیرس",
+            "Persian": "پاری ها",
+            "Turkish": "Pareler",
+            "Bengali": "পারিস",
+            "Indonesian": "pare",
+            "Pashto": "پاریس"
+        }
+    },
+    {
+        "id": "pa12_var",
+        "name": "Pareesa",
+        "gender": "Girl",
+        "meaning": "Like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parisa",
+        "spellings": {
+            "Arabic": "باريسا",
+            "Urdu": "پریسا",
+            "Persian": "پاریسا",
+            "Turkish": "Pareesa",
+            "Bengali": "পরীসা",
+            "Indonesian": "Pareesa",
+            "Pashto": "پاریسه"
+        }
+    },
+    {
+        "id": "pa13_var",
+        "name": "Pareeshad",
+        "gender": "Girl",
+        "meaning": "Happy fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parishad",
+        "spellings": {
+            "Arabic": "باريشاد",
+            "Urdu": "پریشد",
+            "Persian": "پریشاد",
+            "Turkish": "Parişad",
+            "Bengali": "পারিশাদ",
+            "Indonesian": "pareeshad",
+            "Pashto": "پیرشاد"
+        }
+    },
+    {
+        "id": "pa14_var",
+        "name": "Pareezad",
+        "gender": "Unisex",
+        "meaning": "Born of a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parizad",
+        "spellings": {
+            "Arabic": "باريزاد",
+            "Urdu": "پیرزاد",
+            "Persian": "پریزاد",
+            "Turkish": "Parized",
+            "Bengali": "পারিজাদ",
+            "Indonesian": "Parezad",
+            "Pashto": "پیرزاد"
+        }
+    },
+    {
+        "id": "pa10",
+        "name": "Parham",
+        "gender": "Boy",
+        "meaning": "Abraham (Persian variant)",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارهام",
+            "Urdu": "پرہم",
+            "Persian": "پرهام",
+            "Turkish": "Parham",
+            "Bengali": "পারহম",
+            "Indonesian": "Parham",
+            "Pashto": "پرهام"
+        }
+    },
+    {
+        "id": "pa11",
+        "name": "Pari",
+        "gender": "Girl",
+        "meaning": "Fairy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باري",
+            "Urdu": "پاری",
+            "Persian": "پری",
+            "Turkish": "Pari",
+            "Bengali": "পরী",
+            "Indonesian": "Pari",
+            "Pashto": "پاري"
+        }
+    },
+    {
+        "id": "pa9_var",
+        "name": "Parirou",
+        "gender": "Girl",
+        "meaning": "Face like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pareerou",
+        "spellings": {
+            "Arabic": "باريرو",
+            "Urdu": "پیرو",
+            "Persian": "پریرو",
+            "Turkish": "Parirou",
+            "Bengali": "পারিরু",
+            "Indonesian": "Parirou",
+            "Pashto": "پیررو"
+        }
+    },
+    {
+        "name": "Paris",
+        "gender": "Girl",
+        "meaning": "Fairy-like (Parisa)",
+        "origin": "Persian",
+        "id": "pa21",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باريس",
+            "Urdu": "پیرس",
+            "Persian": "پاریس",
+            "Turkish": "Paris",
+            "Bengali": "প্যারিস",
+            "Indonesian": "Paris",
+            "Pashto": "پاریس"
+        }
+    },
+    {
+        "id": "pa12",
+        "name": "Parisa",
+        "gender": "Girl",
+        "meaning": "Like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باريسا",
+            "Urdu": "پیرسا۔",
+            "Persian": "پریسا",
+            "Turkish": "Parisa",
+            "Bengali": "পারিসা",
+            "Indonesian": "Paris",
+            "Pashto": "پاریسه"
+        }
+    },
+    {
+        "id": "pa12_var",
+        "name": "Parisah",
+        "gender": "Girl",
+        "meaning": "Like a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parisa",
+        "spellings": {
+            "Arabic": "باريسا",
+            "Urdu": "پیرسہ",
+            "Persian": "پریسا",
+            "Turkish": "Parisah",
+            "Bengali": "পারিসঃ",
+            "Indonesian": "Parisah",
+            "Pashto": "پاریسه"
+        }
+    },
+    {
+        "id": "pa13",
+        "name": "Parishad",
+        "gender": "Girl",
+        "meaning": "Happy fairy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باريشاد",
+            "Urdu": "پریشد",
+            "Persian": "پریشاد",
+            "Turkish": "Parishad",
+            "Bengali": "পরিষদ",
+            "Indonesian": "Parishad",
+            "Pashto": "پریشد"
+        }
+    },
+    {
+        "id": "pa14",
+        "name": "Parizad",
+        "gender": "Unisex",
+        "meaning": "Born of a fairy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باريزاد",
+            "Urdu": "پریزاد",
+            "Persian": "پریزاد",
+            "Turkish": "Parizad",
+            "Bengali": "পারিজাদ",
+            "Indonesian": "Parizad",
+            "Pashto": "پیرزاد"
+        }
+    },
+    {
+        "id": "pa15",
+        "name": "Parsa",
+        "gender": "Unisex",
+        "meaning": "Pious, devout",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارسا",
+            "Urdu": "پارسا",
+            "Persian": "پارسا",
+            "Turkish": "Parsa",
+            "Bengali": "পার্স",
+            "Indonesian": "Parsa",
+            "Pashto": "پارسا"
+        }
+    },
+    {
+        "id": "pa15_var",
+        "name": "Parsah",
+        "gender": "Unisex",
+        "meaning": "Pious, devout",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parsa",
+        "spellings": {
+            "Arabic": "بارساه",
+            "Urdu": "پارسہ",
+            "Persian": "پارسا",
+            "Turkish": "Peraşa",
+            "Bengali": "পরশ",
+            "Indonesian": "Parsa",
+            "Pashto": "پارسا"
+        }
+    },
+    {
+        "id": "pa16_var",
+        "name": "Parvaeez",
+        "gender": "Boy",
+        "meaning": "Fortunate, victorious",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Parvaiz",
+        "spellings": {
+            "Arabic": "بارفييز",
+            "Urdu": "پرویز",
+            "Persian": "پروائز",
+            "Turkish": "Parvaeez",
+            "Bengali": "পারভাইজ",
+            "Indonesian": "Parvaeez",
+            "Pashto": "پروېز"
+        }
+    },
+    {
+        "id": "pa16",
+        "name": "Parvaiz",
+        "gender": "Boy",
+        "meaning": "Fortunate, victorious",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارفيز",
+            "Urdu": "پرویز",
+            "Persian": "پرویز",
+            "Turkish": "Parvaiz",
+            "Bengali": "পারভাইজ",
+            "Indonesian": "Parvaiz",
+            "Pashto": "پرویز"
+        }
+    },
+    {
+        "id": "pa17",
+        "name": "Parveen",
+        "gender": "Girl",
+        "meaning": "The Pleiades (Cluster of stars)",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارفين",
+            "Urdu": "پروین",
+            "Persian": "پروین",
+            "Turkish": "Parveen",
+            "Bengali": "পারভীন",
+            "Indonesian": "Parveen",
+            "Pashto": "پروین"
+        }
+    },
+    {
+        "name": "Parveez",
+        "gender": "Boy",
+        "meaning": "Fortunate; Victorious",
+        "origin": "Persian",
+        "id": "pa22_var",
+        "verified": true,
+        "variant_of": "Parviz",
+        "spellings": {
+            "Arabic": "بارفييز",
+            "Urdu": "پرویز",
+            "Persian": "پرویز",
+            "Turkish": "Parveez",
+            "Bengali": "পারভেজ",
+            "Indonesian": "Parveez",
+            "Pashto": "پروېز"
+        }
+    },
+    {
+        "id": "pa18",
+        "name": "Parvin",
+        "gender": "Girl",
+        "meaning": "The Pleiades",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارفين",
+            "Urdu": "پروین",
+            "Persian": "پروین",
+            "Turkish": "Parvin",
+            "Bengali": "পারভিন",
+            "Indonesian": "Parvin",
+            "Pashto": "پروین"
+        }
+    },
+    {
+        "name": "Parviz",
+        "gender": "Boy",
+        "meaning": "Fortunate; Victorious",
+        "origin": "Persian",
+        "id": "pa22",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بارفيز",
+            "Urdu": "پرویز",
+            "Persian": "پرویز",
+            "Turkish": "Parviz",
+            "Bengali": "পারভিজ",
+            "Indonesian": "Parviz",
+            "Pashto": "پروېز"
+        }
+    },
+    {
+        "id": "pa19",
+        "name": "Pasha",
+        "gender": "Boy",
+        "meaning": "Lord, king, high rank",
+        "origin": "Turkish",
+        "verified": true,
+        "spellings": {
+            "Arabic": "باشا",
+            "Urdu": "پاشا",
+            "Persian": "پاشا",
+            "Turkish": "Paşa",
+            "Bengali": "পাশা",
+            "Indonesian": "Pasha",
+            "Pashto": "پاشا"
+        }
+    },
+    {
+        "id": "pa19_var",
+        "name": "Pashah",
+        "gender": "Boy",
+        "meaning": "Lord, king, high rank",
+        "origin": "Turkish",
+        "verified": true,
+        "variant_of": "Pasha",
+        "spellings": {
+            "Arabic": "باشا",
+            "Urdu": "پاشاہ",
+            "Persian": "پاشا",
+            "Turkish": "Paşa",
+            "Bengali": "পাশাহ",
+            "Indonesian": "Pasya",
+            "Pashto": "پاشا"
+        }
+    },
+    {
+        "id": "pa20",
+        "name": "Payam",
+        "gender": "Boy",
+        "meaning": "Message",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بايام",
+            "Urdu": "پیام",
+            "Persian": "پیام",
+            "Turkish": "Payam",
+            "Bengali": "পায়াম",
+            "Indonesian": "Payam",
+            "Pashto": "پیام"
+        }
+    },
+    {
+        "id": "pe1",
+        "name": "Pedram",
+        "gender": "Boy",
+        "meaning": "Successful, happy",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيدرام",
+            "Urdu": "پیڈرم",
+            "Persian": "پدرام",
+            "Turkish": "Pedram",
+            "Bengali": "পেড্রাম",
+            "Indonesian": "Pedram",
+            "Pashto": "پدرام"
+        }
+    },
+    {
+        "name": "Peenar",
+        "gender": "Girl",
+        "meaning": "Spring, fountain",
+        "origin": "Turkish",
+        "id": "pi4_var",
+        "verified": true,
+        "variant_of": "Pinar",
+        "spellings": {
+            "Arabic": "بينار",
+            "Urdu": "پینر",
+            "Persian": "پنار",
+            "Turkish": "Peenar",
+            "Bengali": "পেনার",
+            "Indonesian": "Pear",
+            "Pashto": "پینر"
+        }
+    },
+    {
+        "id": "pi1_var",
+        "name": "Peer",
+        "gender": "Boy",
+        "meaning": "Elder, Saint, Spiritual Guide",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pir",
+        "spellings": {
+            "Arabic": "الأقران",
+            "Urdu": "پیر",
+            "Persian": "همتا",
+            "Turkish": "Akran",
+            "Bengali": "পিয়ার",
+            "Indonesian": "Rekan",
+            "Pashto": "پیر"
+        }
+    },
+    {
+        "id": "pi2_var",
+        "name": "Peerouz",
+        "gender": "Boy",
+        "meaning": "Victorious",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pirouz",
+        "spellings": {
+            "Arabic": "بيروز",
+            "Urdu": "پیروز",
+            "Persian": "پیروز",
+            "Turkish": "Peeruz",
+            "Bengali": "পেরুজ",
+            "Indonesian": "Peerouz",
+            "Pashto": "پېروز"
+        }
+    },
+    {
+        "id": "pi3_var",
+        "name": "Peerzada",
+        "gender": "Boy",
+        "meaning": "Son of a Saint",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pirzada",
+        "spellings": {
+            "Arabic": "بيرزادا",
+            "Urdu": "پیرزادہ",
+            "Persian": "پیرزاده",
+            "Turkish": "Peerzada",
+            "Bengali": "পীরজাদা",
+            "Indonesian": "rekanzada",
+            "Pashto": "پیرزاده"
+        }
+    },
+    {
+        "id": "pe2",
+        "name": "Pehla",
+        "gender": "Girl",
+        "meaning": "The first born",
+        "origin": "Urdu",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيهلا",
+            "Urdu": "پہلہ",
+            "Persian": "پهلا",
+            "Turkish": "Pehla",
+            "Bengali": "পেহলা",
+            "Indonesian": "Pehla",
+            "Pashto": "پیله"
+        }
+    },
+    {
+        "id": "pe2_var",
+        "name": "Pehlah",
+        "gender": "Girl",
+        "meaning": "The first born",
+        "origin": "Urdu",
+        "verified": true,
+        "variant_of": "Pehla",
+        "spellings": {
+            "Arabic": "بهله",
+            "Urdu": "پہلہ",
+            "Persian": "پهله",
+            "Turkish": "Pehlah",
+            "Bengali": "পেহলাহ",
+            "Indonesian": "Pelah",
+            "Pashto": "پیله"
+        }
+    },
+    {
+        "id": "pe3_var",
+        "name": "Peleen",
+        "gender": "Girl",
+        "meaning": "Wormwood plant",
+        "origin": "Turkish",
+        "verified": true,
+        "variant_of": "Pelin",
+        "spellings": {
+            "Arabic": "بيلين",
+            "Urdu": "پیلین",
+            "Persian": "پلین",
+            "Turkish": "Peleen",
+            "Bengali": "পেলেন",
+            "Indonesian": "Peleen",
+            "Pashto": "پیلین"
+        }
+    },
+    {
+        "id": "pe3",
+        "name": "Pelin",
+        "gender": "Girl",
+        "meaning": "Wormwood plant",
+        "origin": "Turkish",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيلين",
+            "Urdu": "پیلن",
+            "Persian": "پلین",
+            "Turkish": "Pelin",
+            "Bengali": "পেলিন",
+            "Indonesian": "Pelin",
+            "Pashto": "پیلین"
+        }
+    },
+    {
+        "id": "pe5_var",
+        "name": "Pervaeez",
+        "gender": "Boy",
+        "meaning": "Breeze, victorious",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pervaiz",
+        "spellings": {
+            "Arabic": "بيرفييز",
+            "Urdu": "پرویز",
+            "Persian": "پروائیز",
+            "Turkish": "Pervaeez",
+            "Bengali": "পারভাইজ",
+            "Indonesian": "Pervaeez",
+            "Pashto": "پرویز"
+        }
+    },
+    {
+        "id": "pe5",
+        "name": "Pervaiz",
+        "gender": "Boy",
+        "meaning": "Breeze, victorious",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيرفيز",
+            "Urdu": "پرویز",
+            "Persian": "پرویز",
+            "Turkish": "Pervaiz",
+            "Bengali": "পারভেজ",
+            "Indonesian": "Pervaiz",
+            "Pashto": "پرویز"
+        }
+    },
+    {
+        "id": "pe6",
+        "name": "Perveen",
+        "gender": "Girl",
+        "meaning": "Cluster of stars",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيرفين",
+            "Urdu": "پروین",
+            "Persian": "پروین",
+            "Turkish": "Perveen",
+            "Bengali": "পারভীন",
+            "Indonesian": "Perveen",
+            "Pashto": "پروین"
+        }
+    },
+    {
+        "id": "pe6_var",
+        "name": "Pervin",
+        "gender": "Girl",
+        "meaning": "Cluster of stars",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Perveen",
+        "spellings": {
+            "Arabic": "بيرفين",
+            "Urdu": "پروین",
+            "Persian": "پروین",
+            "Turkish": "Pervin",
+            "Bengali": "পারভিন",
+            "Indonesian": "Pervin",
+            "Pashto": "پروین"
+        }
+    },
+    {
+        "id": "pe4_var",
+        "name": "Perwaeez",
+        "gender": "Boy",
+        "meaning": "Victorious (Variant of Parvaiz)",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Perwaiz",
+        "spellings": {
+            "Arabic": "بروايز",
+            "Urdu": "پرویز",
+            "Persian": "پروائیز",
+            "Turkish": "Perwaeez",
+            "Bengali": "পারওয়াইজ",
+            "Indonesian": "Ya ampun",
+            "Pashto": "پروېز"
+        }
+    },
+    {
+        "id": "pe4",
+        "name": "Perwaiz",
+        "gender": "Boy",
+        "meaning": "Victorious (Variant of Parvaiz)",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "برويز",
+            "Urdu": "پرویز",
+            "Persian": "پرویز",
+            "Turkish": "Perwaiz",
+            "Bengali": "পারওয়াইজ",
+            "Indonesian": "Perwaiz",
+            "Pashto": "پرویز"
+        }
+    },
+    {
+        "id": "pe7",
+        "name": "Pesang",
+        "gender": "Boy",
+        "meaning": "Leader, forward",
+        "origin": "Kurdish",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيسانغ",
+            "Urdu": "پیسانگ",
+            "Persian": "پسنگ",
+            "Turkish": "Pesang",
+            "Bengali": "পেসাং",
+            "Indonesian": "Pesan",
+            "Pashto": "پسنګ"
+        }
+    },
+    {
+        "name": "Peshawar",
+        "gender": "Boy",
+        "meaning": "City at the Frontier",
+        "origin": "Pashto/Urdu",
+        "id": "pe8",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيشاور",
+            "Urdu": "پشاور",
+            "Persian": "پیشاور",
+            "Turkish": "Peşaver",
+            "Bengali": "পেশোয়ার",
+            "Indonesian": "Peshawar",
+            "Pashto": "پېښور"
+        }
+    },
+    {
+        "name": "Petra",
+        "gender": "Girl",
+        "meaning": "Rock City (Jordan)",
+        "origin": "Greek/Arabic",
+        "id": "pe9",
+        "verified": true,
+        "spellings": {
+            "Arabic": "البتراء",
+            "Urdu": "پیٹرا",
+            "Persian": "پترا",
+            "Turkish": "Petra",
+            "Bengali": "পেট্রা",
+            "Indonesian": "Petra",
+            "Pashto": "پیترا"
+        }
+    },
+    {
+        "name": "Petrah",
+        "gender": "Girl",
+        "meaning": "Rock City (Jordan)",
+        "origin": "Greek/Arabic",
+        "id": "pe9_var",
+        "verified": true,
+        "variant_of": "Petra",
+        "spellings": {
+            "Arabic": "البتراء",
+            "Urdu": "پیٹرہ",
+            "Persian": "پترا",
+            "Turkish": "Petra",
+            "Bengali": "পেত্রাহ",
+            "Indonesian": "Petrah",
+            "Pashto": "پیتره"
+        }
+    },
+    {
+        "id": "ph1",
+        "name": "Phool",
+        "gender": "Unisex",
+        "meaning": "Flower",
+        "origin": "Urdu",
+        "verified": true,
+        "spellings": {
+            "Arabic": "فول",
+            "Urdu": "پھول",
+            "Persian": "Phool",
+            "Turkish": "Phool",
+            "Bengali": "ফুল",
+            "Indonesian": "bodoh",
+            "Pashto": "فول"
+        }
+    },
+    {
+        "id": "ph1_var",
+        "name": "Phul",
+        "gender": "Unisex",
+        "meaning": "Flower",
+        "origin": "Urdu",
+        "verified": true,
+        "variant_of": "Phool",
+        "spellings": {
+            "Arabic": "فول",
+            "Urdu": "پھول",
+            "Persian": "فول",
+            "Turkish": "Phul",
+            "Bengali": "ফুল",
+            "Indonesian": "Phul",
+            "Pashto": "فل"
+        }
+    },
+    {
+        "name": "Pinar",
+        "gender": "Girl",
+        "meaning": "Spring, fountain",
+        "origin": "Turkish",
+        "id": "pi4",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بينار",
+            "Urdu": "پنار",
+            "Persian": "پینار",
+            "Turkish": "Pınar",
+            "Bengali": "পিনার",
+            "Indonesian": "Pinar",
+            "Pashto": "پنار"
+        }
+    },
+    {
+        "id": "pi1",
+        "name": "Pir",
+        "gender": "Boy",
+        "meaning": "Elder, Saint, Spiritual Guide",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بير",
+            "Urdu": "پیر",
+            "Persian": "پیر",
+            "Turkish": "Pir",
+            "Bengali": "পীর",
+            "Indonesian": "pir",
+            "Pashto": "پیر"
+        }
+    },
+    {
+        "id": "pi2_var",
+        "name": "Piroooz",
+        "gender": "Boy",
+        "meaning": "Victorious",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pirouz",
+        "spellings": {
+            "Arabic": "بيروز",
+            "Urdu": "پیروز",
+            "Persian": "پیروز",
+            "Turkish": "Pirooz",
+            "Bengali": "পিরোজ",
+            "Indonesian": "piroooz",
+            "Pashto": "پېروز"
+        }
+    },
+    {
+        "id": "pi2",
+        "name": "Pirouz",
+        "gender": "Boy",
+        "meaning": "Victorious",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيروز",
+            "Urdu": "پیروز",
+            "Persian": "پیروز",
+            "Turkish": "Piroz",
+            "Bengali": "পিরোজ",
+            "Indonesian": "Pirouz",
+            "Pashto": "پیروز"
+        }
+    },
+    {
+        "id": "pi3",
+        "name": "Pirzada",
+        "gender": "Boy",
+        "meaning": "Son of a Saint",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيرزادا",
+            "Urdu": "پیرزادہ",
+            "Persian": "پیرزاده",
+            "Turkish": "Pirzada",
+            "Bengali": "পীরজাদা",
+            "Indonesian": "pirzada",
+            "Pashto": "پيرزاده"
+        }
+    },
+    {
+        "id": "pi3_var",
+        "name": "Pirzadah",
+        "gender": "Boy",
+        "meaning": "Son of a Saint",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pirzada",
+        "spellings": {
+            "Arabic": "بيرزاده",
+            "Urdu": "پیرزادہ",
+            "Persian": "پیرزاده",
+            "Turkish": "Pirzade",
+            "Bengali": "পীরজাদাহ",
+            "Indonesian": "Pirzadah",
+            "Pashto": "پيرزاده"
+        }
+    },
+    {
+        "id": "po1",
+        "name": "Polat",
+        "gender": "Boy",
+        "meaning": "Steel",
+        "origin": "Turkish",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بولات",
+            "Urdu": "پولات",
+            "Persian": "پولات",
+            "Turkish": "Polat",
+            "Bengali": "পোলাট",
+            "Indonesian": "polat",
+            "Pashto": "پولات"
+        }
+    },
+    {
+        "id": "pu1_var",
+        "name": "Poojman",
+        "gender": "Boy",
+        "meaning": "Desire, wish",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pujman",
+        "spellings": {
+            "Arabic": "بوجمان",
+            "Urdu": "پوجمان",
+            "Persian": "پوژمان",
+            "Turkish": "Poojman",
+            "Bengali": "পূজমান",
+            "Indonesian": "Poojman",
+            "Pashto": "پوجمان"
+        }
+    },
+    {
+        "id": "pu2_var",
+        "name": "Pooneh",
+        "gender": "Girl",
+        "meaning": "Pennyroyal (Flower)",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Puneh",
+        "spellings": {
+            "Arabic": "بونه",
+            "Urdu": "پونے",
+            "Persian": "پونه",
+            "Turkish": "Pooneh",
+            "Bengali": "পুনেহ",
+            "Indonesian": "Pooneh",
+            "Pashto": "پوني"
+        }
+    },
+    {
+        "name": "Poonjab",
+        "gender": "Boy",
+        "meaning": "Five Waters (Land)",
+        "origin": "Urdu/Persian",
+        "id": "pu4_var",
+        "verified": true,
+        "variant_of": "Punjab",
+        "spellings": {
+            "Arabic": "بونجاب",
+            "Urdu": "پنجاب",
+            "Persian": "پونجاب",
+            "Turkish": "Poonjab",
+            "Bengali": "পুঞ্জাব",
+            "Indonesian": "Poonjab",
+            "Pashto": "پنجاب"
+        }
+    },
+    {
+        "id": "po4_var",
+        "name": "Poooran",
+        "gender": "Girl",
+        "meaning": "Successor",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pouran",
+        "spellings": {
+            "Arabic": "بووران",
+            "Urdu": "پوران",
+            "Persian": "پوران",
+            "Turkish": "Poooran",
+            "Bengali": "পুরান",
+            "Indonesian": "buruk",
+            "Pashto": "غریبان"
+        }
+    },
+    {
+        "id": "po3_var",
+        "name": "Poooya",
+        "gender": "Boy",
+        "meaning": "Searcher, dynamic",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pouya",
+        "spellings": {
+            "Arabic": "بويا",
+            "Urdu": "پویا",
+            "Persian": "پویا",
+            "Turkish": "Poooya",
+            "Bengali": "পুয়া",
+            "Indonesian": "sial",
+            "Pashto": "پویا"
+        }
+    },
+    {
+        "id": "pu3_var",
+        "name": "Pooran",
+        "gender": "Girl",
+        "meaning": "Successor",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Puran",
+        "spellings": {
+            "Arabic": "بوران",
+            "Urdu": "پورن",
+            "Persian": "پوران",
+            "Turkish": "Pooran",
+            "Bengali": "পুরান",
+            "Indonesian": "Kasihan",
+            "Pashto": "پورن"
+        }
+    },
+    {
+        "name": "Poornama",
+        "gender": "Unisex",
+        "meaning": "Full moon",
+        "origin": "Indonesian",
+        "id": "pu1_var",
+        "verified": true,
+        "variant_of": "Purnama",
+        "spellings": {
+            "Arabic": "بورناما",
+            "Urdu": "پورناما",
+            "Persian": "پورنما",
+            "Turkish": "Poornama",
+            "Bengali": "পূর্ণনামা",
+            "Indonesian": "Nama malang",
+            "Pashto": "پورنامه"
+        }
+    },
+    {
+        "name": "Pootra",
+        "gender": "Boy",
+        "meaning": "Son",
+        "origin": "Indonesian",
+        "id": "pu2_var",
+        "verified": true,
+        "variant_of": "Putra",
+        "spellings": {
+            "Arabic": "بوترا",
+            "Urdu": "پوترا",
+            "Persian": "پوترا",
+            "Turkish": "Pootra",
+            "Bengali": "পুতরা",
+            "Indonesian": "Pootra",
+            "Pashto": "پوترا"
+        }
+    },
+    {
+        "name": "Pootri",
+        "gender": "Girl",
+        "meaning": "Daughter",
+        "origin": "Indonesian",
+        "id": "pu3_var",
+        "verified": true,
+        "variant_of": "Putri",
+        "spellings": {
+            "Arabic": "بوتري",
+            "Urdu": "پوتری",
+            "Persian": "پوتری",
+            "Turkish": "Pootri",
+            "Bengali": "পুত্রি",
+            "Indonesian": "Pootri",
+            "Pashto": "پوتري"
+        }
+    },
+    {
+        "id": "po2_var",
+        "name": "Porgool",
+        "gender": "Girl",
+        "meaning": "Full of flowers",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Porgul",
+        "spellings": {
+            "Arabic": "بورغول",
+            "Urdu": "پورگول",
+            "Persian": "پورگول",
+            "Turkish": "Porgool",
+            "Bengali": "পোরগুল",
+            "Indonesian": "Porgool",
+            "Pashto": "پورګول"
+        }
+    },
+    {
+        "id": "po2",
+        "name": "Porgul",
+        "gender": "Girl",
+        "meaning": "Full of flowers",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بورجول",
+            "Urdu": "پورگل",
+            "Persian": "پورگل",
+            "Turkish": "Porgül",
+            "Bengali": "পোরগুল",
+            "Indonesian": "Porgul",
+            "Pashto": "پورګول"
+        }
+    },
+    {
+        "id": "po4",
+        "name": "Pouran",
+        "gender": "Girl",
+        "meaning": "Successor",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بوران",
+            "Urdu": "پوران",
+            "Persian": "پوران",
+            "Turkish": "Pouran",
+            "Bengali": "পৌরান",
+            "Indonesian": "Tuangkan",
+            "Pashto": "پورن"
+        }
+    },
+    {
+        "id": "po3",
+        "name": "Pouya",
+        "gender": "Boy",
+        "meaning": "Searcher, dynamic",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بويا",
+            "Urdu": "پویا",
+            "Persian": "پویا",
+            "Turkish": "Pouya",
+            "Bengali": "পাউয়া",
+            "Indonesian": "Pouya",
+            "Pashto": "پویا"
+        }
+    },
+    {
+        "id": "po3_var",
+        "name": "Pouyah",
+        "gender": "Boy",
+        "meaning": "Searcher, dynamic",
+        "origin": "Persian",
+        "verified": true,
+        "variant_of": "Pouya",
+        "spellings": {
+            "Arabic": "بويا",
+            "Urdu": "پویاہ",
+            "Persian": "پویا",
+            "Turkish": "Pouyah",
+            "Bengali": "পাউয়াঃ",
+            "Indonesian": "Pouyah",
+            "Pashto": "پویاه"
+        }
+    },
+    {
+        "id": "pu1",
+        "name": "Pujman",
+        "gender": "Boy",
+        "meaning": "Desire, wish",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بوجمان",
+            "Urdu": "پجمان",
+            "Persian": "پژمان",
+            "Turkish": "Pujman",
+            "Bengali": "পুজমান",
+            "Indonesian": "Pujman",
+            "Pashto": "پژمن"
+        }
+    },
+    {
+        "id": "pu2",
+        "name": "Puneh",
+        "gender": "Girl",
+        "meaning": "Pennyroyal (Flower)",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بيونه",
+            "Urdu": "پونےہ",
+            "Persian": "پونه",
+            "Turkish": "Puneh",
+            "Bengali": "পুনেহ",
+            "Indonesian": "Puneh",
+            "Pashto": "پونه"
+        }
+    },
+    {
+        "name": "Punjab",
+        "gender": "Boy",
+        "meaning": "Five Waters (Land)",
+        "origin": "Urdu/Persian",
+        "id": "pu4",
+        "verified": true,
+        "spellings": {
+            "Arabic": "البنجاب",
+            "Urdu": "پنجاب",
+            "Persian": "پنجاب",
+            "Turkish": "Pencap",
+            "Bengali": "পাঞ্জাব",
+            "Indonesian": "Punjab",
+            "Pashto": "پنجاب"
+        }
+    },
+    {
+        "id": "pu3",
+        "name": "Puran",
+        "gender": "Girl",
+        "meaning": "Successor",
+        "origin": "Persian",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بوران",
+            "Urdu": "پران",
+            "Persian": "پوران",
+            "Turkish": "Puran",
+            "Bengali": "পুরাণ",
+            "Indonesian": "Puran",
+            "Pashto": "پورن"
+        }
+    },
+    {
+        "name": "Purnama",
+        "gender": "Unisex",
+        "meaning": "Full moon",
+        "origin": "Indonesian",
+        "id": "pu1",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بورناما",
+            "Urdu": "پورنما",
+            "Persian": "پورنما",
+            "Turkish": "Purnama",
+            "Bengali": "পূর্ণমা",
+            "Indonesian": "Purnama",
+            "Pashto": "پورنامه"
+        }
+    },
+    {
+        "name": "Purnamah",
+        "gender": "Unisex",
+        "meaning": "Full moon",
+        "origin": "Indonesian",
+        "id": "pu1_var",
+        "verified": true,
+        "variant_of": "Purnama",
+        "spellings": {
+            "Arabic": "بورنامه",
+            "Urdu": "پورنمہ",
+            "Persian": "پورنامه",
+            "Turkish": "Purnamah",
+            "Bengali": "পূর্ণমঃ",
+            "Indonesian": "Purnama",
+            "Pashto": "پورنامه"
+        }
+    },
+    {
+        "name": "Putra",
+        "gender": "Boy",
+        "meaning": "Son",
+        "origin": "Indonesian",
+        "id": "pu2",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بوترا",
+            "Urdu": "پترا",
+            "Persian": "پوترا",
+            "Turkish": "Putra",
+            "Bengali": "পুত্র",
+            "Indonesian": "Putra",
+            "Pashto": "پوترا"
+        }
+    },
+    {
+        "name": "Putrah",
+        "gender": "Boy",
+        "meaning": "Son",
+        "origin": "Indonesian",
+        "id": "pu2_var",
+        "verified": true,
+        "variant_of": "Putra",
+        "spellings": {
+            "Arabic": "بوترا",
+            "Urdu": "پترہ",
+            "Persian": "پوترا",
+            "Turkish": "Putra",
+            "Bengali": "পুত্রঃ",
+            "Indonesian": "Putra",
+            "Pashto": "پوتره"
+        }
+    },
+    {
+        "name": "Putree",
+        "gender": "Girl",
+        "meaning": "Daughter",
+        "origin": "Indonesian",
+        "id": "pu3_var",
+        "verified": true,
+        "variant_of": "Putri",
+        "spellings": {
+            "Arabic": "بوتري",
+            "Urdu": "پٹری",
+            "Persian": "پوتری",
+            "Turkish": "Putree",
+            "Bengali": "পুট্রি",
+            "Indonesian": "Putri",
+            "Pashto": "پوتری"
+        }
+    },
+    {
+        "name": "Putri",
+        "gender": "Girl",
+        "meaning": "Daughter",
+        "origin": "Indonesian",
+        "id": "pu3",
+        "verified": true,
+        "spellings": {
+            "Arabic": "بوتري",
+            "Urdu": "پٹری",
+            "Persian": "پوتری",
+            "Turkish": "Putri",
+            "Bengali": "পুত্রী",
+            "Indonesian": "Putri",
+            "Pashto": "پتری"
+        }
+    }
 ]
