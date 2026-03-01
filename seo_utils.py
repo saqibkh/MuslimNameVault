@@ -38,6 +38,26 @@ def generate_sitemap(names, output_dir, site_url):
         </url>
         """)
 
+    # --- ADD GENDER PAGES TO SITEMAP HERE ---
+    xml_content.append(f"""
+    <url>
+        <loc>{site_url}/muslim-boy-names/</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    """)
+    
+    xml_content.append(f"""
+    <url>
+        <loc>{site_url}/muslim-girl-names/</loc>
+        <lastmod>{today}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    """)
+    # ----------------------------------------
+
     # 3. Add Individual Name Pages
     for name_entry in names:
         # Create the clean slug exactly like generate_site.py does
