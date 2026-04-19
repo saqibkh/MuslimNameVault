@@ -12,8 +12,13 @@ Here is an overview of the key files you need to maintain:
 | :--- | :--- |
 | **`generate_site.py`** | **The Main Engine.** Run this script to rebuild the website. It reads the data, applies templates, generates all HTML pages (A-Z, details, collections, surprise), and builds the search index. |
 | **`config.py`** | **The Curator.** Contains manual lists for special collections (e.g., `TRENDING_2026`, `PROPHET_NAMES`, `QURANIC_DIRECT`). **Update this file to change which names appear in the "Curated Lists" dropdown.** |
+| **`update_database.py`** | **The Adder.** Safely adds new names to the dictionary. It reads incoming names from `new_names.json`, assigns them unique IDs, checks for duplicates, and categorizes them into their proper alphabetical JSON files. |
+| **`export_master_list.py`** | **The Compiler.** Compiles all individual JSON files located in `names_data/` into one massive, alphabetically sorted file called `ALL_NAMES_MASTER.json` for backups, global searching, or migrations. |
+| **`auto_spellings.py`** | **The Translator.** An automation script that uses the `deep-translator` library to automatically fetch and populate the "Global Spellings" (Arabic, Urdu, Persian, Turkish, Bengali, Indonesian, Pashto) for names in your database. |
 | **`seo_utils.py`** | **The SEO Helper.** Handles the generation of the `sitemap.xml` file so Google can index all your pages correctly. |
+| **`verify_links.py`** | **The Tester.** A QA script that scans all generated HTML files in the `docs/` directory to ensure there are no broken internal links before deploying. |
 | **`generate_audio.py`** | *(Optional)* A utility script used to generate MP3 text-to-speech files for new names. Run this only when you add new names to the database. |
+
 
 ### 📄 Data & Content (The Database)
 
@@ -91,5 +96,9 @@ To run this project, you need Python installed along with the `Jinja2` library.
 **Installation:**
 ```bash
 pip install jinja2
+```
 
-
+### To view local changes, ru
+```bash
+python3 -m http.server 8000 -d docs
+```
