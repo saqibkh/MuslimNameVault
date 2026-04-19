@@ -1,1808 +1,1808 @@
 [
-    {
-        "name": "Ubaadah",
-        "gender": "Boy",
-        "meaning": "Worship",
-        "origin": "Arabic",
-        "id": "ub5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبادة",
-            "Urdu": "عبادہ",
-            "Persian": "عباده",
-            "Turkish": "Ubaada",
-            "Bengali": "উবাদাহ",
-            "Indonesian": "Ubaadah",
-            "Pashto": "عباده"
-        }
-    },
-    {
-        "id": "ub1_var",
-        "name": "Ubaeed",
-        "gender": "Boy",
-        "meaning": "Faithful, little servant",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Ubaid",
-        "spellings": {
-            "Arabic": "عبيد",
-            "Urdu": "عبید",
-            "Persian": "عبید",
-            "Turkish": "Ubaid",
-            "Bengali": "উবায়েদ",
-            "Indonesian": "Ubaed",
-            "Pashto": "عبید"
-        }
-    },
-    {
-        "name": "Ubaeeda",
-        "gender": "Boy",
-        "meaning": "Servant of God",
-        "origin": "Arabic",
-        "id": "ub1_var",
-        "verified": true,
-        "variant_of": "Ubaida",
-        "spellings": {
-            "Arabic": "عبيدة",
-            "Urdu": "عبیدہ",
-            "Persian": "ابعیدا",
-            "Turkish": "Ubaeeda",
-            "Bengali": "উবাইদা",
-            "Indonesian": "Ubaeeda",
-            "Pashto": "عبیده"
-        }
-    },
-    {
-        "name": "Ubaeedullah",
-        "gender": "Boy",
-        "meaning": "Little servant of God",
-        "origin": "Arabic",
-        "id": "ub6_var",
-        "verified": true,
-        "variant_of": "Ubaidullah",
-        "spellings": {
-            "Arabic": "عبيدالله",
-            "Urdu": "عبید اللہ",
-            "Persian": "عبیدالله",
-            "Turkish": "Ubaeedullah",
-            "Bengali": "উবায়দুল্লাহ",
-            "Indonesian": "Ubaeedullah",
-            "Pashto": "عبیدالله"
-        }
-    },
-    {
-        "id": "ub1",
-        "name": "Ubaid",
-        "gender": "Boy",
-        "meaning": "Faithful, little servant",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبيد",
-            "Urdu": "عبید",
-            "Persian": "عبید",
-            "Turkish": "Ubeyd",
-            "Bengali": "উবায়েদ",
-            "Indonesian": "Ubaid",
-            "Pashto": "عبيد"
-        }
-    },
-    {
-        "name": "Ubaida",
-        "gender": "Boy",
-        "meaning": "Servant of God",
-        "origin": "Arabic",
-        "id": "ub1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبيدة",
-            "Urdu": "عبیدہ",
-            "Persian": "عبیده",
-            "Turkish": "Ubaida",
-            "Bengali": "উবাইদা",
-            "Indonesian": "Ubaida",
-            "Pashto": "عبیده"
-        }
-    },
-    {
-        "name": "Ubaidah",
-        "gender": "Boy",
-        "meaning": "Servant of God",
-        "origin": "Arabic",
-        "id": "ub1_var",
-        "verified": true,
-        "variant_of": "Ubaida",
-        "spellings": {
-            "Arabic": "عبيدة",
-            "Urdu": "عبیدہ",
-            "Persian": "عبیده",
-            "Turkish": "Ubeyde",
-            "Bengali": "উবাইদাহ",
-            "Indonesian": "Ubaidah",
-            "Pashto": "عبیده"
-        }
-    },
-    {
-        "name": "Ubaidoollah",
-        "gender": "Boy",
-        "meaning": "Little servant of God",
-        "origin": "Arabic",
-        "id": "ub6_var",
-        "verified": true,
-        "variant_of": "Ubaidullah",
-        "spellings": {
-            "Arabic": "عبيد الله",
-            "Urdu": "عبیداللہ",
-            "Persian": "عبیدالله",
-            "Turkish": "Ubeydollah",
-            "Bengali": "উবায়দুল্লাহ",
-            "Indonesian": "Ubaidullah",
-            "Pashto": "عبیدالله"
-        }
-    },
-    {
-        "name": "Ubaidullah",
-        "gender": "Boy",
-        "meaning": "Little servant of God",
-        "origin": "Arabic",
-        "id": "ub6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبيدالله",
-            "Urdu": "عبید اللہ",
-            "Persian": "عبیدالله",
-            "Turkish": "Ubeydullah",
-            "Bengali": "উবায়দুল্লাহ",
-            "Indonesian": "Ubaidullah",
-            "Pashto": "عبیدالله"
-        }
-    },
-    {
-        "name": "Ubay",
-        "gender": "Boy",
-        "meaning": "High self-esteem",
-        "origin": "Arabic",
-        "id": "ub2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوباي",
-            "Urdu": "ابے",
-            "Persian": "اوبای",
-            "Turkish": "Ubay",
-            "Bengali": "উবে",
-            "Indonesian": "Ubay",
-            "Pashto": "ابی"
-        }
-    },
-    {
-        "name": "Ubayd",
-        "gender": "Boy",
-        "meaning": "Worshipper",
-        "origin": "Arabic",
-        "id": "ub3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبيد",
-            "Urdu": "عبید",
-            "Persian": "عبید",
-            "Turkish": "Ubeyd",
-            "Bengali": "উবায়দ",
-            "Indonesian": "Ubayd",
-            "Pashto": "عبید"
-        }
-    },
-    {
-        "name": "Ubaydoollah",
-        "gender": "Boy",
-        "meaning": "Little servant",
-        "origin": "Arabic",
-        "id": "ub4_var",
-        "verified": true,
-        "variant_of": "Ubaydullah",
-        "spellings": {
-            "Arabic": "عبيد الله",
-            "Urdu": "عبیداللہ",
-            "Persian": "عبیدالله",
-            "Turkish": "Ubaydoollah",
-            "Bengali": "উবায়দুল্লাহ",
-            "Indonesian": "Ubaydullah",
-            "Pashto": "عبیدالله"
-        }
-    },
-    {
-        "name": "Ubaydullah",
-        "gender": "Boy",
-        "meaning": "Little servant",
-        "origin": "Arabic",
-        "id": "ub4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عبيد الله",
-            "Urdu": "عبید اللہ",
-            "Persian": "عبیدالله",
-            "Turkish": "Ubeydullah",
-            "Bengali": "উবায়দুল্লাহ",
-            "Indonesian": "Ubaydullah",
-            "Pashto": "عبیدالله"
-        }
-    },
-    {
-        "name": "Ubayy",
-        "gender": "Boy",
-        "meaning": "High self-esteem",
-        "origin": "Arabic",
-        "id": "ub6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوبايي",
-            "Urdu": "ابی",
-            "Persian": "اوبی",
-            "Turkish": "Ubeyy",
-            "Bengali": "উবাই",
-            "Indonesian": "Ubayy",
-            "Pashto": "اوبي"
-        }
-    },
-    {
-        "name": "Udad",
-        "gender": "Boy",
-        "meaning": "Affection",
-        "origin": "Arabic",
-        "id": "ud3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوداد",
-            "Urdu": "عداد",
-            "Persian": "اوداد",
-            "Turkish": "Udad",
-            "Bengali": "উদাদ",
-            "Indonesian": "Udad",
-            "Pashto": "داد"
-        }
-    },
-    {
-        "id": "ud1",
-        "name": "Uday",
-        "gender": "Boy",
-        "meaning": "One who runs fast",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عدي",
-            "Urdu": "اودے",
-            "Persian": "عدی",
-            "Turkish": "Uday",
-            "Bengali": "উদয়",
-            "Indonesian": "Uday",
-            "Pashto": "ادې"
-        }
-    },
-    {
-        "name": "Udayl",
-        "gender": "Boy",
-        "meaning": "Just",
-        "origin": "Arabic",
-        "id": "ud4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عديل",
-            "Urdu": "عدیل",
-            "Persian": "عدیل",
-            "Turkish": "Udayl",
-            "Bengali": "উদয়ল",
-            "Indonesian": "Udayl",
-            "Pashto": "ادیل"
-        }
-    },
-    {
-        "id": "ud2",
-        "name": "Udays",
-        "gender": "Boy",
-        "meaning": "Small, fast runner",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عديس",
-            "Urdu": "ادیس",
-            "Persian": "عدی ها",
-            "Turkish": "Udaylar",
-            "Bengali": "উদয়স",
-            "Indonesian": "hari ini",
-            "Pashto": "اډیس"
-        }
-    },
-    {
-        "name": "Ufook",
-        "gender": "Boy",
-        "meaning": "Horizon",
-        "origin": "Turkish/Arabic",
-        "id": "uf1_var",
-        "verified": true,
-        "variant_of": "Ufuk",
-        "spellings": {
-            "Arabic": "أوفوك",
-            "Urdu": "افوک",
-            "Persian": "اوفوک",
-            "Turkish": "Ufook",
-            "Bengali": "উফুক",
-            "Indonesian": "bodoh",
-            "Pashto": "Ufook"
-        }
-    },
-    {
-        "name": "Ufooq",
-        "gender": "Unisex",
-        "meaning": "Horizon",
-        "origin": "Quranic",
-        "id": "uf1_var",
-        "verified": true,
-        "variant_of": "Ufuq",
-        "spellings": {
-            "Arabic": "أفق",
-            "Urdu": "افوق",
-            "Persian": "Ufooq",
-            "Turkish": "Ufuk",
-            "Bengali": "উফুক",
-            "Indonesian": "Ufooq",
-            "Pashto": "اوفوق"
-        }
-    },
-    {
-        "name": "Uftade",
-        "gender": "Boy",
-        "meaning": "Fallen",
-        "origin": "Persian",
-        "id": "uf2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوفتادي",
-            "Urdu": "افتاد",
-            "Persian": "اوفتاد",
-            "Turkish": "Üftade",
-            "Bengali": "উফতাদে",
-            "Indonesian": "Uftade",
-            "Pashto": "افتاد"
-        }
-    },
-    {
-        "name": "Ufuk",
-        "gender": "Boy",
-        "meaning": "Horizon",
-        "origin": "Turkish/Arabic",
-        "id": "uf1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوفوك",
-            "Urdu": "Ufuk",
-            "Persian": "اوفوک",
-            "Turkish": "Ufuk",
-            "Bengali": "উফুক",
-            "Indonesian": "Ufuk",
-            "Pashto": "Ufuk"
-        }
-    },
-    {
-        "name": "Ufuq",
-        "gender": "Unisex",
-        "meaning": "Horizon",
-        "origin": "Quranic",
-        "id": "uf1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أفق",
-            "Urdu": "افوق",
-            "Persian": "اوفوق",
-            "Turkish": "Ufuk",
-            "Bengali": "উফুক",
-            "Indonesian": "Ufuq",
-            "Pashto": "افوق"
-        }
-    },
-    {
-        "name": "Ugareet",
-        "gender": "Boy",
-        "meaning": "Ancient city in Syria",
-        "origin": "Ancient",
-        "id": "ug2_var",
-        "verified": true,
-        "variant_of": "Ugarit",
-        "spellings": {
-            "Arabic": "اوغاريت",
-            "Urdu": "یوگریٹ",
-            "Persian": "اوگاریت",
-            "Turkish": "Ugareet",
-            "Bengali": "উগারিত",
-            "Indonesian": "Ugaret",
-            "Pashto": "یوګریټ"
-        }
-    },
-    {
-        "name": "Ugarit",
-        "gender": "Boy",
-        "meaning": "Ancient city in Syria",
-        "origin": "Ancient",
-        "id": "ug2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوغاريت",
-            "Urdu": "Ugarit",
-            "Persian": "اوگاریت",
-            "Turkish": "Ugarit",
-            "Bengali": "উগারিট",
-            "Indonesian": "Ugarit",
-            "Pashto": "Ugarit"
-        }
-    },
-    {
-        "name": "Ugoor",
-        "gender": "Boy",
-        "meaning": "Good luck",
-        "origin": "Turkish",
-        "id": "ug1_var",
-        "verified": true,
-        "variant_of": "Ugur",
-        "spellings": {
-            "Arabic": "اوجور",
-            "Urdu": "اوگور",
-            "Persian": "اوگور",
-            "Turkish": "Ugoor",
-            "Bengali": "উগুর",
-            "Indonesian": "jelek",
-            "Pashto": "اوګور"
-        }
-    },
-    {
-        "name": "Ugur",
-        "gender": "Boy",
-        "meaning": "Good luck",
-        "origin": "Turkish",
-        "id": "ug1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوغور",
-            "Urdu": "یوگور",
-            "Persian": "اوگور",
-            "Turkish": "Uğur",
-            "Bengali": "উগুর",
-            "Indonesian": "Ugur",
-            "Pashto": "اوګور"
-        }
-    },
-    {
-        "name": "Uhban",
-        "gender": "Boy",
-        "meaning": "Name of a Sahabi",
-        "origin": "Arabic",
-        "id": "uh1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوهبان",
-            "Urdu": "احبان",
-            "Persian": "اوهبان",
-            "Turkish": "Uhban",
-            "Bengali": "উহবান",
-            "Indonesian": "Uhban",
-            "Pashto": "اهبان"
-        }
-    },
-    {
-        "id": "uh1_var",
-        "name": "Uhood",
-        "gender": "Boy",
-        "meaning": "Commitment; Mountain in Medina",
-        "origin": "Islamic History",
-        "verified": true,
-        "variant_of": "Uhud",
-        "spellings": {
-            "Arabic": "اهود",
-            "Urdu": "احد",
-            "Persian": "اوهود",
-            "Turkish": "Uhood",
-            "Bengali": "উহুদ",
-            "Indonesian": "baiklah",
-            "Pashto": "اوهود"
-        }
-    },
-    {
-        "id": "uh1",
-        "name": "Uhud",
-        "gender": "Boy",
-        "meaning": "Commitment; Mountain in Medina",
-        "origin": "Islamic History",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أحد",
-            "Urdu": "احد",
-            "Persian": "احد",
-            "Turkish": "Uhud",
-            "Bengali": "উহুদ",
-            "Indonesian": "Uhud",
-            "Pashto": "احد"
-        }
-    },
-    {
-        "name": "Ujala",
-        "gender": "Girl",
-        "meaning": "Light",
-        "origin": "Urdu",
-        "id": "uj2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوجالا",
-            "Urdu": "اجالا",
-            "Persian": "اوجالا",
-            "Turkish": "Ujala",
-            "Bengali": "উজালা",
-            "Indonesian": "Ujala",
-            "Pashto": "اوجالا"
-        }
-    },
-    {
-        "name": "Ujalah",
-        "gender": "Girl",
-        "meaning": "Light",
-        "origin": "Urdu",
-        "id": "uj2_var",
-        "verified": true,
-        "variant_of": "Ujala",
-        "spellings": {
-            "Arabic": "أوجالا",
-            "Urdu": "اُجالہ",
-            "Persian": "اوجالا",
-            "Turkish": "Ujalah",
-            "Bengali": "উজালঃ",
-            "Indonesian": "Ujalah",
-            "Pashto": "اوجاله"
-        }
-    },
-    {
-        "name": "Ujang",
-        "gender": "Boy",
-        "meaning": "Son",
-        "origin": "Indonesian",
-        "id": "uj1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوجانغ",
-            "Urdu": "اجنگ",
-            "Persian": "اوجانگ",
-            "Turkish": "Ujang",
-            "Bengali": "উজং",
-            "Indonesian": "Ujang",
-            "Pashto": "اوجنګ"
-        }
-    },
-    {
-        "name": "Ujgar",
-        "gender": "Boy",
-        "meaning": "Bright",
-        "origin": "Urdu",
-        "id": "uj3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوجار",
-            "Urdu": "اجگر",
-            "Persian": "اوجگر",
-            "Turkish": "Ujgar",
-            "Bengali": "উজগার",
-            "Indonesian": "Ujgar",
-            "Pashto": "اجګر"
-        }
-    },
-    {
-        "name": "Ukashah",
-        "gender": "Boy",
-        "meaning": "Spider",
-        "origin": "Arabic",
-        "id": "uk1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عكاشة",
-            "Urdu": "عکاشہ",
-            "Persian": "اوکاشاه",
-            "Turkish": "Ukaşa",
-            "Bengali": "উকাশঃ",
-            "Indonesian": "Ukashah",
-            "Pashto": "اوکاشه"
-        }
-    },
-    {
-        "id": "ul1",
-        "name": "Ula",
-        "gender": "Girl",
-        "meaning": "High rank, prestige",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "العلا",
-            "Urdu": "اولا",
-            "Persian": "اولا",
-            "Turkish": "Ula",
-            "Bengali": "উলা",
-            "Indonesian": "Ula",
-            "Pashto": "اولا"
-        }
-    },
-    {
-        "id": "ul1_var",
-        "name": "Ulah",
-        "gender": "Girl",
-        "meaning": "High rank, prestige",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Ula",
-        "spellings": {
-            "Arabic": "أولاه",
-            "Urdu": "الاہ",
-            "Persian": "اولا",
-            "Turkish": "Ula",
-            "Bengali": "উলাহ",
-            "Indonesian": "Ulah",
-            "Pashto": "اله"
-        }
-    },
-    {
-        "name": "Ulayya",
-        "gender": "Girl",
-        "meaning": "Top of a mountain",
-        "origin": "Arabic",
-        "id": "ul4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "العليا",
-            "Urdu": "عالیہ",
-            "Persian": "اولیا",
-            "Turkish": "Ulayya",
-            "Bengali": "উলায়্যা",
-            "Indonesian": "Ulayya",
-            "Pashto": "عالیه"
-        }
-    },
-    {
-        "name": "Ulayyah",
-        "gender": "Girl",
-        "meaning": "Top of a mountain",
-        "origin": "Arabic",
-        "id": "ul4_var",
-        "verified": true,
-        "variant_of": "Ulayya",
-        "spellings": {
-            "Arabic": "العليا",
-            "Urdu": "عالیہ",
-            "Persian": "اولیا",
-            "Turkish": "Ulayyah",
-            "Bengali": "উলায়্যাহ",
-            "Indonesian": "Ulayyah",
-            "Pashto": "اولیه"
-        }
-    },
-    {
-        "id": "ul2",
-        "name": "Ulfat",
-        "gender": "Unisex",
-        "meaning": "Love, affection, familiarity",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أولفت",
-            "Urdu": "الفت",
-            "Persian": "الفت",
-            "Turkish": "Ulfat",
-            "Bengali": "উলফাত",
-            "Indonesian": "Ulfat",
-            "Pashto": "الفت"
-        }
-    },
-    {
-        "id": "ul3",
-        "name": "Ulya",
-        "gender": "Girl",
-        "meaning": "Higher, highest",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوليا",
-            "Urdu": "اولیا۔",
-            "Persian": "اولیا",
-            "Turkish": "Ulya",
-            "Bengali": "উলিয়া",
-            "Indonesian": "Ulya",
-            "Pashto": "الیا"
-        }
-    },
-    {
-        "id": "ul3_var",
-        "name": "Ulyah",
-        "gender": "Girl",
-        "meaning": "Higher, highest",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Ulya",
-        "spellings": {
-            "Arabic": "أوليا",
-            "Urdu": "اولیاء",
-            "Persian": "اولیا",
-            "Turkish": "Ulyah",
-            "Bengali": "উলিয়াহ",
-            "Indonesian": "Ulyah",
-            "Pashto": "اولیه"
-        }
-    },
-    {
-        "id": "um1_var",
-        "name": "Umaeer",
-        "gender": "Boy",
-        "meaning": "Life, long-lived",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Umair",
-        "spellings": {
-            "Arabic": "عمير",
-            "Urdu": "عمیر",
-            "Persian": "عمیر",
-            "Turkish": "Umeer",
-            "Bengali": "উমাইর",
-            "Indonesian": "Umaer",
-            "Pashto": "عمیر"
-        }
-    },
-    {
-        "id": "um1",
-        "name": "Umair",
-        "gender": "Boy",
-        "meaning": "Life, long-lived",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عمير",
-            "Urdu": "عمیر",
-            "Persian": "عمیر",
-            "Turkish": "Umeyr",
-            "Bengali": "উমাইর",
-            "Indonesian": "Umair",
-            "Pashto": "عمیر"
-        }
-    },
-    {
-        "id": "um2",
-        "name": "Umamah",
-        "gender": "Girl",
-        "meaning": "Granddaughter of the Prophet",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أمامة",
-            "Urdu": "امامہ",
-            "Persian": "امامه",
-            "Turkish": "Ümmet",
-            "Bengali": "উমামাহ",
-            "Indonesian": "Umamah",
-            "Pashto": "امامه"
-        }
-    },
-    {
-        "id": "um3",
-        "name": "Umar",
-        "gender": "Boy",
-        "meaning": "Life, long-lived; Second Caliph",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عمر",
-            "Urdu": "عمر",
-            "Persian": "عمر",
-            "Turkish": "Ömer",
-            "Bengali": "উমর রা",
-            "Indonesian": "Umar",
-            "Pashto": "عمر"
-        }
-    },
-    {
-        "id": "um4",
-        "name": "Umayma",
-        "gender": "Girl",
-        "meaning": "Little mother",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اميمة",
-            "Urdu": "عمائمہ",
-            "Persian": "امیمه",
-            "Turkish": "Umeyme",
-            "Bengali": "উমায়মা",
-            "Indonesian": "Ummamah",
-            "Pashto": "امامه"
-        }
-    },
-    {
-        "id": "um4_var",
-        "name": "Umaymah",
-        "gender": "Girl",
-        "meaning": "Little mother",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Umayma",
-        "spellings": {
-            "Arabic": "اميمة",
-            "Urdu": "امیہ",
-            "Persian": "امیمه",
-            "Turkish": "Ümeyme",
-            "Bengali": "উমায়মা",
-            "Indonesian": "Umaymah",
-            "Pashto": "امیه"
-        }
-    },
-    {
-        "id": "um5",
-        "name": "Umayr",
-        "gender": "Boy",
-        "meaning": "Old Arabic name",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عمير",
-            "Urdu": "عمیر",
-            "Persian": "عمیر",
-            "Turkish": "Umeyr",
-            "Bengali": "উমায়ের",
-            "Indonesian": "Umair",
-            "Pashto": "عمر"
-        }
-    },
-    {
-        "name": "Umayya",
-        "gender": "Girl",
-        "meaning": "Young servant",
-        "origin": "Arabic",
-        "id": "um12",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أمية",
-            "Urdu": "امیہ",
-            "Persian": "امیه",
-            "Turkish": "Emevi",
-            "Bengali": "উমাইয়া",
-            "Indonesian": "Umayyah",
-            "Pashto": "امیه"
-        }
-    },
-    {
-        "id": "um6",
-        "name": "Umayyah",
-        "gender": "Girl",
-        "meaning": "Famous Arab tribe; Young servant",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أمية",
-            "Urdu": "امیہ",
-            "Persian": "امیه",
-            "Turkish": "Emevi",
-            "Bengali": "উমাইয়া",
-            "Indonesian": "Umayyah",
-            "Pashto": "امیه"
-        }
-    },
-    {
-        "name": "Umeet",
-        "gender": "Boy",
-        "meaning": "Hope",
-        "origin": "Turkish",
-        "id": "um10_var",
-        "verified": true,
-        "variant_of": "Umit",
-        "spellings": {
-            "Arabic": "أوميت",
-            "Urdu": "اُمیت",
-            "Persian": "Umeet",
-            "Turkish": "Umeet",
-            "Bengali": "উমিত",
-            "Indonesian": "Umeet",
-            "Pashto": "Umeet"
-        }
-    },
-    {
-        "name": "Umit",
-        "gender": "Boy",
-        "meaning": "Hope",
-        "origin": "Turkish",
-        "id": "um10",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوميت",
-            "Urdu": "امت",
-            "Persian": "Umit",
-            "Turkish": "Ümit",
-            "Bengali": "উমিত",
-            "Indonesian": "Umit",
-            "Pashto": "امت"
-        }
-    },
-    {
-        "id": "um7",
-        "name": "Umm",
-        "gender": "Girl",
-        "meaning": "Mother (Used in compound names like Umm Kulthum)",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أم",
-            "Urdu": "ام",
-            "Persian": "امم",
-            "Turkish": "Hımm",
-            "Bengali": "উমম",
-            "Indonesian": "Hmm",
-            "Pashto": "ام"
-        }
-    },
-    {
-        "id": "um8_var",
-        "name": "Umm Koolthoom",
-        "gender": "Girl",
-        "meaning": "Mother of chubby face; Daughter of the Prophet",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Umm Kulthum",
-        "spellings": {
-            "Arabic": "ام كلثوم",
-            "Urdu": "ام کولتھوم",
-            "Persian": "ام کولثوم",
-            "Turkish": "Ümmü Koolthoom",
-            "Bengali": "উম্মে কুলথুম",
-            "Indonesian": "Umm Koolthoom",
-            "Pashto": "ام کولثوم"
-        }
-    },
-    {
-        "id": "um8",
-        "name": "Umm Kulthum",
-        "gender": "Girl",
-        "meaning": "Mother of chubby face; Daughter of the Prophet",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ام كلثوم",
-            "Urdu": "ام کلثوم",
-            "Persian": "ام کلثوم",
-            "Turkish": "Ümmü Gülsüm",
-            "Bengali": "উম্মে কুলথুম",
-            "Indonesian": "Ummu Kulthum",
-            "Pashto": "ام کلثوم"
-        }
-    },
-    {
-        "name": "Umm-Koolthoom",
-        "gender": "Girl",
-        "meaning": "Daughter of Prophet",
-        "origin": "Arabic",
-        "id": "um13_var",
-        "verified": true,
-        "variant_of": "Umm-Kulthum",
-        "spellings": {
-            "Arabic": "أم كلثوم",
-            "Urdu": "ام کولتھوم",
-            "Persian": "ام کولثوم",
-            "Turkish": "Umm-Koolthoom",
-            "Bengali": "উম্মে-কুলথুম",
-            "Indonesian": "Umm-Koolthoom",
-            "Pashto": "اما کولثوم"
-        }
-    },
-    {
-        "name": "Umm-Kulthum",
-        "gender": "Girl",
-        "meaning": "Daughter of Prophet",
-        "origin": "Arabic",
-        "id": "um13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أم كلثوم",
-            "Urdu": "ام کلثوم",
-            "Persian": "ام کلثوم",
-            "Turkish": "Ümmü Gülsüm",
-            "Bengali": "উম্মে-কুলথুম",
-            "Indonesian": "Umm-Kulthum",
-            "Pashto": "ام کلثوم"
-        }
-    },
-    {
-        "name": "Umme",
-        "gender": "Girl",
-        "meaning": "Mother of",
-        "origin": "Arabic",
-        "id": "um11",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أم",
-            "Urdu": "امّے۔",
-            "Persian": "اوم",
-            "Turkish": "Ümmü",
-            "Bengali": "উম্মে",
-            "Indonesian": "Um",
-            "Pashto": "اما"
-        }
-    },
-    {
-        "name": "Ummee",
-        "gender": "Girl",
-        "meaning": "My mother",
-        "origin": "Malay",
-        "id": "um7_var",
-        "verified": true,
-        "variant_of": "Ummi",
-        "spellings": {
-            "Arabic": "أومي",
-            "Urdu": "امّی",
-            "Persian": "اممی",
-            "Turkish": "Ummee",
-            "Bengali": "উম্মে",
-            "Indonesian": "Ummee",
-            "Pashto": "Ummee"
-        }
-    },
-    {
-        "name": "Ummi",
-        "gender": "Girl",
-        "meaning": "My mother",
-        "origin": "Malay",
-        "id": "um7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أومي",
-            "Urdu": "امّی۔",
-            "Persian": "اومی",
-            "Turkish": "Ümmü",
-            "Bengali": "উম্মি",
-            "Indonesian": "Ummi",
-            "Pashto": "اومی"
-        }
-    },
-    {
-        "name": "Umoot",
-        "gender": "Boy",
-        "meaning": "Hope",
-        "origin": "Turkish",
-        "id": "um1_var",
-        "verified": true,
-        "variant_of": "Umut",
-        "spellings": {
-            "Arabic": "أوموت",
-            "Urdu": "اموت",
-            "Persian": "Umoot",
-            "Turkish": "Umoot",
-            "Bengali": "উমুত",
-            "Indonesian": "Umoot",
-            "Pashto": "Umoot"
-        }
-    },
-    {
-        "id": "um9",
-        "name": "Umrah",
-        "gender": "Girl",
-        "meaning": "Pilgrimage to Mecca",
-        "origin": "Islamic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "العمرة",
-            "Urdu": "عمرہ",
-            "Persian": "عمره",
-            "Turkish": "Umre",
-            "Bengali": "ওমরাহ",
-            "Indonesian": "Umroh",
-            "Pashto": "عمره"
-        }
-    },
-    {
-        "name": "Umut",
-        "gender": "Boy",
-        "meaning": "Hope",
-        "origin": "Turkish",
-        "id": "um1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اوموت",
-            "Urdu": "اموت",
-            "Persian": "اوموت",
-            "Turkish": "umut",
-            "Bengali": "উমুত",
-            "Indonesian": "umut",
-            "Pashto": "اموت"
-        }
-    },
-    {
-        "id": "un1",
-        "name": "Unays",
-        "gender": "Boy",
-        "meaning": "Friendly, companion",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أونايس",
-            "Urdu": "انیس",
-            "Persian": "Unays",
-            "Turkish": "Üneyler",
-            "Bengali": "ইউনাইস",
-            "Indonesian": "Unays",
-            "Pashto": "انیس"
-        }
-    },
-    {
-        "id": "un2",
-        "name": "Unsa",
-        "gender": "Girl",
-        "meaning": "Woman",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أونسا",
-            "Urdu": "انسا",
-            "Persian": "اونسا",
-            "Turkish": "Unsa",
-            "Bengali": "উনসা",
-            "Indonesian": "Unsa",
-            "Pashto": "انسا"
-        }
-    },
-    {
-        "id": "un2_var",
-        "name": "Unsah",
-        "gender": "Girl",
-        "meaning": "Woman",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Unsa",
-        "spellings": {
-            "Arabic": "اونساه",
-            "Urdu": "انصاح",
-            "Persian": "Unsah",
-            "Turkish": "Ünsah",
-            "Bengali": "আনসাহ",
-            "Indonesian": "Unsa",
-            "Pashto": "Unsah"
-        }
-    },
-    {
-        "id": "uq1",
-        "name": "Uqbah",
-        "gender": "Boy",
-        "meaning": "End of everything; Famous General",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عقبة",
-            "Urdu": "عقبہ",
-            "Persian": "عقبه",
-            "Turkish": "Ukbe",
-            "Bengali": "উকবা",
-            "Indonesian": "Uqbah",
-            "Pashto": "عقبه"
-        }
-    },
-    {
-        "name": "Uqsoor",
-        "gender": "Boy",
-        "meaning": "Luxor (Egypt)",
-        "origin": "Arabic",
-        "id": "uq2_var",
-        "verified": true,
-        "variant_of": "Uqsur",
-        "spellings": {
-            "Arabic": "اقصر",
-            "Urdu": "اقسور",
-            "Persian": "اقصور",
-            "Turkish": "Uqsur",
-            "Bengali": "উকসুর",
-            "Indonesian": "Uqsoor",
-            "Pashto": "اقصور"
-        }
-    },
-    {
-        "name": "Uqsur",
-        "gender": "Boy",
-        "meaning": "Luxor (Egypt)",
-        "origin": "Arabic",
-        "id": "uq2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوكسر",
-            "Urdu": "Uqsur",
-            "Persian": "اوقسور",
-            "Turkish": "Uksur",
-            "Bengali": "উকসুর",
-            "Indonesian": "Uqsur",
-            "Pashto": "Uqsur"
-        }
-    },
-    {
-        "name": "Ur",
-        "gender": "Boy",
-        "meaning": "Ancient city (Iraq)",
-        "origin": "Sumerian",
-        "id": "ur3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أور",
-            "Urdu": "یور",
-            "Persian": "Ur",
-            "Turkish": "Ur",
-            "Bengali": "উর",
-            "Indonesian": "Anda",
-            "Pashto": "یور"
-        }
-    },
-    {
-        "name": "Urfa",
-        "gender": "Boy",
-        "meaning": "City of Prophets (Turkey)",
-        "origin": "Turkish",
-        "id": "ur4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أورفا",
-            "Urdu": "عرفہ",
-            "Persian": "اورفا",
-            "Turkish": "Urfa",
-            "Bengali": "উরফা",
-            "Indonesian": "Urfa",
-            "Pashto": "ارفا"
-        }
-    },
-    {
-        "name": "Urfah",
-        "gender": "Boy",
-        "meaning": "City of Prophets (Turkey)",
-        "origin": "Turkish",
-        "id": "ur4_var",
-        "verified": true,
-        "variant_of": "Urfa",
-        "spellings": {
-            "Arabic": "أورفة",
-            "Urdu": "عرفہ",
-            "Persian": "عرفه",
-            "Turkish": "Urfa",
-            "Bengali": "উরফাহ",
-            "Indonesian": "Urfah",
-            "Pashto": "عرفه"
-        }
-    },
-    {
-        "name": "Urmeela",
-        "gender": "Girl",
-        "meaning": "Enchantress",
-        "origin": "Urdu",
-        "id": "ur1_var",
-        "verified": true,
-        "variant_of": "Urmila",
-        "spellings": {
-            "Arabic": "أورميلا",
-            "Urdu": "ارمیلا",
-            "Persian": "اورمیلا",
-            "Turkish": "Urmeela",
-            "Bengali": "উর্মিলা",
-            "Indonesian": "Urmeela",
-            "Pashto": "ارمیلا"
-        }
-    },
-    {
-        "name": "Urmila",
-        "gender": "Girl",
-        "meaning": "Enchantress",
-        "origin": "Urdu",
-        "id": "ur1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أورميلا",
-            "Urdu": "ارمیلا",
-            "Persian": "اورمیلا",
-            "Turkish": "Urmila",
-            "Bengali": "উর্মিলা",
-            "Indonesian": "Urmila",
-            "Pashto": "ارمیلا"
-        }
-    },
-    {
-        "name": "Urmilah",
-        "gender": "Girl",
-        "meaning": "Enchantress",
-        "origin": "Urdu",
-        "id": "ur1_var",
-        "verified": true,
-        "variant_of": "Urmila",
-        "spellings": {
-            "Arabic": "أورميلا",
-            "Urdu": "ارمیلا",
-            "Persian": "ارمیله",
-            "Turkish": "Urmilah",
-            "Bengali": "উর্মিলা",
-            "Indonesian": "Urmilah",
-            "Pashto": "ارمیلا"
-        }
-    },
-    {
-        "id": "ur1",
-        "name": "Urooj",
-        "gender": "Unisex",
-        "meaning": "Ascension, mounting, rising",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوروج",
-            "Urdu": "عروج",
-            "Persian": "اروج",
-            "Turkish": "Urooj",
-            "Bengali": "উরুজ",
-            "Indonesian": "Urooj",
-            "Pashto": "اروج"
-        }
-    },
-    {
-        "name": "Uroomqi",
-        "gender": "Boy",
-        "meaning": "City in Xinjiang",
-        "origin": "Uyghur",
-        "id": "ur5_var",
-        "verified": true,
-        "variant_of": "Urumqi",
-        "spellings": {
-            "Arabic": "أورومتشي",
-            "Urdu": "ارومقی",
-            "Persian": "اورومقی",
-            "Turkish": "Uroomqi",
-            "Bengali": "উরুমকি",
-            "Indonesian": "Uroomqi",
-            "Pashto": "اورومقي"
-        }
-    },
-    {
-        "id": "ur1_var",
-        "name": "Uruj",
-        "gender": "Unisex",
-        "meaning": "Ascension, mounting, rising",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Urooj",
-        "spellings": {
-            "Arabic": "أوروج",
-            "Urdu": "اروج",
-            "Persian": "اروج",
-            "Turkish": "Uruj",
-            "Bengali": "উরুজ",
-            "Indonesian": "Uruj",
-            "Pashto": "اروج"
-        }
-    },
-    {
-        "name": "Urumqee",
-        "gender": "Boy",
-        "meaning": "City in Xinjiang",
-        "origin": "Uyghur",
-        "id": "ur5_var",
-        "verified": true,
-        "variant_of": "Urumqi",
-        "spellings": {
-            "Arabic": "أورومكي",
-            "Urdu": "ارمقی",
-            "Persian": "ارومقی",
-            "Turkish": "Urumçi",
-            "Bengali": "উরুমকি",
-            "Indonesian": "Urumqee",
-            "Pashto": "ارومقي"
-        }
-    },
-    {
-        "name": "Urumqi",
-        "gender": "Boy",
-        "meaning": "City in Xinjiang",
-        "origin": "Uyghur",
-        "id": "ur5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أورومتشي",
-            "Urdu": "ارومکی",
-            "Persian": "ارومچی",
-            "Turkish": "Urumçi",
-            "Bengali": "উরুমকি",
-            "Indonesian": "Urumqi",
-            "Pashto": "ارومچي"
-        }
-    },
-    {
-        "id": "ur2",
-        "name": "Urwah",
-        "gender": "Unisex",
-        "meaning": "Support, handle, handhold",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ارواه",
-            "Urdu": "عروہ",
-            "Persian": "اوروه",
-            "Turkish": "Urve",
-            "Bengali": "উরওয়াহ",
-            "Indonesian": "Urwah",
-            "Pashto": "ارواه"
-        }
-    },
-    {
-        "name": "Usaeem",
-        "gender": "Boy",
-        "meaning": "Little lion",
-        "origin": "Arabic",
-        "id": "us4_var",
-        "verified": true,
-        "variant_of": "Usaim",
-        "spellings": {
-            "Arabic": "أوسيم",
-            "Urdu": "عثیم",
-            "Persian": "اوسیم",
-            "Turkish": "Usaeem",
-            "Bengali": "উসাইম",
-            "Indonesian": "Gunakan",
-            "Pashto": "یوسیم"
-        }
-    },
-    {
-        "name": "Usaim",
-        "gender": "Boy",
-        "meaning": "Little lion",
-        "origin": "Arabic",
-        "id": "us4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اوسيم",
-            "Urdu": "Usaim",
-            "Persian": "اوصیم",
-            "Turkish": "Usaim",
-            "Bengali": "উসাইম",
-            "Indonesian": "usaim",
-            "Pashto": "Usaim"
-        }
-    },
-    {
-        "id": "us1",
-        "name": "Usama",
-        "gender": "Boy",
-        "meaning": "Lion",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أسامة",
-            "Urdu": "اسامہ",
-            "Persian": "اسامه",
-            "Turkish": "Usame",
-            "Bengali": "উসামা",
-            "Indonesian": "Usamah",
-            "Pashto": "اسامه"
-        }
-    },
-    {
-        "id": "us1_var",
-        "name": "Usamah",
-        "gender": "Boy",
-        "meaning": "Lion",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Usama",
-        "spellings": {
-            "Arabic": "أسامة",
-            "Urdu": "اسامہ",
-            "Persian": "اسامه",
-            "Turkish": "Usame",
-            "Bengali": "উসামাহ",
-            "Indonesian": "Usamah",
-            "Pashto": "اسامه"
-        }
-    },
-    {
-        "id": "us2",
-        "name": "Usayd",
-        "gender": "Boy",
-        "meaning": "Little lion",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أسيد",
-            "Urdu": "Usayd",
-            "Persian": "اوسید",
-            "Turkish": "Üsayd",
-            "Bengali": "Usayd",
-            "Indonesian": "Usayd",
-            "Pashto": "Usayd"
-        }
-    },
-    {
-        "id": "us3",
-        "name": "Usman",
-        "gender": "Boy",
-        "meaning": "Baby bustard; Third Caliph (Uthman)",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عثمان",
-            "Urdu": "عثمان",
-            "Persian": "عثمان",
-            "Turkish": "Osman",
-            "Bengali": "উসমান",
-            "Indonesian": "Usman",
-            "Pashto": "عثمان"
-        }
-    },
-    {
-        "id": "us4",
-        "name": "Uswah",
-        "gender": "Girl",
-        "meaning": "Sample, example",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوسواه",
-            "Urdu": "اسوہ",
-            "Persian": "اسوه",
-            "Turkish": "uswah",
-            "Bengali": "উসওয়াহ",
-            "Indonesian": "Uswah",
-            "Pashto": "اسوه"
-        }
-    },
-    {
-        "name": "Utamee",
-        "gender": "Girl",
-        "meaning": "Excellent",
-        "origin": "Indonesian",
-        "id": "ut4_var",
-        "verified": true,
-        "variant_of": "Utami",
-        "spellings": {
-            "Arabic": "أوتامي",
-            "Urdu": "Utamee",
-            "Persian": "اوتامی",
-            "Turkish": "Utamee",
-            "Bengali": "উটমী",
-            "Indonesian": "Utamee",
-            "Pashto": "Utamee"
-        }
-    },
-    {
-        "name": "Utami",
-        "gender": "Girl",
-        "meaning": "Excellent",
-        "origin": "Indonesian",
-        "id": "ut4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوتامي",
-            "Urdu": "Utami",
-            "Persian": "اوتامی",
-            "Turkish": "Utami",
-            "Bengali": "উতামি",
-            "Indonesian": "Utami",
-            "Pashto": "Utami"
-        }
-    },
-    {
-        "name": "Utbah",
-        "gender": "Boy",
-        "meaning": "Threshold",
-        "origin": "Arabic",
-        "id": "ut2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عتبة",
-            "Urdu": "عتبہ",
-            "Persian": "عتبه",
-            "Turkish": "Utbah",
-            "Bengali": "উতবাহ",
-            "Indonesian": "Utbah",
-            "Pashto": "عتبه"
-        }
-    },
-    {
-        "name": "Uthman",
-        "gender": "Boy",
-        "meaning": "Baby bustard",
-        "origin": "Arabic",
-        "id": "ut3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عثمان",
-            "Urdu": "عثمان",
-            "Persian": "عثمان",
-            "Turkish": "Osman",
-            "Bengali": "উসমান",
-            "Indonesian": "Utsman",
-            "Pashto": "عثمان"
-        }
-    },
-    {
-        "name": "Utkoo",
-        "gender": "Boy",
-        "meaning": "Victory",
-        "origin": "Turkish",
-        "id": "ut1_var",
-        "verified": true,
-        "variant_of": "Utku",
-        "spellings": {
-            "Arabic": "أوتكو",
-            "Urdu": "اتکو",
-            "Persian": "اوتکو",
-            "Turkish": "Utkoo",
-            "Bengali": "উটকু",
-            "Indonesian": "Utkoo",
-            "Pashto": "اتکو"
-        }
-    },
-    {
-        "name": "Utku",
-        "gender": "Boy",
-        "meaning": "Victory",
-        "origin": "Turkish",
-        "id": "ut1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوتكو",
-            "Urdu": "اتکو",
-            "Persian": "اوتکو",
-            "Turkish": "Utku",
-            "Bengali": "উটকু",
-            "Indonesian": "Utku",
-            "Pashto": "اتکو"
-        }
-    },
-    {
-        "id": "uw1_var",
-        "name": "Uwaees",
-        "gender": "Boy",
-        "meaning": "Small wolf",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Uwais",
-        "spellings": {
-            "Arabic": "عويس",
-            "Urdu": "اویس",
-            "Persian": "اووایی ها",
-            "Turkish": "Uwae'ler",
-            "Bengali": "উওয়াইস",
-            "Indonesian": "Uwaees",
-            "Pashto": "Uwaees"
-        }
-    },
-    {
-        "id": "uw1",
-        "name": "Uwais",
-        "gender": "Boy",
-        "meaning": "Small wolf",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عويس",
-            "Urdu": "اویس",
-            "Persian": "اویس",
-            "Turkish": "Uwais",
-            "Bengali": "উওয়াইস",
-            "Indonesian": "Uwais",
-            "Pashto": "اویس"
-        }
-    },
-    {
-        "id": "uz1_var",
-        "name": "Uzaeer",
-        "gender": "Boy",
-        "meaning": "Prophet Ezra",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Uzair",
-        "spellings": {
-            "Arabic": "عزير",
-            "Urdu": "عزیر",
-            "Persian": "عزیر",
-            "Turkish": "Uzaeer",
-            "Bengali": "উজাইর",
-            "Indonesian": "Uzaeer",
-            "Pashto": "عزیر"
-        }
-    },
-    {
-        "id": "uz1",
-        "name": "Uzair",
-        "gender": "Boy",
-        "meaning": "Prophet Ezra",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عزير",
-            "Urdu": "عزیر",
-            "Persian": "عزیر",
-            "Turkish": "Üzeyir",
-            "Bengali": "উজাইর",
-            "Indonesian": "Uzair",
-            "Pashto": "عزیر"
-        }
-    },
-    {
-        "name": "Uzayr",
-        "gender": "Boy",
-        "meaning": "Ezra (Prophet)",
-        "origin": "Quranic",
-        "id": "uz3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "عزير",
-            "Urdu": "عزیر",
-            "Persian": "عزیر",
-            "Turkish": "Üzer",
-            "Bengali": "উযায়ের",
-            "Indonesian": "Uzair",
-            "Pashto": "عزیر"
-        }
-    },
-    {
-        "name": "Uzbekeestan",
-        "gender": "Boy",
-        "meaning": "Land of Ozbeg",
-        "origin": "Turkic",
-        "id": "uz4_var",
-        "verified": true,
-        "variant_of": "Uzbekistan",
-        "spellings": {
-            "Arabic": "أوزبكستان",
-            "Urdu": "ازبیکستان",
-            "Persian": "ازبکستان",
-            "Turkish": "Özbekistan",
-            "Bengali": "উজবেকিস্তান",
-            "Indonesian": "Uzbekistan",
-            "Pashto": "ازبکستان"
-        }
-    },
-    {
-        "name": "Uzbekistan",
-        "gender": "Boy",
-        "meaning": "Land of Ozbeg",
-        "origin": "Turkic",
-        "id": "uz4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "أوزبكستان",
-            "Urdu": "ازبکستان",
-            "Persian": "ازبکستان",
-            "Turkish": "Özbekistan",
-            "Bengali": "উজবেকিস্তান",
-            "Indonesian": "Uzbekistan",
-            "Pashto": "ازبکستان"
-        }
-    },
-    {
-        "id": "uz2",
-        "name": "Uzma",
-        "gender": "Girl",
-        "meaning": "Greatest, supreme",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اوزما",
-            "Urdu": "عظمیٰ",
-            "Persian": "اوزما",
-            "Turkish": "Uzma",
-            "Bengali": "উজমা",
-            "Indonesian": "Uzma",
-            "Pashto": "اوزما"
-        }
-    },
-    {
-        "id": "uz2_var",
-        "name": "Uzmah",
-        "gender": "Girl",
-        "meaning": "Greatest, supreme",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Uzma",
-        "spellings": {
-            "Arabic": "عظمة",
-            "Urdu": "عظمیٰ",
-            "Persian": "اوزمه",
-            "Turkish": "Uzmah",
-            "Bengali": "উজমাহ",
-            "Indonesian": "Uzmah",
-            "Pashto": "عزت"
-        }
+  {
+    "name": "Ubaadah",
+    "gender": "Boy",
+    "meaning": "Worship",
+    "origin": "Arabic",
+    "id": "ub5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبادة",
+      "Urdu": "عبادہ",
+      "Persian": "عباده",
+      "Turkish": "Ubaada",
+      "Bengali": "উবাদাহ",
+      "Indonesian": "Ubaadah",
+      "Pashto": "عباده"
     }
+  },
+  {
+    "id": "ub1_var",
+    "name": "Ubaeed",
+    "gender": "Boy",
+    "meaning": "Faithful, little servant",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ubaid",
+    "spellings": {
+      "Arabic": "عبيد",
+      "Urdu": "عبید",
+      "Persian": "عبید",
+      "Turkish": "Ubaid",
+      "Bengali": "উবায়েদ",
+      "Indonesian": "Ubaed",
+      "Pashto": "عبید"
+    }
+  },
+  {
+    "name": "Ubaeeda",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ub1_var",
+    "verified": true,
+    "variant_of": "Ubaida",
+    "spellings": {
+      "Arabic": "عبيدة",
+      "Urdu": "عبیدہ",
+      "Persian": "ابعیدا",
+      "Turkish": "Ubaeeda",
+      "Bengali": "উবাইদা",
+      "Indonesian": "Ubaeeda",
+      "Pashto": "عبیده"
+    }
+  },
+  {
+    "name": "Ubaeedullah",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "id": "ub6_var",
+    "verified": true,
+    "variant_of": "Ubaidullah",
+    "spellings": {
+      "Arabic": "عبيدالله",
+      "Urdu": "عبید اللہ",
+      "Persian": "عبیدالله",
+      "Turkish": "Ubaeedullah",
+      "Bengali": "উবায়দুল্লাহ",
+      "Indonesian": "Ubaeedullah",
+      "Pashto": "عبیدالله"
+    }
+  },
+  {
+    "id": "ub1",
+    "name": "Ubaid",
+    "gender": "Boy",
+    "meaning": "Faithful, little servant",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيد",
+      "Urdu": "عبید",
+      "Persian": "عبید",
+      "Turkish": "Ubeyd",
+      "Bengali": "উবায়েদ",
+      "Indonesian": "Ubaid",
+      "Pashto": "عبيد"
+    }
+  },
+  {
+    "name": "Ubaida",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ub1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيدة",
+      "Urdu": "عبیدہ",
+      "Persian": "عبیده",
+      "Turkish": "Ubaida",
+      "Bengali": "উবাইদা",
+      "Indonesian": "Ubaida",
+      "Pashto": "عبیده"
+    }
+  },
+  {
+    "name": "Ubaidah",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ub1_var",
+    "verified": true,
+    "variant_of": "Ubaida",
+    "spellings": {
+      "Arabic": "عبيدة",
+      "Urdu": "عبیدہ",
+      "Persian": "عبیده",
+      "Turkish": "Ubeyde",
+      "Bengali": "উবাইদাহ",
+      "Indonesian": "Ubaidah",
+      "Pashto": "عبیده"
+    }
+  },
+  {
+    "name": "Ubaidoollah",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "id": "ub6_var",
+    "verified": true,
+    "variant_of": "Ubaidullah",
+    "spellings": {
+      "Arabic": "عبيد الله",
+      "Urdu": "عبیداللہ",
+      "Persian": "عبیدالله",
+      "Turkish": "Ubeydollah",
+      "Bengali": "উবায়দুল্লাহ",
+      "Indonesian": "Ubaidullah",
+      "Pashto": "عبیدالله"
+    }
+  },
+  {
+    "name": "Ubaidullah",
+    "gender": "Boy",
+    "meaning": "Little servant of God",
+    "origin": "Arabic",
+    "id": "ub6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيدالله",
+      "Urdu": "عبید اللہ",
+      "Persian": "عبیدالله",
+      "Turkish": "Ubeydullah",
+      "Bengali": "উবায়দুল্লাহ",
+      "Indonesian": "Ubaidullah",
+      "Pashto": "عبیدالله"
+    }
+  },
+  {
+    "name": "Ubay",
+    "gender": "Boy",
+    "meaning": "High self-esteem",
+    "origin": "Arabic",
+    "id": "ub2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوباي",
+      "Urdu": "ابے",
+      "Persian": "اوبای",
+      "Turkish": "Ubay",
+      "Bengali": "উবে",
+      "Indonesian": "Ubay",
+      "Pashto": "ابی"
+    }
+  },
+  {
+    "name": "Ubayd",
+    "gender": "Boy",
+    "meaning": "Worshipper",
+    "origin": "Arabic",
+    "id": "ub3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيد",
+      "Urdu": "عبید",
+      "Persian": "عبید",
+      "Turkish": "Ubeyd",
+      "Bengali": "উবায়দ",
+      "Indonesian": "Ubayd",
+      "Pashto": "عبید"
+    }
+  },
+  {
+    "name": "Ubaydoollah",
+    "gender": "Boy",
+    "meaning": "Little servant",
+    "origin": "Arabic",
+    "id": "ub4_var",
+    "verified": true,
+    "variant_of": "Ubaydullah",
+    "spellings": {
+      "Arabic": "عبيد الله",
+      "Urdu": "عبیداللہ",
+      "Persian": "عبیدالله",
+      "Turkish": "Ubaydoollah",
+      "Bengali": "উবায়দুল্লাহ",
+      "Indonesian": "Ubaydullah",
+      "Pashto": "عبیدالله"
+    }
+  },
+  {
+    "name": "Ubaydullah",
+    "gender": "Boy",
+    "meaning": "Little servant",
+    "origin": "Arabic",
+    "id": "ub4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيد الله",
+      "Urdu": "عبید اللہ",
+      "Persian": "عبیدالله",
+      "Turkish": "Ubeydullah",
+      "Bengali": "উবায়দুল্লাহ",
+      "Indonesian": "Ubaydullah",
+      "Pashto": "عبیدالله"
+    }
+  },
+  {
+    "name": "Ubayy",
+    "gender": "Boy",
+    "meaning": "High self-esteem",
+    "origin": "Arabic",
+    "id": "ub6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوبايي",
+      "Urdu": "ابی",
+      "Persian": "اوبی",
+      "Turkish": "Ubeyy",
+      "Bengali": "উবাই",
+      "Indonesian": "Ubayy",
+      "Pashto": "اوبي"
+    }
+  },
+  {
+    "name": "Udad",
+    "gender": "Boy",
+    "meaning": "Affection",
+    "origin": "Arabic",
+    "id": "ud3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوداد",
+      "Urdu": "عداد",
+      "Persian": "اوداد",
+      "Turkish": "Udad",
+      "Bengali": "উদাদ",
+      "Indonesian": "Udad",
+      "Pashto": "داد"
+    }
+  },
+  {
+    "id": "ud1",
+    "name": "Uday",
+    "gender": "Boy",
+    "meaning": "One who runs fast",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عدي",
+      "Urdu": "اودے",
+      "Persian": "عدی",
+      "Turkish": "Uday",
+      "Bengali": "উদয়",
+      "Indonesian": "Uday",
+      "Pashto": "ادې"
+    }
+  },
+  {
+    "name": "Udayl",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "ud4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عديل",
+      "Urdu": "عدیل",
+      "Persian": "عدیل",
+      "Turkish": "Udayl",
+      "Bengali": "উদয়ল",
+      "Indonesian": "Udayl",
+      "Pashto": "ادیل"
+    }
+  },
+  {
+    "id": "ud2",
+    "name": "Udays",
+    "gender": "Boy",
+    "meaning": "Small, fast runner",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عديس",
+      "Urdu": "ادیس",
+      "Persian": "عدی ها",
+      "Turkish": "Udaylar",
+      "Bengali": "উদয়স",
+      "Indonesian": "hari ini",
+      "Pashto": "اډیس"
+    }
+  },
+  {
+    "name": "Ufook",
+    "gender": "Boy",
+    "meaning": "Horizon",
+    "origin": "Turkish/Arabic",
+    "id": "uf1_var",
+    "verified": true,
+    "variant_of": "Ufuk",
+    "spellings": {
+      "Arabic": "أوفوك",
+      "Urdu": "افوک",
+      "Persian": "اوفوک",
+      "Turkish": "Ufook",
+      "Bengali": "উফুক",
+      "Indonesian": "bodoh",
+      "Pashto": "Ufook"
+    }
+  },
+  {
+    "name": "Ufooq",
+    "gender": "Unisex",
+    "meaning": "Horizon",
+    "origin": "Quranic",
+    "id": "uf1_var",
+    "verified": true,
+    "variant_of": "Ufuq",
+    "spellings": {
+      "Arabic": "أفق",
+      "Urdu": "افوق",
+      "Persian": "Ufooq",
+      "Turkish": "Ufuk",
+      "Bengali": "উফুক",
+      "Indonesian": "Ufooq",
+      "Pashto": "اوفوق"
+    }
+  },
+  {
+    "name": "Uftade",
+    "gender": "Boy",
+    "meaning": "Fallen",
+    "origin": "Persian",
+    "id": "uf2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوفتادي",
+      "Urdu": "افتاد",
+      "Persian": "اوفتاد",
+      "Turkish": "Üftade",
+      "Bengali": "উফতাদে",
+      "Indonesian": "Uftade",
+      "Pashto": "افتاد"
+    }
+  },
+  {
+    "name": "Ufuk",
+    "gender": "Boy",
+    "meaning": "Horizon",
+    "origin": "Turkish/Arabic",
+    "id": "uf1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوفوك",
+      "Urdu": "Ufuk",
+      "Persian": "اوفوک",
+      "Turkish": "Ufuk",
+      "Bengali": "উফুক",
+      "Indonesian": "Ufuk",
+      "Pashto": "Ufuk"
+    }
+  },
+  {
+    "name": "Ufuq",
+    "gender": "Unisex",
+    "meaning": "Horizon",
+    "origin": "Quranic",
+    "id": "uf1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أفق",
+      "Urdu": "افوق",
+      "Persian": "اوفوق",
+      "Turkish": "Ufuk",
+      "Bengali": "উফুক",
+      "Indonesian": "Ufuq",
+      "Pashto": "افوق"
+    }
+  },
+  {
+    "name": "Ugareet",
+    "gender": "Boy",
+    "meaning": "Ancient city in Syria",
+    "origin": "Ancient",
+    "id": "ug2_var",
+    "verified": true,
+    "variant_of": "Ugarit",
+    "spellings": {
+      "Arabic": "اوغاريت",
+      "Urdu": "یوگریٹ",
+      "Persian": "اوگاریت",
+      "Turkish": "Ugareet",
+      "Bengali": "উগারিত",
+      "Indonesian": "Ugaret",
+      "Pashto": "یوګریټ"
+    }
+  },
+  {
+    "name": "Ugarit",
+    "gender": "Boy",
+    "meaning": "Ancient city in Syria",
+    "origin": "Ancient",
+    "id": "ug2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوغاريت",
+      "Urdu": "Ugarit",
+      "Persian": "اوگاریت",
+      "Turkish": "Ugarit",
+      "Bengali": "উগারিট",
+      "Indonesian": "Ugarit",
+      "Pashto": "Ugarit"
+    }
+  },
+  {
+    "name": "Ugoor",
+    "gender": "Boy",
+    "meaning": "Good luck",
+    "origin": "Turkish",
+    "id": "ug1_var",
+    "verified": true,
+    "variant_of": "Ugur",
+    "spellings": {
+      "Arabic": "اوجور",
+      "Urdu": "اوگور",
+      "Persian": "اوگور",
+      "Turkish": "Ugoor",
+      "Bengali": "উগুর",
+      "Indonesian": "jelek",
+      "Pashto": "اوګور"
+    }
+  },
+  {
+    "name": "Ugur",
+    "gender": "Boy",
+    "meaning": "Good luck",
+    "origin": "Turkish",
+    "id": "ug1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوغور",
+      "Urdu": "یوگور",
+      "Persian": "اوگور",
+      "Turkish": "Uğur",
+      "Bengali": "উগুর",
+      "Indonesian": "Ugur",
+      "Pashto": "اوګور"
+    }
+  },
+  {
+    "name": "Uhban",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "uh1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوهبان",
+      "Urdu": "احبان",
+      "Persian": "اوهبان",
+      "Turkish": "Uhban",
+      "Bengali": "উহবান",
+      "Indonesian": "Uhban",
+      "Pashto": "اهبان"
+    }
+  },
+  {
+    "id": "uh1_var",
+    "name": "Uhood",
+    "gender": "Boy",
+    "meaning": "Commitment; Mountain in Medina",
+    "origin": "Islamic History",
+    "verified": true,
+    "variant_of": "Uhud",
+    "spellings": {
+      "Arabic": "اهود",
+      "Urdu": "احد",
+      "Persian": "اوهود",
+      "Turkish": "Uhood",
+      "Bengali": "উহুদ",
+      "Indonesian": "baiklah",
+      "Pashto": "اوهود"
+    }
+  },
+  {
+    "id": "uh1",
+    "name": "Uhud",
+    "gender": "Boy",
+    "meaning": "Commitment; Mountain in Medina",
+    "origin": "Islamic History",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أحد",
+      "Urdu": "احد",
+      "Persian": "احد",
+      "Turkish": "Uhud",
+      "Bengali": "উহুদ",
+      "Indonesian": "Uhud",
+      "Pashto": "احد"
+    }
+  },
+  {
+    "name": "Ujala",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Urdu",
+    "id": "uj2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوجالا",
+      "Urdu": "اجالا",
+      "Persian": "اوجالا",
+      "Turkish": "Ujala",
+      "Bengali": "উজালা",
+      "Indonesian": "Ujala",
+      "Pashto": "اوجالا"
+    }
+  },
+  {
+    "name": "Ujalah",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Urdu",
+    "id": "uj2_var",
+    "verified": true,
+    "variant_of": "Ujala",
+    "spellings": {
+      "Arabic": "أوجالا",
+      "Urdu": "اُجالہ",
+      "Persian": "اوجالا",
+      "Turkish": "Ujalah",
+      "Bengali": "উজালঃ",
+      "Indonesian": "Ujalah",
+      "Pashto": "اوجاله"
+    }
+  },
+  {
+    "name": "Ujang",
+    "gender": "Boy",
+    "meaning": "Son",
+    "origin": "Indonesian",
+    "id": "uj1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوجانغ",
+      "Urdu": "اجنگ",
+      "Persian": "اوجانگ",
+      "Turkish": "Ujang",
+      "Bengali": "উজং",
+      "Indonesian": "Ujang",
+      "Pashto": "اوجنګ"
+    }
+  },
+  {
+    "name": "Ujgar",
+    "gender": "Boy",
+    "meaning": "Bright",
+    "origin": "Urdu",
+    "id": "uj3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوجار",
+      "Urdu": "اجگر",
+      "Persian": "اوجگر",
+      "Turkish": "Ujgar",
+      "Bengali": "উজগার",
+      "Indonesian": "Ujgar",
+      "Pashto": "اجګر"
+    }
+  },
+  {
+    "name": "Ukashah",
+    "gender": "Boy",
+    "meaning": "Spider",
+    "origin": "Arabic",
+    "id": "uk1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عكاشة",
+      "Urdu": "عکاشہ",
+      "Persian": "اوکاشاه",
+      "Turkish": "Ukaşa",
+      "Bengali": "উকাশঃ",
+      "Indonesian": "Ukashah",
+      "Pashto": "اوکاشه"
+    }
+  },
+  {
+    "id": "ul1",
+    "name": "Ula",
+    "gender": "Girl",
+    "meaning": "High rank, prestige",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العلا",
+      "Urdu": "اولا",
+      "Persian": "اولا",
+      "Turkish": "Ula",
+      "Bengali": "উলা",
+      "Indonesian": "Ula",
+      "Pashto": "اولا"
+    }
+  },
+  {
+    "id": "ul1_var",
+    "name": "Ulah",
+    "gender": "Girl",
+    "meaning": "High rank, prestige",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ula",
+    "spellings": {
+      "Arabic": "أولاه",
+      "Urdu": "الاہ",
+      "Persian": "اولا",
+      "Turkish": "Ula",
+      "Bengali": "উলাহ",
+      "Indonesian": "Ulah",
+      "Pashto": "اله"
+    }
+  },
+  {
+    "name": "Ulayya",
+    "gender": "Girl",
+    "meaning": "Top of a mountain",
+    "origin": "Arabic",
+    "id": "ul4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العليا",
+      "Urdu": "عالیہ",
+      "Persian": "اولیا",
+      "Turkish": "Ulayya",
+      "Bengali": "উলায়্যা",
+      "Indonesian": "Ulayya",
+      "Pashto": "عالیه"
+    }
+  },
+  {
+    "name": "Ulayyah",
+    "gender": "Girl",
+    "meaning": "Top of a mountain",
+    "origin": "Arabic",
+    "id": "ul4_var",
+    "verified": true,
+    "variant_of": "Ulayya",
+    "spellings": {
+      "Arabic": "العليا",
+      "Urdu": "عالیہ",
+      "Persian": "اولیا",
+      "Turkish": "Ulayyah",
+      "Bengali": "উলায়্যাহ",
+      "Indonesian": "Ulayyah",
+      "Pashto": "اولیه"
+    }
+  },
+  {
+    "id": "ul2",
+    "name": "Ulfat",
+    "gender": "Unisex",
+    "meaning": "Love, affection, familiarity",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أولفت",
+      "Urdu": "الفت",
+      "Persian": "الفت",
+      "Turkish": "Ulfat",
+      "Bengali": "উলফাত",
+      "Indonesian": "Ulfat",
+      "Pashto": "الفت"
+    }
+  },
+  {
+    "id": "ul3",
+    "name": "Ulya",
+    "gender": "Girl",
+    "meaning": "Higher, highest",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوليا",
+      "Urdu": "اولیا۔",
+      "Persian": "اولیا",
+      "Turkish": "Ulya",
+      "Bengali": "উলিয়া",
+      "Indonesian": "Ulya",
+      "Pashto": "الیا"
+    }
+  },
+  {
+    "id": "ul3_var",
+    "name": "Ulyah",
+    "gender": "Girl",
+    "meaning": "Higher, highest",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Ulya",
+    "spellings": {
+      "Arabic": "أوليا",
+      "Urdu": "اولیاء",
+      "Persian": "اولیا",
+      "Turkish": "Ulyah",
+      "Bengali": "উলিয়াহ",
+      "Indonesian": "Ulyah",
+      "Pashto": "اولیه"
+    }
+  },
+  {
+    "id": "um1_var",
+    "name": "Umaeer",
+    "gender": "Boy",
+    "meaning": "Life, long-lived",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Umair",
+    "spellings": {
+      "Arabic": "عمير",
+      "Urdu": "عمیر",
+      "Persian": "عمیر",
+      "Turkish": "Umeer",
+      "Bengali": "উমাইর",
+      "Indonesian": "Umaer",
+      "Pashto": "عمیر"
+    }
+  },
+  {
+    "id": "um1",
+    "name": "Umair",
+    "gender": "Boy",
+    "meaning": "Life, long-lived",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عمير",
+      "Urdu": "عمیر",
+      "Persian": "عمیر",
+      "Turkish": "Umeyr",
+      "Bengali": "উমাইর",
+      "Indonesian": "Umair",
+      "Pashto": "عمیر"
+    }
+  },
+  {
+    "id": "um2",
+    "name": "Umamah",
+    "gender": "Girl",
+    "meaning": "Granddaughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمامة",
+      "Urdu": "امامہ",
+      "Persian": "امامه",
+      "Turkish": "Ümmet",
+      "Bengali": "উমামাহ",
+      "Indonesian": "Umamah",
+      "Pashto": "امامه"
+    }
+  },
+  {
+    "id": "um3",
+    "name": "Umar",
+    "gender": "Boy",
+    "meaning": "Life, long-lived; Second Caliph",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عمر",
+      "Urdu": "عمر",
+      "Persian": "عمر",
+      "Turkish": "Ömer",
+      "Bengali": "উমর রা",
+      "Indonesian": "Umar",
+      "Pashto": "عمر"
+    }
+  },
+  {
+    "id": "um4",
+    "name": "Umayma",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اميمة",
+      "Urdu": "عمائمہ",
+      "Persian": "امیمه",
+      "Turkish": "Umeyme",
+      "Bengali": "উমায়মা",
+      "Indonesian": "Ummamah",
+      "Pashto": "امامه"
+    }
+  },
+  {
+    "id": "um4_var",
+    "name": "Umaymah",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Umayma",
+    "spellings": {
+      "Arabic": "اميمة",
+      "Urdu": "امیہ",
+      "Persian": "امیمه",
+      "Turkish": "Ümeyme",
+      "Bengali": "উমায়মা",
+      "Indonesian": "Umaymah",
+      "Pashto": "امیه"
+    }
+  },
+  {
+    "id": "um5",
+    "name": "Umayr",
+    "gender": "Boy",
+    "meaning": "Old Arabic name",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عمير",
+      "Urdu": "عمیر",
+      "Persian": "عمیر",
+      "Turkish": "Umeyr",
+      "Bengali": "উমায়ের",
+      "Indonesian": "Umair",
+      "Pashto": "عمر"
+    }
+  },
+  {
+    "name": "Umayya",
+    "gender": "Girl",
+    "meaning": "Young servant",
+    "origin": "Arabic",
+    "id": "um12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمية",
+      "Urdu": "امیہ",
+      "Persian": "امیه",
+      "Turkish": "Emevi",
+      "Bengali": "উমাইয়া",
+      "Indonesian": "Umayyah",
+      "Pashto": "امیه"
+    }
+  },
+  {
+    "id": "um6",
+    "name": "Umayyah",
+    "gender": "Girl",
+    "meaning": "Famous Arab tribe; Young servant",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمية",
+      "Urdu": "امیہ",
+      "Persian": "امیه",
+      "Turkish": "Emevi",
+      "Bengali": "উমাইয়া",
+      "Indonesian": "Umayyah",
+      "Pashto": "امیه"
+    }
+  },
+  {
+    "name": "Umeet",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Turkish",
+    "id": "um10_var",
+    "verified": true,
+    "variant_of": "Umit",
+    "spellings": {
+      "Arabic": "أوميت",
+      "Urdu": "اُمیت",
+      "Persian": "Umeet",
+      "Turkish": "Umeet",
+      "Bengali": "উমিত",
+      "Indonesian": "Umeet",
+      "Pashto": "Umeet"
+    }
+  },
+  {
+    "name": "Umit",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Turkish",
+    "id": "um10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوميت",
+      "Urdu": "امت",
+      "Persian": "Umit",
+      "Turkish": "Ümit",
+      "Bengali": "উমিত",
+      "Indonesian": "Umit",
+      "Pashto": "امت"
+    }
+  },
+  {
+    "id": "um7",
+    "name": "Umm",
+    "gender": "Girl",
+    "meaning": "Mother (Used in compound names like Umm Kulthum)",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أم",
+      "Urdu": "ام",
+      "Persian": "امم",
+      "Turkish": "Hımm",
+      "Bengali": "উমম",
+      "Indonesian": "Hmm",
+      "Pashto": "ام"
+    }
+  },
+  {
+    "id": "um8_var",
+    "name": "Umm Koolthoom",
+    "gender": "Girl",
+    "meaning": "Mother of chubby face; Daughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Umm Kulthum",
+    "spellings": {
+      "Arabic": "ام كلثوم",
+      "Urdu": "ام کولتھوم",
+      "Persian": "ام کولثوم",
+      "Turkish": "Ümmü Koolthoom",
+      "Bengali": "উম্মে কুলথুম",
+      "Indonesian": "Umm Koolthoom",
+      "Pashto": "ام کولثوم"
+    }
+  },
+  {
+    "id": "um8",
+    "name": "Umm Kulthum",
+    "gender": "Girl",
+    "meaning": "Mother of chubby face; Daughter of the Prophet",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ام كلثوم",
+      "Urdu": "ام کلثوم",
+      "Persian": "ام کلثوم",
+      "Turkish": "Ümmü Gülsüm",
+      "Bengali": "উম্মে কুলথুম",
+      "Indonesian": "Ummu Kulthum",
+      "Pashto": "ام کلثوم"
+    }
+  },
+  {
+    "name": "Umm-Koolthoom",
+    "gender": "Girl",
+    "meaning": "Daughter of Prophet",
+    "origin": "Arabic",
+    "id": "um13_var",
+    "verified": true,
+    "variant_of": "Umm-Kulthum",
+    "spellings": {
+      "Arabic": "أم كلثوم",
+      "Urdu": "ام کولتھوم",
+      "Persian": "ام کولثوم",
+      "Turkish": "Umm-Koolthoom",
+      "Bengali": "উম্মে-কুলথুম",
+      "Indonesian": "Umm-Koolthoom",
+      "Pashto": "اما کولثوم"
+    }
+  },
+  {
+    "name": "Umm-Kulthum",
+    "gender": "Girl",
+    "meaning": "Daughter of Prophet",
+    "origin": "Arabic",
+    "id": "um13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أم كلثوم",
+      "Urdu": "ام کلثوم",
+      "Persian": "ام کلثوم",
+      "Turkish": "Ümmü Gülsüm",
+      "Bengali": "উম্মে-কুলথুম",
+      "Indonesian": "Umm-Kulthum",
+      "Pashto": "ام کلثوم"
+    }
+  },
+  {
+    "name": "Umme",
+    "gender": "Girl",
+    "meaning": "Mother of",
+    "origin": "Arabic",
+    "id": "um11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أم",
+      "Urdu": "امّے۔",
+      "Persian": "اوم",
+      "Turkish": "Ümmü",
+      "Bengali": "উম্মে",
+      "Indonesian": "Um",
+      "Pashto": "اما"
+    }
+  },
+  {
+    "name": "Ummee",
+    "gender": "Girl",
+    "meaning": "My mother",
+    "origin": "Malay",
+    "id": "um7_var",
+    "verified": true,
+    "variant_of": "Ummi",
+    "spellings": {
+      "Arabic": "أومي",
+      "Urdu": "امّی",
+      "Persian": "اممی",
+      "Turkish": "Ummee",
+      "Bengali": "উম্মে",
+      "Indonesian": "Ummee",
+      "Pashto": "Ummee"
+    }
+  },
+  {
+    "name": "Ummi",
+    "gender": "Girl",
+    "meaning": "My mother",
+    "origin": "Malay",
+    "id": "um7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أومي",
+      "Urdu": "امّی۔",
+      "Persian": "اومی",
+      "Turkish": "Ümmü",
+      "Bengali": "উম্মি",
+      "Indonesian": "Ummi",
+      "Pashto": "اومی"
+    }
+  },
+  {
+    "name": "Umoot",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Turkish",
+    "id": "um1_var",
+    "verified": true,
+    "variant_of": "Umut",
+    "spellings": {
+      "Arabic": "أوموت",
+      "Urdu": "اموت",
+      "Persian": "Umoot",
+      "Turkish": "Umoot",
+      "Bengali": "উমুত",
+      "Indonesian": "Umoot",
+      "Pashto": "Umoot"
+    }
+  },
+  {
+    "id": "um9",
+    "name": "Umrah",
+    "gender": "Girl",
+    "meaning": "Pilgrimage to Mecca",
+    "origin": "Islamic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العمرة",
+      "Urdu": "عمرہ",
+      "Persian": "عمره",
+      "Turkish": "Umre",
+      "Bengali": "ওমরাহ",
+      "Indonesian": "Umroh",
+      "Pashto": "عمره"
+    }
+  },
+  {
+    "name": "Umut",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Turkish",
+    "id": "um1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اوموت",
+      "Urdu": "اموت",
+      "Persian": "اوموت",
+      "Turkish": "umut",
+      "Bengali": "উমুত",
+      "Indonesian": "umut",
+      "Pashto": "اموت"
+    }
+  },
+  {
+    "id": "un1",
+    "name": "Unays",
+    "gender": "Boy",
+    "meaning": "Friendly, companion",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أونايس",
+      "Urdu": "انیس",
+      "Persian": "Unays",
+      "Turkish": "Üneyler",
+      "Bengali": "ইউনাইস",
+      "Indonesian": "Unays",
+      "Pashto": "انیس"
+    }
+  },
+  {
+    "id": "un2",
+    "name": "Unsa",
+    "gender": "Girl",
+    "meaning": "Woman",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أونسا",
+      "Urdu": "انسا",
+      "Persian": "اونسا",
+      "Turkish": "Unsa",
+      "Bengali": "উনসা",
+      "Indonesian": "Unsa",
+      "Pashto": "انسا"
+    }
+  },
+  {
+    "id": "un2_var",
+    "name": "Unsah",
+    "gender": "Girl",
+    "meaning": "Woman",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Unsa",
+    "spellings": {
+      "Arabic": "اونساه",
+      "Urdu": "انصاح",
+      "Persian": "Unsah",
+      "Turkish": "Ünsah",
+      "Bengali": "আনসাহ",
+      "Indonesian": "Unsa",
+      "Pashto": "Unsah"
+    }
+  },
+  {
+    "id": "uq1",
+    "name": "Uqbah",
+    "gender": "Boy",
+    "meaning": "End of everything; Famous General",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عقبة",
+      "Urdu": "عقبہ",
+      "Persian": "عقبه",
+      "Turkish": "Ukbe",
+      "Bengali": "উকবা",
+      "Indonesian": "Uqbah",
+      "Pashto": "عقبه"
+    }
+  },
+  {
+    "name": "Uqsoor",
+    "gender": "Boy",
+    "meaning": "Luxor (Egypt)",
+    "origin": "Arabic",
+    "id": "uq2_var",
+    "verified": true,
+    "variant_of": "Uqsur",
+    "spellings": {
+      "Arabic": "اقصر",
+      "Urdu": "اقسور",
+      "Persian": "اقصور",
+      "Turkish": "Uqsur",
+      "Bengali": "উকসুর",
+      "Indonesian": "Uqsoor",
+      "Pashto": "اقصور"
+    }
+  },
+  {
+    "name": "Uqsur",
+    "gender": "Boy",
+    "meaning": "Luxor (Egypt)",
+    "origin": "Arabic",
+    "id": "uq2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوكسر",
+      "Urdu": "Uqsur",
+      "Persian": "اوقسور",
+      "Turkish": "Uksur",
+      "Bengali": "উকসুর",
+      "Indonesian": "Uqsur",
+      "Pashto": "Uqsur"
+    }
+  },
+  {
+    "name": "Ur",
+    "gender": "Boy",
+    "meaning": "Ancient city (Iraq)",
+    "origin": "Sumerian",
+    "id": "ur3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أور",
+      "Urdu": "یور",
+      "Persian": "Ur",
+      "Turkish": "Ur",
+      "Bengali": "উর",
+      "Indonesian": "Anda",
+      "Pashto": "یور"
+    }
+  },
+  {
+    "name": "Urfa",
+    "gender": "Boy",
+    "meaning": "City of Prophets (Turkey)",
+    "origin": "Turkish",
+    "id": "ur4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أورفا",
+      "Urdu": "عرفہ",
+      "Persian": "اورفا",
+      "Turkish": "Urfa",
+      "Bengali": "উরফা",
+      "Indonesian": "Urfa",
+      "Pashto": "ارفا"
+    }
+  },
+  {
+    "name": "Urfah",
+    "gender": "Boy",
+    "meaning": "City of Prophets (Turkey)",
+    "origin": "Turkish",
+    "id": "ur4_var",
+    "verified": true,
+    "variant_of": "Urfa",
+    "spellings": {
+      "Arabic": "أورفة",
+      "Urdu": "عرفہ",
+      "Persian": "عرفه",
+      "Turkish": "Urfa",
+      "Bengali": "উরফাহ",
+      "Indonesian": "Urfah",
+      "Pashto": "عرفه"
+    }
+  },
+  {
+    "name": "Urmeela",
+    "gender": "Girl",
+    "meaning": "Enchantress",
+    "origin": "Urdu",
+    "id": "ur1_var",
+    "verified": true,
+    "variant_of": "Urmila",
+    "spellings": {
+      "Arabic": "أورميلا",
+      "Urdu": "ارمیلا",
+      "Persian": "اورمیلا",
+      "Turkish": "Urmeela",
+      "Bengali": "উর্মিলা",
+      "Indonesian": "Urmeela",
+      "Pashto": "ارمیلا"
+    }
+  },
+  {
+    "name": "Urmila",
+    "gender": "Girl",
+    "meaning": "Enchantress",
+    "origin": "Urdu",
+    "id": "ur1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أورميلا",
+      "Urdu": "ارمیلا",
+      "Persian": "اورمیلا",
+      "Turkish": "Urmila",
+      "Bengali": "উর্মিলা",
+      "Indonesian": "Urmila",
+      "Pashto": "ارمیلا"
+    }
+  },
+  {
+    "name": "Urmilah",
+    "gender": "Girl",
+    "meaning": "Enchantress",
+    "origin": "Urdu",
+    "id": "ur1_var",
+    "verified": true,
+    "variant_of": "Urmila",
+    "spellings": {
+      "Arabic": "أورميلا",
+      "Urdu": "ارمیلا",
+      "Persian": "ارمیله",
+      "Turkish": "Urmilah",
+      "Bengali": "উর্মিলা",
+      "Indonesian": "Urmilah",
+      "Pashto": "ارمیلا"
+    }
+  },
+  {
+    "id": "ur1",
+    "name": "Urooj",
+    "gender": "Unisex",
+    "meaning": "Ascension, mounting, rising",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوروج",
+      "Urdu": "عروج",
+      "Persian": "اروج",
+      "Turkish": "Urooj",
+      "Bengali": "উরুজ",
+      "Indonesian": "Urooj",
+      "Pashto": "اروج"
+    }
+  },
+  {
+    "name": "Uroomqi",
+    "gender": "Boy",
+    "meaning": "City in Xinjiang",
+    "origin": "Uyghur",
+    "id": "ur5_var",
+    "verified": true,
+    "variant_of": "Urumqi",
+    "spellings": {
+      "Arabic": "أورومتشي",
+      "Urdu": "ارومقی",
+      "Persian": "اورومقی",
+      "Turkish": "Uroomqi",
+      "Bengali": "উরুমকি",
+      "Indonesian": "Uroomqi",
+      "Pashto": "اورومقي"
+    }
+  },
+  {
+    "id": "ur1_var",
+    "name": "Uruj",
+    "gender": "Unisex",
+    "meaning": "Ascension, mounting, rising",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Urooj",
+    "spellings": {
+      "Arabic": "أوروج",
+      "Urdu": "اروج",
+      "Persian": "اروج",
+      "Turkish": "Uruj",
+      "Bengali": "উরুজ",
+      "Indonesian": "Uruj",
+      "Pashto": "اروج"
+    }
+  },
+  {
+    "name": "Urumqee",
+    "gender": "Boy",
+    "meaning": "City in Xinjiang",
+    "origin": "Uyghur",
+    "id": "ur5_var",
+    "verified": true,
+    "variant_of": "Urumqi",
+    "spellings": {
+      "Arabic": "أورومكي",
+      "Urdu": "ارمقی",
+      "Persian": "ارومقی",
+      "Turkish": "Urumçi",
+      "Bengali": "উরুমকি",
+      "Indonesian": "Urumqee",
+      "Pashto": "ارومقي"
+    }
+  },
+  {
+    "name": "Urumqi",
+    "gender": "Boy",
+    "meaning": "City in Xinjiang",
+    "origin": "Uyghur",
+    "id": "ur5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أورومتشي",
+      "Urdu": "ارومکی",
+      "Persian": "ارومچی",
+      "Turkish": "Urumçi",
+      "Bengali": "উরুমকি",
+      "Indonesian": "Urumqi",
+      "Pashto": "ارومچي"
+    }
+  },
+  {
+    "id": "ur2",
+    "name": "Urwah",
+    "gender": "Unisex",
+    "meaning": "Support, handle, handhold",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ارواه",
+      "Urdu": "عروہ",
+      "Persian": "اوروه",
+      "Turkish": "Urve",
+      "Bengali": "উরওয়াহ",
+      "Indonesian": "Urwah",
+      "Pashto": "ارواه"
+    }
+  },
+  {
+    "name": "Usaeem",
+    "gender": "Boy",
+    "meaning": "Little lion",
+    "origin": "Arabic",
+    "id": "us4_var",
+    "verified": true,
+    "variant_of": "Usaim",
+    "spellings": {
+      "Arabic": "أوسيم",
+      "Urdu": "عثیم",
+      "Persian": "اوسیم",
+      "Turkish": "Usaeem",
+      "Bengali": "উসাইম",
+      "Indonesian": "Gunakan",
+      "Pashto": "یوسیم"
+    }
+  },
+  {
+    "name": "Usaim",
+    "gender": "Boy",
+    "meaning": "Little lion",
+    "origin": "Arabic",
+    "id": "us4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اوسيم",
+      "Urdu": "Usaim",
+      "Persian": "اوصیم",
+      "Turkish": "Usaim",
+      "Bengali": "উসাইম",
+      "Indonesian": "usaim",
+      "Pashto": "Usaim"
+    }
+  },
+  {
+    "id": "us1",
+    "name": "Usama",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسامة",
+      "Urdu": "اسامہ",
+      "Persian": "اسامه",
+      "Turkish": "Usame",
+      "Bengali": "উসামা",
+      "Indonesian": "Usamah",
+      "Pashto": "اسامه"
+    }
+  },
+  {
+    "id": "us1_var",
+    "name": "Usamah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Usama",
+    "spellings": {
+      "Arabic": "أسامة",
+      "Urdu": "اسامہ",
+      "Persian": "اسامه",
+      "Turkish": "Usame",
+      "Bengali": "উসামাহ",
+      "Indonesian": "Usamah",
+      "Pashto": "اسامه"
+    }
+  },
+  {
+    "id": "us2",
+    "name": "Usayd",
+    "gender": "Boy",
+    "meaning": "Little lion",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسيد",
+      "Urdu": "Usayd",
+      "Persian": "اوسید",
+      "Turkish": "Üsayd",
+      "Bengali": "Usayd",
+      "Indonesian": "Usayd",
+      "Pashto": "Usayd"
+    }
+  },
+  {
+    "id": "us3",
+    "name": "Usman",
+    "gender": "Boy",
+    "meaning": "Baby bustard; Third Caliph (Uthman)",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عثمان",
+      "Urdu": "عثمان",
+      "Persian": "عثمان",
+      "Turkish": "Osman",
+      "Bengali": "উসমান",
+      "Indonesian": "Usman",
+      "Pashto": "عثمان"
+    }
+  },
+  {
+    "id": "us4",
+    "name": "Uswah",
+    "gender": "Girl",
+    "meaning": "Sample, example",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوسواه",
+      "Urdu": "اسوہ",
+      "Persian": "اسوه",
+      "Turkish": "uswah",
+      "Bengali": "উসওয়াহ",
+      "Indonesian": "Uswah",
+      "Pashto": "اسوه"
+    }
+  },
+  {
+    "name": "Utamee",
+    "gender": "Girl",
+    "meaning": "Excellent",
+    "origin": "Indonesian",
+    "id": "ut4_var",
+    "verified": true,
+    "variant_of": "Utami",
+    "spellings": {
+      "Arabic": "أوتامي",
+      "Urdu": "Utamee",
+      "Persian": "اوتامی",
+      "Turkish": "Utamee",
+      "Bengali": "উটমী",
+      "Indonesian": "Utamee",
+      "Pashto": "Utamee"
+    }
+  },
+  {
+    "name": "Utami",
+    "gender": "Girl",
+    "meaning": "Excellent",
+    "origin": "Indonesian",
+    "id": "ut4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوتامي",
+      "Urdu": "Utami",
+      "Persian": "اوتامی",
+      "Turkish": "Utami",
+      "Bengali": "উতামি",
+      "Indonesian": "Utami",
+      "Pashto": "Utami"
+    }
+  },
+  {
+    "name": "Utbah",
+    "gender": "Boy",
+    "meaning": "Threshold",
+    "origin": "Arabic",
+    "id": "ut2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عتبة",
+      "Urdu": "عتبہ",
+      "Persian": "عتبه",
+      "Turkish": "Utbah",
+      "Bengali": "উতবাহ",
+      "Indonesian": "Utbah",
+      "Pashto": "عتبه"
+    }
+  },
+  {
+    "name": "Uthman",
+    "gender": "Boy",
+    "meaning": "Baby bustard",
+    "origin": "Arabic",
+    "id": "ut3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عثمان",
+      "Urdu": "عثمان",
+      "Persian": "عثمان",
+      "Turkish": "Osman",
+      "Bengali": "উসমান",
+      "Indonesian": "Utsman",
+      "Pashto": "عثمان"
+    }
+  },
+  {
+    "name": "Utkoo",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Turkish",
+    "id": "ut1_var",
+    "verified": true,
+    "variant_of": "Utku",
+    "spellings": {
+      "Arabic": "أوتكو",
+      "Urdu": "اتکو",
+      "Persian": "اوتکو",
+      "Turkish": "Utkoo",
+      "Bengali": "উটকু",
+      "Indonesian": "Utkoo",
+      "Pashto": "اتکو"
+    }
+  },
+  {
+    "name": "Utku",
+    "gender": "Boy",
+    "meaning": "Victory",
+    "origin": "Turkish",
+    "id": "ut1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوتكو",
+      "Urdu": "اتکو",
+      "Persian": "اوتکو",
+      "Turkish": "Utku",
+      "Bengali": "উটকু",
+      "Indonesian": "Utku",
+      "Pashto": "اتکو"
+    }
+  },
+  {
+    "id": "uw1_var",
+    "name": "Uwaees",
+    "gender": "Boy",
+    "meaning": "Small wolf",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Uwais",
+    "spellings": {
+      "Arabic": "عويس",
+      "Urdu": "اویس",
+      "Persian": "اووایی ها",
+      "Turkish": "Uwae'ler",
+      "Bengali": "উওয়াইস",
+      "Indonesian": "Uwaees",
+      "Pashto": "Uwaees"
+    }
+  },
+  {
+    "id": "uw1",
+    "name": "Uwais",
+    "gender": "Boy",
+    "meaning": "Small wolf",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عويس",
+      "Urdu": "اویس",
+      "Persian": "اویس",
+      "Turkish": "Uwais",
+      "Bengali": "উওয়াইস",
+      "Indonesian": "Uwais",
+      "Pashto": "اویس"
+    }
+  },
+  {
+    "id": "uz1_var",
+    "name": "Uzaeer",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Uzair",
+    "spellings": {
+      "Arabic": "عزير",
+      "Urdu": "عزیر",
+      "Persian": "عزیر",
+      "Turkish": "Uzaeer",
+      "Bengali": "উজাইর",
+      "Indonesian": "Uzaeer",
+      "Pashto": "عزیر"
+    }
+  },
+  {
+    "id": "uz1",
+    "name": "Uzair",
+    "gender": "Boy",
+    "meaning": "Prophet Ezra",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عزير",
+      "Urdu": "عزیر",
+      "Persian": "عزیر",
+      "Turkish": "Üzeyir",
+      "Bengali": "উজাইর",
+      "Indonesian": "Uzair",
+      "Pashto": "عزیر"
+    }
+  },
+  {
+    "name": "Uzayr",
+    "gender": "Boy",
+    "meaning": "Ezra (Prophet)",
+    "origin": "Quranic",
+    "id": "uz3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عزير",
+      "Urdu": "عزیر",
+      "Persian": "عزیر",
+      "Turkish": "Üzer",
+      "Bengali": "উযায়ের",
+      "Indonesian": "Uzair",
+      "Pashto": "عزیر"
+    }
+  },
+  {
+    "name": "Uzbekeestan",
+    "gender": "Boy",
+    "meaning": "Land of Ozbeg",
+    "origin": "Turkic",
+    "id": "uz4_var",
+    "verified": true,
+    "variant_of": "Uzbekistan",
+    "spellings": {
+      "Arabic": "أوزبكستان",
+      "Urdu": "ازبیکستان",
+      "Persian": "ازبکستان",
+      "Turkish": "Özbekistan",
+      "Bengali": "উজবেকিস্তান",
+      "Indonesian": "Uzbekistan",
+      "Pashto": "ازبکستان"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "gender": "Boy",
+    "meaning": "Land of Ozbeg",
+    "origin": "Turkic",
+    "id": "uz4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أوزبكستان",
+      "Urdu": "ازبکستان",
+      "Persian": "ازبکستان",
+      "Turkish": "Özbekistan",
+      "Bengali": "উজবেকিস্তান",
+      "Indonesian": "Uzbekistan",
+      "Pashto": "ازبکستان"
+    }
+  },
+  {
+    "id": "uz2",
+    "name": "Uzma",
+    "gender": "Girl",
+    "meaning": "Greatest, supreme",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اوزما",
+      "Urdu": "عظمیٰ",
+      "Persian": "اوزما",
+      "Turkish": "Uzma",
+      "Bengali": "উজমা",
+      "Indonesian": "Uzma",
+      "Pashto": "اوزما"
+    }
+  },
+  {
+    "id": "uz2_var",
+    "name": "Uzmah",
+    "gender": "Girl",
+    "meaning": "Greatest, supreme",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Uzma",
+    "spellings": {
+      "Arabic": "عظمة",
+      "Urdu": "عظمیٰ",
+      "Persian": "اوزمه",
+      "Turkish": "Uzmah",
+      "Bengali": "উজমাহ",
+      "Indonesian": "Uzmah",
+      "Pashto": "عزت"
+    }
+  }
 ]

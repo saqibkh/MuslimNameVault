@@ -1,3049 +1,3049 @@
 [
-    {
-        "name": "Qaabeel",
-        "gender": "Boy",
-        "meaning": "Acceptor, approver",
-        "origin": "Arabic",
-        "id": "qa11_var",
-        "verified": true,
-        "variant_of": "Qaabil",
-        "spellings": {
-            "Arabic": "قابيل",
-            "Urdu": "قابیل",
-            "Persian": "قابیل",
-            "Turkish": "Kabeel",
-            "Bengali": "কাবিল",
-            "Indonesian": "Qaabeel",
-            "Pashto": "قابیل"
-        }
-    },
-    {
-        "name": "Qaabil",
-        "gender": "Boy",
-        "meaning": "Acceptor, approver",
-        "origin": "Arabic",
-        "id": "qa11",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قابيل",
-            "Urdu": "قابیل",
-            "Persian": "قابیل",
-            "Turkish": "Kabil",
-            "Bengali": "কাবিল",
-            "Indonesian": "Qabil",
-            "Pashto": "قابیل"
-        }
-    },
-    {
-        "name": "Qaaeed",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Arabic",
-        "id": "qa39_var",
-        "verified": true,
-        "variant_of": "Qaaid",
-        "spellings": {
-            "Arabic": "قعيد",
-            "Urdu": "قاید",
-            "Persian": "قائد",
-            "Turkish": "kaaid",
-            "Bengali": "কায়েদ",
-            "Indonesian": "Qaaeed",
-            "Pashto": "قاید"
-        }
-    },
-    {
-        "name": "Qaaid",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Arabic",
-        "id": "qa39",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قايد",
-            "Urdu": "قاید",
-            "Persian": "قائد",
-            "Turkish": "Kaid",
-            "Bengali": "কায়েদ",
-            "Indonesian": "Qaaid",
-            "Pashto": "قاید"
-        }
-    },
-    {
-        "name": "Qaaneea",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa12_var",
-        "verified": true,
-        "variant_of": "Qaania",
-        "spellings": {
-            "Arabic": "قانيا",
-            "Urdu": "قانیہ",
-            "Persian": "قانعیا",
-            "Turkish": "Qaaneea",
-            "Bengali": "কানেয়া",
-            "Indonesian": "Qaaneea",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qaaneet",
-        "gender": "Boy",
-        "meaning": "Obedient",
-        "origin": "Arabic",
-        "id": "qa37_var",
-        "verified": true,
-        "variant_of": "Qaanit",
-        "spellings": {
-            "Arabic": "قانيت",
-            "Urdu": "قنیت",
-            "Persian": "قانعیت",
-            "Turkish": "Qaaneet",
-            "Bengali": "কাআনীত",
-            "Indonesian": "Qaaneet",
-            "Pashto": "قانیت"
-        }
-    },
-    {
-        "name": "Qaania",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa12",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قانيا",
-            "Urdu": "قاانیہ",
-            "Persian": "قاآنیا",
-            "Turkish": "Qaania",
-            "Bengali": "কানিয়া",
-            "Indonesian": "Qaania",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qaaniah",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa12_var",
-        "verified": true,
-        "variant_of": "Qaania",
-        "spellings": {
-            "Arabic": "قانية",
-            "Urdu": "قانیہ",
-            "Persian": "قاآنیه",
-            "Turkish": "Qaaniah",
-            "Bengali": "কানিয়াহ",
-            "Indonesian": "Qaaniah",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qaanit",
-        "gender": "Boy",
-        "meaning": "Obedient",
-        "origin": "Arabic",
-        "id": "qa37",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قانيت",
-            "Urdu": "قاانیت",
-            "Persian": "قاآنیت",
-            "Turkish": "Kaanit",
-            "Bengali": "কানিত",
-            "Indonesian": "Qaanit",
-            "Pashto": "قانیت"
-        }
-    },
-    {
-        "name": "Qaaseem",
-        "gender": "Boy",
-        "meaning": "Divider",
-        "origin": "Arabic",
-        "id": "qa38_var",
-        "verified": true,
-        "variant_of": "Qaasim",
-        "spellings": {
-            "Arabic": "قاسم",
-            "Urdu": "قاسم",
-            "Persian": "قاسم",
-            "Turkish": "Kasım",
-            "Bengali": "কাসিম",
-            "Indonesian": "Qaaseem",
-            "Pashto": "قاسم"
-        }
-    },
-    {
-        "name": "Qaasim",
-        "gender": "Boy",
-        "meaning": "Divider",
-        "origin": "Arabic",
-        "id": "qa38",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسم",
-            "Urdu": "قاسم",
-            "Persian": "قاسم",
-            "Turkish": "Kasım",
-            "Bengali": "কাসিম",
-            "Indonesian": "Qasim",
-            "Pashto": "قاسم"
-        }
-    },
-    {
-        "name": "Qabeed",
-        "gender": "Boy",
-        "meaning": "Good runner",
-        "origin": "Arabic",
-        "id": "qa13_var",
-        "verified": true,
-        "variant_of": "Qabid",
-        "spellings": {
-            "Arabic": "قبيد",
-            "Urdu": "قبید",
-            "Persian": "قابید",
-            "Turkish": "Kabid",
-            "Bengali": "কাবেদ",
-            "Indonesian": "Qabeed",
-            "Pashto": "قباید"
-        }
-    },
-    {
-        "name": "Qabeel",
-        "gender": "Boy",
-        "meaning": "Able; Capable",
-        "origin": "Arabic",
-        "id": "qa1_var",
-        "verified": true,
-        "variant_of": "Qabil",
-        "spellings": {
-            "Arabic": "قابيل",
-            "Urdu": "قابیل",
-            "Persian": "قبیل",
-            "Turkish": "Kabeel",
-            "Bengali": "কাবিল",
-            "Indonesian": "Qabeel",
-            "Pashto": "قابیل"
-        }
-    },
-    {
-        "name": "Qabid",
-        "gender": "Boy",
-        "meaning": "Good runner",
-        "origin": "Arabic",
-        "id": "qa13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قبيد",
-            "Urdu": "قباد",
-            "Persian": "قابید",
-            "Turkish": "Kabid",
-            "Bengali": "কাবিদ",
-            "Indonesian": "Qabid",
-            "Pashto": "قباد"
-        }
-    },
-    {
-        "name": "Qabil",
-        "gender": "Boy",
-        "meaning": "Able; Capable",
-        "origin": "Arabic",
-        "id": "qa1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قابل",
-            "Urdu": "قابیل",
-            "Persian": "قابیل",
-            "Turkish": "Kabil",
-            "Bengali": "কাবিল",
-            "Indonesian": "Qabil",
-            "Pashto": "قابیل"
-        }
-    },
-    {
-        "name": "Qaboos",
-        "gender": "Boy",
-        "meaning": "Handsome",
-        "origin": "Arabic",
-        "id": "qa2_var",
-        "verified": true,
-        "variant_of": "Qabus",
-        "spellings": {
-            "Arabic": "قابوس",
-            "Urdu": "قابوس",
-            "Persian": "قابوس",
-            "Turkish": "Kabus",
-            "Bengali": "কাবুস",
-            "Indonesian": "Qaboo",
-            "Pashto": "قابوس"
-        }
-    },
-    {
-        "name": "Qabus",
-        "gender": "Boy",
-        "meaning": "Handsome",
-        "origin": "Arabic",
-        "id": "qa2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قابوس",
-            "Urdu": "قابوس",
-            "Persian": "قابوس",
-            "Turkish": "Kabus",
-            "Bengali": "কাবুস",
-            "Indonesian": "Qabus",
-            "Pashto": "قابوس"
-        }
-    },
-    {
-        "name": "Qadar",
-        "gender": "Boy",
-        "meaning": "Divine destiny",
-        "origin": "Arabic",
-        "id": "qa3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدر",
-            "Urdu": "قدر",
-            "Persian": "قدر",
-            "Turkish": "Kader",
-            "Bengali": "কদর",
-            "Indonesian": "Qadar",
-            "Pashto": "قادر"
-        }
-    },
-    {
-        "name": "Qaddoor",
-        "gender": "Boy",
-        "meaning": "Capable",
-        "origin": "Arabic",
-        "id": "qa4_var",
-        "verified": true,
-        "variant_of": "Qaddur",
-        "spellings": {
-            "Arabic": "قدور",
-            "Urdu": "قدور",
-            "Persian": "قدور",
-            "Turkish": "Kaddoor",
-            "Bengali": "কদ্দুর",
-            "Indonesian": "pintu Qad",
-            "Pashto": "قدور"
-        }
-    },
-    {
-        "name": "Qaddur",
-        "gender": "Boy",
-        "meaning": "Capable",
-        "origin": "Arabic",
-        "id": "qa4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدور",
-            "Urdu": "قدور",
-            "Persian": "قدر",
-            "Turkish": "Kaddur",
-            "Bengali": "কদ্দুর",
-            "Indonesian": "Qaddur",
-            "Pashto": "قدور"
-        }
-    },
-    {
-        "name": "Qadee",
-        "gender": "Boy",
-        "meaning": "Judge",
-        "origin": "Arabic",
-        "id": "qa15_var",
-        "verified": true,
-        "variant_of": "Qadi",
-        "spellings": {
-            "Arabic": "القاضي",
-            "Urdu": "قدی",
-            "Persian": "قادعی",
-            "Turkish": "Kadı",
-            "Bengali": "কাদি",
-            "Indonesian": "Qadee",
-            "Pashto": "قادي"
-        }
-    },
-    {
-        "name": "Qadeem",
-        "gender": "Boy",
-        "meaning": "Ancient",
-        "origin": "Arabic",
-        "id": "qa16_var",
-        "verified": true,
-        "variant_of": "Qadim",
-        "spellings": {
-            "Arabic": "القديم",
-            "Urdu": "قدیم",
-            "Persian": "قدیم",
-            "Turkish": "Kadim",
-            "Bengali": "কাদিম",
-            "Indonesian": "Qadeem",
-            "Pashto": "قدیم"
-        }
-    },
-    {
-        "name": "Qadeer",
-        "gender": "Boy",
-        "meaning": "Powerful, capable",
-        "origin": "Quranic",
-        "id": "qa14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدير",
-            "Urdu": "قدیر",
-            "Persian": "قادر",
-            "Turkish": "Kadir",
-            "Bengali": "কাদির",
-            "Indonesian": "Qadeer",
-            "Pashto": "قدیر"
-        }
-    },
-    {
-        "name": "Qadeera",
-        "gender": "Girl",
-        "meaning": "Powerful, capable",
-        "origin": "Arabic",
-        "id": "qa17_var",
-        "verified": true,
-        "variant_of": "Qadira",
-        "spellings": {
-            "Arabic": "قديرة",
-            "Urdu": "قدیرہ",
-            "Persian": "قادره",
-            "Turkish": "Kadeera",
-            "Bengali": "কাদিরা",
-            "Indonesian": "Qadeera",
-            "Pashto": "قدیره"
-        }
-    },
-    {
-        "name": "Qadi",
-        "gender": "Boy",
-        "meaning": "Judge",
-        "origin": "Arabic",
-        "id": "qa15",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القاضي",
-            "Urdu": "قادی",
-            "Persian": "قادی",
-            "Turkish": "Kadı",
-            "Bengali": "কাদি",
-            "Indonesian": "Qadi",
-            "Pashto": "قادي"
-        }
-    },
-    {
-        "name": "Qadim",
-        "gender": "Boy",
-        "meaning": "Ancient",
-        "origin": "Arabic",
-        "id": "qa16",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قديم",
-            "Urdu": "قدیم",
-            "Persian": "قدیم",
-            "Turkish": "Kadim",
-            "Bengali": "কাদিম",
-            "Indonesian": "Qadim",
-            "Pashto": "قدیم"
-        }
-    },
-    {
-        "id": "qa8",
-        "name": "Qadir",
-        "gender": "Boy",
-        "meaning": "Powerful, capable",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قادر",
-            "Urdu": "قادر",
-            "Persian": "قادر",
-            "Turkish": "Kadir",
-            "Bengali": "কাদির",
-            "Indonesian": "Qadir",
-            "Pashto": "قدیر"
-        }
-    },
-    {
-        "name": "Qadira",
-        "gender": "Girl",
-        "meaning": "Powerful, capable",
-        "origin": "Arabic",
-        "id": "qa17",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قديرة",
-            "Urdu": "قادرہ",
-            "Persian": "قدیره",
-            "Turkish": "Kadire",
-            "Bengali": "কাদিরা",
-            "Indonesian": "Qadir",
-            "Pashto": "قادره"
-        }
-    },
-    {
-        "name": "Qadirah",
-        "gender": "Girl",
-        "meaning": "Powerful, capable",
-        "origin": "Arabic",
-        "id": "qa17_var",
-        "verified": true,
-        "variant_of": "Qadira",
-        "spellings": {
-            "Arabic": "قديرة",
-            "Urdu": "قادرہ",
-            "Persian": "قدیره",
-            "Turkish": "Kadirah",
-            "Bengali": "কাদিরাহ",
-            "Indonesian": "Qadirah",
-            "Pashto": "قادره"
-        }
-    },
-    {
-        "name": "Qaeed",
-        "gender": "Boy",
-        "meaning": "Leader, commander",
-        "origin": "Arabic",
-        "id": "qa20_var",
-        "verified": true,
-        "variant_of": "Qaid",
-        "spellings": {
-            "Arabic": "قعيد",
-            "Urdu": "قاید",
-            "Persian": "قائد",
-            "Turkish": "Kaid",
-            "Bengali": "কায়েদ",
-            "Indonesian": "Qaeed",
-            "Pashto": "قاید"
-        }
-    },
-    {
-        "name": "Qaeem",
-        "gender": "Boy",
-        "meaning": "Rising, standing",
-        "origin": "Quranic",
-        "id": "qa21_var",
-        "verified": true,
-        "variant_of": "Qaim",
-        "spellings": {
-            "Arabic": "قائم",
-            "Urdu": "قائم",
-            "Persian": "قائم",
-            "Turkish": "Qaeem",
-            "Bengali": "কাইম",
-            "Indonesian": "Qaem",
-            "Pashto": "قايم"
-        }
-    },
-    {
-        "name": "Qaeerawan",
-        "gender": "Boy",
-        "meaning": "Caravan (Tunisia)",
-        "origin": "Arabic",
-        "id": "qa41_var",
-        "verified": true,
-        "variant_of": "Qairawan",
-        "spellings": {
-            "Arabic": "القيروان",
-            "Urdu": "قیروان",
-            "Persian": "قیروان",
-            "Turkish": "Qaeerawan",
-            "Bengali": "কাইরাওয়ান",
-            "Indonesian": "Qaeerawan",
-            "Pashto": "قایراوان"
-        }
-    },
-    {
-        "name": "Qaees",
-        "gender": "Boy",
-        "meaning": "Lover; Measure",
-        "origin": "Arabic",
-        "id": "qa22_var",
-        "verified": true,
-        "variant_of": "Qais",
-        "spellings": {
-            "Arabic": "قيس",
-            "Urdu": "قیس",
-            "Persian": "قیسی ها",
-            "Turkish": "Kaie'ler",
-            "Bengali": "কায়েস",
-            "Indonesian": "Qaees",
-            "Pashto": "قیس"
-        }
-    },
-    {
-        "name": "Qaeesar",
-        "gender": "Boy",
-        "meaning": "Caesar",
-        "origin": "Arabic",
-        "id": "qa38_var",
-        "verified": true,
-        "variant_of": "Qaisar",
-        "spellings": {
-            "Arabic": "قيصر",
-            "Urdu": "قیصر",
-            "Persian": "قیصر",
-            "Turkish": "Kayesar",
-            "Bengali": "কায়সার",
-            "Indonesian": "Qaeesar",
-            "Pashto": "قیصر"
-        }
-    },
-    {
-        "name": "Qaeeser",
-        "gender": "Boy",
-        "meaning": "Emperor",
-        "origin": "Arabic",
-        "id": "qa23_var",
-        "verified": true,
-        "variant_of": "Qaiser",
-        "spellings": {
-            "Arabic": "قيصر",
-            "Urdu": "قیصر",
-            "Persian": "قیصر",
-            "Turkish": "Kayzer",
-            "Bengali": "কায়সার",
-            "Indonesian": "Qaeeser",
-            "Pashto": "قیصر"
-        }
-    },
-    {
-        "name": "Qaheera",
-        "gender": "Girl",
-        "meaning": "Victorious",
-        "origin": "Arabic",
-        "id": "qa18_var",
-        "verified": true,
-        "variant_of": "Qahira",
-        "spellings": {
-            "Arabic": "قاهرة",
-            "Urdu": "قاہرہ",
-            "Persian": "قهیره",
-            "Turkish": "Kaheera",
-            "Bengali": "কাহিরা",
-            "Indonesian": "Qaheera",
-            "Pashto": "قاهره"
-        }
-    },
-    {
-        "name": "Qahira",
-        "gender": "Girl",
-        "meaning": "Victorious",
-        "origin": "Arabic",
-        "id": "qa18",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القاهرة",
-            "Urdu": "قاہرہ",
-            "Persian": "قهیرا",
-            "Turkish": "Kahire",
-            "Bengali": "কাহিরা",
-            "Indonesian": "Qahira",
-            "Pashto": "قاهره"
-        }
-    },
-    {
-        "name": "Qahirah",
-        "gender": "Girl",
-        "meaning": "Victorious",
-        "origin": "Arabic",
-        "id": "qa18_var",
-        "verified": true,
-        "variant_of": "Qahira",
-        "spellings": {
-            "Arabic": "القاهره",
-            "Urdu": "قاہرہ",
-            "Persian": "قاهره",
-            "Turkish": "Kahire",
-            "Bengali": "কাহিরাহ",
-            "Indonesian": "Qahirah",
-            "Pashto": "قاهره"
-        }
-    },
-    {
-        "name": "Qahr",
-        "gender": "Boy",
-        "meaning": "Power, dominance",
-        "origin": "Arabic",
-        "id": "qa19",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قهر",
-            "Urdu": "قہر",
-            "Persian": "قهر",
-            "Turkish": "Kahr",
-            "Bengali": "কাহর",
-            "Indonesian": "Qahr",
-            "Pashto": "قاهر"
-        }
-    },
-    {
-        "name": "Qaid",
-        "gender": "Boy",
-        "meaning": "Leader, commander",
-        "origin": "Arabic",
-        "id": "qa20",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قايد",
-            "Urdu": "قاید",
-            "Persian": "قائد",
-            "Turkish": "Kaid",
-            "Bengali": "কায়েদ",
-            "Indonesian": "Qaid",
-            "Pashto": "قاید"
-        }
-    },
-    {
-        "name": "Qaim",
-        "gender": "Boy",
-        "meaning": "Rising, standing",
-        "origin": "Quranic",
-        "id": "qa21",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القائم",
-            "Urdu": "قائم",
-            "Persian": "قائم",
-            "Turkish": "Kaim",
-            "Bengali": "কাইম",
-            "Indonesian": "Qaim",
-            "Pashto": "قايم"
-        }
-    },
-    {
-        "name": "Qairawan",
-        "gender": "Boy",
-        "meaning": "Caravan (Tunisia)",
-        "origin": "Arabic",
-        "id": "qa41",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القيروان",
-            "Urdu": "قیروان",
-            "Persian": "قیروان",
-            "Turkish": "Kayravan",
-            "Bengali": "কাইরাওয়ান",
-            "Indonesian": "Qairawan",
-            "Pashto": "قیروان"
-        }
-    },
-    {
-        "name": "Qais",
-        "gender": "Boy",
-        "meaning": "Lover; Measure",
-        "origin": "Arabic",
-        "id": "qa22",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيس",
-            "Urdu": "قیس",
-            "Persian": "قیس",
-            "Turkish": "Kayis",
-            "Bengali": "কাইস",
-            "Indonesian": "Qais",
-            "Pashto": "قیس"
-        }
-    },
-    {
-        "name": "Qaisar",
-        "gender": "Boy",
-        "meaning": "Caesar",
-        "origin": "Arabic",
-        "id": "qa38",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيصر",
-            "Urdu": "قیصر",
-            "Persian": "قیصر",
-            "Turkish": "Kaysar",
-            "Bengali": "কায়সার",
-            "Indonesian": "Qaisar",
-            "Pashto": "قیصر"
-        }
-    },
-    {
-        "name": "Qaiser",
-        "gender": "Boy",
-        "meaning": "Emperor",
-        "origin": "Arabic",
-        "id": "qa23",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيصر",
-            "Urdu": "قیصر",
-            "Persian": "قیصر",
-            "Turkish": "Kaiser",
-            "Bengali": "কায়সার",
-            "Indonesian": "Qaiser",
-            "Pashto": "قیصر"
-        }
-    },
-    {
-        "name": "Qamar",
-        "gender": "Unisex",
-        "meaning": "Moon",
-        "origin": "Urdu",
-        "id": "qa35",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قمر",
-            "Urdu": "قمر",
-            "Persian": "قمر",
-            "Turkish": "Kamer",
-            "Bengali": "কামার",
-            "Indonesian": "Qamar",
-            "Pashto": "قمر"
-        }
-    },
-    {
-        "name": "Qamar-Ud-Deen",
-        "gender": "Boy",
-        "meaning": "Moon of the Faith",
-        "origin": "Arabic",
-        "id": "qa39_var",
-        "verified": true,
-        "variant_of": "Qamar-Ud-Din",
-        "spellings": {
-            "Arabic": "قمر الدين",
-            "Urdu": "قمر الدین",
-            "Persian": "قمر الدین",
-            "Turkish": "Qamar-Ud-Deen",
-            "Bengali": "কমর-উদ-দ্বীন",
-            "Indonesian": "Qamar-Ud-Deen",
-            "Pashto": "قمرالدین"
-        }
-    },
-    {
-        "name": "Qamar-Ud-Din",
-        "gender": "Boy",
-        "meaning": "Moon of the Faith",
-        "origin": "Arabic",
-        "id": "qa39",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قمر الدين",
-            "Urdu": "قمر الدین",
-            "Persian": "قمر الدین",
-            "Turkish": "Kamer-Ud-Din",
-            "Bengali": "কমর-উদ-দীন",
-            "Indonesian": "Qamar-Ud-Din",
-            "Pashto": "قمرالدین"
-        }
-    },
-    {
-        "name": "Qamar-Uz-Zaman",
-        "gender": "Boy",
-        "meaning": "Moon of the Era",
-        "origin": "Arabic",
-        "id": "qa40",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قمر الزمان",
-            "Urdu": "قمر الزمان",
-            "Persian": "قمرالزمان",
-            "Turkish": "Kamer-Uz-Zaman",
-            "Bengali": "কামার-উজ-জামান",
-            "Indonesian": "Qamar-Uz-Zaman",
-            "Pashto": "قمرالزمان"
-        }
-    },
-    {
-        "name": "Qamaree",
-        "gender": "Girl",
-        "meaning": "Moon-like",
-        "origin": "Arabic",
-        "id": "qa24_var",
-        "verified": true,
-        "variant_of": "Qamari",
-        "spellings": {
-            "Arabic": "قمري",
-            "Urdu": "قمری",
-            "Persian": "قمری",
-            "Turkish": "Kamare",
-            "Bengali": "কামারী",
-            "Indonesian": "Qamaree",
-            "Pashto": "قمري"
-        }
-    },
-    {
-        "name": "Qamari",
-        "gender": "Girl",
-        "meaning": "Moon-like",
-        "origin": "Arabic",
-        "id": "qa24",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قمري",
-            "Urdu": "قمری",
-            "Persian": "قمری",
-            "Turkish": "Kamari",
-            "Bengali": "কামারি",
-            "Indonesian": "Qamari",
-            "Pashto": "قمري"
-        }
-    },
-    {
-        "name": "Qanaat",
-        "gender": "Unisex",
-        "meaning": "Patience, contentment",
-        "origin": "Arabic",
-        "id": "qa25",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قناة",
-            "Urdu": "قنات",
-            "Persian": "قناعت",
-            "Turkish": "Kanaat",
-            "Bengali": "কানাত",
-            "Indonesian": "Qanaat",
-            "Pashto": "قناعت"
-        }
-    },
-    {
-        "name": "Qandahar",
-        "gender": "Boy",
-        "meaning": "City in Afghanistan",
-        "origin": "Pashto",
-        "id": "qa42",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قندهار",
-            "Urdu": "قندھار",
-            "Persian": "قندهار",
-            "Turkish": "Kandahar",
-            "Bengali": "কান্দাহার",
-            "Indonesian": "Qandahar",
-            "Pashto": "کندهار"
-        }
-    },
-    {
-        "name": "Qanee",
-        "gender": "Boy",
-        "meaning": "Satisfied",
-        "origin": "Arabic",
-        "id": "qa40",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاني",
-            "Urdu": "کنی",
-            "Persian": "قانعی",
-            "Turkish": "Kane",
-            "Bengali": "কানি",
-            "Indonesian": "Qanee",
-            "Pashto": "قاني"
-        }
-    },
-    {
-        "name": "Qaneea",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa26_var",
-        "verified": true,
-        "variant_of": "Qania",
-        "spellings": {
-            "Arabic": "قانية",
-            "Urdu": "قنیہ",
-            "Persian": "قانعیا",
-            "Turkish": "Kaneya",
-            "Bengali": "কানেয়া",
-            "Indonesian": "Qanea",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qaneet",
-        "gender": "Boy",
-        "meaning": "Obedient; Submissive to Allah",
-        "origin": "Quranic",
-        "id": "qa6_var",
-        "verified": true,
-        "variant_of": "Qanit",
-        "spellings": {
-            "Arabic": "قنيت",
-            "Urdu": "قنیت",
-            "Persian": "قانیت",
-            "Turkish": "Kaneet",
-            "Bengali": "কানীত",
-            "Indonesian": "Qaneet",
-            "Pashto": "قنیت"
-        }
-    },
-    {
-        "name": "Qani",
-        "gender": "Boy",
-        "meaning": "Content; Satisfied",
-        "origin": "Arabic",
-        "id": "qa5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاني",
-            "Urdu": "قانی",
-            "Persian": "قانی",
-            "Turkish": "Kani",
-            "Bengali": "কানি",
-            "Indonesian": "Qani",
-            "Pashto": "قااني"
-        }
-    },
-    {
-        "name": "Qania",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa26",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قانيا",
-            "Urdu": "قانیہ",
-            "Persian": "قانیا",
-            "Turkish": "Kania",
-            "Bengali": "কানিয়া",
-            "Indonesian": "Qania",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qaniah",
-        "gender": "Girl",
-        "meaning": "Content, satisfied",
-        "origin": "Arabic",
-        "id": "qa26_var",
-        "verified": true,
-        "variant_of": "Qania",
-        "spellings": {
-            "Arabic": "قانية",
-            "Urdu": "کنیہ",
-            "Persian": "قانیا",
-            "Turkish": "Qaniah",
-            "Bengali": "কানিয়াহ",
-            "Indonesian": "Qaniah",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qanit",
-        "gender": "Boy",
-        "meaning": "Obedient; Submissive to Allah",
-        "origin": "Quranic",
-        "id": "qa6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قنيت",
-            "Urdu": "قنیت",
-            "Persian": "قانیت",
-            "Turkish": "Kanit",
-            "Bengali": "কানিত",
-            "Indonesian": "Qanit",
-            "Pashto": "قانت"
-        }
-    },
-    {
-        "name": "Qanoon",
-        "gender": "Boy",
-        "meaning": "Law, rule",
-        "origin": "Arabic",
-        "id": "qa28_var",
-        "verified": true,
-        "variant_of": "Qanun",
-        "spellings": {
-            "Arabic": "قانون",
-            "Urdu": "قانون",
-            "Persian": "قانون",
-            "Turkish": "Kanon",
-            "Bengali": "কানুন",
-            "Indonesian": "Qanoon",
-            "Pashto": "قانون"
-        }
-    },
-    {
-        "name": "Qantara",
-        "gender": "Girl",
-        "meaning": "Bridge, arch",
-        "origin": "Arabic",
-        "id": "qa34",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القنطرة",
-            "Urdu": "قنطارا",
-            "Persian": "قنطرا",
-            "Turkish": "Kantara",
-            "Bengali": "কানতারা",
-            "Indonesian": "Qantara",
-            "Pashto": "قنطاره"
-        }
-    },
-    {
-        "name": "Qantarah",
-        "gender": "Girl",
-        "meaning": "Small bridge",
-        "origin": "Arabic",
-        "id": "qa27",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قنطرة",
-            "Urdu": "قنطارہ",
-            "Persian": "قنطره",
-            "Turkish": "Kantarah",
-            "Bengali": "কানতারাহ",
-            "Indonesian": "Qantarah",
-            "Pashto": "قنطاره"
-        }
-    },
-    {
-        "name": "Qanun",
-        "gender": "Boy",
-        "meaning": "Law, rule",
-        "origin": "Arabic",
-        "id": "qa28",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قانون",
-            "Urdu": "قانون",
-            "Persian": "قانون",
-            "Turkish": "Kanun",
-            "Bengali": "কানুন",
-            "Indonesian": "Qanun",
-            "Pashto": "قانع"
-        }
-    },
-    {
-        "name": "Qareen",
-        "gender": "Boy",
-        "meaning": "Companion",
-        "origin": "Quranic",
-        "id": "qa29_var",
-        "verified": true,
-        "variant_of": "Qarin",
-        "spellings": {
-            "Arabic": "قرين",
-            "Urdu": "قرین",
-            "Persian": "قرین",
-            "Turkish": "Karen",
-            "Bengali": "কারিন",
-            "Indonesian": "Qareen",
-            "Pashto": "قرین"
-        }
-    },
-    {
-        "name": "Qarin",
-        "gender": "Boy",
-        "meaning": "Companion",
-        "origin": "Quranic",
-        "id": "qa29",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قارين",
-            "Urdu": "قرن",
-            "Persian": "قرین",
-            "Turkish": "Karin",
-            "Bengali": "কারিন",
-            "Indonesian": "Karin",
-            "Pashto": "قرن"
-        }
-    },
-    {
-        "name": "Qartaj",
-        "gender": "Girl",
-        "meaning": "Carthage",
-        "origin": "Arabic",
-        "id": "qa43",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قرطاج",
-            "Urdu": "قرتاج",
-            "Persian": "قرتاج",
-            "Turkish": "Qartaj",
-            "Bengali": "কারতাজ",
-            "Indonesian": "Qartaj",
-            "Pashto": "قرتاج"
-        }
-    },
-    {
-        "name": "Qaseed",
-        "gender": "Boy",
-        "meaning": "Messenger; Representative",
-        "origin": "Arabic",
-        "id": "qa7_var",
-        "verified": true,
-        "variant_of": "Qasid",
-        "spellings": {
-            "Arabic": "قصيد",
-            "Urdu": "قصید",
-            "Persian": "قاصد",
-            "Turkish": "Kasid",
-            "Bengali": "কাসেদ",
-            "Indonesian": "Qaseed",
-            "Pashto": "قصيد"
-        }
-    },
-    {
-        "name": "Qaseeda",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Arabic",
-        "id": "qa35_var",
-        "verified": true,
-        "variant_of": "Qasida",
-        "spellings": {
-            "Arabic": "قصيدة",
-            "Urdu": "قصیدہ",
-            "Persian": "قصیده",
-            "Turkish": "Kaseda",
-            "Bengali": "কাসিদা",
-            "Indonesian": "Qaseeda",
-            "Pashto": "قصیده"
-        }
-    },
-    {
-        "name": "Qaseef",
-        "gender": "Boy",
-        "meaning": "Discoverer",
-        "origin": "Arabic",
-        "id": "qa8_var",
-        "verified": true,
-        "variant_of": "Qasif",
-        "spellings": {
-            "Arabic": "القصيف",
-            "Urdu": "قصف",
-            "Persian": "قصیف",
-            "Turkish": "Kasif",
-            "Bengali": "কাসিফ",
-            "Indonesian": "Qaseef",
-            "Pashto": "قیس"
-        }
-    },
-    {
-        "name": "Qaseem",
-        "gender": "Boy",
-        "meaning": "Divider",
-        "origin": "Urdu",
-        "id": "qa36_var",
-        "verified": true,
-        "variant_of": "Qasim",
-        "spellings": {
-            "Arabic": "قاسم",
-            "Urdu": "قاسم",
-            "Persian": "قاسم",
-            "Turkish": "Kasım",
-            "Bengali": "কাসিম",
-            "Indonesian": "Qasim",
-            "Pashto": "قاسم"
-        }
-    },
-    {
-        "name": "Qaseema",
-        "gender": "Girl",
-        "meaning": "Distributor",
-        "origin": "Arabic",
-        "id": "qa30_var",
-        "verified": true,
-        "variant_of": "Qasima",
-        "spellings": {
-            "Arabic": "القصيمة",
-            "Urdu": "قاسمہ",
-            "Persian": "قاسمیه",
-            "Turkish": "Kasıme",
-            "Bengali": "কাসিমা",
-            "Indonesian": "Qasiema",
-            "Pashto": "قسیمه"
-        }
-    },
-    {
-        "name": "Qaseeoun",
-        "gender": "Boy",
-        "meaning": "Mountain overlooking Damascus",
-        "origin": "Arabic",
-        "id": "qa44_var",
-        "verified": true,
-        "variant_of": "Qasioun",
-        "spellings": {
-            "Arabic": "قاسيون",
-            "Urdu": "قصیون",
-            "Persian": "قاسیون",
-            "Turkish": "Qaseeon",
-            "Bengali": "কাসিউন",
-            "Indonesian": "Qaseeoun",
-            "Pashto": "قصیون"
-        }
-    },
-    {
-        "name": "Qaseet",
-        "gender": "Boy",
-        "meaning": "Just",
-        "origin": "Arabic",
-        "id": "qa41_var",
-        "verified": true,
-        "variant_of": "Qasit",
-        "spellings": {
-            "Arabic": "قسط",
-            "Urdu": "قصیت",
-            "Persian": "قصیت",
-            "Turkish": "Kaset",
-            "Bengali": "কাসেত",
-            "Indonesian": "Qaseet",
-            "Pashto": "قیسیت"
-        }
-    },
-    {
-        "name": "Qasid",
-        "gender": "Boy",
-        "meaning": "Messenger; Representative",
-        "origin": "Arabic",
-        "id": "qa7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القاصد",
-            "Urdu": "قاصد",
-            "Persian": "قصید",
-            "Turkish": "Kasıd",
-            "Bengali": "কাসিদ",
-            "Indonesian": "Qasid",
-            "Pashto": "قاصد"
-        }
-    },
-    {
-        "name": "Qasida",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Arabic",
-        "id": "qa35",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قصيدة",
-            "Urdu": "قصیدہ",
-            "Persian": "قصیده",
-            "Turkish": "Kaside",
-            "Bengali": "কাসিদা",
-            "Indonesian": "Qasida",
-            "Pashto": "قصیده"
-        }
-    },
-    {
-        "name": "Qasidah",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Arabic",
-        "id": "qa35_var",
-        "verified": true,
-        "variant_of": "Qasida",
-        "spellings": {
-            "Arabic": "قصيدة",
-            "Urdu": "قصیدہ",
-            "Persian": "قصیده",
-            "Turkish": "Kaside",
-            "Bengali": "কাসিদাহ",
-            "Indonesian": "Qasidah",
-            "Pashto": "قصیده"
-        }
-    },
-    {
-        "name": "Qasif",
-        "gender": "Boy",
-        "meaning": "Discoverer",
-        "origin": "Arabic",
-        "id": "qa8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاصف",
-            "Urdu": "قاصف",
-            "Persian": "قصیف",
-            "Turkish": "Kasif",
-            "Bengali": "কাসিফ",
-            "Indonesian": "Qasif",
-            "Pashto": "قاصف"
-        }
-    },
-    {
-        "name": "Qasim",
-        "gender": "Boy",
-        "meaning": "Divider",
-        "origin": "Urdu",
-        "id": "qa36",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسم",
-            "Urdu": "قاسم",
-            "Persian": "قاسم",
-            "Turkish": "Kasım",
-            "Bengali": "কাসিম",
-            "Indonesian": "Qasim",
-            "Pashto": "قاسم"
-        }
-    },
-    {
-        "name": "Qasima",
-        "gender": "Girl",
-        "meaning": "Distributor",
-        "origin": "Arabic",
-        "id": "qa30",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسمه",
-            "Urdu": "قاسمہ",
-            "Persian": "قاسیما",
-            "Turkish": "Kasıma",
-            "Bengali": "কাসিমা",
-            "Indonesian": "Qasimah",
-            "Pashto": "قاسمه"
-        }
-    },
-    {
-        "name": "Qasimah",
-        "gender": "Girl",
-        "meaning": "Distributor",
-        "origin": "Arabic",
-        "id": "qa30_var",
-        "verified": true,
-        "variant_of": "Qasima",
-        "spellings": {
-            "Arabic": "قاسمه",
-            "Urdu": "قاسمہ",
-            "Persian": "قاسمه",
-            "Turkish": "Kasımah",
-            "Bengali": "কাসিমাহ",
-            "Indonesian": "Qasimah",
-            "Pashto": "قاسمه"
-        }
-    },
-    {
-        "name": "Qasiooon",
-        "gender": "Boy",
-        "meaning": "Mountain overlooking Damascus",
-        "origin": "Arabic",
-        "id": "qa44_var",
-        "verified": true,
-        "variant_of": "Qasioun",
-        "spellings": {
-            "Arabic": "قاسيون",
-            "Urdu": "قصیوون",
-            "Persian": "قاسیون",
-            "Turkish": "Kasiooon",
-            "Bengali": "কাসিওন",
-            "Indonesian": "Qasiooon",
-            "Pashto": "قاسیوون"
-        }
-    },
-    {
-        "name": "Qasioun",
-        "gender": "Boy",
-        "meaning": "Mountain overlooking Damascus",
-        "origin": "Arabic",
-        "id": "qa44",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسيون",
-            "Urdu": "قاسیون",
-            "Persian": "قاسیون",
-            "Turkish": "Qasiun",
-            "Bengali": "কাসিউন",
-            "Indonesian": "Qasioun",
-            "Pashto": "قاسیون"
-        }
-    },
-    {
-        "name": "Qasit",
-        "gender": "Boy",
-        "meaning": "Just",
-        "origin": "Arabic",
-        "id": "qa41",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسيط",
-            "Urdu": "قصیت",
-            "Persian": "قاسط",
-            "Turkish": "Kasit",
-            "Bengali": "কাসিত",
-            "Indonesian": "Qasit",
-            "Pashto": "قصیت"
-        }
-    },
-    {
-        "name": "Qasoomah",
-        "gender": "Girl",
-        "meaning": "Poetess",
-        "origin": "Arabic",
-        "id": "qa31",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قسومة",
-            "Urdu": "قاسمہ",
-            "Persian": "قاسومه",
-            "Turkish": "Kasoomah",
-            "Bengali": "কাসুমাহ",
-            "Indonesian": "Qasoomah",
-            "Pashto": "قاسمه"
-        }
-    },
-    {
-        "name": "Qasumah",
-        "gender": "Girl",
-        "meaning": "Poetess",
-        "origin": "Arabic",
-        "id": "qa31_var",
-        "verified": true,
-        "variant_of": "Qasoomah",
-        "spellings": {
-            "Arabic": "قسومة",
-            "Urdu": "قاسمہ",
-            "Persian": "قاسومه",
-            "Turkish": "Kasumah",
-            "Bengali": "কাসুমাহ",
-            "Indonesian": "Qasumah",
-            "Pashto": "قاسمه"
-        }
-    },
-    {
-        "name": "Qatadah",
-        "gender": "Boy",
-        "meaning": "Name of a Sahabi; A hardwood tree",
-        "origin": "Arabic",
-        "id": "qa9",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قتادة",
-            "Urdu": "قتادہ",
-            "Persian": "قتاده",
-            "Turkish": "Katade",
-            "Bengali": "কাতাদাহ",
-            "Indonesian": "Qatadah",
-            "Pashto": "قتاده"
-        }
-    },
-    {
-        "name": "Qateef",
-        "gender": "Boy",
-        "meaning": "Harvest (Saudi Arabia)",
-        "origin": "Arabic",
-        "id": "qa45_var",
-        "verified": true,
-        "variant_of": "Qatif",
-        "spellings": {
-            "Arabic": "القطيف",
-            "Urdu": "قطیف",
-            "Persian": "قطیف",
-            "Turkish": "Katıf",
-            "Bengali": "কাতেফ",
-            "Indonesian": "Qateef",
-            "Pashto": "قطیف"
-        }
-    },
-    {
-        "name": "Qatif",
-        "gender": "Boy",
-        "meaning": "Harvest (Saudi Arabia)",
-        "origin": "Arabic",
-        "id": "qa45",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القطيف",
-            "Urdu": "قطیف",
-            "Persian": "قطیف",
-            "Turkish": "Katif",
-            "Bengali": "কাতিফ",
-            "Indonesian": "Qatif",
-            "Pashto": "قطیف"
-        }
-    },
-    {
-        "name": "Qatr",
-        "gender": "Boy",
-        "meaning": "Rain drops",
-        "origin": "Arabic",
-        "id": "qa36",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قطر",
-            "Urdu": "قطر",
-            "Persian": "قطر",
-            "Turkish": "Katr",
-            "Bengali": "কাতর",
-            "Indonesian": "Qatr",
-            "Pashto": "قطر"
-        }
-    },
-    {
-        "name": "Qays",
-        "gender": "Boy",
-        "meaning": "Firm; Name of a Sahabi",
-        "origin": "Arabic",
-        "id": "qa10",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيس",
-            "Urdu": "قیس",
-            "Persian": "قیس",
-            "Turkish": "Kays",
-            "Bengali": "কায়েস",
-            "Indonesian": "Qays",
-            "Pashto": "قیس"
-        }
-    },
-    {
-        "name": "Qayyeem",
-        "gender": "Boy",
-        "meaning": "Straight, valuable",
-        "origin": "Quranic",
-        "id": "qa32_var",
-        "verified": true,
-        "variant_of": "Qayyim",
-        "spellings": {
-            "Arabic": "القيم",
-            "Urdu": "قیوم",
-            "Persian": "قیم",
-            "Turkish": "Kayyeem",
-            "Bengali": "কাইয়িম",
-            "Indonesian": "Qayyeem",
-            "Pashto": "قیوم"
-        }
-    },
-    {
-        "name": "Qayyim",
-        "gender": "Boy",
-        "meaning": "Straight, valuable",
-        "origin": "Quranic",
-        "id": "qa32",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيم",
-            "Urdu": "قیوم",
-            "Persian": "قیم",
-            "Turkish": "Kayyim",
-            "Bengali": "কাইয়্যিম",
-            "Indonesian": "Qayyim",
-            "Pashto": "قیوم"
-        }
-    },
-    {
-        "name": "Qayyoom",
-        "gender": "Boy",
-        "meaning": "Self-subsisting (Allah)",
-        "origin": "Quranic",
-        "id": "qa37_var",
-        "verified": true,
-        "variant_of": "Qayyum",
-        "spellings": {
-            "Arabic": "القيوم",
-            "Urdu": "قیوم",
-            "Persian": "قیوم",
-            "Turkish": "Kayyoom",
-            "Bengali": "কাইয়ুম",
-            "Indonesian": "Qayyoom",
-            "Pashto": "قیوم"
-        }
-    },
-    {
-        "name": "Qayyum",
-        "gender": "Boy",
-        "meaning": "Self-subsisting (Allah)",
-        "origin": "Quranic",
-        "id": "qa37",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القيوم",
-            "Urdu": "قیوم",
-            "Persian": "قیوم",
-            "Turkish": "Kayyum",
-            "Bengali": "কাইয়ুম",
-            "Indonesian": "Qayyum",
-            "Pashto": "قیوم"
-        }
-    },
-    {
-        "name": "Qazafee",
-        "gender": "Boy",
-        "meaning": "One who lives in vast woods",
-        "origin": "Arabic",
-        "id": "qa33_var",
-        "verified": true,
-        "variant_of": "Qazafi",
-        "spellings": {
-            "Arabic": "قزافي",
-            "Urdu": "قزافی",
-            "Persian": "قذافی",
-            "Turkish": "Kazafei",
-            "Bengali": "কাযাফী",
-            "Indonesian": "Qazafee",
-            "Pashto": "قزافي"
-        }
-    },
-    {
-        "name": "Qazafi",
-        "gender": "Boy",
-        "meaning": "One who lives in vast woods",
-        "origin": "Arabic",
-        "id": "qa33",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قذافي",
-            "Urdu": "قزافی",
-            "Persian": "قذافی",
-            "Turkish": "Kazafi",
-            "Bengali": "কাযাফী",
-            "Indonesian": "Qazafi",
-            "Pashto": "قذافي"
-        }
-    },
-    {
-        "name": "Qazee",
-        "gender": "Boy",
-        "meaning": "Judge, justice",
-        "origin": "Arabic",
-        "id": "qa34_var",
-        "verified": true,
-        "variant_of": "Qazi",
-        "spellings": {
-            "Arabic": "قاضي",
-            "Urdu": "قاضی",
-            "Persian": "قضیه",
-            "Turkish": "Kazi",
-            "Bengali": "কাজী",
-            "Indonesian": "Qazee",
-            "Pashto": "قاضي"
-        }
-    },
-    {
-        "name": "Qazi",
-        "gender": "Boy",
-        "meaning": "Judge, justice",
-        "origin": "Arabic",
-        "id": "qa34",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاضي",
-            "Urdu": "قاضی",
-            "Persian": "قاضی",
-            "Turkish": "Gazi",
-            "Bengali": "কাজী",
-            "Indonesian": "Qazi",
-            "Pashto": "قاضي"
-        }
-    },
-    {
-        "name": "Qeebla",
-        "gender": "Girl",
-        "meaning": "Direction of prayer",
-        "origin": "Islamic",
-        "id": "qi6_var",
-        "verified": true,
-        "variant_of": "Qibla",
-        "spellings": {
-            "Arabic": "القبلة",
-            "Urdu": "قبلہ",
-            "Persian": "قیبله",
-            "Turkish": "Kıble",
-            "Bengali": "কিবলা",
-            "Indonesian": "Kiblat",
-            "Pashto": "قبله"
-        }
-    },
-    {
-        "id": "qi1_var",
-        "name": "Qeendeel",
-        "gender": "Boy",
-        "meaning": "Oil lamp",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qindil",
-        "spellings": {
-            "Arabic": "قنديل",
-            "Urdu": "قندیل",
-            "Persian": "قیندل",
-            "Turkish": "Qeendeel",
-            "Bengali": "কিনদিল",
-            "Indonesian": "Qeendeel",
-            "Pashto": "قندیل"
-        }
-    },
-    {
-        "id": "qi2_var",
-        "name": "Qeerat",
-        "gender": "Girl",
-        "meaning": "Beautiful recitation",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Qirat",
-        "spellings": {
-            "Arabic": "قيرات",
-            "Urdu": "قیراط",
-            "Persian": "قیرات",
-            "Turkish": "Qeerat",
-            "Bengali": "কিরাত",
-            "Indonesian": "Qeerat",
-            "Pashto": "قیرات"
-        }
-    },
-    {
-        "name": "Qeesmat",
-        "gender": "Unisex",
-        "meaning": "Destiny",
-        "origin": "Arabic",
-        "id": "qi1_var",
-        "verified": true,
-        "variant_of": "Qismat",
-        "spellings": {
-            "Arabic": "قسمات",
-            "Urdu": "قیسمت",
-            "Persian": "قیصمت",
-            "Turkish": "Qeesmat",
-            "Bengali": "কিসমত",
-            "Indonesian": "Qeemat",
-            "Pashto": "قیسمت"
-        }
-    },
-    {
-        "id": "qi3_var",
-        "name": "Qeesmet",
-        "gender": "Girl",
-        "meaning": "Destiny, fate",
-        "origin": "Turkish/Arabic",
-        "verified": true,
-        "variant_of": "Qismet",
-        "spellings": {
-            "Arabic": "كيسمت",
-            "Urdu": "قیسمت",
-            "Persian": "قیسمت",
-            "Turkish": "Qeesmet",
-            "Bengali": "কিসমেত",
-            "Indonesian": "Qeesmet",
-            "Pashto": "قیسمت"
-        }
-    },
-    {
-        "name": "Qeesra",
-        "gender": "Boy",
-        "meaning": "Emperor",
-        "origin": "Arabic",
-        "id": "qi7_var",
-        "verified": true,
-        "variant_of": "Qisra",
-        "spellings": {
-            "Arabic": "قصرة",
-            "Urdu": "قیصرہ",
-            "Persian": "قیصره",
-            "Turkish": "Qeesra",
-            "Bengali": "কিসরা",
-            "Indonesian": "Qeesra",
-            "Pashto": "قیصره"
-        }
-    },
-    {
-        "name": "Qeesteena",
-        "gender": "Girl",
-        "meaning": "Justice",
-        "origin": "Arabic",
-        "id": "qi8_var",
-        "verified": true,
-        "variant_of": "Qistina",
-        "spellings": {
-            "Arabic": "كيستينا",
-            "Urdu": "قیسٹینا",
-            "Persian": "قیستینا",
-            "Turkish": "Qeesteena",
-            "Bengali": "কিস্তিনা",
-            "Indonesian": "Qeesteena",
-            "Pashto": "قیستینا"
-        }
-    },
-    {
-        "id": "qi4_var",
-        "name": "Qeeswarah",
-        "gender": "Boy",
-        "meaning": "Lion",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qiswarah",
-        "spellings": {
-            "Arabic": "قيسورة",
-            "Urdu": "قیشورہ",
-            "Persian": "قیسواره",
-            "Turkish": "Qeeswarah",
-            "Bengali": "কিশ্বরহ",
-            "Indonesian": "Qeeswarah",
-            "Pashto": "قیسواره"
-        }
-    },
-    {
-        "id": "qi5_var",
-        "name": "Qeeyam",
-        "gender": "Boy",
-        "meaning": "Standing (in prayer)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Qiyam",
-        "spellings": {
-            "Arabic": "قيم",
-            "Urdu": "قیام",
-            "Persian": "قیام",
-            "Turkish": "Qeeyam",
-            "Bengali": "কেয়াম",
-            "Indonesian": "Qeeyam",
-            "Pashto": "قیوم"
-        }
-    },
-    {
-        "name": "Qena",
-        "gender": "Boy",
-        "meaning": "City in Egypt",
-        "origin": "Arabic",
-        "id": "qe1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قنا",
-            "Urdu": "کینا",
-            "Persian": "قنا",
-            "Turkish": "Qena",
-            "Bengali": "কেনা",
-            "Indonesian": "Qena",
-            "Pashto": "قنا"
-        }
-    },
-    {
-        "name": "Qenah",
-        "gender": "Boy",
-        "meaning": "City in Egypt",
-        "origin": "Arabic",
-        "id": "qe1_var",
-        "verified": true,
-        "variant_of": "Qena",
-        "spellings": {
-            "Arabic": "قنا",
-            "Urdu": "کینہ",
-            "Persian": "قنا",
-            "Turkish": "Kenah",
-            "Bengali": "কেনাহ",
-            "Indonesian": "Qenah",
-            "Pashto": "قانه"
-        }
-    },
-    {
-        "name": "Qibla",
-        "gender": "Girl",
-        "meaning": "Direction of prayer",
-        "origin": "Islamic",
-        "id": "qi6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القبلة",
-            "Urdu": "قبلہ",
-            "Persian": "قبله",
-            "Turkish": "Kıble",
-            "Bengali": "কিবলা",
-            "Indonesian": "Kiblat",
-            "Pashto": "قبله"
-        }
-    },
-    {
-        "name": "Qiblah",
-        "gender": "Girl",
-        "meaning": "Direction of prayer",
-        "origin": "Islamic",
-        "id": "qi6_var",
-        "verified": true,
-        "variant_of": "Qibla",
-        "spellings": {
-            "Arabic": "القبلة",
-            "Urdu": "قبلہ",
-            "Persian": "قبله",
-            "Turkish": "Kıble",
-            "Bengali": "কিবলা",
-            "Indonesian": "Kiblat",
-            "Pashto": "قبله"
-        }
-    },
-    {
-        "id": "qi1",
-        "name": "Qindil",
-        "gender": "Boy",
-        "meaning": "Oil lamp",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قنديل",
-            "Urdu": "قندیل",
-            "Persian": "قندیل",
-            "Turkish": "Qindil",
-            "Bengali": "কিন্দিল",
-            "Indonesian": "Qindil",
-            "Pashto": "قندیل"
-        }
-    },
-    {
-        "id": "qi2",
-        "name": "Qirat",
-        "gender": "Girl",
-        "meaning": "Beautiful recitation",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيراط",
-            "Urdu": "قیراط",
-            "Persian": "قیرات",
-            "Turkish": "Kırat",
-            "Bengali": "কিরাত",
-            "Indonesian": "Qirat",
-            "Pashto": "قیراط"
-        }
-    },
-    {
-        "name": "Qismat",
-        "gender": "Unisex",
-        "meaning": "Destiny",
-        "origin": "Arabic",
-        "id": "qi1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قسمت",
-            "Urdu": "قسمط",
-            "Persian": "قسمت",
-            "Turkish": "Kısmat",
-            "Bengali": "কিসমত",
-            "Indonesian": "Qismat",
-            "Pashto": "قیسمت"
-        }
-    },
-    {
-        "id": "qi3",
-        "name": "Qismet",
-        "gender": "Girl",
-        "meaning": "Destiny, fate",
-        "origin": "Turkish/Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قسمت",
-            "Urdu": "Qismet",
-            "Persian": "قیسمت",
-            "Turkish": "Kısmet",
-            "Bengali": "কিসমেত",
-            "Indonesian": "Qismet",
-            "Pashto": "قیسمت"
-        }
-    },
-    {
-        "name": "Qisra",
-        "gender": "Boy",
-        "meaning": "Emperor",
-        "origin": "Arabic",
-        "id": "qi7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قصرة",
-            "Urdu": "قیصرہ",
-            "Persian": "قصره",
-            "Turkish": "Kısara",
-            "Bengali": "কিসরা",
-            "Indonesian": "Qisra",
-            "Pashto": "قصر"
-        }
-    },
-    {
-        "name": "Qisrah",
-        "gender": "Boy",
-        "meaning": "Emperor",
-        "origin": "Arabic",
-        "id": "qi7_var",
-        "verified": true,
-        "variant_of": "Qisra",
-        "spellings": {
-            "Arabic": "قصرة",
-            "Urdu": "قیصرہ",
-            "Persian": "قصره",
-            "Turkish": "Kısara",
-            "Bengali": "কিসরাহ",
-            "Indonesian": "Qisrah",
-            "Pashto": "قصر"
-        }
-    },
-    {
-        "name": "Qistina",
-        "gender": "Girl",
-        "meaning": "Justice",
-        "origin": "Arabic",
-        "id": "qi8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قسطينا",
-            "Urdu": "قسٹینا",
-            "Persian": "کیستینا",
-            "Turkish": "Qistina",
-            "Bengali": "কিস্টিনা",
-            "Indonesian": "Qistina",
-            "Pashto": "قستینا"
-        }
-    },
-    {
-        "name": "Qistinah",
-        "gender": "Girl",
-        "meaning": "Justice",
-        "origin": "Arabic",
-        "id": "qi8_var",
-        "verified": true,
-        "variant_of": "Qistina",
-        "spellings": {
-            "Arabic": "قسطينة",
-            "Urdu": "قسٹینہ",
-            "Persian": "قسطینه",
-            "Turkish": "Kistinah",
-            "Bengali": "কিস্টিনাহ",
-            "Indonesian": "Qistinah",
-            "Pashto": "قستينه"
-        }
-    },
-    {
-        "id": "qi4",
-        "name": "Qiswarah",
-        "gender": "Boy",
-        "meaning": "Lion",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قيسوارة",
-            "Urdu": "قصوارہ",
-            "Persian": "قصواره",
-            "Turkish": "Qiswarah",
-            "Bengali": "কিসওয়ারাহ",
-            "Indonesian": "Qiswarah",
-            "Pashto": "قیسواره"
-        }
-    },
-    {
-        "id": "qi5",
-        "name": "Qiyam",
-        "gender": "Boy",
-        "meaning": "Standing (in prayer)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القيام",
-            "Urdu": "قیام",
-            "Persian": "قیام",
-            "Turkish": "Kıyam",
-            "Bengali": "কিয়াম",
-            "Indonesian": "Qiyam",
-            "Pashto": "قيام"
-        }
-    },
-    {
-        "name": "Qom",
-        "gender": "Boy",
-        "meaning": "Holy city in Iran",
-        "origin": "Persian",
-        "id": "qo1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قم",
-            "Urdu": "قم",
-            "Persian": "قم",
-            "Turkish": "Kum",
-            "Bengali": "কওম",
-            "Indonesian": "Qom",
-            "Pashto": "قم"
-        }
-    },
-    {
-        "id": "qu1_var",
-        "name": "Qoobool",
-        "gender": "Girl",
-        "meaning": "Acceptance",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qubul",
-        "spellings": {
-            "Arabic": "قوبول",
-            "Urdu": "قوبول",
-            "Persian": "قوبول",
-            "Turkish": "Qoobool",
-            "Bengali": "কুবুল",
-            "Indonesian": "keren sekali",
-            "Pashto": "قوبول"
-        }
-    },
-    {
-        "name": "Qoodamah",
-        "gender": "Boy",
-        "meaning": "Courage",
-        "origin": "Arabic",
-        "id": "qu1_var",
-        "verified": true,
-        "variant_of": "Qudamah",
-        "spellings": {
-            "Arabic": "قدامة",
-            "Urdu": "قدامہ",
-            "Persian": "قودامه",
-            "Turkish": "Kudamah",
-            "Bengali": "কুদমাহ",
-            "Indonesian": "Qoodamah",
-            "Pashto": "قدامه"
-        }
-    },
-    {
-        "id": "qu3_var",
-        "name": "Qoodrah",
-        "gender": "Unisex",
-        "meaning": "Power, ability",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Qudrah",
-        "spellings": {
-            "Arabic": "قدرة",
-            "Urdu": "قدرہ",
-            "Persian": "قودره",
-            "Turkish": "Kudre",
-            "Bengali": "কুদরাহ",
-            "Indonesian": "Qoodrah",
-            "Pashto": "قددره"
-        }
-    },
-    {
-        "name": "Qoodrat",
-        "gender": "Unisex",
-        "meaning": "Power, Nature",
-        "origin": "Arabic",
-        "id": "qu15_var",
-        "verified": true,
-        "variant_of": "Qudrat",
-        "spellings": {
-            "Arabic": "قدرات",
-            "Urdu": "قدرت",
-            "Persian": "قدرت",
-            "Turkish": "Kudrat",
-            "Bengali": "কুদরত",
-            "Indonesian": "Qoodrat",
-            "Pashto": "قدرت"
-        }
-    },
-    {
-        "name": "Qoodrat-Ullah",
-        "gender": "Boy",
-        "meaning": "Power of God",
-        "origin": "Arabic",
-        "id": "qu16_var",
-        "verified": true,
-        "variant_of": "Qudrat-Ullah",
-        "spellings": {
-            "Arabic": "قدرات الله",
-            "Urdu": "قدرت اللہ",
-            "Persian": "قدرت الله",
-            "Turkish": "Kudrat-Ullah",
-            "Bengali": "কুদরত-উল্লাহ",
-            "Indonesian": "Qoodrat-Ullah",
-            "Pashto": "قدرت الله"
-        }
-    },
-    {
-        "id": "qu4_var",
-        "name": "Qoods",
-        "gender": "Unisex",
-        "meaning": "Holiness; Jerusalem",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Quds",
-        "spellings": {
-            "Arabic": "جودز",
-            "Urdu": "قودس",
-            "Persian": "قدس",
-            "Turkish": "İyiler",
-            "Bengali": "কুডস",
-            "Indonesian": "baiklah",
-            "Pashto": "قودس"
-        }
-    },
-    {
-        "name": "Qoodsia",
-        "gender": "Girl",
-        "meaning": "Holy; From Jerusalem",
-        "origin": "Arabic",
-        "id": "qu13_var",
-        "verified": true,
-        "variant_of": "Qudsia",
-        "spellings": {
-            "Arabic": "قدسيا",
-            "Urdu": "قدسیہ",
-            "Persian": "قودسیا",
-            "Turkish": "Qoodsia",
-            "Bengali": "কুদসিয়া",
-            "Indonesian": "Qoodsia",
-            "Pashto": "قدوسیا"
-        }
-    },
-    {
-        "id": "qu5_var",
-        "name": "Qoodsiya",
-        "gender": "Girl",
-        "meaning": "Holy, sacred",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qudsiya",
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قودسیا",
-            "Turkish": "Qoodsiya",
-            "Bengali": "কুদসিয়া",
-            "Indonesian": "Qoodsiya",
-            "Pashto": "قدوسیه"
-        }
-    },
-    {
-        "id": "qu6_var",
-        "name": "Qoodwa",
-        "gender": "Girl",
-        "meaning": "Model, example",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qudwa",
-        "spellings": {
-            "Arabic": "قدوة",
-            "Urdu": "قدوا",
-            "Persian": "قودوا",
-            "Turkish": "Qoodwa",
-            "Bengali": "কুদওয়া",
-            "Indonesian": "Qoodwa",
-            "Pashto": "قدوا"
-        }
-    },
-    {
-        "name": "Qooratoolain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Arabic",
-        "id": "qu19_var",
-        "verified": true,
-        "variant_of": "Quratulain",
-        "spellings": {
-            "Arabic": "قوراتولين",
-            "Urdu": "قوراطولن",
-            "Persian": "قوراتولین",
-            "Turkish": "Qooratoolain",
-            "Bengali": "কওরাতুলাইন",
-            "Indonesian": "Qooratoolain",
-            "Pashto": "قوراطولين"
-        }
-    },
-    {
-        "name": "Qoorb",
-        "gender": "Boy",
-        "meaning": "Closeness",
-        "origin": "Arabic",
-        "id": "qu5_var",
-        "verified": true,
-        "variant_of": "Qurb",
-        "spellings": {
-            "Arabic": "قرب",
-            "Urdu": "قرب",
-            "Persian": "قرب",
-            "Turkish": "Qoorb",
-            "Bengali": "কুরব",
-            "Indonesian": "Qoorb",
-            "Pashto": "قرب"
-        }
-    },
-    {
-        "name": "Qoorban",
-        "gender": "Boy",
-        "meaning": "Sacrifice",
-        "origin": "Arabic",
-        "id": "qu2_var",
-        "verified": true,
-        "variant_of": "Qurban",
-        "spellings": {
-            "Arabic": "قربان",
-            "Urdu": "قربن",
-            "Persian": "قربان",
-            "Turkish": "Qoorban",
-            "Bengali": "কুরবান",
-            "Indonesian": "Qoorban",
-            "Pashto": "قربن"
-        }
-    },
-    {
-        "name": "Qoorrat-Ul-Ain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "id": "qu14_var",
-        "verified": true,
-        "variant_of": "Qurrat-Ul-Ain",
-        "spellings": {
-            "Arabic": "قرة العين",
-            "Urdu": "قرات العین",
-            "Persian": "قورت العین",
-            "Turkish": "Qoorrat-Ul-Ain",
-            "Bengali": "কুররাত-উল-আইন",
-            "Indonesian": "Qoorrat-Ul-Ain",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "id": "qu8_var",
-        "name": "Qoorratoolain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Qurratulain",
-        "spellings": {
-            "Arabic": "قورة تولين",
-            "Urdu": "قوراطولن",
-            "Persian": "قورتولاین",
-            "Turkish": "Qoorratoolain",
-            "Bengali": "ক্বুররাতুলাইন",
-            "Indonesian": "Qoorratoolain",
-            "Pashto": "قوراطولين"
-        }
-    },
-    {
-        "name": "Qoosantina",
-        "gender": "Girl",
-        "meaning": "Constantine (Algeria)",
-        "origin": "Arabic",
-        "id": "qu18_var",
-        "verified": true,
-        "variant_of": "Qusantina",
-        "spellings": {
-            "Arabic": "كوسانتينا",
-            "Urdu": "Qosantina",
-            "Persian": "قوسانتینا",
-            "Turkish": "Qoosantina",
-            "Bengali": "কুসান্তিনা",
-            "Indonesian": "Qoosantina",
-            "Pashto": "قوسانتينا"
-        }
-    },
-    {
-        "name": "Qoosay",
-        "gender": "Boy",
-        "meaning": "Distant; Ancestor of the Prophet",
-        "origin": "Arabic",
-        "id": "qu3_var",
-        "verified": true,
-        "variant_of": "Qusay",
-        "spellings": {
-            "Arabic": "قوسي",
-            "Urdu": "قوسی",
-            "Persian": "قوسی",
-            "Turkish": "Qoosay",
-            "Bengali": "কুওসে",
-            "Indonesian": "Astaga",
-            "Pashto": "قوسای"
-        }
-    },
-    {
-        "name": "Qootaybah",
-        "gender": "Boy",
-        "meaning": "Narrator of Hadith",
-        "origin": "Arabic",
-        "id": "qu4_var",
-        "verified": true,
-        "variant_of": "Qutaybah",
-        "spellings": {
-            "Arabic": "قتيبة",
-            "Urdu": "قطیبہ",
-            "Persian": "قوتیبه",
-            "Turkish": "Qootaybah",
-            "Bengali": "কুতায়বাহ",
-            "Indonesian": "Qootaybah",
-            "Pashto": "قطيبه"
-        }
-    },
-    {
-        "id": "qu11_var",
-        "name": "Qootb",
-        "gender": "Boy",
-        "meaning": "Axis, pole, leader",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qutb",
-        "spellings": {
-            "Arabic": "قطب",
-            "Urdu": "قوٹب",
-            "Persian": "قطب",
-            "Turkish": "Qootb",
-            "Bengali": "কূটবি",
-            "Indonesian": "Qootb",
-            "Pashto": "قوټب"
-        }
-    },
-    {
-        "name": "Qootb-Ud-Din",
-        "gender": "Boy",
-        "meaning": "Axis of the Faith",
-        "origin": "Arabic",
-        "id": "qu17_var",
-        "verified": true,
-        "variant_of": "Qutb-Ud-Din",
-        "spellings": {
-            "Arabic": "قطب الدين",
-            "Urdu": "قطب الدین",
-            "Persian": "قطب الدین",
-            "Turkish": "Qootb-Ud-Din",
-            "Bengali": "কুতুব-উদ-দীন",
-            "Indonesian": "Qootb-Ud-Din",
-            "Pashto": "قطب الدین"
-        }
-    },
-    {
-        "id": "qu12_var",
-        "name": "Qootooz",
-        "gender": "Boy",
-        "meaning": "Vicious (Historical Mamluk Sultan)",
-        "origin": "Turkish",
-        "verified": true,
-        "variant_of": "Qutuz",
-        "spellings": {
-            "Arabic": "قطوز",
-            "Urdu": "قوٹوز",
-            "Persian": "قوتوز",
-            "Turkish": "Qootooz",
-            "Bengali": "কুটুজ",
-            "Indonesian": "Qootooz",
-            "Pashto": "قوتوز"
-        }
-    },
-    {
-        "id": "qu1",
-        "name": "Qubul",
-        "gender": "Girl",
-        "meaning": "Acceptance",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قبول",
-            "Urdu": "قبل",
-            "Persian": "قبل",
-            "Turkish": "Kubul",
-            "Bengali": "কুবুল",
-            "Indonesian": "Qubul",
-            "Pashto": "قبل"
-        }
-    },
-    {
-        "name": "Qudamah",
-        "gender": "Boy",
-        "meaning": "Courage",
-        "origin": "Arabic",
-        "id": "qu1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدامة",
-            "Urdu": "قدامہ",
-            "Persian": "قدامه",
-            "Turkish": "Kudame",
-            "Bengali": "কুদামাহ",
-            "Indonesian": "Qudamah",
-            "Pashto": "قدامه"
-        }
-    },
-    {
-        "id": "qu3",
-        "name": "Qudrah",
-        "gender": "Unisex",
-        "meaning": "Power, ability",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القدرة",
-            "Urdu": "قدرہ",
-            "Persian": "قدره",
-            "Turkish": "Kudra",
-            "Bengali": "কুদরাহ",
-            "Indonesian": "Qudrah",
-            "Pashto": "قدره"
-        }
-    },
-    {
-        "name": "Qudrat",
-        "gender": "Unisex",
-        "meaning": "Power, Nature",
-        "origin": "Arabic",
-        "id": "qu15",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدرات",
-            "Urdu": "قدرت",
-            "Persian": "قدرت",
-            "Turkish": "Kudrat",
-            "Bengali": "কুদরত",
-            "Indonesian": "Kudrat",
-            "Pashto": "قدرت"
-        }
-    },
-    {
-        "name": "Qudrat-Ullah",
-        "gender": "Boy",
-        "meaning": "Power of God",
-        "origin": "Arabic",
-        "id": "qu16",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدرة الله",
-            "Urdu": "قدرت اللہ",
-            "Persian": "قدرت الله",
-            "Turkish": "Kudrat-Ullah",
-            "Bengali": "কুদরত-উল্লাহ",
-            "Indonesian": "Qudrat-Ullah",
-            "Pashto": "قدرت الله"
-        }
-    },
-    {
-        "id": "qu4",
-        "name": "Quds",
-        "gender": "Unisex",
-        "meaning": "Holiness; Jerusalem",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القدس",
-            "Urdu": "قدس",
-            "Persian": "قدس",
-            "Turkish": "Kudüs",
-            "Bengali": "কুদস",
-            "Indonesian": "Quds",
-            "Pashto": "قدس"
-        }
-    },
-    {
-        "name": "Qudseea",
-        "gender": "Girl",
-        "meaning": "Holy; From Jerusalem",
-        "origin": "Arabic",
-        "id": "qu13_var",
-        "verified": true,
-        "variant_of": "Qudsia",
-        "spellings": {
-            "Arabic": "قدسيا",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسی",
-            "Turkish": "Kudüs",
-            "Bengali": "কুদসীয়া",
-            "Indonesian": "Qudseea",
-            "Pashto": "قدسیه"
-        }
-    },
-    {
-        "id": "qu5_var",
-        "name": "Qudseeya",
-        "gender": "Girl",
-        "meaning": "Holy, sacred",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qudsiya",
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسیه",
-            "Turkish": "Qudseeya",
-            "Bengali": "কুদসিয়া",
-            "Indonesian": "Qudseeya",
-            "Pashto": "قدسيه"
-        }
-    },
-    {
-        "name": "Qudsia",
-        "gender": "Girl",
-        "meaning": "Holy; From Jerusalem",
-        "origin": "Arabic",
-        "id": "qu13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسیه",
-            "Turkish": "Kudsia",
-            "Bengali": "কুদসিয়া",
-            "Indonesian": "Qudsia",
-            "Pashto": "قدسیا"
-        }
-    },
-    {
-        "name": "Qudsiah",
-        "gender": "Girl",
-        "meaning": "Holy; From Jerusalem",
-        "origin": "Arabic",
-        "id": "qu13_var",
-        "verified": true,
-        "variant_of": "Qudsia",
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسیه",
-            "Turkish": "Kudsiah",
-            "Bengali": "কুদসিয়াহ",
-            "Indonesian": "Qudsiah",
-            "Pashto": "قدسیه"
-        }
-    },
-    {
-        "id": "qu5",
-        "name": "Qudsiya",
-        "gender": "Girl",
-        "meaning": "Holy, sacred",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسیه",
-            "Turkish": "Kudsiya",
-            "Bengali": "কুদসিয়া",
-            "Indonesian": "Qudsiya",
-            "Pashto": "قدسيه"
-        }
-    },
-    {
-        "id": "qu5_var",
-        "name": "Qudsiyah",
-        "gender": "Girl",
-        "meaning": "Holy, sacred",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qudsiya",
-        "spellings": {
-            "Arabic": "قدسية",
-            "Urdu": "قدسیہ",
-            "Persian": "قدسیه",
-            "Turkish": "Kudsiyah",
-            "Bengali": "কুদসিয়াহ",
-            "Indonesian": "Qudsiyah",
-            "Pashto": "قدسيه"
-        }
-    },
-    {
-        "id": "qu6",
-        "name": "Qudwa",
-        "gender": "Girl",
-        "meaning": "Model, example",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القدوة",
-            "Urdu": "قدوا",
-            "Persian": "قدوه",
-            "Turkish": "Kudva",
-            "Bengali": "কুদওয়া",
-            "Indonesian": "Qudwa",
-            "Pashto": "قدوا"
-        }
-    },
-    {
-        "id": "qu6_var",
-        "name": "Qudwah",
-        "gender": "Girl",
-        "meaning": "Model, example",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Qudwa",
-        "spellings": {
-            "Arabic": "القدوة",
-            "Urdu": "قدوہ",
-            "Persian": "قدوه",
-            "Turkish": "Kudva",
-            "Bengali": "কুদওয়াহ",
-            "Indonesian": "Qudwah",
-            "Pashto": "قدوه"
-        }
-    },
-    {
-        "name": "Quratulaeen",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Arabic",
-        "id": "qu19_var",
-        "verified": true,
-        "variant_of": "Quratulain",
-        "spellings": {
-            "Arabic": "قراطولين",
-            "Urdu": "قرات العین",
-            "Persian": "قرآن کریم",
-            "Turkish": "Kuratüleen",
-            "Bengali": "কুরাতুলাইন",
-            "Indonesian": "Quratulaeen",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "name": "Quratulain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Arabic",
-        "id": "qu19",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قراتولين",
-            "Urdu": "قرات العین",
-            "Persian": "قراتولین",
-            "Turkish": "Kuratulain",
-            "Bengali": "কুরাতুলাইন",
-            "Indonesian": "Quratulain",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "name": "Qurb",
-        "gender": "Boy",
-        "meaning": "Closeness",
-        "origin": "Arabic",
-        "id": "qu5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قرب",
-            "Urdu": "قرب",
-            "Persian": "قرب",
-            "Turkish": "Kurb",
-            "Bengali": "কুরব",
-            "Indonesian": "Qurb",
-            "Pashto": "قرب"
-        }
-    },
-    {
-        "name": "Qurban",
-        "gender": "Boy",
-        "meaning": "Sacrifice",
-        "origin": "Arabic",
-        "id": "qu2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قربان",
-            "Urdu": "قربان",
-            "Persian": "قربان",
-            "Turkish": "Kurban",
-            "Bengali": "কুরবান",
-            "Indonesian": "Qurban",
-            "Pashto": "قربان"
-        }
-    },
-    {
-        "name": "Qurrat-Ul-Aeen",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "id": "qu14_var",
-        "verified": true,
-        "variant_of": "Qurrat-Ul-Ain",
-        "spellings": {
-            "Arabic": "قرة العين",
-            "Urdu": "قرۃ العین",
-            "Persian": "قررات العین",
-            "Turkish": "Kurrat-Ul-Aeen",
-            "Bengali": "কুররাত-উল-আঈন",
-            "Indonesian": "Qurrat-Ul-Aeen",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "name": "Qurrat-Ul-Ain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "id": "qu14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قرة العين",
-            "Urdu": "قرۃ العین",
-            "Persian": "قررات العین",
-            "Turkish": "Kurrat-Ul-Ain",
-            "Bengali": "কুররাত-উল-আইন",
-            "Indonesian": "Qurrat-Ul-Ain",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "id": "qu8_var",
-        "name": "Qurratulaeen",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Qurratulain",
-        "spellings": {
-            "Arabic": "قراتولين",
-            "Urdu": "قرۃ العین",
-            "Persian": "قرآن کریم",
-            "Turkish": "Kur'an-ı Kerim",
-            "Bengali": "কুররাতুলীন",
-            "Indonesian": "Qurratulaeen",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "id": "qu8",
-        "name": "Qurratulain",
-        "gender": "Girl",
-        "meaning": "Delight of the eyes",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قراتولين",
-            "Urdu": "قرۃ العین",
-            "Persian": "قرراتولین",
-            "Turkish": "Kurratulain",
-            "Bengali": "কুররাতুলাইন",
-            "Indonesian": "Qurratulain",
-            "Pashto": "قرات العین"
-        }
-    },
-    {
-        "name": "Qusanteena",
-        "gender": "Girl",
-        "meaning": "Constantine (Algeria)",
-        "origin": "Arabic",
-        "id": "qu18_var",
-        "verified": true,
-        "variant_of": "Qusantina",
-        "spellings": {
-            "Arabic": "قسنطينة",
-            "Urdu": "Qusanteena",
-            "Persian": "قوسانتینا",
-            "Turkish": "Kusanteena",
-            "Bengali": "কুসন্তেনা",
-            "Indonesian": "Qusanteena",
-            "Pashto": "Qusanteena"
-        }
-    },
-    {
-        "name": "Qusantina",
-        "gender": "Girl",
-        "meaning": "Constantine (Algeria)",
-        "origin": "Arabic",
-        "id": "qu18",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قسنطينة",
-            "Urdu": "Qusantina",
-            "Persian": "کوسانتینا",
-            "Turkish": "Kusantina",
-            "Bengali": "কুসান্তিনা",
-            "Indonesian": "Qusantina",
-            "Pashto": "Qusantina"
-        }
-    },
-    {
-        "name": "Qusantinah",
-        "gender": "Girl",
-        "meaning": "Constantine (Algeria)",
-        "origin": "Arabic",
-        "id": "qu18_var",
-        "verified": true,
-        "variant_of": "Qusantina",
-        "spellings": {
-            "Arabic": "القسنطينة",
-            "Urdu": "قصنتینا",
-            "Persian": "قصانتینه",
-            "Turkish": "Kusantinah",
-            "Bengali": "কুসন্তিনাহ",
-            "Indonesian": "Qusantinah",
-            "Pashto": "قوسطینه"
-        }
-    },
-    {
-        "name": "Qusay",
-        "gender": "Boy",
-        "meaning": "Distant; Ancestor of the Prophet",
-        "origin": "Arabic",
-        "id": "qu3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قصي",
-            "Urdu": "قصے",
-            "Persian": "قصی",
-            "Turkish": "Kusay",
-            "Bengali": "কুসে",
-            "Indonesian": "Qusay",
-            "Pashto": "Qusay"
-        }
-    },
-    {
-        "name": "Qutaybah",
-        "gender": "Boy",
-        "meaning": "Narrator of Hadith",
-        "origin": "Arabic",
-        "id": "qu4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قتيبة",
-            "Urdu": "قتیبہ",
-            "Persian": "قتیبه",
-            "Turkish": "Kuteybe",
-            "Bengali": "কুতায়বাহ",
-            "Indonesian": "Qutaybah",
-            "Pashto": "قتیبه"
-        }
-    },
-    {
-        "id": "qu11",
-        "name": "Qutb",
-        "gender": "Boy",
-        "meaning": "Axis, pole, leader",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قطب",
-            "Urdu": "قطب",
-            "Persian": "قطب",
-            "Turkish": "Kutub",
-            "Bengali": "কুতুব",
-            "Indonesian": "Qutb",
-            "Pashto": "قطب"
-        }
-    },
-    {
-        "name": "Qutb-Ud-Deen",
-        "gender": "Boy",
-        "meaning": "Axis of the Faith",
-        "origin": "Arabic",
-        "id": "qu17_var",
-        "verified": true,
-        "variant_of": "Qutb-Ud-Din",
-        "spellings": {
-            "Arabic": "قطب الدين",
-            "Urdu": "قطب الدین",
-            "Persian": "قطب الدین",
-            "Turkish": "Kutub-Ud-Deen",
-            "Bengali": "কুতুব-উদ-দ্বীন",
-            "Indonesian": "Qutb-Ud-Deen",
-            "Pashto": "قطب الدین"
-        }
-    },
-    {
-        "name": "Qutb-Ud-Din",
-        "gender": "Boy",
-        "meaning": "Axis of the Faith",
-        "origin": "Arabic",
-        "id": "qu17",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قطب الدين",
-            "Urdu": "قطب الدین",
-            "Persian": "قطب الدین",
-            "Turkish": "Kutub-Ud-Din",
-            "Bengali": "কুতুব-উদ্দীন",
-            "Indonesian": "Qutb-Ud-Din",
-            "Pashto": "قطب الدین"
-        }
-    },
-    {
-        "id": "qu12",
-        "name": "Qutuz",
-        "gender": "Boy",
-        "meaning": "Vicious (Historical Mamluk Sultan)",
-        "origin": "Turkish",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قطز",
-            "Urdu": "قطوز",
-            "Persian": "قوتوز",
-            "Turkish": "Kutuz",
-            "Bengali": "কুতুজ",
-            "Indonesian": "Qutuz",
-            "Pashto": "قطوز"
-        }
+  {
+    "name": "Qaabeel",
+    "gender": "Boy",
+    "meaning": "Acceptor, approver",
+    "origin": "Arabic",
+    "id": "qa11_var",
+    "verified": true,
+    "variant_of": "Qaabil",
+    "spellings": {
+      "Arabic": "قابيل",
+      "Urdu": "قابیل",
+      "Persian": "قابیل",
+      "Turkish": "Kabeel",
+      "Bengali": "কাবিল",
+      "Indonesian": "Qaabeel",
+      "Pashto": "قابیل"
     }
+  },
+  {
+    "name": "Qaabil",
+    "gender": "Boy",
+    "meaning": "Acceptor, approver",
+    "origin": "Arabic",
+    "id": "qa11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قابيل",
+      "Urdu": "قابیل",
+      "Persian": "قابیل",
+      "Turkish": "Kabil",
+      "Bengali": "কাবিল",
+      "Indonesian": "Qabil",
+      "Pashto": "قابیل"
+    }
+  },
+  {
+    "name": "Qaaeed",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "qa39_var",
+    "verified": true,
+    "variant_of": "Qaaid",
+    "spellings": {
+      "Arabic": "قعيد",
+      "Urdu": "قاید",
+      "Persian": "قائد",
+      "Turkish": "kaaid",
+      "Bengali": "কায়েদ",
+      "Indonesian": "Qaaeed",
+      "Pashto": "قاید"
+    }
+  },
+  {
+    "name": "Qaaid",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "qa39",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قايد",
+      "Urdu": "قاید",
+      "Persian": "قائد",
+      "Turkish": "Kaid",
+      "Bengali": "কায়েদ",
+      "Indonesian": "Qaaid",
+      "Pashto": "قاید"
+    }
+  },
+  {
+    "name": "Qaaneea",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12_var",
+    "verified": true,
+    "variant_of": "Qaania",
+    "spellings": {
+      "Arabic": "قانيا",
+      "Urdu": "قانیہ",
+      "Persian": "قانعیا",
+      "Turkish": "Qaaneea",
+      "Bengali": "কানেয়া",
+      "Indonesian": "Qaaneea",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qaaneet",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "id": "qa37_var",
+    "verified": true,
+    "variant_of": "Qaanit",
+    "spellings": {
+      "Arabic": "قانيت",
+      "Urdu": "قنیت",
+      "Persian": "قانعیت",
+      "Turkish": "Qaaneet",
+      "Bengali": "কাআনীত",
+      "Indonesian": "Qaaneet",
+      "Pashto": "قانیت"
+    }
+  },
+  {
+    "name": "Qaania",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قانيا",
+      "Urdu": "قاانیہ",
+      "Persian": "قاآنیا",
+      "Turkish": "Qaania",
+      "Bengali": "কানিয়া",
+      "Indonesian": "Qaania",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qaaniah",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa12_var",
+    "verified": true,
+    "variant_of": "Qaania",
+    "spellings": {
+      "Arabic": "قانية",
+      "Urdu": "قانیہ",
+      "Persian": "قاآنیه",
+      "Turkish": "Qaaniah",
+      "Bengali": "কানিয়াহ",
+      "Indonesian": "Qaaniah",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qaanit",
+    "gender": "Boy",
+    "meaning": "Obedient",
+    "origin": "Arabic",
+    "id": "qa37",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قانيت",
+      "Urdu": "قاانیت",
+      "Persian": "قاآنیت",
+      "Turkish": "Kaanit",
+      "Bengali": "কানিত",
+      "Indonesian": "Qaanit",
+      "Pashto": "قانیت"
+    }
+  },
+  {
+    "name": "Qaaseem",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Arabic",
+    "id": "qa38_var",
+    "verified": true,
+    "variant_of": "Qaasim",
+    "spellings": {
+      "Arabic": "قاسم",
+      "Urdu": "قاسم",
+      "Persian": "قاسم",
+      "Turkish": "Kasım",
+      "Bengali": "কাসিম",
+      "Indonesian": "Qaaseem",
+      "Pashto": "قاسم"
+    }
+  },
+  {
+    "name": "Qaasim",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Arabic",
+    "id": "qa38",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسم",
+      "Urdu": "قاسم",
+      "Persian": "قاسم",
+      "Turkish": "Kasım",
+      "Bengali": "কাসিম",
+      "Indonesian": "Qasim",
+      "Pashto": "قاسم"
+    }
+  },
+  {
+    "name": "Qabeed",
+    "gender": "Boy",
+    "meaning": "Good runner",
+    "origin": "Arabic",
+    "id": "qa13_var",
+    "verified": true,
+    "variant_of": "Qabid",
+    "spellings": {
+      "Arabic": "قبيد",
+      "Urdu": "قبید",
+      "Persian": "قابید",
+      "Turkish": "Kabid",
+      "Bengali": "কাবেদ",
+      "Indonesian": "Qabeed",
+      "Pashto": "قباید"
+    }
+  },
+  {
+    "name": "Qabeel",
+    "gender": "Boy",
+    "meaning": "Able; Capable",
+    "origin": "Arabic",
+    "id": "qa1_var",
+    "verified": true,
+    "variant_of": "Qabil",
+    "spellings": {
+      "Arabic": "قابيل",
+      "Urdu": "قابیل",
+      "Persian": "قبیل",
+      "Turkish": "Kabeel",
+      "Bengali": "কাবিল",
+      "Indonesian": "Qabeel",
+      "Pashto": "قابیل"
+    }
+  },
+  {
+    "name": "Qabid",
+    "gender": "Boy",
+    "meaning": "Good runner",
+    "origin": "Arabic",
+    "id": "qa13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قبيد",
+      "Urdu": "قباد",
+      "Persian": "قابید",
+      "Turkish": "Kabid",
+      "Bengali": "কাবিদ",
+      "Indonesian": "Qabid",
+      "Pashto": "قباد"
+    }
+  },
+  {
+    "name": "Qabil",
+    "gender": "Boy",
+    "meaning": "Able; Capable",
+    "origin": "Arabic",
+    "id": "qa1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قابل",
+      "Urdu": "قابیل",
+      "Persian": "قابیل",
+      "Turkish": "Kabil",
+      "Bengali": "কাবিল",
+      "Indonesian": "Qabil",
+      "Pashto": "قابیل"
+    }
+  },
+  {
+    "name": "Qaboos",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "qa2_var",
+    "verified": true,
+    "variant_of": "Qabus",
+    "spellings": {
+      "Arabic": "قابوس",
+      "Urdu": "قابوس",
+      "Persian": "قابوس",
+      "Turkish": "Kabus",
+      "Bengali": "কাবুস",
+      "Indonesian": "Qaboo",
+      "Pashto": "قابوس"
+    }
+  },
+  {
+    "name": "Qabus",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Arabic",
+    "id": "qa2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قابوس",
+      "Urdu": "قابوس",
+      "Persian": "قابوس",
+      "Turkish": "Kabus",
+      "Bengali": "কাবুস",
+      "Indonesian": "Qabus",
+      "Pashto": "قابوس"
+    }
+  },
+  {
+    "name": "Qadar",
+    "gender": "Boy",
+    "meaning": "Divine destiny",
+    "origin": "Arabic",
+    "id": "qa3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدر",
+      "Urdu": "قدر",
+      "Persian": "قدر",
+      "Turkish": "Kader",
+      "Bengali": "কদর",
+      "Indonesian": "Qadar",
+      "Pashto": "قادر"
+    }
+  },
+  {
+    "name": "Qaddoor",
+    "gender": "Boy",
+    "meaning": "Capable",
+    "origin": "Arabic",
+    "id": "qa4_var",
+    "verified": true,
+    "variant_of": "Qaddur",
+    "spellings": {
+      "Arabic": "قدور",
+      "Urdu": "قدور",
+      "Persian": "قدور",
+      "Turkish": "Kaddoor",
+      "Bengali": "কদ্দুর",
+      "Indonesian": "pintu Qad",
+      "Pashto": "قدور"
+    }
+  },
+  {
+    "name": "Qaddur",
+    "gender": "Boy",
+    "meaning": "Capable",
+    "origin": "Arabic",
+    "id": "qa4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدور",
+      "Urdu": "قدور",
+      "Persian": "قدر",
+      "Turkish": "Kaddur",
+      "Bengali": "কদ্দুর",
+      "Indonesian": "Qaddur",
+      "Pashto": "قدور"
+    }
+  },
+  {
+    "name": "Qadee",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "qa15_var",
+    "verified": true,
+    "variant_of": "Qadi",
+    "spellings": {
+      "Arabic": "القاضي",
+      "Urdu": "قدی",
+      "Persian": "قادعی",
+      "Turkish": "Kadı",
+      "Bengali": "কাদি",
+      "Indonesian": "Qadee",
+      "Pashto": "قادي"
+    }
+  },
+  {
+    "name": "Qadeem",
+    "gender": "Boy",
+    "meaning": "Ancient",
+    "origin": "Arabic",
+    "id": "qa16_var",
+    "verified": true,
+    "variant_of": "Qadim",
+    "spellings": {
+      "Arabic": "القديم",
+      "Urdu": "قدیم",
+      "Persian": "قدیم",
+      "Turkish": "Kadim",
+      "Bengali": "কাদিম",
+      "Indonesian": "Qadeem",
+      "Pashto": "قدیم"
+    }
+  },
+  {
+    "name": "Qadeer",
+    "gender": "Boy",
+    "meaning": "Powerful, capable",
+    "origin": "Quranic",
+    "id": "qa14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدير",
+      "Urdu": "قدیر",
+      "Persian": "قادر",
+      "Turkish": "Kadir",
+      "Bengali": "কাদির",
+      "Indonesian": "Qadeer",
+      "Pashto": "قدیر"
+    }
+  },
+  {
+    "name": "Qadeera",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17_var",
+    "verified": true,
+    "variant_of": "Qadira",
+    "spellings": {
+      "Arabic": "قديرة",
+      "Urdu": "قدیرہ",
+      "Persian": "قادره",
+      "Turkish": "Kadeera",
+      "Bengali": "কাদিরা",
+      "Indonesian": "Qadeera",
+      "Pashto": "قدیره"
+    }
+  },
+  {
+    "name": "Qadi",
+    "gender": "Boy",
+    "meaning": "Judge",
+    "origin": "Arabic",
+    "id": "qa15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القاضي",
+      "Urdu": "قادی",
+      "Persian": "قادی",
+      "Turkish": "Kadı",
+      "Bengali": "কাদি",
+      "Indonesian": "Qadi",
+      "Pashto": "قادي"
+    }
+  },
+  {
+    "name": "Qadim",
+    "gender": "Boy",
+    "meaning": "Ancient",
+    "origin": "Arabic",
+    "id": "qa16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قديم",
+      "Urdu": "قدیم",
+      "Persian": "قدیم",
+      "Turkish": "Kadim",
+      "Bengali": "কাদিম",
+      "Indonesian": "Qadim",
+      "Pashto": "قدیم"
+    }
+  },
+  {
+    "id": "qa8",
+    "name": "Qadir",
+    "gender": "Boy",
+    "meaning": "Powerful, capable",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قادر",
+      "Urdu": "قادر",
+      "Persian": "قادر",
+      "Turkish": "Kadir",
+      "Bengali": "কাদির",
+      "Indonesian": "Qadir",
+      "Pashto": "قدیر"
+    }
+  },
+  {
+    "name": "Qadira",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قديرة",
+      "Urdu": "قادرہ",
+      "Persian": "قدیره",
+      "Turkish": "Kadire",
+      "Bengali": "কাদিরা",
+      "Indonesian": "Qadir",
+      "Pashto": "قادره"
+    }
+  },
+  {
+    "name": "Qadirah",
+    "gender": "Girl",
+    "meaning": "Powerful, capable",
+    "origin": "Arabic",
+    "id": "qa17_var",
+    "verified": true,
+    "variant_of": "Qadira",
+    "spellings": {
+      "Arabic": "قديرة",
+      "Urdu": "قادرہ",
+      "Persian": "قدیره",
+      "Turkish": "Kadirah",
+      "Bengali": "কাদিরাহ",
+      "Indonesian": "Qadirah",
+      "Pashto": "قادره"
+    }
+  },
+  {
+    "name": "Qaeed",
+    "gender": "Boy",
+    "meaning": "Leader, commander",
+    "origin": "Arabic",
+    "id": "qa20_var",
+    "verified": true,
+    "variant_of": "Qaid",
+    "spellings": {
+      "Arabic": "قعيد",
+      "Urdu": "قاید",
+      "Persian": "قائد",
+      "Turkish": "Kaid",
+      "Bengali": "কায়েদ",
+      "Indonesian": "Qaeed",
+      "Pashto": "قاید"
+    }
+  },
+  {
+    "name": "Qaeem",
+    "gender": "Boy",
+    "meaning": "Rising, standing",
+    "origin": "Quranic",
+    "id": "qa21_var",
+    "verified": true,
+    "variant_of": "Qaim",
+    "spellings": {
+      "Arabic": "قائم",
+      "Urdu": "قائم",
+      "Persian": "قائم",
+      "Turkish": "Qaeem",
+      "Bengali": "কাইম",
+      "Indonesian": "Qaem",
+      "Pashto": "قايم"
+    }
+  },
+  {
+    "name": "Qaeerawan",
+    "gender": "Boy",
+    "meaning": "Caravan (Tunisia)",
+    "origin": "Arabic",
+    "id": "qa41_var",
+    "verified": true,
+    "variant_of": "Qairawan",
+    "spellings": {
+      "Arabic": "القيروان",
+      "Urdu": "قیروان",
+      "Persian": "قیروان",
+      "Turkish": "Qaeerawan",
+      "Bengali": "কাইরাওয়ান",
+      "Indonesian": "Qaeerawan",
+      "Pashto": "قایراوان"
+    }
+  },
+  {
+    "name": "Qaees",
+    "gender": "Boy",
+    "meaning": "Lover; Measure",
+    "origin": "Arabic",
+    "id": "qa22_var",
+    "verified": true,
+    "variant_of": "Qais",
+    "spellings": {
+      "Arabic": "قيس",
+      "Urdu": "قیس",
+      "Persian": "قیسی ها",
+      "Turkish": "Kaie'ler",
+      "Bengali": "কায়েস",
+      "Indonesian": "Qaees",
+      "Pashto": "قیس"
+    }
+  },
+  {
+    "name": "Qaeesar",
+    "gender": "Boy",
+    "meaning": "Caesar",
+    "origin": "Arabic",
+    "id": "qa38_var",
+    "verified": true,
+    "variant_of": "Qaisar",
+    "spellings": {
+      "Arabic": "قيصر",
+      "Urdu": "قیصر",
+      "Persian": "قیصر",
+      "Turkish": "Kayesar",
+      "Bengali": "কায়সার",
+      "Indonesian": "Qaeesar",
+      "Pashto": "قیصر"
+    }
+  },
+  {
+    "name": "Qaeeser",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qa23_var",
+    "verified": true,
+    "variant_of": "Qaiser",
+    "spellings": {
+      "Arabic": "قيصر",
+      "Urdu": "قیصر",
+      "Persian": "قیصر",
+      "Turkish": "Kayzer",
+      "Bengali": "কায়সার",
+      "Indonesian": "Qaeeser",
+      "Pashto": "قیصر"
+    }
+  },
+  {
+    "name": "Qaheera",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18_var",
+    "verified": true,
+    "variant_of": "Qahira",
+    "spellings": {
+      "Arabic": "قاهرة",
+      "Urdu": "قاہرہ",
+      "Persian": "قهیره",
+      "Turkish": "Kaheera",
+      "Bengali": "কাহিরা",
+      "Indonesian": "Qaheera",
+      "Pashto": "قاهره"
+    }
+  },
+  {
+    "name": "Qahira",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القاهرة",
+      "Urdu": "قاہرہ",
+      "Persian": "قهیرا",
+      "Turkish": "Kahire",
+      "Bengali": "কাহিরা",
+      "Indonesian": "Qahira",
+      "Pashto": "قاهره"
+    }
+  },
+  {
+    "name": "Qahirah",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "qa18_var",
+    "verified": true,
+    "variant_of": "Qahira",
+    "spellings": {
+      "Arabic": "القاهره",
+      "Urdu": "قاہرہ",
+      "Persian": "قاهره",
+      "Turkish": "Kahire",
+      "Bengali": "কাহিরাহ",
+      "Indonesian": "Qahirah",
+      "Pashto": "قاهره"
+    }
+  },
+  {
+    "name": "Qahr",
+    "gender": "Boy",
+    "meaning": "Power, dominance",
+    "origin": "Arabic",
+    "id": "qa19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قهر",
+      "Urdu": "قہر",
+      "Persian": "قهر",
+      "Turkish": "Kahr",
+      "Bengali": "কাহর",
+      "Indonesian": "Qahr",
+      "Pashto": "قاهر"
+    }
+  },
+  {
+    "name": "Qaid",
+    "gender": "Boy",
+    "meaning": "Leader, commander",
+    "origin": "Arabic",
+    "id": "qa20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قايد",
+      "Urdu": "قاید",
+      "Persian": "قائد",
+      "Turkish": "Kaid",
+      "Bengali": "কায়েদ",
+      "Indonesian": "Qaid",
+      "Pashto": "قاید"
+    }
+  },
+  {
+    "name": "Qaim",
+    "gender": "Boy",
+    "meaning": "Rising, standing",
+    "origin": "Quranic",
+    "id": "qa21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القائم",
+      "Urdu": "قائم",
+      "Persian": "قائم",
+      "Turkish": "Kaim",
+      "Bengali": "কাইম",
+      "Indonesian": "Qaim",
+      "Pashto": "قايم"
+    }
+  },
+  {
+    "name": "Qairawan",
+    "gender": "Boy",
+    "meaning": "Caravan (Tunisia)",
+    "origin": "Arabic",
+    "id": "qa41",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القيروان",
+      "Urdu": "قیروان",
+      "Persian": "قیروان",
+      "Turkish": "Kayravan",
+      "Bengali": "কাইরাওয়ান",
+      "Indonesian": "Qairawan",
+      "Pashto": "قیروان"
+    }
+  },
+  {
+    "name": "Qais",
+    "gender": "Boy",
+    "meaning": "Lover; Measure",
+    "origin": "Arabic",
+    "id": "qa22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيس",
+      "Urdu": "قیس",
+      "Persian": "قیس",
+      "Turkish": "Kayis",
+      "Bengali": "কাইস",
+      "Indonesian": "Qais",
+      "Pashto": "قیس"
+    }
+  },
+  {
+    "name": "Qaisar",
+    "gender": "Boy",
+    "meaning": "Caesar",
+    "origin": "Arabic",
+    "id": "qa38",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيصر",
+      "Urdu": "قیصر",
+      "Persian": "قیصر",
+      "Turkish": "Kaysar",
+      "Bengali": "কায়সার",
+      "Indonesian": "Qaisar",
+      "Pashto": "قیصر"
+    }
+  },
+  {
+    "name": "Qaiser",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qa23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيصر",
+      "Urdu": "قیصر",
+      "Persian": "قیصر",
+      "Turkish": "Kaiser",
+      "Bengali": "কায়সার",
+      "Indonesian": "Qaiser",
+      "Pashto": "قیصر"
+    }
+  },
+  {
+    "name": "Qamar",
+    "gender": "Unisex",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "qa35",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قمر",
+      "Urdu": "قمر",
+      "Persian": "قمر",
+      "Turkish": "Kamer",
+      "Bengali": "কামার",
+      "Indonesian": "Qamar",
+      "Pashto": "قمر"
+    }
+  },
+  {
+    "name": "Qamar-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Moon of the Faith",
+    "origin": "Arabic",
+    "id": "qa39_var",
+    "verified": true,
+    "variant_of": "Qamar-Ud-Din",
+    "spellings": {
+      "Arabic": "قمر الدين",
+      "Urdu": "قمر الدین",
+      "Persian": "قمر الدین",
+      "Turkish": "Qamar-Ud-Deen",
+      "Bengali": "কমর-উদ-দ্বীন",
+      "Indonesian": "Qamar-Ud-Deen",
+      "Pashto": "قمرالدین"
+    }
+  },
+  {
+    "name": "Qamar-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Moon of the Faith",
+    "origin": "Arabic",
+    "id": "qa39",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قمر الدين",
+      "Urdu": "قمر الدین",
+      "Persian": "قمر الدین",
+      "Turkish": "Kamer-Ud-Din",
+      "Bengali": "কমর-উদ-দীন",
+      "Indonesian": "Qamar-Ud-Din",
+      "Pashto": "قمرالدین"
+    }
+  },
+  {
+    "name": "Qamar-Uz-Zaman",
+    "gender": "Boy",
+    "meaning": "Moon of the Era",
+    "origin": "Arabic",
+    "id": "qa40",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قمر الزمان",
+      "Urdu": "قمر الزمان",
+      "Persian": "قمرالزمان",
+      "Turkish": "Kamer-Uz-Zaman",
+      "Bengali": "কামার-উজ-জামান",
+      "Indonesian": "Qamar-Uz-Zaman",
+      "Pashto": "قمرالزمان"
+    }
+  },
+  {
+    "name": "Qamaree",
+    "gender": "Girl",
+    "meaning": "Moon-like",
+    "origin": "Arabic",
+    "id": "qa24_var",
+    "verified": true,
+    "variant_of": "Qamari",
+    "spellings": {
+      "Arabic": "قمري",
+      "Urdu": "قمری",
+      "Persian": "قمری",
+      "Turkish": "Kamare",
+      "Bengali": "কামারী",
+      "Indonesian": "Qamaree",
+      "Pashto": "قمري"
+    }
+  },
+  {
+    "name": "Qamari",
+    "gender": "Girl",
+    "meaning": "Moon-like",
+    "origin": "Arabic",
+    "id": "qa24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قمري",
+      "Urdu": "قمری",
+      "Persian": "قمری",
+      "Turkish": "Kamari",
+      "Bengali": "কামারি",
+      "Indonesian": "Qamari",
+      "Pashto": "قمري"
+    }
+  },
+  {
+    "name": "Qanaat",
+    "gender": "Unisex",
+    "meaning": "Patience, contentment",
+    "origin": "Arabic",
+    "id": "qa25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قناة",
+      "Urdu": "قنات",
+      "Persian": "قناعت",
+      "Turkish": "Kanaat",
+      "Bengali": "কানাত",
+      "Indonesian": "Qanaat",
+      "Pashto": "قناعت"
+    }
+  },
+  {
+    "name": "Qandahar",
+    "gender": "Boy",
+    "meaning": "City in Afghanistan",
+    "origin": "Pashto",
+    "id": "qa42",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قندهار",
+      "Urdu": "قندھار",
+      "Persian": "قندهار",
+      "Turkish": "Kandahar",
+      "Bengali": "কান্দাহার",
+      "Indonesian": "Qandahar",
+      "Pashto": "کندهار"
+    }
+  },
+  {
+    "name": "Qanee",
+    "gender": "Boy",
+    "meaning": "Satisfied",
+    "origin": "Arabic",
+    "id": "qa40",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاني",
+      "Urdu": "کنی",
+      "Persian": "قانعی",
+      "Turkish": "Kane",
+      "Bengali": "কানি",
+      "Indonesian": "Qanee",
+      "Pashto": "قاني"
+    }
+  },
+  {
+    "name": "Qaneea",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26_var",
+    "verified": true,
+    "variant_of": "Qania",
+    "spellings": {
+      "Arabic": "قانية",
+      "Urdu": "قنیہ",
+      "Persian": "قانعیا",
+      "Turkish": "Kaneya",
+      "Bengali": "কানেয়া",
+      "Indonesian": "Qanea",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qaneet",
+    "gender": "Boy",
+    "meaning": "Obedient; Submissive to Allah",
+    "origin": "Quranic",
+    "id": "qa6_var",
+    "verified": true,
+    "variant_of": "Qanit",
+    "spellings": {
+      "Arabic": "قنيت",
+      "Urdu": "قنیت",
+      "Persian": "قانیت",
+      "Turkish": "Kaneet",
+      "Bengali": "কানীত",
+      "Indonesian": "Qaneet",
+      "Pashto": "قنیت"
+    }
+  },
+  {
+    "name": "Qani",
+    "gender": "Boy",
+    "meaning": "Content; Satisfied",
+    "origin": "Arabic",
+    "id": "qa5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاني",
+      "Urdu": "قانی",
+      "Persian": "قانی",
+      "Turkish": "Kani",
+      "Bengali": "কানি",
+      "Indonesian": "Qani",
+      "Pashto": "قااني"
+    }
+  },
+  {
+    "name": "Qania",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قانيا",
+      "Urdu": "قانیہ",
+      "Persian": "قانیا",
+      "Turkish": "Kania",
+      "Bengali": "কানিয়া",
+      "Indonesian": "Qania",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qaniah",
+    "gender": "Girl",
+    "meaning": "Content, satisfied",
+    "origin": "Arabic",
+    "id": "qa26_var",
+    "verified": true,
+    "variant_of": "Qania",
+    "spellings": {
+      "Arabic": "قانية",
+      "Urdu": "کنیہ",
+      "Persian": "قانیا",
+      "Turkish": "Qaniah",
+      "Bengali": "কানিয়াহ",
+      "Indonesian": "Qaniah",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qanit",
+    "gender": "Boy",
+    "meaning": "Obedient; Submissive to Allah",
+    "origin": "Quranic",
+    "id": "qa6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قنيت",
+      "Urdu": "قنیت",
+      "Persian": "قانیت",
+      "Turkish": "Kanit",
+      "Bengali": "কানিত",
+      "Indonesian": "Qanit",
+      "Pashto": "قانت"
+    }
+  },
+  {
+    "name": "Qanoon",
+    "gender": "Boy",
+    "meaning": "Law, rule",
+    "origin": "Arabic",
+    "id": "qa28_var",
+    "verified": true,
+    "variant_of": "Qanun",
+    "spellings": {
+      "Arabic": "قانون",
+      "Urdu": "قانون",
+      "Persian": "قانون",
+      "Turkish": "Kanon",
+      "Bengali": "কানুন",
+      "Indonesian": "Qanoon",
+      "Pashto": "قانون"
+    }
+  },
+  {
+    "name": "Qantara",
+    "gender": "Girl",
+    "meaning": "Bridge, arch",
+    "origin": "Arabic",
+    "id": "qa34",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القنطرة",
+      "Urdu": "قنطارا",
+      "Persian": "قنطرا",
+      "Turkish": "Kantara",
+      "Bengali": "কানতারা",
+      "Indonesian": "Qantara",
+      "Pashto": "قنطاره"
+    }
+  },
+  {
+    "name": "Qantarah",
+    "gender": "Girl",
+    "meaning": "Small bridge",
+    "origin": "Arabic",
+    "id": "qa27",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قنطرة",
+      "Urdu": "قنطارہ",
+      "Persian": "قنطره",
+      "Turkish": "Kantarah",
+      "Bengali": "কানতারাহ",
+      "Indonesian": "Qantarah",
+      "Pashto": "قنطاره"
+    }
+  },
+  {
+    "name": "Qanun",
+    "gender": "Boy",
+    "meaning": "Law, rule",
+    "origin": "Arabic",
+    "id": "qa28",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قانون",
+      "Urdu": "قانون",
+      "Persian": "قانون",
+      "Turkish": "Kanun",
+      "Bengali": "কানুন",
+      "Indonesian": "Qanun",
+      "Pashto": "قانع"
+    }
+  },
+  {
+    "name": "Qareen",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Quranic",
+    "id": "qa29_var",
+    "verified": true,
+    "variant_of": "Qarin",
+    "spellings": {
+      "Arabic": "قرين",
+      "Urdu": "قرین",
+      "Persian": "قرین",
+      "Turkish": "Karen",
+      "Bengali": "কারিন",
+      "Indonesian": "Qareen",
+      "Pashto": "قرین"
+    }
+  },
+  {
+    "name": "Qarin",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Quranic",
+    "id": "qa29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قارين",
+      "Urdu": "قرن",
+      "Persian": "قرین",
+      "Turkish": "Karin",
+      "Bengali": "কারিন",
+      "Indonesian": "Karin",
+      "Pashto": "قرن"
+    }
+  },
+  {
+    "name": "Qartaj",
+    "gender": "Girl",
+    "meaning": "Carthage",
+    "origin": "Arabic",
+    "id": "qa43",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قرطاج",
+      "Urdu": "قرتاج",
+      "Persian": "قرتاج",
+      "Turkish": "Qartaj",
+      "Bengali": "কারতাজ",
+      "Indonesian": "Qartaj",
+      "Pashto": "قرتاج"
+    }
+  },
+  {
+    "name": "Qaseed",
+    "gender": "Boy",
+    "meaning": "Messenger; Representative",
+    "origin": "Arabic",
+    "id": "qa7_var",
+    "verified": true,
+    "variant_of": "Qasid",
+    "spellings": {
+      "Arabic": "قصيد",
+      "Urdu": "قصید",
+      "Persian": "قاصد",
+      "Turkish": "Kasid",
+      "Bengali": "কাসেদ",
+      "Indonesian": "Qaseed",
+      "Pashto": "قصيد"
+    }
+  },
+  {
+    "name": "Qaseeda",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Arabic",
+    "id": "qa35_var",
+    "verified": true,
+    "variant_of": "Qasida",
+    "spellings": {
+      "Arabic": "قصيدة",
+      "Urdu": "قصیدہ",
+      "Persian": "قصیده",
+      "Turkish": "Kaseda",
+      "Bengali": "কাসিদা",
+      "Indonesian": "Qaseeda",
+      "Pashto": "قصیده"
+    }
+  },
+  {
+    "name": "Qaseef",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "qa8_var",
+    "verified": true,
+    "variant_of": "Qasif",
+    "spellings": {
+      "Arabic": "القصيف",
+      "Urdu": "قصف",
+      "Persian": "قصیف",
+      "Turkish": "Kasif",
+      "Bengali": "কাসিফ",
+      "Indonesian": "Qaseef",
+      "Pashto": "قیس"
+    }
+  },
+  {
+    "name": "Qaseem",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Urdu",
+    "id": "qa36_var",
+    "verified": true,
+    "variant_of": "Qasim",
+    "spellings": {
+      "Arabic": "قاسم",
+      "Urdu": "قاسم",
+      "Persian": "قاسم",
+      "Turkish": "Kasım",
+      "Bengali": "কাসিম",
+      "Indonesian": "Qasim",
+      "Pashto": "قاسم"
+    }
+  },
+  {
+    "name": "Qaseema",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30_var",
+    "verified": true,
+    "variant_of": "Qasima",
+    "spellings": {
+      "Arabic": "القصيمة",
+      "Urdu": "قاسمہ",
+      "Persian": "قاسمیه",
+      "Turkish": "Kasıme",
+      "Bengali": "কাসিমা",
+      "Indonesian": "Qasiema",
+      "Pashto": "قسیمه"
+    }
+  },
+  {
+    "name": "Qaseeoun",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44_var",
+    "verified": true,
+    "variant_of": "Qasioun",
+    "spellings": {
+      "Arabic": "قاسيون",
+      "Urdu": "قصیون",
+      "Persian": "قاسیون",
+      "Turkish": "Qaseeon",
+      "Bengali": "কাসিউন",
+      "Indonesian": "Qaseeoun",
+      "Pashto": "قصیون"
+    }
+  },
+  {
+    "name": "Qaseet",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "qa41_var",
+    "verified": true,
+    "variant_of": "Qasit",
+    "spellings": {
+      "Arabic": "قسط",
+      "Urdu": "قصیت",
+      "Persian": "قصیت",
+      "Turkish": "Kaset",
+      "Bengali": "কাসেত",
+      "Indonesian": "Qaseet",
+      "Pashto": "قیسیت"
+    }
+  },
+  {
+    "name": "Qasid",
+    "gender": "Boy",
+    "meaning": "Messenger; Representative",
+    "origin": "Arabic",
+    "id": "qa7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القاصد",
+      "Urdu": "قاصد",
+      "Persian": "قصید",
+      "Turkish": "Kasıd",
+      "Bengali": "কাসিদ",
+      "Indonesian": "Qasid",
+      "Pashto": "قاصد"
+    }
+  },
+  {
+    "name": "Qasida",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Arabic",
+    "id": "qa35",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قصيدة",
+      "Urdu": "قصیدہ",
+      "Persian": "قصیده",
+      "Turkish": "Kaside",
+      "Bengali": "কাসিদা",
+      "Indonesian": "Qasida",
+      "Pashto": "قصیده"
+    }
+  },
+  {
+    "name": "Qasidah",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Arabic",
+    "id": "qa35_var",
+    "verified": true,
+    "variant_of": "Qasida",
+    "spellings": {
+      "Arabic": "قصيدة",
+      "Urdu": "قصیدہ",
+      "Persian": "قصیده",
+      "Turkish": "Kaside",
+      "Bengali": "কাসিদাহ",
+      "Indonesian": "Qasidah",
+      "Pashto": "قصیده"
+    }
+  },
+  {
+    "name": "Qasif",
+    "gender": "Boy",
+    "meaning": "Discoverer",
+    "origin": "Arabic",
+    "id": "qa8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاصف",
+      "Urdu": "قاصف",
+      "Persian": "قصیف",
+      "Turkish": "Kasif",
+      "Bengali": "কাসিফ",
+      "Indonesian": "Qasif",
+      "Pashto": "قاصف"
+    }
+  },
+  {
+    "name": "Qasim",
+    "gender": "Boy",
+    "meaning": "Divider",
+    "origin": "Urdu",
+    "id": "qa36",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسم",
+      "Urdu": "قاسم",
+      "Persian": "قاسم",
+      "Turkish": "Kasım",
+      "Bengali": "কাসিম",
+      "Indonesian": "Qasim",
+      "Pashto": "قاسم"
+    }
+  },
+  {
+    "name": "Qasima",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسمه",
+      "Urdu": "قاسمہ",
+      "Persian": "قاسیما",
+      "Turkish": "Kasıma",
+      "Bengali": "কাসিমা",
+      "Indonesian": "Qasimah",
+      "Pashto": "قاسمه"
+    }
+  },
+  {
+    "name": "Qasimah",
+    "gender": "Girl",
+    "meaning": "Distributor",
+    "origin": "Arabic",
+    "id": "qa30_var",
+    "verified": true,
+    "variant_of": "Qasima",
+    "spellings": {
+      "Arabic": "قاسمه",
+      "Urdu": "قاسمہ",
+      "Persian": "قاسمه",
+      "Turkish": "Kasımah",
+      "Bengali": "কাসিমাহ",
+      "Indonesian": "Qasimah",
+      "Pashto": "قاسمه"
+    }
+  },
+  {
+    "name": "Qasiooon",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44_var",
+    "verified": true,
+    "variant_of": "Qasioun",
+    "spellings": {
+      "Arabic": "قاسيون",
+      "Urdu": "قصیوون",
+      "Persian": "قاسیون",
+      "Turkish": "Kasiooon",
+      "Bengali": "কাসিওন",
+      "Indonesian": "Qasiooon",
+      "Pashto": "قاسیوون"
+    }
+  },
+  {
+    "name": "Qasioun",
+    "gender": "Boy",
+    "meaning": "Mountain overlooking Damascus",
+    "origin": "Arabic",
+    "id": "qa44",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسيون",
+      "Urdu": "قاسیون",
+      "Persian": "قاسیون",
+      "Turkish": "Qasiun",
+      "Bengali": "কাসিউন",
+      "Indonesian": "Qasioun",
+      "Pashto": "قاسیون"
+    }
+  },
+  {
+    "name": "Qasit",
+    "gender": "Boy",
+    "meaning": "Just",
+    "origin": "Arabic",
+    "id": "qa41",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسيط",
+      "Urdu": "قصیت",
+      "Persian": "قاسط",
+      "Turkish": "Kasit",
+      "Bengali": "কাসিত",
+      "Indonesian": "Qasit",
+      "Pashto": "قصیت"
+    }
+  },
+  {
+    "name": "Qasoomah",
+    "gender": "Girl",
+    "meaning": "Poetess",
+    "origin": "Arabic",
+    "id": "qa31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قسومة",
+      "Urdu": "قاسمہ",
+      "Persian": "قاسومه",
+      "Turkish": "Kasoomah",
+      "Bengali": "কাসুমাহ",
+      "Indonesian": "Qasoomah",
+      "Pashto": "قاسمه"
+    }
+  },
+  {
+    "name": "Qasumah",
+    "gender": "Girl",
+    "meaning": "Poetess",
+    "origin": "Arabic",
+    "id": "qa31_var",
+    "verified": true,
+    "variant_of": "Qasoomah",
+    "spellings": {
+      "Arabic": "قسومة",
+      "Urdu": "قاسمہ",
+      "Persian": "قاسومه",
+      "Turkish": "Kasumah",
+      "Bengali": "কাসুমাহ",
+      "Indonesian": "Qasumah",
+      "Pashto": "قاسمه"
+    }
+  },
+  {
+    "name": "Qatadah",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi; A hardwood tree",
+    "origin": "Arabic",
+    "id": "qa9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قتادة",
+      "Urdu": "قتادہ",
+      "Persian": "قتاده",
+      "Turkish": "Katade",
+      "Bengali": "কাতাদাহ",
+      "Indonesian": "Qatadah",
+      "Pashto": "قتاده"
+    }
+  },
+  {
+    "name": "Qateef",
+    "gender": "Boy",
+    "meaning": "Harvest (Saudi Arabia)",
+    "origin": "Arabic",
+    "id": "qa45_var",
+    "verified": true,
+    "variant_of": "Qatif",
+    "spellings": {
+      "Arabic": "القطيف",
+      "Urdu": "قطیف",
+      "Persian": "قطیف",
+      "Turkish": "Katıf",
+      "Bengali": "কাতেফ",
+      "Indonesian": "Qateef",
+      "Pashto": "قطیف"
+    }
+  },
+  {
+    "name": "Qatif",
+    "gender": "Boy",
+    "meaning": "Harvest (Saudi Arabia)",
+    "origin": "Arabic",
+    "id": "qa45",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القطيف",
+      "Urdu": "قطیف",
+      "Persian": "قطیف",
+      "Turkish": "Katif",
+      "Bengali": "কাতিফ",
+      "Indonesian": "Qatif",
+      "Pashto": "قطیف"
+    }
+  },
+  {
+    "name": "Qatr",
+    "gender": "Boy",
+    "meaning": "Rain drops",
+    "origin": "Arabic",
+    "id": "qa36",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قطر",
+      "Urdu": "قطر",
+      "Persian": "قطر",
+      "Turkish": "Katr",
+      "Bengali": "কাতর",
+      "Indonesian": "Qatr",
+      "Pashto": "قطر"
+    }
+  },
+  {
+    "name": "Qays",
+    "gender": "Boy",
+    "meaning": "Firm; Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "qa10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيس",
+      "Urdu": "قیس",
+      "Persian": "قیس",
+      "Turkish": "Kays",
+      "Bengali": "কায়েস",
+      "Indonesian": "Qays",
+      "Pashto": "قیس"
+    }
+  },
+  {
+    "name": "Qayyeem",
+    "gender": "Boy",
+    "meaning": "Straight, valuable",
+    "origin": "Quranic",
+    "id": "qa32_var",
+    "verified": true,
+    "variant_of": "Qayyim",
+    "spellings": {
+      "Arabic": "القيم",
+      "Urdu": "قیوم",
+      "Persian": "قیم",
+      "Turkish": "Kayyeem",
+      "Bengali": "কাইয়িম",
+      "Indonesian": "Qayyeem",
+      "Pashto": "قیوم"
+    }
+  },
+  {
+    "name": "Qayyim",
+    "gender": "Boy",
+    "meaning": "Straight, valuable",
+    "origin": "Quranic",
+    "id": "qa32",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيم",
+      "Urdu": "قیوم",
+      "Persian": "قیم",
+      "Turkish": "Kayyim",
+      "Bengali": "কাইয়্যিম",
+      "Indonesian": "Qayyim",
+      "Pashto": "قیوم"
+    }
+  },
+  {
+    "name": "Qayyoom",
+    "gender": "Boy",
+    "meaning": "Self-subsisting (Allah)",
+    "origin": "Quranic",
+    "id": "qa37_var",
+    "verified": true,
+    "variant_of": "Qayyum",
+    "spellings": {
+      "Arabic": "القيوم",
+      "Urdu": "قیوم",
+      "Persian": "قیوم",
+      "Turkish": "Kayyoom",
+      "Bengali": "কাইয়ুম",
+      "Indonesian": "Qayyoom",
+      "Pashto": "قیوم"
+    }
+  },
+  {
+    "name": "Qayyum",
+    "gender": "Boy",
+    "meaning": "Self-subsisting (Allah)",
+    "origin": "Quranic",
+    "id": "qa37",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القيوم",
+      "Urdu": "قیوم",
+      "Persian": "قیوم",
+      "Turkish": "Kayyum",
+      "Bengali": "কাইয়ুম",
+      "Indonesian": "Qayyum",
+      "Pashto": "قیوم"
+    }
+  },
+  {
+    "name": "Qazafee",
+    "gender": "Boy",
+    "meaning": "One who lives in vast woods",
+    "origin": "Arabic",
+    "id": "qa33_var",
+    "verified": true,
+    "variant_of": "Qazafi",
+    "spellings": {
+      "Arabic": "قزافي",
+      "Urdu": "قزافی",
+      "Persian": "قذافی",
+      "Turkish": "Kazafei",
+      "Bengali": "কাযাফী",
+      "Indonesian": "Qazafee",
+      "Pashto": "قزافي"
+    }
+  },
+  {
+    "name": "Qazafi",
+    "gender": "Boy",
+    "meaning": "One who lives in vast woods",
+    "origin": "Arabic",
+    "id": "qa33",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قذافي",
+      "Urdu": "قزافی",
+      "Persian": "قذافی",
+      "Turkish": "Kazafi",
+      "Bengali": "কাযাফী",
+      "Indonesian": "Qazafi",
+      "Pashto": "قذافي"
+    }
+  },
+  {
+    "name": "Qazee",
+    "gender": "Boy",
+    "meaning": "Judge, justice",
+    "origin": "Arabic",
+    "id": "qa34_var",
+    "verified": true,
+    "variant_of": "Qazi",
+    "spellings": {
+      "Arabic": "قاضي",
+      "Urdu": "قاضی",
+      "Persian": "قضیه",
+      "Turkish": "Kazi",
+      "Bengali": "কাজী",
+      "Indonesian": "Qazee",
+      "Pashto": "قاضي"
+    }
+  },
+  {
+    "name": "Qazi",
+    "gender": "Boy",
+    "meaning": "Judge, justice",
+    "origin": "Arabic",
+    "id": "qa34",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاضي",
+      "Urdu": "قاضی",
+      "Persian": "قاضی",
+      "Turkish": "Gazi",
+      "Bengali": "কাজী",
+      "Indonesian": "Qazi",
+      "Pashto": "قاضي"
+    }
+  },
+  {
+    "name": "Qeebla",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6_var",
+    "verified": true,
+    "variant_of": "Qibla",
+    "spellings": {
+      "Arabic": "القبلة",
+      "Urdu": "قبلہ",
+      "Persian": "قیبله",
+      "Turkish": "Kıble",
+      "Bengali": "কিবলা",
+      "Indonesian": "Kiblat",
+      "Pashto": "قبله"
+    }
+  },
+  {
+    "id": "qi1_var",
+    "name": "Qeendeel",
+    "gender": "Boy",
+    "meaning": "Oil lamp",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qindil",
+    "spellings": {
+      "Arabic": "قنديل",
+      "Urdu": "قندیل",
+      "Persian": "قیندل",
+      "Turkish": "Qeendeel",
+      "Bengali": "কিনদিল",
+      "Indonesian": "Qeendeel",
+      "Pashto": "قندیل"
+    }
+  },
+  {
+    "id": "qi2_var",
+    "name": "Qeerat",
+    "gender": "Girl",
+    "meaning": "Beautiful recitation",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qirat",
+    "spellings": {
+      "Arabic": "قيرات",
+      "Urdu": "قیراط",
+      "Persian": "قیرات",
+      "Turkish": "Qeerat",
+      "Bengali": "কিরাত",
+      "Indonesian": "Qeerat",
+      "Pashto": "قیرات"
+    }
+  },
+  {
+    "name": "Qeesmat",
+    "gender": "Unisex",
+    "meaning": "Destiny",
+    "origin": "Arabic",
+    "id": "qi1_var",
+    "verified": true,
+    "variant_of": "Qismat",
+    "spellings": {
+      "Arabic": "قسمات",
+      "Urdu": "قیسمت",
+      "Persian": "قیصمت",
+      "Turkish": "Qeesmat",
+      "Bengali": "কিসমত",
+      "Indonesian": "Qeemat",
+      "Pashto": "قیسمت"
+    }
+  },
+  {
+    "id": "qi3_var",
+    "name": "Qeesmet",
+    "gender": "Girl",
+    "meaning": "Destiny, fate",
+    "origin": "Turkish/Arabic",
+    "verified": true,
+    "variant_of": "Qismet",
+    "spellings": {
+      "Arabic": "كيسمت",
+      "Urdu": "قیسمت",
+      "Persian": "قیسمت",
+      "Turkish": "Qeesmet",
+      "Bengali": "কিসমেত",
+      "Indonesian": "Qeesmet",
+      "Pashto": "قیسمت"
+    }
+  },
+  {
+    "name": "Qeesra",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7_var",
+    "verified": true,
+    "variant_of": "Qisra",
+    "spellings": {
+      "Arabic": "قصرة",
+      "Urdu": "قیصرہ",
+      "Persian": "قیصره",
+      "Turkish": "Qeesra",
+      "Bengali": "কিসরা",
+      "Indonesian": "Qeesra",
+      "Pashto": "قیصره"
+    }
+  },
+  {
+    "name": "Qeesteena",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8_var",
+    "verified": true,
+    "variant_of": "Qistina",
+    "spellings": {
+      "Arabic": "كيستينا",
+      "Urdu": "قیسٹینا",
+      "Persian": "قیستینا",
+      "Turkish": "Qeesteena",
+      "Bengali": "কিস্তিনা",
+      "Indonesian": "Qeesteena",
+      "Pashto": "قیستینا"
+    }
+  },
+  {
+    "id": "qi4_var",
+    "name": "Qeeswarah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qiswarah",
+    "spellings": {
+      "Arabic": "قيسورة",
+      "Urdu": "قیشورہ",
+      "Persian": "قیسواره",
+      "Turkish": "Qeeswarah",
+      "Bengali": "কিশ্বরহ",
+      "Indonesian": "Qeeswarah",
+      "Pashto": "قیسواره"
+    }
+  },
+  {
+    "id": "qi5_var",
+    "name": "Qeeyam",
+    "gender": "Boy",
+    "meaning": "Standing (in prayer)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qiyam",
+    "spellings": {
+      "Arabic": "قيم",
+      "Urdu": "قیام",
+      "Persian": "قیام",
+      "Turkish": "Qeeyam",
+      "Bengali": "কেয়াম",
+      "Indonesian": "Qeeyam",
+      "Pashto": "قیوم"
+    }
+  },
+  {
+    "name": "Qena",
+    "gender": "Boy",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "qe1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قنا",
+      "Urdu": "کینا",
+      "Persian": "قنا",
+      "Turkish": "Qena",
+      "Bengali": "কেনা",
+      "Indonesian": "Qena",
+      "Pashto": "قنا"
+    }
+  },
+  {
+    "name": "Qenah",
+    "gender": "Boy",
+    "meaning": "City in Egypt",
+    "origin": "Arabic",
+    "id": "qe1_var",
+    "verified": true,
+    "variant_of": "Qena",
+    "spellings": {
+      "Arabic": "قنا",
+      "Urdu": "کینہ",
+      "Persian": "قنا",
+      "Turkish": "Kenah",
+      "Bengali": "কেনাহ",
+      "Indonesian": "Qenah",
+      "Pashto": "قانه"
+    }
+  },
+  {
+    "name": "Qibla",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القبلة",
+      "Urdu": "قبلہ",
+      "Persian": "قبله",
+      "Turkish": "Kıble",
+      "Bengali": "কিবলা",
+      "Indonesian": "Kiblat",
+      "Pashto": "قبله"
+    }
+  },
+  {
+    "name": "Qiblah",
+    "gender": "Girl",
+    "meaning": "Direction of prayer",
+    "origin": "Islamic",
+    "id": "qi6_var",
+    "verified": true,
+    "variant_of": "Qibla",
+    "spellings": {
+      "Arabic": "القبلة",
+      "Urdu": "قبلہ",
+      "Persian": "قبله",
+      "Turkish": "Kıble",
+      "Bengali": "কিবলা",
+      "Indonesian": "Kiblat",
+      "Pashto": "قبله"
+    }
+  },
+  {
+    "id": "qi1",
+    "name": "Qindil",
+    "gender": "Boy",
+    "meaning": "Oil lamp",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قنديل",
+      "Urdu": "قندیل",
+      "Persian": "قندیل",
+      "Turkish": "Qindil",
+      "Bengali": "কিন্দিল",
+      "Indonesian": "Qindil",
+      "Pashto": "قندیل"
+    }
+  },
+  {
+    "id": "qi2",
+    "name": "Qirat",
+    "gender": "Girl",
+    "meaning": "Beautiful recitation",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيراط",
+      "Urdu": "قیراط",
+      "Persian": "قیرات",
+      "Turkish": "Kırat",
+      "Bengali": "কিরাত",
+      "Indonesian": "Qirat",
+      "Pashto": "قیراط"
+    }
+  },
+  {
+    "name": "Qismat",
+    "gender": "Unisex",
+    "meaning": "Destiny",
+    "origin": "Arabic",
+    "id": "qi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قسمت",
+      "Urdu": "قسمط",
+      "Persian": "قسمت",
+      "Turkish": "Kısmat",
+      "Bengali": "কিসমত",
+      "Indonesian": "Qismat",
+      "Pashto": "قیسمت"
+    }
+  },
+  {
+    "id": "qi3",
+    "name": "Qismet",
+    "gender": "Girl",
+    "meaning": "Destiny, fate",
+    "origin": "Turkish/Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قسمت",
+      "Urdu": "Qismet",
+      "Persian": "قیسمت",
+      "Turkish": "Kısmet",
+      "Bengali": "কিসমেত",
+      "Indonesian": "Qismet",
+      "Pashto": "قیسمت"
+    }
+  },
+  {
+    "name": "Qisra",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قصرة",
+      "Urdu": "قیصرہ",
+      "Persian": "قصره",
+      "Turkish": "Kısara",
+      "Bengali": "কিসরা",
+      "Indonesian": "Qisra",
+      "Pashto": "قصر"
+    }
+  },
+  {
+    "name": "Qisrah",
+    "gender": "Boy",
+    "meaning": "Emperor",
+    "origin": "Arabic",
+    "id": "qi7_var",
+    "verified": true,
+    "variant_of": "Qisra",
+    "spellings": {
+      "Arabic": "قصرة",
+      "Urdu": "قیصرہ",
+      "Persian": "قصره",
+      "Turkish": "Kısara",
+      "Bengali": "কিসরাহ",
+      "Indonesian": "Qisrah",
+      "Pashto": "قصر"
+    }
+  },
+  {
+    "name": "Qistina",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قسطينا",
+      "Urdu": "قسٹینا",
+      "Persian": "کیستینا",
+      "Turkish": "Qistina",
+      "Bengali": "কিস্টিনা",
+      "Indonesian": "Qistina",
+      "Pashto": "قستینا"
+    }
+  },
+  {
+    "name": "Qistinah",
+    "gender": "Girl",
+    "meaning": "Justice",
+    "origin": "Arabic",
+    "id": "qi8_var",
+    "verified": true,
+    "variant_of": "Qistina",
+    "spellings": {
+      "Arabic": "قسطينة",
+      "Urdu": "قسٹینہ",
+      "Persian": "قسطینه",
+      "Turkish": "Kistinah",
+      "Bengali": "কিস্টিনাহ",
+      "Indonesian": "Qistinah",
+      "Pashto": "قستينه"
+    }
+  },
+  {
+    "id": "qi4",
+    "name": "Qiswarah",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قيسوارة",
+      "Urdu": "قصوارہ",
+      "Persian": "قصواره",
+      "Turkish": "Qiswarah",
+      "Bengali": "কিসওয়ারাহ",
+      "Indonesian": "Qiswarah",
+      "Pashto": "قیسواره"
+    }
+  },
+  {
+    "id": "qi5",
+    "name": "Qiyam",
+    "gender": "Boy",
+    "meaning": "Standing (in prayer)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القيام",
+      "Urdu": "قیام",
+      "Persian": "قیام",
+      "Turkish": "Kıyam",
+      "Bengali": "কিয়াম",
+      "Indonesian": "Qiyam",
+      "Pashto": "قيام"
+    }
+  },
+  {
+    "name": "Qom",
+    "gender": "Boy",
+    "meaning": "Holy city in Iran",
+    "origin": "Persian",
+    "id": "qo1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قم",
+      "Urdu": "قم",
+      "Persian": "قم",
+      "Turkish": "Kum",
+      "Bengali": "কওম",
+      "Indonesian": "Qom",
+      "Pashto": "قم"
+    }
+  },
+  {
+    "id": "qu1_var",
+    "name": "Qoobool",
+    "gender": "Girl",
+    "meaning": "Acceptance",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qubul",
+    "spellings": {
+      "Arabic": "قوبول",
+      "Urdu": "قوبول",
+      "Persian": "قوبول",
+      "Turkish": "Qoobool",
+      "Bengali": "কুবুল",
+      "Indonesian": "keren sekali",
+      "Pashto": "قوبول"
+    }
+  },
+  {
+    "name": "Qoodamah",
+    "gender": "Boy",
+    "meaning": "Courage",
+    "origin": "Arabic",
+    "id": "qu1_var",
+    "verified": true,
+    "variant_of": "Qudamah",
+    "spellings": {
+      "Arabic": "قدامة",
+      "Urdu": "قدامہ",
+      "Persian": "قودامه",
+      "Turkish": "Kudamah",
+      "Bengali": "কুদমাহ",
+      "Indonesian": "Qoodamah",
+      "Pashto": "قدامه"
+    }
+  },
+  {
+    "id": "qu3_var",
+    "name": "Qoodrah",
+    "gender": "Unisex",
+    "meaning": "Power, ability",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qudrah",
+    "spellings": {
+      "Arabic": "قدرة",
+      "Urdu": "قدرہ",
+      "Persian": "قودره",
+      "Turkish": "Kudre",
+      "Bengali": "কুদরাহ",
+      "Indonesian": "Qoodrah",
+      "Pashto": "قددره"
+    }
+  },
+  {
+    "name": "Qoodrat",
+    "gender": "Unisex",
+    "meaning": "Power, Nature",
+    "origin": "Arabic",
+    "id": "qu15_var",
+    "verified": true,
+    "variant_of": "Qudrat",
+    "spellings": {
+      "Arabic": "قدرات",
+      "Urdu": "قدرت",
+      "Persian": "قدرت",
+      "Turkish": "Kudrat",
+      "Bengali": "কুদরত",
+      "Indonesian": "Qoodrat",
+      "Pashto": "قدرت"
+    }
+  },
+  {
+    "name": "Qoodrat-Ullah",
+    "gender": "Boy",
+    "meaning": "Power of God",
+    "origin": "Arabic",
+    "id": "qu16_var",
+    "verified": true,
+    "variant_of": "Qudrat-Ullah",
+    "spellings": {
+      "Arabic": "قدرات الله",
+      "Urdu": "قدرت اللہ",
+      "Persian": "قدرت الله",
+      "Turkish": "Kudrat-Ullah",
+      "Bengali": "কুদরত-উল্লাহ",
+      "Indonesian": "Qoodrat-Ullah",
+      "Pashto": "قدرت الله"
+    }
+  },
+  {
+    "id": "qu4_var",
+    "name": "Qoods",
+    "gender": "Unisex",
+    "meaning": "Holiness; Jerusalem",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Quds",
+    "spellings": {
+      "Arabic": "جودز",
+      "Urdu": "قودس",
+      "Persian": "قدس",
+      "Turkish": "İyiler",
+      "Bengali": "কুডস",
+      "Indonesian": "baiklah",
+      "Pashto": "قودس"
+    }
+  },
+  {
+    "name": "Qoodsia",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia",
+    "spellings": {
+      "Arabic": "قدسيا",
+      "Urdu": "قدسیہ",
+      "Persian": "قودسیا",
+      "Turkish": "Qoodsia",
+      "Bengali": "কুদসিয়া",
+      "Indonesian": "Qoodsia",
+      "Pashto": "قدوسیا"
+    }
+  },
+  {
+    "id": "qu5_var",
+    "name": "Qoodsiya",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya",
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قودسیا",
+      "Turkish": "Qoodsiya",
+      "Bengali": "কুদসিয়া",
+      "Indonesian": "Qoodsiya",
+      "Pashto": "قدوسیه"
+    }
+  },
+  {
+    "id": "qu6_var",
+    "name": "Qoodwa",
+    "gender": "Girl",
+    "meaning": "Model, example",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudwa",
+    "spellings": {
+      "Arabic": "قدوة",
+      "Urdu": "قدوا",
+      "Persian": "قودوا",
+      "Turkish": "Qoodwa",
+      "Bengali": "কুদওয়া",
+      "Indonesian": "Qoodwa",
+      "Pashto": "قدوا"
+    }
+  },
+  {
+    "name": "Qooratoolain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu19_var",
+    "verified": true,
+    "variant_of": "Quratulain",
+    "spellings": {
+      "Arabic": "قوراتولين",
+      "Urdu": "قوراطولن",
+      "Persian": "قوراتولین",
+      "Turkish": "Qooratoolain",
+      "Bengali": "কওরাতুলাইন",
+      "Indonesian": "Qooratoolain",
+      "Pashto": "قوراطولين"
+    }
+  },
+  {
+    "name": "Qoorb",
+    "gender": "Boy",
+    "meaning": "Closeness",
+    "origin": "Arabic",
+    "id": "qu5_var",
+    "verified": true,
+    "variant_of": "Qurb",
+    "spellings": {
+      "Arabic": "قرب",
+      "Urdu": "قرب",
+      "Persian": "قرب",
+      "Turkish": "Qoorb",
+      "Bengali": "কুরব",
+      "Indonesian": "Qoorb",
+      "Pashto": "قرب"
+    }
+  },
+  {
+    "name": "Qoorban",
+    "gender": "Boy",
+    "meaning": "Sacrifice",
+    "origin": "Arabic",
+    "id": "qu2_var",
+    "verified": true,
+    "variant_of": "Qurban",
+    "spellings": {
+      "Arabic": "قربان",
+      "Urdu": "قربن",
+      "Persian": "قربان",
+      "Turkish": "Qoorban",
+      "Bengali": "কুরবান",
+      "Indonesian": "Qoorban",
+      "Pashto": "قربن"
+    }
+  },
+  {
+    "name": "Qoorrat-Ul-Ain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "id": "qu14_var",
+    "verified": true,
+    "variant_of": "Qurrat-Ul-Ain",
+    "spellings": {
+      "Arabic": "قرة العين",
+      "Urdu": "قرات العین",
+      "Persian": "قورت العین",
+      "Turkish": "Qoorrat-Ul-Ain",
+      "Bengali": "কুররাত-উল-আইন",
+      "Indonesian": "Qoorrat-Ul-Ain",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "id": "qu8_var",
+    "name": "Qoorratoolain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qurratulain",
+    "spellings": {
+      "Arabic": "قورة تولين",
+      "Urdu": "قوراطولن",
+      "Persian": "قورتولاین",
+      "Turkish": "Qoorratoolain",
+      "Bengali": "ক্বুররাতুলাইন",
+      "Indonesian": "Qoorratoolain",
+      "Pashto": "قوراطولين"
+    }
+  },
+  {
+    "name": "Qoosantina",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina",
+    "spellings": {
+      "Arabic": "كوسانتينا",
+      "Urdu": "Qosantina",
+      "Persian": "قوسانتینا",
+      "Turkish": "Qoosantina",
+      "Bengali": "কুসান্তিনা",
+      "Indonesian": "Qoosantina",
+      "Pashto": "قوسانتينا"
+    }
+  },
+  {
+    "name": "Qoosay",
+    "gender": "Boy",
+    "meaning": "Distant; Ancestor of the Prophet",
+    "origin": "Arabic",
+    "id": "qu3_var",
+    "verified": true,
+    "variant_of": "Qusay",
+    "spellings": {
+      "Arabic": "قوسي",
+      "Urdu": "قوسی",
+      "Persian": "قوسی",
+      "Turkish": "Qoosay",
+      "Bengali": "কুওসে",
+      "Indonesian": "Astaga",
+      "Pashto": "قوسای"
+    }
+  },
+  {
+    "name": "Qootaybah",
+    "gender": "Boy",
+    "meaning": "Narrator of Hadith",
+    "origin": "Arabic",
+    "id": "qu4_var",
+    "verified": true,
+    "variant_of": "Qutaybah",
+    "spellings": {
+      "Arabic": "قتيبة",
+      "Urdu": "قطیبہ",
+      "Persian": "قوتیبه",
+      "Turkish": "Qootaybah",
+      "Bengali": "কুতায়বাহ",
+      "Indonesian": "Qootaybah",
+      "Pashto": "قطيبه"
+    }
+  },
+  {
+    "id": "qu11_var",
+    "name": "Qootb",
+    "gender": "Boy",
+    "meaning": "Axis, pole, leader",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qutb",
+    "spellings": {
+      "Arabic": "قطب",
+      "Urdu": "قوٹب",
+      "Persian": "قطب",
+      "Turkish": "Qootb",
+      "Bengali": "কূটবি",
+      "Indonesian": "Qootb",
+      "Pashto": "قوټب"
+    }
+  },
+  {
+    "name": "Qootb-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17_var",
+    "verified": true,
+    "variant_of": "Qutb-Ud-Din",
+    "spellings": {
+      "Arabic": "قطب الدين",
+      "Urdu": "قطب الدین",
+      "Persian": "قطب الدین",
+      "Turkish": "Qootb-Ud-Din",
+      "Bengali": "কুতুব-উদ-দীন",
+      "Indonesian": "Qootb-Ud-Din",
+      "Pashto": "قطب الدین"
+    }
+  },
+  {
+    "id": "qu12_var",
+    "name": "Qootooz",
+    "gender": "Boy",
+    "meaning": "Vicious (Historical Mamluk Sultan)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Qutuz",
+    "spellings": {
+      "Arabic": "قطوز",
+      "Urdu": "قوٹوز",
+      "Persian": "قوتوز",
+      "Turkish": "Qootooz",
+      "Bengali": "কুটুজ",
+      "Indonesian": "Qootooz",
+      "Pashto": "قوتوز"
+    }
+  },
+  {
+    "id": "qu1",
+    "name": "Qubul",
+    "gender": "Girl",
+    "meaning": "Acceptance",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قبول",
+      "Urdu": "قبل",
+      "Persian": "قبل",
+      "Turkish": "Kubul",
+      "Bengali": "কুবুল",
+      "Indonesian": "Qubul",
+      "Pashto": "قبل"
+    }
+  },
+  {
+    "name": "Qudamah",
+    "gender": "Boy",
+    "meaning": "Courage",
+    "origin": "Arabic",
+    "id": "qu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدامة",
+      "Urdu": "قدامہ",
+      "Persian": "قدامه",
+      "Turkish": "Kudame",
+      "Bengali": "কুদামাহ",
+      "Indonesian": "Qudamah",
+      "Pashto": "قدامه"
+    }
+  },
+  {
+    "id": "qu3",
+    "name": "Qudrah",
+    "gender": "Unisex",
+    "meaning": "Power, ability",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القدرة",
+      "Urdu": "قدرہ",
+      "Persian": "قدره",
+      "Turkish": "Kudra",
+      "Bengali": "কুদরাহ",
+      "Indonesian": "Qudrah",
+      "Pashto": "قدره"
+    }
+  },
+  {
+    "name": "Qudrat",
+    "gender": "Unisex",
+    "meaning": "Power, Nature",
+    "origin": "Arabic",
+    "id": "qu15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدرات",
+      "Urdu": "قدرت",
+      "Persian": "قدرت",
+      "Turkish": "Kudrat",
+      "Bengali": "কুদরত",
+      "Indonesian": "Kudrat",
+      "Pashto": "قدرت"
+    }
+  },
+  {
+    "name": "Qudrat-Ullah",
+    "gender": "Boy",
+    "meaning": "Power of God",
+    "origin": "Arabic",
+    "id": "qu16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدرة الله",
+      "Urdu": "قدرت اللہ",
+      "Persian": "قدرت الله",
+      "Turkish": "Kudrat-Ullah",
+      "Bengali": "কুদরত-উল্লাহ",
+      "Indonesian": "Qudrat-Ullah",
+      "Pashto": "قدرت الله"
+    }
+  },
+  {
+    "id": "qu4",
+    "name": "Quds",
+    "gender": "Unisex",
+    "meaning": "Holiness; Jerusalem",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القدس",
+      "Urdu": "قدس",
+      "Persian": "قدس",
+      "Turkish": "Kudüs",
+      "Bengali": "কুদস",
+      "Indonesian": "Quds",
+      "Pashto": "قدس"
+    }
+  },
+  {
+    "name": "Qudseea",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia",
+    "spellings": {
+      "Arabic": "قدسيا",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسی",
+      "Turkish": "Kudüs",
+      "Bengali": "কুদসীয়া",
+      "Indonesian": "Qudseea",
+      "Pashto": "قدسیه"
+    }
+  },
+  {
+    "id": "qu5_var",
+    "name": "Qudseeya",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya",
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسیه",
+      "Turkish": "Qudseeya",
+      "Bengali": "কুদসিয়া",
+      "Indonesian": "Qudseeya",
+      "Pashto": "قدسيه"
+    }
+  },
+  {
+    "name": "Qudsia",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسیه",
+      "Turkish": "Kudsia",
+      "Bengali": "কুদসিয়া",
+      "Indonesian": "Qudsia",
+      "Pashto": "قدسیا"
+    }
+  },
+  {
+    "name": "Qudsiah",
+    "gender": "Girl",
+    "meaning": "Holy; From Jerusalem",
+    "origin": "Arabic",
+    "id": "qu13_var",
+    "verified": true,
+    "variant_of": "Qudsia",
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسیه",
+      "Turkish": "Kudsiah",
+      "Bengali": "কুদসিয়াহ",
+      "Indonesian": "Qudsiah",
+      "Pashto": "قدسیه"
+    }
+  },
+  {
+    "id": "qu5",
+    "name": "Qudsiya",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسیه",
+      "Turkish": "Kudsiya",
+      "Bengali": "কুদসিয়া",
+      "Indonesian": "Qudsiya",
+      "Pashto": "قدسيه"
+    }
+  },
+  {
+    "id": "qu5_var",
+    "name": "Qudsiyah",
+    "gender": "Girl",
+    "meaning": "Holy, sacred",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudsiya",
+    "spellings": {
+      "Arabic": "قدسية",
+      "Urdu": "قدسیہ",
+      "Persian": "قدسیه",
+      "Turkish": "Kudsiyah",
+      "Bengali": "কুদসিয়াহ",
+      "Indonesian": "Qudsiyah",
+      "Pashto": "قدسيه"
+    }
+  },
+  {
+    "id": "qu6",
+    "name": "Qudwa",
+    "gender": "Girl",
+    "meaning": "Model, example",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القدوة",
+      "Urdu": "قدوا",
+      "Persian": "قدوه",
+      "Turkish": "Kudva",
+      "Bengali": "কুদওয়া",
+      "Indonesian": "Qudwa",
+      "Pashto": "قدوا"
+    }
+  },
+  {
+    "id": "qu6_var",
+    "name": "Qudwah",
+    "gender": "Girl",
+    "meaning": "Model, example",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Qudwa",
+    "spellings": {
+      "Arabic": "القدوة",
+      "Urdu": "قدوہ",
+      "Persian": "قدوه",
+      "Turkish": "Kudva",
+      "Bengali": "কুদওয়াহ",
+      "Indonesian": "Qudwah",
+      "Pashto": "قدوه"
+    }
+  },
+  {
+    "name": "Quratulaeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu19_var",
+    "verified": true,
+    "variant_of": "Quratulain",
+    "spellings": {
+      "Arabic": "قراطولين",
+      "Urdu": "قرات العین",
+      "Persian": "قرآن کریم",
+      "Turkish": "Kuratüleen",
+      "Bengali": "কুরাতুলাইন",
+      "Indonesian": "Quratulaeen",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "name": "Quratulain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قراتولين",
+      "Urdu": "قرات العین",
+      "Persian": "قراتولین",
+      "Turkish": "Kuratulain",
+      "Bengali": "কুরাতুলাইন",
+      "Indonesian": "Quratulain",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "name": "Qurb",
+    "gender": "Boy",
+    "meaning": "Closeness",
+    "origin": "Arabic",
+    "id": "qu5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قرب",
+      "Urdu": "قرب",
+      "Persian": "قرب",
+      "Turkish": "Kurb",
+      "Bengali": "কুরব",
+      "Indonesian": "Qurb",
+      "Pashto": "قرب"
+    }
+  },
+  {
+    "name": "Qurban",
+    "gender": "Boy",
+    "meaning": "Sacrifice",
+    "origin": "Arabic",
+    "id": "qu2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قربان",
+      "Urdu": "قربان",
+      "Persian": "قربان",
+      "Turkish": "Kurban",
+      "Bengali": "কুরবান",
+      "Indonesian": "Qurban",
+      "Pashto": "قربان"
+    }
+  },
+  {
+    "name": "Qurrat-Ul-Aeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "id": "qu14_var",
+    "verified": true,
+    "variant_of": "Qurrat-Ul-Ain",
+    "spellings": {
+      "Arabic": "قرة العين",
+      "Urdu": "قرۃ العین",
+      "Persian": "قررات العین",
+      "Turkish": "Kurrat-Ul-Aeen",
+      "Bengali": "কুররাত-উল-আঈন",
+      "Indonesian": "Qurrat-Ul-Aeen",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "name": "Qurrat-Ul-Ain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "id": "qu14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قرة العين",
+      "Urdu": "قرۃ العین",
+      "Persian": "قررات العین",
+      "Turkish": "Kurrat-Ul-Ain",
+      "Bengali": "কুররাত-উল-আইন",
+      "Indonesian": "Qurrat-Ul-Ain",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "id": "qu8_var",
+    "name": "Qurratulaeen",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Qurratulain",
+    "spellings": {
+      "Arabic": "قراتولين",
+      "Urdu": "قرۃ العین",
+      "Persian": "قرآن کریم",
+      "Turkish": "Kur'an-ı Kerim",
+      "Bengali": "কুররাতুলীন",
+      "Indonesian": "Qurratulaeen",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "id": "qu8",
+    "name": "Qurratulain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قراتولين",
+      "Urdu": "قرۃ العین",
+      "Persian": "قرراتولین",
+      "Turkish": "Kurratulain",
+      "Bengali": "কুররাতুলাইন",
+      "Indonesian": "Qurratulain",
+      "Pashto": "قرات العین"
+    }
+  },
+  {
+    "name": "Qusanteena",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina",
+    "spellings": {
+      "Arabic": "قسنطينة",
+      "Urdu": "Qusanteena",
+      "Persian": "قوسانتینا",
+      "Turkish": "Kusanteena",
+      "Bengali": "কুসন্তেনা",
+      "Indonesian": "Qusanteena",
+      "Pashto": "Qusanteena"
+    }
+  },
+  {
+    "name": "Qusantina",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قسنطينة",
+      "Urdu": "Qusantina",
+      "Persian": "کوسانتینا",
+      "Turkish": "Kusantina",
+      "Bengali": "কুসান্তিনা",
+      "Indonesian": "Qusantina",
+      "Pashto": "Qusantina"
+    }
+  },
+  {
+    "name": "Qusantinah",
+    "gender": "Girl",
+    "meaning": "Constantine (Algeria)",
+    "origin": "Arabic",
+    "id": "qu18_var",
+    "verified": true,
+    "variant_of": "Qusantina",
+    "spellings": {
+      "Arabic": "القسنطينة",
+      "Urdu": "قصنتینا",
+      "Persian": "قصانتینه",
+      "Turkish": "Kusantinah",
+      "Bengali": "কুসন্তিনাহ",
+      "Indonesian": "Qusantinah",
+      "Pashto": "قوسطینه"
+    }
+  },
+  {
+    "name": "Qusay",
+    "gender": "Boy",
+    "meaning": "Distant; Ancestor of the Prophet",
+    "origin": "Arabic",
+    "id": "qu3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قصي",
+      "Urdu": "قصے",
+      "Persian": "قصی",
+      "Turkish": "Kusay",
+      "Bengali": "কুসে",
+      "Indonesian": "Qusay",
+      "Pashto": "Qusay"
+    }
+  },
+  {
+    "name": "Qutaybah",
+    "gender": "Boy",
+    "meaning": "Narrator of Hadith",
+    "origin": "Arabic",
+    "id": "qu4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قتيبة",
+      "Urdu": "قتیبہ",
+      "Persian": "قتیبه",
+      "Turkish": "Kuteybe",
+      "Bengali": "কুতায়বাহ",
+      "Indonesian": "Qutaybah",
+      "Pashto": "قتیبه"
+    }
+  },
+  {
+    "id": "qu11",
+    "name": "Qutb",
+    "gender": "Boy",
+    "meaning": "Axis, pole, leader",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قطب",
+      "Urdu": "قطب",
+      "Persian": "قطب",
+      "Turkish": "Kutub",
+      "Bengali": "কুতুব",
+      "Indonesian": "Qutb",
+      "Pashto": "قطب"
+    }
+  },
+  {
+    "name": "Qutb-Ud-Deen",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17_var",
+    "verified": true,
+    "variant_of": "Qutb-Ud-Din",
+    "spellings": {
+      "Arabic": "قطب الدين",
+      "Urdu": "قطب الدین",
+      "Persian": "قطب الدین",
+      "Turkish": "Kutub-Ud-Deen",
+      "Bengali": "কুতুব-উদ-দ্বীন",
+      "Indonesian": "Qutb-Ud-Deen",
+      "Pashto": "قطب الدین"
+    }
+  },
+  {
+    "name": "Qutb-Ud-Din",
+    "gender": "Boy",
+    "meaning": "Axis of the Faith",
+    "origin": "Arabic",
+    "id": "qu17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قطب الدين",
+      "Urdu": "قطب الدین",
+      "Persian": "قطب الدین",
+      "Turkish": "Kutub-Ud-Din",
+      "Bengali": "কুতুব-উদ্দীন",
+      "Indonesian": "Qutb-Ud-Din",
+      "Pashto": "قطب الدین"
+    }
+  },
+  {
+    "id": "qu12",
+    "name": "Qutuz",
+    "gender": "Boy",
+    "meaning": "Vicious (Historical Mamluk Sultan)",
+    "origin": "Turkish",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قطز",
+      "Urdu": "قطوز",
+      "Persian": "قوتوز",
+      "Turkish": "Kutuz",
+      "Bengali": "কুতুজ",
+      "Indonesian": "Qutuz",
+      "Pashto": "قطوز"
+    }
+  }
 ]
