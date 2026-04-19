@@ -299,10 +299,10 @@ def generate_collection_page(folder_name, title, description, name_list, all_nam
 
     print(f"✅ Generated Collection: {title} ({len(filtered_names)} names)")
 
+
 def generate_favorites_page():
     """
-    Generates the static /favorites/ page.
-    The content is populated client-side via localStorage.
+    Generates the static /favorites/ page with URL-based Sharing Capabilities.
     """
     folder_path = os.path.join(OUTPUT_DIR, 'favorites')
     os.makedirs(folder_path, exist_ok=True)
@@ -313,40 +313,175 @@ def generate_favorites_page():
     {% block content %}
     <div class="max-w-4xl mx-auto min-h-screen">
         <div class="text-center mb-10 mt-8">
-            <h1 class="text-4xl font-bold text-slate-900 mb-2 font-heading">My Shortlist</h1>
-            <p class="text-lg text-slate-600">Names you have saved for later.</p>
+            <h1 id="pageTitle" class="text-4xl font-bold text-slate-900 mb-2 font-heading">My Shortlist</h1>
+            <p id="pageSubtitle" class="text-lg text-slate-600">Names you have saved for later.</p>
+            
+            <div id="sharedBanner" class="hidden mt-4 inline-block bg-indigo-50 border border-indigo-200 text-indigo-700 px-4 py-2 rounded-lg font-medium shadow-sm">
+                👀 You are viewing a shared shortlist
+            </div>
         </div>
 
         <div id="favEmptyState" class="hidden text-center py-20 bg-slate-50 rounded-2xl border-2 border-dashed border-slate-200">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto text-slate-300 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
             </svg>
-            <h3 class="text-xl font-bold text-slate-700">No favorites yet</h3>
-            <p class="text-slate-500 mb-6">Start browsing and click the heart icon to add names here.</p>
+            <h3 id="emptyTitle" class="text-xl font-bold text-slate-700">No favorites yet</h3>
+            <p id="emptyDesc" class="text-slate-500 mb-6">Start browsing and click the heart icon to add names here.</p>
             <a href="/names-a/" class="inline-block px-6 py-3 bg-emerald-600 text-white font-bold rounded-lg hover:bg-emerald-700 transition">Browse Names</a>
         </div>
 
-        <div id="favList" class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            </div>
+        <div id="favList" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
         
-        <div id="favActions" class="hidden mt-10 text-center flex justify-center gap-4">
-             <button onclick="printList()" class="px-6 py-3 bg-white border border-slate-300 text-slate-700 font-bold rounded-lg hover:bg-slate-50 transition shadow-sm">
+        <div id="favActions" class="hidden mt-10 flex flex-wrap justify-center gap-4">
+            <button onclick="showShareModal()" class="px-6 py-3 bg-emerald-600 border border-emerald-600 text-white font-bold rounded-lg hover:bg-emerald-700 transition shadow-sm flex items-center gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M15 8a3 3 0 10-2.977-2.63l-4.94 2.47a3 3 0 100 4.319l4.94 2.47a3 3 0 10.895-1.789l-4.94-2.47a3.027 3.027 0 000-.74l4.94-2.47C13.456 7.68 14.19 8 15 8z" /></svg>
+                Share List
+            </button>
+            <button onclick="printList()" class="px-6 py-3 bg-white border border-slate-300 text-slate-700 font-bold rounded-lg hover:bg-slate-50 transition shadow-sm">
                 Print List
             </button>
             <button onclick="clearFavorites()" class="px-6 py-3 bg-white border border-rose-200 text-rose-600 font-bold rounded-lg hover:bg-rose-50 transition shadow-sm">
                 Clear All
             </button>
         </div>
+
+        <div id="shareModal" class="hidden fixed inset-0 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center z-50 p-4 opacity-0 transition-opacity duration-300">
+            <div class="bg-white rounded-2xl p-6 md:p-8 max-w-md w-full shadow-2xl transform scale-95 transition-transform duration-300 relative">
+                <button onclick="closeShareModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-700">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+                
+                <h3 class="text-2xl font-bold text-slate-900 mb-2 font-heading">Share Your Shortlist</h3>
+                <p class="text-slate-600 mb-6 text-sm">Send this link to family and friends so they can see your favorite names.</p>
+                
+                <div class="flex items-center gap-2 mb-6">
+                    <input type="text" id="shareUrlInput" readonly class="w-full bg-slate-50 border border-slate-200 rounded-lg px-4 py-3 text-sm text-slate-600 outline-none focus:ring-2 focus:ring-emerald-500">
+                    <button onclick="copyShareLink()" id="copyBtn" class="bg-slate-800 text-white px-5 py-3 rounded-lg font-bold text-sm hover:bg-slate-900 transition whitespace-nowrap">
+                        Copy
+                    </button>
+                </div>
+
+                <div class="grid grid-cols-2 gap-3 mb-2">
+                    <button onclick="shareWhatsApp()" class="flex items-center justify-center gap-2 bg-[#25D366] text-white px-4 py-3 rounded-lg font-bold text-sm hover:bg-[#20bd5a] transition">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+                        WhatsApp
+                    </button>
+                    <button onclick="shareTwitter()" class="flex items-center justify-center gap-2 bg-black text-white px-4 py-3 rounded-lg font-bold text-sm hover:bg-slate-800 transition">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                        X (Twitter)
+                    </button>
+
+                    <button onclick="shareFacebook()" class="flex items-center justify-center gap-2 bg-[#1877F2] text-white px-4 py-3 rounded-lg font-bold text-sm hover:bg-[#166fe5] transition">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.469h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.469h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                        Facebook
+                    </button>
+
+                    <button onclick="shareTelegram()" class="flex items-center justify-center gap-2 bg-[#0088cc] text-white px-4 py-3 rounded-lg font-bold text-sm hover:bg-[#007ab8] transition">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 000 12a12 12 0 0012 12 12 12 0 0012-12A12 12 0 0011.944 0zm6.67 8.248l-2.223 10.456c-.167.746-.61.928-1.233.578l-3.409-2.513-1.644 1.583c-.182.182-.336.335-.691.335l.245-3.486 6.345-5.733c.276-.246-.06-.382-.428-.137L5.734 14.18 2.36 13.12c-.733-.23-.746-.733.153-1.085l13.125-5.06c.607-.225 1.139.138.976 1.273z"/></svg>
+                        Telegram
+                    </button>
+                </div>
+
+                <button onclick="nativeShare()" class="w-full mt-2 flex items-center justify-center gap-2 bg-slate-100 text-slate-700 px-4 py-3 rounded-lg font-bold text-sm hover:bg-slate-200 transition border border-slate-200">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" /></svg>
+                    More Options (Instagram, SMS, Email)
+                </button>
+            </div>
+        </div>
+
     </div>
 
     <script>
-        function renderFavorites() {
-            const favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+        // Create the HTML for a single name card
+        function createCardHtml(n, isShared) {
+            const isBoy = n.gender === 'Boy' || n.g === 'B';
+            const isGirl = n.gender === 'Girl' || n.g === 'G';
+            const genderLabel = isBoy ? 'Boy' : (isGirl ? 'Girl' : 'Unisex');
+            const nameLink = n.link || n.s; // Handles both LocalStorage and search_index data structures
+            const meaning = n.meaning || n.m;
+            const nameStr = n.name || n.n;
+            
+            let badgeClass = 'text-purple-600 bg-purple-50 border-purple-100';
+            if(isBoy) badgeClass = 'text-blue-600 bg-blue-50 border-blue-100';
+            if(isGirl) badgeClass = 'text-pink-600 bg-pink-50 border-pink-100';
+
+            // Only show the remove button if it is their personal list
+            const removeBtnHtml = isShared ? '' : `
+            <button onclick="removeFav('${nameStr}')" class="text-sm text-rose-500 font-semibold hover:text-rose-700 self-start flex items-center gap-1 mt-4">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
+                </svg>
+                Remove
+            </button>`;
+
+            return `
+            <div class="relative p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between hover:border-emerald-400 transition group">
+                <div>
+                    <div class="flex justify-between items-start mb-2">
+                        <a href="${nameLink}" class="text-2xl font-bold text-slate-800 group-hover:text-emerald-700 group-hover:underline">
+                            ${nameStr}
+                        </a>
+                        <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${genderLabel}</span>
+                    </div>
+                    <p class="text-slate-600 text-sm">${meaning}</p>
+                </div>
+                ${removeBtnHtml}
+            </div>`;
+        }
+
+        async function renderFavorites() {
             const list = document.getElementById('favList');
             const empty = document.getElementById('favEmptyState');
             const actions = document.getElementById('favActions');
+            
+            // Check if there is a "?list=" parameter in the URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const sharedListParam = urlParams.get('list');
 
             list.innerHTML = '';
+
+            // --- SCENARIO 1: VIEWING A SHARED LIST ---
+            if (sharedListParam) {
+                document.getElementById('pageTitle').innerText = "Shared Shortlist";
+                document.getElementById('pageSubtitle').innerText = "Someone shared their favorite names with you.";
+                document.getElementById('sharedBanner').classList.remove('hidden');
+                
+                const namesToFind = sharedListParam.split(',').map(n => n.toLowerCase().trim());
+                
+                try {
+                    // Fetch the search index to get meanings and links for the shared names
+                    const response = await fetch('/search_index.json');
+                    const allNamesData = await response.json();
+                    
+                    const sharedNames = allNamesData.filter(item => namesToFind.includes(item.n.toLowerCase()));
+                    
+                    if (sharedNames.length === 0) {
+                        empty.classList.remove('hidden');
+                        document.getElementById('emptyTitle').innerText = "List Not Found";
+                        document.getElementById('emptyDesc').innerText = "The shared link might be broken or empty.";
+                        return;
+                    }
+
+                    sharedNames.forEach(n => {
+                        list.insertAdjacentHTML('beforeend', createCardHtml(n, true));
+                    });
+                    
+                    // Allow them to click a button to view their OWN list
+                    actions.classList.remove('hidden');
+                    actions.innerHTML = `
+                        <a href="/favorites/" class="px-6 py-3 bg-emerald-600 text-white font-bold rounded-lg hover:bg-emerald-700 transition shadow-sm">
+                            Create My Own List
+                        </a>
+                    `;
+
+                } catch (e) {
+                    console.error("Error loading shared list:", e);
+                }
+                return;
+            }
+
+            // --- SCENARIO 2: VIEWING PERSONAL LIST ---
+            const favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
 
             if (favs.length === 0) {
                 empty.classList.remove('hidden');
@@ -357,42 +492,15 @@ def generate_favorites_page():
             empty.classList.add('hidden');
             actions.classList.remove('hidden');
 
-            favs.forEach((n, index) => {
-                const isBoy = n.gender === 'Boy';
-                const isGirl = n.gender === 'Girl';
-                
-                // Determine colors
-                let badgeClass = 'text-purple-600 bg-purple-50 border-purple-100';
-                if(isBoy) badgeClass = 'text-blue-600 bg-blue-50 border-blue-100';
-                if(isGirl) badgeClass = 'text-pink-600 bg-pink-50 border-pink-100';
-
-                const html = `
-                <div class="relative p-6 bg-white rounded-xl border border-slate-200 shadow-sm flex flex-col justify-between">
-                    <div>
-                        <div class="flex justify-between items-start mb-2">
-                            <a href="${n.link}" class="text-2xl font-bold text-slate-800 hover:text-emerald-700 hover:underline">
-                                ${n.name}
-                            </a>
-                            <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${n.gender}</span>
-                        </div>
-                        <p class="text-slate-600 text-sm mb-4">${n.meaning}</p>
-                    </div>
-                    
-                    <button onclick="removeFav(${index})" class="text-sm text-rose-500 font-semibold hover:text-rose-700 self-start flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
-                        </svg>
-                        Remove
-                    </button>
-                </div>
-                `;
-                list.insertAdjacentHTML('beforeend', html);
+            favs.forEach((n) => {
+                list.insertAdjacentHTML('beforeend', createCardHtml(n, false));
             });
         }
 
-        function removeFav(index) {
+        // Logic Functions
+        function removeFav(nameStr) {
             let favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
-            favs.splice(index, 1);
+            favs = favs.filter(f => f.name !== nameStr); // Filter by name
             localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
             renderFavorites();
         }
@@ -403,9 +511,81 @@ def generate_favorites_page():
                 renderFavorites();
             }
         }
-        
-        function printList() {
-            window.print();
+        function printList() { window.print(); }
+
+        // --- SHARING MODAL LOGIC ---
+        function showShareModal() {
+            const favs = JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]');
+            if(favs.length === 0) return;
+            
+            // Build the URL
+            const namesOnly = favs.map(f => f.name).join(',');
+            const shareUrl = window.location.origin + window.location.pathname + '?list=' + encodeURIComponent(namesOnly);
+            
+            document.getElementById('shareUrlInput').value = shareUrl;
+            
+            const modal = document.getElementById('shareModal');
+            modal.classList.remove('hidden');
+            // Slight delay for fade animation
+            setTimeout(() => {
+                modal.classList.remove('opacity-0');
+                modal.children[0].classList.remove('scale-95');
+            }, 10);
+        }
+
+        function closeShareModal() {
+            const modal = document.getElementById('shareModal');
+            modal.classList.add('opacity-0');
+            modal.children[0].classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+                document.getElementById('copyBtn').innerText = 'Copy';
+            }, 300); // Wait for animation
+        }
+
+        function copyShareLink() {
+            const input = document.getElementById('shareUrlInput');
+            input.select();
+            document.execCommand('copy');
+            const btn = document.getElementById('copyBtn');
+            btn.innerText = 'Copied!';
+            setTimeout(() => btn.innerText = 'Copy', 2000);
+        }
+
+        function shareWhatsApp() {
+            const url = document.getElementById('shareUrlInput').value;
+            const text = encodeURIComponent('Check out my favorite Muslim baby names shortlist! 👶❤️ \\n\\n') + encodeURIComponent(url);
+            window.open('https://api.whatsapp.com/send?text=' + text, '_blank');
+        }
+
+        function shareTwitter() {
+            const url = document.getElementById('shareUrlInput').value;
+            const text = encodeURIComponent('Check out my shortlist of beautiful Muslim baby names! 👶✨');
+            window.open(`https://twitter.com/intent/tweet?text=${text}&url=${encodeURIComponent(url)}`, '_blank');
+        }
+
+        function shareFacebook() {
+            const url = document.getElementById('shareUrlInput').value;
+            window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank');
+        }
+
+        function shareTelegram() {
+            const url = document.getElementById('shareUrlInput').value;
+            const text = encodeURIComponent('Check out my shortlist of beautiful Muslim baby names! 👶✨');
+            window.open(`https://t.me/share/url?url=${encodeURIComponent(url)}&text=${text}`, '_blank');
+        }
+
+        function nativeShare() {
+            const url = document.getElementById('shareUrlInput').value;
+            if (navigator.share) {
+                navigator.share({
+                    title: 'My MuslimNameVault Shortlist',
+                    text: 'Check out my favorite Muslim baby names shortlist! 👶❤️',
+                    url: url
+                }).catch((error) => console.log('Error sharing:', error));
+            } else {
+                alert('Advanced sharing options are only supported on mobile devices or compatible browsers. Please use the Copy button instead!');
+            }
         }
 
         document.addEventListener('DOMContentLoaded', renderFavorites);
@@ -419,7 +599,7 @@ def generate_favorites_page():
             description="Your shortlisted Muslim baby names.",
             url=f"{SITE_URL}/favorites/"
         ))
-    print(f"✅ Generated Favorites Page")
+    print(f"✅ Generated Favorites Page with Sharing UI")
 
 def get_related_names(current_name_entry, all_names, limit=6):
     """
@@ -1116,6 +1296,9 @@ def generate_website():
 
     # 6c. Generate Surprise Page
     generate_surprise_page()
+
+    # 6d. Generate Favorites Page (NEW)
+    generate_favorites_page()
 
     # 7. Generate Finder Page
     finder_template = env.from_string("""
