@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jala",
+    "gender": "Girl",
+    "meaning": "Clarity or elucidation",
+    "origin": "Arabic",
+    "id": "ja3",
+    "verified": true
+  },
+  {
+    "name": "Jalaal",
+    "gender": "Boy",
+    "meaning": "Glory or grandeur",
+    "origin": "Arabic",
+    "id": "ja2",
+    "verified": true
+  },
+  {
+    "name": "Jassar",
+    "gender": "Boy",
+    "meaning": "Brave or courageous",
+    "origin": "Arabic",
+    "id": "ja1",
+    "verified": true
+  }
+]

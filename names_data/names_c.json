@@ -1,2061 +1,2061 @@
 [
-    {
-        "name": "Caeera",
-        "gender": "Girl",
-        "meaning": "Beloved",
-        "origin": "Arabic",
-        "id": "ca2_var",
-        "verified": true,
-        "variant_of": "Caira",
-        "spellings": {
-            "Arabic": "كايرا",
-            "Urdu": "سیرا",
-            "Persian": "قیرا",
-            "Turkish": "Caeera",
-            "Bengali": "কাইরা",
-            "Indonesian": "Caeera",
-            "Pashto": "کیرا"
-        }
-    },
-    {
-        "name": "Caeero",
-        "gender": "Boy",
-        "meaning": "Victorious",
-        "origin": "Arabic",
-        "id": "ca8_var",
-        "verified": true,
-        "variant_of": "Cairo",
-        "spellings": {
-            "Arabic": "كايرو",
-            "Urdu": "کیرو",
-            "Persian": "Caeero",
-            "Turkish": "Caeero",
-            "Bengali": "কাইরো",
-            "Indonesian": "Caeero",
-            "Pashto": "کیرو"
-        }
-    },
-    {
-        "name": "Cafer",
-        "gender": "Boy",
-        "meaning": "Stream",
-        "origin": "Turkish",
-        "id": "ca6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كافر",
-            "Urdu": "کیفر",
-            "Persian": "کافه",
-            "Turkish": "Cafer",
-            "Bengali": "ক্যাফার",
-            "Indonesian": "Kafetaria",
-            "Pashto": "کافر"
-        }
-    },
-    {
-        "name": "Cahaya",
-        "gender": "Unisex",
-        "meaning": "Light",
-        "origin": "Indonesian",
-        "id": "ca18",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كاهايا",
-            "Urdu": "Cahaya",
-            "Persian": "کاهایا",
-            "Turkish": "Cahaya",
-            "Bengali": "চাহায়া",
-            "Indonesian": "Cahaya",
-            "Pashto": "Cahaya"
-        }
-    },
-    {
-        "name": "Cahayah",
-        "gender": "Unisex",
-        "meaning": "Light",
-        "origin": "Indonesian",
-        "id": "ca18_var",
-        "verified": true,
-        "variant_of": "Cahaya",
-        "spellings": {
-            "Arabic": "كاهايا",
-            "Urdu": "قہوہ",
-            "Persian": "کهایاه",
-            "Turkish": "Cahayah",
-            "Bengali": "চাহায়াহ",
-            "Indonesian": "Cahayah",
-            "Pashto": "کاهیه"
-        }
-    },
-    {
-        "name": "Caheet",
-        "gender": "Boy",
-        "meaning": "Hardworking",
-        "origin": "Turkish",
-        "id": "ca7_var",
-        "verified": true,
-        "variant_of": "Cahit",
-        "spellings": {
-            "Arabic": "كاهيت",
-            "Urdu": "Caheet",
-            "Persian": "کاهیت",
-            "Turkish": "Caheet",
-            "Bengali": "ক্যাহেট",
-            "Indonesian": "Caheet",
-            "Pashto": "کیهیټ"
-        }
-    },
-    {
-        "name": "Cahit",
-        "gender": "Boy",
-        "meaning": "Hardworking",
-        "origin": "Turkish",
-        "id": "ca7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جاهد",
-            "Urdu": "کاہت",
-            "Persian": "Cahit",
-            "Turkish": "Cahit",
-            "Bengali": "চাহিত",
-            "Indonesian": "Cahit",
-            "Pashto": "Cahit"
-        }
-    },
-    {
-        "name": "Cahya",
-        "gender": "Unisex",
-        "meaning": "Light",
-        "origin": "Indonesian",
-        "id": "ca16",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كاهيا",
-            "Urdu": "کاہیا",
-            "Persian": "کاهیا",
-            "Turkish": "Cahya",
-            "Bengali": "চাহ্যা",
-            "Indonesian": "Cahya",
-            "Pashto": "Cahya"
-        }
-    },
-    {
-        "name": "Cahyah",
-        "gender": "Unisex",
-        "meaning": "Light",
-        "origin": "Indonesian",
-        "id": "ca16_var",
-        "verified": true,
-        "variant_of": "Cahya",
-        "spellings": {
-            "Arabic": "كاهياه",
-            "Urdu": "قہیہ",
-            "Persian": "کیه",
-            "Turkish": "Cahyah",
-            "Bengali": "চাহিয়াহ",
-            "Indonesian": "Cahya",
-            "Pashto": "کاهیه"
-        }
-    },
-    {
-        "name": "Caira",
-        "gender": "Girl",
-        "meaning": "Beloved",
-        "origin": "Arabic",
-        "id": "ca2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كايرا",
-            "Urdu": "کائرہ",
-            "Persian": "قاهره",
-            "Turkish": "Kahire",
-            "Bengali": "কইরা",
-            "Indonesian": "Kaira",
-            "Pashto": "کیره"
-        }
-    },
-    {
-        "name": "Cairah",
-        "gender": "Girl",
-        "meaning": "Beloved",
-        "origin": "Arabic",
-        "id": "ca2_var",
-        "verified": true,
-        "variant_of": "Caira",
-        "spellings": {
-            "Arabic": "كايرا",
-            "Urdu": "قارہ",
-            "Persian": "قائره",
-            "Turkish": "Kahire",
-            "Bengali": "কাইরাহ",
-            "Indonesian": "Kairah",
-            "Pashto": "قاره"
-        }
-    },
-    {
-        "name": "Cairo",
-        "gender": "Boy",
-        "meaning": "Victorious",
-        "origin": "Arabic",
-        "id": "ca8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "القاهرة",
-            "Urdu": "قاہرہ",
-            "Persian": "قاهره",
-            "Turkish": "Kahire",
-            "Bengali": "কায়রো",
-            "Indonesian": "Kairo",
-            "Pashto": "قاهره"
-        }
-    },
-    {
-        "name": "Caleb",
-        "gender": "Boy",
-        "meaning": "Faithful",
-        "origin": "Arabic",
-        "id": "ca9",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كالب",
-            "Urdu": "کالیب",
-            "Persian": "کالب",
-            "Turkish": "Caleb",
-            "Bengali": "কালেব",
-            "Indonesian": "Kaleb",
-            "Pashto": "کالیب"
-        }
-    },
-    {
-        "name": "Cameel",
-        "gender": "Boy",
-        "meaning": "Perfect (Variant of Kamil)",
-        "origin": "Arabic",
-        "id": "ca3_var",
-        "verified": true,
-        "variant_of": "Camil",
-        "spellings": {
-            "Arabic": "جمل",
-            "Urdu": "اونٹ",
-            "Persian": "شتر",
-            "Turkish": "Deve",
-            "Bengali": "উট",
-            "Indonesian": "unta",
-            "Pashto": "اوښ"
-        }
-    },
-    {
-        "name": "Cameelo",
-        "gender": "Boy",
-        "meaning": "Perfect",
-        "origin": "North African",
-        "id": "ca17_var",
-        "verified": true,
-        "variant_of": "Camilo",
-        "spellings": {
-            "Arabic": "كاميلو",
-            "Urdu": "کیمیلو",
-            "Persian": "کامیلو",
-            "Turkish": "Cameelo",
-            "Bengali": "ক্যামেলো",
-            "Indonesian": "Cameelo",
-            "Pashto": "کیمیلو"
-        }
-    },
-    {
-        "name": "Camil",
-        "gender": "Boy",
-        "meaning": "Perfect (Variant of Kamil)",
-        "origin": "Arabic",
-        "id": "ca3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كاميل",
-            "Urdu": "کیمل",
-            "Persian": "کمیل",
-            "Turkish": "Camil",
-            "Bengali": "ক্যামিল",
-            "Indonesian": "Kamil",
-            "Pashto": "کیمیل"
-        }
-    },
-    {
-        "name": "Camilo",
-        "gender": "Boy",
-        "meaning": "Perfect",
-        "origin": "North African",
-        "id": "ca17",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كاميلو",
-            "Urdu": "کیمیلو",
-            "Persian": "کامیلو",
-            "Turkish": "camilo",
-            "Bengali": "ক্যামিলো",
-            "Indonesian": "Camilo",
-            "Pashto": "کامیلو"
-        }
-    },
-    {
-        "name": "Can",
-        "gender": "Boy",
-        "meaning": "Life; Soul; Spirit",
-        "origin": "Turkish",
-        "id": "ca1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يستطيع",
-            "Urdu": "کر سکتے ہیں۔",
-            "Persian": "می تواند",
-            "Turkish": "Olabilmek",
-            "Bengali": "পারে",
-            "Indonesian": "Bisa",
-            "Pashto": "کولی شي"
-        }
-    },
-    {
-        "name": "Canaan",
-        "gender": "Boy",
-        "meaning": "Historic region of Palestine",
-        "origin": "Ancient Semitic",
-        "id": "ca13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كنعان",
-            "Urdu": "کنعان",
-            "Persian": "کنعان",
-            "Turkish": "Kenan",
-            "Bengali": "কানন",
-            "Indonesian": "Kanaan",
-            "Pashto": "کنعان"
-        }
-    },
-    {
-        "name": "Canan",
-        "gender": "Girl",
-        "meaning": "Beloved",
-        "origin": "Turkish",
-        "id": "ca10",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كانان",
-            "Urdu": "کنان",
-            "Persian": "کنان",
-            "Turkish": "Canan",
-            "Bengali": "কানন",
-            "Indonesian": "Kanan",
-            "Pashto": "کینان"
-        }
-    },
-    {
-        "name": "Candan",
-        "gender": "Unisex",
-        "meaning": "Sincere",
-        "origin": "Turkish",
-        "id": "ca11",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كاندان",
-            "Urdu": "کینڈن",
-            "Persian": "کاندان",
-            "Turkish": "Candan",
-            "Bengali": "ক্যান্ডন",
-            "Indonesian": "Candan",
-            "Pashto": "کینډان"
-        }
-    },
-    {
-        "name": "Cansel",
-        "gender": "Girl",
-        "meaning": "Flood of life",
-        "origin": "Turkish",
-        "id": "ca12",
-        "verified": true,
-        "spellings": {
-            "Arabic": "إلغاء",
-            "Urdu": "کینسل",
-            "Persian": "کنسل",
-            "Turkish": "Cansel",
-            "Bengali": "ক্যানসেল",
-            "Indonesian": "Membatalkan",
-            "Pashto": "کانسل"
-        }
-    },
-    {
-        "name": "Cansoo",
-        "gender": "Girl",
-        "meaning": "Water of life",
-        "origin": "Turkish",
-        "id": "ca13_var",
-        "verified": true,
-        "variant_of": "Cansu",
-        "spellings": {
-            "Arabic": "كانسو",
-            "Urdu": "کینسو",
-            "Persian": "کانسو",
-            "Turkish": "Cansoo",
-            "Bengali": "ক্যানসু",
-            "Indonesian": "Bisa juga",
-            "Pashto": "کانسو"
-        }
-    },
-    {
-        "name": "Cansu",
-        "gender": "Girl",
-        "meaning": "Water of life",
-        "origin": "Turkish",
-        "id": "ca13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كانسو",
-            "Urdu": "کانسو",
-            "Persian": "کانسو",
-            "Turkish": "Cansu",
-            "Bengali": "ক্যানসু",
-            "Indonesian": "Cansu",
-            "Pashto": "کانسو"
-        }
-    },
-    {
-        "name": "Carthage",
-        "gender": "Girl",
-        "meaning": "Ancient city in Tunisia (Qartaj)",
-        "origin": "Phoenician",
-        "id": "ca14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قرطاج",
-            "Urdu": "کارتھیج",
-            "Persian": "کارتاژ",
-            "Turkish": "Kartaca",
-            "Bengali": "কার্থেজ",
-            "Indonesian": "Kartago",
-            "Pashto": "کارتهج"
-        }
-    },
-    {
-        "name": "Caseem",
-        "gender": "Boy",
-        "meaning": "Divider (Variant of Qasim)",
-        "origin": "Arabic",
-        "id": "ca4_var",
-        "verified": true,
-        "variant_of": "Casim",
-        "spellings": {
-            "Arabic": "كاسيم",
-            "Urdu": "قسیم",
-            "Persian": "Caseem",
-            "Turkish": "Caseem",
-            "Bengali": "কাসেম",
-            "Indonesian": "Kasusem",
-            "Pashto": "قسیم"
-        }
-    },
-    {
-        "name": "Casim",
-        "gender": "Boy",
-        "meaning": "Divider (Variant of Qasim)",
-        "origin": "Arabic",
-        "id": "ca4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قاسم",
-            "Urdu": "کاسم",
-            "Persian": "کاسیم",
-            "Turkish": "Kazım",
-            "Bengali": "কাসিম",
-            "Indonesian": "Kasim",
-            "Pashto": "قسیم"
-        }
-    },
-    {
-        "name": "Caveea",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Urdu",
-        "id": "ca14_var",
-        "verified": true,
-        "variant_of": "Cavia",
-        "spellings": {
-            "Arabic": "كافيا",
-            "Urdu": "Caveea",
-            "Persian": "Caveea",
-            "Turkish": "Caveea",
-            "Bengali": "ক্যাভিয়া",
-            "Indonesian": "Gua",
-            "Pashto": "Caveea"
-        }
-    },
-    {
-        "name": "Caveed",
-        "gender": "Boy",
-        "meaning": "Eternal",
-        "origin": "Turkish",
-        "id": "ca15_var",
-        "verified": true,
-        "variant_of": "Cavid",
-        "spellings": {
-            "Arabic": "كافيد",
-            "Urdu": "غار",
-            "Persian": "غار زد",
-            "Turkish": "Mağara",
-            "Bengali": "গুহা",
-            "Indonesian": "Menyerah",
-            "Pashto": "غار"
-        }
-    },
-    {
-        "name": "Cavia",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Urdu",
-        "id": "ca14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كافيا",
-            "Urdu": "کیویا",
-            "Persian": "کاویا",
-            "Turkish": "Kavia",
-            "Bengali": "ক্যাভিয়া",
-            "Indonesian": "Cavia",
-            "Pashto": "کاویا"
-        }
-    },
-    {
-        "name": "Caviah",
-        "gender": "Girl",
-        "meaning": "Poem",
-        "origin": "Urdu",
-        "id": "ca14_var",
-        "verified": true,
-        "variant_of": "Cavia",
-        "spellings": {
-            "Arabic": "كافياه",
-            "Urdu": "کیویہ",
-            "Persian": "کاویا",
-            "Turkish": "Havya",
-            "Bengali": "ক্যাভিয়াহ",
-            "Indonesian": "Kaviah",
-            "Pashto": "کاویه"
-        }
-    },
-    {
-        "name": "Cavid",
-        "gender": "Boy",
-        "meaning": "Eternal",
-        "origin": "Turkish",
-        "id": "ca15",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جاويد",
-            "Urdu": "کیوڈ",
-            "Persian": "کاوید",
-            "Turkish": "Cavid",
-            "Bengali": "ক্যাভিড",
-            "Indonesian": "Cavid",
-            "Pashto": "کیویډ"
-        }
-    },
-    {
-        "name": "Cayla",
-        "gender": "Girl",
-        "meaning": "Fortress, Castle (Variant of Qayla)",
-        "origin": "Arabic",
-        "id": "ca5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كايلا",
-            "Urdu": "کیلا",
-            "Persian": "کایلا",
-            "Turkish": "Cayla",
-            "Bengali": "কায়লা",
-            "Indonesian": "Cayla",
-            "Pashto": "کیلا"
-        }
-    },
-    {
-        "name": "Caylah",
-        "gender": "Girl",
-        "meaning": "Fortress, Castle (Variant of Qayla)",
-        "origin": "Arabic",
-        "id": "ca5_var",
-        "verified": true,
-        "variant_of": "Cayla",
-        "spellings": {
-            "Arabic": "كايلا",
-            "Urdu": "کیلہ",
-            "Persian": "کیله",
-            "Turkish": "Caylah",
-            "Bengali": "কাইলাহ",
-            "Indonesian": "Caylah",
-            "Pashto": "کیله"
-        }
-    },
-    {
-        "name": "Cebraeel",
-        "gender": "Boy",
-        "meaning": "Gabriel",
-        "origin": "Turkish",
-        "id": "ce5_var",
-        "verified": true,
-        "variant_of": "Cebrail",
-        "spellings": {
-            "Arabic": "جبرائيل",
-            "Urdu": "سیبریل",
-            "Persian": "جبرایل",
-            "Turkish": "Cebrail",
-            "Bengali": "সেব্রেইল",
-            "Indonesian": "otakeel",
-            "Pashto": "سیبرایل"
-        }
-    },
-    {
-        "name": "Cebrail",
-        "gender": "Boy",
-        "meaning": "Gabriel",
-        "origin": "Turkish",
-        "id": "ce5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيبريل",
-            "Urdu": "سیبریل",
-            "Persian": "Cebrail",
-            "Turkish": "Cebrail",
-            "Bengali": "সেব্রাইল",
-            "Indonesian": "otak",
-            "Pashto": "سیبریل"
-        }
-    },
-    {
-        "name": "Ceehad",
-        "gender": "Boy",
-        "meaning": "Struggle",
-        "origin": "Turkish",
-        "id": "ci3_var",
-        "verified": true,
-        "variant_of": "Cihad",
-        "spellings": {
-            "Arabic": "سيهاد",
-            "Urdu": "سیہاد",
-            "Persian": "سیهاد",
-            "Turkish": "Ceehad",
-            "Bengali": "সিহাদ",
-            "Indonesian": "Cehad",
-            "Pashto": "سيهاد"
-        }
-    },
-    {
-        "name": "Ceehan",
-        "gender": "Boy",
-        "meaning": "Universe",
-        "origin": "Turkish",
-        "id": "ci1_var",
-        "verified": true,
-        "variant_of": "Cihan",
-        "spellings": {
-            "Arabic": "جيهان",
-            "Urdu": "سیہان",
-            "Persian": "سیهان",
-            "Turkish": "Ceehan",
-            "Bengali": "সিহান",
-            "Indonesian": "Ceehan",
-            "Pashto": "سیهان"
-        }
-    },
-    {
-        "name": "Ceehangeer",
-        "gender": "Boy",
-        "meaning": "Conqueror",
-        "origin": "Turkish",
-        "id": "ci4_var",
-        "verified": true,
-        "variant_of": "Cihangir",
-        "spellings": {
-            "Arabic": "سيهانجير",
-            "Urdu": "سی ہینجیر",
-            "Persian": "Ceehangeer",
-            "Turkish": "Ceehangeer",
-            "Bengali": "সিহ্যাঙ্গিয়ার",
-            "Indonesian": "Ceehangeer",
-            "Pashto": "سیهانګیر"
-        }
-    },
-    {
-        "name": "Ceenar",
-        "gender": "Boy",
-        "meaning": "Plane Tree",
-        "origin": "Turkish",
-        "id": "ci2_var",
-        "verified": true,
-        "variant_of": "Cinar",
-        "spellings": {
-            "Arabic": "سينار",
-            "Urdu": "سینار",
-            "Persian": "سنار",
-            "Turkish": "Ceenar",
-            "Bengali": "সিনার",
-            "Indonesian": "Ceenar",
-            "Pashto": "سینار"
-        }
-    },
-    {
-        "name": "Ceetra",
-        "gender": "Girl",
-        "meaning": "Image",
-        "origin": "Indonesian",
-        "id": "ci6_var",
-        "verified": true,
-        "variant_of": "Citra",
-        "spellings": {
-            "Arabic": "سيترا",
-            "Urdu": "سیٹرا",
-            "Persian": "سیترا",
-            "Turkish": "Ceetra",
-            "Bengali": "সিট্রা",
-            "Indonesian": "Ceetra",
-            "Pashto": "سیترا"
-        }
-    },
-    {
-        "name": "Ceevan",
-        "gender": "Boy",
-        "meaning": "Young",
-        "origin": "Turkish",
-        "id": "ci5_var",
-        "verified": true,
-        "variant_of": "Civan",
-        "spellings": {
-            "Arabic": "سيفان",
-            "Urdu": "سیوان",
-            "Persian": "سیوان",
-            "Turkish": "Ceevan",
-            "Bengali": "সিভান",
-            "Indonesian": "Ceevan",
-            "Pashto": "سیوان"
-        }
-    },
-    {
-        "name": "Celal",
-        "gender": "Boy",
-        "meaning": "Glory",
-        "origin": "Turkish",
-        "id": "ce6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جلال",
-            "Urdu": "سیلال",
-            "Persian": "سلال",
-            "Turkish": "Celal",
-            "Bengali": "সেলাল",
-            "Indonesian": "Celal",
-            "Pashto": "سیلال"
-        }
-    },
-    {
-        "name": "Celeel",
-        "gender": "Boy",
-        "meaning": "Great",
-        "origin": "Turkish",
-        "id": "ce7_var",
-        "verified": true,
-        "variant_of": "Celil",
-        "spellings": {
-            "Arabic": "سيليل",
-            "Urdu": "سیلیل",
-            "Persian": "سلیل",
-            "Turkish": "Celel",
-            "Bengali": "সেলিল",
-            "Indonesian": "Celeel",
-            "Pashto": "سیلیل"
-        }
-    },
-    {
-        "name": "Celeena",
-        "gender": "Girl",
-        "meaning": "Heaven; Moon",
-        "origin": "Turkish/Arabic",
-        "id": "ce3_var",
-        "verified": true,
-        "variant_of": "Celina",
-        "spellings": {
-            "Arabic": "سيلينا",
-            "Urdu": "سیلینا",
-            "Persian": "سلینا",
-            "Turkish": "Celeena",
-            "Bengali": "সেলিনা",
-            "Indonesian": "Celeena",
-            "Pashto": "سیلینا"
-        }
-    },
-    {
-        "name": "Celil",
-        "gender": "Boy",
-        "meaning": "Great",
-        "origin": "Turkish",
-        "id": "ce7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيليل",
-            "Urdu": "سیلیل",
-            "Persian": "سلیل",
-            "Turkish": "Celil",
-            "Bengali": "সেলিল",
-            "Indonesian": "Celil",
-            "Pashto": "سیلیل"
-        }
-    },
-    {
-        "name": "Celina",
-        "gender": "Girl",
-        "meaning": "Heaven; Moon",
-        "origin": "Turkish/Arabic",
-        "id": "ce3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيلينا",
-            "Urdu": "سیلینا",
-            "Persian": "سلینا",
-            "Turkish": "Celina",
-            "Bengali": "সেলিনা",
-            "Indonesian": "Celina",
-            "Pashto": "سیلینا"
-        }
-    },
-    {
-        "name": "Celinah",
-        "gender": "Girl",
-        "meaning": "Heaven; Moon",
-        "origin": "Turkish/Arabic",
-        "id": "ce3_var",
-        "verified": true,
-        "variant_of": "Celina",
-        "spellings": {
-            "Arabic": "سيلينه",
-            "Urdu": "سیلینہ",
-            "Persian": "سلینا",
-            "Turkish": "Celinah",
-            "Bengali": "সেলিনাহ",
-            "Indonesian": "Celinah",
-            "Pashto": "سیلینه"
-        }
-    },
-    {
-        "name": "Cem",
-        "gender": "Boy",
-        "meaning": "Ruler; King",
-        "origin": "Turkish",
-        "id": "ce1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جيم",
-            "Urdu": "Cem",
-            "Persian": "جم",
-            "Turkish": "Cem",
-            "Bengali": "Cem",
-            "Indonesian": "Cem",
-            "Pashto": "Cem"
-        }
-    },
-    {
-        "name": "Cemal",
-        "gender": "Boy",
-        "meaning": "Beauty (Turkish form of Jamal)",
-        "origin": "Turkish",
-        "id": "ce4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جمال",
-            "Urdu": "کیمل",
-            "Persian": "جمال",
-            "Turkish": "Cemal",
-            "Bengali": "সেমাল",
-            "Indonesian": "Kemal",
-            "Pashto": "سیمال"
-        }
-    },
-    {
-        "name": "Cemeel",
-        "gender": "Boy",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ce8_var",
-        "verified": true,
-        "variant_of": "Cemil",
-        "spellings": {
-            "Arabic": "جميل",
-            "Urdu": "سیمیل",
-            "Persian": "جمیل",
-            "Turkish": "Cemel",
-            "Bengali": "সিমেল",
-            "Indonesian": "Cemeel",
-            "Pashto": "سیمال"
-        }
-    },
-    {
-        "name": "Cemeele",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ce9_var",
-        "verified": true,
-        "variant_of": "Cemile",
-        "spellings": {
-            "Arabic": "جميل",
-            "Urdu": "Cemeele",
-            "Persian": "جمیلی",
-            "Turkish": "Cemele",
-            "Bengali": "সেমিলি",
-            "Indonesian": "Cemeele",
-            "Pashto": "Cemeele"
-        }
-    },
-    {
-        "name": "Cemil",
-        "gender": "Boy",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ce8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جميل",
-            "Urdu": "سیمل",
-            "Persian": "جمیل",
-            "Turkish": "Cemil",
-            "Bengali": "সেমিল",
-            "Indonesian": "Cemil",
-            "Pashto": "کیمیل"
-        }
-    },
-    {
-        "name": "Cemile",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ce9",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جميل",
-            "Urdu": "سیمیل",
-            "Persian": "جمیله",
-            "Turkish": "Cemile",
-            "Bengali": "সেমিলি",
-            "Indonesian": "Cemile",
-            "Pashto": "کیمیل"
-        }
-    },
-    {
-        "name": "Cenda",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Indonesian",
-        "id": "ce15",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيندا",
-            "Urdu": "سنڈا",
-            "Persian": "سندا",
-            "Turkish": "Cenda",
-            "Bengali": "সেন্ডা",
-            "Indonesian": "Cenda",
-            "Pashto": "سنډا"
-        }
-    },
-    {
-        "name": "Cendah",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Indonesian",
-        "id": "ce15_var",
-        "verified": true,
-        "variant_of": "Cenda",
-        "spellings": {
-            "Arabic": "سينداه",
-            "Urdu": "سنڈا",
-            "Persian": "سندا",
-            "Turkish": "Cendah",
-            "Bengali": "সেন্দাহ",
-            "Indonesian": "Cendah",
-            "Pashto": "سنډا"
-        }
-    },
-    {
-        "name": "Cennet",
-        "gender": "Girl",
-        "meaning": "Paradise",
-        "origin": "Turkish",
-        "id": "ce10",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سينيت",
-            "Urdu": "سینیٹ",
-            "Persian": "Cennet",
-            "Turkish": "Cennet",
-            "Bengali": "সেনেট",
-            "Indonesian": "Cennet",
-            "Pashto": "سینیټ"
-        }
-    },
-    {
-        "name": "Ceoota",
-        "gender": "Girl",
-        "meaning": "City in North Africa (Sebta)",
-        "origin": "Arabic",
-        "id": "ce14_var",
-        "verified": true,
-        "variant_of": "Ceuta",
-        "spellings": {
-            "Arabic": "سيوتا",
-            "Urdu": "سیوٹا",
-            "Persian": "سئوتا",
-            "Turkish": "Ceoota",
-            "Bengali": "সিওটা",
-            "Indonesian": "Ceoota",
-            "Pashto": "Ceoota"
-        }
-    },
-    {
-        "name": "Ceuta",
-        "gender": "Girl",
-        "meaning": "City in North Africa (Sebta)",
-        "origin": "Arabic",
-        "id": "ce14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سبتة",
-            "Urdu": "سیوٹا",
-            "Persian": "سئوتا",
-            "Turkish": "Ceuta",
-            "Bengali": "সেউটা",
-            "Indonesian": "Ceuta",
-            "Pashto": "Ceuta"
-        }
-    },
-    {
-        "name": "Ceutah",
-        "gender": "Girl",
-        "meaning": "City in North Africa (Sebta)",
-        "origin": "Arabic",
-        "id": "ce14_var",
-        "verified": true,
-        "variant_of": "Ceuta",
-        "spellings": {
-            "Arabic": "سبتة",
-            "Urdu": "Ceutah",
-            "Persian": "سئوتا",
-            "Turkish": "Ceutah",
-            "Bengali": "Ceutah",
-            "Indonesian": "Ceutah",
-            "Pashto": "Ceutah"
-        }
-    },
-    {
-        "name": "Cevat",
-        "gender": "Boy",
-        "meaning": "Generous",
-        "origin": "Turkish",
-        "id": "ce11",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جيفات",
-            "Urdu": "Cevat",
-            "Persian": "Cevat",
-            "Turkish": "Cevat",
-            "Bengali": "সেভাত",
-            "Indonesian": "Cevat",
-            "Pashto": "Cevat"
-        }
-    },
-    {
-        "name": "Ceyda",
-        "gender": "Girl",
-        "meaning": "Beautiful woman",
-        "origin": "Turkish",
-        "id": "ce2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيدا",
-            "Urdu": "سیڈا",
-            "Persian": "سیدا",
-            "Turkish": "Ceyda",
-            "Bengali": "সিডা",
-            "Indonesian": "Ceyda",
-            "Pashto": "سیدا"
-        }
-    },
-    {
-        "name": "Ceydah",
-        "gender": "Girl",
-        "meaning": "Beautiful woman",
-        "origin": "Turkish",
-        "id": "ce2_var",
-        "verified": true,
-        "variant_of": "Ceyda",
-        "spellings": {
-            "Arabic": "سيده",
-            "Urdu": "سیدہ",
-            "Persian": "سیده",
-            "Turkish": "Ceydah",
-            "Bengali": "সিদাহ",
-            "Indonesian": "Ceydah",
-            "Pashto": "سیدا"
-        }
-    },
-    {
-        "name": "Ceyhoon",
-        "gender": "Boy",
-        "meaning": "River",
-        "origin": "Turkish",
-        "id": "ce12_var",
-        "verified": true,
-        "variant_of": "Ceyhun",
-        "spellings": {
-            "Arabic": "سيهون",
-            "Urdu": "سیہون",
-            "Persian": "سیحون",
-            "Turkish": "Seyhun",
-            "Bengali": "সেহুন",
-            "Indonesian": "Ceyhoon",
-            "Pashto": "سیهون"
-        }
-    },
-    {
-        "name": "Ceyhun",
-        "gender": "Boy",
-        "meaning": "River",
-        "origin": "Turkish",
-        "id": "ce12",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيهون",
-            "Urdu": "سیہون",
-            "Persian": "جیحون",
-            "Turkish": "Ceyhun",
-            "Bengali": "সেহুন",
-            "Indonesian": "Ceyhun",
-            "Pashto": "سیهون"
-        }
-    },
-    {
-        "name": "Ceylan",
-        "gender": "Girl",
-        "meaning": "Gazelle",
-        "origin": "Turkish",
-        "id": "ce13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيلان",
-            "Urdu": "سیلان",
-            "Persian": "سیلان",
-            "Turkish": "Ceylan",
-            "Bengali": "সিলান",
-            "Indonesian": "Ceylan",
-            "Pashto": "سیلان"
-        }
-    },
-    {
-        "name": "Cezmee",
-        "gender": "Boy",
-        "meaning": "Resolute",
-        "origin": "Turkish",
-        "id": "ce14_var",
-        "verified": true,
-        "variant_of": "Cezmi",
-        "spellings": {
-            "Arabic": "سيزمي",
-            "Urdu": "Cezmee",
-            "Persian": "جزمی",
-            "Turkish": "Cezmee",
-            "Bengali": "সেজমি",
-            "Indonesian": "Cezmee",
-            "Pashto": "Cezmee"
-        }
-    },
-    {
-        "name": "Cezmi",
-        "gender": "Boy",
-        "meaning": "Resolute",
-        "origin": "Turkish",
-        "id": "ce14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيزمي",
-            "Urdu": "سیزمی۔",
-            "Persian": "چزمی",
-            "Turkish": "Cezmi",
-            "Bengali": "সেজমি",
-            "Indonesian": "Cezmi",
-            "Pashto": "Cezmi"
-        }
-    },
-    {
-        "name": "Chaeereel",
-        "gender": "Boy",
-        "meaning": "Goodness",
-        "origin": "Indonesian",
-        "id": "ch16_var",
-        "verified": true,
-        "variant_of": "Chairil",
-        "spellings": {
-            "Arabic": "تشايريل",
-            "Urdu": "چھیریل",
-            "Persian": "چیریل",
-            "Turkish": "Chaeereel",
-            "Bengali": "ছাইরিল",
-            "Indonesian": "Chaeereel",
-            "Pashto": "چیریل"
-        }
-    },
-    {
-        "name": "Chafeea",
-        "gender": "Girl",
-        "meaning": "Healer",
-        "origin": "Arabic",
-        "id": "ch3_var",
-        "verified": true,
-        "variant_of": "Chafia",
-        "spellings": {
-            "Arabic": "شافعية",
-            "Urdu": "چافیہ",
-            "Persian": "چفیه",
-            "Turkish": "Chafeea",
-            "Bengali": "ছাফিয়া",
-            "Indonesian": "Chafea",
-            "Pashto": "چافي"
-        }
-    },
-    {
-        "name": "Chafeek",
-        "gender": "Boy",
-        "meaning": "Compassionate",
-        "origin": "Arabic",
-        "id": "ch4_var",
-        "verified": true,
-        "variant_of": "Chafik",
-        "spellings": {
-            "Arabic": "شفيق",
-            "Urdu": "چافیک",
-            "Persian": "چفیک",
-            "Turkish": "Chafeek",
-            "Bengali": "ছাফেক",
-            "Indonesian": "chafeek",
-            "Pashto": "چافیک"
-        }
-    },
-    {
-        "name": "Chafia",
-        "gender": "Girl",
-        "meaning": "Healer",
-        "origin": "Arabic",
-        "id": "ch3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "الشافية",
-            "Urdu": "چافیہ",
-            "Persian": "چفیا",
-            "Turkish": "Chafya",
-            "Bengali": "ছাফিয়া",
-            "Indonesian": "Chafia",
-            "Pashto": "چافیا"
-        }
-    },
-    {
-        "name": "Chafiah",
-        "gender": "Girl",
-        "meaning": "Healer",
-        "origin": "Arabic",
-        "id": "ch3_var",
-        "verified": true,
-        "variant_of": "Chafia",
-        "spellings": {
-            "Arabic": "شافيه",
-            "Urdu": "چافیہ",
-            "Persian": "چفیه",
-            "Turkish": "Chafiah",
-            "Bengali": "ছাফিয়াহ",
-            "Indonesian": "Chafiah",
-            "Pashto": "چافیه"
-        }
-    },
-    {
-        "name": "Chafik",
-        "gender": "Boy",
-        "meaning": "Compassionate",
-        "origin": "Arabic",
-        "id": "ch4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شفيق",
-            "Urdu": "شفیق",
-            "Persian": "چفیک",
-            "Turkish": "Chafik",
-            "Bengali": "শফিক",
-            "Indonesian": "Chafik",
-            "Pashto": "چافیک"
-        }
-    },
-    {
-        "name": "Chairil",
-        "gender": "Boy",
-        "meaning": "Goodness",
-        "origin": "Indonesian",
-        "id": "ch16",
-        "verified": true,
-        "spellings": {
-            "Arabic": "كرسيل",
-            "Urdu": "چیریل",
-            "Persian": "چیریل",
-            "Turkish": "Sandalye",
-            "Bengali": "চেরিল",
-            "Indonesian": "Chairil",
-            "Pashto": "چیریل"
-        }
-    },
-    {
-        "name": "Chakeer",
-        "gender": "Boy",
-        "meaning": "Thankful",
-        "origin": "Arabic",
-        "id": "ch5_var",
-        "verified": true,
-        "variant_of": "Chakir",
-        "spellings": {
-            "Arabic": "شاكر",
-            "Urdu": "چاکر",
-            "Persian": "چاکر",
-            "Turkish": "Şakacı",
-            "Bengali": "চাকের",
-            "Indonesian": "pengejar",
-            "Pashto": "چاکر"
-        }
-    },
-    {
-        "name": "Chakir",
-        "gender": "Boy",
-        "meaning": "Thankful",
-        "origin": "Arabic",
-        "id": "ch5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شاكر",
-            "Urdu": "چاکر",
-            "Persian": "چاکیر",
-            "Turkish": "Çakır",
-            "Bengali": "চাকির",
-            "Indonesian": "Chakir",
-            "Pashto": "چاکر"
-        }
-    },
-    {
-        "name": "Chaman",
-        "gender": "Unisex",
-        "meaning": "Garden",
-        "origin": "Persian",
-        "id": "ch6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شامان",
-            "Urdu": "چمن",
-            "Persian": "چمن",
-            "Turkish": "Çaman",
-            "Bengali": "চমন",
-            "Indonesian": "Chaman",
-            "Pashto": "چمن"
-        }
-    },
-    {
-        "name": "Chamanara",
-        "gender": "Girl",
-        "meaning": "Adorning",
-        "origin": "Persian",
-        "id": "ch7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شامانارا",
-            "Urdu": "چمنارا",
-            "Persian": "چمن آرا",
-            "Turkish": "Chamanara",
-            "Bengali": "চমনারা",
-            "Indonesian": "Chamanara",
-            "Pashto": "چمنارا"
-        }
-    },
-    {
-        "name": "Chamanarah",
-        "gender": "Girl",
-        "meaning": "Adorning",
-        "origin": "Persian",
-        "id": "ch7_var",
-        "verified": true,
-        "variant_of": "Chamanara",
-        "spellings": {
-            "Arabic": "شامانارا",
-            "Urdu": "چمنارہ",
-            "Persian": "چمن آره",
-            "Turkish": "Çamanarah",
-            "Bengali": "চমনরঃ",
-            "Indonesian": "Chamanarah",
-            "Pashto": "چمنره"
-        }
-    },
-    {
-        "name": "Chand",
-        "gender": "Unisex",
-        "meaning": "Moon",
-        "origin": "Urdu",
-        "id": "ch8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشاند",
-            "Urdu": "چاند",
-            "Persian": "چاند",
-            "Turkish": "Chand",
-            "Bengali": "চাঁদ",
-            "Indonesian": "Chand",
-            "Pashto": "چاند"
-        }
-    },
-    {
-        "name": "Chanda",
-        "gender": "Girl",
-        "meaning": "Moon",
-        "origin": "Urdu",
-        "id": "ch1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشاندا",
-            "Urdu": "چندا",
-            "Persian": "چاندا",
-            "Turkish": "Chanda",
-            "Bengali": "ছন্দা",
-            "Indonesian": "Chanda",
-            "Pashto": "چندا"
-        }
-    },
-    {
-        "name": "Chandah",
-        "gender": "Girl",
-        "meaning": "Moon",
-        "origin": "Urdu",
-        "id": "ch1_var",
-        "verified": true,
-        "variant_of": "Chanda",
-        "spellings": {
-            "Arabic": "تشانداه",
-            "Urdu": "چندہ",
-            "Persian": "چاندا",
-            "Turkish": "Chandah",
-            "Bengali": "চান্দঃ",
-            "Indonesian": "Chandah",
-            "Pashto": "چنده"
-        }
-    },
-    {
-        "name": "Chandnee",
-        "gender": "Girl",
-        "meaning": "Moonlight",
-        "origin": "Urdu",
-        "id": "ch9_var",
-        "verified": true,
-        "variant_of": "Chandni",
-        "spellings": {
-            "Arabic": "تشاندي",
-            "Urdu": "چاندنی",
-            "Persian": "چندنی",
-            "Turkish": "Chandnee",
-            "Bengali": "চাঁদনী",
-            "Indonesian": "Chandnee",
-            "Pashto": "چاندنی"
-        }
-    },
-    {
-        "name": "Chandni",
-        "gender": "Girl",
-        "meaning": "Moonlight",
-        "origin": "Urdu",
-        "id": "ch9",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشاندي",
-            "Urdu": "چاندنی",
-            "Persian": "چاندنی",
-            "Turkish": "Chandni",
-            "Bengali": "চাঁদনী",
-            "Indonesian": "Chandni",
-            "Pashto": "چاندنی"
-        }
-    },
-    {
-        "name": "Changez",
-        "gender": "Boy",
-        "meaning": "Brave",
-        "origin": "Turkish/Urdu",
-        "id": "ch2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشينجيز",
-            "Urdu": "چینجز",
-            "Persian": "تغییر",
-            "Turkish": "Değişiklik",
-            "Bengali": "চেঞ্জেজ",
-            "Indonesian": "Ubah",
-            "Pashto": "چنګیز"
-        }
-    },
-    {
-        "name": "Chaoosikoo",
-        "gender": "Girl",
-        "meaning": "Born at night",
-        "origin": "Swahili",
-        "id": "ch17_var",
-        "verified": true,
-        "variant_of": "Chausiku",
-        "spellings": {
-            "Arabic": "تشاوسيكو",
-            "Urdu": "چاوسیکو",
-            "Persian": "چائوسیکو",
-            "Turkish": "Chaoosikoo",
-            "Bengali": "চাওসিকু",
-            "Indonesian": "Chaoosikoo",
-            "Pashto": "چاوسکو"
-        }
-    },
-    {
-        "name": "Charagh",
-        "gender": "Boy",
-        "meaning": "Lamp",
-        "origin": "Persian",
-        "id": "ch10",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شاراغ",
-            "Urdu": "چراغ",
-            "Persian": "چراغ",
-            "Turkish": "Charagh",
-            "Bengali": "চারঘ",
-            "Indonesian": "Charagh",
-            "Pashto": "چراغ"
-        }
-    },
-    {
-        "name": "Chauseeku",
-        "gender": "Girl",
-        "meaning": "Born at night",
-        "origin": "Swahili",
-        "id": "ch17_var",
-        "verified": true,
-        "variant_of": "Chausiku",
-        "spellings": {
-            "Arabic": "تشوسيكو",
-            "Urdu": "چوسیکو",
-            "Persian": "چاوسیکو",
-            "Turkish": "Chauseeku",
-            "Bengali": "চৌসেকু",
-            "Indonesian": "Chauseeku",
-            "Pashto": "چاوسیکو"
-        }
-    },
-    {
-        "name": "Chausiku",
-        "gender": "Girl",
-        "meaning": "Born at night",
-        "origin": "Swahili",
-        "id": "ch17",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشاوسيكو",
-            "Urdu": "چوسیکو",
-            "Persian": "چاوسیکو",
-            "Turkish": "Chausiku",
-            "Bengali": "চৌসিকু",
-            "Indonesian": "Chausiku",
-            "Pashto": "چاوسیکو"
-        }
-    },
-    {
-        "name": "Chawdhoory",
-        "gender": "Boy",
-        "meaning": "Land owner",
-        "origin": "Sanskrit",
-        "id": "ch11_var",
-        "verified": true,
-        "variant_of": "Chawdhury",
-        "spellings": {
-            "Arabic": "تشودوري",
-            "Urdu": "چودھری",
-            "Persian": "چاودهوری",
-            "Turkish": "Chadhoory",
-            "Bengali": "চৌধুরী",
-            "Indonesian": "Chawdhoory",
-            "Pashto": "چوهدري"
-        }
-    },
-    {
-        "name": "Chawdhury",
-        "gender": "Boy",
-        "meaning": "Land owner",
-        "origin": "Sanskrit",
-        "id": "ch11",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شودري",
-            "Urdu": "چودھری",
-            "Persian": "چاودری",
-            "Turkish": "Chadhury",
-            "Bengali": "চৌধুরী",
-            "Indonesian": "Chawdhury",
-            "Pashto": "چوهدري"
-        }
-    },
-    {
-        "name": "Cheeragh",
-        "gender": "Boy",
-        "meaning": "Lamp",
-        "origin": "Persian",
-        "id": "ch14_var",
-        "verified": true,
-        "variant_of": "Chiragh",
-        "spellings": {
-            "Arabic": "شيراج",
-            "Urdu": "چیرہ",
-            "Persian": "چراغ",
-            "Turkish": "Neşeli",
-            "Bengali": "চেরাঘ",
-            "Indonesian": "bersorak",
-            "Pashto": "چیراغ"
-        }
-    },
-    {
-        "name": "Cheesty",
-        "gender": "Boy",
-        "meaning": "Famous Sufi Saint order",
-        "origin": "Persian",
-        "id": "ch16_var",
-        "verified": true,
-        "variant_of": "Chisty",
-        "spellings": {
-            "Arabic": "جبني",
-            "Urdu": "چیسٹی",
-            "Persian": "خشن",
-            "Turkish": "lezzetli",
-            "Bengali": "চিস্টি",
-            "Indonesian": "murahan",
-            "Pashto": "خوندور"
-        }
-    },
-    {
-        "name": "Cheetral",
-        "gender": "Boy",
-        "meaning": "Mountain region in Pakistan",
-        "origin": "Urdu",
-        "id": "ch17_var",
-        "verified": true,
-        "variant_of": "Chitral",
-        "spellings": {
-            "Arabic": "شيترال",
-            "Urdu": "چیٹرل",
-            "Persian": "چیترال",
-            "Turkish": "Cheetral",
-            "Bengali": "চেত্রাল",
-            "Indonesian": "Chetral",
-            "Pashto": "چیترال"
-        }
-    },
-    {
-        "name": "Chehra",
-        "gender": "Girl",
-        "meaning": "Face",
-        "origin": "Persian",
-        "id": "ch12",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شيهرا",
-            "Urdu": "چہرہ",
-            "Persian": "چهرا",
-            "Turkish": "Çehra",
-            "Bengali": "চেহরা",
-            "Indonesian": "Chehra",
-            "Pashto": "چهره"
-        }
-    },
-    {
-        "name": "Chehrah",
-        "gender": "Girl",
-        "meaning": "Face",
-        "origin": "Persian",
-        "id": "ch12_var",
-        "verified": true,
-        "variant_of": "Chehra",
-        "spellings": {
-            "Arabic": "الشهرة",
-            "Urdu": "چہرہ",
-            "Persian": "چهره",
-            "Turkish": "Çehra",
-            "Bengali": "চেহরাহ",
-            "Indonesian": "Chehrah",
-            "Pashto": "چهره"
-        }
-    },
-    {
-        "name": "Chessy",
-        "gender": "Girl",
-        "meaning": "Peaceful",
-        "origin": "Persian",
-        "id": "ch13",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شيسي",
-            "Urdu": "شطرنج",
-            "Persian": "شطرنج",
-            "Turkish": "Satranç",
-            "Bengali": "দাবা",
-            "Indonesian": "Catur",
-            "Pashto": "شطرنج"
-        }
-    },
-    {
-        "name": "Chiragh",
-        "gender": "Boy",
-        "meaning": "Lamp",
-        "origin": "Persian",
-        "id": "ch14",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شيراج",
-            "Urdu": "چراغ",
-            "Persian": "چراغ",
-            "Turkish": "Çıragh",
-            "Bengali": "চিরাঘ",
-            "Indonesian": "Chiragh",
-            "Pashto": "چراغ"
-        }
-    },
-    {
-        "name": "Chisty",
-        "gender": "Boy",
-        "meaning": "Famous Sufi Saint order",
-        "origin": "Persian",
-        "id": "ch16",
-        "verified": true,
-        "spellings": {
-            "Arabic": "تشيستي",
-            "Urdu": "چیسٹی",
-            "Persian": "چیستی",
-            "Turkish": "Chisty",
-            "Bengali": "চিস্টি",
-            "Indonesian": "murni",
-            "Pashto": "چټی"
-        }
-    },
-    {
-        "name": "Chitral",
-        "gender": "Boy",
-        "meaning": "Mountain region in Pakistan",
-        "origin": "Urdu",
-        "id": "ch17",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شيترال",
-            "Urdu": "چترال",
-            "Persian": "چیترال",
-            "Turkish": "Chitral",
-            "Bengali": "চিত্রল",
-            "Indonesian": "Chitral",
-            "Pashto": "چترال"
-        }
-    },
-    {
-        "name": "Chooodhry",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Urdu",
-        "id": "ch15_var",
-        "verified": true,
-        "variant_of": "Choudhry",
-        "spellings": {
-            "Arabic": "تشودري",
-            "Urdu": "چوہدری",
-            "Persian": "چودری",
-            "Turkish": "Çoodhry",
-            "Bengali": "চৌধুরি",
-            "Indonesian": "Chooodhry",
-            "Pashto": "چودري"
-        }
-    },
-    {
-        "name": "Choudhry",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Urdu",
-        "id": "ch15",
-        "verified": true,
-        "spellings": {
-            "Arabic": "شودري",
-            "Urdu": "چوہدری",
-            "Persian": "چودری",
-            "Turkish": "Choudhry",
-            "Bengali": "চৌধুরী",
-            "Indonesian": "Choudhry",
-            "Pashto": "چوهدري"
-        }
-    },
-    {
-        "name": "Cihad",
-        "gender": "Boy",
-        "meaning": "Struggle",
-        "origin": "Turkish",
-        "id": "ci3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جهاد",
-            "Urdu": "Cihad",
-            "Persian": "جهاد",
-            "Turkish": "Cihat",
-            "Bengali": "সিহাদ",
-            "Indonesian": "Cihad",
-            "Pashto": "سيهاد"
-        }
-    },
-    {
-        "name": "Cihan",
-        "gender": "Boy",
-        "meaning": "Universe",
-        "origin": "Turkish",
-        "id": "ci1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جيهان",
-            "Urdu": "سیہان",
-            "Persian": "جهان",
-            "Turkish": "Cihan",
-            "Bengali": "সিহান",
-            "Indonesian": "Cihan",
-            "Pashto": "سيهان"
-        }
-    },
-    {
-        "name": "Cihangir",
-        "gender": "Boy",
-        "meaning": "Conqueror",
-        "origin": "Turkish",
-        "id": "ci4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "جيهانجير",
-            "Urdu": "چہانگیر",
-            "Persian": "جهانگیر",
-            "Turkish": "Cihangir",
-            "Bengali": "চিহাঙ্গীর",
-            "Indonesian": "Cihangir",
-            "Pashto": "چيهانګير"
-        }
-    },
-    {
-        "name": "Cinar",
-        "gender": "Boy",
-        "meaning": "Plane Tree",
-        "origin": "Turkish",
-        "id": "ci2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سينار",
-            "Urdu": "سنار",
-            "Persian": "سینار",
-            "Turkish": "Çınar",
-            "Bengali": "সিনার",
-            "Indonesian": "Cinar",
-            "Pashto": "سینار"
-        }
-    },
-    {
-        "name": "Citra",
-        "gender": "Girl",
-        "meaning": "Image",
-        "origin": "Indonesian",
-        "id": "ci6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيترا",
-            "Urdu": "سائٹرا",
-            "Persian": "سیترا",
-            "Turkish": "Citra",
-            "Bengali": "সিট্রা",
-            "Indonesian": "Citra",
-            "Pashto": "سیترا"
-        }
-    },
-    {
-        "name": "Citrah",
-        "gender": "Girl",
-        "meaning": "Image",
-        "origin": "Indonesian",
-        "id": "ci6_var",
-        "verified": true,
-        "variant_of": "Citra",
-        "spellings": {
-            "Arabic": "سيترا",
-            "Urdu": "سیٹرا",
-            "Persian": "سیترا",
-            "Turkish": "Sitra",
-            "Bengali": "সিট্রাহ",
-            "Indonesian": "Citra",
-            "Pashto": "سیترا"
-        }
-    },
-    {
-        "name": "Civan",
-        "gender": "Boy",
-        "meaning": "Young",
-        "origin": "Turkish",
-        "id": "ci5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيفان",
-            "Urdu": "سیوان",
-            "Persian": "سیوان",
-            "Turkish": "Civan",
-            "Bengali": "সিভান",
-            "Indonesian": "sipil",
-            "Pashto": "سیوان"
-        }
-    },
-    {
-        "name": "Cordoba",
-        "gender": "Girl",
-        "meaning": "Qurtuba; Jewel of Andalus",
-        "origin": "Arabic",
-        "id": "co1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قرطبة",
-            "Urdu": "قرطبہ",
-            "Persian": "کوردوبا",
-            "Turkish": "Kordoba",
-            "Bengali": "কর্ডোবা",
-            "Indonesian": "Kordoba",
-            "Pashto": "کورډوبا"
-        }
-    },
-    {
-        "name": "Cordobah",
-        "gender": "Girl",
-        "meaning": "Qurtuba; Jewel of Andalus",
-        "origin": "Arabic",
-        "id": "co1_var",
-        "verified": true,
-        "variant_of": "Cordoba",
-        "spellings": {
-            "Arabic": "قرطبة",
-            "Urdu": "قرطبہ",
-            "Persian": "قرطبه",
-            "Turkish": "Kordobah",
-            "Bengali": "কর্ডোবা",
-            "Indonesian": "Kordobah",
-            "Pashto": "قرطبه"
-        }
-    },
-    {
-        "name": "Cyproos",
-        "gender": "Girl",
-        "meaning": "Island (Qibris)",
-        "origin": "Greek/Arabic",
-        "id": "cy3_var",
-        "verified": true,
-        "variant_of": "Cyprus",
-        "spellings": {
-            "Arabic": "قبرصي",
-            "Urdu": "سائپرو",
-            "Persian": "سیپروس",
-            "Turkish": "Kıbrıslılar",
-            "Bengali": "সাইপ্রোস",
-            "Indonesian": "Siprus",
-            "Pashto": "سایپروس"
-        }
-    },
-    {
-        "name": "Cyprus",
-        "gender": "Girl",
-        "meaning": "Island (Qibris)",
-        "origin": "Greek/Arabic",
-        "id": "cy3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "قبرص",
-            "Urdu": "قبرص",
-            "Persian": "قبرس",
-            "Turkish": "Kıbrıs",
-            "Bengali": "সাইপ্রাস",
-            "Indonesian": "Siprus",
-            "Pashto": "سیپروس"
-        }
-    },
-    {
-        "name": "Cyra",
-        "gender": "Girl",
-        "meaning": "Moon-faced",
-        "origin": "Persian",
-        "id": "cy1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سيرا",
-            "Urdu": "سائرہ",
-            "Persian": "سیرا",
-            "Turkish": "Cyra",
-            "Bengali": "সাইরা",
-            "Indonesian": "Cyra",
-            "Pashto": "سائرا"
-        }
-    },
-    {
-        "name": "Cyrah",
-        "gender": "Girl",
-        "meaning": "Moon-faced",
-        "origin": "Persian",
-        "id": "cy1_var",
-        "verified": true,
-        "variant_of": "Cyra",
-        "spellings": {
-            "Arabic": "سيراه",
-            "Urdu": "سائرہ",
-            "Persian": "سیرا",
-            "Turkish": "Cyrah",
-            "Bengali": "সাইরাহ",
-            "Indonesian": "Cyrah",
-            "Pashto": "سائره"
-        }
-    },
-    {
-        "name": "Cyroos",
-        "gender": "Boy",
-        "meaning": "Sun",
-        "origin": "Persian",
-        "id": "cy2_var",
-        "verified": true,
-        "variant_of": "Cyrus",
-        "spellings": {
-            "Arabic": "سايروس",
-            "Urdu": "سائروس",
-            "Persian": "سیروس",
-            "Turkish": "Cyro'lar",
-            "Bengali": "সাইরোস",
-            "Indonesian": "Cyroo",
-            "Pashto": "سائرو"
-        }
-    },
-    {
-        "name": "Cyrus",
-        "gender": "Boy",
-        "meaning": "Sun",
-        "origin": "Persian",
-        "id": "cy2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سايروس",
-            "Urdu": "سائرس",
-            "Persian": "کوروش",
-            "Turkish": "Cyrus",
-            "Bengali": "সাইরাস",
-            "Indonesian": "Cyrus",
-            "Pashto": "سائرس"
-        }
+  {
+    "name": "Caeera",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2_var",
+    "verified": true,
+    "variant_of": "Caira",
+    "spellings": {
+      "Arabic": "كايرا",
+      "Urdu": "سیرا",
+      "Persian": "قیرا",
+      "Turkish": "Caeera",
+      "Bengali": "কাইরা",
+      "Indonesian": "Caeera",
+      "Pashto": "کیرا"
     }
+  },
+  {
+    "name": "Caeero",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "ca8_var",
+    "verified": true,
+    "variant_of": "Cairo",
+    "spellings": {
+      "Arabic": "كايرو",
+      "Urdu": "کیرو",
+      "Persian": "Caeero",
+      "Turkish": "Caeero",
+      "Bengali": "কাইরো",
+      "Indonesian": "Caeero",
+      "Pashto": "کیرو"
+    }
+  },
+  {
+    "name": "Cafer",
+    "gender": "Boy",
+    "meaning": "Stream",
+    "origin": "Turkish",
+    "id": "ca6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كافر",
+      "Urdu": "کیفر",
+      "Persian": "کافه",
+      "Turkish": "Cafer",
+      "Bengali": "ক্যাফার",
+      "Indonesian": "Kafetaria",
+      "Pashto": "کافر"
+    }
+  },
+  {
+    "name": "Cahaya",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كاهايا",
+      "Urdu": "Cahaya",
+      "Persian": "کاهایا",
+      "Turkish": "Cahaya",
+      "Bengali": "চাহায়া",
+      "Indonesian": "Cahaya",
+      "Pashto": "Cahaya"
+    }
+  },
+  {
+    "name": "Cahayah",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca18_var",
+    "verified": true,
+    "variant_of": "Cahaya",
+    "spellings": {
+      "Arabic": "كاهايا",
+      "Urdu": "قہوہ",
+      "Persian": "کهایاه",
+      "Turkish": "Cahayah",
+      "Bengali": "চাহায়াহ",
+      "Indonesian": "Cahayah",
+      "Pashto": "کاهیه"
+    }
+  },
+  {
+    "name": "Caheet",
+    "gender": "Boy",
+    "meaning": "Hardworking",
+    "origin": "Turkish",
+    "id": "ca7_var",
+    "verified": true,
+    "variant_of": "Cahit",
+    "spellings": {
+      "Arabic": "كاهيت",
+      "Urdu": "Caheet",
+      "Persian": "کاهیت",
+      "Turkish": "Caheet",
+      "Bengali": "ক্যাহেট",
+      "Indonesian": "Caheet",
+      "Pashto": "کیهیټ"
+    }
+  },
+  {
+    "name": "Cahit",
+    "gender": "Boy",
+    "meaning": "Hardworking",
+    "origin": "Turkish",
+    "id": "ca7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاهد",
+      "Urdu": "کاہت",
+      "Persian": "Cahit",
+      "Turkish": "Cahit",
+      "Bengali": "চাহিত",
+      "Indonesian": "Cahit",
+      "Pashto": "Cahit"
+    }
+  },
+  {
+    "name": "Cahya",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كاهيا",
+      "Urdu": "کاہیا",
+      "Persian": "کاهیا",
+      "Turkish": "Cahya",
+      "Bengali": "চাহ্যা",
+      "Indonesian": "Cahya",
+      "Pashto": "Cahya"
+    }
+  },
+  {
+    "name": "Cahyah",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Indonesian",
+    "id": "ca16_var",
+    "verified": true,
+    "variant_of": "Cahya",
+    "spellings": {
+      "Arabic": "كاهياه",
+      "Urdu": "قہیہ",
+      "Persian": "کیه",
+      "Turkish": "Cahyah",
+      "Bengali": "চাহিয়াহ",
+      "Indonesian": "Cahya",
+      "Pashto": "کاهیه"
+    }
+  },
+  {
+    "name": "Caira",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كايرا",
+      "Urdu": "کائرہ",
+      "Persian": "قاهره",
+      "Turkish": "Kahire",
+      "Bengali": "কইরা",
+      "Indonesian": "Kaira",
+      "Pashto": "کیره"
+    }
+  },
+  {
+    "name": "Cairah",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "ca2_var",
+    "verified": true,
+    "variant_of": "Caira",
+    "spellings": {
+      "Arabic": "كايرا",
+      "Urdu": "قارہ",
+      "Persian": "قائره",
+      "Turkish": "Kahire",
+      "Bengali": "কাইরাহ",
+      "Indonesian": "Kairah",
+      "Pashto": "قاره"
+    }
+  },
+  {
+    "name": "Cairo",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "ca8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "القاهرة",
+      "Urdu": "قاہرہ",
+      "Persian": "قاهره",
+      "Turkish": "Kahire",
+      "Bengali": "কায়রো",
+      "Indonesian": "Kairo",
+      "Pashto": "قاهره"
+    }
+  },
+  {
+    "name": "Caleb",
+    "gender": "Boy",
+    "meaning": "Faithful",
+    "origin": "Arabic",
+    "id": "ca9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كالب",
+      "Urdu": "کالیب",
+      "Persian": "کالب",
+      "Turkish": "Caleb",
+      "Bengali": "কালেব",
+      "Indonesian": "Kaleb",
+      "Pashto": "کالیب"
+    }
+  },
+  {
+    "name": "Cameel",
+    "gender": "Boy",
+    "meaning": "Perfect (Variant of Kamil)",
+    "origin": "Arabic",
+    "id": "ca3_var",
+    "verified": true,
+    "variant_of": "Camil",
+    "spellings": {
+      "Arabic": "جمل",
+      "Urdu": "اونٹ",
+      "Persian": "شتر",
+      "Turkish": "Deve",
+      "Bengali": "উট",
+      "Indonesian": "unta",
+      "Pashto": "اوښ"
+    }
+  },
+  {
+    "name": "Cameelo",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "North African",
+    "id": "ca17_var",
+    "verified": true,
+    "variant_of": "Camilo",
+    "spellings": {
+      "Arabic": "كاميلو",
+      "Urdu": "کیمیلو",
+      "Persian": "کامیلو",
+      "Turkish": "Cameelo",
+      "Bengali": "ক্যামেলো",
+      "Indonesian": "Cameelo",
+      "Pashto": "کیمیلو"
+    }
+  },
+  {
+    "name": "Camil",
+    "gender": "Boy",
+    "meaning": "Perfect (Variant of Kamil)",
+    "origin": "Arabic",
+    "id": "ca3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كاميل",
+      "Urdu": "کیمل",
+      "Persian": "کمیل",
+      "Turkish": "Camil",
+      "Bengali": "ক্যামিল",
+      "Indonesian": "Kamil",
+      "Pashto": "کیمیل"
+    }
+  },
+  {
+    "name": "Camilo",
+    "gender": "Boy",
+    "meaning": "Perfect",
+    "origin": "North African",
+    "id": "ca17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كاميلو",
+      "Urdu": "کیمیلو",
+      "Persian": "کامیلو",
+      "Turkish": "camilo",
+      "Bengali": "ক্যামিলো",
+      "Indonesian": "Camilo",
+      "Pashto": "کامیلو"
+    }
+  },
+  {
+    "name": "Can",
+    "gender": "Boy",
+    "meaning": "Life; Soul; Spirit",
+    "origin": "Turkish",
+    "id": "ca1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يستطيع",
+      "Urdu": "کر سکتے ہیں۔",
+      "Persian": "می تواند",
+      "Turkish": "Olabilmek",
+      "Bengali": "পারে",
+      "Indonesian": "Bisa",
+      "Pashto": "کولی شي"
+    }
+  },
+  {
+    "name": "Canaan",
+    "gender": "Boy",
+    "meaning": "Historic region of Palestine",
+    "origin": "Ancient Semitic",
+    "id": "ca13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كنعان",
+      "Urdu": "کنعان",
+      "Persian": "کنعان",
+      "Turkish": "Kenan",
+      "Bengali": "কানন",
+      "Indonesian": "Kanaan",
+      "Pashto": "کنعان"
+    }
+  },
+  {
+    "name": "Canan",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Turkish",
+    "id": "ca10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كانان",
+      "Urdu": "کنان",
+      "Persian": "کنان",
+      "Turkish": "Canan",
+      "Bengali": "কানন",
+      "Indonesian": "Kanan",
+      "Pashto": "کینان"
+    }
+  },
+  {
+    "name": "Candan",
+    "gender": "Unisex",
+    "meaning": "Sincere",
+    "origin": "Turkish",
+    "id": "ca11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كاندان",
+      "Urdu": "کینڈن",
+      "Persian": "کاندان",
+      "Turkish": "Candan",
+      "Bengali": "ক্যান্ডন",
+      "Indonesian": "Candan",
+      "Pashto": "کینډان"
+    }
+  },
+  {
+    "name": "Cansel",
+    "gender": "Girl",
+    "meaning": "Flood of life",
+    "origin": "Turkish",
+    "id": "ca12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إلغاء",
+      "Urdu": "کینسل",
+      "Persian": "کنسل",
+      "Turkish": "Cansel",
+      "Bengali": "ক্যানসেল",
+      "Indonesian": "Membatalkan",
+      "Pashto": "کانسل"
+    }
+  },
+  {
+    "name": "Cansoo",
+    "gender": "Girl",
+    "meaning": "Water of life",
+    "origin": "Turkish",
+    "id": "ca13_var",
+    "verified": true,
+    "variant_of": "Cansu",
+    "spellings": {
+      "Arabic": "كانسو",
+      "Urdu": "کینسو",
+      "Persian": "کانسو",
+      "Turkish": "Cansoo",
+      "Bengali": "ক্যানসু",
+      "Indonesian": "Bisa juga",
+      "Pashto": "کانسو"
+    }
+  },
+  {
+    "name": "Cansu",
+    "gender": "Girl",
+    "meaning": "Water of life",
+    "origin": "Turkish",
+    "id": "ca13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كانسو",
+      "Urdu": "کانسو",
+      "Persian": "کانسو",
+      "Turkish": "Cansu",
+      "Bengali": "ক্যানসু",
+      "Indonesian": "Cansu",
+      "Pashto": "کانسو"
+    }
+  },
+  {
+    "name": "Carthage",
+    "gender": "Girl",
+    "meaning": "Ancient city in Tunisia (Qartaj)",
+    "origin": "Phoenician",
+    "id": "ca14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قرطاج",
+      "Urdu": "کارتھیج",
+      "Persian": "کارتاژ",
+      "Turkish": "Kartaca",
+      "Bengali": "কার্থেজ",
+      "Indonesian": "Kartago",
+      "Pashto": "کارتهج"
+    }
+  },
+  {
+    "name": "Caseem",
+    "gender": "Boy",
+    "meaning": "Divider (Variant of Qasim)",
+    "origin": "Arabic",
+    "id": "ca4_var",
+    "verified": true,
+    "variant_of": "Casim",
+    "spellings": {
+      "Arabic": "كاسيم",
+      "Urdu": "قسیم",
+      "Persian": "Caseem",
+      "Turkish": "Caseem",
+      "Bengali": "কাসেম",
+      "Indonesian": "Kasusem",
+      "Pashto": "قسیم"
+    }
+  },
+  {
+    "name": "Casim",
+    "gender": "Boy",
+    "meaning": "Divider (Variant of Qasim)",
+    "origin": "Arabic",
+    "id": "ca4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قاسم",
+      "Urdu": "کاسم",
+      "Persian": "کاسیم",
+      "Turkish": "Kazım",
+      "Bengali": "কাসিম",
+      "Indonesian": "Kasim",
+      "Pashto": "قسیم"
+    }
+  },
+  {
+    "name": "Caveea",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Urdu",
+    "id": "ca14_var",
+    "verified": true,
+    "variant_of": "Cavia",
+    "spellings": {
+      "Arabic": "كافيا",
+      "Urdu": "Caveea",
+      "Persian": "Caveea",
+      "Turkish": "Caveea",
+      "Bengali": "ক্যাভিয়া",
+      "Indonesian": "Gua",
+      "Pashto": "Caveea"
+    }
+  },
+  {
+    "name": "Caveed",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Turkish",
+    "id": "ca15_var",
+    "verified": true,
+    "variant_of": "Cavid",
+    "spellings": {
+      "Arabic": "كافيد",
+      "Urdu": "غار",
+      "Persian": "غار زد",
+      "Turkish": "Mağara",
+      "Bengali": "গুহা",
+      "Indonesian": "Menyerah",
+      "Pashto": "غار"
+    }
+  },
+  {
+    "name": "Cavia",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Urdu",
+    "id": "ca14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كافيا",
+      "Urdu": "کیویا",
+      "Persian": "کاویا",
+      "Turkish": "Kavia",
+      "Bengali": "ক্যাভিয়া",
+      "Indonesian": "Cavia",
+      "Pashto": "کاویا"
+    }
+  },
+  {
+    "name": "Caviah",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Urdu",
+    "id": "ca14_var",
+    "verified": true,
+    "variant_of": "Cavia",
+    "spellings": {
+      "Arabic": "كافياه",
+      "Urdu": "کیویہ",
+      "Persian": "کاویا",
+      "Turkish": "Havya",
+      "Bengali": "ক্যাভিয়াহ",
+      "Indonesian": "Kaviah",
+      "Pashto": "کاویه"
+    }
+  },
+  {
+    "name": "Cavid",
+    "gender": "Boy",
+    "meaning": "Eternal",
+    "origin": "Turkish",
+    "id": "ca15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاويد",
+      "Urdu": "کیوڈ",
+      "Persian": "کاوید",
+      "Turkish": "Cavid",
+      "Bengali": "ক্যাভিড",
+      "Indonesian": "Cavid",
+      "Pashto": "کیویډ"
+    }
+  },
+  {
+    "name": "Cayla",
+    "gender": "Girl",
+    "meaning": "Fortress, Castle (Variant of Qayla)",
+    "origin": "Arabic",
+    "id": "ca5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كايلا",
+      "Urdu": "کیلا",
+      "Persian": "کایلا",
+      "Turkish": "Cayla",
+      "Bengali": "কায়লা",
+      "Indonesian": "Cayla",
+      "Pashto": "کیلا"
+    }
+  },
+  {
+    "name": "Caylah",
+    "gender": "Girl",
+    "meaning": "Fortress, Castle (Variant of Qayla)",
+    "origin": "Arabic",
+    "id": "ca5_var",
+    "verified": true,
+    "variant_of": "Cayla",
+    "spellings": {
+      "Arabic": "كايلا",
+      "Urdu": "کیلہ",
+      "Persian": "کیله",
+      "Turkish": "Caylah",
+      "Bengali": "কাইলাহ",
+      "Indonesian": "Caylah",
+      "Pashto": "کیله"
+    }
+  },
+  {
+    "name": "Cebraeel",
+    "gender": "Boy",
+    "meaning": "Gabriel",
+    "origin": "Turkish",
+    "id": "ce5_var",
+    "verified": true,
+    "variant_of": "Cebrail",
+    "spellings": {
+      "Arabic": "جبرائيل",
+      "Urdu": "سیبریل",
+      "Persian": "جبرایل",
+      "Turkish": "Cebrail",
+      "Bengali": "সেব্রেইল",
+      "Indonesian": "otakeel",
+      "Pashto": "سیبرایل"
+    }
+  },
+  {
+    "name": "Cebrail",
+    "gender": "Boy",
+    "meaning": "Gabriel",
+    "origin": "Turkish",
+    "id": "ce5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيبريل",
+      "Urdu": "سیبریل",
+      "Persian": "Cebrail",
+      "Turkish": "Cebrail",
+      "Bengali": "সেব্রাইল",
+      "Indonesian": "otak",
+      "Pashto": "سیبریل"
+    }
+  },
+  {
+    "name": "Ceehad",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Turkish",
+    "id": "ci3_var",
+    "verified": true,
+    "variant_of": "Cihad",
+    "spellings": {
+      "Arabic": "سيهاد",
+      "Urdu": "سیہاد",
+      "Persian": "سیهاد",
+      "Turkish": "Ceehad",
+      "Bengali": "সিহাদ",
+      "Indonesian": "Cehad",
+      "Pashto": "سيهاد"
+    }
+  },
+  {
+    "name": "Ceehan",
+    "gender": "Boy",
+    "meaning": "Universe",
+    "origin": "Turkish",
+    "id": "ci1_var",
+    "verified": true,
+    "variant_of": "Cihan",
+    "spellings": {
+      "Arabic": "جيهان",
+      "Urdu": "سیہان",
+      "Persian": "سیهان",
+      "Turkish": "Ceehan",
+      "Bengali": "সিহান",
+      "Indonesian": "Ceehan",
+      "Pashto": "سیهان"
+    }
+  },
+  {
+    "name": "Ceehangeer",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Turkish",
+    "id": "ci4_var",
+    "verified": true,
+    "variant_of": "Cihangir",
+    "spellings": {
+      "Arabic": "سيهانجير",
+      "Urdu": "سی ہینجیر",
+      "Persian": "Ceehangeer",
+      "Turkish": "Ceehangeer",
+      "Bengali": "সিহ্যাঙ্গিয়ার",
+      "Indonesian": "Ceehangeer",
+      "Pashto": "سیهانګیر"
+    }
+  },
+  {
+    "name": "Ceenar",
+    "gender": "Boy",
+    "meaning": "Plane Tree",
+    "origin": "Turkish",
+    "id": "ci2_var",
+    "verified": true,
+    "variant_of": "Cinar",
+    "spellings": {
+      "Arabic": "سينار",
+      "Urdu": "سینار",
+      "Persian": "سنار",
+      "Turkish": "Ceenar",
+      "Bengali": "সিনার",
+      "Indonesian": "Ceenar",
+      "Pashto": "سینار"
+    }
+  },
+  {
+    "name": "Ceetra",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6_var",
+    "verified": true,
+    "variant_of": "Citra",
+    "spellings": {
+      "Arabic": "سيترا",
+      "Urdu": "سیٹرا",
+      "Persian": "سیترا",
+      "Turkish": "Ceetra",
+      "Bengali": "সিট্রা",
+      "Indonesian": "Ceetra",
+      "Pashto": "سیترا"
+    }
+  },
+  {
+    "name": "Ceevan",
+    "gender": "Boy",
+    "meaning": "Young",
+    "origin": "Turkish",
+    "id": "ci5_var",
+    "verified": true,
+    "variant_of": "Civan",
+    "spellings": {
+      "Arabic": "سيفان",
+      "Urdu": "سیوان",
+      "Persian": "سیوان",
+      "Turkish": "Ceevan",
+      "Bengali": "সিভান",
+      "Indonesian": "Ceevan",
+      "Pashto": "سیوان"
+    }
+  },
+  {
+    "name": "Celal",
+    "gender": "Boy",
+    "meaning": "Glory",
+    "origin": "Turkish",
+    "id": "ce6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جلال",
+      "Urdu": "سیلال",
+      "Persian": "سلال",
+      "Turkish": "Celal",
+      "Bengali": "সেলাল",
+      "Indonesian": "Celal",
+      "Pashto": "سیلال"
+    }
+  },
+  {
+    "name": "Celeel",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Turkish",
+    "id": "ce7_var",
+    "verified": true,
+    "variant_of": "Celil",
+    "spellings": {
+      "Arabic": "سيليل",
+      "Urdu": "سیلیل",
+      "Persian": "سلیل",
+      "Turkish": "Celel",
+      "Bengali": "সেলিল",
+      "Indonesian": "Celeel",
+      "Pashto": "سیلیل"
+    }
+  },
+  {
+    "name": "Celeena",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3_var",
+    "verified": true,
+    "variant_of": "Celina",
+    "spellings": {
+      "Arabic": "سيلينا",
+      "Urdu": "سیلینا",
+      "Persian": "سلینا",
+      "Turkish": "Celeena",
+      "Bengali": "সেলিনা",
+      "Indonesian": "Celeena",
+      "Pashto": "سیلینا"
+    }
+  },
+  {
+    "name": "Celil",
+    "gender": "Boy",
+    "meaning": "Great",
+    "origin": "Turkish",
+    "id": "ce7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيليل",
+      "Urdu": "سیلیل",
+      "Persian": "سلیل",
+      "Turkish": "Celil",
+      "Bengali": "সেলিল",
+      "Indonesian": "Celil",
+      "Pashto": "سیلیل"
+    }
+  },
+  {
+    "name": "Celina",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيلينا",
+      "Urdu": "سیلینا",
+      "Persian": "سلینا",
+      "Turkish": "Celina",
+      "Bengali": "সেলিনা",
+      "Indonesian": "Celina",
+      "Pashto": "سیلینا"
+    }
+  },
+  {
+    "name": "Celinah",
+    "gender": "Girl",
+    "meaning": "Heaven; Moon",
+    "origin": "Turkish/Arabic",
+    "id": "ce3_var",
+    "verified": true,
+    "variant_of": "Celina",
+    "spellings": {
+      "Arabic": "سيلينه",
+      "Urdu": "سیلینہ",
+      "Persian": "سلینا",
+      "Turkish": "Celinah",
+      "Bengali": "সেলিনাহ",
+      "Indonesian": "Celinah",
+      "Pashto": "سیلینه"
+    }
+  },
+  {
+    "name": "Cem",
+    "gender": "Boy",
+    "meaning": "Ruler; King",
+    "origin": "Turkish",
+    "id": "ce1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيم",
+      "Urdu": "Cem",
+      "Persian": "جم",
+      "Turkish": "Cem",
+      "Bengali": "Cem",
+      "Indonesian": "Cem",
+      "Pashto": "Cem"
+    }
+  },
+  {
+    "name": "Cemal",
+    "gender": "Boy",
+    "meaning": "Beauty (Turkish form of Jamal)",
+    "origin": "Turkish",
+    "id": "ce4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جمال",
+      "Urdu": "کیمل",
+      "Persian": "جمال",
+      "Turkish": "Cemal",
+      "Bengali": "সেমাল",
+      "Indonesian": "Kemal",
+      "Pashto": "سیمال"
+    }
+  },
+  {
+    "name": "Cemeel",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce8_var",
+    "verified": true,
+    "variant_of": "Cemil",
+    "spellings": {
+      "Arabic": "جميل",
+      "Urdu": "سیمیل",
+      "Persian": "جمیل",
+      "Turkish": "Cemel",
+      "Bengali": "সিমেল",
+      "Indonesian": "Cemeel",
+      "Pashto": "سیمال"
+    }
+  },
+  {
+    "name": "Cemeele",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce9_var",
+    "verified": true,
+    "variant_of": "Cemile",
+    "spellings": {
+      "Arabic": "جميل",
+      "Urdu": "Cemeele",
+      "Persian": "جمیلی",
+      "Turkish": "Cemele",
+      "Bengali": "সেমিলি",
+      "Indonesian": "Cemeele",
+      "Pashto": "Cemeele"
+    }
+  },
+  {
+    "name": "Cemil",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جميل",
+      "Urdu": "سیمل",
+      "Persian": "جمیل",
+      "Turkish": "Cemil",
+      "Bengali": "সেমিল",
+      "Indonesian": "Cemil",
+      "Pashto": "کیمیل"
+    }
+  },
+  {
+    "name": "Cemile",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ce9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جميل",
+      "Urdu": "سیمیل",
+      "Persian": "جمیله",
+      "Turkish": "Cemile",
+      "Bengali": "সেমিলি",
+      "Indonesian": "Cemile",
+      "Pashto": "کیمیل"
+    }
+  },
+  {
+    "name": "Cenda",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ce15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيندا",
+      "Urdu": "سنڈا",
+      "Persian": "سندا",
+      "Turkish": "Cenda",
+      "Bengali": "সেন্ডা",
+      "Indonesian": "Cenda",
+      "Pashto": "سنډا"
+    }
+  },
+  {
+    "name": "Cendah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Indonesian",
+    "id": "ce15_var",
+    "verified": true,
+    "variant_of": "Cenda",
+    "spellings": {
+      "Arabic": "سينداه",
+      "Urdu": "سنڈا",
+      "Persian": "سندا",
+      "Turkish": "Cendah",
+      "Bengali": "সেন্দাহ",
+      "Indonesian": "Cendah",
+      "Pashto": "سنډا"
+    }
+  },
+  {
+    "name": "Cennet",
+    "gender": "Girl",
+    "meaning": "Paradise",
+    "origin": "Turkish",
+    "id": "ce10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سينيت",
+      "Urdu": "سینیٹ",
+      "Persian": "Cennet",
+      "Turkish": "Cennet",
+      "Bengali": "সেনেট",
+      "Indonesian": "Cennet",
+      "Pashto": "سینیټ"
+    }
+  },
+  {
+    "name": "Ceoota",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Ceuta",
+    "spellings": {
+      "Arabic": "سيوتا",
+      "Urdu": "سیوٹا",
+      "Persian": "سئوتا",
+      "Turkish": "Ceoota",
+      "Bengali": "সিওটা",
+      "Indonesian": "Ceoota",
+      "Pashto": "Ceoota"
+    }
+  },
+  {
+    "name": "Ceuta",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سبتة",
+      "Urdu": "سیوٹا",
+      "Persian": "سئوتا",
+      "Turkish": "Ceuta",
+      "Bengali": "সেউটা",
+      "Indonesian": "Ceuta",
+      "Pashto": "Ceuta"
+    }
+  },
+  {
+    "name": "Ceutah",
+    "gender": "Girl",
+    "meaning": "City in North Africa (Sebta)",
+    "origin": "Arabic",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Ceuta",
+    "spellings": {
+      "Arabic": "سبتة",
+      "Urdu": "Ceutah",
+      "Persian": "سئوتا",
+      "Turkish": "Ceutah",
+      "Bengali": "Ceutah",
+      "Indonesian": "Ceutah",
+      "Pashto": "Ceutah"
+    }
+  },
+  {
+    "name": "Cevat",
+    "gender": "Boy",
+    "meaning": "Generous",
+    "origin": "Turkish",
+    "id": "ce11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيفات",
+      "Urdu": "Cevat",
+      "Persian": "Cevat",
+      "Turkish": "Cevat",
+      "Bengali": "সেভাত",
+      "Indonesian": "Cevat",
+      "Pashto": "Cevat"
+    }
+  },
+  {
+    "name": "Ceyda",
+    "gender": "Girl",
+    "meaning": "Beautiful woman",
+    "origin": "Turkish",
+    "id": "ce2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيدا",
+      "Urdu": "سیڈا",
+      "Persian": "سیدا",
+      "Turkish": "Ceyda",
+      "Bengali": "সিডা",
+      "Indonesian": "Ceyda",
+      "Pashto": "سیدا"
+    }
+  },
+  {
+    "name": "Ceydah",
+    "gender": "Girl",
+    "meaning": "Beautiful woman",
+    "origin": "Turkish",
+    "id": "ce2_var",
+    "verified": true,
+    "variant_of": "Ceyda",
+    "spellings": {
+      "Arabic": "سيده",
+      "Urdu": "سیدہ",
+      "Persian": "سیده",
+      "Turkish": "Ceydah",
+      "Bengali": "সিদাহ",
+      "Indonesian": "Ceydah",
+      "Pashto": "سیدا"
+    }
+  },
+  {
+    "name": "Ceyhoon",
+    "gender": "Boy",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ce12_var",
+    "verified": true,
+    "variant_of": "Ceyhun",
+    "spellings": {
+      "Arabic": "سيهون",
+      "Urdu": "سیہون",
+      "Persian": "سیحون",
+      "Turkish": "Seyhun",
+      "Bengali": "সেহুন",
+      "Indonesian": "Ceyhoon",
+      "Pashto": "سیهون"
+    }
+  },
+  {
+    "name": "Ceyhun",
+    "gender": "Boy",
+    "meaning": "River",
+    "origin": "Turkish",
+    "id": "ce12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيهون",
+      "Urdu": "سیہون",
+      "Persian": "جیحون",
+      "Turkish": "Ceyhun",
+      "Bengali": "সেহুন",
+      "Indonesian": "Ceyhun",
+      "Pashto": "سیهون"
+    }
+  },
+  {
+    "name": "Ceylan",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Turkish",
+    "id": "ce13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيلان",
+      "Urdu": "سیلان",
+      "Persian": "سیلان",
+      "Turkish": "Ceylan",
+      "Bengali": "সিলান",
+      "Indonesian": "Ceylan",
+      "Pashto": "سیلان"
+    }
+  },
+  {
+    "name": "Cezmee",
+    "gender": "Boy",
+    "meaning": "Resolute",
+    "origin": "Turkish",
+    "id": "ce14_var",
+    "verified": true,
+    "variant_of": "Cezmi",
+    "spellings": {
+      "Arabic": "سيزمي",
+      "Urdu": "Cezmee",
+      "Persian": "جزمی",
+      "Turkish": "Cezmee",
+      "Bengali": "সেজমি",
+      "Indonesian": "Cezmee",
+      "Pashto": "Cezmee"
+    }
+  },
+  {
+    "name": "Cezmi",
+    "gender": "Boy",
+    "meaning": "Resolute",
+    "origin": "Turkish",
+    "id": "ce14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيزمي",
+      "Urdu": "سیزمی۔",
+      "Persian": "چزمی",
+      "Turkish": "Cezmi",
+      "Bengali": "সেজমি",
+      "Indonesian": "Cezmi",
+      "Pashto": "Cezmi"
+    }
+  },
+  {
+    "name": "Chaeereel",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Indonesian",
+    "id": "ch16_var",
+    "verified": true,
+    "variant_of": "Chairil",
+    "spellings": {
+      "Arabic": "تشايريل",
+      "Urdu": "چھیریل",
+      "Persian": "چیریل",
+      "Turkish": "Chaeereel",
+      "Bengali": "ছাইরিল",
+      "Indonesian": "Chaeereel",
+      "Pashto": "چیریل"
+    }
+  },
+  {
+    "name": "Chafeea",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3_var",
+    "verified": true,
+    "variant_of": "Chafia",
+    "spellings": {
+      "Arabic": "شافعية",
+      "Urdu": "چافیہ",
+      "Persian": "چفیه",
+      "Turkish": "Chafeea",
+      "Bengali": "ছাফিয়া",
+      "Indonesian": "Chafea",
+      "Pashto": "چافي"
+    }
+  },
+  {
+    "name": "Chafeek",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ch4_var",
+    "verified": true,
+    "variant_of": "Chafik",
+    "spellings": {
+      "Arabic": "شفيق",
+      "Urdu": "چافیک",
+      "Persian": "چفیک",
+      "Turkish": "Chafeek",
+      "Bengali": "ছাফেক",
+      "Indonesian": "chafeek",
+      "Pashto": "چافیک"
+    }
+  },
+  {
+    "name": "Chafia",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الشافية",
+      "Urdu": "چافیہ",
+      "Persian": "چفیا",
+      "Turkish": "Chafya",
+      "Bengali": "ছাফিয়া",
+      "Indonesian": "Chafia",
+      "Pashto": "چافیا"
+    }
+  },
+  {
+    "name": "Chafiah",
+    "gender": "Girl",
+    "meaning": "Healer",
+    "origin": "Arabic",
+    "id": "ch3_var",
+    "verified": true,
+    "variant_of": "Chafia",
+    "spellings": {
+      "Arabic": "شافيه",
+      "Urdu": "چافیہ",
+      "Persian": "چفیه",
+      "Turkish": "Chafiah",
+      "Bengali": "ছাফিয়াহ",
+      "Indonesian": "Chafiah",
+      "Pashto": "چافیه"
+    }
+  },
+  {
+    "name": "Chafik",
+    "gender": "Boy",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ch4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شفيق",
+      "Urdu": "شفیق",
+      "Persian": "چفیک",
+      "Turkish": "Chafik",
+      "Bengali": "শফিক",
+      "Indonesian": "Chafik",
+      "Pashto": "چافیک"
+    }
+  },
+  {
+    "name": "Chairil",
+    "gender": "Boy",
+    "meaning": "Goodness",
+    "origin": "Indonesian",
+    "id": "ch16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "كرسيل",
+      "Urdu": "چیریل",
+      "Persian": "چیریل",
+      "Turkish": "Sandalye",
+      "Bengali": "চেরিল",
+      "Indonesian": "Chairil",
+      "Pashto": "چیریل"
+    }
+  },
+  {
+    "name": "Chakeer",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ch5_var",
+    "verified": true,
+    "variant_of": "Chakir",
+    "spellings": {
+      "Arabic": "شاكر",
+      "Urdu": "چاکر",
+      "Persian": "چاکر",
+      "Turkish": "Şakacı",
+      "Bengali": "চাকের",
+      "Indonesian": "pengejar",
+      "Pashto": "چاکر"
+    }
+  },
+  {
+    "name": "Chakir",
+    "gender": "Boy",
+    "meaning": "Thankful",
+    "origin": "Arabic",
+    "id": "ch5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شاكر",
+      "Urdu": "چاکر",
+      "Persian": "چاکیر",
+      "Turkish": "Çakır",
+      "Bengali": "চাকির",
+      "Indonesian": "Chakir",
+      "Pashto": "چاکر"
+    }
+  },
+  {
+    "name": "Chaman",
+    "gender": "Unisex",
+    "meaning": "Garden",
+    "origin": "Persian",
+    "id": "ch6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شامان",
+      "Urdu": "چمن",
+      "Persian": "چمن",
+      "Turkish": "Çaman",
+      "Bengali": "চমন",
+      "Indonesian": "Chaman",
+      "Pashto": "چمن"
+    }
+  },
+  {
+    "name": "Chamanara",
+    "gender": "Girl",
+    "meaning": "Adorning",
+    "origin": "Persian",
+    "id": "ch7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شامانارا",
+      "Urdu": "چمنارا",
+      "Persian": "چمن آرا",
+      "Turkish": "Chamanara",
+      "Bengali": "চমনারা",
+      "Indonesian": "Chamanara",
+      "Pashto": "چمنارا"
+    }
+  },
+  {
+    "name": "Chamanarah",
+    "gender": "Girl",
+    "meaning": "Adorning",
+    "origin": "Persian",
+    "id": "ch7_var",
+    "verified": true,
+    "variant_of": "Chamanara",
+    "spellings": {
+      "Arabic": "شامانارا",
+      "Urdu": "چمنارہ",
+      "Persian": "چمن آره",
+      "Turkish": "Çamanarah",
+      "Bengali": "চমনরঃ",
+      "Indonesian": "Chamanarah",
+      "Pashto": "چمنره"
+    }
+  },
+  {
+    "name": "Chand",
+    "gender": "Unisex",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشاند",
+      "Urdu": "چاند",
+      "Persian": "چاند",
+      "Turkish": "Chand",
+      "Bengali": "চাঁদ",
+      "Indonesian": "Chand",
+      "Pashto": "چاند"
+    }
+  },
+  {
+    "name": "Chanda",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشاندا",
+      "Urdu": "چندا",
+      "Persian": "چاندا",
+      "Turkish": "Chanda",
+      "Bengali": "ছন্দা",
+      "Indonesian": "Chanda",
+      "Pashto": "چندا"
+    }
+  },
+  {
+    "name": "Chandah",
+    "gender": "Girl",
+    "meaning": "Moon",
+    "origin": "Urdu",
+    "id": "ch1_var",
+    "verified": true,
+    "variant_of": "Chanda",
+    "spellings": {
+      "Arabic": "تشانداه",
+      "Urdu": "چندہ",
+      "Persian": "چاندا",
+      "Turkish": "Chandah",
+      "Bengali": "চান্দঃ",
+      "Indonesian": "Chandah",
+      "Pashto": "چنده"
+    }
+  },
+  {
+    "name": "Chandnee",
+    "gender": "Girl",
+    "meaning": "Moonlight",
+    "origin": "Urdu",
+    "id": "ch9_var",
+    "verified": true,
+    "variant_of": "Chandni",
+    "spellings": {
+      "Arabic": "تشاندي",
+      "Urdu": "چاندنی",
+      "Persian": "چندنی",
+      "Turkish": "Chandnee",
+      "Bengali": "চাঁদনী",
+      "Indonesian": "Chandnee",
+      "Pashto": "چاندنی"
+    }
+  },
+  {
+    "name": "Chandni",
+    "gender": "Girl",
+    "meaning": "Moonlight",
+    "origin": "Urdu",
+    "id": "ch9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشاندي",
+      "Urdu": "چاندنی",
+      "Persian": "چاندنی",
+      "Turkish": "Chandni",
+      "Bengali": "চাঁদনী",
+      "Indonesian": "Chandni",
+      "Pashto": "چاندنی"
+    }
+  },
+  {
+    "name": "Changez",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Turkish/Urdu",
+    "id": "ch2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشينجيز",
+      "Urdu": "چینجز",
+      "Persian": "تغییر",
+      "Turkish": "Değişiklik",
+      "Bengali": "চেঞ্জেজ",
+      "Indonesian": "Ubah",
+      "Pashto": "چنګیز"
+    }
+  },
+  {
+    "name": "Chaoosikoo",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chausiku",
+    "spellings": {
+      "Arabic": "تشاوسيكو",
+      "Urdu": "چاوسیکو",
+      "Persian": "چائوسیکو",
+      "Turkish": "Chaoosikoo",
+      "Bengali": "চাওসিকু",
+      "Indonesian": "Chaoosikoo",
+      "Pashto": "چاوسکو"
+    }
+  },
+  {
+    "name": "Charagh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شاراغ",
+      "Urdu": "چراغ",
+      "Persian": "چراغ",
+      "Turkish": "Charagh",
+      "Bengali": "চারঘ",
+      "Indonesian": "Charagh",
+      "Pashto": "چراغ"
+    }
+  },
+  {
+    "name": "Chauseeku",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chausiku",
+    "spellings": {
+      "Arabic": "تشوسيكو",
+      "Urdu": "چوسیکو",
+      "Persian": "چاوسیکو",
+      "Turkish": "Chauseeku",
+      "Bengali": "চৌসেকু",
+      "Indonesian": "Chauseeku",
+      "Pashto": "چاوسیکو"
+    }
+  },
+  {
+    "name": "Chausiku",
+    "gender": "Girl",
+    "meaning": "Born at night",
+    "origin": "Swahili",
+    "id": "ch17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشاوسيكو",
+      "Urdu": "چوسیکو",
+      "Persian": "چاوسیکو",
+      "Turkish": "Chausiku",
+      "Bengali": "চৌসিকু",
+      "Indonesian": "Chausiku",
+      "Pashto": "چاوسیکو"
+    }
+  },
+  {
+    "name": "Chawdhoory",
+    "gender": "Boy",
+    "meaning": "Land owner",
+    "origin": "Sanskrit",
+    "id": "ch11_var",
+    "verified": true,
+    "variant_of": "Chawdhury",
+    "spellings": {
+      "Arabic": "تشودوري",
+      "Urdu": "چودھری",
+      "Persian": "چاودهوری",
+      "Turkish": "Chadhoory",
+      "Bengali": "চৌধুরী",
+      "Indonesian": "Chawdhoory",
+      "Pashto": "چوهدري"
+    }
+  },
+  {
+    "name": "Chawdhury",
+    "gender": "Boy",
+    "meaning": "Land owner",
+    "origin": "Sanskrit",
+    "id": "ch11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شودري",
+      "Urdu": "چودھری",
+      "Persian": "چاودری",
+      "Turkish": "Chadhury",
+      "Bengali": "চৌধুরী",
+      "Indonesian": "Chawdhury",
+      "Pashto": "چوهدري"
+    }
+  },
+  {
+    "name": "Cheeragh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch14_var",
+    "verified": true,
+    "variant_of": "Chiragh",
+    "spellings": {
+      "Arabic": "شيراج",
+      "Urdu": "چیرہ",
+      "Persian": "چراغ",
+      "Turkish": "Neşeli",
+      "Bengali": "চেরাঘ",
+      "Indonesian": "bersorak",
+      "Pashto": "چیراغ"
+    }
+  },
+  {
+    "name": "Cheesty",
+    "gender": "Boy",
+    "meaning": "Famous Sufi Saint order",
+    "origin": "Persian",
+    "id": "ch16_var",
+    "verified": true,
+    "variant_of": "Chisty",
+    "spellings": {
+      "Arabic": "جبني",
+      "Urdu": "چیسٹی",
+      "Persian": "خشن",
+      "Turkish": "lezzetli",
+      "Bengali": "চিস্টি",
+      "Indonesian": "murahan",
+      "Pashto": "خوندور"
+    }
+  },
+  {
+    "name": "Cheetral",
+    "gender": "Boy",
+    "meaning": "Mountain region in Pakistan",
+    "origin": "Urdu",
+    "id": "ch17_var",
+    "verified": true,
+    "variant_of": "Chitral",
+    "spellings": {
+      "Arabic": "شيترال",
+      "Urdu": "چیٹرل",
+      "Persian": "چیترال",
+      "Turkish": "Cheetral",
+      "Bengali": "চেত্রাল",
+      "Indonesian": "Chetral",
+      "Pashto": "چیترال"
+    }
+  },
+  {
+    "name": "Chehra",
+    "gender": "Girl",
+    "meaning": "Face",
+    "origin": "Persian",
+    "id": "ch12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شيهرا",
+      "Urdu": "چہرہ",
+      "Persian": "چهرا",
+      "Turkish": "Çehra",
+      "Bengali": "চেহরা",
+      "Indonesian": "Chehra",
+      "Pashto": "چهره"
+    }
+  },
+  {
+    "name": "Chehrah",
+    "gender": "Girl",
+    "meaning": "Face",
+    "origin": "Persian",
+    "id": "ch12_var",
+    "verified": true,
+    "variant_of": "Chehra",
+    "spellings": {
+      "Arabic": "الشهرة",
+      "Urdu": "چہرہ",
+      "Persian": "چهره",
+      "Turkish": "Çehra",
+      "Bengali": "চেহরাহ",
+      "Indonesian": "Chehrah",
+      "Pashto": "چهره"
+    }
+  },
+  {
+    "name": "Chessy",
+    "gender": "Girl",
+    "meaning": "Peaceful",
+    "origin": "Persian",
+    "id": "ch13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شيسي",
+      "Urdu": "شطرنج",
+      "Persian": "شطرنج",
+      "Turkish": "Satranç",
+      "Bengali": "দাবা",
+      "Indonesian": "Catur",
+      "Pashto": "شطرنج"
+    }
+  },
+  {
+    "name": "Chiragh",
+    "gender": "Boy",
+    "meaning": "Lamp",
+    "origin": "Persian",
+    "id": "ch14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شيراج",
+      "Urdu": "چراغ",
+      "Persian": "چراغ",
+      "Turkish": "Çıragh",
+      "Bengali": "চিরাঘ",
+      "Indonesian": "Chiragh",
+      "Pashto": "چراغ"
+    }
+  },
+  {
+    "name": "Chisty",
+    "gender": "Boy",
+    "meaning": "Famous Sufi Saint order",
+    "origin": "Persian",
+    "id": "ch16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "تشيستي",
+      "Urdu": "چیسٹی",
+      "Persian": "چیستی",
+      "Turkish": "Chisty",
+      "Bengali": "চিস্টি",
+      "Indonesian": "murni",
+      "Pashto": "چټی"
+    }
+  },
+  {
+    "name": "Chitral",
+    "gender": "Boy",
+    "meaning": "Mountain region in Pakistan",
+    "origin": "Urdu",
+    "id": "ch17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شيترال",
+      "Urdu": "چترال",
+      "Persian": "چیترال",
+      "Turkish": "Chitral",
+      "Bengali": "চিত্রল",
+      "Indonesian": "Chitral",
+      "Pashto": "چترال"
+    }
+  },
+  {
+    "name": "Chooodhry",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Urdu",
+    "id": "ch15_var",
+    "verified": true,
+    "variant_of": "Choudhry",
+    "spellings": {
+      "Arabic": "تشودري",
+      "Urdu": "چوہدری",
+      "Persian": "چودری",
+      "Turkish": "Çoodhry",
+      "Bengali": "চৌধুরি",
+      "Indonesian": "Chooodhry",
+      "Pashto": "چودري"
+    }
+  },
+  {
+    "name": "Choudhry",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Urdu",
+    "id": "ch15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "شودري",
+      "Urdu": "چوہدری",
+      "Persian": "چودری",
+      "Turkish": "Choudhry",
+      "Bengali": "চৌধুরী",
+      "Indonesian": "Choudhry",
+      "Pashto": "چوهدري"
+    }
+  },
+  {
+    "name": "Cihad",
+    "gender": "Boy",
+    "meaning": "Struggle",
+    "origin": "Turkish",
+    "id": "ci3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جهاد",
+      "Urdu": "Cihad",
+      "Persian": "جهاد",
+      "Turkish": "Cihat",
+      "Bengali": "সিহাদ",
+      "Indonesian": "Cihad",
+      "Pashto": "سيهاد"
+    }
+  },
+  {
+    "name": "Cihan",
+    "gender": "Boy",
+    "meaning": "Universe",
+    "origin": "Turkish",
+    "id": "ci1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيهان",
+      "Urdu": "سیہان",
+      "Persian": "جهان",
+      "Turkish": "Cihan",
+      "Bengali": "সিহান",
+      "Indonesian": "Cihan",
+      "Pashto": "سيهان"
+    }
+  },
+  {
+    "name": "Cihangir",
+    "gender": "Boy",
+    "meaning": "Conqueror",
+    "origin": "Turkish",
+    "id": "ci4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيهانجير",
+      "Urdu": "چہانگیر",
+      "Persian": "جهانگیر",
+      "Turkish": "Cihangir",
+      "Bengali": "চিহাঙ্গীর",
+      "Indonesian": "Cihangir",
+      "Pashto": "چيهانګير"
+    }
+  },
+  {
+    "name": "Cinar",
+    "gender": "Boy",
+    "meaning": "Plane Tree",
+    "origin": "Turkish",
+    "id": "ci2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سينار",
+      "Urdu": "سنار",
+      "Persian": "سینار",
+      "Turkish": "Çınar",
+      "Bengali": "সিনার",
+      "Indonesian": "Cinar",
+      "Pashto": "سینار"
+    }
+  },
+  {
+    "name": "Citra",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيترا",
+      "Urdu": "سائٹرا",
+      "Persian": "سیترا",
+      "Turkish": "Citra",
+      "Bengali": "সিট্রা",
+      "Indonesian": "Citra",
+      "Pashto": "سیترا"
+    }
+  },
+  {
+    "name": "Citrah",
+    "gender": "Girl",
+    "meaning": "Image",
+    "origin": "Indonesian",
+    "id": "ci6_var",
+    "verified": true,
+    "variant_of": "Citra",
+    "spellings": {
+      "Arabic": "سيترا",
+      "Urdu": "سیٹرا",
+      "Persian": "سیترا",
+      "Turkish": "Sitra",
+      "Bengali": "সিট্রাহ",
+      "Indonesian": "Citra",
+      "Pashto": "سیترا"
+    }
+  },
+  {
+    "name": "Civan",
+    "gender": "Boy",
+    "meaning": "Young",
+    "origin": "Turkish",
+    "id": "ci5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيفان",
+      "Urdu": "سیوان",
+      "Persian": "سیوان",
+      "Turkish": "Civan",
+      "Bengali": "সিভান",
+      "Indonesian": "sipil",
+      "Pashto": "سیوان"
+    }
+  },
+  {
+    "name": "Cordoba",
+    "gender": "Girl",
+    "meaning": "Qurtuba; Jewel of Andalus",
+    "origin": "Arabic",
+    "id": "co1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قرطبة",
+      "Urdu": "قرطبہ",
+      "Persian": "کوردوبا",
+      "Turkish": "Kordoba",
+      "Bengali": "কর্ডোবা",
+      "Indonesian": "Kordoba",
+      "Pashto": "کورډوبا"
+    }
+  },
+  {
+    "name": "Cordobah",
+    "gender": "Girl",
+    "meaning": "Qurtuba; Jewel of Andalus",
+    "origin": "Arabic",
+    "id": "co1_var",
+    "verified": true,
+    "variant_of": "Cordoba",
+    "spellings": {
+      "Arabic": "قرطبة",
+      "Urdu": "قرطبہ",
+      "Persian": "قرطبه",
+      "Turkish": "Kordobah",
+      "Bengali": "কর্ডোবা",
+      "Indonesian": "Kordobah",
+      "Pashto": "قرطبه"
+    }
+  },
+  {
+    "name": "Cyproos",
+    "gender": "Girl",
+    "meaning": "Island (Qibris)",
+    "origin": "Greek/Arabic",
+    "id": "cy3_var",
+    "verified": true,
+    "variant_of": "Cyprus",
+    "spellings": {
+      "Arabic": "قبرصي",
+      "Urdu": "سائپرو",
+      "Persian": "سیپروس",
+      "Turkish": "Kıbrıslılar",
+      "Bengali": "সাইপ্রোস",
+      "Indonesian": "Siprus",
+      "Pashto": "سایپروس"
+    }
+  },
+  {
+    "name": "Cyprus",
+    "gender": "Girl",
+    "meaning": "Island (Qibris)",
+    "origin": "Greek/Arabic",
+    "id": "cy3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "قبرص",
+      "Urdu": "قبرص",
+      "Persian": "قبرس",
+      "Turkish": "Kıbrıs",
+      "Bengali": "সাইপ্রাস",
+      "Indonesian": "Siprus",
+      "Pashto": "سیپروس"
+    }
+  },
+  {
+    "name": "Cyra",
+    "gender": "Girl",
+    "meaning": "Moon-faced",
+    "origin": "Persian",
+    "id": "cy1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سيرا",
+      "Urdu": "سائرہ",
+      "Persian": "سیرا",
+      "Turkish": "Cyra",
+      "Bengali": "সাইরা",
+      "Indonesian": "Cyra",
+      "Pashto": "سائرا"
+    }
+  },
+  {
+    "name": "Cyrah",
+    "gender": "Girl",
+    "meaning": "Moon-faced",
+    "origin": "Persian",
+    "id": "cy1_var",
+    "verified": true,
+    "variant_of": "Cyra",
+    "spellings": {
+      "Arabic": "سيراه",
+      "Urdu": "سائرہ",
+      "Persian": "سیرا",
+      "Turkish": "Cyrah",
+      "Bengali": "সাইরাহ",
+      "Indonesian": "Cyrah",
+      "Pashto": "سائره"
+    }
+  },
+  {
+    "name": "Cyroos",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "cy2_var",
+    "verified": true,
+    "variant_of": "Cyrus",
+    "spellings": {
+      "Arabic": "سايروس",
+      "Urdu": "سائروس",
+      "Persian": "سیروس",
+      "Turkish": "Cyro'lar",
+      "Bengali": "সাইরোস",
+      "Indonesian": "Cyroo",
+      "Pashto": "سائرو"
+    }
+  },
+  {
+    "name": "Cyrus",
+    "gender": "Boy",
+    "meaning": "Sun",
+    "origin": "Persian",
+    "id": "cy2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سايروس",
+      "Urdu": "سائرس",
+      "Persian": "کوروش",
+      "Turkish": "Cyrus",
+      "Bengali": "সাইরাস",
+      "Indonesian": "Cyrus",
+      "Pashto": "سائرس"
+    }
+  }
 ]
