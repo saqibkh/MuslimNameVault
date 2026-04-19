@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Yashal",
+    "gender": "Boy",
+    "meaning": "Fresh and green",
+    "origin": "Arabic",
+    "id": "ya1",
+    "verified": true
+  },
+  {
+    "name": "Yasmine",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Arabic/Persian",
+    "id": "ya2",
+    "verified": true
+  }
+]

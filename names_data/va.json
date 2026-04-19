@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Vafi",
+    "gender": "Boy",
+    "meaning": "Complete or loyal",
+    "origin": "Persian",
+    "id": "va1",
+    "verified": true
+  },
+  {
+    "name": "Varda",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "va2",
+    "verified": true
+  }
+]
