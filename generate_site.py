@@ -29,11 +29,13 @@ Sitemap: {SITE_URL}/sitemap.xml
 
 
 def load_names():
-    """Loads all JSON files from the names_data directory."""
+    """Loads all JSON files from the names_data directory and filters duplicates."""
     all_names = []
     json_files = glob.glob(os.path.join(NAMES_DATA_DIR, '*.json'))
     
     for file_path in json_files:
+        if "ALL_NAMES_MASTER" in file_path:
+            continue
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -44,8 +46,13 @@ def load_names():
         except Exception as e:
             print(f"Error loading {file_path}: {e}")
             
-    # Sort A-Z
-    return sorted(all_names, key=lambda x: x.get('name', ''))
+    # Deduplicate logic
+    unique_names_dict = {}
+    for n in all_names:
+        name_key = n.get('name', 'Unknown').strip().lower()
+        unique_names_dict[name_key] = n
+        
+    return sorted(list(unique_names_dict.values()), key=lambda x: x.get('name', ''))
 
 def generate_suggest_page():
     """Generates a simple suggestion page using Formspree to email results."""
@@ -839,16 +846,70 @@ def generate_surprise_page():
                 
                 const genderLabel = item.g === 'B' ? 'Boy' : (item.g === 'G' ? 'Girl' : 'Unisex');
 
+                // Escape quotes in meanings to prevent breaking the onclick handler
+                const safeMeaning = item.m.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+
                 const card = `
-                <a href="${item.s}" class="block p-6 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-lg transition group animate-fade-in-up">
-                    <div class="flex justify-between items-start mb-2">
-                        <h3 class="text-2xl font-bold text-slate-800 group-hover:text-indigo-700">${item.n}</h3>
-                        <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${genderLabel}</span>
-                    </div>
-                    <p class="text-slate-600 line-clamp-2">${item.m}</p>
-                </a>
+                <div class="relative group animate-fade-in-up" data-name="${item.n}">
+                    <a href="${item.s}" class="block h-full p-6 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-lg transition">
+                        <div class="flex justify-between items-start mb-2">
+                            <h3 class="text-2xl font-bold text-slate-800 group-hover:text-indigo-700">${item.n}</h3>
+                            <span class="text-xs font-bold uppercase tracking-wider px-2 py-1 rounded border ${badgeClass}">${genderLabel}</span>
+                        </div>
+                        <p class="text-slate-600 line-clamp-2 pr-8">${item.m}</p>
+                    </a>
+
+                    <button onclick="toggleSurpriseFavorite(this, '${item.n}', '${genderLabel}', '${safeMeaning}', '${item.s}')"
+                        class="fav-btn absolute bottom-6 right-6 p-2 rounded-full bg-slate-50 hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition border border-slate-100 z-20"
+                        aria-label="Add to favorites">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                        </svg>
+                    </button>
+                </div>
                 `;
+
                 grid.insertAdjacentHTML('beforeend', card);
+            });
+
+            // NEW: Initialize the heart UI right after cards are injected!
+            initSurpriseFavoritesUI();
+        }
+
+        // --- NEW: Favorites Logic for Surprise Page ---
+        function getFavorites() { return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]'); }
+        
+        function toggleSurpriseFavorite(btn, name, gender, meaning, link) {
+            let favs = getFavorites();
+            const index = favs.findIndex(f => f.name === name);
+            const icon = btn.querySelector('.heart-icon');
+            
+            if (index > -1) { 
+                favs.splice(index, 1); 
+                btn.classList.remove('text-rose-600'); 
+                btn.classList.add('text-slate-300'); 
+                icon.setAttribute('fill', 'none');
+            } else { 
+                favs.push({ name, gender, meaning, link, date: new Date().getTime() }); 
+                btn.classList.add('text-rose-600'); 
+                btn.classList.remove('text-slate-300'); 
+                icon.setAttribute('fill', 'currentColor');
+                btn.style.transform = 'scale(1.2)'; 
+                setTimeout(() => btn.style.transform = 'scale(1)', 200);
+            }
+            localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
+        }
+
+        function initSurpriseFavoritesUI() {
+            const favs = getFavorites();
+            const favNames = new Set(favs.map(f => f.name));
+            document.querySelectorAll('.fav-btn').forEach(btn => {
+                const card = btn.closest('.group');
+                if (favNames.has(card.dataset.name)) {
+                    btn.classList.add('text-rose-600'); 
+                    btn.classList.remove('text-slate-300'); 
+                    btn.querySelector('.heart-icon').setAttribute('fill', 'currentColor');
+                }
             });
         }
 
@@ -877,6 +938,7 @@ def generate_surprise_page():
             url=f"{SITE_URL}/surprise/"
         ))
     print("✅ Generated Surprise Page")
+
 
 def generate_theme_collections(all_names):
     """
@@ -1013,8 +1075,17 @@ def generate_website():
 
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100">
             <div class="bg-emerald-600 p-8 text-white text-center relative">
-                <h1 class="text-5xl md:text-6xl font-bold font-heading mb-2">{{ name.name }}</h1>
                 
+                <button onclick="toggleDetailFavorite(this, '{{ name.name|escape }}', '{{ name.gender|escape }}', '{{ name.meaning|escape }}', window.location.pathname)"
+                    class="absolute top-4 left-4 p-2 rounded-full bg-white/20 hover:bg-white/40 text-white transition shadow-sm backdrop-blur-sm group"
+                    aria-label="Add to favorites">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 heart-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                    </svg>
+                </button>
+
+                <h1 class="text-5xl md:text-6xl font-bold font-heading mb-2">{{ name.name }}</h1>
+
                 <div class="flex items-center justify-center gap-3 mt-2">
                     <p class="text-emerald-100 text-xl">{{ name.transliteration }}</p>
                     
@@ -1122,6 +1193,41 @@ def generate_website():
         
     </div>
     {{ schema_markup|safe }}
+
+    <script>
+        function getFavorites() { return JSON.parse(localStorage.getItem('muslimNamesFavs') || '[]'); }
+
+        function toggleDetailFavorite(btn, name, gender, meaning, link) {
+            let favs = getFavorites();
+            const index = favs.findIndex(f => f.name === name);
+            const icon = btn.querySelector('.heart-icon');
+
+            if (index > -1) {
+                favs.splice(index, 1);
+                icon.setAttribute('fill', 'none');
+                btn.classList.remove('text-rose-400');
+            } else {
+                favs.push({ name, gender, meaning, link, date: new Date().getTime() });
+                icon.setAttribute('fill', 'currentColor');
+                btn.classList.add('text-rose-400');
+                btn.style.transform = 'scale(1.2)';
+                setTimeout(() => btn.style.transform = 'scale(1)', 200);
+            }
+            localStorage.setItem('muslimNamesFavs', JSON.stringify(favs));
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const favs = getFavorites();
+            const isFav = favs.some(f => f.name === '{{ name.name|escape }}');
+            if (isFav) {
+                const btn = document.querySelector('.heart-icon').parentElement;
+                const icon = btn.querySelector('.heart-icon');
+                icon.setAttribute('fill', 'currentColor');
+                btn.classList.add('text-rose-400');
+            }
+        });
+    </script>
+
     {% endblock %}
     """
    
@@ -1299,6 +1405,8 @@ def generate_website():
 
     # 6d. Generate Favorites Page (NEW)
     generate_favorites_page()
+
+    generate_robots_txt()
 
     # 7. Generate Finder Page
     finder_template = env.from_string("""
