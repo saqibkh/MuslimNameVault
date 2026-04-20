@@ -1,506 +1,1073 @@
 [
-  {
-    "name": "Ruaa",
-    "gender": "Girl",
-    "meaning": "Visions, dreams",
-    "origin": "Arabic",
-    "id": "ru1",
-    "verified": true
-  },
-  {
-    "name": "Rubaba",
-    "gender": "Girl",
-    "meaning": "Rose",
-    "origin": "Persian",
-    "id": "ru2",
-    "verified": true
-  },
-  {
-    "name": "Rubaiya",
-    "gender": "Girl",
-    "meaning": "Spring season",
-    "origin": "Arabic",
-    "id": "ru3",
-    "verified": true
-  },
-  {
-    "name": "Rubaiyah",
-    "gender": "Girl",
-    "meaning": "Spring season",
-    "origin": "Arabic",
-    "id": "ru4",
-    "verified": true
-  },
-  {
-    "name": "Rubayya",
-    "gender": "Girl",
-    "meaning": "Little hill",
-    "origin": "Arabic",
-    "id": "ru5",
-    "verified": true
-  },
-  {
-    "name": "Rubayyah",
-    "gender": "Girl",
-    "meaning": "Little hill",
-    "origin": "Arabic",
-    "id": "ru6",
-    "verified": true
-  },
-  {
-    "name": "Ruby",
-    "gender": "Girl",
-    "meaning": "Red gemstone",
-    "origin": "Latin",
-    "id": "ru7",
-    "verified": true
-  },
-  {
-    "name": "Rudaina",
-    "gender": "Girl",
-    "meaning": "Spinning wheel",
-    "origin": "Arabic",
-    "id": "ru8",
-    "verified": true
-  },
-  {
-    "name": "Ruhiyah",
-    "gender": "Girl",
-    "meaning": "Spiritual",
-    "origin": "Arabic",
-    "id": "ru9",
-    "verified": true
-  },
-  {
-    "name": "Rukaida",
-    "gender": "Girl",
-    "meaning": "Gentle support",
-    "origin": "Arabic",
-    "id": "ru10",
-    "verified": true
-  },
-  {
-    "name": "Rukainah",
-    "gender": "Girl",
-    "meaning": "Pillar, support",
-    "origin": "Arabic",
-    "id": "ru11",
-    "verified": true
-  },
-  {
-    "name": "Rukaiya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru12",
-    "verified": true
-  },
-  {
-    "name": "Rukaiyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru13",
-    "verified": true
-  },
-  {
-    "name": "Rukaya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru14",
-    "verified": true
-  },
-  {
-    "name": "Rukayah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru15",
-    "verified": true
-  },
-  {
-    "name": "Rukayya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru16",
-    "verified": true
-  },
-  {
-    "name": "Rukayyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru17",
-    "verified": true
-  },
-  {
-    "name": "Rukhaya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru18",
-    "verified": true
-  },
-  {
-    "name": "Rukhsana Begum",
-    "gender": "Girl",
-    "meaning": "Beautiful-faced lady",
-    "origin": "Persian/Turkic",
-    "id": "ru58",
-    "verified": true
-  },
-  {
-    "name": "Rukhsarunnisa",
-    "gender": "Girl",
-    "meaning": "Face of women",
-    "origin": "Persian/Arabic",
-    "id": "ru59",
-    "verified": true
-  },
-  {
-    "name": "Rukhshan",
-    "gender": "Boy",
-    "meaning": "Dazzling, shining",
-    "origin": "Persian",
-    "id": "ru19",
-    "verified": true
-  },
-  {
-    "name": "Rukhshana",
-    "gender": "Girl",
-    "meaning": "Brilliant, beautiful",
-    "origin": "Persian",
-    "id": "ru20",
-    "verified": true
-  },
-  {
-    "name": "Rukhshanda",
-    "gender": "Girl",
-    "meaning": "Shining, brilliant",
-    "origin": "Persian",
-    "id": "ru21",
-    "verified": true
-  },
-  {
-    "name": "Rukhshannah",
-    "gender": "Girl",
-    "meaning": "Brilliant, beautiful",
-    "origin": "Persian",
-    "id": "ru22",
-    "verified": true
-  },
-  {
-    "name": "Rukiah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru23",
-    "verified": true
-  },
-  {
-    "name": "Rukiyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru24",
-    "verified": true
-  },
-  {
-    "name": "Rukmini",
-    "gender": "Girl",
-    "meaning": "Adorned with gold",
-    "origin": "Sanskrit",
-    "id": "ru25",
-    "verified": true
-  },
-  {
-    "name": "Rukminiyah",
-    "gender": "Girl",
-    "meaning": "Adorned with gold",
-    "origin": "Sanskrit",
-    "id": "ru26",
-    "verified": true
-  },
-  {
-    "name": "Ruksana",
-    "gender": "Girl",
-    "meaning": "Beautiful-faced",
-    "origin": "Persian",
-    "id": "ru60",
-    "verified": true
-  },
-  {
-    "name": "Ruksar",
-    "gender": "Girl",
-    "meaning": "Cheek, face",
-    "origin": "Persian",
-    "id": "ru27",
-    "verified": true
-  },
-  {
-    "name": "Rula",
-    "gender": "Girl",
-    "meaning": "Name of an Arab tribe",
-    "origin": "Arabic",
-    "id": "ru28",
-    "verified": true
-  },
-  {
-    "name": "Rumaan",
-    "gender": "Boy",
-    "meaning": "Pomegranate",
-    "origin": "Arabic",
-    "id": "ru29",
-    "verified": true
-  },
-  {
-    "name": "Rumaiyah",
-    "gender": "Girl",
-    "meaning": "Little archer",
-    "origin": "Arabic",
-    "id": "ru30",
-    "verified": true
-  },
-  {
-    "name": "Ruqaiya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru31",
-    "verified": true
-  },
-  {
-    "name": "Ruqaiyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru32",
-    "verified": true
-  },
-  {
-    "name": "Ruqaya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru33",
-    "verified": true
-  },
-  {
-    "name": "Ruqayah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru34",
-    "verified": true
-  },
-  {
-    "name": "Ruqqaiyah",
-    "gender": "Girl",
-    "meaning": "Gentle, ascent",
-    "origin": "Arabic",
-    "id": "ru61",
-    "verified": true
-  },
-  {
-    "name": "Ruqqaya",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru35",
-    "verified": true
-  },
-  {
-    "name": "Ruqqayaah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru36",
-    "verified": true
-  },
-  {
-    "name": "Ruqqayah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru37",
-    "verified": true
-  },
-  {
-    "name": "Ruqqayya",
-    "gender": "Girl",
-    "meaning": "Gentle, ascent",
-    "origin": "Arabic",
-    "id": "ru62",
-    "verified": true
-  },
-  {
-    "name": "Ruqqayyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru38",
-    "verified": true
-  },
-  {
-    "name": "Ruqqiah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru39",
-    "verified": true
-  },
-  {
-    "name": "Ruqqiyah",
-    "gender": "Girl",
-    "meaning": "Ascent, gentle",
-    "origin": "Arabic",
-    "id": "ru40",
-    "verified": true
-  },
-  {
-    "name": "Ruqsan",
-    "gender": "Girl",
-    "meaning": "Beautiful-faced",
-    "origin": "Persian",
-    "id": "ru63",
-    "verified": true
-  },
-  {
-    "name": "Ruqsana",
-    "gender": "Girl",
-    "meaning": "Brilliant, shining",
-    "origin": "Persian",
-    "id": "ru41",
-    "verified": true
-  },
-  {
-    "name": "Ruqsar",
-    "gender": "Girl",
-    "meaning": "Cheek, face",
-    "origin": "Persian",
-    "id": "ru42",
-    "verified": true
-  },
-  {
-    "name": "Ruqsaya",
-    "gender": "Girl",
-    "meaning": "Brilliant, shining",
-    "origin": "Persian",
-    "id": "ru43",
-    "verified": true
-  },
-  {
-    "name": "Ruqsayya",
-    "gender": "Girl",
-    "meaning": "Brilliant, shining",
-    "origin": "Persian",
-    "id": "ru44",
-    "verified": true
-  },
-  {
-    "name": "Ruqsayyah",
-    "gender": "Girl",
-    "meaning": "Brilliant, shining",
-    "origin": "Persian",
-    "id": "ru45",
-    "verified": true
-  },
-  {
-    "name": "Ruqyah",
-    "gender": "Girl",
-    "meaning": "Spell, charm, recitation",
-    "origin": "Arabic",
-    "id": "ru46",
-    "verified": true
-  },
-  {
-    "name": "Rushdiya",
-    "gender": "Girl",
-    "meaning": "Rightly guided",
-    "origin": "Arabic",
-    "id": "ru47",
-    "verified": true
-  },
-  {
-    "name": "Rushdiyah",
-    "gender": "Girl",
-    "meaning": "Rightly guided",
-    "origin": "Arabic",
-    "id": "ru48",
-    "verified": true
-  },
-  {
-    "name": "Rustom",
-    "gender": "Boy",
-    "meaning": "Strong, brave",
-    "origin": "Persian",
-    "id": "ru49",
-    "verified": true
-  },
-  {
-    "name": "Rustum",
-    "gender": "Boy",
-    "meaning": "Strong, brave",
-    "origin": "Persian",
-    "id": "ru50",
-    "verified": true
-  },
-  {
-    "name": "Ruwa",
-    "gender": "Girl",
-    "meaning": "Beauty, grace",
-    "origin": "Arabic",
-    "id": "ru51",
-    "verified": true
-  },
-  {
-    "name": "Ruwaaida",
-    "gender": "Girl",
-    "meaning": "Gentle, unhurried",
-    "origin": "Arabic",
-    "id": "ru52",
-    "verified": true
-  },
-  {
-    "name": "Ruwaida",
-    "gender": "Girl",
-    "meaning": "Gentle, unhurried",
-    "origin": "Arabic",
-    "id": "ru53",
-    "verified": true
-  },
-  {
-    "name": "Ruwaideh",
-    "gender": "Girl",
-    "meaning": "Gentle, unhurried",
-    "origin": "Arabic",
-    "id": "ru54",
-    "verified": true
-  },
-  {
-    "name": "Ruwaifa",
-    "gender": "Boy",
-    "meaning": "Little elevated one",
-    "origin": "Arabic",
-    "id": "ru55",
-    "verified": true
-  },
-  {
-    "name": "Ruwwad",
-    "gender": "Boy",
-    "meaning": "Pioneers, explorers",
-    "origin": "Arabic",
-    "id": "ru56",
-    "verified": true
-  },
-  {
-    "name": "Ruzanna",
-    "gender": "Girl",
-    "meaning": "Calm, composed",
-    "origin": "Russian/Arabic",
-    "id": "ru57",
-    "verified": true
-  }
+    {
+        "name": "Ruaa",
+        "gender": "Girl",
+        "meaning": "Visions, dreams",
+        "origin": "Arabic",
+        "id": "ru1",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روا",
+            "Urdu": "روآا",
+            "Persian": "روآ",
+            "Turkish": "Ruaa",
+            "Bengali": "রুয়া",
+            "Indonesian": "Ruaa",
+            "Pashto": "رووا"
+        }
+    },
+    {
+        "name": "Rubaba",
+        "gender": "Girl",
+        "meaning": "Rose",
+        "origin": "Persian",
+        "id": "ru2",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روبابا",
+            "Urdu": "ربابا۔",
+            "Persian": "روبابا",
+            "Turkish": "Rubaba",
+            "Bengali": "রুবাবা",
+            "Indonesian": "Rubaba",
+            "Pashto": "ربابا"
+        }
+    },
+    {
+        "name": "Rubaiya",
+        "gender": "Girl",
+        "meaning": "Spring season",
+        "origin": "Arabic",
+        "id": "ru3",
+        "verified": true,
+        "spellings": {
+            "Arabic": "ربيعة",
+            "Urdu": "روبایا",
+            "Persian": "رباعیه",
+            "Turkish": "Rubaiya",
+            "Bengali": "রুবাইয়া",
+            "Indonesian": "Rubaiya",
+            "Pashto": "روبایا"
+        }
+    },
+    {
+        "name": "Rubaiyah",
+        "gender": "Girl",
+        "meaning": "Spring season",
+        "origin": "Arabic",
+        "id": "ru4",
+        "verified": true,
+        "spellings": {
+            "Arabic": "ربيعة",
+            "Urdu": "روبائیہ",
+            "Persian": "ربعیه",
+            "Turkish": "Rubaiyah",
+            "Bengali": "রুবাইয়াহ",
+            "Indonesian": "Rubaiyah",
+            "Pashto": "روبایه"
+        }
+    },
+    {
+        "name": "Rubayya",
+        "gender": "Girl",
+        "meaning": "Little hill",
+        "origin": "Arabic",
+        "id": "ru5",
+        "verified": true,
+        "spellings": {
+            "Arabic": "ربيعة",
+            "Urdu": "روبیہ",
+            "Persian": "روبیه",
+            "Turkish": "Rubayya",
+            "Bengali": "রুবাইয়া",
+            "Indonesian": "Rubaiya",
+            "Pashto": "روبیه"
+        }
+    },
+    {
+        "name": "Rubayyah",
+        "gender": "Girl",
+        "meaning": "Little hill",
+        "origin": "Arabic",
+        "id": "ru6",
+        "verified": true,
+        "spellings": {
+            "Arabic": "ربيعة",
+            "Urdu": "روبیہ",
+            "Persian": "ربیه",
+            "Turkish": "Rubayyah",
+            "Bengali": "রুবাইয়াহ",
+            "Indonesian": "Rubayah",
+            "Pashto": "روبیه"
+        }
+    },
+    {
+        "name": "Ruby",
+        "gender": "Girl",
+        "meaning": "Red gemstone",
+        "origin": "Latin",
+        "id": "ru7",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روبي",
+            "Urdu": "روبی",
+            "Persian": "روبی",
+            "Turkish": "Yakut",
+            "Bengali": "রুবি",
+            "Indonesian": "Rubi",
+            "Pashto": "روبي"
+        }
+    },
+    {
+        "name": "Rudaina",
+        "gender": "Girl",
+        "meaning": "Spinning wheel",
+        "origin": "Arabic",
+        "id": "ru8",
+        "verified": true,
+        "spellings": {
+            "Arabic": "ردينة",
+            "Urdu": "رودینا",
+            "Persian": "رودینا",
+            "Turkish": "Rudaina",
+            "Bengali": "রুদাইনা",
+            "Indonesian": "Rudaina",
+            "Pashto": "رودینا"
+        }
+    },
+    {
+        "name": "Ruhiyah",
+        "gender": "Girl",
+        "meaning": "Spiritual",
+        "origin": "Arabic",
+        "id": "ru9",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روحية",
+            "Urdu": "روحیہ",
+            "Persian": "روحیه",
+            "Turkish": "Ruhiye",
+            "Bengali": "রুহিয়াহ",
+            "Indonesian": "Ruhiyah",
+            "Pashto": "روحیه"
+        }
+    },
+    {
+        "name": "Rukaida",
+        "gender": "Girl",
+        "meaning": "Gentle support",
+        "origin": "Arabic",
+        "id": "ru10",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكايدا",
+            "Urdu": "رکیدہ",
+            "Persian": "رکیده",
+            "Turkish": "Rukaida",
+            "Bengali": "রুকাইদা",
+            "Indonesian": "Rukaida",
+            "Pashto": "رقیده"
+        }
+    },
+    {
+        "name": "Rukainah",
+        "gender": "Girl",
+        "meaning": "Pillar, support",
+        "origin": "Arabic",
+        "id": "ru11",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رکینہ",
+            "Persian": "رکینه",
+            "Turkish": "Rukainah",
+            "Bengali": "রুকাইনাহ",
+            "Indonesian": "Rukainah",
+            "Pashto": "رکینه"
+        }
+    },
+    {
+        "name": "Rukaiya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru12",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukaiya",
+            "Bengali": "রুকাইয়া",
+            "Indonesian": "Rukaiya",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Rukaiyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru13",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukaiyah",
+            "Bengali": "রুকাইয়াহ",
+            "Indonesian": "Rukaiyah",
+            "Pashto": "رقیه"
+        }
+    },
+    {
+        "name": "Rukaya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru14",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رکایا",
+            "Persian": "رکایا",
+            "Turkish": "Rukaya",
+            "Bengali": "রুকায়া",
+            "Indonesian": "Rukaya",
+            "Pashto": "رکایا"
+        }
+    },
+    {
+        "name": "Rukayah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru15",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رکوع",
+            "Persian": "رکیه",
+            "Turkish": "Rukayah",
+            "Bengali": "রুকায়াহ",
+            "Indonesian": "Rukayah",
+            "Pashto": "رکوع"
+        }
+    },
+    {
+        "name": "Rukayya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru16",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukayya",
+            "Bengali": "রুকাইয়া",
+            "Indonesian": "Rukayah",
+            "Pashto": "روکایه"
+        }
+    },
+    {
+        "name": "Rukayyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru17",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukayyah",
+            "Bengali": "রুকাইয়াহ",
+            "Indonesian": "Rukayah",
+            "Pashto": "رقیه"
+        }
+    },
+    {
+        "name": "Rukhaya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru18",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رخایا",
+            "Persian": "رخایا",
+            "Turkish": "Ruhhaya",
+            "Bengali": "রুখায়া",
+            "Indonesian": "Rukhaya",
+            "Pashto": "روخیا"
+        }
+    },
+    {
+        "name": "Rukhsana Begum",
+        "gender": "Girl",
+        "meaning": "Beautiful-faced lady",
+        "origin": "Persian/Turkic",
+        "id": "ru58",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكسانا بيجوم",
+            "Urdu": "رخسانہ بیگم",
+            "Persian": "رخسانا بیگم",
+            "Turkish": "Ruhsana Begüm",
+            "Bengali": "রুখসানা বেগম",
+            "Indonesian": "Rukhsana Begum",
+            "Pashto": "رخسانه بیګم"
+        }
+    },
+    {
+        "name": "Rukhsarunnisa",
+        "gender": "Girl",
+        "meaning": "Face of women",
+        "origin": "Persian/Arabic",
+        "id": "ru59",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكسارونيسا",
+            "Urdu": "رخسار النساء",
+            "Persian": "رخسارونیسا",
+            "Turkish": "Ruhsarunnisa",
+            "Bengali": "রুখসারুননিসা",
+            "Indonesian": "Rukhsarunnisa",
+            "Pashto": "رخسارونیسه"
+        }
+    },
+    {
+        "name": "Rukhshan",
+        "gender": "Boy",
+        "meaning": "Dazzling, shining",
+        "origin": "Persian",
+        "id": "ru19",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رخشان",
+            "Urdu": "رخشان",
+            "Persian": "رخشان",
+            "Turkish": "Ruhşan",
+            "Bengali": "রুখশান",
+            "Indonesian": "Rukhshan",
+            "Pashto": "رخشانه"
+        }
+    },
+    {
+        "name": "Rukhshana",
+        "gender": "Girl",
+        "meaning": "Brilliant, beautiful",
+        "origin": "Persian",
+        "id": "ru20",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رخشانا",
+            "Urdu": "رخسانہ",
+            "Persian": "رخشانا",
+            "Turkish": "Ruhshana",
+            "Bengali": "রুখশানা",
+            "Indonesian": "Rukhshana",
+            "Pashto": "رخشانه"
+        }
+    },
+    {
+        "name": "Rukhshanda",
+        "gender": "Girl",
+        "meaning": "Shining, brilliant",
+        "origin": "Persian",
+        "id": "ru21",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روخشاندا",
+            "Urdu": "رخشندہ",
+            "Persian": "رخشاندا",
+            "Turkish": "Ruhshanda",
+            "Bengali": "রুখশানদা",
+            "Indonesian": "Rukhshanda",
+            "Pashto": "رخشنده"
+        }
+    },
+    {
+        "name": "Rukhshannah",
+        "gender": "Girl",
+        "meaning": "Brilliant, beautiful",
+        "origin": "Persian",
+        "id": "ru22",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رخشانة",
+            "Urdu": "رخشنہ",
+            "Persian": "رخشانه",
+            "Turkish": "Rukhshannah",
+            "Bengali": "রুখশান্নাহ",
+            "Indonesian": "Rukhshannah",
+            "Pashto": "رخشانه"
+        }
+    },
+    {
+        "name": "Rukiah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru23",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukiah",
+            "Bengali": "রুকিয়াহ",
+            "Indonesian": "Rukia",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Rukiyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru24",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رکیه",
+            "Turkish": "Rukiye",
+            "Bengali": "রুকিয়াহ",
+            "Indonesian": "Rukiyah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Rukmini",
+        "gender": "Girl",
+        "meaning": "Adorned with gold",
+        "origin": "Sanskrit",
+        "id": "ru25",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكميني",
+            "Urdu": "رکمنی۔",
+            "Persian": "روکمینی",
+            "Turkish": "Rukmini",
+            "Bengali": "রুক্মিণী",
+            "Indonesian": "Rukmini",
+            "Pashto": "رکمني"
+        }
+    },
+    {
+        "name": "Rukminiyah",
+        "gender": "Girl",
+        "meaning": "Adorned with gold",
+        "origin": "Sanskrit",
+        "id": "ru26",
+        "verified": true,
+        "spellings": {
+            "Arabic": "الركمانية",
+            "Urdu": "رکمنیہ",
+            "Persian": "رکمینیه",
+            "Turkish": "Rukminiyah",
+            "Bengali": "রুক্মিনিয়াহ",
+            "Indonesian": "Rukminiyah",
+            "Pashto": "رکمنیه"
+        }
+    },
+    {
+        "name": "Ruksana",
+        "gender": "Girl",
+        "meaning": "Beautiful-faced",
+        "origin": "Persian",
+        "id": "ru60",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكسانا",
+            "Urdu": "رخسانہ",
+            "Persian": "رکسانا",
+            "Turkish": "Ruksana",
+            "Bengali": "রুকসানা",
+            "Indonesian": "Ruksana",
+            "Pashto": "رخسانه"
+        }
+    },
+    {
+        "name": "Ruksar",
+        "gender": "Girl",
+        "meaning": "Cheek, face",
+        "origin": "Persian",
+        "id": "ru27",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكسار",
+            "Urdu": "رخسار",
+            "Persian": "رکسار",
+            "Turkish": "Ruksar",
+            "Bengali": "রুকসার",
+            "Indonesian": "Ruksa",
+            "Pashto": "رخسار"
+        }
+    },
+    {
+        "name": "Rula",
+        "gender": "Girl",
+        "meaning": "Name of an Arab tribe",
+        "origin": "Arabic",
+        "id": "ru28",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رولا",
+            "Urdu": "رولا",
+            "Persian": "رولا",
+            "Turkish": "Kural",
+            "Bengali": "রুলা",
+            "Indonesian": "Aturan",
+            "Pashto": "رولا"
+        }
+    },
+    {
+        "name": "Rumaan",
+        "gender": "Boy",
+        "meaning": "Pomegranate",
+        "origin": "Arabic",
+        "id": "ru29",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رومان",
+            "Urdu": "رومان",
+            "Persian": "رومان",
+            "Turkish": "Rumen",
+            "Bengali": "রুমান",
+            "Indonesian": "Rumaan",
+            "Pashto": "رومان"
+        }
+    },
+    {
+        "name": "Rumaiyah",
+        "gender": "Girl",
+        "meaning": "Little archer",
+        "origin": "Arabic",
+        "id": "ru30",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رمية",
+            "Urdu": "رومیہ",
+            "Persian": "رمیه",
+            "Turkish": "Rumaiyah",
+            "Bengali": "রুমাইয়াহ",
+            "Indonesian": "Rumaiyah",
+            "Pashto": "روميه"
+        }
+    },
+    {
+        "name": "Ruqaiya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru31",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqaiya",
+            "Bengali": "রুকাইয়া",
+            "Indonesian": "Ruqaiya",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqaiyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru32",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqaiyah",
+            "Bengali": "রুকাইয়াহ",
+            "Indonesian": "Ruqaiyah",
+            "Pashto": "رقیه"
+        }
+    },
+    {
+        "name": "Ruqaya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru33",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Rukaya",
+            "Bengali": "রুকায়া",
+            "Indonesian": "Ruqaya",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqayah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru34",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Rukaya",
+            "Bengali": "রুকায়াহ",
+            "Indonesian": "Ruqayah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqaiyah",
+        "gender": "Girl",
+        "meaning": "Gentle, ascent",
+        "origin": "Arabic",
+        "id": "ru61",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقعیه",
+            "Turkish": "Ruqqaiyah",
+            "Bengali": "রুক্কাইয়াহ",
+            "Indonesian": "Ruqqaiyah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqaya",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru35",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqaya",
+            "Bengali": "রুক্কায়া",
+            "Indonesian": "Ruqqaya",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqayaah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru36",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqayaah",
+            "Bengali": "রুক্কায়াহ",
+            "Indonesian": "Ruqqayaah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqayah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru37",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqayah",
+            "Bengali": "রুক্কায়াহ",
+            "Indonesian": "Ruqqayah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqayya",
+        "gender": "Girl",
+        "meaning": "Gentle, ascent",
+        "origin": "Arabic",
+        "id": "ru62",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqayya",
+            "Bengali": "রুক্কায়া",
+            "Indonesian": "Ruqqayya",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqayyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru38",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqayyah",
+            "Bengali": "রুক্কায়্যাহ",
+            "Indonesian": "Ruqqayyah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqiah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru39",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqiah",
+            "Bengali": "রুককিয়াহ",
+            "Indonesian": "Ruqqiah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqqiyah",
+        "gender": "Girl",
+        "meaning": "Ascent, gentle",
+        "origin": "Arabic",
+        "id": "ru40",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqqiyah",
+            "Bengali": "রুককিয়াহ",
+            "Indonesian": "Ruqqiyah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Ruqsan",
+        "gender": "Girl",
+        "meaning": "Beautiful-faced",
+        "origin": "Persian",
+        "id": "ru63",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقسان",
+            "Urdu": "رخسان",
+            "Persian": "رقسان",
+            "Turkish": "Ruksan",
+            "Bengali": "রুকসান",
+            "Indonesian": "Ruqsan",
+            "Pashto": "رخسان"
+        }
+    },
+    {
+        "name": "Ruqsana",
+        "gender": "Girl",
+        "meaning": "Brilliant, shining",
+        "origin": "Persian",
+        "id": "ru41",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقسانة",
+            "Urdu": "رخسانہ",
+            "Persian": "رقصانه",
+            "Turkish": "Ruksana",
+            "Bengali": "রুকসানা",
+            "Indonesian": "Ruqsana",
+            "Pashto": "رخسانه"
+        }
+    },
+    {
+        "name": "Ruqsar",
+        "gender": "Girl",
+        "meaning": "Cheek, face",
+        "origin": "Persian",
+        "id": "ru42",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روكسار",
+            "Urdu": "رخسار",
+            "Persian": "رقصر",
+            "Turkish": "Ruksar",
+            "Bengali": "রুকসার",
+            "Indonesian": "Ruqsar",
+            "Pashto": "رخسار"
+        }
+    },
+    {
+        "name": "Ruqsaya",
+        "gender": "Girl",
+        "meaning": "Brilliant, shining",
+        "origin": "Persian",
+        "id": "ru43",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقسيا",
+            "Urdu": "رخسایا",
+            "Persian": "رقصیا",
+            "Turkish": "Ruksaya",
+            "Bengali": "রুকসায়া",
+            "Indonesian": "Ruqsaya",
+            "Pashto": "رقصایا"
+        }
+    },
+    {
+        "name": "Ruqsayya",
+        "gender": "Girl",
+        "meaning": "Brilliant, shining",
+        "origin": "Persian",
+        "id": "ru44",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رخسیہ",
+            "Persian": "رقصیا",
+            "Turkish": "Ruksayya",
+            "Bengali": "রুকসাইয়া",
+            "Indonesian": "Ruqsayya",
+            "Pashto": "رقصایا"
+        }
+    },
+    {
+        "name": "Ruqsayyah",
+        "gender": "Girl",
+        "meaning": "Brilliant, shining",
+        "origin": "Persian",
+        "id": "ru45",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رخسیہ",
+            "Persian": "رقصیه",
+            "Turkish": "Ruksayyah",
+            "Bengali": "রুকসাইয়াহ",
+            "Indonesian": "Ruqsayyah",
+            "Pashto": "رقعه"
+        }
+    },
+    {
+        "name": "Ruqyah",
+        "gender": "Girl",
+        "meaning": "Spell, charm, recitation",
+        "origin": "Arabic",
+        "id": "ru46",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رقية",
+            "Urdu": "رقیہ",
+            "Persian": "رقیه",
+            "Turkish": "Ruqyah",
+            "Bengali": "রুকিয়াহ",
+            "Indonesian": "Ruqyah",
+            "Pashto": "رقيه"
+        }
+    },
+    {
+        "name": "Rushdiya",
+        "gender": "Girl",
+        "meaning": "Rightly guided",
+        "origin": "Arabic",
+        "id": "ru47",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رشدية",
+            "Urdu": "رشدیہ",
+            "Persian": "رشدیا",
+            "Turkish": "Rüşdiye",
+            "Bengali": "রুশদিয়া",
+            "Indonesian": "Rusydiya",
+            "Pashto": "رشتیا"
+        }
+    },
+    {
+        "name": "Rushdiyah",
+        "gender": "Girl",
+        "meaning": "Rightly guided",
+        "origin": "Arabic",
+        "id": "ru48",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رشدية",
+            "Urdu": "رشدیہ",
+            "Persian": "رشدیه",
+            "Turkish": "Rüşdiye",
+            "Bengali": "রুশদিয়াহ",
+            "Indonesian": "Rusydiyah",
+            "Pashto": "رشدیه"
+        }
+    },
+    {
+        "name": "Rustom",
+        "gender": "Boy",
+        "meaning": "Strong, brave",
+        "origin": "Persian",
+        "id": "ru49",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رستم",
+            "Urdu": "رستم",
+            "Persian": "رستم",
+            "Turkish": "Rustom",
+            "Bengali": "রুস্তম",
+            "Indonesian": "Rustom",
+            "Pashto": "رستم"
+        }
+    },
+    {
+        "name": "Rustum",
+        "gender": "Boy",
+        "meaning": "Strong, brave",
+        "origin": "Persian",
+        "id": "ru50",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رستم",
+            "Urdu": "رستم",
+            "Persian": "رستم",
+            "Turkish": "Rüstem",
+            "Bengali": "রুস্তুম",
+            "Indonesian": "Rustum",
+            "Pashto": "رستم"
+        }
+    },
+    {
+        "name": "Ruwa",
+        "gender": "Girl",
+        "meaning": "Beauty, grace",
+        "origin": "Arabic",
+        "id": "ru51",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روا",
+            "Urdu": "رووا",
+            "Persian": "روا",
+            "Turkish": "Ruva",
+            "Bengali": "রুওয়া",
+            "Indonesian": "Ruwa",
+            "Pashto": "رووا"
+        }
+    },
+    {
+        "name": "Ruwaaida",
+        "gender": "Girl",
+        "meaning": "Gentle, unhurried",
+        "origin": "Arabic",
+        "id": "ru52",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رويدة",
+            "Urdu": "روائیدہ",
+            "Persian": "رواعده",
+            "Turkish": "Ruwaaida",
+            "Bengali": "রুওয়াইদা",
+            "Indonesian": "Ruwaaida",
+            "Pashto": "رواییده"
+        }
+    },
+    {
+        "name": "Ruwaida",
+        "gender": "Girl",
+        "meaning": "Gentle, unhurried",
+        "origin": "Arabic",
+        "id": "ru53",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رويدا",
+            "Urdu": "رویدہ",
+            "Persian": "روایده",
+            "Turkish": "Ruwaida",
+            "Bengali": "রুওয়াইদা",
+            "Indonesian": "Ruwaida",
+            "Pashto": "رویدا"
+        }
+    },
+    {
+        "name": "Ruwaideh",
+        "gender": "Girl",
+        "meaning": "Gentle, unhurried",
+        "origin": "Arabic",
+        "id": "ru54",
+        "verified": true,
+        "spellings": {
+            "Arabic": "الرويضة",
+            "Urdu": "روائیدہ",
+            "Persian": "رویده",
+            "Turkish": "Ruwaideh",
+            "Bengali": "রুওয়াইদেহ",
+            "Indonesian": "Ruwaideh",
+            "Pashto": "رواییده"
+        }
+    },
+    {
+        "name": "Ruwaifa",
+        "gender": "Boy",
+        "meaning": "Little elevated one",
+        "origin": "Arabic",
+        "id": "ru55",
+        "verified": true,
+        "spellings": {
+            "Arabic": "الرويفة",
+            "Urdu": "روائیفہ",
+            "Persian": "روویفه",
+            "Turkish": "Ruveyfa",
+            "Bengali": "রুওয়াইফা",
+            "Indonesian": "Ruwaifa",
+            "Pashto": "رويفا"
+        }
+    },
+    {
+        "name": "Ruwwad",
+        "gender": "Boy",
+        "meaning": "Pioneers, explorers",
+        "origin": "Arabic",
+        "id": "ru56",
+        "verified": true,
+        "spellings": {
+            "Arabic": "رواد",
+            "Urdu": "رواد",
+            "Persian": "رواد",
+            "Turkish": "Ruwwad",
+            "Bengali": "রুওয়াদ",
+            "Indonesian": "Ruwwad",
+            "Pashto": "روواد"
+        }
+    },
+    {
+        "name": "Ruzanna",
+        "gender": "Girl",
+        "meaning": "Calm, composed",
+        "origin": "Russian/Arabic",
+        "id": "ru57",
+        "verified": true,
+        "spellings": {
+            "Arabic": "روزانا",
+            "Urdu": "روزانا",
+            "Persian": "روزانا",
+            "Turkish": "Ruzanna",
+            "Bengali": "রুজানা",
+            "Indonesian": "Ruzanna",
+            "Pashto": "روزانه"
+        }
+    }
 ]
