@@ -195,7 +195,16 @@
     "meaning": "Father of a multitude (Abraham)",
     "origin": "Arabic",
     "id": "ib1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابراهيم",
+      "Urdu": "ابراہیم",
+      "Persian": "ابراهیم",
+      "Turkish": "İbrahim",
+      "Bengali": "ইব্রাহিম",
+      "Indonesian": "Ibrahim",
+      "Pashto": "ابراهیم"
+    }
   },
   {
     "name": "Ibrahim",
@@ -237,7 +246,16 @@
     "meaning": "Helpful, peaceful",
     "origin": "Arabic",
     "id": "ib2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابرار",
+      "Urdu": "ابرار",
+      "Persian": "ایبرار",
+      "Turkish": "İbrar",
+      "Bengali": "ইবরার",
+      "Indonesian": "Ibrar",
+      "Pashto": "ابرار"
+    }
   },
   {
     "name": "Ibreeseem",
@@ -385,7 +403,16 @@
     "meaning": "Smile",
     "origin": "Arabic",
     "id": "ib3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابتسام",
+      "Urdu": "ابتسام",
+      "Persian": "ابتصام",
+      "Turkish": "İbtissam",
+      "Bengali": "ইবতিসাম",
+      "Indonesian": "Ibtissam",
+      "Pashto": "ابتسام"
+    }
   },
   {
     "name": "Iceem",
@@ -634,7 +661,16 @@
     "meaning": "Chaste forehead",
     "origin": "Arabic/Persian",
     "id": "if1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عفت جابين",
+      "Urdu": "عفت جبین",
+      "Persian": "عفت جبین",
+      "Turkish": "Iffat Jabeen",
+      "Bengali": "ইফফাত জাবীন",
+      "Indonesian": "Iffat Jabeen",
+      "Pashto": "عفت جبین"
+    }
   },
   {
     "name": "Ifra",
@@ -936,7 +972,16 @@
     "meaning": "Permission, certificate",
     "origin": "Arabic",
     "id": "ij1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إجازة",
+      "Urdu": "اعجازہ",
+      "Persian": "ایجازه",
+      "Turkish": "Ijazah",
+      "Bengali": "ইজাযাহ",
+      "Indonesian": "Ijazah",
+      "Pashto": "اعجازه"
+    }
   },
   {
     "name": "Ijlal",
@@ -1461,7 +1506,16 @@
     "meaning": "Prophet's name and Praised",
     "origin": "Arabic",
     "id": "il1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إلياس أحمد",
+      "Urdu": "الیاس احمد",
+      "Persian": "الیاس احمد",
+      "Turkish": "İlyas Ahmed",
+      "Bengali": "ইলিয়াস আহমেদ",
+      "Indonesian": "Ilyas Ahmad",
+      "Pashto": "الیاس احمد"
+    }
   },
   {
     "name": "Ilyasah",
@@ -1952,7 +2006,16 @@
     "meaning": "Empathy, care",
     "origin": "Arabic",
     "id": "in1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عناية",
+      "Urdu": "عنایہ",
+      "Persian": "اینایا",
+      "Turkish": "Inaaya",
+      "Bengali": "ইনায়া",
+      "Indonesian": "Inaaya",
+      "Pashto": "انایا"
+    }
   },
   {
     "name": "Inab",
@@ -2254,7 +2317,16 @@
     "meaning": "Beautiful",
     "origin": "Old Norse",
     "id": "in2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "انغريد",
+      "Urdu": "انگرڈ",
+      "Persian": "اینگرید",
+      "Turkish": "Ingrid",
+      "Bengali": "ইনগ্রিড",
+      "Indonesian": "Ingrid",
+      "Pashto": "انګریډ"
+    }
   },
   {
     "name": "Insaf",
@@ -2296,7 +2368,16 @@
     "meaning": "Creation of God",
     "origin": "Arabic",
     "id": "in3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إنشاءات",
+      "Urdu": "انشا",
+      "Persian": "انشاا",
+      "Turkish": "İnşaa",
+      "Bengali": "ইনশা",
+      "Indonesian": "Insyaa",
+      "Pashto": "انشاالله"
+    }
   },
   {
     "name": "Inshah",
@@ -2790,7 +2871,16 @@
     "meaning": "Knowledge, wisdom",
     "origin": "Arabic",
     "id": "ir1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عرفان",
+      "Urdu": "عرفان",
+      "Persian": "عرفان",
+      "Turkish": "İrfaan",
+      "Bengali": "ইরফান",
+      "Indonesian": "Irfaan",
+      "Pashto": "عرفان"
+    }
   },
   {
     "name": "Irfan",
@@ -3143,7 +3233,16 @@
     "meaning": "A Prophet's name (Isaac)",
     "origin": "Arabic",
     "id": "is1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إسحاق",
+      "Urdu": "اسحاق",
+      "Persian": "اسحاق",
+      "Turkish": "İshak",
+      "Bengali": "ইসহাক",
+      "Indonesian": "Ishaaq",
+      "Pashto": "اسحاق"
+    }
   },
   {
     "name": "Ishac",
@@ -3271,7 +3370,16 @@
     "meaning": "Radiance, sunrise",
     "origin": "Arabic",
     "id": "is2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إشراقة",
+      "Urdu": "اشراق",
+      "Persian": "اشراقه",
+      "Turkish": "İşraka",
+      "Bengali": "ইশরাকাহ",
+      "Indonesian": "Ishraqah",
+      "Pashto": "اشراقه"
+    }
   },
   {
     "name": "Ishrat",
