@@ -1,2536 +1,3266 @@
 [
-    {
-        "name": "Ya'Roob",
-        "gender": "Boy",
-        "meaning": "Ancient Arab",
-        "origin": "Arabic",
-        "id": "ya23_var",
-        "verified": true,
-        "variant_of": "Ya'rub",
-        "spellings": {
-            "Arabic": "يعرب",
-            "Urdu": "یاروب",
-            "Persian": "یاروب",
-            "Turkish": "Ya'Roob",
-            "Bengali": "ইয়া'রুব",
-            "Indonesian": "Ya'Roob",
-            "Pashto": "ياروب"
-        }
-    },
-    {
-        "name": "Ya'Rub",
-        "gender": "Boy",
-        "meaning": "Ancient Arab",
-        "origin": "Arabic",
-        "id": "ya23",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعرب",
-            "Urdu": "یارب",
-            "Persian": "یاروب",
-            "Turkish": "Ya'Rub",
-            "Bengali": "ইয়া'রুব",
-            "Indonesian": "Ya'Rub",
-            "Pashto": "يارب"
-        }
-    },
-    {
-        "name": "Ya'Smeen",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Arabic",
-        "id": "ya24_var",
-        "verified": true,
-        "variant_of": "Ya'smin",
-        "spellings": {
-            "Arabic": "ياسين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمین",
-            "Turkish": "Ya'Smeen",
-            "Bengali": "ইয়া'সমিন",
-            "Indonesian": "Ya'Smeen",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "name": "Ya'Smin",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Arabic",
-        "id": "ya24",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمین",
-            "Turkish": "Ya'Smin",
-            "Bengali": "ইয়া'স্মিন",
-            "Indonesian": "Ya'Smin",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "name": "Ya'Soob",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Arabic",
-        "id": "ya25_var",
-        "verified": true,
-        "variant_of": "Ya'sub",
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یاسوب",
-            "Persian": "یاسوب",
-            "Turkish": "Ya'Soob",
-            "Bengali": "ইয়া'সুব",
-            "Indonesian": "Ya'Soob",
-            "Pashto": "یاسوب"
-        }
-    },
-    {
-        "name": "Ya'Sub",
-        "gender": "Boy",
-        "meaning": "Leader",
-        "origin": "Arabic",
-        "id": "ya25",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یاسب",
-            "Persian": "یاساب",
-            "Turkish": "Ya'Sub",
-            "Bengali": "ইয়া'সাব",
-            "Indonesian": "Ya'Sub",
-            "Pashto": "یاسوب"
-        }
-    },
-    {
-        "name": "Yaafeer",
-        "gender": "Boy",
-        "meaning": "Name of a Sahabi",
-        "origin": "Arabic",
-        "id": "ya26_var",
-        "verified": true,
-        "variant_of": "Yaafir",
-        "spellings": {
-            "Arabic": "يعفير",
-            "Urdu": "یافیر",
-            "Persian": "یافر",
-            "Turkish": "Yaafer",
-            "Bengali": "ইয়াফির",
-            "Indonesian": "Yaafeer",
-            "Pashto": "یافیر"
-        }
-    },
-    {
-        "name": "Yaafir",
-        "gender": "Boy",
-        "meaning": "Name of a Sahabi",
-        "origin": "Arabic",
-        "id": "ya26",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعفير",
-            "Urdu": "یافر",
-            "Persian": "یافیر",
-            "Turkish": "Yaafir",
-            "Bengali": "ইয়াফির",
-            "Indonesian": "Yaafir",
-            "Pashto": "یافر"
-        }
-    },
-    {
-        "name": "Yaameen",
-        "gender": "Boy",
-        "meaning": "Blessed",
-        "origin": "Arabic",
-        "id": "ya27_var",
-        "verified": true,
-        "variant_of": "Yaamin",
-        "spellings": {
-            "Arabic": "يامين",
-            "Urdu": "یامین",
-            "Persian": "یاامین",
-            "Turkish": "Yaameen",
-            "Bengali": "ইয়ামিন",
-            "Indonesian": "Yaamin",
-            "Pashto": "یامین"
-        }
-    },
-    {
-        "name": "Yaamin",
-        "gender": "Boy",
-        "meaning": "Blessed",
-        "origin": "Arabic",
-        "id": "ya27",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يامين",
-            "Urdu": "یامین",
-            "Persian": "یاامین",
-            "Turkish": "Yaamin",
-            "Bengali": "ইয়ামিন",
-            "Indonesian": "yamin",
-            "Pashto": "یامین"
-        }
-    },
-    {
-        "name": "Yaasar",
-        "gender": "Boy",
-        "meaning": "Wealth",
-        "origin": "Arabic",
-        "id": "ya28",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسار",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yaşar",
-            "Bengali": "ইয়াসার",
-            "Indonesian": "Yaasar",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "name": "Yaaseer",
-        "gender": "Boy",
-        "meaning": "Rich",
-        "origin": "Arabic",
-        "id": "ya29_var",
-        "verified": true,
-        "variant_of": "Yaasir",
-        "spellings": {
-            "Arabic": "ياسير",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yaaseer",
-            "Bengali": "ইয়াসির",
-            "Indonesian": "Yaaseer",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "name": "Yaasir",
-        "gender": "Boy",
-        "meaning": "Rich",
-        "origin": "Arabic",
-        "id": "ya29",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسر",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yaşar",
-            "Bengali": "ইয়াসির",
-            "Indonesian": "Yaasir",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "name": "Yafa",
-        "gender": "Girl",
-        "meaning": "Jaffa (City in Palestine)",
-        "origin": "Arabic",
-        "id": "ya29",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يافا",
-            "Urdu": "یافا",
-            "Persian": "یافا",
-            "Turkish": "Yafa",
-            "Bengali": "ইয়াফা",
-            "Indonesian": "Yafa",
-            "Pashto": "یافا"
-        }
-    },
-    {
-        "name": "Yafah",
-        "gender": "Girl",
-        "meaning": "Jaffa (City in Palestine)",
-        "origin": "Arabic",
-        "id": "ya29_var",
-        "verified": true,
-        "variant_of": "Yafa",
-        "spellings": {
-            "Arabic": "يافع",
-            "Urdu": "یافہ",
-            "Persian": "یفا",
-            "Turkish": "Yafah",
-            "Bengali": "ইয়াফাহ",
-            "Indonesian": "Yafah",
-            "Pashto": "یافه"
-        }
-    },
-    {
-        "id": "ya1_var",
-        "name": "Yafeeah",
-        "gender": "Girl",
-        "meaning": "High, youthful",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yafiah",
-        "spellings": {
-            "Arabic": "اليافعي",
-            "Urdu": "یافیہ",
-            "Persian": "یافیه",
-            "Turkish": "Yafeeah",
-            "Bengali": "ইয়াফিআহ",
-            "Indonesian": "Yafeeah",
-            "Pashto": "يافيه"
-        }
-    },
-    {
-        "id": "ya1",
-        "name": "Yafiah",
-        "gender": "Girl",
-        "meaning": "High, youthful",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يافيه",
-            "Urdu": "یافیہ",
-            "Persian": "یافیه",
-            "Turkish": "Yafiah",
-            "Bengali": "ইয়াফিয়াহ",
-            "Indonesian": "Yafiah",
-            "Pashto": "یافیه"
-        }
-    },
-    {
-        "name": "Yagmoor",
-        "gender": "Unisex",
-        "meaning": "Rain",
-        "origin": "Turkish",
-        "id": "ya30_var",
-        "verified": true,
-        "variant_of": "Yagmur",
-        "spellings": {
-            "Arabic": "يغمور",
-            "Urdu": "یگمور",
-            "Persian": "یاگمور",
-            "Turkish": "Yagmoor",
-            "Bengali": "ইয়াগমুর",
-            "Indonesian": "Yagmoor",
-            "Pashto": "یاګمور"
-        }
-    },
-    {
-        "name": "Yagmur",
-        "gender": "Unisex",
-        "meaning": "Rain",
-        "origin": "Turkish",
-        "id": "ya30",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يغمور",
-            "Urdu": "یگمور",
-            "Persian": "یاگمور",
-            "Turkish": "Yağmur",
-            "Bengali": "ইয়াগমুর",
-            "Indonesian": "Yagmur",
-            "Pashto": "یاګمور"
-        }
-    },
-    {
-        "id": "ya2",
-        "name": "Yahya",
-        "gender": "Boy",
-        "meaning": "To live; Prophet John (the Baptist)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يحيى",
-            "Urdu": "یحییٰ",
-            "Persian": "یحیی",
-            "Turkish": "Yahya",
-            "Bengali": "ইয়াহিয়া",
-            "Indonesian": "Yahya",
-            "Pashto": "یحیی"
-        }
-    },
-    {
-        "id": "ya2_var",
-        "name": "Yahyah",
-        "gender": "Boy",
-        "meaning": "To live; Prophet John (the Baptist)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yahya",
-        "spellings": {
-            "Arabic": "يحيى",
-            "Urdu": "یحییٰ",
-            "Persian": "یحیی",
-            "Turkish": "Yahya",
-            "Bengali": "ইয়াহিয়া",
-            "Indonesian": "Yahya",
-            "Pashto": "یحیی"
-        }
-    },
-    {
-        "name": "Yakhoot",
-        "gender": "Girl",
-        "meaning": "Ruby",
-        "origin": "Quranic",
-        "id": "ya31_var",
-        "verified": true,
-        "variant_of": "Yakhut",
-        "spellings": {
-            "Arabic": "يخوت",
-            "Urdu": "یاخوت",
-            "Persian": "یاخوت",
-            "Turkish": "Yakhoot",
-            "Bengali": "ইয়াখুত",
-            "Indonesian": "Yakhoot",
-            "Pashto": "یاخوت"
-        }
-    },
-    {
-        "name": "Yakhut",
-        "gender": "Girl",
-        "meaning": "Ruby",
-        "origin": "Quranic",
-        "id": "ya31",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يخوت",
-            "Urdu": "یاخوت",
-            "Persian": "یاخوت",
-            "Turkish": "Yahut",
-            "Bengali": "ইয়াখুত",
-            "Indonesian": "Yakhut",
-            "Pashto": "یاخوت"
-        }
-    },
-    {
-        "id": "ya3_var",
-        "name": "Yakoob",
-        "gender": "Boy",
-        "meaning": "Prophet Jacob (Variant of Yaqub)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yakub",
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یعقوب",
-            "Persian": "یعقوب",
-            "Turkish": "Yakoob",
-            "Bengali": "ইয়াকুব",
-            "Indonesian": "Yakoob",
-            "Pashto": "یعقوب"
-        }
-    },
-    {
-        "id": "ya3",
-        "name": "Yakub",
-        "gender": "Boy",
-        "meaning": "Prophet Jacob (Variant of Yaqub)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یعقوب",
-            "Persian": "یعقوب",
-            "Turkish": "Yakub",
-            "Bengali": "ইয়াকুব",
-            "Indonesian": "Yakub",
-            "Pashto": "یعقوب"
-        }
-    },
-    {
-        "name": "Yaleen",
-        "gender": "Boy",
-        "meaning": "Simple; Pure",
-        "origin": "Turkish",
-        "id": "ya3_var",
-        "verified": true,
-        "variant_of": "Yalin",
-        "spellings": {
-            "Arabic": "يالين",
-            "Urdu": "یالین",
-            "Persian": "یالین",
-            "Turkish": "Yaleen",
-            "Bengali": "ইয়ালিন",
-            "Indonesian": "Yaleen",
-            "Pashto": "یالین"
-        }
-    },
-    {
-        "id": "ya4_var",
-        "name": "Yaleena",
-        "gender": "Girl",
-        "meaning": "Soft, gentle",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yalina",
-        "spellings": {
-            "Arabic": "يالينا",
-            "Urdu": "یالینا",
-            "Persian": "یالینا",
-            "Turkish": "Yaleena",
-            "Bengali": "ইয়ালিনা",
-            "Indonesian": "Yaleena",
-            "Pashto": "یالینا"
-        }
-    },
-    {
-        "name": "Yalin",
-        "gender": "Boy",
-        "meaning": "Simple; Pure",
-        "origin": "Turkish",
-        "id": "ya3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يالين",
-            "Urdu": "یالین",
-            "Persian": "یالین",
-            "Turkish": "Yalın",
-            "Bengali": "ইয়ালিন",
-            "Indonesian": "Yalin",
-            "Pashto": "یالین"
-        }
-    },
-    {
-        "id": "ya4",
-        "name": "Yalina",
-        "gender": "Girl",
-        "meaning": "Soft, gentle",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يالينا",
-            "Urdu": "یالینا",
-            "Persian": "یالینا",
-            "Turkish": "Yalina",
-            "Bengali": "ইয়ালিনা",
-            "Indonesian": "Yalina",
-            "Pashto": "یالینا"
-        }
-    },
-    {
-        "id": "ya4_var",
-        "name": "Yalinah",
-        "gender": "Girl",
-        "meaning": "Soft, gentle",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yalina",
-        "spellings": {
-            "Arabic": "يالينا",
-            "Urdu": "یالینہ",
-            "Persian": "یالینه",
-            "Turkish": "Yalinah",
-            "Bengali": "ইয়ালিনাঃ",
-            "Indonesian": "Yalinah",
-            "Pashto": "یالینه"
-        }
-    },
-    {
-        "id": "ya5_var",
-        "name": "Yalqoot",
-        "gender": "Girl",
-        "meaning": "Ruby",
-        "origin": "Persian",
-        "verified": true,
-        "variant_of": "Yalqut",
-        "spellings": {
-            "Arabic": "يالقوت",
-            "Urdu": "یاقوت",
-            "Persian": "یاقوت",
-            "Turkish": "Yalkut",
-            "Bengali": "ইয়ালকূট",
-            "Indonesian": "Yalqoot",
-            "Pashto": "یاقوت"
-        }
-    },
-    {
-        "id": "ya5",
-        "name": "Yalqut",
-        "gender": "Girl",
-        "meaning": "Ruby",
-        "origin": "Persian",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يالقوت",
-            "Urdu": "یالقوت",
-            "Persian": "یاقوت",
-            "Turkish": "Yalkut",
-            "Bengali": "ইয়ালকুত",
-            "Indonesian": "Yalqut",
-            "Pashto": "یالقوت"
-        }
-    },
-    {
-        "id": "ya6",
-        "name": "Yama",
-        "gender": "Boy",
-        "meaning": "Mountain",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياما",
-            "Urdu": "یما",
-            "Persian": "یاما",
-            "Turkish": "Yama",
-            "Bengali": "যম",
-            "Indonesian": "Yama",
-            "Pashto": "یما"
-        }
-    },
-    {
-        "id": "ya6_var",
-        "name": "Yamah",
-        "gender": "Boy",
-        "meaning": "Mountain",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yama",
-        "spellings": {
-            "Arabic": "ياماه",
-            "Urdu": "یمامہ",
-            "Persian": "یاما",
-            "Turkish": "Yama",
-            "Bengali": "ইয়ামাহ",
-            "Indonesian": "Yamah",
-            "Pashto": "یمه"
-        }
-    },
-    {
-        "name": "Yamam",
-        "gender": "Girl",
-        "meaning": "Doves",
-        "origin": "Arabic",
-        "id": "ya32",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يامام",
-            "Urdu": "یمام",
-            "Persian": "یامام",
-            "Turkish": "Yamam",
-            "Bengali": "ইয়ামাম",
-            "Indonesian": "Yamam",
-            "Pashto": "یمام"
-        }
-    },
-    {
-        "id": "ya7",
-        "name": "Yaman",
-        "gender": "Boy",
-        "meaning": "Blessed; From Yemen",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يامان",
-            "Urdu": "یمان",
-            "Persian": "یامان",
-            "Turkish": "Yaman",
-            "Bengali": "ইয়ামান",
-            "Indonesian": "Yaman",
-            "Pashto": "يمن"
-        }
-    },
-    {
-        "id": "ya8",
-        "name": "Yameen",
-        "gender": "Boy",
-        "meaning": "Right hand, oath",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يمين",
-            "Urdu": "یامین",
-            "Persian": "یمین",
-            "Turkish": "Yameen",
-            "Bengali": "ইয়ামিন",
-            "Indonesian": "Yamin",
-            "Pashto": "یامین"
-        }
-    },
-    {
-        "id": "ya10_var",
-        "name": "Yameena",
-        "gender": "Girl",
-        "meaning": "Right, proper, blessed",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yamina",
-        "spellings": {
-            "Arabic": "يمينه",
-            "Urdu": "یامینہ",
-            "Persian": "یمینا",
-            "Turkish": "Yameena",
-            "Bengali": "ইয়ামীনা",
-            "Indonesian": "Yameena",
-            "Pashto": "یامینه"
-        }
-    },
-    {
-        "id": "ya9",
-        "name": "Yamin",
-        "gender": "Boy",
-        "meaning": "Right hand",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يامين",
-            "Urdu": "یامین",
-            "Persian": "یامین",
-            "Turkish": "Yamin",
-            "Bengali": "ইয়ামিন",
-            "Indonesian": "yamin",
-            "Pashto": "یامین"
-        }
-    },
-    {
-        "id": "ya10",
-        "name": "Yamina",
-        "gender": "Girl",
-        "meaning": "Right, proper, blessed",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يامينا",
-            "Urdu": "یامینہ",
-            "Persian": "یامینا",
-            "Turkish": "Yamina",
-            "Bengali": "ইয়ামিনা",
-            "Indonesian": "yamina",
-            "Pashto": "یامینه"
-        }
-    },
-    {
-        "id": "ya10_var",
-        "name": "Yaminah",
-        "gender": "Girl",
-        "meaning": "Right, proper, blessed",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yamina",
-        "spellings": {
-            "Arabic": "يمينة",
-            "Urdu": "یامینہ",
-            "Persian": "یمینه",
-            "Turkish": "Yaminah",
-            "Bengali": "ইয়ামিনঃ",
-            "Indonesian": "Yaminah",
-            "Pashto": "یامینه"
-        }
-    },
-    {
-        "id": "ya11",
-        "name": "Yana",
-        "gender": "Girl",
-        "meaning": "Doer of good",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يانا",
-            "Urdu": "یانا",
-            "Persian": "یانا",
-            "Turkish": "Yana",
-            "Bengali": "ইয়ানা",
-            "Indonesian": "Yana",
-            "Pashto": "یانا"
-        }
-    },
-    {
-        "id": "ya11_var",
-        "name": "Yanah",
-        "gender": "Girl",
-        "meaning": "Doer of good",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yana",
-        "spellings": {
-            "Arabic": "يانا",
-            "Urdu": "یانہ",
-            "Persian": "یانا",
-            "Turkish": "Yanah",
-            "Bengali": "ইয়ানাহ",
-            "Indonesian": "Yana",
-            "Pashto": "یانه"
-        }
-    },
-    {
-        "name": "Yantee",
-        "gender": "Girl",
-        "meaning": "Peace",
-        "origin": "Indonesian",
-        "id": "ya19_var",
-        "verified": true,
-        "variant_of": "Yanti",
-        "spellings": {
-            "Arabic": "يانتي",
-            "Urdu": "یانٹی۔",
-            "Persian": "یانتی",
-            "Turkish": "Yantee",
-            "Bengali": "ইয়ান্তি",
-            "Indonesian": "Yantee",
-            "Pashto": "یانتی"
-        }
-    },
-    {
-        "name": "Yanti",
-        "gender": "Girl",
-        "meaning": "Peace",
-        "origin": "Indonesian",
-        "id": "ya19",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يانتي",
-            "Urdu": "یانتی",
-            "Persian": "یانتی",
-            "Turkish": "Yanti",
-            "Bengali": "ইয়ান্তি",
-            "Indonesian": "Yanti",
-            "Pashto": "یانتي"
-        }
-    },
-    {
-        "id": "ya12",
-        "name": "Yaqeen",
-        "gender": "Boy",
-        "meaning": "Certainty, belief",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يقين",
-            "Urdu": "یقین",
-            "Persian": "یقین",
-            "Turkish": "Yaqeen",
-            "Bengali": "ইয়াকীন",
-            "Indonesian": "Yaqeen",
-            "Pashto": "یاقین"
-        }
-    },
-    {
-        "id": "ya12_var",
-        "name": "Yaqin",
-        "gender": "Boy",
-        "meaning": "Certainty, belief",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yaqeen",
-        "spellings": {
-            "Arabic": "يقين",
-            "Urdu": "یقین",
-            "Persian": "یقین",
-            "Turkish": "Yakin",
-            "Bengali": "ইয়াকিন",
-            "Indonesian": "Yaqin",
-            "Pashto": "یاقین"
-        }
-    },
-    {
-        "name": "Yaqoob",
-        "gender": "Boy",
-        "meaning": "Prophet Jacob",
-        "origin": "Quranic",
-        "id": "ya37",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یعقوب",
-            "Persian": "یعقوب",
-            "Turkish": "Yakup",
-            "Bengali": "ইয়াকুব",
-            "Indonesian": "Yaqoob",
-            "Pashto": "یعقوب"
-        }
-    },
-    {
-        "id": "ya13",
-        "name": "Yaqoot",
-        "gender": "Unisex",
-        "meaning": "Ruby, precious stone",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياقوت",
-            "Urdu": "یاقوت",
-            "Persian": "یاقوت",
-            "Turkish": "Yakut",
-            "Bengali": "ইয়াকুত",
-            "Indonesian": "yaqoot",
-            "Pashto": "یاقوت"
-        }
-    },
-    {
-        "id": "ya14",
-        "name": "Yaqub",
-        "gender": "Boy",
-        "meaning": "Prophet Jacob",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يعقوب",
-            "Urdu": "یعقوب",
-            "Persian": "یعقوب",
-            "Turkish": "Yakub",
-            "Bengali": "ইয়াকুব",
-            "Indonesian": "Yaqub",
-            "Pashto": "یعقوب"
-        }
-    },
-    {
-        "id": "ya13_var",
-        "name": "Yaqut",
-        "gender": "Unisex",
-        "meaning": "Ruby, precious stone",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yaqoot",
-        "spellings": {
-            "Arabic": "ياقوت",
-            "Urdu": "یاقوت",
-            "Persian": "یاقوت",
-            "Turkish": "Yakut",
-            "Bengali": "ইয়াকুত",
-            "Indonesian": "Yaqut",
-            "Pashto": "یاقوت"
-        }
-    },
-    {
-        "id": "ya15",
-        "name": "Yara",
-        "gender": "Girl",
-        "meaning": "Small butterfly",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يارا",
-            "Urdu": "یارا",
-            "Persian": "یارا",
-            "Turkish": "Yara",
-            "Bengali": "ইয়ারা",
-            "Indonesian": "Yara",
-            "Pashto": "یاره"
-        }
-    },
-    {
-        "id": "ya16",
-        "name": "Yarah",
-        "gender": "Girl",
-        "meaning": "Warm",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يارا",
-            "Urdu": "یارہ",
-            "Persian": "یارا",
-            "Turkish": "Yarah",
-            "Bengali": "ইয়ারাহ",
-            "Indonesian": "yarah",
-            "Pashto": "یاره"
-        }
-    },
-    {
-        "name": "Yarmoook",
-        "gender": "Boy",
-        "meaning": "River/Battle site",
-        "origin": "Arabic",
-        "id": "ya35_var",
-        "verified": true,
-        "variant_of": "Yarmouk",
-        "spellings": {
-            "Arabic": "اليرموك",
-            "Urdu": "یرموک",
-            "Persian": "یارمووک",
-            "Turkish": "Yermook",
-            "Bengali": "ইয়ারমুক",
-            "Indonesian": "Yarmoook",
-            "Pashto": "یارموک"
-        }
-    },
-    {
-        "name": "Yarmouk",
-        "gender": "Boy",
-        "meaning": "River/Battle site",
-        "origin": "Arabic",
-        "id": "ya35",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اليرموك",
-            "Urdu": "یرموک",
-            "Persian": "یرموک",
-            "Turkish": "Yermük",
-            "Bengali": "ইয়ারমুক",
-            "Indonesian": "Yarmouk",
-            "Pashto": "یرموک"
-        }
-    },
-    {
-        "name": "Yas",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Persian",
-        "id": "ya2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياس",
-            "Urdu": "یاس",
-            "Persian": "بله",
-            "Turkish": "Evet",
-            "Bengali": "ইয়াস",
-            "Indonesian": "Ya",
-            "Pashto": "یاس"
-        }
-    },
-    {
-        "id": "ya17",
-        "name": "Yasar",
-        "gender": "Boy",
-        "meaning": "Ease, wealth",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسار",
-            "Urdu": "یاسر",
-            "Persian": "یاسار",
-            "Turkish": "Yaşar",
-            "Bengali": "ইয়াসার",
-            "Indonesian": "Yasar",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "id": "ya18_var",
-        "name": "Yaseen",
-        "gender": "Boy",
-        "meaning": "Sura of Quran; Name of Prophet",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yasin",
-        "spellings": {
-            "Arabic": "ياسين",
-            "Urdu": "یاسین",
-            "Persian": "یاسین",
-            "Turkish": "Yasin",
-            "Bengali": "ইয়াসিন",
-            "Indonesian": "Yasin",
-            "Pashto": "یاسین"
-        }
-    },
-    {
-        "id": "ya19_var",
-        "name": "Yaseer",
-        "gender": "Boy",
-        "meaning": "Wealthy, easy",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yasir",
-        "spellings": {
-            "Arabic": "ياسر",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yaser",
-            "Bengali": "ইয়াসির",
-            "Indonesian": "Yaseer",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "name": "Yashal",
-        "gender": "Boy",
-        "meaning": "Fresh and green",
-        "origin": "Arabic",
-        "id": "ya1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياشال",
-            "Urdu": "یشال",
-            "Persian": "یاشال",
-            "Turkish": "Yaşal",
-            "Bengali": "যশাল",
-            "Indonesian": "Yashal",
-            "Pashto": "یوشال"
-        }
-    },
-    {
-        "id": "ya18",
-        "name": "Yasin",
-        "gender": "Boy",
-        "meaning": "Sura of Quran; Name of Prophet",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسين",
-            "Urdu": "یاسین",
-            "Persian": "یاسین",
-            "Turkish": "Yasin",
-            "Bengali": "ইয়াসিন",
-            "Indonesian": "Yasin",
-            "Pashto": "یاسین"
-        }
-    },
-    {
-        "id": "ya19",
-        "name": "Yasir",
-        "gender": "Boy",
-        "meaning": "Wealthy, easy",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسر",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yasir",
-            "Bengali": "ইয়াসির",
-            "Indonesian": "Yasir",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "id": "ya20",
-        "name": "Yasmeen",
-        "gender": "Girl",
-        "meaning": "Jasmine flower",
-        "origin": "Persian",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمین",
-            "Turkish": "Yasemin",
-            "Bengali": "ইয়াসমিন",
-            "Indonesian": "Yasmin",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "id": "ya22_var",
-        "name": "Yasmeena",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Persian",
-        "verified": true,
-        "variant_of": "Yasmina",
-        "spellings": {
-            "Arabic": "ياسمينة",
-            "Urdu": "یاسمینہ",
-            "Persian": "یاسمینا",
-            "Turkish": "Yasmeena",
-            "Bengali": "ইয়াসমিনা",
-            "Indonesian": "Yasmeena",
-            "Pashto": "یاسمینه"
-        }
-    },
-    {
-        "name": "Yasmen",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Persian",
-        "id": "ya33",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمن",
-            "Turkish": "Yasmen",
-            "Bengali": "ইয়াসমেন",
-            "Indonesian": "Yasmin",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "id": "ya21",
-        "name": "Yasmin",
-        "gender": "Girl",
-        "meaning": "Jasmine flower",
-        "origin": "Persian",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمین",
-            "Turkish": "Yasemin",
-            "Bengali": "ইয়াসমিন",
-            "Indonesian": "Yasmin",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "id": "ya22",
-        "name": "Yasmina",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Persian",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمينة",
-            "Urdu": "یاسمینہ",
-            "Persian": "یاسمینا",
-            "Turkish": "Yasmina",
-            "Bengali": "ইয়াসমিনা",
-            "Indonesian": "Yasmina",
-            "Pashto": "یاسمینه"
-        }
-    },
-    {
-        "id": "ya22_var",
-        "name": "Yasminah",
-        "gender": "Girl",
-        "meaning": "Jasmine",
-        "origin": "Persian",
-        "verified": true,
-        "variant_of": "Yasmina",
-        "spellings": {
-            "Arabic": "ياسمينة",
-            "Urdu": "یاسمینہ",
-            "Persian": "یاسمینه",
-            "Turkish": "Yaseminah",
-            "Bengali": "ইয়াসমিনঃ",
-            "Indonesian": "Yasminah",
-            "Pashto": "یاسمینه"
-        }
-    },
-    {
-        "name": "Yasmine",
-        "gender": "Girl",
-        "meaning": "Jasmine flower",
-        "origin": "Arabic/Persian",
-        "id": "ya2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسمين",
-            "Urdu": "یاسمین",
-            "Persian": "یاسمین",
-            "Turkish": "Yasemin",
-            "Bengali": "ইয়াসমিন",
-            "Indonesian": "Yasmin",
-            "Pashto": "یاسمین"
-        }
-    },
-    {
-        "id": "ya23",
-        "name": "Yasna",
-        "gender": "Girl",
-        "meaning": "White rose",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسنا",
-            "Urdu": "یاسنا",
-            "Persian": "یسنا",
-            "Turkish": "Yasna",
-            "Bengali": "ইয়াসনা",
-            "Indonesian": "Yasna",
-            "Pashto": "یاسنا"
-        }
-    },
-    {
-        "id": "ya23_var",
-        "name": "Yasnah",
-        "gender": "Girl",
-        "meaning": "White rose",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yasna",
-        "spellings": {
-            "Arabic": "ياسنة",
-            "Urdu": "یاسنہ",
-            "Persian": "یسنا",
-            "Turkish": "Yasnah",
-            "Bengali": "ইয়াস্নাহ",
-            "Indonesian": "Yasnah",
-            "Pashto": "یاسنه"
-        }
-    },
-    {
-        "id": "ya24",
-        "name": "Yasser",
-        "gender": "Boy",
-        "meaning": "Wealthy",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياسر",
-            "Urdu": "یاسر",
-            "Persian": "یاسر",
-            "Turkish": "Yaser",
-            "Bengali": "ইয়াসের",
-            "Indonesian": "Yasser",
-            "Pashto": "یاسر"
-        }
-    },
-    {
-        "name": "Yatee",
-        "gender": "Girl",
-        "meaning": "Control",
-        "origin": "Indonesian",
-        "id": "ya21_var",
-        "verified": true,
-        "variant_of": "Yati",
-        "spellings": {
-            "Arabic": "ياتي",
-            "Urdu": "یاٹی",
-            "Persian": "یاتی",
-            "Turkish": "Yatee",
-            "Bengali": "ইয়াতী",
-            "Indonesian": "Yatee",
-            "Pashto": "Yatee"
-        }
-    },
-    {
-        "id": "ya25_var",
-        "name": "Yathreeb",
-        "gender": "Girl",
-        "meaning": "Former name of Medina",
-        "origin": "History",
-        "verified": true,
-        "variant_of": "Yathrib",
-        "spellings": {
-            "Arabic": "يثرب",
-            "Urdu": "یثرب",
-            "Persian": "یثریب",
-            "Turkish": "Yathirdb",
-            "Bengali": "ইয়াতরিব",
-            "Indonesian": "Yatigab",
-            "Pashto": "یثرب"
-        }
-    },
-    {
-        "id": "ya25",
-        "name": "Yathrib",
-        "gender": "Girl",
-        "meaning": "Former name of Medina",
-        "origin": "History",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يثرب",
-            "Urdu": "یثرب",
-            "Persian": "یثرب",
-            "Turkish": "Yesrib",
-            "Bengali": "ইয়াথ্রিব",
-            "Indonesian": "Yatsrib",
-            "Pashto": "یثرب"
-        }
-    },
-    {
-        "name": "Yati",
-        "gender": "Girl",
-        "meaning": "Control",
-        "origin": "Indonesian",
-        "id": "ya21",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياتي",
-            "Urdu": "یاٹی",
-            "Persian": "یاتی",
-            "Turkish": "Yati",
-            "Bengali": "ইয়াতি",
-            "Indonesian": "Yati",
-            "Pashto": "یاتي"
-        }
-    },
-    {
-        "name": "Yavooz",
-        "gender": "Boy",
-        "meaning": "Stern, grim",
-        "origin": "Turkish",
-        "id": "ya34_var",
-        "verified": true,
-        "variant_of": "Yavuz",
-        "spellings": {
-            "Arabic": "يافوز",
-            "Urdu": "یاووز",
-            "Persian": "یاووز",
-            "Turkish": "Yavooz",
-            "Bengali": "ইয়াভুজ",
-            "Indonesian": "Yavooz",
-            "Pashto": "یاووز"
-        }
-    },
-    {
-        "name": "Yavuz",
-        "gender": "Boy",
-        "meaning": "Stern, grim",
-        "origin": "Turkish",
-        "id": "ya34",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يافوز",
-            "Urdu": "یاوز",
-            "Persian": "یاووز",
-            "Turkish": "Yavuz",
-            "Bengali": "ইয়াভুজ",
-            "Indonesian": "Yavuz",
-            "Pashto": "یاوز"
-        }
-    },
-    {
-        "id": "ya26",
-        "name": "Yawar",
-        "gender": "Boy",
-        "meaning": "Helper",
-        "origin": "Persian",
-        "verified": true,
-        "spellings": {
-            "Arabic": "ياور",
-            "Urdu": "یاور",
-            "Persian": "یاور",
-            "Turkish": "Yawar",
-            "Bengali": "ইয়াওয়ার",
-            "Indonesian": "Yawar",
-            "Pashto": "یاور"
-        }
-    },
-    {
-        "id": "ya27",
-        "name": "Yazan",
-        "gender": "Boy",
-        "meaning": "Determined; Name of an Arab tribe",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يزن",
-            "Urdu": "یازان",
-            "Persian": "یازان",
-            "Turkish": "Yazan",
-            "Bengali": "ইয়াজান",
-            "Indonesian": "Yazan",
-            "Pashto": "یازان"
-        }
-    },
-    {
-        "name": "Yazd",
-        "gender": "Boy",
-        "meaning": "City of Windcatchers (Iran)",
-        "origin": "Persian",
-        "id": "ya36",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يزد",
-            "Urdu": "یزد",
-            "Persian": "یزد",
-            "Turkish": "Yezd",
-            "Bengali": "ইয়াজদ",
-            "Indonesian": "Yazd",
-            "Pashto": "یزد"
-        }
-    },
-    {
-        "id": "ya28_var",
-        "name": "Yazeed",
-        "gender": "Boy",
-        "meaning": "Increase, grow",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yazid",
-        "spellings": {
-            "Arabic": "يزيد",
-            "Urdu": "یزید",
-            "Persian": "یزید",
-            "Turkish": "Yezid",
-            "Bengali": "ইয়াজিদ",
-            "Indonesian": "Yazeed",
-            "Pashto": "یزید"
-        }
-    },
-    {
-        "id": "ya28",
-        "name": "Yazid",
-        "gender": "Boy",
-        "meaning": "Increase, grow",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يزيد",
-            "Urdu": "یزید",
-            "Persian": "یزید",
-            "Turkish": "Yezid",
-            "Bengali": "ইয়াজিদ",
-            "Indonesian": "Yazid",
-            "Pashto": "یزید"
-        }
-    },
-    {
-        "name": "Yeegeet",
-        "gender": "Boy",
-        "meaning": "Brave hero",
-        "origin": "Turkish",
-        "id": "yi2_var",
-        "verified": true,
-        "variant_of": "Yigit",
-        "spellings": {
-            "Arabic": "ييجيت",
-            "Urdu": "Yeegeet",
-            "Persian": "یگیت",
-            "Turkish": "Yeegeet",
-            "Bengali": "ইয়েগীত",
-            "Indonesian": "Ya ampun",
-            "Pashto": "Yeegeet"
-        }
-    },
-    {
-        "name": "Yeeldeereem",
-        "gender": "Boy",
-        "meaning": "Lightning (Ottoman Sultan)",
-        "origin": "Turkish",
-        "id": "yi2_var",
-        "verified": true,
-        "variant_of": "Yildirim",
-        "spellings": {
-            "Arabic": "يلدريم",
-            "Urdu": "ییلدیریم",
-            "Persian": "Yeeldeereem",
-            "Turkish": "Yeeldeereem",
-            "Bengali": "ইয়েলদীরিম",
-            "Indonesian": "Yeeldeereem",
-            "Pashto": "ییلدیریم"
-        }
-    },
-    {
-        "name": "Yeeldeez",
-        "gender": "Girl",
-        "meaning": "Star",
-        "origin": "Turkish",
-        "id": "yi1_var",
-        "verified": true,
-        "variant_of": "Yildiz",
-        "spellings": {
-            "Arabic": "يلديز",
-            "Urdu": "ییلدیز",
-            "Persian": "یلدیز",
-            "Turkish": "Yeeldeez",
-            "Bengali": "ইয়েলদিজ",
-            "Indonesian": "Yeeldeez",
-            "Pashto": "ییلدیز"
-        }
-    },
-    {
-        "name": "Yeelmaz",
-        "gender": "Boy",
-        "meaning": "Unyielding; Dauntless",
-        "origin": "Turkish",
-        "id": "yi4_var",
-        "verified": true,
-        "variant_of": "Yilmaz",
-        "spellings": {
-            "Arabic": "يلماز",
-            "Urdu": "یلماز",
-            "Persian": "یلماز",
-            "Turkish": "Yeelmaz",
-            "Bengali": "ইয়েলমাজ",
-            "Indonesian": "Yeelmaz",
-            "Pashto": "ییلماز"
-        }
-    },
-    {
-        "id": "ye1",
-        "name": "Yelda",
-        "gender": "Girl",
-        "meaning": "Dark night, longest night",
-        "origin": "Turkish",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يلدا",
-            "Urdu": "یلدا",
-            "Persian": "یلدا",
-            "Turkish": "Yelda",
-            "Bengali": "ইয়েলদা",
-            "Indonesian": "Yelda",
-            "Pashto": "ییلدا"
-        }
-    },
-    {
-        "id": "ye1_var",
-        "name": "Yeldah",
-        "gender": "Girl",
-        "meaning": "Dark night, longest night",
-        "origin": "Turkish",
-        "verified": true,
-        "variant_of": "Yelda",
-        "spellings": {
-            "Arabic": "يلدا",
-            "Urdu": "یلدہ",
-            "Persian": "یلدا",
-            "Turkish": "Yeldah",
-            "Bengali": "ইয়েলদাহ",
-            "Indonesian": "Yeldah",
-            "Pashto": "ییلده"
-        }
-    },
-    {
-        "name": "Yeleez",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ye3_var",
-        "verified": true,
-        "variant_of": "Yeliz",
-        "spellings": {
-            "Arabic": "يليز",
-            "Urdu": "یلیز",
-            "Persian": "یلیز",
-            "Turkish": "Yeleez",
-            "Bengali": "ইয়েলিজ",
-            "Indonesian": "Yaleez",
-            "Pashto": "ییلیز"
-        }
-    },
-    {
-        "name": "Yeliz",
-        "gender": "Girl",
-        "meaning": "Beautiful",
-        "origin": "Turkish",
-        "id": "ye3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يليز",
-            "Urdu": "یلز",
-            "Persian": "یلیز",
-            "Turkish": "Yeliz",
-            "Bengali": "ইয়েলিজ",
-            "Indonesian": "Yeliz",
-            "Pashto": "ییلیز"
-        }
-    },
-    {
-        "name": "Yemen",
-        "gender": "Unisex",
-        "meaning": "The South; Happiness",
-        "origin": "Arabic",
-        "id": "ye5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "اليمن",
-            "Urdu": "یمن",
-            "Persian": "یمن",
-            "Turkish": "Yemen",
-            "Bengali": "ইয়েমেন",
-            "Indonesian": "Yaman",
-            "Pashto": "یمن"
-        }
-    },
-    {
-        "name": "Yenee",
-        "gender": "Girl",
-        "meaning": "New",
-        "origin": "Indonesian",
-        "id": "ye4_var",
-        "verified": true,
-        "variant_of": "Yeni",
-        "spellings": {
-            "Arabic": "ييني",
-            "Urdu": "یینی",
-            "Persian": "ینی",
-            "Turkish": "Yenee",
-            "Bengali": "ইয়েনি",
-            "Indonesian": "Yenee",
-            "Pashto": "یینی"
-        }
-    },
-    {
-        "name": "Yeni",
-        "gender": "Girl",
-        "meaning": "New",
-        "origin": "Indonesian",
-        "id": "ye4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يني",
-            "Urdu": "یینی",
-            "Persian": "ینی",
-            "Turkish": "Yeni",
-            "Bengali": "ইয়েনি",
-            "Indonesian": "Yeni",
-            "Pashto": "یینی"
-        }
-    },
-    {
-        "name": "Yeseem",
-        "gender": "Girl",
-        "meaning": "Jade",
-        "origin": "Turkish",
-        "id": "ye4_var",
-        "verified": true,
-        "variant_of": "Yesim",
-        "spellings": {
-            "Arabic": "نعم",
-            "Urdu": "یسیم",
-            "Persian": "Yeseem",
-            "Turkish": "Evet",
-            "Bengali": "ইয়েসিম",
-            "Indonesian": "Ya sepertinya",
-            "Pashto": "یاسیم"
-        }
-    },
-    {
-        "name": "Yesim",
-        "gender": "Girl",
-        "meaning": "Jade",
-        "origin": "Turkish",
-        "id": "ye4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "نعم",
-            "Urdu": "یسم",
-            "Persian": "یسیم",
-            "Turkish": "Yeşim",
-            "Bengali": "ইয়েসিম",
-            "Indonesian": "Yasim",
-            "Pashto": "Yesim"
-        }
-    },
-    {
-        "name": "Yigit",
-        "gender": "Boy",
-        "meaning": "Brave hero",
-        "origin": "Turkish",
-        "id": "yi2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يجيت",
-            "Urdu": "یگٹ",
-            "Persian": "یگیت",
-            "Turkish": "Yiğit",
-            "Bengali": "ইজিট",
-            "Indonesian": "Yigit",
-            "Pashto": "Yigit"
-        }
-    },
-    {
-        "name": "Yildirim",
-        "gender": "Boy",
-        "meaning": "Lightning (Ottoman Sultan)",
-        "origin": "Turkish",
-        "id": "yi2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يلدريم",
-            "Urdu": "یلدرم",
-            "Persian": "ییلدیریم",
-            "Turkish": "Yıldırım",
-            "Bengali": "ইলদিরিম",
-            "Indonesian": "Yildirim",
-            "Pashto": "Yildirim"
-        }
-    },
-    {
-        "name": "Yildiz",
-        "gender": "Girl",
-        "meaning": "Star",
-        "origin": "Turkish",
-        "id": "yi1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يلدز",
-            "Urdu": "یلدز",
-            "Persian": "یلدیز",
-            "Turkish": "Yıldız",
-            "Bengali": "ইলদিজ",
-            "Indonesian": "Yildiz",
-            "Pashto": "ییلدیز"
-        }
-    },
-    {
-        "name": "Yilmaz",
-        "gender": "Boy",
-        "meaning": "Unyielding; Dauntless",
-        "origin": "Turkish",
-        "id": "yi4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يلماز",
-            "Urdu": "یلماز",
-            "Persian": "یلماز",
-            "Turkish": "Yılmaz",
-            "Bengali": "ইলমাজ",
-            "Indonesian": "Yilmaz",
-            "Pashto": "يلماز"
-        }
-    },
-    {
-        "id": "yo1",
-        "name": "Yolanda",
-        "gender": "Girl",
-        "meaning": "Violet flower",
-        "origin": "Greek/Mixed",
-        "verified": false,
-        "spellings": {
-            "Arabic": "يولاندا",
-            "Urdu": "یولینڈا",
-            "Persian": "یولاندا",
-            "Turkish": "Yolanda",
-            "Bengali": "ইয়োলান্ডা",
-            "Indonesian": "Yolanda",
-            "Pashto": "یولاندا"
-        }
-    },
-    {
-        "id": "yo1_var",
-        "name": "Yolandah",
-        "gender": "Girl",
-        "meaning": "Violet flower",
-        "origin": "Greek/Mixed",
-        "verified": false,
-        "variant_of": "Yolanda",
-        "spellings": {
-            "Arabic": "يولاندا",
-            "Urdu": "یولینڈہ",
-            "Persian": "یولاندا",
-            "Turkish": "Yolandah",
-            "Bengali": "ইয়োলান্দাহ",
-            "Indonesian": "Yolanda",
-            "Pashto": "یولنده"
-        }
-    },
-    {
-        "name": "Yoodi",
-        "gender": "Boy",
-        "meaning": "War",
-        "origin": "Indonesian",
-        "id": "yu2_var",
-        "verified": true,
-        "variant_of": "Yudi",
-        "spellings": {
-            "Arabic": "يودي",
-            "Urdu": "یودی",
-            "Persian": "یودی",
-            "Turkish": "Yoodi",
-            "Bengali": "ইউডি",
-            "Indonesian": "Yudi",
-            "Pashto": "یودي"
-        }
-    },
-    {
-        "name": "Yoolia",
-        "gender": "Girl",
-        "meaning": "Youthful",
-        "origin": "Indonesian",
-        "id": "yu3_var",
-        "verified": true,
-        "variant_of": "Yulia",
-        "spellings": {
-            "Arabic": "يوليا",
-            "Urdu": "یولیا",
-            "Persian": "یولیا",
-            "Turkish": "Yoolia",
-            "Bengali": "ইউলিয়া",
-            "Indonesian": "Yoolia",
-            "Pashto": "يووليا"
-        }
-    },
-    {
-        "name": "Yooliana",
-        "gender": "Girl",
-        "meaning": "Youth",
-        "origin": "Indonesian",
-        "id": "yu4_var",
-        "verified": true,
-        "variant_of": "Yuliana",
-        "spellings": {
-            "Arabic": "يوليانا",
-            "Urdu": "یولیانا",
-            "Persian": "یولیانا",
-            "Turkish": "Yooliana",
-            "Bengali": "ইউলিয়ানা",
-            "Indonesian": "Yooliana",
-            "Pashto": "یوولیانا"
-        }
-    },
-    {
-        "id": "yu1_var",
-        "name": "Yoomna",
-        "gender": "Girl",
-        "meaning": "Good fortune, success, right side",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yumna",
-        "spellings": {
-            "Arabic": "يمنا",
-            "Urdu": "یومنہ",
-            "Persian": "یومنا",
-            "Turkish": "Yoomna",
-            "Bengali": "ইউমনা",
-            "Indonesian": "Yoomna",
-            "Pashto": "یومن"
-        }
-    },
-    {
-        "name": "Yooni",
-        "gender": "Girl",
-        "meaning": "June",
-        "origin": "Indonesian",
-        "id": "yu5_var",
-        "verified": true,
-        "variant_of": "Yuni",
-        "spellings": {
-            "Arabic": "يوني",
-            "Urdu": "یونی",
-            "Persian": "یونی",
-            "Turkish": "Yooni",
-            "Bengali": "ইউনি",
-            "Indonesian": "Yooni",
-            "Pashto": "یوني"
-        }
-    },
-    {
-        "id": "yu2_var",
-        "name": "Yoonoos",
-        "gender": "Boy",
-        "meaning": "Prophet Jonah (The Dove)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yunus",
-        "spellings": {
-            "Arabic": "يونس",
-            "Urdu": "یونوس",
-            "Persian": "یونوس",
-            "Turkish": "Yoonoo'lar",
-            "Bengali": "ইউনুস",
-            "Indonesian": "Yoonoo",
-            "Pashto": "یونووس"
-        }
-    },
-    {
-        "id": "yo2_var",
-        "name": "Yooomna",
-        "gender": "Girl",
-        "meaning": "Right side, blessed (Variant of Yumna)",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Youmna",
-        "spellings": {
-            "Arabic": "يوومنا",
-            "Urdu": "یومنہ",
-            "Persian": "یوومنا",
-            "Turkish": "Yooomna",
-            "Bengali": "ইউমনা",
-            "Indonesian": "Yooomna",
-            "Pashto": "یومنا"
-        }
-    },
-    {
-        "id": "yo3_var",
-        "name": "Yooones",
-        "gender": "Boy",
-        "meaning": "Prophet Jonah (Variant of Yunus)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Younes",
-        "spellings": {
-            "Arabic": "يوونس",
-            "Urdu": "یونس",
-            "Persian": "یونس",
-            "Turkish": "Yooones",
-            "Bengali": "ইউওনস",
-            "Indonesian": "Yoonon",
-            "Pashto": "یونس"
-        }
-    },
-    {
-        "id": "yo4_var",
-        "name": "Yooosef",
-        "gender": "Boy",
-        "meaning": "Prophet Joseph (Variant of Yusuf)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yousef",
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yooosef",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yooosef",
-            "Pashto": "يوسف"
-        }
-    },
-    {
-        "name": "Yooosoof",
-        "gender": "Boy",
-        "meaning": "Joseph (Prophet)",
-        "origin": "Quranic",
-        "id": "yo6_var",
-        "verified": true,
-        "variant_of": "Yousuf",
-        "spellings": {
-            "Arabic": "يوسوف",
-            "Urdu": "یوسوف",
-            "Persian": "یوسف",
-            "Turkish": "ooooof",
-            "Bengali": "ইওসুফ",
-            "Indonesian": "Yooooooo",
-            "Pashto": "یوسوف"
-        }
-    },
-    {
-        "id": "yo5_var",
-        "name": "Yooosra",
-        "gender": "Girl",
-        "meaning": "Ease (Variant of Yusra)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yousra",
-        "spellings": {
-            "Arabic": "يسرا",
-            "Urdu": "یوسرہ",
-            "Persian": "یوسرا",
-            "Turkish": "Yooosra",
-            "Bengali": "ইউসরা",
-            "Indonesian": "Yooosra",
-            "Pashto": "یوسرا"
-        }
-    },
-    {
-        "name": "Yoosof",
-        "gender": "Boy",
-        "meaning": "Joseph",
-        "origin": "Malay",
-        "id": "yu6_var",
-        "verified": true,
-        "variant_of": "Yusof",
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yoosof",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yoosof",
-            "Pashto": "یوسوف"
-        }
-    },
-    {
-        "id": "yu5_var",
-        "name": "Yoosoof",
-        "gender": "Boy",
-        "meaning": "Prophet Joseph; God increases",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yusuf",
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yoooof",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yoosoof",
-            "Pashto": "یوسف"
-        }
-    },
-    {
-        "name": "Yoosr",
-        "gender": "Girl",
-        "meaning": "Ease",
-        "origin": "Quranic",
-        "id": "yu7_var",
-        "verified": true,
-        "variant_of": "Yusr",
-        "spellings": {
-            "Arabic": "يسر",
-            "Urdu": "یوسر",
-            "Persian": "یوسر",
-            "Turkish": "Yoosr",
-            "Bengali": "ইয়োসর",
-            "Indonesian": "Yoosr",
-            "Pashto": "یوسر"
-        }
-    },
-    {
-        "id": "yu6_var",
-        "name": "Yoosra",
-        "gender": "Girl",
-        "meaning": "Ease",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yusra",
-        "spellings": {
-            "Arabic": "يسرا",
-            "Urdu": "یوسرہ",
-            "Persian": "یوسرا",
-            "Turkish": "Yoosra",
-            "Bengali": "ইউসরা",
-            "Indonesian": "Yoosra",
-            "Pashto": "یوسرا"
-        }
-    },
-    {
-        "id": "yu4_var",
-        "name": "Yoosri",
-        "gender": "Boy",
-        "meaning": "Well to do, wealthy",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yusri",
-        "spellings": {
-            "Arabic": "يسري",
-            "Urdu": "یوسری۔",
-            "Persian": "یوسری",
-            "Turkish": "Yoosri",
-            "Bengali": "ইউসরি",
-            "Indonesian": "Yoosri",
-            "Pashto": "یوسری"
-        }
-    },
-    {
-        "id": "yo2",
-        "name": "Youmna",
-        "gender": "Girl",
-        "meaning": "Right side, blessed (Variant of Yumna)",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يمنى",
-            "Urdu": "یومنہ",
-            "Persian": "یومنا",
-            "Turkish": "Youmna",
-            "Bengali": "ইউমনা",
-            "Indonesian": "kamu",
-            "Pashto": "یومنه"
-        }
-    },
-    {
-        "id": "yo2_var",
-        "name": "Youmnah",
-        "gender": "Girl",
-        "meaning": "Right side, blessed (Variant of Yumna)",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Youmna",
-        "spellings": {
-            "Arabic": "يمنى",
-            "Urdu": "یومنہ",
-            "Persian": "یومنا",
-            "Turkish": "Youmnah",
-            "Bengali": "ইউমনাহ",
-            "Indonesian": "kamumnah",
-            "Pashto": "یومنه"
-        }
-    },
-    {
-        "id": "yo3",
-        "name": "Younes",
-        "gender": "Boy",
-        "meaning": "Prophet Jonah (Variant of Yunus)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يونس",
-            "Urdu": "یونس",
-            "Persian": "یونس",
-            "Turkish": "Younes",
-            "Bengali": "ইউনেস",
-            "Indonesian": "Younes",
-            "Pashto": "یونس"
-        }
-    },
-    {
-        "id": "yo4",
-        "name": "Yousef",
-        "gender": "Boy",
-        "meaning": "Prophet Joseph (Variant of Yusuf)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yusuf",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yusuf",
-            "Pashto": "یوسف"
-        }
-    },
-    {
-        "id": "yo5",
-        "name": "Yousra",
-        "gender": "Girl",
-        "meaning": "Ease (Variant of Yusra)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسرا",
-            "Urdu": "یوسرا۔",
-            "Persian": "یسرا",
-            "Turkish": "Yousra",
-            "Bengali": "ইউসরা",
-            "Indonesian": "Yousra",
-            "Pashto": "یوسرا"
-        }
-    },
-    {
-        "id": "yo5_var",
-        "name": "Yousrah",
-        "gender": "Girl",
-        "meaning": "Ease (Variant of Yusra)",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yousra",
-        "spellings": {
-            "Arabic": "يسرا",
-            "Urdu": "یوسرہ",
-            "Persian": "یسرا",
-            "Turkish": "Yüsrah",
-            "Bengali": "ইউসরাহ",
-            "Indonesian": "Yousrah",
-            "Pashto": "یوسره"
-        }
-    },
-    {
-        "name": "Yousuf",
-        "gender": "Boy",
-        "meaning": "Joseph (Prophet)",
-        "origin": "Quranic",
-        "id": "yo6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yusuf",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yusuf",
-            "Pashto": "یوسف"
-        }
-    },
-    {
-        "name": "Yudee",
-        "gender": "Boy",
-        "meaning": "War",
-        "origin": "Indonesian",
-        "id": "yu2_var",
-        "verified": true,
-        "variant_of": "Yudi",
-        "spellings": {
-            "Arabic": "يودي",
-            "Urdu": "یوڈی",
-            "Persian": "یودی",
-            "Turkish": "Yudee",
-            "Bengali": "ইউডি",
-            "Indonesian": "Yudee",
-            "Pashto": "یوډی"
-        }
-    },
-    {
-        "name": "Yudi",
-        "gender": "Boy",
-        "meaning": "War",
-        "origin": "Indonesian",
-        "id": "yu2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يودي",
-            "Urdu": "یودی",
-            "Persian": "یودی",
-            "Turkish": "Yudi",
-            "Bengali": "ইউদি",
-            "Indonesian": "Yudi",
-            "Pashto": "یودي"
-        }
-    },
-    {
-        "name": "Yuleea",
-        "gender": "Girl",
-        "meaning": "Youthful",
-        "origin": "Indonesian",
-        "id": "yu3_var",
-        "verified": true,
-        "variant_of": "Yulia",
-        "spellings": {
-            "Arabic": "يوليا",
-            "Urdu": "یولیا",
-            "Persian": "یولیا",
-            "Turkish": "Yulea",
-            "Bengali": "ইউলিয়া",
-            "Indonesian": "Yulea",
-            "Pashto": "یولیا"
-        }
-    },
-    {
-        "name": "Yuleeana",
-        "gender": "Girl",
-        "meaning": "Youth",
-        "origin": "Indonesian",
-        "id": "yu4_var",
-        "verified": true,
-        "variant_of": "Yuliana",
-        "spellings": {
-            "Arabic": "يوليانا",
-            "Urdu": "یولیانا",
-            "Persian": "یولیانا",
-            "Turkish": "Yuleeana",
-            "Bengali": "ইউলিয়ানা",
-            "Indonesian": "Yuleeana",
-            "Pashto": "یولیانا"
-        }
-    },
-    {
-        "name": "Yulia",
-        "gender": "Girl",
-        "meaning": "Youthful",
-        "origin": "Indonesian",
-        "id": "yu3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوليا",
-            "Urdu": "یولیا",
-            "Persian": "یولیا",
-            "Turkish": "Julia",
-            "Bengali": "ইউলিয়া",
-            "Indonesian": "Julia",
-            "Pashto": "یولیا"
-        }
-    },
-    {
-        "name": "Yuliah",
-        "gender": "Girl",
-        "meaning": "Youthful",
-        "origin": "Indonesian",
-        "id": "yu3_var",
-        "verified": true,
-        "variant_of": "Yulia",
-        "spellings": {
-            "Arabic": "يوليا",
-            "Urdu": "یولیا",
-            "Persian": "یولیا",
-            "Turkish": "Yuliah",
-            "Bengali": "ইউলিয়া",
-            "Indonesian": "Yulia",
-            "Pashto": "یولیا"
-        }
-    },
-    {
-        "name": "Yuliana",
-        "gender": "Girl",
-        "meaning": "Youth",
-        "origin": "Indonesian",
-        "id": "yu4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوليانا",
-            "Urdu": "یولیانا",
-            "Persian": "یولیانا",
-            "Turkish": "Juliana",
-            "Bengali": "ইউলিয়ানা",
-            "Indonesian": "Yuliana",
-            "Pashto": "یولیانا"
-        }
-    },
-    {
-        "name": "Yulianah",
-        "gender": "Girl",
-        "meaning": "Youth",
-        "origin": "Indonesian",
-        "id": "yu4_var",
-        "verified": true,
-        "variant_of": "Yuliana",
-        "spellings": {
-            "Arabic": "يوليانا",
-            "Urdu": "یولیانا",
-            "Persian": "یولیانا",
-            "Turkish": "Yuliana",
-            "Bengali": "ইউলিয়ানাহ",
-            "Indonesian": "Yuliana",
-            "Pashto": "یولیانا"
-        }
-    },
-    {
-        "id": "yu1",
-        "name": "Yumna",
-        "gender": "Girl",
-        "meaning": "Good fortune, success, right side",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يمنى",
-            "Urdu": "یمنا",
-            "Persian": "یومنا",
-            "Turkish": "Yumna",
-            "Bengali": "ইউমনা",
-            "Indonesian": "Yumna",
-            "Pashto": "یومنه"
-        }
-    },
-    {
-        "id": "yu1_var",
-        "name": "Yumnah",
-        "gender": "Girl",
-        "meaning": "Good fortune, success, right side",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yumna",
-        "spellings": {
-            "Arabic": "يمنة",
-            "Urdu": "یومنہ",
-            "Persian": "یومنا",
-            "Turkish": "Yumnah",
-            "Bengali": "ইউমনাহ",
-            "Indonesian": "Yumna",
-            "Pashto": "یومنه"
-        }
-    },
-    {
-        "name": "Yunee",
-        "gender": "Girl",
-        "meaning": "June",
-        "origin": "Indonesian",
-        "id": "yu5_var",
-        "verified": true,
-        "variant_of": "Yuni",
-        "spellings": {
-            "Arabic": "يوني",
-            "Urdu": "یونی",
-            "Persian": "یونی",
-            "Turkish": "Yunee",
-            "Bengali": "ইউনি",
-            "Indonesian": "Yunee",
-            "Pashto": "یوني"
-        }
-    },
-    {
-        "name": "Yuni",
-        "gender": "Girl",
-        "meaning": "June",
-        "origin": "Indonesian",
-        "id": "yu5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوني",
-            "Urdu": "یونی",
-            "Persian": "یونی",
-            "Turkish": "Yuni",
-            "Bengali": "ইউনি",
-            "Indonesian": "Yuni",
-            "Pashto": "یوني"
-        }
-    },
-    {
-        "id": "yu2",
-        "name": "Yunus",
-        "gender": "Boy",
-        "meaning": "Prophet Jonah (The Dove)",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يونس",
-            "Urdu": "یونس",
-            "Persian": "یونس",
-            "Turkish": "Yunus",
-            "Bengali": "ইউনুস",
-            "Indonesian": "Yunus",
-            "Pashto": "یونس"
-        }
-    },
-    {
-        "name": "Yusof",
-        "gender": "Boy",
-        "meaning": "Joseph",
-        "origin": "Malay",
-        "id": "yu6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yusuf",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yusof",
-            "Pashto": "یوسف"
-        }
-    },
-    {
-        "name": "Yusr",
-        "gender": "Girl",
-        "meaning": "Ease",
-        "origin": "Quranic",
-        "id": "yu7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسر",
-            "Urdu": "یوسر",
-            "Persian": "یوسر",
-            "Turkish": "Yusr",
-            "Bengali": "ইউসর",
-            "Indonesian": "Yusr",
-            "Pashto": "یوسر"
-        }
-    },
-    {
-        "id": "yu6",
-        "name": "Yusra",
-        "gender": "Girl",
-        "meaning": "Ease",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسرى",
-            "Urdu": "یسرہ",
-            "Persian": "یوسرا",
-            "Turkish": "Yusra",
-            "Bengali": "ইউসরা",
-            "Indonesian": "Yusra",
-            "Pashto": "یوسرا"
-        }
-    },
-    {
-        "id": "yu6_var",
-        "name": "Yusrah",
-        "gender": "Girl",
-        "meaning": "Ease",
-        "origin": "Quranic",
-        "verified": true,
-        "variant_of": "Yusra",
-        "spellings": {
-            "Arabic": "يسرى",
-            "Urdu": "یسرہ",
-            "Persian": "یوسره",
-            "Turkish": "Yusra",
-            "Bengali": "ইউসরাহ",
-            "Indonesian": "Yusrah",
-            "Pashto": "یوسره"
-        }
-    },
-    {
-        "id": "yu4_var",
-        "name": "Yusree",
-        "gender": "Boy",
-        "meaning": "Well to do, wealthy",
-        "origin": "Arabic",
-        "verified": true,
-        "variant_of": "Yusri",
-        "spellings": {
-            "Arabic": "يسري",
-            "Urdu": "یوسری۔",
-            "Persian": "یوسری",
-            "Turkish": "Yusree",
-            "Bengali": "ইউসরি",
-            "Indonesian": "Yusree",
-            "Pashto": "یوسری"
-        }
-    },
-    {
-        "id": "yu4",
-        "name": "Yusri",
-        "gender": "Boy",
-        "meaning": "Well to do, wealthy",
-        "origin": "Arabic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يسري",
-            "Urdu": "یوسری۔",
-            "Persian": "یوسری",
-            "Turkish": "Yusri",
-            "Bengali": "ইউসরি",
-            "Indonesian": "Yusri",
-            "Pashto": "یوسری"
-        }
-    },
-    {
-        "id": "yu5",
-        "name": "Yusuf",
-        "gender": "Boy",
-        "meaning": "Prophet Joseph; God increases",
-        "origin": "Quranic",
-        "verified": true,
-        "spellings": {
-            "Arabic": "يوسف",
-            "Urdu": "یوسف",
-            "Persian": "یوسف",
-            "Turkish": "Yusuf",
-            "Bengali": "ইউসুফ",
-            "Indonesian": "Yusuf",
-            "Pashto": "یوسف"
-        }
+  {
+    "name": "Ya'Roob",
+    "gender": "Boy",
+    "meaning": "Ancient Arab",
+    "origin": "Arabic",
+    "id": "ya23_var",
+    "verified": true,
+    "variant_of": "Ya'rub",
+    "spellings": {
+      "Arabic": "يعرب",
+      "Urdu": "یاروب",
+      "Persian": "یاروب",
+      "Turkish": "Ya'Roob",
+      "Bengali": "ইয়া'রুব",
+      "Indonesian": "Ya'Roob",
+      "Pashto": "ياروب"
     }
+  },
+  {
+    "name": "Ya'Rub",
+    "gender": "Boy",
+    "meaning": "Ancient Arab",
+    "origin": "Arabic",
+    "id": "ya23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعرب",
+      "Urdu": "یارب",
+      "Persian": "یاروب",
+      "Turkish": "Ya'Rub",
+      "Bengali": "ইয়া'রুব",
+      "Indonesian": "Ya'Rub",
+      "Pashto": "يارب"
+    }
+  },
+  {
+    "name": "Ya'Smeen",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Arabic",
+    "id": "ya24_var",
+    "verified": true,
+    "variant_of": "Ya'smin",
+    "spellings": {
+      "Arabic": "ياسين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمین",
+      "Turkish": "Ya'Smeen",
+      "Bengali": "ইয়া'সমিন",
+      "Indonesian": "Ya'Smeen",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "name": "Ya'Smin",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Arabic",
+    "id": "ya24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمین",
+      "Turkish": "Ya'Smin",
+      "Bengali": "ইয়া'স্মিন",
+      "Indonesian": "Ya'Smin",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "name": "Ya'Soob",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "ya25_var",
+    "verified": true,
+    "variant_of": "Ya'sub",
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یاسوب",
+      "Persian": "یاسوب",
+      "Turkish": "Ya'Soob",
+      "Bengali": "ইয়া'সুব",
+      "Indonesian": "Ya'Soob",
+      "Pashto": "یاسوب"
+    }
+  },
+  {
+    "name": "Ya'Sub",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "ya25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یاسب",
+      "Persian": "یاساب",
+      "Turkish": "Ya'Sub",
+      "Bengali": "ইয়া'সাব",
+      "Indonesian": "Ya'Sub",
+      "Pashto": "یاسوب"
+    }
+  },
+  {
+    "name": "Yaafeer",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ya26_var",
+    "verified": true,
+    "variant_of": "Yaafir",
+    "spellings": {
+      "Arabic": "يعفير",
+      "Urdu": "یافیر",
+      "Persian": "یافر",
+      "Turkish": "Yaafer",
+      "Bengali": "ইয়াফির",
+      "Indonesian": "Yaafeer",
+      "Pashto": "یافیر"
+    }
+  },
+  {
+    "name": "Yaafir",
+    "gender": "Boy",
+    "meaning": "Name of a Sahabi",
+    "origin": "Arabic",
+    "id": "ya26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعفير",
+      "Urdu": "یافر",
+      "Persian": "یافیر",
+      "Turkish": "Yaafir",
+      "Bengali": "ইয়াফির",
+      "Indonesian": "Yaafir",
+      "Pashto": "یافر"
+    }
+  },
+  {
+    "name": "Yaameen",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ya27_var",
+    "verified": true,
+    "variant_of": "Yaamin",
+    "spellings": {
+      "Arabic": "يامين",
+      "Urdu": "یامین",
+      "Persian": "یاامین",
+      "Turkish": "Yaameen",
+      "Bengali": "ইয়ামিন",
+      "Indonesian": "Yaamin",
+      "Pashto": "یامین"
+    }
+  },
+  {
+    "name": "Yaamin",
+    "gender": "Boy",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ya27",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يامين",
+      "Urdu": "یامین",
+      "Persian": "یاامین",
+      "Turkish": "Yaamin",
+      "Bengali": "ইয়ামিন",
+      "Indonesian": "yamin",
+      "Pashto": "یامین"
+    }
+  },
+  {
+    "name": "Yaasar",
+    "gender": "Boy",
+    "meaning": "Wealth",
+    "origin": "Arabic",
+    "id": "ya28",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسار",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yaşar",
+      "Bengali": "ইয়াসার",
+      "Indonesian": "Yaasar",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yaaseer",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Arabic",
+    "id": "ya29_var",
+    "verified": true,
+    "variant_of": "Yaasir",
+    "spellings": {
+      "Arabic": "ياسير",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yaaseer",
+      "Bengali": "ইয়াসির",
+      "Indonesian": "Yaaseer",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yaasir",
+    "gender": "Boy",
+    "meaning": "Rich",
+    "origin": "Arabic",
+    "id": "ya29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسر",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yaşar",
+      "Bengali": "ইয়াসির",
+      "Indonesian": "Yaasir",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yafa",
+    "gender": "Girl",
+    "meaning": "Jaffa (City in Palestine)",
+    "origin": "Arabic",
+    "id": "ya29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يافا",
+      "Urdu": "یافا",
+      "Persian": "یافا",
+      "Turkish": "Yafa",
+      "Bengali": "ইয়াফা",
+      "Indonesian": "Yafa",
+      "Pashto": "یافا"
+    }
+  },
+  {
+    "name": "Yafah",
+    "gender": "Girl",
+    "meaning": "Jaffa (City in Palestine)",
+    "origin": "Arabic",
+    "id": "ya29_var",
+    "verified": true,
+    "variant_of": "Yafa",
+    "spellings": {
+      "Arabic": "يافع",
+      "Urdu": "یافہ",
+      "Persian": "یفا",
+      "Turkish": "Yafah",
+      "Bengali": "ইয়াফাহ",
+      "Indonesian": "Yafah",
+      "Pashto": "یافه"
+    }
+  },
+  {
+    "id": "ya1_var",
+    "name": "Yafeeah",
+    "gender": "Girl",
+    "meaning": "High, youthful",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yafiah",
+    "spellings": {
+      "Arabic": "اليافعي",
+      "Urdu": "یافیہ",
+      "Persian": "یافیه",
+      "Turkish": "Yafeeah",
+      "Bengali": "ইয়াফিআহ",
+      "Indonesian": "Yafeeah",
+      "Pashto": "يافيه"
+    }
+  },
+  {
+    "id": "ya1",
+    "name": "Yafiah",
+    "gender": "Girl",
+    "meaning": "High, youthful",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يافيه",
+      "Urdu": "یافیہ",
+      "Persian": "یافیه",
+      "Turkish": "Yafiah",
+      "Bengali": "ইয়াফিয়াহ",
+      "Indonesian": "Yafiah",
+      "Pashto": "یافیه"
+    }
+  },
+  {
+    "name": "Yagmoor",
+    "gender": "Unisex",
+    "meaning": "Rain",
+    "origin": "Turkish",
+    "id": "ya30_var",
+    "verified": true,
+    "variant_of": "Yagmur",
+    "spellings": {
+      "Arabic": "يغمور",
+      "Urdu": "یگمور",
+      "Persian": "یاگمور",
+      "Turkish": "Yagmoor",
+      "Bengali": "ইয়াগমুর",
+      "Indonesian": "Yagmoor",
+      "Pashto": "یاګمور"
+    }
+  },
+  {
+    "name": "Yagmur",
+    "gender": "Unisex",
+    "meaning": "Rain",
+    "origin": "Turkish",
+    "id": "ya30",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يغمور",
+      "Urdu": "یگمور",
+      "Persian": "یاگمور",
+      "Turkish": "Yağmur",
+      "Bengali": "ইয়াগমুর",
+      "Indonesian": "Yagmur",
+      "Pashto": "یاګمور"
+    }
+  },
+  {
+    "name": "Yahia",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (John)",
+    "origin": "Arabic",
+    "id": "ya1",
+    "verified": true
+  },
+  {
+    "id": "ya2",
+    "name": "Yahya",
+    "gender": "Boy",
+    "meaning": "To live; Prophet John (the Baptist)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يحيى",
+      "Urdu": "یحییٰ",
+      "Persian": "یحیی",
+      "Turkish": "Yahya",
+      "Bengali": "ইয়াহিয়া",
+      "Indonesian": "Yahya",
+      "Pashto": "یحیی"
+    }
+  },
+  {
+    "id": "ya2_var",
+    "name": "Yahyah",
+    "gender": "Boy",
+    "meaning": "To live; Prophet John (the Baptist)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yahya",
+    "spellings": {
+      "Arabic": "يحيى",
+      "Urdu": "یحییٰ",
+      "Persian": "یحیی",
+      "Turkish": "Yahya",
+      "Bengali": "ইয়াহিয়া",
+      "Indonesian": "Yahya",
+      "Pashto": "یحیی"
+    }
+  },
+  {
+    "name": "Yakhoot",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Quranic",
+    "id": "ya31_var",
+    "verified": true,
+    "variant_of": "Yakhut",
+    "spellings": {
+      "Arabic": "يخوت",
+      "Urdu": "یاخوت",
+      "Persian": "یاخوت",
+      "Turkish": "Yakhoot",
+      "Bengali": "ইয়াখুত",
+      "Indonesian": "Yakhoot",
+      "Pashto": "یاخوت"
+    }
+  },
+  {
+    "name": "Yakhut",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Quranic",
+    "id": "ya31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يخوت",
+      "Urdu": "یاخوت",
+      "Persian": "یاخوت",
+      "Turkish": "Yahut",
+      "Bengali": "ইয়াখুত",
+      "Indonesian": "Yakhut",
+      "Pashto": "یاخوت"
+    }
+  },
+  {
+    "id": "ya3_var",
+    "name": "Yakoob",
+    "gender": "Boy",
+    "meaning": "Prophet Jacob (Variant of Yaqub)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yakub",
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یعقوب",
+      "Persian": "یعقوب",
+      "Turkish": "Yakoob",
+      "Bengali": "ইয়াকুব",
+      "Indonesian": "Yakoob",
+      "Pashto": "یعقوب"
+    }
+  },
+  {
+    "id": "ya3",
+    "name": "Yakub",
+    "gender": "Boy",
+    "meaning": "Prophet Jacob (Variant of Yaqub)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یعقوب",
+      "Persian": "یعقوب",
+      "Turkish": "Yakub",
+      "Bengali": "ইয়াকুব",
+      "Indonesian": "Yakub",
+      "Pashto": "یعقوب"
+    }
+  },
+  {
+    "name": "Yaleen",
+    "gender": "Boy",
+    "meaning": "Simple; Pure",
+    "origin": "Turkish",
+    "id": "ya3_var",
+    "verified": true,
+    "variant_of": "Yalin",
+    "spellings": {
+      "Arabic": "يالين",
+      "Urdu": "یالین",
+      "Persian": "یالین",
+      "Turkish": "Yaleen",
+      "Bengali": "ইয়ালিন",
+      "Indonesian": "Yaleen",
+      "Pashto": "یالین"
+    }
+  },
+  {
+    "id": "ya4_var",
+    "name": "Yaleena",
+    "gender": "Girl",
+    "meaning": "Soft, gentle",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yalina",
+    "spellings": {
+      "Arabic": "يالينا",
+      "Urdu": "یالینا",
+      "Persian": "یالینا",
+      "Turkish": "Yaleena",
+      "Bengali": "ইয়ালিনা",
+      "Indonesian": "Yaleena",
+      "Pashto": "یالینا"
+    }
+  },
+  {
+    "name": "Yalin",
+    "gender": "Boy",
+    "meaning": "Simple; Pure",
+    "origin": "Turkish",
+    "id": "ya3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يالين",
+      "Urdu": "یالین",
+      "Persian": "یالین",
+      "Turkish": "Yalın",
+      "Bengali": "ইয়ালিন",
+      "Indonesian": "Yalin",
+      "Pashto": "یالین"
+    }
+  },
+  {
+    "id": "ya4",
+    "name": "Yalina",
+    "gender": "Girl",
+    "meaning": "Soft, gentle",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يالينا",
+      "Urdu": "یالینا",
+      "Persian": "یالینا",
+      "Turkish": "Yalina",
+      "Bengali": "ইয়ালিনা",
+      "Indonesian": "Yalina",
+      "Pashto": "یالینا"
+    }
+  },
+  {
+    "id": "ya4_var",
+    "name": "Yalinah",
+    "gender": "Girl",
+    "meaning": "Soft, gentle",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yalina",
+    "spellings": {
+      "Arabic": "يالينا",
+      "Urdu": "یالینہ",
+      "Persian": "یالینه",
+      "Turkish": "Yalinah",
+      "Bengali": "ইয়ালিনাঃ",
+      "Indonesian": "Yalinah",
+      "Pashto": "یالینه"
+    }
+  },
+  {
+    "id": "ya5_var",
+    "name": "Yalqoot",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yalqut",
+    "spellings": {
+      "Arabic": "يالقوت",
+      "Urdu": "یاقوت",
+      "Persian": "یاقوت",
+      "Turkish": "Yalkut",
+      "Bengali": "ইয়ালকূট",
+      "Indonesian": "Yalqoot",
+      "Pashto": "یاقوت"
+    }
+  },
+  {
+    "id": "ya5",
+    "name": "Yalqut",
+    "gender": "Girl",
+    "meaning": "Ruby",
+    "origin": "Persian",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يالقوت",
+      "Urdu": "یالقوت",
+      "Persian": "یاقوت",
+      "Turkish": "Yalkut",
+      "Bengali": "ইয়ালকুত",
+      "Indonesian": "Yalqut",
+      "Pashto": "یالقوت"
+    }
+  },
+  {
+    "id": "ya6",
+    "name": "Yama",
+    "gender": "Boy",
+    "meaning": "Mountain",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياما",
+      "Urdu": "یما",
+      "Persian": "یاما",
+      "Turkish": "Yama",
+      "Bengali": "যম",
+      "Indonesian": "Yama",
+      "Pashto": "یما"
+    }
+  },
+  {
+    "id": "ya6_var",
+    "name": "Yamah",
+    "gender": "Boy",
+    "meaning": "Mountain",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yama",
+    "spellings": {
+      "Arabic": "ياماه",
+      "Urdu": "یمامہ",
+      "Persian": "یاما",
+      "Turkish": "Yama",
+      "Bengali": "ইয়ামাহ",
+      "Indonesian": "Yamah",
+      "Pashto": "یمه"
+    }
+  },
+  {
+    "name": "Yamam",
+    "gender": "Girl",
+    "meaning": "Doves",
+    "origin": "Arabic",
+    "id": "ya32",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يامام",
+      "Urdu": "یمام",
+      "Persian": "یامام",
+      "Turkish": "Yamam",
+      "Bengali": "ইয়ামাম",
+      "Indonesian": "Yamam",
+      "Pashto": "یمام"
+    }
+  },
+  {
+    "id": "ya7",
+    "name": "Yaman",
+    "gender": "Boy",
+    "meaning": "Blessed; From Yemen",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يامان",
+      "Urdu": "یمان",
+      "Persian": "یامان",
+      "Turkish": "Yaman",
+      "Bengali": "ইয়ামান",
+      "Indonesian": "Yaman",
+      "Pashto": "يمن"
+    }
+  },
+  {
+    "name": "Yamaniyah",
+    "gender": "Girl",
+    "meaning": "From Yemen, blessed",
+    "origin": "Arabic",
+    "id": "ya2",
+    "verified": true
+  },
+  {
+    "id": "ya8",
+    "name": "Yameen",
+    "gender": "Boy",
+    "meaning": "Right hand, oath",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يمين",
+      "Urdu": "یامین",
+      "Persian": "یمین",
+      "Turkish": "Yameen",
+      "Bengali": "ইয়ামিন",
+      "Indonesian": "Yamin",
+      "Pashto": "یامین"
+    }
+  },
+  {
+    "id": "ya10_var",
+    "name": "Yameena",
+    "gender": "Girl",
+    "meaning": "Right, proper, blessed",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yamina",
+    "spellings": {
+      "Arabic": "يمينه",
+      "Urdu": "یامینہ",
+      "Persian": "یمینا",
+      "Turkish": "Yameena",
+      "Bengali": "ইয়ামীনা",
+      "Indonesian": "Yameena",
+      "Pashto": "یامینه"
+    }
+  },
+  {
+    "id": "ya9",
+    "name": "Yamin",
+    "gender": "Boy",
+    "meaning": "Right hand",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يامين",
+      "Urdu": "یامین",
+      "Persian": "یامین",
+      "Turkish": "Yamin",
+      "Bengali": "ইয়ামিন",
+      "Indonesian": "yamin",
+      "Pashto": "یامین"
+    }
+  },
+  {
+    "id": "ya10",
+    "name": "Yamina",
+    "gender": "Girl",
+    "meaning": "Right, proper, blessed",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يامينا",
+      "Urdu": "یامینہ",
+      "Persian": "یامینا",
+      "Turkish": "Yamina",
+      "Bengali": "ইয়ামিনা",
+      "Indonesian": "yamina",
+      "Pashto": "یامینه"
+    }
+  },
+  {
+    "id": "ya10_var",
+    "name": "Yaminah",
+    "gender": "Girl",
+    "meaning": "Right, proper, blessed",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yamina",
+    "spellings": {
+      "Arabic": "يمينة",
+      "Urdu": "یامینہ",
+      "Persian": "یمینه",
+      "Turkish": "Yaminah",
+      "Bengali": "ইয়ামিনঃ",
+      "Indonesian": "Yaminah",
+      "Pashto": "یامینه"
+    }
+  },
+  {
+    "id": "ya11",
+    "name": "Yana",
+    "gender": "Girl",
+    "meaning": "Doer of good",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يانا",
+      "Urdu": "یانا",
+      "Persian": "یانا",
+      "Turkish": "Yana",
+      "Bengali": "ইয়ানা",
+      "Indonesian": "Yana",
+      "Pashto": "یانا"
+    }
+  },
+  {
+    "id": "ya11_var",
+    "name": "Yanah",
+    "gender": "Girl",
+    "meaning": "Doer of good",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yana",
+    "spellings": {
+      "Arabic": "يانا",
+      "Urdu": "یانہ",
+      "Persian": "یانا",
+      "Turkish": "Yanah",
+      "Bengali": "ইয়ানাহ",
+      "Indonesian": "Yana",
+      "Pashto": "یانه"
+    }
+  },
+  {
+    "name": "Yantee",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Indonesian",
+    "id": "ya19_var",
+    "verified": true,
+    "variant_of": "Yanti",
+    "spellings": {
+      "Arabic": "يانتي",
+      "Urdu": "یانٹی۔",
+      "Persian": "یانتی",
+      "Turkish": "Yantee",
+      "Bengali": "ইয়ান্তি",
+      "Indonesian": "Yantee",
+      "Pashto": "یانتی"
+    }
+  },
+  {
+    "name": "Yanti",
+    "gender": "Girl",
+    "meaning": "Peace",
+    "origin": "Indonesian",
+    "id": "ya19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يانتي",
+      "Urdu": "یانتی",
+      "Persian": "یانتی",
+      "Turkish": "Yanti",
+      "Bengali": "ইয়ান্তি",
+      "Indonesian": "Yanti",
+      "Pashto": "یانتي"
+    }
+  },
+  {
+    "id": "ya12",
+    "name": "Yaqeen",
+    "gender": "Boy",
+    "meaning": "Certainty, belief",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يقين",
+      "Urdu": "یقین",
+      "Persian": "یقین",
+      "Turkish": "Yaqeen",
+      "Bengali": "ইয়াকীন",
+      "Indonesian": "Yaqeen",
+      "Pashto": "یاقین"
+    }
+  },
+  {
+    "id": "ya12_var",
+    "name": "Yaqin",
+    "gender": "Boy",
+    "meaning": "Certainty, belief",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yaqeen",
+    "spellings": {
+      "Arabic": "يقين",
+      "Urdu": "یقین",
+      "Persian": "یقین",
+      "Turkish": "Yakin",
+      "Bengali": "ইয়াকিন",
+      "Indonesian": "Yaqin",
+      "Pashto": "یاقین"
+    }
+  },
+  {
+    "name": "Yaqoob",
+    "gender": "Boy",
+    "meaning": "Prophet Jacob",
+    "origin": "Quranic",
+    "id": "ya37",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یعقوب",
+      "Persian": "یعقوب",
+      "Turkish": "Yakup",
+      "Bengali": "ইয়াকুব",
+      "Indonesian": "Yaqoob",
+      "Pashto": "یعقوب"
+    }
+  },
+  {
+    "id": "ya13",
+    "name": "Yaqoot",
+    "gender": "Unisex",
+    "meaning": "Ruby, precious stone",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياقوت",
+      "Urdu": "یاقوت",
+      "Persian": "یاقوت",
+      "Turkish": "Yakut",
+      "Bengali": "ইয়াকুত",
+      "Indonesian": "yaqoot",
+      "Pashto": "یاقوت"
+    }
+  },
+  {
+    "id": "ya14",
+    "name": "Yaqub",
+    "gender": "Boy",
+    "meaning": "Prophet Jacob",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يعقوب",
+      "Urdu": "یعقوب",
+      "Persian": "یعقوب",
+      "Turkish": "Yakub",
+      "Bengali": "ইয়াকুব",
+      "Indonesian": "Yaqub",
+      "Pashto": "یعقوب"
+    }
+  },
+  {
+    "name": "Yaqubah",
+    "gender": "Girl",
+    "meaning": "Female form of Jacob",
+    "origin": "Arabic",
+    "id": "ya3",
+    "verified": true
+  },
+  {
+    "id": "ya13_var",
+    "name": "Yaqut",
+    "gender": "Unisex",
+    "meaning": "Ruby, precious stone",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yaqoot",
+    "spellings": {
+      "Arabic": "ياقوت",
+      "Urdu": "یاقوت",
+      "Persian": "یاقوت",
+      "Turkish": "Yakut",
+      "Bengali": "ইয়াকুত",
+      "Indonesian": "Yaqut",
+      "Pashto": "یاقوت"
+    }
+  },
+  {
+    "id": "ya15",
+    "name": "Yara",
+    "gender": "Girl",
+    "meaning": "Small butterfly",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يارا",
+      "Urdu": "یارا",
+      "Persian": "یارا",
+      "Turkish": "Yara",
+      "Bengali": "ইয়ারা",
+      "Indonesian": "Yara",
+      "Pashto": "یاره"
+    }
+  },
+  {
+    "name": "Yaraa",
+    "gender": "Girl",
+    "meaning": "Small butterfly, water lady",
+    "origin": "Arabic",
+    "id": "ya4",
+    "verified": true
+  },
+  {
+    "id": "ya16",
+    "name": "Yarah",
+    "gender": "Girl",
+    "meaning": "Warm",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يارا",
+      "Urdu": "یارہ",
+      "Persian": "یارا",
+      "Turkish": "Yarah",
+      "Bengali": "ইয়ারাহ",
+      "Indonesian": "yarah",
+      "Pashto": "یاره"
+    }
+  },
+  {
+    "name": "Yarmoook",
+    "gender": "Boy",
+    "meaning": "River/Battle site",
+    "origin": "Arabic",
+    "id": "ya35_var",
+    "verified": true,
+    "variant_of": "Yarmouk",
+    "spellings": {
+      "Arabic": "اليرموك",
+      "Urdu": "یرموک",
+      "Persian": "یارمووک",
+      "Turkish": "Yermook",
+      "Bengali": "ইয়ারমুক",
+      "Indonesian": "Yarmoook",
+      "Pashto": "یارموک"
+    }
+  },
+  {
+    "name": "Yarmouk",
+    "gender": "Boy",
+    "meaning": "River/Battle site",
+    "origin": "Arabic",
+    "id": "ya35",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليرموك",
+      "Urdu": "یرموک",
+      "Persian": "یرموک",
+      "Turkish": "Yermük",
+      "Bengali": "ইয়ারমুক",
+      "Indonesian": "Yarmouk",
+      "Pashto": "یرموک"
+    }
+  },
+  {
+    "name": "Yas",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "id": "ya2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياس",
+      "Urdu": "یاس",
+      "Persian": "بله",
+      "Turkish": "Evet",
+      "Bengali": "ইয়াস",
+      "Indonesian": "Ya",
+      "Pashto": "یاس"
+    }
+  },
+  {
+    "id": "ya17",
+    "name": "Yasar",
+    "gender": "Boy",
+    "meaning": "Ease, wealth",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسار",
+      "Urdu": "یاسر",
+      "Persian": "یاسار",
+      "Turkish": "Yaşar",
+      "Bengali": "ইয়াসার",
+      "Indonesian": "Yasar",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "id": "ya18_var",
+    "name": "Yaseen",
+    "gender": "Boy",
+    "meaning": "Sura of Quran; Name of Prophet",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yasin",
+    "spellings": {
+      "Arabic": "ياسين",
+      "Urdu": "یاسین",
+      "Persian": "یاسین",
+      "Turkish": "Yasin",
+      "Bengali": "ইয়াসিন",
+      "Indonesian": "Yasin",
+      "Pashto": "یاسین"
+    }
+  },
+  {
+    "name": "Yaseenah",
+    "gender": "Girl",
+    "meaning": "A Surah in the Quran",
+    "origin": "Arabic",
+    "id": "ya5",
+    "verified": true
+  },
+  {
+    "id": "ya19_var",
+    "name": "Yaseer",
+    "gender": "Boy",
+    "meaning": "Wealthy, easy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yasir",
+    "spellings": {
+      "Arabic": "ياسر",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yaser",
+      "Bengali": "ইয়াসির",
+      "Indonesian": "Yaseer",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yaser",
+    "gender": "Boy",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya6",
+    "verified": true
+  },
+  {
+    "name": "Yaserah",
+    "gender": "Girl",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya7",
+    "verified": true
+  },
+  {
+    "name": "Yashal",
+    "gender": "Boy",
+    "meaning": "Fresh and green",
+    "origin": "Arabic",
+    "id": "ya1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياشال",
+      "Urdu": "یشال",
+      "Persian": "یاشال",
+      "Turkish": "Yaşal",
+      "Bengali": "যশাল",
+      "Indonesian": "Yashal",
+      "Pashto": "یوشال"
+    }
+  },
+  {
+    "id": "ya18",
+    "name": "Yasin",
+    "gender": "Boy",
+    "meaning": "Sura of Quran; Name of Prophet",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسين",
+      "Urdu": "یاسین",
+      "Persian": "یاسین",
+      "Turkish": "Yasin",
+      "Bengali": "ইয়াসিন",
+      "Indonesian": "Yasin",
+      "Pashto": "یاسین"
+    }
+  },
+  {
+    "name": "Yasinah",
+    "gender": "Girl",
+    "meaning": "A Surah in the Quran",
+    "origin": "Arabic",
+    "id": "ya8",
+    "verified": true
+  },
+  {
+    "id": "ya19",
+    "name": "Yasir",
+    "gender": "Boy",
+    "meaning": "Wealthy, easy",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسر",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yasir",
+      "Bengali": "ইয়াসির",
+      "Indonesian": "Yasir",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yasirah",
+    "gender": "Girl",
+    "meaning": "Lenient, easy-going",
+    "origin": "Arabic",
+    "id": "ya9",
+    "verified": true
+  },
+  {
+    "id": "ya20",
+    "name": "Yasmeen",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمین",
+      "Turkish": "Yasemin",
+      "Bengali": "ইয়াসমিন",
+      "Indonesian": "Yasmin",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "id": "ya22_var",
+    "name": "Yasmeena",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yasmina",
+    "spellings": {
+      "Arabic": "ياسمينة",
+      "Urdu": "یاسمینہ",
+      "Persian": "یاسمینا",
+      "Turkish": "Yasmeena",
+      "Bengali": "ইয়াসমিনা",
+      "Indonesian": "Yasmeena",
+      "Pashto": "یاسمینه"
+    }
+  },
+  {
+    "name": "Yasmeenah",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian/Arabic",
+    "id": "ya10",
+    "verified": true
+  },
+  {
+    "name": "Yasmen",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "id": "ya33",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمن",
+      "Turkish": "Yasmen",
+      "Bengali": "ইয়াসমেন",
+      "Indonesian": "Yasmin",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "id": "ya21",
+    "name": "Yasmin",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمین",
+      "Turkish": "Yasemin",
+      "Bengali": "ইয়াসমিন",
+      "Indonesian": "Yasmin",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "id": "ya22",
+    "name": "Yasmina",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمينة",
+      "Urdu": "یاسمینہ",
+      "Persian": "یاسمینا",
+      "Turkish": "Yasmina",
+      "Bengali": "ইয়াসমিনা",
+      "Indonesian": "Yasmina",
+      "Pashto": "یاسمینه"
+    }
+  },
+  {
+    "id": "ya22_var",
+    "name": "Yasminah",
+    "gender": "Girl",
+    "meaning": "Jasmine",
+    "origin": "Persian",
+    "verified": true,
+    "variant_of": "Yasmina",
+    "spellings": {
+      "Arabic": "ياسمينة",
+      "Urdu": "یاسمینہ",
+      "Persian": "یاسمینه",
+      "Turkish": "Yaseminah",
+      "Bengali": "ইয়াসমিনঃ",
+      "Indonesian": "Yasminah",
+      "Pashto": "یاسمینه"
+    }
+  },
+  {
+    "name": "Yasmine",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Arabic/Persian",
+    "id": "ya2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسمين",
+      "Urdu": "یاسمین",
+      "Persian": "یاسمین",
+      "Turkish": "Yasemin",
+      "Bengali": "ইয়াসমিন",
+      "Indonesian": "Yasmin",
+      "Pashto": "یاسمین"
+    }
+  },
+  {
+    "name": "Yasmineh",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "id": "ya11",
+    "verified": true
+  },
+  {
+    "id": "ya23",
+    "name": "Yasna",
+    "gender": "Girl",
+    "meaning": "White rose",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسنا",
+      "Urdu": "یاسنا",
+      "Persian": "یسنا",
+      "Turkish": "Yasna",
+      "Bengali": "ইয়াসনা",
+      "Indonesian": "Yasna",
+      "Pashto": "یاسنا"
+    }
+  },
+  {
+    "id": "ya23_var",
+    "name": "Yasnah",
+    "gender": "Girl",
+    "meaning": "White rose",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yasna",
+    "spellings": {
+      "Arabic": "ياسنة",
+      "Urdu": "یاسنہ",
+      "Persian": "یسنا",
+      "Turkish": "Yasnah",
+      "Bengali": "ইয়াস্নাহ",
+      "Indonesian": "Yasnah",
+      "Pashto": "یاسنه"
+    }
+  },
+  {
+    "name": "Yassar",
+    "gender": "Boy",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya12",
+    "verified": true
+  },
+  {
+    "id": "ya24",
+    "name": "Yasser",
+    "gender": "Boy",
+    "meaning": "Wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياسر",
+      "Urdu": "یاسر",
+      "Persian": "یاسر",
+      "Turkish": "Yaser",
+      "Bengali": "ইয়াসের",
+      "Indonesian": "Yasser",
+      "Pashto": "یاسر"
+    }
+  },
+  {
+    "name": "Yasserah",
+    "gender": "Girl",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya13",
+    "verified": true
+  },
+  {
+    "name": "Yassin",
+    "gender": "Boy",
+    "meaning": "A Surah in the Quran",
+    "origin": "Arabic",
+    "id": "ya14",
+    "verified": true
+  },
+  {
+    "name": "Yassinah",
+    "gender": "Girl",
+    "meaning": "A Surah in the Quran",
+    "origin": "Arabic",
+    "id": "ya15",
+    "verified": true
+  },
+  {
+    "name": "Yassir",
+    "gender": "Boy",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya16",
+    "verified": true
+  },
+  {
+    "name": "Yassirah",
+    "gender": "Girl",
+    "meaning": "Wealth, ease",
+    "origin": "Arabic",
+    "id": "ya17",
+    "verified": true
+  },
+  {
+    "name": "Yassmeen",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian/Arabic",
+    "id": "ya18",
+    "verified": true
+  },
+  {
+    "name": "Yassmin",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian/Arabic",
+    "id": "ya19",
+    "verified": true
+  },
+  {
+    "name": "Yassminah",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian/Arabic",
+    "id": "ya20",
+    "verified": true
+  },
+  {
+    "name": "Yatee",
+    "gender": "Girl",
+    "meaning": "Control",
+    "origin": "Indonesian",
+    "id": "ya21_var",
+    "verified": true,
+    "variant_of": "Yati",
+    "spellings": {
+      "Arabic": "ياتي",
+      "Urdu": "یاٹی",
+      "Persian": "یاتی",
+      "Turkish": "Yatee",
+      "Bengali": "ইয়াতী",
+      "Indonesian": "Yatee",
+      "Pashto": "Yatee"
+    }
+  },
+  {
+    "id": "ya25_var",
+    "name": "Yathreeb",
+    "gender": "Girl",
+    "meaning": "Former name of Medina",
+    "origin": "History",
+    "verified": true,
+    "variant_of": "Yathrib",
+    "spellings": {
+      "Arabic": "يثرب",
+      "Urdu": "یثرب",
+      "Persian": "یثریب",
+      "Turkish": "Yathirdb",
+      "Bengali": "ইয়াতরিব",
+      "Indonesian": "Yatigab",
+      "Pashto": "یثرب"
+    }
+  },
+  {
+    "id": "ya25",
+    "name": "Yathrib",
+    "gender": "Girl",
+    "meaning": "Former name of Medina",
+    "origin": "History",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يثرب",
+      "Urdu": "یثرب",
+      "Persian": "یثرب",
+      "Turkish": "Yesrib",
+      "Bengali": "ইয়াথ্রিব",
+      "Indonesian": "Yatsrib",
+      "Pashto": "یثرب"
+    }
+  },
+  {
+    "name": "Yati",
+    "gender": "Girl",
+    "meaning": "Control",
+    "origin": "Indonesian",
+    "id": "ya21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياتي",
+      "Urdu": "یاٹی",
+      "Persian": "یاتی",
+      "Turkish": "Yati",
+      "Bengali": "ইয়াতি",
+      "Indonesian": "Yati",
+      "Pashto": "یاتي"
+    }
+  },
+  {
+    "name": "Yavooz",
+    "gender": "Boy",
+    "meaning": "Stern, grim",
+    "origin": "Turkish",
+    "id": "ya34_var",
+    "verified": true,
+    "variant_of": "Yavuz",
+    "spellings": {
+      "Arabic": "يافوز",
+      "Urdu": "یاووز",
+      "Persian": "یاووز",
+      "Turkish": "Yavooz",
+      "Bengali": "ইয়াভুজ",
+      "Indonesian": "Yavooz",
+      "Pashto": "یاووز"
+    }
+  },
+  {
+    "name": "Yavuz",
+    "gender": "Boy",
+    "meaning": "Stern, grim",
+    "origin": "Turkish",
+    "id": "ya34",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يافوز",
+      "Urdu": "یاوز",
+      "Persian": "یاووز",
+      "Turkish": "Yavuz",
+      "Bengali": "ইয়াভুজ",
+      "Indonesian": "Yavuz",
+      "Pashto": "یاوز"
+    }
+  },
+  {
+    "id": "ya26",
+    "name": "Yawar",
+    "gender": "Boy",
+    "meaning": "Helper",
+    "origin": "Persian",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ياور",
+      "Urdu": "یاور",
+      "Persian": "یاور",
+      "Turkish": "Yawar",
+      "Bengali": "ইয়াওয়ার",
+      "Indonesian": "Yawar",
+      "Pashto": "یاور"
+    }
+  },
+  {
+    "id": "ya27",
+    "name": "Yazan",
+    "gender": "Boy",
+    "meaning": "Determined; Name of an Arab tribe",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يزن",
+      "Urdu": "یازان",
+      "Persian": "یازان",
+      "Turkish": "Yazan",
+      "Bengali": "ইয়াজান",
+      "Indonesian": "Yazan",
+      "Pashto": "یازان"
+    }
+  },
+  {
+    "name": "Yazd",
+    "gender": "Boy",
+    "meaning": "City of Windcatchers (Iran)",
+    "origin": "Persian",
+    "id": "ya36",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يزد",
+      "Urdu": "یزد",
+      "Persian": "یزد",
+      "Turkish": "Yezd",
+      "Bengali": "ইয়াজদ",
+      "Indonesian": "Yazd",
+      "Pashto": "یزد"
+    }
+  },
+  {
+    "name": "Yazdan",
+    "gender": "Boy",
+    "meaning": "God, divine",
+    "origin": "Persian",
+    "id": "ya21",
+    "verified": true
+  },
+  {
+    "id": "ya28_var",
+    "name": "Yazeed",
+    "gender": "Boy",
+    "meaning": "Increase, grow",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yazid",
+    "spellings": {
+      "Arabic": "يزيد",
+      "Urdu": "یزید",
+      "Persian": "یزید",
+      "Turkish": "Yezid",
+      "Bengali": "ইয়াজিদ",
+      "Indonesian": "Yazeed",
+      "Pashto": "یزید"
+    }
+  },
+  {
+    "name": "Yazen",
+    "gender": "Boy",
+    "meaning": "Weighing, balanced",
+    "origin": "Arabic",
+    "id": "ya22",
+    "verified": true
+  },
+  {
+    "id": "ya28",
+    "name": "Yazid",
+    "gender": "Boy",
+    "meaning": "Increase, grow",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يزيد",
+      "Urdu": "یزید",
+      "Persian": "یزید",
+      "Turkish": "Yezid",
+      "Bengali": "ইয়াজিদ",
+      "Indonesian": "Yazid",
+      "Pashto": "یزید"
+    }
+  },
+  {
+    "name": "Yazidah",
+    "gender": "Girl",
+    "meaning": "Increasing, growing",
+    "origin": "Arabic",
+    "id": "ya23",
+    "verified": true
+  },
+  {
+    "name": "Yazmin",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "id": "ya24",
+    "verified": true
+  },
+  {
+    "name": "Yeegeet",
+    "gender": "Boy",
+    "meaning": "Brave hero",
+    "origin": "Turkish",
+    "id": "yi2_var",
+    "verified": true,
+    "variant_of": "Yigit",
+    "spellings": {
+      "Arabic": "ييجيت",
+      "Urdu": "Yeegeet",
+      "Persian": "یگیت",
+      "Turkish": "Yeegeet",
+      "Bengali": "ইয়েগীত",
+      "Indonesian": "Ya ampun",
+      "Pashto": "Yeegeet"
+    }
+  },
+  {
+    "name": "Yeeldeereem",
+    "gender": "Boy",
+    "meaning": "Lightning (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "yi2_var",
+    "verified": true,
+    "variant_of": "Yildirim",
+    "spellings": {
+      "Arabic": "يلدريم",
+      "Urdu": "ییلدیریم",
+      "Persian": "Yeeldeereem",
+      "Turkish": "Yeeldeereem",
+      "Bengali": "ইয়েলদীরিম",
+      "Indonesian": "Yeeldeereem",
+      "Pashto": "ییلدیریم"
+    }
+  },
+  {
+    "name": "Yeeldeez",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Turkish",
+    "id": "yi1_var",
+    "verified": true,
+    "variant_of": "Yildiz",
+    "spellings": {
+      "Arabic": "يلديز",
+      "Urdu": "ییلدیز",
+      "Persian": "یلدیز",
+      "Turkish": "Yeeldeez",
+      "Bengali": "ইয়েলদিজ",
+      "Indonesian": "Yeeldeez",
+      "Pashto": "ییلدیز"
+    }
+  },
+  {
+    "name": "Yeelmaz",
+    "gender": "Boy",
+    "meaning": "Unyielding; Dauntless",
+    "origin": "Turkish",
+    "id": "yi4_var",
+    "verified": true,
+    "variant_of": "Yilmaz",
+    "spellings": {
+      "Arabic": "يلماز",
+      "Urdu": "یلماز",
+      "Persian": "یلماز",
+      "Turkish": "Yeelmaz",
+      "Bengali": "ইয়েলমাজ",
+      "Indonesian": "Yeelmaz",
+      "Pashto": "ییلماز"
+    }
+  },
+  {
+    "name": "Yehia",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (John)",
+    "origin": "Arabic",
+    "id": "ye1",
+    "verified": true
+  },
+  {
+    "name": "Yehya",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (John)",
+    "origin": "Arabic",
+    "id": "ye2",
+    "verified": true
+  },
+  {
+    "id": "ye1",
+    "name": "Yelda",
+    "gender": "Girl",
+    "meaning": "Dark night, longest night",
+    "origin": "Turkish",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يلدا",
+      "Urdu": "یلدا",
+      "Persian": "یلدا",
+      "Turkish": "Yelda",
+      "Bengali": "ইয়েলদা",
+      "Indonesian": "Yelda",
+      "Pashto": "ییلدا"
+    }
+  },
+  {
+    "id": "ye1_var",
+    "name": "Yeldah",
+    "gender": "Girl",
+    "meaning": "Dark night, longest night",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Yelda",
+    "spellings": {
+      "Arabic": "يلدا",
+      "Urdu": "یلدہ",
+      "Persian": "یلدا",
+      "Turkish": "Yeldah",
+      "Bengali": "ইয়েলদাহ",
+      "Indonesian": "Yeldah",
+      "Pashto": "ییلده"
+    }
+  },
+  {
+    "name": "Yeleez",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ye3_var",
+    "verified": true,
+    "variant_of": "Yeliz",
+    "spellings": {
+      "Arabic": "يليز",
+      "Urdu": "یلیز",
+      "Persian": "یلیز",
+      "Turkish": "Yeleez",
+      "Bengali": "ইয়েলিজ",
+      "Indonesian": "Yaleez",
+      "Pashto": "ییلیز"
+    }
+  },
+  {
+    "name": "Yeliz",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Turkish",
+    "id": "ye3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يليز",
+      "Urdu": "یلز",
+      "Persian": "یلیز",
+      "Turkish": "Yeliz",
+      "Bengali": "ইয়েলিজ",
+      "Indonesian": "Yeliz",
+      "Pashto": "ییلیز"
+    }
+  },
+  {
+    "name": "Yemen",
+    "gender": "Unisex",
+    "meaning": "The South; Happiness",
+    "origin": "Arabic",
+    "id": "ye5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليمن",
+      "Urdu": "یمن",
+      "Persian": "یمن",
+      "Turkish": "Yemen",
+      "Bengali": "ইয়েমেন",
+      "Indonesian": "Yaman",
+      "Pashto": "یمن"
+    }
+  },
+  {
+    "name": "Yemenah",
+    "gender": "Girl",
+    "meaning": "From Yemen, blessed",
+    "origin": "Arabic",
+    "id": "ye3",
+    "verified": true
+  },
+  {
+    "name": "Yenee",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "ye4_var",
+    "verified": true,
+    "variant_of": "Yeni",
+    "spellings": {
+      "Arabic": "ييني",
+      "Urdu": "یینی",
+      "Persian": "ینی",
+      "Turkish": "Yenee",
+      "Bengali": "ইয়েনি",
+      "Indonesian": "Yenee",
+      "Pashto": "یینی"
+    }
+  },
+  {
+    "name": "Yeni",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Indonesian",
+    "id": "ye4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يني",
+      "Urdu": "یینی",
+      "Persian": "ینی",
+      "Turkish": "Yeni",
+      "Bengali": "ইয়েনি",
+      "Indonesian": "Yeni",
+      "Pashto": "یینی"
+    }
+  },
+  {
+    "name": "Yeseem",
+    "gender": "Girl",
+    "meaning": "Jade",
+    "origin": "Turkish",
+    "id": "ye4_var",
+    "verified": true,
+    "variant_of": "Yesim",
+    "spellings": {
+      "Arabic": "نعم",
+      "Urdu": "یسیم",
+      "Persian": "Yeseem",
+      "Turkish": "Evet",
+      "Bengali": "ইয়েসিম",
+      "Indonesian": "Ya sepertinya",
+      "Pashto": "یاسیم"
+    }
+  },
+  {
+    "name": "Yesim",
+    "gender": "Girl",
+    "meaning": "Jade",
+    "origin": "Turkish",
+    "id": "ye4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "نعم",
+      "Urdu": "یسم",
+      "Persian": "یسیم",
+      "Turkish": "Yeşim",
+      "Bengali": "ইয়েসিম",
+      "Indonesian": "Yasim",
+      "Pashto": "Yesim"
+    }
+  },
+  {
+    "name": "Yigit",
+    "gender": "Boy",
+    "meaning": "Brave hero",
+    "origin": "Turkish",
+    "id": "yi2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يجيت",
+      "Urdu": "یگٹ",
+      "Persian": "یگیت",
+      "Turkish": "Yiğit",
+      "Bengali": "ইজিট",
+      "Indonesian": "Yigit",
+      "Pashto": "Yigit"
+    }
+  },
+  {
+    "name": "Yildirim",
+    "gender": "Boy",
+    "meaning": "Lightning (Ottoman Sultan)",
+    "origin": "Turkish",
+    "id": "yi2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يلدريم",
+      "Urdu": "یلدرم",
+      "Persian": "ییلدیریم",
+      "Turkish": "Yıldırım",
+      "Bengali": "ইলদিরিম",
+      "Indonesian": "Yildirim",
+      "Pashto": "Yildirim"
+    }
+  },
+  {
+    "name": "Yildiz",
+    "gender": "Girl",
+    "meaning": "Star",
+    "origin": "Turkish",
+    "id": "yi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يلدز",
+      "Urdu": "یلدز",
+      "Persian": "یلدیز",
+      "Turkish": "Yıldız",
+      "Bengali": "ইলদিজ",
+      "Indonesian": "Yildiz",
+      "Pashto": "ییلدیز"
+    }
+  },
+  {
+    "name": "Yilmaz",
+    "gender": "Boy",
+    "meaning": "Unyielding; Dauntless",
+    "origin": "Turkish",
+    "id": "yi4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يلماز",
+      "Urdu": "یلماز",
+      "Persian": "یلماز",
+      "Turkish": "Yılmaz",
+      "Bengali": "ইলমাজ",
+      "Indonesian": "Yilmaz",
+      "Pashto": "يلماز"
+    }
+  },
+  {
+    "id": "yo1",
+    "name": "Yolanda",
+    "gender": "Girl",
+    "meaning": "Violet flower",
+    "origin": "Greek/Mixed",
+    "verified": false,
+    "spellings": {
+      "Arabic": "يولاندا",
+      "Urdu": "یولینڈا",
+      "Persian": "یولاندا",
+      "Turkish": "Yolanda",
+      "Bengali": "ইয়োলান্ডা",
+      "Indonesian": "Yolanda",
+      "Pashto": "یولاندا"
+    }
+  },
+  {
+    "id": "yo1_var",
+    "name": "Yolandah",
+    "gender": "Girl",
+    "meaning": "Violet flower",
+    "origin": "Greek/Mixed",
+    "verified": false,
+    "variant_of": "Yolanda",
+    "spellings": {
+      "Arabic": "يولاندا",
+      "Urdu": "یولینڈہ",
+      "Persian": "یولاندا",
+      "Turkish": "Yolandah",
+      "Bengali": "ইয়োলান্দাহ",
+      "Indonesian": "Yolanda",
+      "Pashto": "یولنده"
+    }
+  },
+  {
+    "name": "Yoodi",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2_var",
+    "verified": true,
+    "variant_of": "Yudi",
+    "spellings": {
+      "Arabic": "يودي",
+      "Urdu": "یودی",
+      "Persian": "یودی",
+      "Turkish": "Yoodi",
+      "Bengali": "ইউডি",
+      "Indonesian": "Yudi",
+      "Pashto": "یودي"
+    }
+  },
+  {
+    "name": "Yoolia",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia",
+    "spellings": {
+      "Arabic": "يوليا",
+      "Urdu": "یولیا",
+      "Persian": "یولیا",
+      "Turkish": "Yoolia",
+      "Bengali": "ইউলিয়া",
+      "Indonesian": "Yoolia",
+      "Pashto": "يووليا"
+    }
+  },
+  {
+    "name": "Yooliana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana",
+    "spellings": {
+      "Arabic": "يوليانا",
+      "Urdu": "یولیانا",
+      "Persian": "یولیانا",
+      "Turkish": "Yooliana",
+      "Bengali": "ইউলিয়ানা",
+      "Indonesian": "Yooliana",
+      "Pashto": "یوولیانا"
+    }
+  },
+  {
+    "id": "yu1_var",
+    "name": "Yoomna",
+    "gender": "Girl",
+    "meaning": "Good fortune, success, right side",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yumna",
+    "spellings": {
+      "Arabic": "يمنا",
+      "Urdu": "یومنہ",
+      "Persian": "یومنا",
+      "Turkish": "Yoomna",
+      "Bengali": "ইউমনা",
+      "Indonesian": "Yoomna",
+      "Pashto": "یومن"
+    }
+  },
+  {
+    "name": "Yooni",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5_var",
+    "verified": true,
+    "variant_of": "Yuni",
+    "spellings": {
+      "Arabic": "يوني",
+      "Urdu": "یونی",
+      "Persian": "یونی",
+      "Turkish": "Yooni",
+      "Bengali": "ইউনি",
+      "Indonesian": "Yooni",
+      "Pashto": "یوني"
+    }
+  },
+  {
+    "id": "yu2_var",
+    "name": "Yoonoos",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (The Dove)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yunus",
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونوس",
+      "Persian": "یونوس",
+      "Turkish": "Yoonoo'lar",
+      "Bengali": "ইউনুস",
+      "Indonesian": "Yoonoo",
+      "Pashto": "یونووس"
+    }
+  },
+  {
+    "id": "yo2_var",
+    "name": "Yooomna",
+    "gender": "Girl",
+    "meaning": "Right side, blessed (Variant of Yumna)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Youmna",
+    "spellings": {
+      "Arabic": "يوومنا",
+      "Urdu": "یومنہ",
+      "Persian": "یوومنا",
+      "Turkish": "Yooomna",
+      "Bengali": "ইউমনা",
+      "Indonesian": "Yooomna",
+      "Pashto": "یومنا"
+    }
+  },
+  {
+    "id": "yo3_var",
+    "name": "Yooones",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (Variant of Yunus)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Younes",
+    "spellings": {
+      "Arabic": "يوونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yooones",
+      "Bengali": "ইউওনস",
+      "Indonesian": "Yoonon",
+      "Pashto": "یونس"
+    }
+  },
+  {
+    "id": "yo4_var",
+    "name": "Yooosef",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph (Variant of Yusuf)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousef",
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yooosef",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yooosef",
+      "Pashto": "يوسف"
+    }
+  },
+  {
+    "name": "Yooosoof",
+    "gender": "Boy",
+    "meaning": "Joseph (Prophet)",
+    "origin": "Quranic",
+    "id": "yo6_var",
+    "verified": true,
+    "variant_of": "Yousuf",
+    "spellings": {
+      "Arabic": "يوسوف",
+      "Urdu": "یوسوف",
+      "Persian": "یوسف",
+      "Turkish": "ooooof",
+      "Bengali": "ইওসুফ",
+      "Indonesian": "Yooooooo",
+      "Pashto": "یوسوف"
+    }
+  },
+  {
+    "id": "yo5_var",
+    "name": "Yooosra",
+    "gender": "Girl",
+    "meaning": "Ease (Variant of Yusra)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousra",
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یوسرا",
+      "Turkish": "Yooosra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Yooosra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "name": "Yoosof",
+    "gender": "Boy",
+    "meaning": "Joseph",
+    "origin": "Malay",
+    "id": "yu6_var",
+    "verified": true,
+    "variant_of": "Yusof",
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yoosof",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yoosof",
+      "Pashto": "یوسوف"
+    }
+  },
+  {
+    "id": "yu5_var",
+    "name": "Yoosoof",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph; God increases",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusuf",
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yoooof",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yoosoof",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yoosr",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "id": "yu7_var",
+    "verified": true,
+    "variant_of": "Yusr",
+    "spellings": {
+      "Arabic": "يسر",
+      "Urdu": "یوسر",
+      "Persian": "یوسر",
+      "Turkish": "Yoosr",
+      "Bengali": "ইয়োসর",
+      "Indonesian": "Yoosr",
+      "Pashto": "یوسر"
+    }
+  },
+  {
+    "id": "yu6_var",
+    "name": "Yoosra",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusra",
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یوسرا",
+      "Turkish": "Yoosra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Yoosra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "id": "yu4_var",
+    "name": "Yoosri",
+    "gender": "Boy",
+    "meaning": "Well to do, wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yusri",
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یوسری",
+      "Turkish": "Yoosri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Yoosri",
+      "Pashto": "یوسری"
+    }
+  },
+  {
+    "name": "Yosra",
+    "gender": "Girl",
+    "meaning": "Ease, comfort",
+    "origin": "Arabic",
+    "id": "yo1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یوسرا",
+      "Turkish": "Yosra",
+      "Bengali": "ইয়োসরা",
+      "Indonesian": "Yosra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "name": "Yosuf",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Youcef",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Youcef",
+      "Bengali": "ইউসেফ",
+      "Indonesian": "kamucef",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "id": "yo2",
+    "name": "Youmna",
+    "gender": "Girl",
+    "meaning": "Right side, blessed (Variant of Yumna)",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يمنى",
+      "Urdu": "یومنہ",
+      "Persian": "یومنا",
+      "Turkish": "Youmna",
+      "Bengali": "ইউমনা",
+      "Indonesian": "kamu",
+      "Pashto": "یومنه"
+    }
+  },
+  {
+    "id": "yo2_var",
+    "name": "Youmnah",
+    "gender": "Girl",
+    "meaning": "Right side, blessed (Variant of Yumna)",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Youmna",
+    "spellings": {
+      "Arabic": "يمنى",
+      "Urdu": "یومنہ",
+      "Persian": "یومنا",
+      "Turkish": "Youmnah",
+      "Bengali": "ইউমনাহ",
+      "Indonesian": "kamumnah",
+      "Pashto": "یومنه"
+    }
+  },
+  {
+    "id": "yo3",
+    "name": "Younes",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (Variant of Yunus)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Younes",
+      "Bengali": "ইউনেস",
+      "Indonesian": "Younes",
+      "Pashto": "یونس"
+    }
+  },
+  {
+    "name": "Younis",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Jonah)",
+    "origin": "Arabic",
+    "id": "yo4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনিস",
+      "Indonesian": "Younis",
+      "Pashto": "یونس"
+    }
+  },
+  {
+    "name": "Younisah",
+    "gender": "Girl",
+    "meaning": "Dove",
+    "origin": "Arabic",
+    "id": "yo5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونسه",
+      "Urdu": "یونسہ",
+      "Persian": "یونسه",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনিসাহ",
+      "Indonesian": "Younisah",
+      "Pashto": "یونسه"
+    }
+  },
+  {
+    "name": "Younus",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Jonah)",
+    "origin": "Arabic",
+    "id": "yo6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনুস",
+      "Indonesian": "Younus",
+      "Pashto": "یونس"
+    }
+  },
+  {
+    "name": "Younusah",
+    "gender": "Girl",
+    "meaning": "Dove",
+    "origin": "Arabic",
+    "id": "yo7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونسه",
+      "Urdu": "یونسہ",
+      "Persian": "یونسه",
+      "Turkish": "Yunusah",
+      "Bengali": "ইউনুসাহ",
+      "Indonesian": "Younusah",
+      "Pashto": "یونسه"
+    }
+  },
+  {
+    "name": "Yousaf",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousaf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "id": "yo4",
+    "name": "Yousef",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph (Variant of Yusuf)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yousefah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousefah",
+      "Pashto": "یوسفي"
+    }
+  },
+  {
+    "name": "Yousif",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফ",
+      "Indonesian": "Yousif",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yousifah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফাহ",
+      "Indonesian": "Yousifah",
+      "Pashto": "یوسفه"
+    }
+  },
+  {
+    "id": "yo5",
+    "name": "Yousra",
+    "gender": "Girl",
+    "meaning": "Ease (Variant of Yusra)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرا۔",
+      "Persian": "یسرا",
+      "Turkish": "Yousra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Yousra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "id": "yo5_var",
+    "name": "Yousrah",
+    "gender": "Girl",
+    "meaning": "Ease (Variant of Yusra)",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yousra",
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یسرا",
+      "Turkish": "Yüsrah",
+      "Bengali": "ইউসরাহ",
+      "Indonesian": "Yousrah",
+      "Pashto": "یوسره"
+    }
+  },
+  {
+    "name": "Yousri",
+    "gender": "Boy",
+    "meaning": "Wealthy, comfortable",
+    "origin": "Arabic",
+    "id": "yo12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Yousri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Yousri",
+      "Pashto": "یوسری"
+    }
+  },
+  {
+    "name": "Yousriyah",
+    "gender": "Girl",
+    "meaning": "Wealthy, comfortable",
+    "origin": "Arabic",
+    "id": "yo13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرية",
+      "Urdu": "یوسریہ",
+      "Persian": "یسریه",
+      "Turkish": "Yousriyah",
+      "Bengali": "ইউসরিয়াহ",
+      "Indonesian": "Yousriyah",
+      "Pashto": "یوسریه"
+    }
+  },
+  {
+    "name": "Yousry",
+    "gender": "Boy",
+    "meaning": "Wealthy, comfortable",
+    "origin": "Arabic",
+    "id": "yo14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Sen",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Maaf",
+      "Pashto": "یوسري"
+    }
+  },
+  {
+    "name": "Yousryyah",
+    "gender": "Girl",
+    "meaning": "Wealthy, comfortable",
+    "origin": "Arabic",
+    "id": "yo15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرية",
+      "Urdu": "یوسریہ",
+      "Persian": "یسریه",
+      "Turkish": "Senryyah",
+      "Bengali": "ইউসরিয়্যাহ",
+      "Indonesian": "Yousryyah",
+      "Pashto": "یوسریه"
+    }
+  },
+  {
+    "name": "Youssef",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousef",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Youssefa",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفی",
+      "Persian": "یوسفی",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফা",
+      "Indonesian": "Youssefa",
+      "Pashto": "یوسفی"
+    }
+  },
+  {
+    "name": "Youssefah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفی",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Youssefah",
+      "Pashto": "یوسفي"
+    }
+  },
+  {
+    "name": "Youssif",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "kamusif",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Youssifah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفی",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফাহ",
+      "Indonesian": "Youssifah",
+      "Pashto": "یوسفیه"
+    }
+  },
+  {
+    "name": "Youssouf",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Youssouf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Youssra",
+    "gender": "Girl",
+    "meaning": "Ease, comfort",
+    "origin": "Arabic",
+    "id": "yo22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یسرا",
+      "Turkish": "Youssra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Youssra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "name": "Youssri",
+    "gender": "Boy",
+    "meaning": "Wealthy, comfortable",
+    "origin": "Arabic",
+    "id": "yo23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Youssri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Youssri",
+      "Pashto": "یوسفي"
+    }
+  },
+  {
+    "name": "Youssuf",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yo24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Youssufah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليوسفة",
+      "Urdu": "یوسف",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফাহ",
+      "Indonesian": "Youssufah",
+      "Pashto": "یوسفه"
+    }
+  },
+  {
+    "name": "Yousuf",
+    "gender": "Boy",
+    "meaning": "Joseph (Prophet)",
+    "origin": "Quranic",
+    "id": "yo6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yousufah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yo26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফা",
+      "Indonesian": "Yusufah",
+      "Pashto": "یوسفه"
+    }
+  },
+  {
+    "name": "Yudee",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2_var",
+    "verified": true,
+    "variant_of": "Yudi",
+    "spellings": {
+      "Arabic": "يودي",
+      "Urdu": "یوڈی",
+      "Persian": "یودی",
+      "Turkish": "Yudee",
+      "Bengali": "ইউডি",
+      "Indonesian": "Yudee",
+      "Pashto": "یوډی"
+    }
+  },
+  {
+    "name": "Yudi",
+    "gender": "Boy",
+    "meaning": "War",
+    "origin": "Indonesian",
+    "id": "yu2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يودي",
+      "Urdu": "یودی",
+      "Persian": "یودی",
+      "Turkish": "Yudi",
+      "Bengali": "ইউদি",
+      "Indonesian": "Yudi",
+      "Pashto": "یودي"
+    }
+  },
+  {
+    "name": "Yuleea",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia",
+    "spellings": {
+      "Arabic": "يوليا",
+      "Urdu": "یولیا",
+      "Persian": "یولیا",
+      "Turkish": "Yulea",
+      "Bengali": "ইউলিয়া",
+      "Indonesian": "Yulea",
+      "Pashto": "یولیا"
+    }
+  },
+  {
+    "name": "Yuleeana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana",
+    "spellings": {
+      "Arabic": "يوليانا",
+      "Urdu": "یولیانا",
+      "Persian": "یولیانا",
+      "Turkish": "Yuleeana",
+      "Bengali": "ইউলিয়ানা",
+      "Indonesian": "Yuleeana",
+      "Pashto": "یولیانا"
+    }
+  },
+  {
+    "name": "Yulia",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوليا",
+      "Urdu": "یولیا",
+      "Persian": "یولیا",
+      "Turkish": "Julia",
+      "Bengali": "ইউলিয়া",
+      "Indonesian": "Julia",
+      "Pashto": "یولیا"
+    }
+  },
+  {
+    "name": "Yuliah",
+    "gender": "Girl",
+    "meaning": "Youthful",
+    "origin": "Indonesian",
+    "id": "yu3_var",
+    "verified": true,
+    "variant_of": "Yulia",
+    "spellings": {
+      "Arabic": "يوليا",
+      "Urdu": "یولیا",
+      "Persian": "یولیا",
+      "Turkish": "Yuliah",
+      "Bengali": "ইউলিয়া",
+      "Indonesian": "Yulia",
+      "Pashto": "یولیا"
+    }
+  },
+  {
+    "name": "Yuliana",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوليانا",
+      "Urdu": "یولیانا",
+      "Persian": "یولیانا",
+      "Turkish": "Juliana",
+      "Bengali": "ইউলিয়ানা",
+      "Indonesian": "Yuliana",
+      "Pashto": "یولیانا"
+    }
+  },
+  {
+    "name": "Yulianah",
+    "gender": "Girl",
+    "meaning": "Youth",
+    "origin": "Indonesian",
+    "id": "yu4_var",
+    "verified": true,
+    "variant_of": "Yuliana",
+    "spellings": {
+      "Arabic": "يوليانا",
+      "Urdu": "یولیانا",
+      "Persian": "یولیانا",
+      "Turkish": "Yuliana",
+      "Bengali": "ইউলিয়ানাহ",
+      "Indonesian": "Yuliana",
+      "Pashto": "یولیانا"
+    }
+  },
+  {
+    "id": "yu1",
+    "name": "Yumna",
+    "gender": "Girl",
+    "meaning": "Good fortune, success, right side",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يمنى",
+      "Urdu": "یمنا",
+      "Persian": "یومنا",
+      "Turkish": "Yumna",
+      "Bengali": "ইউমনা",
+      "Indonesian": "Yumna",
+      "Pashto": "یومنه"
+    }
+  },
+  {
+    "id": "yu1_var",
+    "name": "Yumnah",
+    "gender": "Girl",
+    "meaning": "Good fortune, success, right side",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yumna",
+    "spellings": {
+      "Arabic": "يمنة",
+      "Urdu": "یومنہ",
+      "Persian": "یومنا",
+      "Turkish": "Yumnah",
+      "Bengali": "ইউমনাহ",
+      "Indonesian": "Yumna",
+      "Pashto": "یومنه"
+    }
+  },
+  {
+    "name": "Yuna",
+    "gender": "Girl",
+    "meaning": "Kindness, mercy",
+    "origin": "Arabic",
+    "id": "yu1",
+    "verified": true
+  },
+  {
+    "name": "Yunee",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5_var",
+    "verified": true,
+    "variant_of": "Yuni",
+    "spellings": {
+      "Arabic": "يوني",
+      "Urdu": "یونی",
+      "Persian": "یونی",
+      "Turkish": "Yunee",
+      "Bengali": "ইউনি",
+      "Indonesian": "Yunee",
+      "Pashto": "یوني"
+    }
+  },
+  {
+    "name": "Yunes",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Jonah)",
+    "origin": "Arabic",
+    "id": "yu2",
+    "verified": true
+  },
+  {
+    "name": "Yuni",
+    "gender": "Girl",
+    "meaning": "June",
+    "origin": "Indonesian",
+    "id": "yu5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوني",
+      "Urdu": "یونی",
+      "Persian": "یونی",
+      "Turkish": "Yuni",
+      "Bengali": "ইউনি",
+      "Indonesian": "Yuni",
+      "Pashto": "یوني"
+    }
+  },
+  {
+    "id": "yu2",
+    "name": "Yunus",
+    "gender": "Boy",
+    "meaning": "Prophet Jonah (The Dove)",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনুস",
+      "Indonesian": "Yunus",
+      "Pashto": "یونس"
+    }
+  },
+  {
+    "name": "Yunusah",
+    "gender": "Girl",
+    "meaning": "Dove",
+    "origin": "Arabic",
+    "id": "yu3",
+    "verified": true
+  },
+  {
+    "name": "Yusef",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Joseph)",
+    "origin": "Arabic",
+    "id": "yu4",
+    "verified": true
+  },
+  {
+    "name": "Yusefah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yu5",
+    "verified": true
+  },
+  {
+    "name": "Yusof",
+    "gender": "Boy",
+    "meaning": "Joseph",
+    "origin": "Malay",
+    "id": "yu6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusof",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yusr",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "id": "yu7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسر",
+      "Urdu": "یوسر",
+      "Persian": "یوسر",
+      "Turkish": "Yusr",
+      "Bengali": "ইউসর",
+      "Indonesian": "Yusr",
+      "Pashto": "یوسر"
+    }
+  },
+  {
+    "id": "yu6",
+    "name": "Yusra",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرى",
+      "Urdu": "یسرہ",
+      "Persian": "یوسرا",
+      "Turkish": "Yusra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Yusra",
+      "Pashto": "یوسرا"
+    }
+  },
+  {
+    "id": "yu6_var",
+    "name": "Yusrah",
+    "gender": "Girl",
+    "meaning": "Ease",
+    "origin": "Quranic",
+    "verified": true,
+    "variant_of": "Yusra",
+    "spellings": {
+      "Arabic": "يسرى",
+      "Urdu": "یسرہ",
+      "Persian": "یوسره",
+      "Turkish": "Yusra",
+      "Bengali": "ইউসরাহ",
+      "Indonesian": "Yusrah",
+      "Pashto": "یوسره"
+    }
+  },
+  {
+    "id": "yu4_var",
+    "name": "Yusree",
+    "gender": "Boy",
+    "meaning": "Well to do, wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "variant_of": "Yusri",
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یوسری",
+      "Turkish": "Yusree",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Yusree",
+      "Pashto": "یوسری"
+    }
+  },
+  {
+    "id": "yu4",
+    "name": "Yusri",
+    "gender": "Boy",
+    "meaning": "Well to do, wealthy",
+    "origin": "Arabic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یوسری",
+      "Turkish": "Yusri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Yusri",
+      "Pashto": "یوسری"
+    }
+  },
+  {
+    "id": "yu5",
+    "name": "Yusuf",
+    "gender": "Boy",
+    "meaning": "Prophet Joseph; God increases",
+    "origin": "Quranic",
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
+  },
+  {
+    "name": "Yusufa",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yu6",
+    "verified": true
+  },
+  {
+    "name": "Yusufah",
+    "gender": "Girl",
+    "meaning": "God will add",
+    "origin": "Arabic",
+    "id": "yu7",
+    "verified": true
+  },
+  {
+    "name": "Yvette",
+    "gender": "Girl",
+    "meaning": "Yew tree",
+    "origin": "French",
+    "id": "yv1",
+    "verified": true
+  },
+  {
+    "name": "Yvonne",
+    "gender": "Girl",
+    "meaning": "Yew tree",
+    "origin": "French",
+    "id": "yv2",
+    "verified": true
+  }
 ]

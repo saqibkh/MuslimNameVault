@@ -1,735 +1,735 @@
 [
-    {
-        "name": "Vafa",
-        "gender": "Girl",
-        "meaning": "Loyalty",
-        "origin": "Persian",
-        "id": "va2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فافا",
-            "Urdu": "وفا",
-            "Persian": "وفا",
-            "Turkish": "Vafa",
-            "Bengali": "ভাফা",
-            "Indonesian": "Vafa",
-            "Pashto": "وفا"
-        }
-    },
-    {
-        "name": "Vafah",
-        "gender": "Girl",
-        "meaning": "Loyalty",
-        "origin": "Persian",
-        "id": "va2_var",
-        "verified": true,
-        "variant_of": "Vafa",
-        "spellings": {
-            "Arabic": "فافاه",
-            "Urdu": "وفاہ",
-            "Persian": "وفاح",
-            "Turkish": "Vafah",
-            "Bengali": "ভাফাহ",
-            "Indonesian": "Vafah",
-            "Pashto": "وفا"
-        }
-    },
-    {
-        "name": "Vafi",
-        "gender": "Boy",
-        "meaning": "Complete or loyal",
-        "origin": "Persian",
-        "id": "va1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فافي",
-            "Urdu": "وافی",
-            "Persian": "وافی",
-            "Turkish": "Vafi",
-            "Bengali": "ভাফি",
-            "Indonesian": "Vafi",
-            "Pashto": "وفي"
-        }
-    },
-    {
-        "name": "Vahap",
-        "gender": "Boy",
-        "meaning": "Giver; Bestower",
-        "origin": "Turkish/Arabic",
-        "id": "va1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فاهاب",
-            "Urdu": "وہاپ",
-            "Persian": "وهاپ",
-            "Turkish": "Vahap",
-            "Bengali": "ভাহাপ",
-            "Indonesian": "Wah",
-            "Pashto": "وهاپ"
-        }
-    },
-    {
-        "name": "Vaheed",
-        "gender": "Boy",
-        "meaning": "The One",
-        "origin": "Persian",
-        "id": "va3_var",
-        "verified": true,
-        "variant_of": "Vahid",
-        "spellings": {
-            "Arabic": "وحيد",
-            "Urdu": "وحید",
-            "Persian": "وحید",
-            "Turkish": "Vahid",
-            "Bengali": "ওয়াহেদ",
-            "Indonesian": "Wahid",
-            "Pashto": "وحید"
-        }
-    },
-    {
-        "name": "Vahid",
-        "gender": "Boy",
-        "meaning": "The One",
-        "origin": "Persian",
-        "id": "va3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "وحيد",
-            "Urdu": "واحد",
-            "Persian": "وحید",
-            "Turkish": "Vahid",
-            "Bengali": "ওয়াহিদ",
-            "Indonesian": "Wahid",
-            "Pashto": "وحید"
-        }
-    },
-    {
-        "name": "Valee",
-        "gender": "Boy",
-        "meaning": "Guardian",
-        "origin": "Persian",
-        "id": "va4_var",
-        "verified": true,
-        "variant_of": "Vali",
-        "spellings": {
-            "Arabic": "فالي",
-            "Urdu": "ویلے",
-            "Persian": "والی",
-            "Turkish": "Vale",
-            "Bengali": "ভ্যালি",
-            "Indonesian": "Valee",
-            "Pashto": "ویلی"
-        }
-    },
-    {
-        "name": "Valenceea",
-        "gender": "Girl",
-        "meaning": "Balansiya (Andalus)",
-        "origin": "Arabic",
-        "id": "va7_var",
-        "verified": true,
-        "variant_of": "Valencia",
-        "spellings": {
-            "Arabic": "فالنسيا",
-            "Urdu": "ویلنسیا",
-            "Persian": "والنسیا",
-            "Turkish": "Valenceea",
-            "Bengali": "ভ্যালেন্সিয়া",
-            "Indonesian": "Valensia",
-            "Pashto": "ویلینسیا"
-        }
-    },
-    {
-        "name": "Valencia",
-        "gender": "Girl",
-        "meaning": "Balansiya (Andalus)",
-        "origin": "Arabic",
-        "id": "va7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فالنسيا",
-            "Urdu": "ویلنسیا",
-            "Persian": "والنسیا",
-            "Turkish": "Valensiya",
-            "Bengali": "ভ্যালেন্সিয়া",
-            "Indonesian": "Valencia",
-            "Pashto": "والنسیا"
-        }
-    },
-    {
-        "name": "Valenciah",
-        "gender": "Girl",
-        "meaning": "Balansiya (Andalus)",
-        "origin": "Arabic",
-        "id": "va7_var",
-        "verified": true,
-        "variant_of": "Valencia",
-        "spellings": {
-            "Arabic": "فالنسيا",
-            "Urdu": "ویلنسیا",
-            "Persian": "والنسیا",
-            "Turkish": "Valensiya",
-            "Bengali": "ভ্যালেন্সিয়া",
-            "Indonesian": "Valencia",
-            "Pashto": "ویلینسیا"
-        }
-    },
-    {
-        "name": "Vali",
-        "gender": "Boy",
-        "meaning": "Guardian",
-        "origin": "Persian",
-        "id": "va4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فالي",
-            "Urdu": "والی",
-            "Persian": "ولی",
-            "Turkish": "Vali",
-            "Bengali": "ভ্যালি",
-            "Indonesian": "Vali",
-            "Pashto": "ویلی"
-        }
-    },
-    {
-        "name": "Van",
-        "gender": "Boy",
-        "meaning": "Lake/City in Turkey",
-        "origin": "Turkish",
-        "id": "va8",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فان",
-            "Urdu": "وین",
-            "Persian": "وانت",
-            "Turkish": "Van",
-            "Bengali": "ভ্যান",
-            "Indonesian": "mobil van",
-            "Pashto": "وین"
-        }
-    },
-    {
-        "name": "Vaneea",
-        "gender": "Girl",
-        "meaning": "Gift of God",
-        "origin": "Persian",
-        "id": "va5_var",
-        "verified": true,
-        "variant_of": "Vania",
-        "spellings": {
-            "Arabic": "فانيا",
-            "Urdu": "ونیا",
-            "Persian": "وانیه",
-            "Turkish": "Vaneea",
-            "Bengali": "ভ্যানেয়া",
-            "Indonesian": "Vaneea",
-            "Pashto": "وینیا"
-        }
-    },
-    {
-        "name": "Vania",
-        "gender": "Girl",
-        "meaning": "Gift of God",
-        "origin": "Persian",
-        "id": "va5",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فانيا",
-            "Urdu": "وانیہ",
-            "Persian": "وانیا",
-            "Turkish": "Vanya",
-            "Bengali": "ভানিয়া",
-            "Indonesian": "Vania",
-            "Pashto": "وینیا"
-        }
-    },
-    {
-        "name": "Vaniah",
-        "gender": "Girl",
-        "meaning": "Gift of God",
-        "origin": "Persian",
-        "id": "va5_var",
-        "verified": true,
-        "variant_of": "Vania",
-        "spellings": {
-            "Arabic": "فانيا",
-            "Urdu": "وانیہ",
-            "Persian": "وانیاه",
-            "Turkish": "Vanya",
-            "Bengali": "ভানিয়াহ",
-            "Indonesian": "Vaniah",
-            "Pashto": "وینیه"
-        }
-    },
-    {
-        "name": "Varda",
-        "gender": "Girl",
-        "meaning": "Rose",
-        "origin": "Persian",
-        "id": "va2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فاردا",
-            "Urdu": "وردہ",
-            "Persian": "واردا",
-            "Turkish": "Varda",
-            "Bengali": "ভার্দা",
-            "Indonesian": "Varda",
-            "Pashto": "وردا"
-        }
-    },
-    {
-        "name": "Vareesha",
-        "gender": "Girl",
-        "meaning": "Lightning",
-        "origin": "Arabic",
-        "id": "va6_var",
-        "verified": true,
-        "variant_of": "Varisha",
-        "spellings": {
-            "Arabic": "فاريشا",
-            "Urdu": "وریشہ",
-            "Persian": "واریشا",
-            "Turkish": "Vareesha",
-            "Bengali": "ভারেশা",
-            "Indonesian": "Varesha",
-            "Pashto": "وریشا"
-        }
-    },
-    {
-        "name": "Varisha",
-        "gender": "Girl",
-        "meaning": "Lightning",
-        "origin": "Arabic",
-        "id": "va6",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فاريشا",
-            "Urdu": "وریشہ",
-            "Persian": "واریشا",
-            "Turkish": "Varişa",
-            "Bengali": "ভারিশা",
-            "Indonesian": "Varisha",
-            "Pashto": "وریشه"
-        }
-    },
-    {
-        "name": "Varishah",
-        "gender": "Girl",
-        "meaning": "Lightning",
-        "origin": "Arabic",
-        "id": "va6_var",
-        "verified": true,
-        "variant_of": "Varisha",
-        "spellings": {
-            "Arabic": "فاريشا",
-            "Urdu": "وریشہ",
-            "Persian": "واریشا",
-            "Turkish": "Varişa",
-            "Bengali": "ভারিশাহ",
-            "Indonesian": "Varisha",
-            "Pashto": "ورشه"
-        }
-    },
-    {
-        "name": "Vaseem",
-        "gender": "Boy",
-        "meaning": "Handsome",
-        "origin": "Persian",
-        "id": "va7_var",
-        "verified": true,
-        "variant_of": "Vasim",
-        "spellings": {
-            "Arabic": "فسيم",
-            "Urdu": "وسیم",
-            "Persian": "واسیم",
-            "Turkish": "Vaseem",
-            "Bengali": "ভাসিম",
-            "Indonesian": "Vasem",
-            "Pashto": "وسیم"
-        }
-    },
-    {
-        "name": "Vasim",
-        "gender": "Boy",
-        "meaning": "Handsome",
-        "origin": "Persian",
-        "id": "va7",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فاسيم",
-            "Urdu": "وسیم",
-            "Persian": "وسیم",
-            "Turkish": "Vasim",
-            "Bengali": "ভাসিম",
-            "Indonesian": "Vasim",
-            "Pashto": "وسیم"
-        }
-    },
-    {
-        "name": "Veda",
-        "gender": "Girl",
-        "meaning": "Farewell or goodbye",
-        "origin": "Turkish/Arabic",
-        "id": "ve1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيدا",
-            "Urdu": "وید",
-            "Persian": "ودا",
-            "Turkish": "Veda",
-            "Bengali": "বেদ",
-            "Indonesian": "Weda",
-            "Pashto": "ویدا"
-        }
-    },
-    {
-        "name": "Vedat",
-        "gender": "Boy",
-        "meaning": "Love; Friendship",
-        "origin": "Turkish/Arabic",
-        "id": "ve1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيدات",
-            "Urdu": "ویدات",
-            "Persian": "ودات",
-            "Turkish": "Vedat",
-            "Bengali": "বেদাত",
-            "Indonesian": "Weda",
-            "Pashto": "ویدات"
-        }
-    },
-    {
-        "id": "vi1_var",
-        "name": "Veean",
-        "gender": "Girl",
-        "meaning": "Love, hope",
-        "origin": "Kurdish",
-        "verified": true,
-        "variant_of": "Vian",
-        "spellings": {
-            "Arabic": "فين",
-            "Urdu": "ویان",
-            "Persian": "وین",
-            "Turkish": "Veean",
-            "Bengali": "ভিন",
-            "Indonesian": "Veean",
-            "Pashto": "ویین"
-        }
-    },
-    {
-        "name": "Veeda",
-        "gender": "Girl",
-        "meaning": "Visible; Evident",
-        "origin": "Persian",
-        "id": "vi1_var",
-        "verified": true,
-        "variant_of": "Vida",
-        "spellings": {
-            "Arabic": "فيدا",
-            "Urdu": "ویدا",
-            "Persian": "ویدا",
-            "Turkish": "Veeda",
-            "Bengali": "বীদা",
-            "Indonesian": "Veeda",
-            "Pashto": "ویدا"
-        }
-    },
-    {
-        "id": "vi2_var",
-        "name": "Veeldan",
-        "gender": "Girl",
-        "meaning": "Children (Turkish form of Wildan)",
-        "origin": "Turkish",
-        "verified": true,
-        "variant_of": "Vildan",
-        "spellings": {
-            "Arabic": "فيلدان",
-            "Urdu": "ویلڈان",
-            "Persian": "ویلدان",
-            "Turkish": "Veeldan",
-            "Bengali": "ভিলদান",
-            "Indonesian": "Veeldan",
-            "Pashto": "ویلډان"
-        }
-    },
-    {
-        "name": "Velee",
-        "gender": "Boy",
-        "meaning": "Guardian",
-        "origin": "Turkish",
-        "id": "ve3_var",
-        "verified": true,
-        "variant_of": "Veli",
-        "spellings": {
-            "Arabic": "فيلي",
-            "Urdu": "ویلے",
-            "Persian": "ولی",
-            "Turkish": "Velee",
-            "Bengali": "ভেলি",
-            "Indonesian": "Velee",
-            "Pashto": "ویل"
-        }
-    },
-    {
-        "name": "Veli",
-        "gender": "Boy",
-        "meaning": "Guardian",
-        "origin": "Turkish",
-        "id": "ve3",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيلي",
-            "Urdu": "ویلی۔",
-            "Persian": "ولی",
-            "Turkish": "Veli",
-            "Bengali": "ভেলি",
-            "Indonesian": "Veli",
-            "Pashto": "ویل"
-        }
-    },
-    {
-        "name": "Veseele",
-        "gender": "Girl",
-        "meaning": "Means; Occasion",
-        "origin": "Turkish/Arabic",
-        "id": "ve2_var",
-        "verified": true,
-        "variant_of": "Vesile",
-        "spellings": {
-            "Arabic": "فيسيلي",
-            "Urdu": "ویسیلے",
-            "Persian": "Veseele",
-            "Turkish": "Veseele",
-            "Bengali": "ভেসেলে",
-            "Indonesian": "Veseele",
-            "Pashto": "Veseele"
-        }
-    },
-    {
-        "name": "Vesile",
-        "gender": "Girl",
-        "meaning": "Means; Occasion",
-        "origin": "Turkish/Arabic",
-        "id": "ve2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيسيلي",
-            "Urdu": "ویسائل",
-            "Persian": "وزیله",
-            "Turkish": "Vesile",
-            "Bengali": "ভেসাইল",
-            "Indonesian": "Vesil",
-            "Pashto": "ویسیل"
-        }
-    },
-    {
-        "name": "Veysel",
-        "gender": "Boy",
-        "meaning": "Wolf",
-        "origin": "Turkish",
-        "id": "ve4",
-        "verified": true,
-        "spellings": {
-            "Arabic": "سفينة",
-            "Urdu": "ویسل",
-            "Persian": "ویسل",
-            "Turkish": "Veysel",
-            "Bengali": "ভেসেল",
-            "Indonesian": "Veysel",
-            "Pashto": "ویسل"
-        }
-    },
-    {
-        "id": "vi1",
-        "name": "Vian",
-        "gender": "Girl",
-        "meaning": "Love, hope",
-        "origin": "Kurdish",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيان",
-            "Urdu": "ویان",
-            "Persian": "ویان",
-            "Turkish": "Vian",
-            "Bengali": "ভিয়ান",
-            "Indonesian": "Vian",
-            "Pashto": "ویان"
-        }
-    },
-    {
-        "name": "Vida",
-        "gender": "Girl",
-        "meaning": "Visible; Evident",
-        "origin": "Persian",
-        "id": "vi1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيدا",
-            "Urdu": "وڈا",
-            "Persian": "ویدا",
-            "Turkish": "vida",
-            "Bengali": "ভিদা",
-            "Indonesian": "Vida",
-            "Pashto": "ویدا"
-        }
-    },
-    {
-        "name": "Vidah",
-        "gender": "Girl",
-        "meaning": "Visible; Evident",
-        "origin": "Persian",
-        "id": "vi1_var",
-        "verified": true,
-        "variant_of": "Vida",
-        "spellings": {
-            "Arabic": "فيدا",
-            "Urdu": "ودہ",
-            "Persian": "ویدا",
-            "Turkish": "Vidah",
-            "Bengali": "বিদাঃ",
-            "Indonesian": "Vidah",
-            "Pashto": "ويده"
-        }
-    },
-    {
-        "id": "vi2",
-        "name": "Vildan",
-        "gender": "Girl",
-        "meaning": "Children (Turkish form of Wildan)",
-        "origin": "Turkish",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيلدان",
-            "Urdu": "ولڈان",
-            "Persian": "ویلدان",
-            "Turkish": "Vildan",
-            "Bengali": "ভিল্ডান",
-            "Indonesian": "Vidan",
-            "Pashto": "ویلډان"
-        }
-    },
-    {
-        "name": "Viqar",
-        "gender": "Boy",
-        "meaning": "Majesty or dignity",
-        "origin": "Arabic",
-        "id": "vi1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فيقار",
-            "Urdu": "وقار",
-            "Persian": "ویقار",
-            "Turkish": "Vikar",
-            "Bengali": "ভিকার",
-            "Indonesian": "Viqar",
-            "Pashto": "وقار"
-        }
-    },
-    {
-        "name": "Volkan",
-        "gender": "Boy",
-        "meaning": "Volcano",
-        "origin": "Turkish",
-        "id": "vo1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فولكان",
-            "Urdu": "وولکن",
-            "Persian": "ولکان",
-            "Turkish": "Volkan",
-            "Bengali": "ভলকান",
-            "Indonesian": "Volkan",
-            "Pashto": "ولکان"
-        }
-    },
-    {
-        "name": "Voloobilis",
-        "gender": "Girl",
-        "meaning": "Walili (Morocco)",
-        "origin": "Berber/Latin",
-        "id": "vo2_var",
-        "verified": true,
-        "variant_of": "Volubilis",
-        "spellings": {
-            "Arabic": "فولوبيليس",
-            "Urdu": "وولوبیلیس",
-            "Persian": "Voloobilis",
-            "Turkish": "Voloobilis",
-            "Bengali": "ভলুবিলিস",
-            "Indonesian": "Voloobilis",
-            "Pashto": "وولوبیلیس"
-        }
-    },
-    {
-        "name": "Volubeelees",
-        "gender": "Girl",
-        "meaning": "Walili (Morocco)",
-        "origin": "Berber/Latin",
-        "id": "vo2_var",
-        "verified": true,
-        "variant_of": "Volubilis",
-        "spellings": {
-            "Arabic": "فولوبيليس",
-            "Urdu": "والیوبیلیز",
-            "Persian": "Volubeelees",
-            "Turkish": "Gönüllüler",
-            "Bengali": "ভলিউবিলিস",
-            "Indonesian": "Volubeelee",
-            "Pashto": "ولوبیلیز"
-        }
-    },
-    {
-        "name": "Volubilis",
-        "gender": "Girl",
-        "meaning": "Walili (Morocco)",
-        "origin": "Berber/Latin",
-        "id": "vo2",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فولوبيليس",
-            "Urdu": "Volubilis",
-            "Persian": "Volubilis",
-            "Turkish": "Volubilis",
-            "Bengali": "ভলুবিলিস",
-            "Indonesian": "Volubilis",
-            "Pashto": "Volubilis"
-        }
-    },
-    {
-        "name": "Vooral",
-        "gender": "Boy",
-        "meaning": "To strike and take",
-        "origin": "Turkish",
-        "id": "vu1_var",
-        "verified": true,
-        "variant_of": "Vural",
-        "spellings": {
-            "Arabic": "فورال",
-            "Urdu": "وورل",
-            "Persian": "وورال",
-            "Turkish": "Vooral",
-            "Bengali": "ভোরাল",
-            "Indonesian": "suara",
-            "Pashto": "وورال"
-        }
-    },
-    {
-        "name": "Vural",
-        "gender": "Boy",
-        "meaning": "To strike and take",
-        "origin": "Turkish",
-        "id": "vu1",
-        "verified": true,
-        "spellings": {
-            "Arabic": "فورال",
-            "Urdu": "Vural",
-            "Persian": "وورال",
-            "Turkish": "Vural",
-            "Bengali": "Vural",
-            "Indonesian": "Vural",
-            "Pashto": "ویرل"
-        }
+  {
+    "name": "Vafa",
+    "gender": "Girl",
+    "meaning": "Loyalty",
+    "origin": "Persian",
+    "id": "va2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فافا",
+      "Urdu": "وفا",
+      "Persian": "وفا",
+      "Turkish": "Vafa",
+      "Bengali": "ভাফা",
+      "Indonesian": "Vafa",
+      "Pashto": "وفا"
     }
+  },
+  {
+    "name": "Vafah",
+    "gender": "Girl",
+    "meaning": "Loyalty",
+    "origin": "Persian",
+    "id": "va2_var",
+    "verified": true,
+    "variant_of": "Vafa",
+    "spellings": {
+      "Arabic": "فافاه",
+      "Urdu": "وفاہ",
+      "Persian": "وفاح",
+      "Turkish": "Vafah",
+      "Bengali": "ভাফাহ",
+      "Indonesian": "Vafah",
+      "Pashto": "وفا"
+    }
+  },
+  {
+    "name": "Vafi",
+    "gender": "Boy",
+    "meaning": "Complete or loyal",
+    "origin": "Persian",
+    "id": "va1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فافي",
+      "Urdu": "وافی",
+      "Persian": "وافی",
+      "Turkish": "Vafi",
+      "Bengali": "ভাফি",
+      "Indonesian": "Vafi",
+      "Pashto": "وفي"
+    }
+  },
+  {
+    "name": "Vahap",
+    "gender": "Boy",
+    "meaning": "Giver; Bestower",
+    "origin": "Turkish/Arabic",
+    "id": "va1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فاهاب",
+      "Urdu": "وہاپ",
+      "Persian": "وهاپ",
+      "Turkish": "Vahap",
+      "Bengali": "ভাহাপ",
+      "Indonesian": "Wah",
+      "Pashto": "وهاپ"
+    }
+  },
+  {
+    "name": "Vaheed",
+    "gender": "Boy",
+    "meaning": "The One",
+    "origin": "Persian",
+    "id": "va3_var",
+    "verified": true,
+    "variant_of": "Vahid",
+    "spellings": {
+      "Arabic": "وحيد",
+      "Urdu": "وحید",
+      "Persian": "وحید",
+      "Turkish": "Vahid",
+      "Bengali": "ওয়াহেদ",
+      "Indonesian": "Wahid",
+      "Pashto": "وحید"
+    }
+  },
+  {
+    "name": "Vahid",
+    "gender": "Boy",
+    "meaning": "The One",
+    "origin": "Persian",
+    "id": "va3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "وحيد",
+      "Urdu": "واحد",
+      "Persian": "وحید",
+      "Turkish": "Vahid",
+      "Bengali": "ওয়াহিদ",
+      "Indonesian": "Wahid",
+      "Pashto": "وحید"
+    }
+  },
+  {
+    "name": "Valee",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Persian",
+    "id": "va4_var",
+    "verified": true,
+    "variant_of": "Vali",
+    "spellings": {
+      "Arabic": "فالي",
+      "Urdu": "ویلے",
+      "Persian": "والی",
+      "Turkish": "Vale",
+      "Bengali": "ভ্যালি",
+      "Indonesian": "Valee",
+      "Pashto": "ویلی"
+    }
+  },
+  {
+    "name": "Valenceea",
+    "gender": "Girl",
+    "meaning": "Balansiya (Andalus)",
+    "origin": "Arabic",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Valencia",
+    "spellings": {
+      "Arabic": "فالنسيا",
+      "Urdu": "ویلنسیا",
+      "Persian": "والنسیا",
+      "Turkish": "Valenceea",
+      "Bengali": "ভ্যালেন্সিয়া",
+      "Indonesian": "Valensia",
+      "Pashto": "ویلینسیا"
+    }
+  },
+  {
+    "name": "Valencia",
+    "gender": "Girl",
+    "meaning": "Balansiya (Andalus)",
+    "origin": "Arabic",
+    "id": "va7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فالنسيا",
+      "Urdu": "ویلنسیا",
+      "Persian": "والنسیا",
+      "Turkish": "Valensiya",
+      "Bengali": "ভ্যালেন্সিয়া",
+      "Indonesian": "Valencia",
+      "Pashto": "والنسیا"
+    }
+  },
+  {
+    "name": "Valenciah",
+    "gender": "Girl",
+    "meaning": "Balansiya (Andalus)",
+    "origin": "Arabic",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Valencia",
+    "spellings": {
+      "Arabic": "فالنسيا",
+      "Urdu": "ویلنسیا",
+      "Persian": "والنسیا",
+      "Turkish": "Valensiya",
+      "Bengali": "ভ্যালেন্সিয়া",
+      "Indonesian": "Valencia",
+      "Pashto": "ویلینسیا"
+    }
+  },
+  {
+    "name": "Vali",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Persian",
+    "id": "va4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فالي",
+      "Urdu": "والی",
+      "Persian": "ولی",
+      "Turkish": "Vali",
+      "Bengali": "ভ্যালি",
+      "Indonesian": "Vali",
+      "Pashto": "ویلی"
+    }
+  },
+  {
+    "name": "Van",
+    "gender": "Boy",
+    "meaning": "Lake/City in Turkey",
+    "origin": "Turkish",
+    "id": "va8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فان",
+      "Urdu": "وین",
+      "Persian": "وانت",
+      "Turkish": "Van",
+      "Bengali": "ভ্যান",
+      "Indonesian": "mobil van",
+      "Pashto": "وین"
+    }
+  },
+  {
+    "name": "Vaneea",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "va5_var",
+    "verified": true,
+    "variant_of": "Vania",
+    "spellings": {
+      "Arabic": "فانيا",
+      "Urdu": "ونیا",
+      "Persian": "وانیه",
+      "Turkish": "Vaneea",
+      "Bengali": "ভ্যানেয়া",
+      "Indonesian": "Vaneea",
+      "Pashto": "وینیا"
+    }
+  },
+  {
+    "name": "Vania",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "va5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فانيا",
+      "Urdu": "وانیہ",
+      "Persian": "وانیا",
+      "Turkish": "Vanya",
+      "Bengali": "ভানিয়া",
+      "Indonesian": "Vania",
+      "Pashto": "وینیا"
+    }
+  },
+  {
+    "name": "Vaniah",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Persian",
+    "id": "va5_var",
+    "verified": true,
+    "variant_of": "Vania",
+    "spellings": {
+      "Arabic": "فانيا",
+      "Urdu": "وانیہ",
+      "Persian": "وانیاه",
+      "Turkish": "Vanya",
+      "Bengali": "ভানিয়াহ",
+      "Indonesian": "Vaniah",
+      "Pashto": "وینیه"
+    }
+  },
+  {
+    "name": "Varda",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "va2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فاردا",
+      "Urdu": "وردہ",
+      "Persian": "واردا",
+      "Turkish": "Varda",
+      "Bengali": "ভার্দা",
+      "Indonesian": "Varda",
+      "Pashto": "وردا"
+    }
+  },
+  {
+    "name": "Vareesha",
+    "gender": "Girl",
+    "meaning": "Lightning",
+    "origin": "Arabic",
+    "id": "va6_var",
+    "verified": true,
+    "variant_of": "Varisha",
+    "spellings": {
+      "Arabic": "فاريشا",
+      "Urdu": "وریشہ",
+      "Persian": "واریشا",
+      "Turkish": "Vareesha",
+      "Bengali": "ভারেশা",
+      "Indonesian": "Varesha",
+      "Pashto": "وریشا"
+    }
+  },
+  {
+    "name": "Varisha",
+    "gender": "Girl",
+    "meaning": "Lightning",
+    "origin": "Arabic",
+    "id": "va6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فاريشا",
+      "Urdu": "وریشہ",
+      "Persian": "واریشا",
+      "Turkish": "Varişa",
+      "Bengali": "ভারিশা",
+      "Indonesian": "Varisha",
+      "Pashto": "وریشه"
+    }
+  },
+  {
+    "name": "Varishah",
+    "gender": "Girl",
+    "meaning": "Lightning",
+    "origin": "Arabic",
+    "id": "va6_var",
+    "verified": true,
+    "variant_of": "Varisha",
+    "spellings": {
+      "Arabic": "فاريشا",
+      "Urdu": "وریشہ",
+      "Persian": "واریشا",
+      "Turkish": "Varişa",
+      "Bengali": "ভারিশাহ",
+      "Indonesian": "Varisha",
+      "Pashto": "ورشه"
+    }
+  },
+  {
+    "name": "Vaseem",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Persian",
+    "id": "va7_var",
+    "verified": true,
+    "variant_of": "Vasim",
+    "spellings": {
+      "Arabic": "فسيم",
+      "Urdu": "وسیم",
+      "Persian": "واسیم",
+      "Turkish": "Vaseem",
+      "Bengali": "ভাসিম",
+      "Indonesian": "Vasem",
+      "Pashto": "وسیم"
+    }
+  },
+  {
+    "name": "Vasim",
+    "gender": "Boy",
+    "meaning": "Handsome",
+    "origin": "Persian",
+    "id": "va7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فاسيم",
+      "Urdu": "وسیم",
+      "Persian": "وسیم",
+      "Turkish": "Vasim",
+      "Bengali": "ভাসিম",
+      "Indonesian": "Vasim",
+      "Pashto": "وسیم"
+    }
+  },
+  {
+    "name": "Veda",
+    "gender": "Girl",
+    "meaning": "Farewell or goodbye",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيدا",
+      "Urdu": "وید",
+      "Persian": "ودا",
+      "Turkish": "Veda",
+      "Bengali": "বেদ",
+      "Indonesian": "Weda",
+      "Pashto": "ویدا"
+    }
+  },
+  {
+    "name": "Vedat",
+    "gender": "Boy",
+    "meaning": "Love; Friendship",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيدات",
+      "Urdu": "ویدات",
+      "Persian": "ودات",
+      "Turkish": "Vedat",
+      "Bengali": "বেদাত",
+      "Indonesian": "Weda",
+      "Pashto": "ویدات"
+    }
+  },
+  {
+    "id": "vi1_var",
+    "name": "Veean",
+    "gender": "Girl",
+    "meaning": "Love, hope",
+    "origin": "Kurdish",
+    "verified": true,
+    "variant_of": "Vian",
+    "spellings": {
+      "Arabic": "فين",
+      "Urdu": "ویان",
+      "Persian": "وین",
+      "Turkish": "Veean",
+      "Bengali": "ভিন",
+      "Indonesian": "Veean",
+      "Pashto": "ویین"
+    }
+  },
+  {
+    "name": "Veeda",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1_var",
+    "verified": true,
+    "variant_of": "Vida",
+    "spellings": {
+      "Arabic": "فيدا",
+      "Urdu": "ویدا",
+      "Persian": "ویدا",
+      "Turkish": "Veeda",
+      "Bengali": "বীদা",
+      "Indonesian": "Veeda",
+      "Pashto": "ویدا"
+    }
+  },
+  {
+    "id": "vi2_var",
+    "name": "Veeldan",
+    "gender": "Girl",
+    "meaning": "Children (Turkish form of Wildan)",
+    "origin": "Turkish",
+    "verified": true,
+    "variant_of": "Vildan",
+    "spellings": {
+      "Arabic": "فيلدان",
+      "Urdu": "ویلڈان",
+      "Persian": "ویلدان",
+      "Turkish": "Veeldan",
+      "Bengali": "ভিলদান",
+      "Indonesian": "Veeldan",
+      "Pashto": "ویلډان"
+    }
+  },
+  {
+    "name": "Velee",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Turkish",
+    "id": "ve3_var",
+    "verified": true,
+    "variant_of": "Veli",
+    "spellings": {
+      "Arabic": "فيلي",
+      "Urdu": "ویلے",
+      "Persian": "ولی",
+      "Turkish": "Velee",
+      "Bengali": "ভেলি",
+      "Indonesian": "Velee",
+      "Pashto": "ویل"
+    }
+  },
+  {
+    "name": "Veli",
+    "gender": "Boy",
+    "meaning": "Guardian",
+    "origin": "Turkish",
+    "id": "ve3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيلي",
+      "Urdu": "ویلی۔",
+      "Persian": "ولی",
+      "Turkish": "Veli",
+      "Bengali": "ভেলি",
+      "Indonesian": "Veli",
+      "Pashto": "ویل"
+    }
+  },
+  {
+    "name": "Veseele",
+    "gender": "Girl",
+    "meaning": "Means; Occasion",
+    "origin": "Turkish/Arabic",
+    "id": "ve2_var",
+    "verified": true,
+    "variant_of": "Vesile",
+    "spellings": {
+      "Arabic": "فيسيلي",
+      "Urdu": "ویسیلے",
+      "Persian": "Veseele",
+      "Turkish": "Veseele",
+      "Bengali": "ভেসেলে",
+      "Indonesian": "Veseele",
+      "Pashto": "Veseele"
+    }
+  },
+  {
+    "name": "Vesile",
+    "gender": "Girl",
+    "meaning": "Means; Occasion",
+    "origin": "Turkish/Arabic",
+    "id": "ve2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيسيلي",
+      "Urdu": "ویسائل",
+      "Persian": "وزیله",
+      "Turkish": "Vesile",
+      "Bengali": "ভেসাইল",
+      "Indonesian": "Vesil",
+      "Pashto": "ویسیل"
+    }
+  },
+  {
+    "name": "Veysel",
+    "gender": "Boy",
+    "meaning": "Wolf",
+    "origin": "Turkish",
+    "id": "ve4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "سفينة",
+      "Urdu": "ویسل",
+      "Persian": "ویسل",
+      "Turkish": "Veysel",
+      "Bengali": "ভেসেল",
+      "Indonesian": "Veysel",
+      "Pashto": "ویسل"
+    }
+  },
+  {
+    "id": "vi1",
+    "name": "Vian",
+    "gender": "Girl",
+    "meaning": "Love, hope",
+    "origin": "Kurdish",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيان",
+      "Urdu": "ویان",
+      "Persian": "ویان",
+      "Turkish": "Vian",
+      "Bengali": "ভিয়ান",
+      "Indonesian": "Vian",
+      "Pashto": "ویان"
+    }
+  },
+  {
+    "name": "Vida",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيدا",
+      "Urdu": "وڈا",
+      "Persian": "ویدا",
+      "Turkish": "vida",
+      "Bengali": "ভিদা",
+      "Indonesian": "Vida",
+      "Pashto": "ویدا"
+    }
+  },
+  {
+    "name": "Vidah",
+    "gender": "Girl",
+    "meaning": "Visible; Evident",
+    "origin": "Persian",
+    "id": "vi1_var",
+    "verified": true,
+    "variant_of": "Vida",
+    "spellings": {
+      "Arabic": "فيدا",
+      "Urdu": "ودہ",
+      "Persian": "ویدا",
+      "Turkish": "Vidah",
+      "Bengali": "বিদাঃ",
+      "Indonesian": "Vidah",
+      "Pashto": "ويده"
+    }
+  },
+  {
+    "id": "vi2",
+    "name": "Vildan",
+    "gender": "Girl",
+    "meaning": "Children (Turkish form of Wildan)",
+    "origin": "Turkish",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيلدان",
+      "Urdu": "ولڈان",
+      "Persian": "ویلدان",
+      "Turkish": "Vildan",
+      "Bengali": "ভিল্ডান",
+      "Indonesian": "Vidan",
+      "Pashto": "ویلډان"
+    }
+  },
+  {
+    "name": "Viqar",
+    "gender": "Boy",
+    "meaning": "Majesty or dignity",
+    "origin": "Arabic",
+    "id": "vi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيقار",
+      "Urdu": "وقار",
+      "Persian": "ویقار",
+      "Turkish": "Vikar",
+      "Bengali": "ভিকার",
+      "Indonesian": "Viqar",
+      "Pashto": "وقار"
+    }
+  },
+  {
+    "name": "Volkan",
+    "gender": "Boy",
+    "meaning": "Volcano",
+    "origin": "Turkish",
+    "id": "vo1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فولكان",
+      "Urdu": "وولکن",
+      "Persian": "ولکان",
+      "Turkish": "Volkan",
+      "Bengali": "ভলকান",
+      "Indonesian": "Volkan",
+      "Pashto": "ولکان"
+    }
+  },
+  {
+    "name": "Voloobilis",
+    "gender": "Girl",
+    "meaning": "Walili (Morocco)",
+    "origin": "Berber/Latin",
+    "id": "vo2_var",
+    "verified": true,
+    "variant_of": "Volubilis",
+    "spellings": {
+      "Arabic": "فولوبيليس",
+      "Urdu": "وولوبیلیس",
+      "Persian": "Voloobilis",
+      "Turkish": "Voloobilis",
+      "Bengali": "ভলুবিলিস",
+      "Indonesian": "Voloobilis",
+      "Pashto": "وولوبیلیس"
+    }
+  },
+  {
+    "name": "Volubeelees",
+    "gender": "Girl",
+    "meaning": "Walili (Morocco)",
+    "origin": "Berber/Latin",
+    "id": "vo2_var",
+    "verified": true,
+    "variant_of": "Volubilis",
+    "spellings": {
+      "Arabic": "فولوبيليس",
+      "Urdu": "والیوبیلیز",
+      "Persian": "Volubeelees",
+      "Turkish": "Gönüllüler",
+      "Bengali": "ভলিউবিলিস",
+      "Indonesian": "Volubeelee",
+      "Pashto": "ولوبیلیز"
+    }
+  },
+  {
+    "name": "Volubilis",
+    "gender": "Girl",
+    "meaning": "Walili (Morocco)",
+    "origin": "Berber/Latin",
+    "id": "vo2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فولوبيليس",
+      "Urdu": "Volubilis",
+      "Persian": "Volubilis",
+      "Turkish": "Volubilis",
+      "Bengali": "ভলুবিলিস",
+      "Indonesian": "Volubilis",
+      "Pashto": "Volubilis"
+    }
+  },
+  {
+    "name": "Vooral",
+    "gender": "Boy",
+    "meaning": "To strike and take",
+    "origin": "Turkish",
+    "id": "vu1_var",
+    "verified": true,
+    "variant_of": "Vural",
+    "spellings": {
+      "Arabic": "فورال",
+      "Urdu": "وورل",
+      "Persian": "وورال",
+      "Turkish": "Vooral",
+      "Bengali": "ভোরাল",
+      "Indonesian": "suara",
+      "Pashto": "وورال"
+    }
+  },
+  {
+    "name": "Vural",
+    "gender": "Boy",
+    "meaning": "To strike and take",
+    "origin": "Turkish",
+    "id": "vu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فورال",
+      "Urdu": "Vural",
+      "Persian": "وورال",
+      "Turkish": "Vural",
+      "Bengali": "Vural",
+      "Indonesian": "Vural",
+      "Pashto": "ویرل"
+    }
+  }
 ]

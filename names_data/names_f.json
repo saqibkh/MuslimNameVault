@@ -578,6 +578,22 @@
     }
   },
   {
+    "name": "Fadhliyah",
+    "gender": "Girl",
+    "meaning": "Generous, bountiful",
+    "origin": "Arabic",
+    "id": "fa1",
+    "verified": true
+  },
+  {
+    "name": "Fadhlun",
+    "gender": "Boy",
+    "meaning": "Bounty, grace",
+    "origin": "Arabic",
+    "id": "fa2",
+    "verified": true
+  },
+  {
     "id": "fa6",
     "name": "Fadi",
     "gender": "Boy",
@@ -680,6 +696,14 @@
       "Indonesian": "Fadilah",
       "Pashto": "فديله"
     }
+  },
+  {
+    "name": "Fadiya",
+    "gender": "Girl",
+    "meaning": "Redeemer, self-sacrificing",
+    "origin": "Arabic",
+    "id": "fa3",
+    "verified": true
   },
   {
     "name": "Fadiyah",
@@ -1645,6 +1669,14 @@
     }
   },
   {
+    "name": "Faisal Khan",
+    "gender": "Boy",
+    "meaning": "Decisive ruler",
+    "origin": "Arabic/Turkic",
+    "id": "fa4",
+    "verified": true
+  },
+  {
     "name": "Faisalah",
     "gender": "Girl",
     "meaning": "Decisive, judge",
@@ -1660,6 +1692,14 @@
       "Indonesian": "Faisalah",
       "Pashto": "فیصله"
     }
+  },
+  {
+    "name": "Faisaluddin",
+    "gender": "Boy",
+    "meaning": "Decisive of the faith",
+    "origin": "Arabic",
+    "id": "fa5",
+    "verified": true
   },
   {
     "id": "fa23",
@@ -1763,6 +1803,30 @@
       "Indonesian": "Faizan",
       "Pashto": "فیضان"
     }
+  },
+  {
+    "name": "Faizur",
+    "gender": "Boy",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "fa6",
+    "verified": true
+  },
+  {
+    "name": "Faizurrahman",
+    "gender": "Boy",
+    "meaning": "Bounty of the Merciful",
+    "origin": "Arabic",
+    "id": "fa7",
+    "verified": true
+  },
+  {
+    "name": "Faizurrahmanah",
+    "gender": "Girl",
+    "meaning": "Bounty of the Merciful",
+    "origin": "Arabic",
+    "id": "fa8",
+    "verified": true
   },
   {
     "name": "Fajar",
@@ -2144,6 +2208,14 @@
       "Indonesian": "Falak",
       "Pashto": "فلک"
     }
+  },
+  {
+    "name": "Falaknaaz",
+    "gender": "Girl",
+    "meaning": "Pride of the sky",
+    "origin": "Persian",
+    "id": "fa9",
+    "verified": true
   },
   {
     "name": "Falaq",
@@ -3110,6 +3182,30 @@
     }
   },
   {
+    "name": "Farhat Aliyah",
+    "gender": "Girl",
+    "meaning": "Exalted joy",
+    "origin": "Arabic",
+    "id": "fa10",
+    "verified": true
+  },
+  {
+    "name": "Farheen",
+    "gender": "Girl",
+    "meaning": "Joyous, happy",
+    "origin": "Persian/Arabic",
+    "id": "fa11",
+    "verified": true
+  },
+  {
+    "name": "Farhina",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Arabic",
+    "id": "fa12",
+    "verified": true
+  },
+  {
     "name": "Faria",
     "gender": "Girl",
     "meaning": "Beautiful, kind",
@@ -3425,6 +3521,14 @@
     }
   },
   {
+    "name": "Farkhonda",
+    "gender": "Girl",
+    "meaning": "Happy, fortunate",
+    "origin": "Persian",
+    "id": "fa13",
+    "verified": true
+  },
+  {
     "name": "Farkhoonda",
     "gender": "Girl",
     "meaning": "Fortunate; Blessed",
@@ -3564,6 +3668,14 @@
     }
   },
   {
+    "name": "Farouq",
+    "gender": "Boy",
+    "meaning": "Distinguisher of truth",
+    "origin": "Arabic",
+    "id": "fa14",
+    "verified": true
+  },
+  {
     "name": "Farouqa",
     "gender": "Boy",
     "meaning": "One who distinguishes truth from falsehood",
@@ -3579,6 +3691,14 @@
       "Indonesian": "Farouqa",
       "Pashto": "فاروقه"
     }
+  },
+  {
+    "name": "Farouque",
+    "gender": "Boy",
+    "meaning": "Distinguisher of truth",
+    "origin": "Arabic",
+    "id": "fa15",
+    "verified": true
   },
   {
     "id": "fa61",
@@ -3701,6 +3821,14 @@
       "Indonesian": "Faruq",
       "Pashto": "فاروق"
     }
+  },
+  {
+    "name": "Faruque",
+    "gender": "Boy",
+    "meaning": "Distinguisher of truth",
+    "origin": "Arabic",
+    "id": "fa16",
+    "verified": true
   },
   {
     "id": "fa65",
@@ -4282,6 +4410,22 @@
     }
   },
   {
+    "name": "Fatheena",
+    "gender": "Girl",
+    "meaning": "Intelligent, sagacious",
+    "origin": "Arabic",
+    "id": "fa17",
+    "verified": true
+  },
+  {
+    "name": "Fatheenah",
+    "gender": "Girl",
+    "meaning": "Intelligent",
+    "origin": "Arabic",
+    "id": "fa18",
+    "verified": true
+  },
+  {
     "name": "Fatheer",
     "gender": "Boy",
     "meaning": "Creator",
@@ -4298,6 +4442,22 @@
       "Indonesian": "Ayah",
       "Pashto": "پلاره"
     }
+  },
+  {
+    "name": "Fatheera",
+    "gender": "Girl",
+    "meaning": "Creator, initiator",
+    "origin": "Arabic",
+    "id": "fa19",
+    "verified": true
+  },
+  {
+    "name": "Fatheerah",
+    "gender": "Girl",
+    "meaning": "Creator, initiator",
+    "origin": "Arabic",
+    "id": "fa20",
+    "verified": true
   },
   {
     "name": "Fatheh",
@@ -4489,6 +4649,14 @@
     }
   },
   {
+    "name": "Fathma",
+    "gender": "Girl",
+    "meaning": "One who abstains, weans",
+    "origin": "Arabic",
+    "id": "fa21",
+    "verified": true
+  },
+  {
     "name": "Fathoor",
     "gender": "Boy",
     "meaning": "Victor",
@@ -4660,6 +4828,14 @@
       "Indonesian": "Fathimah",
       "Pashto": "فاطمه"
     }
+  },
+  {
+    "name": "Fatimatuzzohra",
+    "gender": "Girl",
+    "meaning": "Radiant Fatima",
+    "origin": "Arabic",
+    "id": "fa22",
+    "verified": true
   },
   {
     "name": "Fatime",
@@ -5007,6 +5183,22 @@
     }
   },
   {
+    "name": "Fauziya",
+    "gender": "Girl",
+    "meaning": "Victorious, successful",
+    "origin": "Arabic",
+    "id": "fa23",
+    "verified": true
+  },
+  {
+    "name": "Fauziya Fatima",
+    "gender": "Girl",
+    "meaning": "Victorious Fatima",
+    "origin": "Arabic",
+    "id": "fa24",
+    "verified": true
+  },
+  {
     "name": "Fauziyah",
     "gender": "Girl",
     "meaning": "Successful, victorious",
@@ -5073,6 +5265,14 @@
       "Indonesian": "Fawazah",
       "Pashto": "فوازه"
     }
+  },
+  {
+    "name": "Fawazia",
+    "gender": "Girl",
+    "meaning": "Victorious",
+    "origin": "Arabic",
+    "id": "fa25",
+    "verified": true
   },
   {
     "id": "fa88",
@@ -5333,6 +5533,14 @@
     }
   },
   {
+    "name": "Fayizah",
+    "gender": "Girl",
+    "meaning": "Victorious, winner",
+    "origin": "Arabic",
+    "id": "fa26",
+    "verified": true
+  },
+  {
     "name": "Fayola",
     "gender": "Girl",
     "meaning": "Good luck",
@@ -5560,6 +5768,14 @@
     }
   },
   {
+    "name": "Fazia",
+    "gender": "Girl",
+    "meaning": "Victorious, successful",
+    "origin": "Arabic",
+    "id": "fa27",
+    "verified": true
+  },
+  {
     "id": "fa98",
     "name": "Fazil",
     "gender": "Boy",
@@ -5679,6 +5895,14 @@
       "Indonesian": "Fazl-E-Rabbi",
       "Pashto": "فضل ربي"
     }
+  },
+  {
+    "name": "Fazlehaq",
+    "gender": "Boy",
+    "meaning": "Bounty of the Truth (God)",
+    "origin": "Arabic",
+    "id": "fa28",
+    "verified": true
   },
   {
     "name": "Febree",
@@ -6872,6 +7096,14 @@
     }
   },
   {
+    "name": "Firdausi",
+    "gender": "Girl",
+    "meaning": "Heavenly, of Paradise",
+    "origin": "Persian",
+    "id": "fi1",
+    "verified": true
+  },
+  {
     "id": "fi8",
     "name": "Firdaws",
     "gender": "Unisex",
@@ -7026,6 +7258,14 @@
       "Indonesian": "Fizah",
       "Pashto": "فزه"
     }
+  },
+  {
+    "name": "Fizza",
+    "gender": "Girl",
+    "meaning": "Silver, pure",
+    "origin": "Arabic",
+    "id": "fi2",
+    "verified": true
   },
   {
     "id": "fi11",

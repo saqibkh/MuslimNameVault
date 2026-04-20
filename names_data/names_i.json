@@ -190,6 +190,14 @@
     }
   },
   {
+    "name": "Ibrahem",
+    "gender": "Boy",
+    "meaning": "Father of a multitude (Abraham)",
+    "origin": "Arabic",
+    "id": "ib1",
+    "verified": true
+  },
+  {
     "name": "Ibrahim",
     "gender": "Boy",
     "meaning": "Father of many",
@@ -222,6 +230,14 @@
       "Indonesian": "Ibrahimah",
       "Pashto": "ابراهیمه"
     }
+  },
+  {
+    "name": "Ibrar",
+    "gender": "Boy",
+    "meaning": "Helpful, peaceful",
+    "origin": "Arabic",
+    "id": "ib2",
+    "verified": true
   },
   {
     "name": "Ibreeseem",
@@ -362,6 +378,14 @@
       "Indonesian": "Ibtisam",
       "Pashto": "ابتسام"
     }
+  },
+  {
+    "name": "Ibtissam",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Arabic",
+    "id": "ib3",
+    "verified": true
   },
   {
     "name": "Iceem",
@@ -603,6 +627,14 @@
       "Indonesian": "Iffat",
       "Pashto": "اففت"
     }
+  },
+  {
+    "name": "Iffat Jabeen",
+    "gender": "Girl",
+    "meaning": "Chaste forehead",
+    "origin": "Arabic/Persian",
+    "id": "if1",
+    "verified": true
   },
   {
     "name": "Ifra",
@@ -897,6 +929,14 @@
       "Indonesian": "Ijaz",
       "Pashto": "اعجاز"
     }
+  },
+  {
+    "name": "Ijazah",
+    "gender": "Girl",
+    "meaning": "Permission, certificate",
+    "origin": "Arabic",
+    "id": "ij1",
+    "verified": true
   },
   {
     "name": "Ijlal",
@@ -1416,6 +1456,14 @@
     }
   },
   {
+    "name": "Ilyas Ahmed",
+    "gender": "Boy",
+    "meaning": "Prophet's name and Praised",
+    "origin": "Arabic",
+    "id": "il1",
+    "verified": true
+  },
+  {
     "name": "Ilyasah",
     "gender": "Girl",
     "meaning": "A Prophet's name",
@@ -1899,6 +1947,14 @@
     }
   },
   {
+    "name": "Inaaya",
+    "gender": "Girl",
+    "meaning": "Empathy, care",
+    "origin": "Arabic",
+    "id": "in1",
+    "verified": true
+  },
+  {
     "name": "Inab",
     "gender": "Girl",
     "meaning": "Grape",
@@ -2193,6 +2249,14 @@
     }
   },
   {
+    "name": "Ingrid",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Old Norse",
+    "id": "in2",
+    "verified": true
+  },
+  {
     "name": "Insaf",
     "gender": "Unisex",
     "meaning": "Justice",
@@ -2225,6 +2289,14 @@
       "Indonesian": "Insya Allah",
       "Pashto": "انشا"
     }
+  },
+  {
+    "name": "Inshaa",
+    "gender": "Girl",
+    "meaning": "Creation of God",
+    "origin": "Arabic",
+    "id": "in3",
+    "verified": true
   },
   {
     "name": "Inshah",
@@ -2713,6 +2785,14 @@
     }
   },
   {
+    "name": "Irfaan",
+    "gender": "Boy",
+    "meaning": "Knowledge, wisdom",
+    "origin": "Arabic",
+    "id": "ir1",
+    "verified": true
+  },
+  {
     "name": "Irfan",
     "gender": "Boy",
     "meaning": "Knowledge",
@@ -3058,6 +3138,14 @@
     }
   },
   {
+    "name": "Ishaaq",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Isaac)",
+    "origin": "Arabic",
+    "id": "is1",
+    "verified": true
+  },
+  {
     "name": "Ishac",
     "gender": "Boy",
     "meaning": "A Prophet's name (Isaac)",
@@ -3176,6 +3264,14 @@
       "Indonesian": "Ishraq",
       "Pashto": "اشراق"
     }
+  },
+  {
+    "name": "Ishraqah",
+    "gender": "Girl",
+    "meaning": "Radiance, sunrise",
+    "origin": "Arabic",
+    "id": "is2",
+    "verified": true
   },
   {
     "name": "Ishrat",

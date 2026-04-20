@@ -1123,6 +1123,14 @@
     }
   },
   {
+    "name": "Zaiba",
+    "gender": "Girl",
+    "meaning": "Beautiful, adornment",
+    "origin": "Persian",
+    "id": "za5",
+    "verified": true
+  },
+  {
     "name": "Zaid",
     "gender": "Boy",
     "meaning": "Growth",
@@ -1277,6 +1285,22 @@
     }
   },
   {
+    "name": "Zainabah",
+    "gender": "Girl",
+    "meaning": "Fragrant flower",
+    "origin": "Arabic",
+    "id": "za1",
+    "verified": true
+  },
+  {
+    "name": "Zainabdeen",
+    "gender": "Boy",
+    "meaning": "Adornment of religion",
+    "origin": "Arabic",
+    "id": "za6",
+    "verified": true
+  },
+  {
     "name": "Zainal",
     "gender": "Boy",
     "meaning": "Beauty of",
@@ -1292,6 +1316,22 @@
       "Indonesian": "Zainal",
       "Pashto": "زینال"
     }
+  },
+  {
+    "name": "Zainul",
+    "gender": "Boy",
+    "meaning": "Adornment of",
+    "origin": "Arabic",
+    "id": "za2",
+    "verified": true
+  },
+  {
+    "name": "Zainulabideen",
+    "gender": "Boy",
+    "meaning": "Ornament of the worshippers",
+    "origin": "Arabic",
+    "id": "za7",
+    "verified": true
   },
   {
     "name": "Zaitoon",
@@ -1590,6 +1630,22 @@
       "Indonesian": "Zakir",
       "Pashto": "ذاکر"
     }
+  },
+  {
+    "name": "Zakiya",
+    "gender": "Girl",
+    "meaning": "Pure, intelligent",
+    "origin": "Arabic",
+    "id": "za3",
+    "verified": true
+  },
+  {
+    "name": "Zakiyah",
+    "gender": "Girl",
+    "meaning": "Pure, intelligent",
+    "origin": "Arabic",
+    "id": "za4",
+    "verified": true
   },
   {
     "name": "Zaleeka",
@@ -3032,6 +3088,22 @@
     }
   },
   {
+    "name": "Zeina",
+    "gender": "Girl",
+    "meaning": "Beautiful, adornment",
+    "origin": "Arabic",
+    "id": "ze1",
+    "verified": true
+  },
+  {
+    "name": "Zeinab",
+    "gender": "Girl",
+    "meaning": "Fragrant flower",
+    "origin": "Arabic",
+    "id": "ze2",
+    "verified": true
+  },
+  {
     "name": "Zekee",
     "gender": "Boy",
     "meaning": "Intelligent; Clever",
@@ -3205,6 +3277,14 @@
       "Indonesian": "Zerrin",
       "Pashto": "زرين"
     }
+  },
+  {
+    "name": "Zeyad",
+    "gender": "Boy",
+    "meaning": "Growth, abundance",
+    "origin": "Arabic",
+    "id": "ze3",
+    "verified": true
   },
   {
     "name": "Zeynab",
@@ -3637,6 +3717,14 @@
     }
   },
   {
+    "name": "Ziyadah",
+    "gender": "Girl",
+    "meaning": "Increase, growth",
+    "origin": "Arabic",
+    "id": "zi1",
+    "verified": true
+  },
+  {
     "id": "zi9_var",
     "name": "Ziyah",
     "gender": "Unisex",
@@ -3740,6 +3828,14 @@
       "Indonesian": "Zohaib",
       "Pashto": "زوهیب"
     }
+  },
+  {
+    "name": "Zohair",
+    "gender": "Boy",
+    "meaning": "Little flower",
+    "origin": "Arabic",
+    "id": "zo1",
+    "verified": true
   },
   {
     "id": "zo3",
@@ -5155,6 +5251,14 @@
       "Indonesian": "Zulfi",
       "Pashto": "زلفي"
     }
+  },
+  {
+    "name": "Zulfikar",
+    "gender": "Boy",
+    "meaning": "Sword of Ali",
+    "origin": "Arabic",
+    "id": "zu1",
+    "verified": true
   },
   {
     "id": "zu9",

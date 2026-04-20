@@ -352,6 +352,14 @@
     }
   },
   {
+    "name": "Laeeqah",
+    "gender": "Girl",
+    "meaning": "Worthy, deserving",
+    "origin": "Arabic",
+    "id": "la1",
+    "verified": true
+  },
+  {
     "name": "Laees",
     "gender": "Boy",
     "meaning": "Lion",
@@ -386,6 +394,14 @@
       "Indonesian": "Laeth",
       "Pashto": "لایت"
     }
+  },
+  {
+    "name": "Laheebah",
+    "gender": "Girl",
+    "meaning": "Flame",
+    "origin": "Arabic",
+    "id": "la2",
+    "verified": true
   },
   {
     "name": "Lahore",
@@ -2990,6 +3006,14 @@
     }
   },
   {
+    "name": "Lubaba Bibi",
+    "gender": "Girl",
+    "meaning": "Innermost essence lady",
+    "origin": "Arabic/Persian",
+    "id": "lu1",
+    "verified": true
+  },
+  {
     "name": "Lubabah",
     "gender": "Girl",
     "meaning": "Essence",
@@ -3508,6 +3532,30 @@
     }
   },
   {
+    "name": "Lutfun",
+    "gender": "Girl",
+    "meaning": "Grace, kindness",
+    "origin": "Arabic",
+    "id": "lu2",
+    "verified": true
+  },
+  {
+    "name": "Lutfunnah",
+    "gender": "Girl",
+    "meaning": "Grace, kindness",
+    "origin": "Arabic",
+    "id": "lu3",
+    "verified": true
+  },
+  {
+    "name": "Lutfunnisa",
+    "gender": "Girl",
+    "meaning": "Grace of women",
+    "origin": "Arabic",
+    "id": "lu4",
+    "verified": true
+  },
+  {
     "name": "Lutfur",
     "gender": "Boy",
     "meaning": "Kindness of the Merciful",
@@ -3557,6 +3605,14 @@
       "Indonesian": "Lyam",
       "Pashto": "ليام"
     }
+  },
+  {
+    "name": "Lyamah",
+    "gender": "Girl",
+    "meaning": "Peace, harmony",
+    "origin": "Arabic",
+    "id": "ly1",
+    "verified": true
   },
   {
     "name": "Lyana",
@@ -3679,5 +3735,13 @@
       "Indonesian": "Lyra",
       "Pashto": "ليرا"
     }
+  },
+  {
+    "name": "Lyutha",
+    "gender": "Girl",
+    "meaning": "Lioness",
+    "origin": "Arabic",
+    "id": "ly2",
+    "verified": true
   }
 ]
