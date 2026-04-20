@@ -24,6 +24,14 @@
     "verified": true
   },
   {
+    "name": "Naazima",
+    "gender": "Girl",
+    "meaning": "Organizer, poet",
+    "origin": "Arabic",
+    "id": "na140",
+    "verified": true
+  },
+  {
     "name": "Nabaa",
     "gender": "Girl",
     "meaning": "News",
@@ -72,11 +80,27 @@
     "verified": true
   },
   {
+    "name": "Nadiaa",
+    "gender": "Girl",
+    "meaning": "Caller, announcer",
+    "origin": "Arabic",
+    "id": "na141",
+    "verified": true
+  },
+  {
     "name": "Nadine",
     "gender": "Girl",
     "meaning": "Shower of blessings",
     "origin": "French/Arabic",
     "id": "na10",
+    "verified": true
+  },
+  {
+    "name": "Naeemuddin",
+    "gender": "Boy",
+    "meaning": "Bliss of the faith",
+    "origin": "Arabic",
+    "id": "na142",
     "verified": true
   },
   {
@@ -104,6 +128,14 @@
     "verified": true
   },
   {
+    "name": "Nafisa Begum",
+    "gender": "Girl",
+    "meaning": "Precious lady",
+    "origin": "Arabic/Turkic",
+    "id": "na143",
+    "verified": true
+  },
+  {
     "name": "Naftaliyah",
     "gender": "Girl",
     "meaning": "Wrestling",
@@ -120,6 +152,14 @@
     "verified": true
   },
   {
+    "name": "Nagiba",
+    "gender": "Girl",
+    "meaning": "Noble, excellent",
+    "origin": "Arabic",
+    "id": "na144",
+    "verified": true
+  },
+  {
     "name": "Nagla",
     "gender": "Girl",
     "meaning": "Wide-eyed",
@@ -133,6 +173,14 @@
     "meaning": "Wide-eyed",
     "origin": "Arabic",
     "id": "na17",
+    "verified": true
+  },
+  {
+    "name": "Nagma",
+    "gender": "Girl",
+    "meaning": "Melody, song",
+    "origin": "Arabic/Urdu",
+    "id": "na145",
     "verified": true
   },
   {
@@ -216,6 +264,14 @@
     "verified": true
   },
   {
+    "name": "Naiema",
+    "gender": "Girl",
+    "meaning": "Blessing, comfort",
+    "origin": "Arabic",
+    "id": "na146",
+    "verified": true
+  },
+  {
     "name": "Naifa",
     "gender": "Girl",
     "meaning": "Elevated, exalted",
@@ -253,6 +309,14 @@
     "meaning": "Saved, liberated",
     "origin": "Arabic",
     "id": "na32",
+    "verified": true
+  },
+  {
+    "name": "Najibullah",
+    "gender": "Boy",
+    "meaning": "Noble of Allah",
+    "origin": "Arabic",
+    "id": "na147",
     "verified": true
   },
   {
@@ -325,6 +389,22 @@
     "meaning": "Calm skies",
     "origin": "Arabic variant",
     "id": "na41",
+    "verified": true
+  },
+  {
+    "name": "Nalda",
+    "gender": "Girl",
+    "meaning": "Strong, gift",
+    "origin": "Arabic",
+    "id": "na148",
+    "verified": true
+  },
+  {
+    "name": "Nalina",
+    "gender": "Girl",
+    "meaning": "Lotus",
+    "origin": "Sanskrit",
+    "id": "na149",
     "verified": true
   },
   {
@@ -408,6 +488,14 @@
     "verified": true
   },
   {
+    "name": "Naqeeba",
+    "gender": "Girl",
+    "meaning": "Leader, head",
+    "origin": "Arabic",
+    "id": "na150",
+    "verified": true
+  },
+  {
     "name": "Naqeebah",
     "gender": "Girl",
     "meaning": "Leader, head",
@@ -429,6 +517,14 @@
     "meaning": "Leader",
     "origin": "Arabic",
     "id": "na54",
+    "verified": true
+  },
+  {
+    "name": "Naqira",
+    "gender": "Girl",
+    "meaning": "Pure",
+    "origin": "Arabic",
+    "id": "na151",
     "verified": true
   },
   {
@@ -608,6 +704,14 @@
     "verified": true
   },
   {
+    "name": "Nashid",
+    "gender": "Boy",
+    "meaning": "Song, poem",
+    "origin": "Arabic",
+    "id": "na152",
+    "verified": true
+  },
+  {
     "name": "Nashida",
     "gender": "Girl",
     "meaning": "Student, seeker",
@@ -693,6 +797,14 @@
     "meaning": "Gentle breeze",
     "origin": "Arabic",
     "id": "na87",
+    "verified": true
+  },
+  {
+    "name": "Nasir Ahmed",
+    "gender": "Boy",
+    "meaning": "Helper and praised",
+    "origin": "Arabic",
+    "id": "na153",
     "verified": true
   },
   {
@@ -840,6 +952,14 @@
     "verified": true
   },
   {
+    "name": "Nathalia",
+    "gender": "Girl",
+    "meaning": "Gift of God",
+    "origin": "Latin/Arabic",
+    "id": "na154",
+    "verified": true
+  },
+  {
     "name": "Nathaliah",
     "gender": "Girl",
     "meaning": "Given by God",
@@ -872,6 +992,22 @@
     "verified": true
   },
   {
+    "name": "Nathira",
+    "gender": "Girl",
+    "meaning": "Warner",
+    "origin": "Arabic",
+    "id": "na155",
+    "verified": true
+  },
+  {
+    "name": "Nathiyah",
+    "gender": "Girl",
+    "meaning": "Observer",
+    "origin": "Arabic",
+    "id": "na156",
+    "verified": true
+  },
+  {
     "name": "Nathr",
     "gender": "Boy",
     "meaning": "Vow, pledge",
@@ -896,6 +1032,14 @@
     "verified": true
   },
   {
+    "name": "Naumah",
+    "gender": "Girl",
+    "meaning": "Gentle, soft",
+    "origin": "Arabic",
+    "id": "na157",
+    "verified": true
+  },
+  {
     "name": "Nauman",
     "gender": "Boy",
     "meaning": "Blood, flower bed",
@@ -904,11 +1048,51 @@
     "verified": true
   },
   {
+    "name": "Naushaba",
+    "gender": "Girl",
+    "meaning": "Water of life, elixir",
+    "origin": "Persian",
+    "id": "na158",
+    "verified": true
+  },
+  {
+    "name": "Nausheen",
+    "gender": "Girl",
+    "meaning": "Sweet, pleasant",
+    "origin": "Persian",
+    "id": "na159",
+    "verified": true
+  },
+  {
+    "name": "Nausherwan",
+    "gender": "Boy",
+    "meaning": "Immortal soul",
+    "origin": "Persian",
+    "id": "na160",
+    "verified": true
+  },
+  {
     "name": "Naushin",
     "gender": "Girl",
     "meaning": "Sweet, pleasant",
     "origin": "Persian",
     "id": "na114",
+    "verified": true
+  },
+  {
+    "name": "Navaid",
+    "gender": "Boy",
+    "meaning": "Good news",
+    "origin": "Persian",
+    "id": "na161",
+    "verified": true
+  },
+  {
+    "name": "Naveeda",
+    "gender": "Girl",
+    "meaning": "Glad tidings",
+    "origin": "Persian",
+    "id": "na162",
     "verified": true
   },
   {
@@ -925,6 +1109,14 @@
     "meaning": "New, fresh",
     "origin": "Persian",
     "id": "na116",
+    "verified": true
+  },
+  {
+    "name": "Navita",
+    "gender": "Girl",
+    "meaning": "New",
+    "origin": "Sanskrit",
+    "id": "na163",
     "verified": true
   },
   {
@@ -1000,6 +1192,14 @@
     "verified": true
   },
   {
+    "name": "Nazarah",
+    "gender": "Girl",
+    "meaning": "Vision, beauty",
+    "origin": "Arabic",
+    "id": "na164",
+    "verified": true
+  },
+  {
     "name": "Nazarath",
     "gender": "Girl",
     "meaning": "Freshness, beauty",
@@ -1013,6 +1213,14 @@
     "meaning": "Vision of the faith",
     "origin": "Arabic",
     "id": "na127",
+    "verified": true
+  },
+  {
+    "name": "Nazeema",
+    "gender": "Girl",
+    "meaning": "Organizer",
+    "origin": "Arabic",
+    "id": "na165",
     "verified": true
   },
   {
@@ -1037,6 +1245,14 @@
     "meaning": "Clean, pure",
     "origin": "Arabic",
     "id": "na130",
+    "verified": true
+  },
+  {
+    "name": "Nazifa",
+    "gender": "Girl",
+    "meaning": "Clean, pure",
+    "origin": "Arabic",
+    "id": "na166",
     "verified": true
   },
   {
@@ -1069,6 +1285,14 @@
     "meaning": "Organizer, poet",
     "origin": "Arabic",
     "id": "na134",
+    "verified": true
+  },
+  {
+    "name": "Nazima Khanam",
+    "gender": "Girl",
+    "meaning": "Organizer lady",
+    "origin": "Arabic/Turkic",
+    "id": "na167",
     "verified": true
   },
   {
@@ -1109,6 +1333,14 @@
     "meaning": "Wild rose",
     "origin": "Persian",
     "id": "na139",
+    "verified": true
+  },
+  {
+    "name": "Nazrul",
+    "gender": "Boy",
+    "meaning": "Vow of",
+    "origin": "Arabic",
+    "id": "na168",
     "verified": true
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Seba",
+    "gender": "Girl",
+    "meaning": "Youth, morning breeze",
+    "origin": "Arabic",
+    "id": "se1",
+    "verified": true
+  },
+  {
+    "name": "Sediqa",
+    "gender": "Girl",
+    "meaning": "Truthful",
+    "origin": "Arabic",
+    "id": "se2",
+    "verified": true
+  },
+  {
+    "name": "Sefanaaz",
+    "gender": "Girl",
+    "meaning": "Beautiful pride",
+    "origin": "Persian/Arabic",
+    "id": "se18",
+    "verified": true
+  },
+  {
+    "name": "Seha",
+    "gender": "Girl",
+    "meaning": "Health",
+    "origin": "Arabic",
+    "id": "se3",
+    "verified": true
+  },
+  {
+    "name": "Seham",
+    "gender": "Girl",
+    "meaning": "Arrows",
+    "origin": "Arabic",
+    "id": "se4",
+    "verified": true
+  },
+  {
+    "name": "Sehba",
+    "gender": "Girl",
+    "meaning": "Wine, color",
+    "origin": "Persian",
+    "id": "se5",
+    "verified": true
+  },
+  {
+    "name": "Seif",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "se6",
+    "verified": true
+  },
+  {
+    "name": "Seifeddin",
+    "gender": "Boy",
+    "meaning": "Sword of the faith",
+    "origin": "Arabic",
+    "id": "se7",
+    "verified": true
+  },
+  {
+    "name": "Seifeddine",
+    "gender": "Boy",
+    "meaning": "Sword of the faith",
+    "origin": "Arabic",
+    "id": "se8",
+    "verified": true
+  },
+  {
+    "name": "Selwa",
+    "gender": "Girl",
+    "meaning": "Solace, quail",
+    "origin": "Arabic",
+    "id": "se9",
+    "verified": true
+  },
+  {
+    "name": "Sema",
+    "gender": "Girl",
+    "meaning": "Sky, sign",
+    "origin": "Arabic/Turkish",
+    "id": "se10",
+    "verified": true
+  },
+  {
+    "name": "Semira",
+    "gender": "Girl",
+    "meaning": "Companion in night talk",
+    "origin": "Arabic",
+    "id": "se11",
+    "verified": true
+  },
+  {
+    "name": "Semiramis",
+    "gender": "Girl",
+    "meaning": "Highest heaven (historical name)",
+    "origin": "Assyrian/Persian",
+    "id": "se12",
+    "verified": true
+  },
+  {
+    "name": "Serafina",
+    "gender": "Girl",
+    "meaning": "Burning ones, seraphim",
+    "origin": "Hebrew",
+    "id": "se13",
+    "verified": true
+  },
+  {
+    "name": "Seyam",
+    "gender": "Boy",
+    "meaning": "Fasting",
+    "origin": "Arabic",
+    "id": "se14",
+    "verified": true
+  },
+  {
+    "name": "Seydi",
+    "gender": "Boy",
+    "meaning": "Master, lord",
+    "origin": "Arabic",
+    "id": "se15",
+    "verified": true
+  },
+  {
+    "name": "Seyed",
+    "gender": "Boy",
+    "meaning": "Master, lord",
+    "origin": "Arabic",
+    "id": "se16",
+    "verified": true
+  },
+  {
+    "name": "Seyyedeh",
+    "gender": "Girl",
+    "meaning": "Lady, mistress",
+    "origin": "Arabic",
+    "id": "se17",
+    "verified": true
+  }
+]

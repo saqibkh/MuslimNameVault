@@ -48,11 +48,59 @@
     "verified": true
   },
   {
+    "name": "Rehmana",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "re15",
+    "verified": true
+  },
+  {
+    "name": "Rehmat",
+    "gender": "Unisex",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "id": "re16",
+    "verified": true
+  },
+  {
+    "name": "Rehmatullah",
+    "gender": "Boy",
+    "meaning": "Mercy of Allah",
+    "origin": "Arabic",
+    "id": "re17",
+    "verified": true
+  },
+  {
     "name": "Rema",
     "gender": "Girl",
     "meaning": "White antelope",
     "origin": "Arabic",
     "id": "re7",
+    "verified": true
+  },
+  {
+    "name": "Reshad",
+    "gender": "Boy",
+    "meaning": "Right guidance",
+    "origin": "Arabic",
+    "id": "re18",
+    "verified": true
+  },
+  {
+    "name": "Reshama",
+    "gender": "Girl",
+    "meaning": "Silky",
+    "origin": "Persian/Urdu",
+    "id": "re19",
+    "verified": true
+  },
+  {
+    "name": "Reshman",
+    "gender": "Girl",
+    "meaning": "Silky",
+    "origin": "Persian/Urdu",
+    "id": "re20",
     "verified": true
   },
   {

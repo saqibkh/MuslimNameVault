@@ -80,6 +80,14 @@
     "verified": true
   },
   {
+    "name": "Niruba",
+    "gender": "Girl",
+    "meaning": "Bright, shining",
+    "origin": "Persian",
+    "id": "ni15",
+    "verified": true
+  },
+  {
     "name": "Nisar",
     "gender": "Boy",
     "meaning": "Sacrifice, charity",
@@ -101,6 +109,14 @@
     "meaning": "Wild rose",
     "origin": "Arabic",
     "id": "ni13",
+    "verified": true
+  },
+  {
+    "name": "Nisrine",
+    "gender": "Girl",
+    "meaning": "Wild rose",
+    "origin": "Arabic",
+    "id": "ni16",
     "verified": true
   },
   {

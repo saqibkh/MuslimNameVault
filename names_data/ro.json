@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Rohaia",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro85",
+    "verified": true
+  },
+  {
     "name": "Rohaib",
     "gender": "Boy",
     "meaning": "Generous, wide",
@@ -128,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Rohaiza",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro86",
+    "verified": true
+  },
+  {
     "name": "Rohaizad",
     "gender": "Boy",
     "meaning": "Spiritual born",
@@ -181,6 +197,14 @@
     "meaning": "Spiritual",
     "origin": "Arabic",
     "id": "ro23",
+    "verified": true
+  },
+  {
+    "name": "Rohanah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro87",
     "verified": true
   },
   {
@@ -264,6 +288,14 @@
     "verified": true
   },
   {
+    "name": "Rohmah",
+    "gender": "Girl",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "id": "ro88",
+    "verified": true
+  },
+  {
     "name": "Rohman",
     "gender": "Boy",
     "meaning": "Merciful",
@@ -301,6 +333,14 @@
     "meaning": "Spirit of Allah",
     "origin": "Arabic",
     "id": "ro38",
+    "verified": true
+  },
+  {
+    "name": "Roja",
+    "gender": "Girl",
+    "meaning": "Sunrise, red",
+    "origin": "Persian/Spanish",
+    "id": "ro89",
     "verified": true
   },
   {
@@ -376,6 +416,14 @@
     "verified": true
   },
   {
+    "name": "Roohullah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro90",
+    "verified": true
+  },
+  {
     "name": "Roqaia",
     "gender": "Girl",
     "meaning": "Gentle, ascent",
@@ -429,6 +477,22 @@
     "meaning": "Gentle, ascent",
     "origin": "Arabic",
     "id": "ro54",
+    "verified": true
+  },
+  {
+    "name": "Roqui",
+    "gender": "Boy",
+    "meaning": "Spiritual, gentle",
+    "origin": "Arabic",
+    "id": "ro91",
+    "verified": true
+  },
+  {
+    "name": "Roquia",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ro92",
     "verified": true
   },
   {

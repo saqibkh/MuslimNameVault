@@ -88,11 +88,27 @@
     "verified": true
   },
   {
+    "name": "Moazam",
+    "gender": "Boy",
+    "meaning": "Respected, exalted",
+    "origin": "Arabic",
+    "id": "mo65",
+    "verified": true
+  },
+  {
     "name": "Moazizah",
     "gender": "Girl",
     "meaning": "Honored, esteemed",
     "origin": "Arabic",
     "id": "mo12",
+    "verified": true
+  },
+  {
+    "name": "Mobeen",
+    "gender": "Boy",
+    "meaning": "Clear, manifest",
+    "origin": "Arabic",
+    "id": "mo66",
     "verified": true
   },
   {
@@ -120,6 +136,14 @@
     "verified": true
   },
   {
+    "name": "Mohammadhusain",
+    "gender": "Boy",
+    "meaning": "Praised and beautiful",
+    "origin": "Arabic",
+    "id": "mo67",
+    "verified": true
+  },
+  {
     "name": "Mohammadi",
     "gender": "Boy",
     "meaning": "Pertaining to Muhammad",
@@ -133,6 +157,14 @@
     "meaning": "Praised and satisfied",
     "origin": "Persian/Arabic",
     "id": "mo17",
+    "verified": true
+  },
+  {
+    "name": "Mohammed Ali",
+    "gender": "Boy",
+    "meaning": "Praised and exalted",
+    "origin": "Arabic",
+    "id": "mo68",
     "verified": true
   },
   {
@@ -248,6 +280,14 @@
     "verified": true
   },
   {
+    "name": "Moina",
+    "gender": "Girl",
+    "meaning": "Helper, supporter",
+    "origin": "Arabic",
+    "id": "mo69",
+    "verified": true
+  },
+  {
     "name": "Mojeed",
     "gender": "Boy",
     "meaning": "Glorious, noble",
@@ -349,6 +389,14 @@
     "meaning": "Shining, light",
     "origin": "Arabic",
     "id": "mo44",
+    "verified": true
+  },
+  {
+    "name": "Moudy",
+    "gender": "Boy",
+    "meaning": "Light, bright",
+    "origin": "Arabic",
+    "id": "mo70",
     "verified": true
   },
   {
@@ -493,6 +541,14 @@
     "meaning": "Competitor",
     "origin": "Arabic",
     "id": "mo62",
+    "verified": true
+  },
+  {
+    "name": "Mozammil",
+    "gender": "Boy",
+    "meaning": "Wrapped, clothed",
+    "origin": "Arabic",
+    "id": "mo71",
     "verified": true
   },
   {

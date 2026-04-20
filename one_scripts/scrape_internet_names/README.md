@@ -1,5 +1,4 @@
-```python?code_reference&code_event_index=2
-readme_content = """# Local AI Muslim Name Generator
+# Local AI Muslim Name Generator
 
 This project contains a Python script (`name_generator.py`) that uses a locally hosted Large Language Model (LLM) to generate a deduplicated list of authentic Muslim names. 
 

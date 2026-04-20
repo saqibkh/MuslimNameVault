@@ -56,6 +56,14 @@
     "verified": true
   },
   {
+    "name": "Mehboob",
+    "gender": "Boy",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "me74",
+    "verified": true
+  },
+  {
     "name": "Mehdiyah",
     "gender": "Girl",
     "meaning": "Rightly guided",
@@ -101,6 +109,14 @@
     "meaning": "Praised",
     "origin": "Arabic",
     "id": "me13",
+    "verified": true
+  },
+  {
+    "name": "Mehrab",
+    "gender": "Boy",
+    "meaning": "Arch, niche in a mosque",
+    "origin": "Persian/Arabic",
+    "id": "me75",
     "verified": true
   },
   {
@@ -269,6 +285,14 @@
     "meaning": "Madly in love",
     "origin": "Arabic",
     "id": "me34",
+    "verified": true
+  },
+  {
+    "name": "Mekail",
+    "gender": "Boy",
+    "meaning": "Angel Michael",
+    "origin": "Arabic",
+    "id": "me76",
     "verified": true
   },
   {
@@ -461,6 +485,14 @@
     "meaning": "Joyful",
     "origin": "Arabic",
     "id": "me58",
+    "verified": true
+  },
+  {
+    "name": "Mereena",
+    "gender": "Girl",
+    "meaning": "Joyful",
+    "origin": "Arabic/Latin",
+    "id": "me77",
     "verified": true
   },
   {

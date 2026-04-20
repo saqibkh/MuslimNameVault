@@ -1,10 +1,34 @@
 [
   {
-    "name": "Khazraj",
-    "gender": "Boy",
-    "meaning": "Name of an Arab tribe in Medina",
+    "name": "Khairunessa",
+    "gender": "Girl",
+    "meaning": "Best of women",
     "origin": "Arabic",
     "id": "kh1",
+    "verified": true
+  },
+  {
+    "name": "Khalilur Rehman",
+    "gender": "Boy",
+    "meaning": "Friend of the Merciful",
+    "origin": "Arabic",
+    "id": "kh2",
+    "verified": true
+  },
+  {
+    "name": "Khaula",
+    "gender": "Girl",
+    "meaning": "Female deer, gazelle",
+    "origin": "Arabic",
+    "id": "kh3",
+    "verified": true
+  },
+  {
+    "name": "Khudaiza",
+    "gender": "Girl",
+    "meaning": "Premature baby (Variant of Khadija)",
+    "origin": "Arabic",
+    "id": "kh4",
     "verified": true
   }
 ]

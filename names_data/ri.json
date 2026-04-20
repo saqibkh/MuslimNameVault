@@ -5,7 +5,16 @@
     "meaning": "Contentment",
     "origin": "Arabic",
     "id": "ri1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رضا",
+      "Urdu": "ردا",
+      "Persian": "ریدا",
+      "Turkish": "Ridha",
+      "Bengali": "রিধা",
+      "Indonesian": "Ridha",
+      "Pashto": "ردا"
+    }
   },
   {
     "name": "Ridwaan",
@@ -13,7 +22,16 @@
     "meaning": "Contentment, acceptance",
     "origin": "Arabic",
     "id": "ri2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رضوان",
+      "Urdu": "رضوان",
+      "Persian": "رضوان",
+      "Turkish": "Ridwaan",
+      "Bengali": "রিদওয়ান",
+      "Indonesian": "Ridwaan",
+      "Pashto": "رضوان"
+    }
   },
   {
     "name": "Rifa",
@@ -21,7 +39,16 @@
     "meaning": "Happiness, prosperity",
     "origin": "Arabic",
     "id": "ri3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفا",
+      "Urdu": "ریفا",
+      "Persian": "ریفا",
+      "Turkish": "Rifa",
+      "Bengali": "রিফা",
+      "Indonesian": "Rifa",
+      "Pashto": "ریفا"
+    }
   },
   {
     "name": "Rifaa",
@@ -29,7 +56,16 @@
     "meaning": "High standing",
     "origin": "Arabic",
     "id": "ri4",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعة",
+      "Urdu": "رفاع",
+      "Persian": "رفاع",
+      "Turkish": "Rifaa",
+      "Bengali": "রিফা",
+      "Indonesian": "Rifaa",
+      "Pashto": "رفعه"
+    }
   },
   {
     "name": "Rifaah",
@@ -37,7 +73,16 @@
     "meaning": "High standing",
     "origin": "Arabic",
     "id": "ri5",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفاعة",
+      "Urdu": "رفاہ",
+      "Persian": "رفعت",
+      "Turkish": "Rifaah",
+      "Bengali": "রিফাহ",
+      "Indonesian": "Rifaah",
+      "Pashto": "رفاه"
+    }
   },
   {
     "name": "Rifaie",
@@ -45,7 +90,16 @@
     "meaning": "High ranking",
     "origin": "Arabic",
     "id": "ri6",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعي",
+      "Urdu": "رفائی",
+      "Persian": "رفاعی",
+      "Turkish": "Rifaie",
+      "Bengali": "রিফাই",
+      "Indonesian": "Rifaie",
+      "Pashto": "رفای"
+    }
   },
   {
     "name": "Rifaieh",
@@ -53,7 +107,16 @@
     "meaning": "High ranking",
     "origin": "Arabic",
     "id": "ri7",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعية",
+      "Urdu": "رفائیہ",
+      "Persian": "رفائیه",
+      "Turkish": "Rifaieh",
+      "Bengali": "রিফাইহ",
+      "Indonesian": "Rifaieh",
+      "Pashto": "رفیعه"
+    }
   },
   {
     "name": "Rifaq",
@@ -61,7 +124,16 @@
     "meaning": "Companionship",
     "origin": "Arabic",
     "id": "ri8",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفق",
+      "Urdu": "رفیق",
+      "Persian": "رفاق",
+      "Turkish": "Rıfak",
+      "Bengali": "রিফাক",
+      "Indonesian": "Rifaq",
+      "Pashto": "رفیق"
+    }
   },
   {
     "name": "Rifaqah",
@@ -69,6 +141,23 @@
     "meaning": "Companionship",
     "origin": "Arabic",
     "id": "ri9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقه",
+      "Turkish": "Rifaka",
+      "Bengali": "রিফাকাহ",
+      "Indonesian": "Rifaqah",
+      "Pashto": "رفيقه"
+    }
+  },
+  {
+    "name": "Rifaqat",
+    "gender": "Boy",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri32",
     "verified": true
   },
   {
@@ -77,7 +166,16 @@
     "meaning": "High rank, greatness",
     "origin": "Arabic",
     "id": "ri10",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفعت",
+      "Urdu": "رفعت",
+      "Persian": "رفعت",
+      "Turkish": "Rıfat",
+      "Bengali": "রিফাত",
+      "Indonesian": "Rifat",
+      "Pashto": "رفعت"
+    }
   },
   {
     "name": "Rifatullah",
@@ -85,7 +183,16 @@
     "meaning": "High rank of Allah",
     "origin": "Arabic",
     "id": "ri11",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفعت الله",
+      "Urdu": "رفعت اللہ",
+      "Persian": "رفعت الله",
+      "Turkish": "Rıfatullah",
+      "Bengali": "রিফাতুল্লাহ",
+      "Indonesian": "Rifatullah",
+      "Pashto": "رفعت الله"
+    }
   },
   {
     "name": "Rifqa",
@@ -93,7 +200,16 @@
     "meaning": "Kindness, gentleness",
     "origin": "Arabic",
     "id": "ri12",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقا",
+      "Turkish": "Rıfka",
+      "Bengali": "রিফকা",
+      "Indonesian": "Rifqa",
+      "Pashto": "رفقا"
+    }
   },
   {
     "name": "Rifqah",
@@ -101,7 +217,16 @@
     "meaning": "Kindness, gentleness",
     "origin": "Arabic",
     "id": "ri13",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقه",
+      "Turkish": "Rıfka",
+      "Bengali": "রিফকাহ",
+      "Indonesian": "Rifqah",
+      "Pashto": "رفيقه"
+    }
   },
   {
     "name": "Rihan",
@@ -109,7 +234,16 @@
     "meaning": "Sweet basil",
     "origin": "Arabic",
     "id": "ri14",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريحان",
+      "Urdu": "ریحان",
+      "Persian": "ریحان",
+      "Turkish": "Rihan",
+      "Bengali": "রিহান",
+      "Indonesian": "Rihan",
+      "Pashto": "ریحان"
+    }
   },
   {
     "name": "Rimawi",
@@ -117,7 +251,16 @@
     "meaning": "From the Rimawi family",
     "origin": "Arabic",
     "id": "ri15",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الريماوي",
+      "Urdu": "رماوی",
+      "Persian": "ریماوی",
+      "Turkish": "Rimavi",
+      "Bengali": "রিমাউই",
+      "Indonesian": "Rimawi",
+      "Pashto": "ريماوي"
+    }
   },
   {
     "name": "Rimaz",
@@ -125,7 +268,16 @@
     "meaning": "Respected, honored",
     "origin": "Arabic",
     "id": "ri16",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريماز",
+      "Urdu": "رماز",
+      "Persian": "ریماز",
+      "Turkish": "Rimaz",
+      "Bengali": "রিমাজ",
+      "Indonesian": "Rimaz",
+      "Pashto": "رمز"
+    }
   },
   {
     "name": "Rimon",
@@ -133,7 +285,16 @@
     "meaning": "Pomegranate",
     "origin": "Arabic",
     "id": "ri17",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمون",
+      "Urdu": "ریمون",
+      "Persian": "ریمون",
+      "Turkish": "Rimon",
+      "Bengali": "রিমন",
+      "Indonesian": "Rimon",
+      "Pashto": "ريمون"
+    }
   },
   {
     "name": "Rimona",
@@ -141,7 +302,16 @@
     "meaning": "Pomegranate",
     "origin": "Arabic",
     "id": "ri18",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمونا",
+      "Urdu": "ریمونا",
+      "Persian": "ریمونا",
+      "Turkish": "Rimona",
+      "Bengali": "রিমোনা",
+      "Indonesian": "Rimona",
+      "Pashto": "ريمونا"
+    }
   },
   {
     "name": "Rimy",
@@ -149,7 +319,16 @@
     "meaning": "White antelope",
     "origin": "Arabic",
     "id": "ri19",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمي",
+      "Urdu": "رمی",
+      "Persian": "ریمی",
+      "Turkish": "Rimy",
+      "Bengali": "রিমি",
+      "Indonesian": "Yg dilapisi dgn embun beku",
+      "Pashto": "ريمي"
+    }
   },
   {
     "name": "Risala",
@@ -157,7 +336,16 @@
     "meaning": "Message, mission",
     "origin": "Arabic",
     "id": "ri20",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رسالة",
+      "Urdu": "رسالہ",
+      "Persian": "ریسالا",
+      "Turkish": "Risala",
+      "Bengali": "রিসালা",
+      "Indonesian": "Risala",
+      "Pashto": "رساله"
+    }
   },
   {
     "name": "Rita",
@@ -165,7 +353,16 @@
     "meaning": "Pearl",
     "origin": "Latin",
     "id": "ri21",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريتا",
+      "Urdu": "ریٹا",
+      "Persian": "ریتا",
+      "Turkish": "Rita",
+      "Bengali": "রিতা",
+      "Indonesian": "Rita",
+      "Pashto": "ریټا"
+    }
   },
   {
     "name": "Riya",
@@ -173,7 +370,16 @@
     "meaning": "Fragrance",
     "origin": "Arabic",
     "id": "ri22",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريا",
+      "Urdu": "ریا",
+      "Persian": "ریا",
+      "Turkish": "Riya",
+      "Bengali": "রিয়া",
+      "Indonesian": "Riya",
+      "Pashto": "ریا"
+    }
   },
   {
     "name": "Riyaad",
@@ -181,7 +387,16 @@
     "meaning": "Gardens",
     "origin": "Arabic",
     "id": "ri23",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyad",
+      "Bengali": "রিয়াদ",
+      "Indonesian": "Riyaad",
+      "Pashto": "ریاض"
+    }
   },
   {
     "name": "Riyadah",
@@ -189,7 +404,16 @@
     "meaning": "Gardens",
     "origin": "Arabic",
     "id": "ri24",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رياضه",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyada",
+      "Bengali": "রিয়াদাহ",
+      "Indonesian": "Riyadah",
+      "Pashto": "ریاض"
+    }
   },
   {
     "name": "Riyadh",
@@ -197,7 +421,16 @@
     "meaning": "Gardens",
     "origin": "Arabic",
     "id": "ri25",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyad",
+      "Bengali": "রিয়াদ",
+      "Indonesian": "Riyadh",
+      "Pashto": "ریاض"
+    }
   },
   {
     "name": "Riyaz",
@@ -205,6 +438,23 @@
     "meaning": "Gardens",
     "origin": "Arabic",
     "id": "ri26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyaz",
+      "Bengali": "রিয়াজ",
+      "Indonesian": "Riyaz",
+      "Pashto": "ریاض"
+    }
+  },
+  {
+    "name": "Riyazah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri33",
     "verified": true
   },
   {
@@ -213,7 +463,16 @@
     "meaning": "Provision, blessing",
     "origin": "Arabic",
     "id": "ri27",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق",
+      "Urdu": "رزق",
+      "Persian": "ریزک",
+      "Turkish": "Rizk",
+      "Bengali": "রিজক",
+      "Indonesian": "Rizk",
+      "Pashto": "رزق"
+    }
   },
   {
     "name": "Rizkallah",
@@ -221,7 +480,16 @@
     "meaning": "Provision from Allah",
     "origin": "Arabic",
     "id": "ri28",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rızkallah",
+      "Bengali": "রিজকাল্লাহ",
+      "Indonesian": "Rizkallah",
+      "Pashto": "رضي الله عنه"
+    }
   },
   {
     "name": "Rizqah",
@@ -229,7 +497,16 @@
     "meaning": "Provision",
     "origin": "Arabic",
     "id": "ri29",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزقة",
+      "Urdu": "رزق",
+      "Persian": "رزقه",
+      "Turkish": "Rızka",
+      "Bengali": "রিজকাহ",
+      "Indonesian": "Rizqah",
+      "Pashto": "رزق"
+    }
   },
   {
     "name": "Rizqallah",
@@ -237,7 +514,16 @@
     "meaning": "Provision from Allah",
     "origin": "Arabic",
     "id": "ri30",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rizqallah",
+      "Bengali": "রিজকাল্লাহ",
+      "Indonesian": "Rizqallah",
+      "Pashto": "رضي الله عنه"
+    }
   },
   {
     "name": "Rizqullah",
@@ -245,6 +531,23 @@
     "meaning": "Provision from Allah",
     "origin": "Arabic",
     "id": "ri31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rızkulla",
+      "Bengali": "রিজকুল্লাহ",
+      "Indonesian": "Rizqullah",
+      "Pashto": "رزق الله"
+    }
+  },
+  {
+    "name": "Rizwan Ahmad",
+    "gender": "Boy",
+    "meaning": "Acceptance and praised",
+    "origin": "Arabic",
+    "id": "ri34",
     "verified": true
   }
 ]

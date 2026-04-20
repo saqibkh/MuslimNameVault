@@ -32,11 +32,35 @@
     "verified": true
   },
   {
+    "name": "Rabeeya",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ra72",
+    "verified": true
+  },
+  {
+    "name": "Rabina",
+    "gender": "Girl",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ra73",
+    "verified": true
+  },
+  {
     "name": "Rabiya",
     "gender": "Girl",
     "meaning": "Spring, princess",
     "origin": "Arabic",
     "id": "ra5",
+    "verified": true
+  },
+  {
+    "name": "Rabiyah",
+    "gender": "Girl",
+    "meaning": "Spring, princess",
+    "origin": "Arabic",
+    "id": "ra74",
     "verified": true
   },
   {
@@ -61,6 +85,14 @@
     "meaning": "Pioneer, leader",
     "origin": "Arabic",
     "id": "ra8",
+    "verified": true
+  },
+  {
+    "name": "Raeesah",
+    "gender": "Girl",
+    "meaning": "Leader, princess",
+    "origin": "Arabic",
+    "id": "ra75",
     "verified": true
   },
   {
@@ -93,6 +125,14 @@
     "meaning": "Companion, friend",
     "origin": "Arabic",
     "id": "ra12",
+    "verified": true
+  },
+  {
+    "name": "Rafeeuddin",
+    "gender": "Boy",
+    "meaning": "Noble of the faith",
+    "origin": "Arabic",
+    "id": "ra76",
     "verified": true
   },
   {
@@ -192,11 +232,27 @@
     "verified": true
   },
   {
+    "name": "Rajia",
+    "gender": "Girl",
+    "meaning": "Hopeful",
+    "origin": "Arabic",
+    "id": "ra77",
+    "verified": true
+  },
+  {
     "name": "Rajiha",
     "gender": "Girl",
     "meaning": "Sensible, rational",
     "origin": "Arabic",
     "id": "ra25",
+    "verified": true
+  },
+  {
+    "name": "Rakaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ra78",
     "verified": true
   },
   {
@@ -240,6 +296,14 @@
     "verified": true
   },
   {
+    "name": "Ramina",
+    "gender": "Girl",
+    "meaning": "Joyful",
+    "origin": "Arabic",
+    "id": "ra79",
+    "verified": true
+  },
+  {
     "name": "Ramiya",
     "gender": "Girl",
     "meaning": "Archer",
@@ -253,6 +317,14 @@
     "meaning": "Archer",
     "origin": "Arabic",
     "id": "ra32",
+    "verified": true
+  },
+  {
+    "name": "Ramiza",
+    "gender": "Girl",
+    "meaning": "Symbol, sign",
+    "origin": "Arabic",
+    "id": "ra80",
     "verified": true
   },
   {
@@ -320,6 +392,14 @@
     "verified": true
   },
   {
+    "name": "Ranjana",
+    "gender": "Girl",
+    "meaning": "Delightful",
+    "origin": "Sanskrit",
+    "id": "ra81",
+    "verified": true
+  },
+  {
     "name": "Ranwa",
     "gender": "Girl",
     "meaning": "Delight, beautiful view",
@@ -341,6 +421,14 @@
     "meaning": "Guardian, observer",
     "origin": "Arabic",
     "id": "ra43",
+    "verified": true
+  },
+  {
+    "name": "Rashda",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra82",
     "verified": true
   },
   {
@@ -472,6 +560,14 @@
     "verified": true
   },
   {
+    "name": "Rayees",
+    "gender": "Boy",
+    "meaning": "Leader, chief",
+    "origin": "Arabic",
+    "id": "ra83",
+    "verified": true
+  },
+  {
     "name": "Rayya",
     "gender": "Girl",
     "meaning": "Breeze, fragrance",
@@ -493,6 +589,14 @@
     "meaning": "Calm, composed",
     "origin": "Arabic",
     "id": "ra62",
+    "verified": true
+  },
+  {
+    "name": "Razaullah",
+    "gender": "Boy",
+    "meaning": "Pleasure of Allah",
+    "origin": "Arabic",
+    "id": "ra84",
     "verified": true
   },
   {

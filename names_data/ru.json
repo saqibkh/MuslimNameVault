@@ -144,6 +144,22 @@
     "verified": true
   },
   {
+    "name": "Rukhsana Begum",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced lady",
+    "origin": "Persian/Turkic",
+    "id": "ru58",
+    "verified": true
+  },
+  {
+    "name": "Rukhsarunnisa",
+    "gender": "Girl",
+    "meaning": "Face of women",
+    "origin": "Persian/Arabic",
+    "id": "ru59",
+    "verified": true
+  },
+  {
     "name": "Rukhshan",
     "gender": "Boy",
     "meaning": "Dazzling, shining",
@@ -205,6 +221,14 @@
     "meaning": "Adorned with gold",
     "origin": "Sanskrit",
     "id": "ru26",
+    "verified": true
+  },
+  {
+    "name": "Ruksana",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced",
+    "origin": "Persian",
+    "id": "ru60",
     "verified": true
   },
   {
@@ -272,6 +296,14 @@
     "verified": true
   },
   {
+    "name": "Ruqqaiyah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ru61",
+    "verified": true
+  },
+  {
     "name": "Ruqqaya",
     "gender": "Girl",
     "meaning": "Ascent, gentle",
@@ -296,6 +328,14 @@
     "verified": true
   },
   {
+    "name": "Ruqqayya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ru62",
+    "verified": true
+  },
+  {
     "name": "Ruqqayyah",
     "gender": "Girl",
     "meaning": "Ascent, gentle",
@@ -317,6 +357,14 @@
     "meaning": "Ascent, gentle",
     "origin": "Arabic",
     "id": "ru40",
+    "verified": true
+  },
+  {
+    "name": "Ruqsan",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced",
+    "origin": "Persian",
+    "id": "ru63",
     "verified": true
   },
   {

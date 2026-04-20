@@ -40,6 +40,14 @@
     "verified": true
   },
   {
+    "name": "Nureen",
+    "gender": "Girl",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "nu23",
+    "verified": true
+  },
+  {
     "name": "Nurhan",
     "gender": "Girl",
     "meaning": "Light of the king",
@@ -96,6 +104,14 @@
     "verified": true
   },
   {
+    "name": "Nurjehan",
+    "gender": "Girl",
+    "meaning": "Light of the world",
+    "origin": "Persian",
+    "id": "nu24",
+    "verified": true
+  },
+  {
     "name": "Nuruddeen",
     "gender": "Boy",
     "meaning": "Light of the faith",
@@ -128,6 +144,14 @@
     "verified": true
   },
   {
+    "name": "Nurulislam",
+    "gender": "Boy",
+    "meaning": "Light of Islam",
+    "origin": "Arabic",
+    "id": "nu25",
+    "verified": true
+  },
+  {
     "name": "Nurun",
     "gender": "Girl",
     "meaning": "Light",
@@ -144,11 +168,27 @@
     "verified": true
   },
   {
+    "name": "Nurunisha",
+    "gender": "Girl",
+    "meaning": "Light of women",
+    "origin": "Arabic/Persian",
+    "id": "nu26",
+    "verified": true
+  },
+  {
     "name": "Nurunnahar",
     "gender": "Girl",
     "meaning": "Light of the day",
     "origin": "Arabic",
     "id": "nu19",
+    "verified": true
+  },
+  {
+    "name": "Nuruzzaman",
+    "gender": "Boy",
+    "meaning": "Light of the era",
+    "origin": "Arabic",
+    "id": "nu27",
     "verified": true
   },
   {
@@ -160,6 +200,14 @@
     "verified": true
   },
   {
+    "name": "Nushrat",
+    "gender": "Girl",
+    "meaning": "Help, victory",
+    "origin": "Arabic",
+    "id": "nu28",
+    "verified": true
+  },
+  {
     "name": "Nusra",
     "gender": "Girl",
     "meaning": "Help, victory",
@@ -168,11 +216,27 @@
     "verified": true
   },
   {
+    "name": "Nuur",
+    "gender": "Unisex",
+    "meaning": "Light",
+    "origin": "Arabic",
+    "id": "nu29",
+    "verified": true
+  },
+  {
     "name": "Nuwayra",
     "gender": "Girl",
     "meaning": "Small fire, light",
     "origin": "Arabic",
     "id": "nu22",
+    "verified": true
+  },
+  {
+    "name": "Nuwayrah",
+    "gender": "Girl",
+    "meaning": "Small fire, light",
+    "origin": "Arabic",
+    "id": "nu30",
     "verified": true
   }
 ]

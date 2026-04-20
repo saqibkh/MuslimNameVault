@@ -1,10 +1,50 @@
 [
   {
+    "name": "Miaar",
+    "gender": "Unisex",
+    "meaning": "Standard, measure",
+    "origin": "Arabic",
+    "id": "mi9",
+    "verified": true
+  },
+  {
+    "name": "Mian",
+    "gender": "Boy",
+    "meaning": "Sir, gentleman",
+    "origin": "Urdu/Persian",
+    "id": "mi10",
+    "verified": true
+  },
+  {
+    "name": "Mihraban",
+    "gender": "Unisex",
+    "meaning": "Kind, loving",
+    "origin": "Persian",
+    "id": "mi11",
+    "verified": true
+  },
+  {
+    "name": "Mikael",
+    "gender": "Boy",
+    "meaning": "Angel Michael",
+    "origin": "Arabic",
+    "id": "mi12",
+    "verified": true
+  },
+  {
     "name": "Mimi",
     "gender": "Girl",
     "meaning": "Pet name, cute",
     "origin": "Arabic",
     "id": "mi1",
+    "verified": true
+  },
+  {
+    "name": "Mina Begum",
+    "gender": "Girl",
+    "meaning": "Enamel lady, delicate lady",
+    "origin": "Persian/Turkic",
+    "id": "mi13",
     "verified": true
   },
   {
@@ -53,6 +93,22 @@
     "meaning": "Beloved, Mary",
     "origin": "Hebrew/Arabic",
     "id": "mi7",
+    "verified": true
+  },
+  {
+    "name": "Mirwais",
+    "gender": "Boy",
+    "meaning": "Noble ruler",
+    "origin": "Pashto",
+    "id": "mi14",
+    "verified": true
+  },
+  {
+    "name": "Misbahuddin",
+    "gender": "Boy",
+    "meaning": "Lamp of the religion",
+    "origin": "Arabic",
+    "id": "mi15",
     "verified": true
   },
   {

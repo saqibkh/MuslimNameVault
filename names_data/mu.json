@@ -16,6 +16,14 @@
     "verified": true
   },
   {
+    "name": "Mubarak Ali",
+    "gender": "Boy",
+    "meaning": "Blessed Ali",
+    "origin": "Arabic",
+    "id": "mu35",
+    "verified": true
+  },
+  {
     "name": "Mubaraka",
     "gender": "Girl",
     "meaning": "Blessed",
@@ -40,11 +48,35 @@
     "verified": true
   },
   {
+    "name": "Mubeenah",
+    "gender": "Girl",
+    "meaning": "Clear, manifest",
+    "origin": "Arabic",
+    "id": "mu36",
+    "verified": true
+  },
+  {
     "name": "Mubina",
     "gender": "Girl",
     "meaning": "Clear, manifest",
     "origin": "Arabic",
     "id": "mu6",
+    "verified": true
+  },
+  {
+    "name": "Mudasir",
+    "gender": "Boy",
+    "meaning": "Wrapped in a mantle",
+    "origin": "Arabic",
+    "id": "mu37",
+    "verified": true
+  },
+  {
+    "name": "Mudassar",
+    "gender": "Boy",
+    "meaning": "Wrapped in a mantle",
+    "origin": "Arabic",
+    "id": "mu38",
     "verified": true
   },
   {
@@ -56,6 +88,22 @@
     "verified": true
   },
   {
+    "name": "Mufassir",
+    "gender": "Boy",
+    "meaning": "Commentator, explainer",
+    "origin": "Arabic",
+    "id": "mu39",
+    "verified": true
+  },
+  {
+    "name": "Mufeeda",
+    "gender": "Girl",
+    "meaning": "Useful, beneficial",
+    "origin": "Arabic",
+    "id": "mu40",
+    "verified": true
+  },
+  {
     "name": "Mufeedah",
     "gender": "Girl",
     "meaning": "Useful, beneficial",
@@ -64,11 +112,35 @@
     "verified": true
   },
   {
+    "name": "Muflih",
+    "gender": "Boy",
+    "meaning": "Successful",
+    "origin": "Arabic",
+    "id": "mu41",
+    "verified": true
+  },
+  {
     "name": "Muftaha",
     "gender": "Girl",
     "meaning": "Key, opener",
     "origin": "Arabic",
     "id": "mu9",
+    "verified": true
+  },
+  {
+    "name": "Muhaimin",
+    "gender": "Boy",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "mu42",
+    "verified": true
+  },
+  {
+    "name": "Muhaimina",
+    "gender": "Girl",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "mu43",
     "verified": true
   },
   {
@@ -93,6 +165,38 @@
     "meaning": "Praised",
     "origin": "Arabic",
     "id": "mu12",
+    "verified": true
+  },
+  {
+    "name": "Muhammadaliyah",
+    "gender": "Girl",
+    "meaning": "Praised and exalted",
+    "origin": "Arabic",
+    "id": "mu44",
+    "verified": true
+  },
+  {
+    "name": "Muhammadumair",
+    "gender": "Boy",
+    "meaning": "Praised and long-lived",
+    "origin": "Arabic",
+    "id": "mu45",
+    "verified": true
+  },
+  {
+    "name": "Muhammadumairah",
+    "gender": "Girl",
+    "meaning": "Praised and long-lived",
+    "origin": "Arabic",
+    "id": "mu46",
+    "verified": true
+  },
+  {
+    "name": "Muhammadusman",
+    "gender": "Boy",
+    "meaning": "Praised and chosen",
+    "origin": "Arabic",
+    "id": "mu47",
     "verified": true
   },
   {
@@ -144,6 +248,14 @@
     "verified": true
   },
   {
+    "name": "Muhibbah",
+    "gender": "Girl",
+    "meaning": "Loving, affectionate",
+    "origin": "Arabic",
+    "id": "mu48",
+    "verified": true
+  },
+  {
     "name": "Muhsen",
     "gender": "Boy",
     "meaning": "Beneficent",
@@ -160,6 +272,22 @@
     "verified": true
   },
   {
+    "name": "Mujahid Hussain",
+    "gender": "Boy",
+    "meaning": "Fighter and beautiful",
+    "origin": "Arabic",
+    "id": "mu49",
+    "verified": true
+  },
+  {
+    "name": "Mukarama",
+    "gender": "Girl",
+    "meaning": "Respected, honored",
+    "origin": "Arabic",
+    "id": "mu50",
+    "verified": true
+  },
+  {
     "name": "Munawar",
     "gender": "Boy",
     "meaning": "Illuminated",
@@ -173,6 +301,14 @@
     "meaning": "Illuminated",
     "origin": "Arabic",
     "id": "mu22",
+    "verified": true
+  },
+  {
+    "name": "Munazza",
+    "gender": "Girl",
+    "meaning": "Pure, immaculate",
+    "origin": "Arabic",
+    "id": "mu51",
     "verified": true
   },
   {
@@ -264,11 +400,43 @@
     "verified": true
   },
   {
+    "name": "Muskaan",
+    "gender": "Girl",
+    "meaning": "Smile",
+    "origin": "Urdu/Arabic",
+    "id": "mu52",
+    "verified": true
+  },
+  {
+    "name": "Mussawir",
+    "gender": "Boy",
+    "meaning": "Shaper, creator",
+    "origin": "Arabic",
+    "id": "mu53",
+    "verified": true
+  },
+  {
     "name": "Mustafaa",
     "gender": "Boy",
     "meaning": "Chosen",
     "origin": "Arabic",
     "id": "mu34",
+    "verified": true
+  },
+  {
+    "name": "Mustafeez",
+    "gender": "Boy",
+    "meaning": "Profiting, gaining",
+    "origin": "Arabic",
+    "id": "mu54",
+    "verified": true
+  },
+  {
+    "name": "Mustafizur",
+    "gender": "Boy",
+    "meaning": "Profiting from the Merciful",
+    "origin": "Arabic",
+    "id": "mu55",
     "verified": true
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ashraff",
+    "gender": "Boy",
+    "meaning": "Most noble, honorable",
+    "origin": "Arabic",
+    "id": "as1",
+    "verified": true
+  },
+  {
+    "name": "Ashrafuzzaman",
+    "gender": "Boy",
+    "meaning": "Noblest of the age",
+    "origin": "Arabic",
+    "id": "as2",
+    "verified": true
+  },
+  {
+    "name": "Asifuddin",
+    "gender": "Boy",
+    "meaning": "Forgiver of the faith",
+    "origin": "Arabic",
+    "id": "as3",
+    "verified": true
+  },
+  {
+    "name": "Asimuddin",
+    "gender": "Boy",
+    "meaning": "Defender of the faith",
+    "origin": "Arabic",
+    "id": "as4",
+    "verified": true
+  },
+  {
+    "name": "Asmatullah",
+    "gender": "Boy",
+    "meaning": "Protection of Allah",
+    "origin": "Arabic",
+    "id": "as5",
+    "verified": true
+  }
+]

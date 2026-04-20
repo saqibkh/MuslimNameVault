@@ -80,7 +80,7 @@ Whenever you make changes to data, config, or templates, you must rebuild the si
 4.  You should see output like:
     ```text
     🚀 Starting Website Generation...
-    ✅ Loaded 13,000 names.
+    ✅ Loaded 15,000 names.
     🌍 Top Origins found for Menu: ['Arabic', 'Persian', 'Urdu', ...]
     ✅ Generated Collection: Trending Muslim Names 2026
     ✅ Generated Surprise Page

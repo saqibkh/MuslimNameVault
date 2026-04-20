@@ -1,10 +1,130 @@
 [
   {
-    "name": "Haami",
+    "name": "Hadir",
     "gender": "Boy",
-    "meaning": "Protector or defender",
+    "meaning": "Roar of thunder, present",
     "origin": "Arabic",
     "id": "ha1",
+    "verified": true
+  },
+  {
+    "name": "Hafizullah",
+    "gender": "Boy",
+    "meaning": "Protector of God",
+    "origin": "Arabic",
+    "id": "ha2",
+    "verified": true
+  },
+  {
+    "name": "Hafizur",
+    "gender": "Boy",
+    "meaning": "Protector of",
+    "origin": "Arabic",
+    "id": "ha3",
+    "verified": true
+  },
+  {
+    "name": "Hakima",
+    "gender": "Girl",
+    "meaning": "Wise, judicious",
+    "origin": "Arabic",
+    "id": "ha4",
+    "verified": true
+  },
+  {
+    "name": "Hamda",
+    "gender": "Girl",
+    "meaning": "Praise, commendation",
+    "origin": "Arabic",
+    "id": "ha5",
+    "verified": true
+  },
+  {
+    "name": "Hamdia",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha6",
+    "verified": true
+  },
+  {
+    "name": "Hamida Begum",
+    "gender": "Girl",
+    "meaning": "Praiseworthy lady",
+    "origin": "Arabic/Turkic",
+    "id": "ha7",
+    "verified": true
+  },
+  {
+    "name": "Hamza Malik",
+    "gender": "Boy",
+    "meaning": "Strong king/lion",
+    "origin": "Arabic",
+    "id": "ha8",
+    "verified": true
+  },
+  {
+    "name": "Hasanuddin",
+    "gender": "Boy",
+    "meaning": "Beauty of the faith",
+    "origin": "Arabic",
+    "id": "ha9",
+    "verified": true
+  },
+  {
+    "name": "Haseebah",
+    "gender": "Girl",
+    "meaning": "Noble, respected",
+    "origin": "Arabic",
+    "id": "ha10",
+    "verified": true
+  },
+  {
+    "name": "Hashmi",
+    "gender": "Boy",
+    "meaning": "Descendant of Hashim",
+    "origin": "Arabic",
+    "id": "ha11",
+    "verified": true
+  },
+  {
+    "name": "Hashmiyah",
+    "gender": "Girl",
+    "meaning": "Descendant of Hashim",
+    "origin": "Arabic",
+    "id": "ha12",
+    "verified": true
+  },
+  {
+    "name": "Hasnainah",
+    "gender": "Girl",
+    "meaning": "The two beautiful ones",
+    "origin": "Arabic",
+    "id": "ha13",
+    "verified": true
+  },
+  {
+    "name": "Hathrah",
+    "gender": "Girl",
+    "meaning": "Presence",
+    "origin": "Arabic",
+    "id": "ha14",
+    "verified": true
+  },
+  {
+    "name": "Hazara",
+    "gender": "Girl",
+    "meaning": "From Hazara",
+    "origin": "Persian",
+    "id": "ha15",
+    "verified": true
+  },
+  {
+    "name": "Hazrat",
+    "gender": "Boy",
+    "meaning": "Honorific title, presence",
+    "origin": "Arabic",
+    "id": "ha16",
     "verified": true
   }
 ]

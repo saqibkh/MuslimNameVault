@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Firdausi",
+    "gender": "Girl",
+    "meaning": "Heavenly, of Paradise",
+    "origin": "Persian",
+    "id": "fi1",
+    "verified": true
+  },
+  {
+    "name": "Fizza",
+    "gender": "Girl",
+    "meaning": "Silver, pure",
+    "origin": "Arabic",
+    "id": "fi2",
+    "verified": true
+  }
+]

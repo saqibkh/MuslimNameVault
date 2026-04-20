@@ -64,6 +64,14 @@
     "verified": true
   },
   {
+    "name": "Oshaaqah",
+    "gender": "Girl",
+    "meaning": "Lover",
+    "origin": "Arabic",
+    "id": "os20",
+    "verified": true
+  },
+  {
     "name": "Oshae",
     "gender": "Boy",
     "meaning": "A Prophet's companion",
@@ -85,6 +93,14 @@
     "meaning": "Baby lioness",
     "origin": "Arabic",
     "id": "os11",
+    "verified": true
+  },
+  {
+    "name": "Osmaan",
+    "gender": "Boy",
+    "meaning": "Baby bustard bird",
+    "origin": "Arabic",
+    "id": "os21",
     "verified": true
   },
   {

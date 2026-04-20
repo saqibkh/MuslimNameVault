@@ -1,18 +1,10 @@
 [
   {
-    "name": "Zirak",
-    "gender": "Boy",
-    "meaning": "Intelligent or clever",
-    "origin": "Persian",
-    "id": "zi1",
-    "verified": true
-  },
-  {
-    "name": "Ziyan",
+    "name": "Ziyadah",
     "gender": "Girl",
-    "meaning": "Elegance or ornament",
+    "meaning": "Increase, growth",
     "origin": "Arabic",
-    "id": "zi2",
+    "id": "zi1",
     "verified": true
   }
 ]

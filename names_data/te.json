@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Tehreema",
+    "gender": "Girl",
+    "meaning": "Respect, sanctity",
+    "origin": "Arabic",
+    "id": "te5",
+    "verified": true
+  },
+  {
+    "name": "Temam",
+    "gender": "Boy",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "id": "te1",
+    "verified": true
+  },
+  {
+    "name": "Tewfik",
+    "gender": "Boy",
+    "meaning": "Success, reconciliation",
+    "origin": "Arabic",
+    "id": "te2",
+    "verified": true
+  },
+  {
+    "name": "Tewfiq",
+    "gender": "Boy",
+    "meaning": "Success, reconciliation",
+    "origin": "Arabic",
+    "id": "te3",
+    "verified": true
+  },
+  {
+    "name": "Teymourah",
+    "gender": "Girl",
+    "meaning": "Strong",
+    "origin": "Persian",
+    "id": "te4",
+    "verified": true
+  }
+]

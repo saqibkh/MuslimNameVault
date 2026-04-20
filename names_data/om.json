@@ -32,6 +32,14 @@
     "verified": true
   },
   {
+    "name": "Omar Farooq",
+    "gender": "Boy",
+    "meaning": "Flourishing and distinguisher of truth",
+    "origin": "Arabic",
+    "id": "om19",
+    "verified": true
+  },
+  {
     "name": "Omara",
     "gender": "Girl",
     "meaning": "Long life, flourishing",
@@ -69,6 +77,14 @@
     "meaning": "Pertaining to Omar, flourishing",
     "origin": "Arabic",
     "id": "om9",
+    "verified": true
+  },
+  {
+    "name": "Omaruddin",
+    "gender": "Boy",
+    "meaning": "Flourishing of the faith",
+    "origin": "Arabic",
+    "id": "om20",
     "verified": true
   },
   {

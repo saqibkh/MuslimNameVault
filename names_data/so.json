@@ -1,0 +1,474 @@
+[
+  {
+    "name": "Soad",
+    "gender": "Girl",
+    "meaning": "Happiness, good fortune",
+    "origin": "Arabic",
+    "id": "so1",
+    "verified": true
+  },
+  {
+    "name": "Soadah",
+    "gender": "Girl",
+    "meaning": "Happiness, good fortune",
+    "origin": "Arabic",
+    "id": "so2",
+    "verified": true
+  },
+  {
+    "name": "Soban",
+    "gender": "Boy",
+    "meaning": "Companion",
+    "origin": "Arabic",
+    "id": "so52",
+    "verified": true
+  },
+  {
+    "name": "Sobhi",
+    "gender": "Boy",
+    "meaning": "Morning, dawn",
+    "origin": "Arabic",
+    "id": "so3",
+    "verified": true
+  },
+  {
+    "name": "Sobhiya",
+    "gender": "Girl",
+    "meaning": "Morning, dawn",
+    "origin": "Arabic",
+    "id": "so4",
+    "verified": true
+  },
+  {
+    "name": "Sobhiyah",
+    "gender": "Girl",
+    "meaning": "Morning, dawn",
+    "origin": "Arabic",
+    "id": "so5",
+    "verified": true
+  },
+  {
+    "name": "Sobhy",
+    "gender": "Boy",
+    "meaning": "Morning",
+    "origin": "Arabic",
+    "id": "so53",
+    "verified": true
+  },
+  {
+    "name": "Sobia",
+    "gender": "Girl",
+    "meaning": "Good and noble girl",
+    "origin": "Arabic",
+    "id": "so6",
+    "verified": true
+  },
+  {
+    "name": "Sobiah",
+    "gender": "Girl",
+    "meaning": "Good, noble girl",
+    "origin": "Arabic",
+    "id": "so54",
+    "verified": true
+  },
+  {
+    "name": "Sofea",
+    "gender": "Girl",
+    "meaning": "Wisdom, pure",
+    "origin": "Greek/Arabic",
+    "id": "so7",
+    "verified": true
+  },
+  {
+    "name": "Sofi",
+    "gender": "Girl",
+    "meaning": "Wisdom",
+    "origin": "Greek",
+    "id": "so8",
+    "verified": true
+  },
+  {
+    "name": "Sofia Khatun",
+    "gender": "Girl",
+    "meaning": "Wise lady",
+    "origin": "Greek/Turkic",
+    "id": "so55",
+    "verified": true
+  },
+  {
+    "name": "Sofianah",
+    "gender": "Girl",
+    "meaning": "Devoted",
+    "origin": "Arabic",
+    "id": "so9",
+    "verified": true
+  },
+  {
+    "name": "Sofiqa",
+    "gender": "Girl",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "so56",
+    "verified": true
+  },
+  {
+    "name": "Sofiya",
+    "gender": "Girl",
+    "meaning": "Wisdom, pure",
+    "origin": "Greek/Arabic",
+    "id": "so10",
+    "verified": true
+  },
+  {
+    "name": "Sofiyya",
+    "gender": "Girl",
+    "meaning": "Wisdom, pure",
+    "origin": "Greek/Arabic",
+    "id": "so11",
+    "verified": true
+  },
+  {
+    "name": "Sofiyyah",
+    "gender": "Girl",
+    "meaning": "Wisdom, pure",
+    "origin": "Greek/Arabic",
+    "id": "so12",
+    "verified": true
+  },
+  {
+    "name": "Sofya",
+    "gender": "Girl",
+    "meaning": "Wisdom, pure",
+    "origin": "Greek/Arabic",
+    "id": "so13",
+    "verified": true
+  },
+  {
+    "name": "Sofyan",
+    "gender": "Boy",
+    "meaning": "Devoted, fast walking",
+    "origin": "Arabic",
+    "id": "so14",
+    "verified": true
+  },
+  {
+    "name": "Sohaila",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so15",
+    "verified": true
+  },
+  {
+    "name": "Sohailah",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so16",
+    "verified": true
+  },
+  {
+    "name": "Sohayla",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so17",
+    "verified": true
+  },
+  {
+    "name": "Soheil",
+    "gender": "Boy",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so18",
+    "verified": true
+  },
+  {
+    "name": "Soheir",
+    "gender": "Girl",
+    "meaning": "Little star, wakeful",
+    "origin": "Arabic",
+    "id": "so19",
+    "verified": true
+  },
+  {
+    "name": "Sohel",
+    "gender": "Boy",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so20",
+    "verified": true
+  },
+  {
+    "name": "Solaiman",
+    "gender": "Boy",
+    "meaning": "Man of peace",
+    "origin": "Arabic",
+    "id": "so57",
+    "verified": true
+  },
+  {
+    "name": "Solana",
+    "gender": "Girl",
+    "meaning": "Sunshine",
+    "origin": "Spanish",
+    "id": "so21",
+    "verified": true
+  },
+  {
+    "name": "Soliman",
+    "gender": "Boy",
+    "meaning": "Man of peace",
+    "origin": "Arabic",
+    "id": "so22",
+    "verified": true
+  },
+  {
+    "name": "Somaia",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so23",
+    "verified": true
+  },
+  {
+    "name": "Somaiya",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so24",
+    "verified": true
+  },
+  {
+    "name": "Somaiyah",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so25",
+    "verified": true
+  },
+  {
+    "name": "Somayeh",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so26",
+    "verified": true
+  },
+  {
+    "name": "Somayya",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so27",
+    "verified": true
+  },
+  {
+    "name": "Somayyah",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so28",
+    "verified": true
+  },
+  {
+    "name": "Somia",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so29",
+    "verified": true
+  },
+  {
+    "name": "Sondos",
+    "gender": "Girl",
+    "meaning": "Silk brocade",
+    "origin": "Arabic",
+    "id": "so30",
+    "verified": true
+  },
+  {
+    "name": "Soniya",
+    "gender": "Girl",
+    "meaning": "Wisdom, golden",
+    "origin": "Hindi/Greek",
+    "id": "so58",
+    "verified": true
+  },
+  {
+    "name": "Sophia",
+    "gender": "Girl",
+    "meaning": "Wisdom",
+    "origin": "Greek",
+    "id": "so31",
+    "verified": true
+  },
+  {
+    "name": "Sora",
+    "gender": "Girl",
+    "meaning": "Chapter of Quran, sky",
+    "origin": "Arabic/Japanese",
+    "id": "so32",
+    "verified": true
+  },
+  {
+    "name": "Soraia",
+    "gender": "Girl",
+    "meaning": "Pleiades, princess",
+    "origin": "Persian/Arabic",
+    "id": "so33",
+    "verified": true
+  },
+  {
+    "name": "Sorayya",
+    "gender": "Girl",
+    "meaning": "Pleiades, princess",
+    "origin": "Persian",
+    "id": "so59",
+    "verified": true
+  },
+  {
+    "name": "Souadah",
+    "gender": "Girl",
+    "meaning": "Happiness",
+    "origin": "Arabic",
+    "id": "so34",
+    "verified": true
+  },
+  {
+    "name": "Soufian",
+    "gender": "Boy",
+    "meaning": "Devoted",
+    "origin": "Arabic",
+    "id": "so35",
+    "verified": true
+  },
+  {
+    "name": "Souha",
+    "gender": "Girl",
+    "meaning": "A star",
+    "origin": "Arabic",
+    "id": "so36",
+    "verified": true
+  },
+  {
+    "name": "Souhaib",
+    "gender": "Boy",
+    "meaning": "Reddish hair",
+    "origin": "Arabic",
+    "id": "so37",
+    "verified": true
+  },
+  {
+    "name": "Souhail",
+    "gender": "Boy",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so38",
+    "verified": true
+  },
+  {
+    "name": "Souhaila",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so39",
+    "verified": true
+  },
+  {
+    "name": "Souhailah",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so40",
+    "verified": true
+  },
+  {
+    "name": "Souhair",
+    "gender": "Girl",
+    "meaning": "Wakeful",
+    "origin": "Arabic",
+    "id": "so41",
+    "verified": true
+  },
+  {
+    "name": "Souheil",
+    "gender": "Boy",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so42",
+    "verified": true
+  },
+  {
+    "name": "Souheilah",
+    "gender": "Girl",
+    "meaning": "Star, Canopus",
+    "origin": "Arabic",
+    "id": "so43",
+    "verified": true
+  },
+  {
+    "name": "Soukaina",
+    "gender": "Girl",
+    "meaning": "Calm, peaceful",
+    "origin": "Arabic",
+    "id": "so44",
+    "verified": true
+  },
+  {
+    "name": "Souleymane",
+    "gender": "Boy",
+    "meaning": "Man of peace",
+    "origin": "Arabic",
+    "id": "so45",
+    "verified": true
+  },
+  {
+    "name": "Soumaya",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so46",
+    "verified": true
+  },
+  {
+    "name": "Soumeya",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so47",
+    "verified": true
+  },
+  {
+    "name": "Soumia",
+    "gender": "Girl",
+    "meaning": "High above, exalted",
+    "origin": "Arabic",
+    "id": "so48",
+    "verified": true
+  },
+  {
+    "name": "Soumya",
+    "gender": "Girl",
+    "meaning": "Mild, gentle",
+    "origin": "Sanskrit/Arabic",
+    "id": "so49",
+    "verified": true
+  },
+  {
+    "name": "Souraya",
+    "gender": "Girl",
+    "meaning": "Pleiades, princess",
+    "origin": "Persian/Arabic",
+    "id": "so50",
+    "verified": true
+  },
+  {
+    "name": "Sousan",
+    "gender": "Girl",
+    "meaning": "Lily of the valley",
+    "origin": "Arabic",
+    "id": "so51",
+    "verified": true
+  }
+]

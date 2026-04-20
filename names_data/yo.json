@@ -1,0 +1,444 @@
+[
+    {
+        "name": "Yosra",
+        "gender": "Girl",
+        "meaning": "Ease, comfort",
+        "origin": "Arabic",
+        "id": "yo1",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسرا",
+            "Urdu": "یوسرہ",
+            "Persian": "یوسرا",
+            "Turkish": "Yosra",
+            "Bengali": "ইয়োসরা",
+            "Indonesian": "Yosra",
+            "Pashto": "یوسرا"
+        }
+    },
+    {
+        "name": "Yosuf",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo2",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Yusuf",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Youcef",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo3",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Youcef",
+            "Bengali": "ইউসেফ",
+            "Indonesian": "kamucef",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Younis",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Jonah)",
+        "origin": "Arabic",
+        "id": "yo4",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يونس",
+            "Urdu": "یونس",
+            "Persian": "یونس",
+            "Turkish": "Yunus",
+            "Bengali": "ইউনিস",
+            "Indonesian": "Younis",
+            "Pashto": "یونس"
+        }
+    },
+    {
+        "name": "Younisah",
+        "gender": "Girl",
+        "meaning": "Dove",
+        "origin": "Arabic",
+        "id": "yo5",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يونسه",
+            "Urdu": "یونسہ",
+            "Persian": "یونسه",
+            "Turkish": "Yunus",
+            "Bengali": "ইউনিসাহ",
+            "Indonesian": "Younisah",
+            "Pashto": "یونسه"
+        }
+    },
+    {
+        "name": "Younus",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Jonah)",
+        "origin": "Arabic",
+        "id": "yo6",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يونس",
+            "Urdu": "یونس",
+            "Persian": "یونس",
+            "Turkish": "Yunus",
+            "Bengali": "ইউনুস",
+            "Indonesian": "Younus",
+            "Pashto": "یونس"
+        }
+    },
+    {
+        "name": "Younusah",
+        "gender": "Girl",
+        "meaning": "Dove",
+        "origin": "Arabic",
+        "id": "yo7",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يونسه",
+            "Urdu": "یونسہ",
+            "Persian": "یونسه",
+            "Turkish": "Yunusah",
+            "Bengali": "ইউনুসাহ",
+            "Indonesian": "Younusah",
+            "Pashto": "یونسه"
+        }
+    },
+    {
+        "name": "Yousaf",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo8",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Yousaf",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Yousefah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo9",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسفة",
+            "Urdu": "یوسفہ",
+            "Persian": "یوسفه",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Yousefah",
+            "Pashto": "یوسفي"
+        }
+    },
+    {
+        "name": "Yousif",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo10",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসিফ",
+            "Indonesian": "Yousif",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Yousifah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo11",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسفة",
+            "Urdu": "یوسفہ",
+            "Persian": "یوسفه",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসিফাহ",
+            "Indonesian": "Yousifah",
+            "Pashto": "یوسفه"
+        }
+    },
+    {
+        "name": "Yousri",
+        "gender": "Boy",
+        "meaning": "Wealthy, comfortable",
+        "origin": "Arabic",
+        "id": "yo12",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسري",
+            "Urdu": "یوسری۔",
+            "Persian": "یسری",
+            "Turkish": "Yousri",
+            "Bengali": "ইউসরি",
+            "Indonesian": "Yousri",
+            "Pashto": "یوسری"
+        }
+    },
+    {
+        "name": "Yousriyah",
+        "gender": "Girl",
+        "meaning": "Wealthy, comfortable",
+        "origin": "Arabic",
+        "id": "yo13",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسرية",
+            "Urdu": "یوسریہ",
+            "Persian": "یسریه",
+            "Turkish": "Yousriyah",
+            "Bengali": "ইউসরিয়াহ",
+            "Indonesian": "Yousriyah",
+            "Pashto": "یوسریه"
+        }
+    },
+    {
+        "name": "Yousry",
+        "gender": "Boy",
+        "meaning": "Wealthy, comfortable",
+        "origin": "Arabic",
+        "id": "yo14",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسري",
+            "Urdu": "یوسری۔",
+            "Persian": "یسری",
+            "Turkish": "Sen",
+            "Bengali": "ইউসরি",
+            "Indonesian": "Maaf",
+            "Pashto": "یوسري"
+        }
+    },
+    {
+        "name": "Yousryyah",
+        "gender": "Girl",
+        "meaning": "Wealthy, comfortable",
+        "origin": "Arabic",
+        "id": "yo15",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسرية",
+            "Urdu": "یوسریہ",
+            "Persian": "یسریه",
+            "Turkish": "Senryyah",
+            "Bengali": "ইউসরিয়্যাহ",
+            "Indonesian": "Yousryyah",
+            "Pashto": "یوسریه"
+        }
+    },
+    {
+        "name": "Youssef",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo16",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Yousef",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Youssefa",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo17",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسفة",
+            "Urdu": "یوسفی",
+            "Persian": "یوسفی",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফা",
+            "Indonesian": "Youssefa",
+            "Pashto": "یوسفی"
+        }
+    },
+    {
+        "name": "Youssefah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo18",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسفة",
+            "Urdu": "یوسفی",
+            "Persian": "یوسفه",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Youssefah",
+            "Pashto": "یوسفي"
+        }
+    },
+    {
+        "name": "Youssif",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo19",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "kamusif",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Youssifah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo20",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسفة",
+            "Urdu": "یوسفہ",
+            "Persian": "یوسفی",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসিফাহ",
+            "Indonesian": "Youssifah",
+            "Pashto": "یوسفیه"
+        }
+    },
+    {
+        "name": "Youssouf",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo21",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Youssouf",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Youssra",
+        "gender": "Girl",
+        "meaning": "Ease, comfort",
+        "origin": "Arabic",
+        "id": "yo22",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسرا",
+            "Urdu": "یوسرہ",
+            "Persian": "یسرا",
+            "Turkish": "Youssra",
+            "Bengali": "ইউসরা",
+            "Indonesian": "Youssra",
+            "Pashto": "یوسرا"
+        }
+    },
+    {
+        "name": "Youssri",
+        "gender": "Boy",
+        "meaning": "Wealthy, comfortable",
+        "origin": "Arabic",
+        "id": "yo23",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يسري",
+            "Urdu": "یوسری۔",
+            "Persian": "یسری",
+            "Turkish": "Youssri",
+            "Bengali": "ইউসরি",
+            "Indonesian": "Youssri",
+            "Pashto": "یوسفي"
+        }
+    },
+    {
+        "name": "Youssuf",
+        "gender": "Boy",
+        "meaning": "A Prophet's name (Joseph)",
+        "origin": "Arabic",
+        "id": "yo24",
+        "verified": true,
+        "spellings": {
+            "Arabic": "يوسف",
+            "Urdu": "یوسف",
+            "Persian": "یوسف",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফ",
+            "Indonesian": "Yusuf",
+            "Pashto": "یوسف"
+        }
+    },
+    {
+        "name": "Youssufah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo25",
+        "verified": true,
+        "spellings": {
+            "Arabic": "اليوسفة",
+            "Urdu": "یوسف",
+            "Persian": "یوسفه",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফাহ",
+            "Indonesian": "Youssufah",
+            "Pashto": "یوسفه"
+        }
+    },
+    {
+        "name": "Yousufah",
+        "gender": "Girl",
+        "meaning": "God will add",
+        "origin": "Arabic",
+        "id": "yo26",
+        "verified": true,
+        "spellings": {
+            "Arabic": "اليوسفة",
+            "Urdu": "یوسفہ",
+            "Persian": "یوسفه",
+            "Turkish": "Yusuf",
+            "Bengali": "ইউসুফা",
+            "Indonesian": "Yusufah",
+            "Pashto": "یوسفه"
+        }
+    }
+]

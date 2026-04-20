@@ -1,10 +1,114 @@
 [
   {
-    "name": "Kader",
-    "gender": "Girl",
-    "meaning": "Destiny or fate",
-    "origin": "Turkish/Arabic",
+    "name": "Kahf",
+    "gender": "Boy",
+    "meaning": "Cave, refuge",
+    "origin": "Arabic",
     "id": "ka1",
+    "verified": true
+  },
+  {
+    "name": "Kaida",
+    "gender": "Girl",
+    "meaning": "Commander, leader",
+    "origin": "Arabic",
+    "id": "ka2",
+    "verified": true
+  },
+  {
+    "name": "Kalima",
+    "gender": "Girl",
+    "meaning": "Word, speaker",
+    "origin": "Arabic",
+    "id": "ka3",
+    "verified": true
+  },
+  {
+    "name": "Kalimuddin",
+    "gender": "Boy",
+    "meaning": "Speaker of the faith",
+    "origin": "Arabic",
+    "id": "ka4",
+    "verified": true
+  },
+  {
+    "name": "Kalthum",
+    "gender": "Girl",
+    "meaning": "Someone with a chubby face",
+    "origin": "Arabic",
+    "id": "ka5",
+    "verified": true
+  },
+  {
+    "name": "Kamaruzzaman",
+    "gender": "Boy",
+    "meaning": "Moon of the era",
+    "origin": "Arabic",
+    "id": "ka6",
+    "verified": true
+  },
+  {
+    "name": "Kamilla",
+    "gender": "Girl",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "id": "ka7",
+    "verified": true
+  },
+  {
+    "name": "Kamla",
+    "gender": "Girl",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "id": "ka8",
+    "verified": true
+  },
+  {
+    "name": "Kamrunnisa",
+    "gender": "Girl",
+    "meaning": "Moon of women",
+    "origin": "Arabic/Persian",
+    "id": "ka9",
+    "verified": true
+  },
+  {
+    "name": "Kaneez Fatma",
+    "gender": "Girl",
+    "meaning": "Servant of Fatima",
+    "origin": "Arabic/Persian",
+    "id": "ka10",
+    "verified": true
+  },
+  {
+    "name": "Karimuddin",
+    "gender": "Boy",
+    "meaning": "Generous of the faith",
+    "origin": "Arabic",
+    "id": "ka11",
+    "verified": true
+  },
+  {
+    "name": "Kavita",
+    "gender": "Girl",
+    "meaning": "Poem",
+    "origin": "Sanskrit",
+    "id": "ka12",
+    "verified": true
+  },
+  {
+    "name": "Kawsar",
+    "gender": "Girl",
+    "meaning": "Abundance, river in Paradise",
+    "origin": "Arabic",
+    "id": "ka13",
+    "verified": true
+  },
+  {
+    "name": "Kaynat",
+    "gender": "Girl",
+    "meaning": "Universe, existence",
+    "origin": "Arabic",
+    "id": "ka14",
     "verified": true
   }
 ]
