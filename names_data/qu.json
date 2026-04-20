@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Quran",
+    "gender": "Boy",
+    "meaning": "The Holy Book, recitation",
+    "origin": "Arabic",
+    "id": "qu1",
+    "verified": true
+  },
+  {
+    "name": "Qusayyah",
+    "gender": "Girl",
+    "meaning": "Distant, far off",
+    "origin": "Arabic",
+    "id": "qu2",
+    "verified": true
+  },
+  {
+    "name": "Qutaiba",
+    "gender": "Boy",
+    "meaning": "Impatient, irritable",
+    "origin": "Arabic",
+    "id": "qu3",
+    "verified": true
+  },
+  {
+    "name": "Qutay",
+    "gender": "Boy",
+    "meaning": "Little piece",
+    "origin": "Arabic",
+    "id": "qu4",
+    "verified": true
+  }
+]

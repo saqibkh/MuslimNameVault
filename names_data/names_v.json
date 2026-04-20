@@ -35,6 +35,14 @@
     }
   },
   {
+    "name": "Vafi",
+    "gender": "Boy",
+    "meaning": "Complete or loyal",
+    "origin": "Persian",
+    "id": "va1",
+    "verified": true
+  },
+  {
     "name": "Vahap",
     "gender": "Boy",
     "meaning": "Giver; Bestower",
@@ -245,6 +253,14 @@
     }
   },
   {
+    "name": "Varda",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "va2",
+    "verified": true
+  },
+  {
     "name": "Vareesha",
     "gender": "Girl",
     "meaning": "Lightning",
@@ -331,6 +347,14 @@
       "Indonesian": "Vasim",
       "Pashto": "وسیم"
     }
+  },
+  {
+    "name": "Veda",
+    "gender": "Girl",
+    "meaning": "Farewell or goodbye",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
+    "verified": true
   },
   {
     "name": "Vedat",
@@ -558,6 +582,14 @@
       "Indonesian": "Vidan",
       "Pashto": "ویلډان"
     }
+  },
+  {
+    "name": "Viqar",
+    "gender": "Boy",
+    "meaning": "Majesty or dignity",
+    "origin": "Arabic",
+    "id": "vi1",
+    "verified": true
   },
   {
     "name": "Volkan",

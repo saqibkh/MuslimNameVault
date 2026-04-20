@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Oday",
+    "gender": "Boy",
+    "meaning": "To run fast, swift",
+    "origin": "Arabic",
+    "id": "od1",
+    "verified": true
+  },
+  {
+    "name": "Odayah",
+    "gender": "Girl",
+    "meaning": "To run fast, swift",
+    "origin": "Arabic",
+    "id": "od2",
+    "verified": true
+  },
+  {
+    "name": "Odayyah",
+    "gender": "Girl",
+    "meaning": "To run fast, swift",
+    "origin": "Arabic",
+    "id": "od3",
+    "verified": true
+  }
+]

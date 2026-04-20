@@ -1582,6 +1582,23 @@
     }
   },
   {
+    "name": "Mahrosh",
+    "gender": "Girl",
+    "meaning": "Piece of moon",
+    "origin": "Persian",
+    "id": "ma1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "محروش",
+      "Urdu": "مہروش",
+      "Persian": "ماهروش",
+      "Turkish": "Mahroş",
+      "Bengali": "মহরোশ",
+      "Indonesian": "Mahrosh",
+      "Pashto": "مهروش"
+    }
+  },
+  {
     "name": "Mahroz",
     "gender": "Unisex",
     "meaning": "One who has a face like the moon",

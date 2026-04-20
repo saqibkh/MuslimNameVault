@@ -1,10 +1,250 @@
 [
   {
-    "name": "Riyan",
+    "name": "Ridha",
     "gender": "Boy",
-    "meaning": "Door of heaven",
+    "meaning": "Contentment",
     "origin": "Arabic",
     "id": "ri1",
+    "verified": true
+  },
+  {
+    "name": "Ridwaan",
+    "gender": "Boy",
+    "meaning": "Contentment, acceptance",
+    "origin": "Arabic",
+    "id": "ri2",
+    "verified": true
+  },
+  {
+    "name": "Rifa",
+    "gender": "Girl",
+    "meaning": "Happiness, prosperity",
+    "origin": "Arabic",
+    "id": "ri3",
+    "verified": true
+  },
+  {
+    "name": "Rifaa",
+    "gender": "Girl",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "ri4",
+    "verified": true
+  },
+  {
+    "name": "Rifaah",
+    "gender": "Girl",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "ri5",
+    "verified": true
+  },
+  {
+    "name": "Rifaie",
+    "gender": "Boy",
+    "meaning": "High ranking",
+    "origin": "Arabic",
+    "id": "ri6",
+    "verified": true
+  },
+  {
+    "name": "Rifaieh",
+    "gender": "Girl",
+    "meaning": "High ranking",
+    "origin": "Arabic",
+    "id": "ri7",
+    "verified": true
+  },
+  {
+    "name": "Rifaq",
+    "gender": "Girl",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri8",
+    "verified": true
+  },
+  {
+    "name": "Rifaqah",
+    "gender": "Girl",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri9",
+    "verified": true
+  },
+  {
+    "name": "Rifat",
+    "gender": "Boy",
+    "meaning": "High rank, greatness",
+    "origin": "Arabic",
+    "id": "ri10",
+    "verified": true
+  },
+  {
+    "name": "Rifatullah",
+    "gender": "Boy",
+    "meaning": "High rank of Allah",
+    "origin": "Arabic",
+    "id": "ri11",
+    "verified": true
+  },
+  {
+    "name": "Rifqa",
+    "gender": "Girl",
+    "meaning": "Kindness, gentleness",
+    "origin": "Arabic",
+    "id": "ri12",
+    "verified": true
+  },
+  {
+    "name": "Rifqah",
+    "gender": "Girl",
+    "meaning": "Kindness, gentleness",
+    "origin": "Arabic",
+    "id": "ri13",
+    "verified": true
+  },
+  {
+    "name": "Rihan",
+    "gender": "Boy",
+    "meaning": "Sweet basil",
+    "origin": "Arabic",
+    "id": "ri14",
+    "verified": true
+  },
+  {
+    "name": "Rimawi",
+    "gender": "Boy",
+    "meaning": "From the Rimawi family",
+    "origin": "Arabic",
+    "id": "ri15",
+    "verified": true
+  },
+  {
+    "name": "Rimaz",
+    "gender": "Boy",
+    "meaning": "Respected, honored",
+    "origin": "Arabic",
+    "id": "ri16",
+    "verified": true
+  },
+  {
+    "name": "Rimon",
+    "gender": "Boy",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ri17",
+    "verified": true
+  },
+  {
+    "name": "Rimona",
+    "gender": "Girl",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ri18",
+    "verified": true
+  },
+  {
+    "name": "Rimy",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "ri19",
+    "verified": true
+  },
+  {
+    "name": "Risala",
+    "gender": "Girl",
+    "meaning": "Message, mission",
+    "origin": "Arabic",
+    "id": "ri20",
+    "verified": true
+  },
+  {
+    "name": "Rita",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Latin",
+    "id": "ri21",
+    "verified": true
+  },
+  {
+    "name": "Riya",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Arabic",
+    "id": "ri22",
+    "verified": true
+  },
+  {
+    "name": "Riyaad",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri23",
+    "verified": true
+  },
+  {
+    "name": "Riyadah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri24",
+    "verified": true
+  },
+  {
+    "name": "Riyadh",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri25",
+    "verified": true
+  },
+  {
+    "name": "Riyaz",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri26",
+    "verified": true
+  },
+  {
+    "name": "Rizk",
+    "gender": "Boy",
+    "meaning": "Provision, blessing",
+    "origin": "Arabic",
+    "id": "ri27",
+    "verified": true
+  },
+  {
+    "name": "Rizkallah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri28",
+    "verified": true
+  },
+  {
+    "name": "Rizqah",
+    "gender": "Girl",
+    "meaning": "Provision",
+    "origin": "Arabic",
+    "id": "ri29",
+    "verified": true
+  },
+  {
+    "name": "Rizqallah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri30",
+    "verified": true
+  },
+  {
+    "name": "Rizqullah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri31",
     "verified": true
   }
 ]

@@ -1997,6 +1997,14 @@
     }
   },
   {
+    "name": "Rakin",
+    "gender": "Boy",
+    "meaning": "Respectful and firm",
+    "origin": "Arabic",
+    "id": "ra1",
+    "verified": true
+  },
+  {
     "name": "Rama",
     "gender": "Boy",
     "meaning": "Joy",
@@ -3567,6 +3575,14 @@
     }
   },
   {
+    "name": "Razi",
+    "gender": "Boy",
+    "meaning": "Satisfied or content",
+    "origin": "Arabic",
+    "id": "ra2",
+    "verified": true
+  },
+  {
     "name": "Razi-Ud-Din",
     "gender": "Boy",
     "meaning": "Satisfaction of the Faith",
@@ -4913,6 +4929,14 @@
       "Indonesian": "Riyad",
       "Pashto": "ریاض"
     }
+  },
+  {
+    "name": "Riyan",
+    "gender": "Boy",
+    "meaning": "Door of heaven",
+    "origin": "Arabic",
+    "id": "ri1",
+    "verified": true
   },
   {
     "name": "Riza",
@@ -6867,6 +6891,14 @@
       "Indonesian": "Rukhsar",
       "Pashto": "رخسار"
     }
+  },
+  {
+    "name": "Rukiye",
+    "gender": "Girl",
+    "meaning": "Charming or spellbinding",
+    "origin": "Turkish/Arabic",
+    "id": "ru1",
+    "verified": true
   },
   {
     "name": "Rukn",

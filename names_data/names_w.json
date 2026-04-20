@@ -1433,6 +1433,23 @@
     }
   },
   {
+    "name": "Waniya",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "wa2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "وانيا",
+      "Urdu": "وانیہ",
+      "Persian": "وانیا",
+      "Turkish": "Waniya",
+      "Bengali": "ওয়ানিয়া",
+      "Indonesian": "Waniya",
+      "Pashto": "وانیا"
+    }
+  },
+  {
     "id": "wa24",
     "name": "Waqar",
     "gender": "Boy",
@@ -1853,6 +1870,23 @@
       "Bengali": "ওয়াসেট",
       "Indonesian": "Waseet",
       "Pashto": "واسیت"
+    }
+  },
+  {
+    "name": "Wasi",
+    "gender": "Boy",
+    "meaning": "Broad-minded or expansive",
+    "origin": "Arabic",
+    "id": "wa1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "واسي",
+      "Urdu": "وصی",
+      "Persian": "واسی",
+      "Turkish": "Vasi",
+      "Bengali": "ওয়াসি",
+      "Indonesian": "Wasi",
+      "Pashto": "واسي"
     }
   },
   {

@@ -190,6 +190,14 @@
     }
   },
   {
+    "name": "Ebrahimeh",
+    "gender": "Girl",
+    "meaning": "Father of a multitude",
+    "origin": "Arabic",
+    "id": "eb1",
+    "verified": true
+  },
+  {
     "id": "eb6_var",
     "name": "Ebroo",
     "gender": "Girl",
@@ -665,6 +673,14 @@
     }
   },
   {
+    "name": "Efdal",
+    "gender": "Boy",
+    "meaning": "Best or most excellent",
+    "origin": "Turkish",
+    "id": "ef1",
+    "verified": true
+  },
+  {
     "id": "ef1",
     "name": "Efe",
     "gender": "Boy",
@@ -953,6 +969,14 @@
       "Indonesian": "Eilaf",
       "Pashto": "ایلاف"
     }
+  },
+  {
+    "name": "Eiliyah",
+    "gender": "Girl",
+    "meaning": "The beautiful one to grow in peace and love",
+    "origin": "Arabic",
+    "id": "ei1",
+    "verified": true
   },
   {
     "id": "ei4",
@@ -1493,6 +1517,14 @@
     }
   },
   {
+    "name": "Elira",
+    "gender": "Girl",
+    "meaning": "Freedom",
+    "origin": "Albanian",
+    "id": "el1",
+    "verified": true
+  },
+  {
     "id": "el9",
     "name": "Elisha",
     "gender": "Boy",
@@ -1667,6 +1699,14 @@
     }
   },
   {
+    "name": "Elyas",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Elijah)",
+    "origin": "Arabic",
+    "id": "el2",
+    "verified": true
+  },
+  {
     "id": "em1",
     "name": "Emad",
     "gender": "Boy",
@@ -1699,6 +1739,14 @@
       "Indonesian": "Emal",
       "Pashto": "ایمل"
     }
+  },
+  {
+    "name": "Emam",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "em1",
+    "verified": true
   },
   {
     "id": "em3",
@@ -1857,6 +1905,14 @@
       "Indonesian": "Eminah",
       "Pashto": "امینه"
     }
+  },
+  {
+    "name": "Emine",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Turkish",
+    "id": "em2",
+    "verified": true
   },
   {
     "id": "em7",
@@ -2743,6 +2799,14 @@
     }
   },
   {
+    "name": "Esin",
+    "gender": "Girl",
+    "meaning": "Inspiration or morning breeze",
+    "origin": "Turkish",
+    "id": "es1",
+    "verified": true
+  },
+  {
     "id": "es6",
     "name": "Esma",
     "gender": "Girl",
@@ -2796,6 +2860,14 @@
     }
   },
   {
+    "name": "Esmaiel",
+    "gender": "Boy",
+    "meaning": "God will hear, A Prophet's name (Ishmael)",
+    "origin": "Arabic",
+    "id": "es2",
+    "verified": true
+  },
+  {
     "id": "es7",
     "name": "Esmail",
     "gender": "Boy",
@@ -2845,6 +2917,14 @@
       "Indonesian": "Esra",
       "Pashto": "اسرا"
     }
+  },
+  {
+    "name": "Esraa",
+    "gender": "Girl",
+    "meaning": "Night journey",
+    "origin": "Arabic",
+    "id": "es3",
+    "verified": true
   },
   {
     "id": "es9_var",

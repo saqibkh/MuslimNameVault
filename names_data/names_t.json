@@ -1419,6 +1419,14 @@
     }
   },
   {
+    "name": "Tali",
+    "gender": "Boy",
+    "meaning": "Rising or ascending",
+    "origin": "Arabic",
+    "id": "ta1",
+    "verified": true
+  },
+  {
     "id": "ta18",
     "name": "Talia",
     "gender": "Girl",
@@ -4956,6 +4964,14 @@
       "Indonesian": "Tripoli",
       "Pashto": "طرابلس"
     }
+  },
+  {
+    "name": "Tuana",
+    "gender": "Girl",
+    "meaning": "The first raindrop in heaven",
+    "origin": "Turkish",
+    "id": "tu1",
+    "verified": true
   },
   {
     "id": "tu1",

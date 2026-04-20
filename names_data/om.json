@@ -1,10 +1,146 @@
 [
   {
-    "name": "Omera",
-    "gender": "Girl",
-    "meaning": "Great personality or positive attitude",
-    "origin": "Arabic",
+    "name": "Omaid",
+    "gender": "Boy",
+    "meaning": "Hope",
+    "origin": "Persian",
     "id": "om1",
+    "verified": true
+  },
+  {
+    "name": "Omaima",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "id": "om2",
+    "verified": true
+  },
+  {
+    "name": "Omaira",
+    "gender": "Girl",
+    "meaning": "Little princess, red",
+    "origin": "Arabic",
+    "id": "om3",
+    "verified": true
+  },
+  {
+    "name": "Omairah",
+    "gender": "Girl",
+    "meaning": "Little princess",
+    "origin": "Arabic",
+    "id": "om4",
+    "verified": true
+  },
+  {
+    "name": "Omara",
+    "gender": "Girl",
+    "meaning": "Long life, flourishing",
+    "origin": "Arabic",
+    "id": "om5",
+    "verified": true
+  },
+  {
+    "name": "Omarah",
+    "gender": "Girl",
+    "meaning": "Flourishing, eloquent",
+    "origin": "Arabic",
+    "id": "om6",
+    "verified": true
+  },
+  {
+    "name": "Omarahmad",
+    "gender": "Boy",
+    "meaning": "Flourishing and highly praised",
+    "origin": "Arabic",
+    "id": "om7",
+    "verified": true
+  },
+  {
+    "name": "Omardeen",
+    "gender": "Boy",
+    "meaning": "Flourishing faith",
+    "origin": "Arabic",
+    "id": "om8",
+    "verified": true
+  },
+  {
+    "name": "Omariah",
+    "gender": "Girl",
+    "meaning": "Pertaining to Omar, flourishing",
+    "origin": "Arabic",
+    "id": "om9",
+    "verified": true
+  },
+  {
+    "name": "Omaya",
+    "gender": "Girl",
+    "meaning": "Maidservant",
+    "origin": "Arabic",
+    "id": "om10",
+    "verified": true
+  },
+  {
+    "name": "Omeedah",
+    "gender": "Girl",
+    "meaning": "Hope",
+    "origin": "Persian",
+    "id": "om11",
+    "verified": true
+  },
+  {
+    "name": "Omeima",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "id": "om12",
+    "verified": true
+  },
+  {
+    "name": "Omer",
+    "gender": "Boy",
+    "meaning": "Flourishing, long-lived",
+    "origin": "Arabic",
+    "id": "om13",
+    "verified": true
+  },
+  {
+    "name": "Omerah",
+    "gender": "Girl",
+    "meaning": "Flourishing, prosperous",
+    "origin": "Arabic",
+    "id": "om14",
+    "verified": true
+  },
+  {
+    "name": "Omima",
+    "gender": "Girl",
+    "meaning": "Little mother",
+    "origin": "Arabic",
+    "id": "om15",
+    "verified": true
+  },
+  {
+    "name": "Ommara",
+    "gender": "Girl",
+    "meaning": "Flourishing",
+    "origin": "Arabic",
+    "id": "om16",
+    "verified": true
+  },
+  {
+    "name": "Ommi",
+    "gender": "Girl",
+    "meaning": "My mother",
+    "origin": "Arabic",
+    "id": "om17",
+    "verified": true
+  },
+  {
+    "name": "Omnia",
+    "gender": "Girl",
+    "meaning": "Wish, desire",
+    "origin": "Arabic",
+    "id": "om18",
     "verified": true
   }
 ]

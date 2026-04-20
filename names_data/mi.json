@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Mimi",
+    "gender": "Girl",
+    "meaning": "Pet name, cute",
+    "origin": "Arabic",
+    "id": "mi1",
+    "verified": true
+  },
+  {
+    "name": "Minaa",
+    "gender": "Girl",
+    "meaning": "Port, enamel",
+    "origin": "Arabic/Persian",
+    "id": "mi2",
+    "verified": true
+  },
+  {
+    "name": "Minaah",
+    "gender": "Girl",
+    "meaning": "Enamel, glass",
+    "origin": "Persian",
+    "id": "mi3",
+    "verified": true
+  },
+  {
+    "name": "Minnah",
+    "gender": "Girl",
+    "meaning": "Gift, grace",
+    "origin": "Arabic",
+    "id": "mi4",
+    "verified": true
+  },
+  {
+    "name": "Miraal",
+    "gender": "Girl",
+    "meaning": "Gazelle",
+    "origin": "Turkish/Persian",
+    "id": "mi5",
+    "verified": true
+  },
+  {
+    "name": "Mirella",
+    "gender": "Girl",
+    "meaning": "Admirable",
+    "origin": "Latin",
+    "id": "mi6",
+    "verified": true
+  },
+  {
+    "name": "Miriam",
+    "gender": "Girl",
+    "meaning": "Beloved, Mary",
+    "origin": "Hebrew/Arabic",
+    "id": "mi7",
+    "verified": true
+  },
+  {
+    "name": "Mishaal",
+    "gender": "Boy",
+    "meaning": "Lantern, torch",
+    "origin": "Arabic",
+    "id": "mi8",
+    "verified": true
+  }
+]

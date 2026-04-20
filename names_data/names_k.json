@@ -52,6 +52,14 @@
     }
   },
   {
+    "name": "Kaamilah",
+    "gender": "Girl",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "id": "ka2",
+    "verified": true
+  },
+  {
     "name": "Kaamran",
     "gender": "Boy",
     "meaning": "Successful",
@@ -344,6 +352,14 @@
       "Indonesian": "Kadeer",
       "Pashto": "قدیر"
     }
+  },
+  {
+    "name": "Kader",
+    "gender": "Girl",
+    "meaning": "Destiny or fate",
+    "origin": "Turkish/Arabic",
+    "id": "ka1",
+    "verified": true
   },
   {
     "id": "ka6",
@@ -1026,6 +1042,30 @@
     }
   },
   {
+    "name": "Kalida",
+    "gender": "Girl",
+    "meaning": "Immortal, eternal",
+    "origin": "Arabic",
+    "id": "ka3",
+    "verified": true
+  },
+  {
+    "name": "Kalifa",
+    "gender": "Boy",
+    "meaning": "Successor, caliph",
+    "origin": "Arabic",
+    "id": "ka4",
+    "verified": true
+  },
+  {
+    "name": "Kalila",
+    "gender": "Girl",
+    "meaning": "Beloved, sweetheart",
+    "origin": "Arabic",
+    "id": "ka5",
+    "verified": true
+  },
+  {
     "name": "Kalim",
     "gender": "Boy",
     "meaning": "Speaker",
@@ -1062,6 +1102,14 @@
     }
   },
   {
+    "name": "Kalimah",
+    "gender": "Girl",
+    "meaning": "Speaker, word",
+    "origin": "Arabic",
+    "id": "ka6",
+    "verified": true
+  },
+  {
     "name": "Kalimoollah",
     "gender": "Boy",
     "meaning": "One who spoke to Allah (Musa)",
@@ -1095,6 +1143,14 @@
       "Indonesian": "Kalimullah",
       "Pashto": "کلیم الله"
     }
+  },
+  {
+    "name": "Kalista",
+    "gender": "Girl",
+    "meaning": "Most beautiful",
+    "origin": "Greek",
+    "id": "ka7",
+    "verified": true
   },
   {
     "name": "Kalsoom",
@@ -1149,6 +1205,14 @@
     }
   },
   {
+    "name": "Kalthoom",
+    "gender": "Girl",
+    "meaning": "Someone with a chubby face",
+    "origin": "Arabic",
+    "id": "ka8",
+    "verified": true
+  },
+  {
     "id": "ka23",
     "name": "Kamal",
     "gender": "Boy",
@@ -1199,6 +1263,14 @@
       "Indonesian": "Kamal-Ud-Din",
       "Pashto": "کمال الدین"
     }
+  },
+  {
+    "name": "Kamala",
+    "gender": "Girl",
+    "meaning": "Perfection",
+    "origin": "Arabic",
+    "id": "ka9",
+    "verified": true
   },
   {
     "id": "ka20_var",
@@ -1445,6 +1517,14 @@
       "Indonesian": "Kameelah",
       "Pashto": "کمیله"
     }
+  },
+  {
+    "name": "Kamel",
+    "gender": "Boy",
+    "meaning": "Perfect, complete",
+    "origin": "Arabic",
+    "id": "ka10",
+    "verified": true
   },
   {
     "id": "ka25",
@@ -1775,6 +1855,14 @@
     }
   },
   {
+    "name": "Karamah",
+    "gender": "Girl",
+    "meaning": "Nobility, miracle",
+    "origin": "Arabic",
+    "id": "ka11",
+    "verified": true
+  },
+  {
     "name": "Karamat",
     "gender": "Boy",
     "meaning": "Miracle",
@@ -1877,6 +1965,14 @@
       "Indonesian": "Karema",
       "Pashto": "کریمه"
     }
+  },
+  {
+    "name": "Kareemah",
+    "gender": "Girl",
+    "meaning": "Generous, noble",
+    "origin": "Arabic",
+    "id": "ka12",
+    "verified": true
   },
   {
     "id": "ka30",
@@ -2385,6 +2481,14 @@
     }
   },
   {
+    "name": "Kassem",
+    "gender": "Boy",
+    "meaning": "Divider, distributor",
+    "origin": "Arabic",
+    "id": "ka13",
+    "verified": true
+  },
+  {
     "name": "Kastamonoo",
     "gender": "Boy",
     "meaning": "City in Turkey",
@@ -2487,6 +2591,14 @@
       "Indonesian": "Kausar",
       "Pashto": "کوثر"
     }
+  },
+  {
+    "name": "Kauthar",
+    "gender": "Girl",
+    "meaning": "Abundance, a river in Paradise",
+    "origin": "Arabic",
+    "id": "ka14",
+    "verified": true
   },
   {
     "name": "Kaveh",
@@ -2642,6 +2754,14 @@
       "Indonesian": "Kayhan",
       "Pashto": "کیهان"
     }
+  },
+  {
+    "name": "Kayla",
+    "gender": "Girl",
+    "meaning": "Wise child, crown",
+    "origin": "Arabic/Hebrew",
+    "id": "ka15",
+    "verified": true
   },
   {
     "id": "ka38",
@@ -3822,6 +3942,14 @@
     }
   },
   {
+    "name": "Khairallah",
+    "gender": "Boy",
+    "meaning": "Goodness of God",
+    "origin": "Arabic",
+    "id": "kh2",
+    "verified": true
+  },
+  {
     "id": "kh5",
     "name": "Khairat",
     "gender": "Unisex",
@@ -3997,6 +4125,14 @@
     }
   },
   {
+    "name": "Khairun",
+    "gender": "Unisex",
+    "meaning": "Good, blessing",
+    "origin": "Arabic",
+    "id": "kh3",
+    "verified": true
+  },
+  {
     "id": "kh9",
     "name": "Khairun Nisa",
     "gender": "Girl",
@@ -4030,6 +4166,14 @@
       "Indonesian": "Khairun Nisah",
       "Pashto": "خیرون النساء"
     }
+  },
+  {
+    "name": "Khairunissa",
+    "gender": "Girl",
+    "meaning": "Best of women",
+    "origin": "Arabic",
+    "id": "kh4",
+    "verified": true
   },
   {
     "name": "Khairunnisa",
@@ -4134,6 +4278,22 @@
       "Indonesian": "Khaled",
       "Pashto": "خالد"
     }
+  },
+  {
+    "name": "Khaleda",
+    "gender": "Girl",
+    "meaning": "Immortal, eternal",
+    "origin": "Arabic",
+    "id": "kh5",
+    "verified": true
+  },
+  {
+    "name": "Khaledah",
+    "gender": "Girl",
+    "meaning": "Immortal, eternal",
+    "origin": "Arabic",
+    "id": "kh6",
+    "verified": true
   },
   {
     "id": "kh15_var",
@@ -4556,6 +4716,14 @@
       "Indonesian": "Khalilah",
       "Pashto": "خلیله"
     }
+  },
+  {
+    "name": "Khaliliyah",
+    "gender": "Girl",
+    "meaning": "Friendly, companionable",
+    "origin": "Arabic",
+    "id": "kh7",
+    "verified": true
   },
   {
     "id": "kh20_var",
@@ -5444,6 +5612,14 @@
     }
   },
   {
+    "name": "Khazraj",
+    "gender": "Boy",
+    "meaning": "Name of an Arab tribe in Medina",
+    "origin": "Arabic",
+    "id": "kh1",
+    "verified": true
+  },
+  {
     "id": "kh37_var",
     "name": "Kheedr",
     "gender": "Boy",
@@ -5669,6 +5845,22 @@
       "Indonesian": "Khojand",
       "Pashto": "خوجند"
     }
+  },
+  {
+    "name": "Kholood",
+    "gender": "Girl",
+    "meaning": "Immortality, eternity",
+    "origin": "Arabic",
+    "id": "kh8",
+    "verified": true
+  },
+  {
+    "name": "Kholoud",
+    "gender": "Girl",
+    "meaning": "Immortality, eternity",
+    "origin": "Arabic",
+    "id": "kh9",
+    "verified": true
   },
   {
     "name": "Khoobayb",
@@ -6390,6 +6582,14 @@
     }
   },
   {
+    "name": "Kifaya",
+    "gender": "Girl",
+    "meaning": "Sufficiency, enough",
+    "origin": "Arabic",
+    "id": "ki2",
+    "verified": true
+  },
+  {
     "id": "ki2",
     "name": "Kifayat",
     "gender": "Unisex",
@@ -6405,6 +6605,14 @@
       "Indonesian": "Kifayat",
       "Pashto": "کفایت"
     }
+  },
+  {
+    "name": "Kimiya",
+    "gender": "Girl",
+    "meaning": "Alchemy or miracle",
+    "origin": "Persian",
+    "id": "ki1",
+    "verified": true
   },
   {
     "name": "Kinan",
@@ -7230,6 +7438,14 @@
       "Indonesian": "Kufah",
       "Pashto": "کوفه"
     }
+  },
+  {
+    "name": "Kulliwal",
+    "gender": "Boy",
+    "meaning": "Villager",
+    "origin": "Pashto",
+    "id": "ku1",
+    "verified": true
   },
   {
     "name": "Kulsoom",

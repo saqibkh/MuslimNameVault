@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Refaat",
+    "gender": "Boy",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "re1",
+    "verified": true
+  },
+  {
+    "name": "Rehab",
+    "gender": "Girl",
+    "meaning": "Vastness, spaciousness",
+    "origin": "Arabic",
+    "id": "re2",
+    "verified": true
+  },
+  {
+    "name": "Rehaba",
+    "gender": "Girl",
+    "meaning": "Spaciousness",
+    "origin": "Arabic",
+    "id": "re3",
+    "verified": true
+  },
+  {
+    "name": "Rehabah",
+    "gender": "Girl",
+    "meaning": "Spaciousness",
+    "origin": "Arabic",
+    "id": "re4",
+    "verified": true
+  },
+  {
+    "name": "Reham",
+    "gender": "Girl",
+    "meaning": "Light rain",
+    "origin": "Arabic",
+    "id": "re5",
+    "verified": true
+  },
+  {
+    "name": "Rehman",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "re6",
+    "verified": true
+  },
+  {
+    "name": "Rema",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "re7",
+    "verified": true
+  },
+  {
+    "name": "Reyad",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re8",
+    "verified": true
+  },
+  {
+    "name": "Reyadh",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re9",
+    "verified": true
+  },
+  {
+    "name": "Reyadhah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re10",
+    "verified": true
+  },
+  {
+    "name": "Reyaz",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re11",
+    "verified": true
+  },
+  {
+    "name": "Reyhana",
+    "gender": "Girl",
+    "meaning": "Sweet-smelling flower",
+    "origin": "Arabic",
+    "id": "re12",
+    "verified": true
+  },
+  {
+    "name": "Reyhaneh",
+    "gender": "Girl",
+    "meaning": "Sweet-smelling flower",
+    "origin": "Persian",
+    "id": "re13",
+    "verified": true
+  },
+  {
+    "name": "Rezqallah",
+    "gender": "Boy",
+    "meaning": "Provision of Allah",
+    "origin": "Arabic",
+    "id": "re14",
+    "verified": true
+  }
+]

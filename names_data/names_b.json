@@ -382,6 +382,14 @@
     }
   },
   {
+    "name": "Badawi",
+    "gender": "Boy",
+    "meaning": "Bedouin, desert dweller",
+    "origin": "Arabic",
+    "id": "ba1",
+    "verified": true
+  },
+  {
     "id": "ba8_var",
     "name": "Badee",
     "gender": "Boy",
@@ -488,6 +496,46 @@
       "Indonesian": "Badeeya",
       "Pashto": "بدیع"
     }
+  },
+  {
+    "name": "Bader",
+    "gender": "Boy",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "id": "ba2",
+    "verified": true
+  },
+  {
+    "name": "Baderdeen",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba3",
+    "verified": true
+  },
+  {
+    "name": "Baderdin",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba4",
+    "verified": true
+  },
+  {
+    "name": "Badereddin",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba5",
+    "verified": true
+  },
+  {
+    "name": "Baderin",
+    "gender": "Boy",
+    "meaning": "Full moons",
+    "origin": "Arabic",
+    "id": "ba6",
+    "verified": true
   },
   {
     "id": "ba8",
@@ -786,6 +834,22 @@
     }
   },
   {
+    "name": "Badria",
+    "gender": "Girl",
+    "meaning": "Resembling the full moon",
+    "origin": "Arabic",
+    "id": "ba7",
+    "verified": true
+  },
+  {
+    "name": "Badriah",
+    "gender": "Girl",
+    "meaning": "Resembling the full moon",
+    "origin": "Arabic",
+    "id": "ba8",
+    "verified": true
+  },
+  {
     "id": "ba14",
     "name": "Badriya",
     "gender": "Girl",
@@ -943,6 +1007,22 @@
       "Indonesian": "Badrul",
       "Pashto": "بدرال"
     }
+  },
+  {
+    "name": "Badruldeen",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba9",
+    "verified": true
+  },
+  {
+    "name": "Badrulhassan",
+    "gender": "Boy",
+    "meaning": "Full moon of beauty",
+    "origin": "Arabic",
+    "id": "ba10",
+    "verified": true
   },
   {
     "id": "ba16_var",
@@ -1209,6 +1289,14 @@
     }
   },
   {
+    "name": "Bahaa",
+    "gender": "Boy",
+    "meaning": "Beauty, splendor",
+    "origin": "Arabic",
+    "id": "ba11",
+    "verified": true
+  },
+  {
     "id": "ba18_var",
     "name": "Bahadoor",
     "gender": "Boy",
@@ -1242,6 +1330,14 @@
       "Indonesian": "Bahadur",
       "Pashto": "بهادر"
     }
+  },
+  {
+    "name": "Bahaeddin",
+    "gender": "Boy",
+    "meaning": "Splendor of the faith",
+    "origin": "Arabic",
+    "id": "ba12",
+    "verified": true
   },
   {
     "id": "bh2_var",
@@ -2135,6 +2231,14 @@
     }
   },
   {
+    "name": "Bakirah",
+    "gender": "Girl",
+    "meaning": "Virgin, pure",
+    "origin": "Arabic",
+    "id": "ba13",
+    "verified": true
+  },
+  {
     "name": "Bakka",
     "gender": "Girl",
     "meaning": "Ancient name of Mecca",
@@ -2238,6 +2342,22 @@
       "Indonesian": "Bakri",
       "Pashto": "بکری"
     }
+  },
+  {
+    "name": "Bakriah",
+    "gender": "Girl",
+    "meaning": "Early, young",
+    "origin": "Arabic",
+    "id": "ba14",
+    "verified": true
+  },
+  {
+    "name": "Bakriyah",
+    "gender": "Girl",
+    "meaning": "Early, young",
+    "origin": "Arabic",
+    "id": "ba15",
+    "verified": true
   },
   {
     "name": "Baku",
@@ -3697,6 +3817,30 @@
     }
   },
   {
+    "name": "Basel",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ba16",
+    "verified": true
+  },
+  {
+    "name": "Basem",
+    "gender": "Boy",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba17",
+    "verified": true
+  },
+  {
+    "name": "Basemah",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba18",
+    "verified": true
+  },
+  {
     "id": "ba75",
     "name": "Basha",
     "gender": "Boy",
@@ -4130,6 +4274,14 @@
     }
   },
   {
+    "name": "Basmaah",
+    "gender": "Girl",
+    "meaning": "A smile",
+    "origin": "Arabic",
+    "id": "ba19",
+    "verified": true
+  },
+  {
     "id": "ba91",
     "name": "Basmah",
     "gender": "Girl",
@@ -4145,6 +4297,30 @@
       "Indonesian": "Basmah",
       "Pashto": "بسمه"
     }
+  },
+  {
+    "name": "Basmala",
+    "gender": "Girl",
+    "meaning": "Saying 'In the name of God'",
+    "origin": "Arabic",
+    "id": "ba20",
+    "verified": true
+  },
+  {
+    "name": "Basmalah",
+    "gender": "Girl",
+    "meaning": "Saying 'In the name of God'",
+    "origin": "Arabic",
+    "id": "ba21",
+    "verified": true
+  },
+  {
+    "name": "Basmalhoud",
+    "gender": "Girl",
+    "meaning": "Smiling guidance",
+    "origin": "Arabic",
+    "id": "ba22",
+    "verified": true
   },
   {
     "name": "Basra",
@@ -4232,6 +4408,14 @@
       "Indonesian": "Bassam",
       "Pashto": "بسام"
     }
+  },
+  {
+    "name": "Bassem",
+    "gender": "Boy",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba23",
+    "verified": true
   },
   {
     "id": "ba93_var",
@@ -4337,6 +4521,14 @@
       "Indonesian": "Batool",
       "Pashto": "باتول"
     }
+  },
+  {
+    "name": "Batoul",
+    "gender": "Girl",
+    "meaning": "Ascetic virgin",
+    "origin": "Arabic",
+    "id": "ba24",
+    "verified": true
   },
   {
     "name": "Batuhan",
@@ -4717,6 +4909,14 @@
       "Indonesian": "Bazlur",
       "Pashto": "بازلور"
     }
+  },
+  {
+    "name": "Bedour",
+    "gender": "Girl",
+    "meaning": "Full moons",
+    "origin": "Arabic",
+    "id": "be2",
+    "verified": true
   },
   {
     "id": "bi1_var",
@@ -5303,6 +5503,14 @@
     }
   },
   {
+    "name": "Belgin",
+    "gender": "Girl",
+    "meaning": "Clear and pure",
+    "origin": "Turkish",
+    "id": "be1",
+    "verified": true
+  },
+  {
     "name": "Bello",
     "gender": "Boy",
     "meaning": "Helper of the faith",
@@ -5684,6 +5892,14 @@
     }
   },
   {
+    "name": "Bilqees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "id": "bi1",
+    "verified": true
+  },
+  {
     "id": "bi4",
     "name": "Bilqis",
     "gender": "Girl",
@@ -5906,6 +6122,14 @@
       "Indonesian": "Bishara",
       "Pashto": "بیشاره"
     }
+  },
+  {
+    "name": "Bisher",
+    "gender": "Boy",
+    "meaning": "Joy, glad tidings",
+    "origin": "Arabic",
+    "id": "bi2",
+    "verified": true
   },
   {
     "id": "bi10",
@@ -6920,6 +7144,14 @@
     }
   },
   {
+    "name": "Bouthaina",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body",
+    "origin": "Arabic",
+    "id": "bo1",
+    "verified": true
+  },
+  {
     "name": "Bozorg",
     "gender": "Boy",
     "meaning": "Great",
@@ -7750,6 +7982,30 @@
       "Indonesian": "Busr",
       "Pashto": "بسر"
     }
+  },
+  {
+    "name": "Busra",
+    "gender": "Girl",
+    "meaning": "Unripe dates",
+    "origin": "Arabic",
+    "id": "bu1",
+    "verified": true
+  },
+  {
+    "name": "Busrawi",
+    "gender": "Boy",
+    "meaning": "From Busra",
+    "origin": "Arabic",
+    "id": "bu2",
+    "verified": true
+  },
+  {
+    "name": "Buthaina",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body",
+    "origin": "Arabic",
+    "id": "bu3",
+    "verified": true
   },
   {
     "id": "bu20",

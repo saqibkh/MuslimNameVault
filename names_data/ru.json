@@ -1,10 +1,458 @@
 [
   {
-    "name": "Rukiye",
+    "name": "Ruaa",
     "gender": "Girl",
-    "meaning": "Charming or spellbinding",
-    "origin": "Turkish/Arabic",
+    "meaning": "Visions, dreams",
+    "origin": "Arabic",
     "id": "ru1",
+    "verified": true
+  },
+  {
+    "name": "Rubaba",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "ru2",
+    "verified": true
+  },
+  {
+    "name": "Rubaiya",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ru3",
+    "verified": true
+  },
+  {
+    "name": "Rubaiyah",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ru4",
+    "verified": true
+  },
+  {
+    "name": "Rubayya",
+    "gender": "Girl",
+    "meaning": "Little hill",
+    "origin": "Arabic",
+    "id": "ru5",
+    "verified": true
+  },
+  {
+    "name": "Rubayyah",
+    "gender": "Girl",
+    "meaning": "Little hill",
+    "origin": "Arabic",
+    "id": "ru6",
+    "verified": true
+  },
+  {
+    "name": "Ruby",
+    "gender": "Girl",
+    "meaning": "Red gemstone",
+    "origin": "Latin",
+    "id": "ru7",
+    "verified": true
+  },
+  {
+    "name": "Rudaina",
+    "gender": "Girl",
+    "meaning": "Spinning wheel",
+    "origin": "Arabic",
+    "id": "ru8",
+    "verified": true
+  },
+  {
+    "name": "Ruhiyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ru9",
+    "verified": true
+  },
+  {
+    "name": "Rukaida",
+    "gender": "Girl",
+    "meaning": "Gentle support",
+    "origin": "Arabic",
+    "id": "ru10",
+    "verified": true
+  },
+  {
+    "name": "Rukainah",
+    "gender": "Girl",
+    "meaning": "Pillar, support",
+    "origin": "Arabic",
+    "id": "ru11",
+    "verified": true
+  },
+  {
+    "name": "Rukaiya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru12",
+    "verified": true
+  },
+  {
+    "name": "Rukaiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru13",
+    "verified": true
+  },
+  {
+    "name": "Rukaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru14",
+    "verified": true
+  },
+  {
+    "name": "Rukayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru15",
+    "verified": true
+  },
+  {
+    "name": "Rukayya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru16",
+    "verified": true
+  },
+  {
+    "name": "Rukayyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru17",
+    "verified": true
+  },
+  {
+    "name": "Rukhaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru18",
+    "verified": true
+  },
+  {
+    "name": "Rukhshan",
+    "gender": "Boy",
+    "meaning": "Dazzling, shining",
+    "origin": "Persian",
+    "id": "ru19",
+    "verified": true
+  },
+  {
+    "name": "Rukhshana",
+    "gender": "Girl",
+    "meaning": "Brilliant, beautiful",
+    "origin": "Persian",
+    "id": "ru20",
+    "verified": true
+  },
+  {
+    "name": "Rukhshanda",
+    "gender": "Girl",
+    "meaning": "Shining, brilliant",
+    "origin": "Persian",
+    "id": "ru21",
+    "verified": true
+  },
+  {
+    "name": "Rukhshannah",
+    "gender": "Girl",
+    "meaning": "Brilliant, beautiful",
+    "origin": "Persian",
+    "id": "ru22",
+    "verified": true
+  },
+  {
+    "name": "Rukiah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru23",
+    "verified": true
+  },
+  {
+    "name": "Rukiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru24",
+    "verified": true
+  },
+  {
+    "name": "Rukmini",
+    "gender": "Girl",
+    "meaning": "Adorned with gold",
+    "origin": "Sanskrit",
+    "id": "ru25",
+    "verified": true
+  },
+  {
+    "name": "Rukminiyah",
+    "gender": "Girl",
+    "meaning": "Adorned with gold",
+    "origin": "Sanskrit",
+    "id": "ru26",
+    "verified": true
+  },
+  {
+    "name": "Ruksar",
+    "gender": "Girl",
+    "meaning": "Cheek, face",
+    "origin": "Persian",
+    "id": "ru27",
+    "verified": true
+  },
+  {
+    "name": "Rula",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "id": "ru28",
+    "verified": true
+  },
+  {
+    "name": "Rumaan",
+    "gender": "Boy",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ru29",
+    "verified": true
+  },
+  {
+    "name": "Rumaiyah",
+    "gender": "Girl",
+    "meaning": "Little archer",
+    "origin": "Arabic",
+    "id": "ru30",
+    "verified": true
+  },
+  {
+    "name": "Ruqaiya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru31",
+    "verified": true
+  },
+  {
+    "name": "Ruqaiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru32",
+    "verified": true
+  },
+  {
+    "name": "Ruqaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru33",
+    "verified": true
+  },
+  {
+    "name": "Ruqayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru34",
+    "verified": true
+  },
+  {
+    "name": "Ruqqaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru35",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayaah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru36",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru37",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru38",
+    "verified": true
+  },
+  {
+    "name": "Ruqqiah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru39",
+    "verified": true
+  },
+  {
+    "name": "Ruqqiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru40",
+    "verified": true
+  },
+  {
+    "name": "Ruqsana",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru41",
+    "verified": true
+  },
+  {
+    "name": "Ruqsar",
+    "gender": "Girl",
+    "meaning": "Cheek, face",
+    "origin": "Persian",
+    "id": "ru42",
+    "verified": true
+  },
+  {
+    "name": "Ruqsaya",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru43",
+    "verified": true
+  },
+  {
+    "name": "Ruqsayya",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru44",
+    "verified": true
+  },
+  {
+    "name": "Ruqsayyah",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru45",
+    "verified": true
+  },
+  {
+    "name": "Ruqyah",
+    "gender": "Girl",
+    "meaning": "Spell, charm, recitation",
+    "origin": "Arabic",
+    "id": "ru46",
+    "verified": true
+  },
+  {
+    "name": "Rushdiya",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ru47",
+    "verified": true
+  },
+  {
+    "name": "Rushdiyah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ru48",
+    "verified": true
+  },
+  {
+    "name": "Rustom",
+    "gender": "Boy",
+    "meaning": "Strong, brave",
+    "origin": "Persian",
+    "id": "ru49",
+    "verified": true
+  },
+  {
+    "name": "Rustum",
+    "gender": "Boy",
+    "meaning": "Strong, brave",
+    "origin": "Persian",
+    "id": "ru50",
+    "verified": true
+  },
+  {
+    "name": "Ruwa",
+    "gender": "Girl",
+    "meaning": "Beauty, grace",
+    "origin": "Arabic",
+    "id": "ru51",
+    "verified": true
+  },
+  {
+    "name": "Ruwaaida",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru52",
+    "verified": true
+  },
+  {
+    "name": "Ruwaida",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru53",
+    "verified": true
+  },
+  {
+    "name": "Ruwaideh",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru54",
+    "verified": true
+  },
+  {
+    "name": "Ruwaifa",
+    "gender": "Boy",
+    "meaning": "Little elevated one",
+    "origin": "Arabic",
+    "id": "ru55",
+    "verified": true
+  },
+  {
+    "name": "Ruwwad",
+    "gender": "Boy",
+    "meaning": "Pioneers, explorers",
+    "origin": "Arabic",
+    "id": "ru56",
+    "verified": true
+  },
+  {
+    "name": "Ruzanna",
+    "gender": "Girl",
+    "meaning": "Calm, composed",
+    "origin": "Russian/Arabic",
+    "id": "ru57",
     "verified": true
   }
 ]

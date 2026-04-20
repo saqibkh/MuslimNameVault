@@ -1,5 +1,13 @@
 [
   {
+    "name": "Naadir",
+    "gender": "Boy",
+    "meaning": "Rare or precious",
+    "origin": "Arabic",
+    "id": "na1",
+    "verified": true
+  },
+  {
     "name": "Naajee",
     "gender": "Boy",
     "meaning": "Survivor",
@@ -3674,6 +3682,14 @@
       "Indonesian": "Nawras",
       "Pashto": "نورواس"
     }
+  },
+  {
+    "name": "Nawwaf",
+    "gender": "Boy",
+    "meaning": "Tall or high",
+    "origin": "Arabic",
+    "id": "na2",
+    "verified": true
   },
   {
     "id": "na72",

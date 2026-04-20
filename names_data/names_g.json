@@ -472,6 +472,14 @@
     }
   },
   {
+    "name": "Galiya",
+    "gender": "Girl",
+    "meaning": "Fragrant or sweet-smelling",
+    "origin": "Arabic",
+    "id": "ga1",
+    "verified": true
+  },
+  {
     "id": "ga6",
     "name": "Gamal",
     "gender": "Boy",
@@ -1121,6 +1129,30 @@
     }
   },
   {
+    "name": "Ghada",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh1",
+    "verified": true
+  },
+  {
+    "name": "Ghadaa",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh2",
+    "verified": true
+  },
+  {
+    "name": "Ghadah",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh3",
+    "verified": true
+  },
+  {
     "id": "ge4_var",
     "name": "Ghadeea",
     "gender": "Girl",
@@ -1349,6 +1381,14 @@
     }
   },
   {
+    "name": "Ghaleb",
+    "gender": "Boy",
+    "meaning": "Victor, conqueror",
+    "origin": "Arabic",
+    "id": "gh4",
+    "verified": true
+  },
+  {
     "id": "gh6_var",
     "name": "Ghaleea",
     "gender": "Girl",
@@ -1435,6 +1475,38 @@
       "Indonesian": "Ghalib",
       "Pashto": "غالب"
     }
+  },
+  {
+    "name": "Ghalibah",
+    "gender": "Girl",
+    "meaning": "Victor, conqueror",
+    "origin": "Arabic",
+    "id": "gh5",
+    "verified": true
+  },
+  {
+    "name": "Ghaliya",
+    "gender": "Girl",
+    "meaning": "Precious, invaluable",
+    "origin": "Arabic",
+    "id": "gh6",
+    "verified": true
+  },
+  {
+    "name": "Ghaliyah",
+    "gender": "Girl",
+    "meaning": "Precious, invaluable",
+    "origin": "Arabic",
+    "id": "gh7",
+    "verified": true
+  },
+  {
+    "name": "Ghamdiyah",
+    "gender": "Girl",
+    "meaning": "From the Ghamid tribe",
+    "origin": "Arabic",
+    "id": "gh8",
+    "verified": true
   },
   {
     "id": "gh8_var",
@@ -1577,6 +1649,22 @@
     }
   },
   {
+    "name": "Ghaniya",
+    "gender": "Girl",
+    "meaning": "Rich, prosperous",
+    "origin": "Arabic",
+    "id": "gh9",
+    "verified": true
+  },
+  {
+    "name": "Ghaniyah",
+    "gender": "Girl",
+    "meaning": "Rich, prosperous",
+    "origin": "Arabic",
+    "id": "gh10",
+    "verified": true
+  },
+  {
     "id": "gh12_var",
     "name": "Ghaoos",
     "gender": "Boy",
@@ -1644,6 +1732,22 @@
       "Indonesian": "Ghaus",
       "Pashto": "غوث"
     }
+  },
+  {
+    "name": "Ghayas",
+    "gender": "Boy",
+    "meaning": "Assistance, help",
+    "origin": "Arabic",
+    "id": "gh11",
+    "verified": true
+  },
+  {
+    "name": "Ghayasuddin",
+    "gender": "Boy",
+    "meaning": "Helper of the faith",
+    "origin": "Arabic",
+    "id": "gh12",
+    "verified": true
   },
   {
     "id": "gh13",
@@ -1748,6 +1852,22 @@
       "Indonesian": "Ghazalah",
       "Pashto": "غزاله"
     }
+  },
+  {
+    "name": "Ghazali",
+    "gender": "Boy",
+    "meaning": "Like a gazelle",
+    "origin": "Arabic",
+    "id": "gh13",
+    "verified": true
+  },
+  {
+    "name": "Ghazaliyah",
+    "gender": "Girl",
+    "meaning": "Like a gazelle",
+    "origin": "Arabic",
+    "id": "gh14",
+    "verified": true
   },
   {
     "id": "gh16",
@@ -2012,6 +2132,22 @@
     }
   },
   {
+    "name": "Ghizlan",
+    "gender": "Girl",
+    "meaning": "Gazelles",
+    "origin": "Arabic",
+    "id": "gh15",
+    "verified": true
+  },
+  {
+    "name": "Ghizlane",
+    "gender": "Girl",
+    "meaning": "Gazelles",
+    "origin": "Arabic",
+    "id": "gh16",
+    "verified": true
+  },
+  {
     "name": "Ghoncheh",
     "gender": "Girl",
     "meaning": "Flower bud",
@@ -2137,6 +2273,14 @@
     }
   },
   {
+    "name": "Ghufra",
+    "gender": "Girl",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh17",
+    "verified": true
+  },
+  {
     "id": "gh20",
     "name": "Ghufran",
     "gender": "Unisex",
@@ -2154,6 +2298,14 @@
     }
   },
   {
+    "name": "Ghufranah",
+    "gender": "Girl",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh18",
+    "verified": true
+  },
+  {
     "id": "gh21",
     "name": "Ghulam",
     "gender": "Boy",
@@ -2169,6 +2321,22 @@
       "Indonesian": "Ghulam",
       "Pashto": "غلام"
     }
+  },
+  {
+    "name": "Ghulamhusain",
+    "gender": "Boy",
+    "meaning": "Servant of Husain",
+    "origin": "Arabic",
+    "id": "gh19",
+    "verified": true
+  },
+  {
+    "name": "Ghulamhusainah",
+    "gender": "Girl",
+    "meaning": "Servant of Husain",
+    "origin": "Arabic",
+    "id": "gh20",
+    "verified": true
   },
   {
     "name": "Ghulzar",
@@ -3546,6 +3714,14 @@
       "Indonesian": "Gunes",
       "Pashto": "ټوپونه"
     }
+  },
+  {
+    "name": "Gunesh",
+    "gender": "Girl",
+    "meaning": "Sun",
+    "origin": "Turkish",
+    "id": "gu1",
+    "verified": true
   },
   {
     "id": "gu15",

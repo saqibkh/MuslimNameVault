@@ -677,6 +677,14 @@
     }
   },
   {
+    "name": "Ulfa",
+    "gender": "Girl",
+    "meaning": "Harmony or affection",
+    "origin": "Arabic",
+    "id": "ul1",
+    "verified": true
+  },
+  {
     "id": "ul2",
     "name": "Ulfat",
     "gender": "Unisex",
