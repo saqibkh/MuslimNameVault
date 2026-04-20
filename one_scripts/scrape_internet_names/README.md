@@ -22,13 +22,9 @@ Before setting up the Python environment, you must install the local AI engine:
 
 1. **Install Ollama:** Download from [ollama.com](https://ollama.com/) and install it on your system.
 2. **Download the Model:** Open your terminal and run:
-   ```
-```text?code_stdout&code_event_index=2
-README.md generated successfully.
-
 ```bash
-   ollama run llama3
-   ```
+ollama run llama3
+```
    *(This downloads the Meta Llama 3 model. You can type `/bye` to exit once it loads).*
 3. **Ensure Ollama is Running:** Make sure the Ollama application is open and running in your system tray/background before starting the Python script.
 
