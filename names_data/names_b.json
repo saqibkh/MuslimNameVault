@@ -382,6 +382,23 @@
     }
   },
   {
+    "name": "Badawi",
+    "gender": "Boy",
+    "meaning": "Bedouin, desert dweller",
+    "origin": "Arabic",
+    "id": "ba1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدوي",
+      "Urdu": "بدوی",
+      "Persian": "بدوی",
+      "Turkish": "Bedevi",
+      "Bengali": "বাদাউই",
+      "Indonesian": "Badawi",
+      "Pashto": "بدوي"
+    }
+  },
+  {
     "id": "ba8_var",
     "name": "Badee",
     "gender": "Boy",
@@ -487,6 +504,91 @@
       "Bengali": "বাদেয়া",
       "Indonesian": "Badeeya",
       "Pashto": "بدیع"
+    }
+  },
+  {
+    "name": "Bader",
+    "gender": "Boy",
+    "meaning": "Full moon",
+    "origin": "Arabic",
+    "id": "ba2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر",
+      "Urdu": "بدر",
+      "Persian": "بادر",
+      "Turkish": "Bader",
+      "Bengali": "বাদের",
+      "Indonesian": "Lebih buruk",
+      "Pashto": "بدر"
+    }
+  },
+  {
+    "name": "Baderdeen",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر الدين",
+      "Urdu": "بدردین",
+      "Persian": "بادردین",
+      "Turkish": "Baderdin",
+      "Bengali": "বাদেরদীন",
+      "Indonesian": "Baderdeen",
+      "Pashto": "بدردین"
+    }
+  },
+  {
+    "name": "Baderdin",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر الدين",
+      "Urdu": "بدردین",
+      "Persian": "بادردین",
+      "Turkish": "Baderdin",
+      "Bengali": "বাদেরদিন",
+      "Indonesian": "Baderdin",
+      "Pashto": "بدردین"
+    }
+  },
+  {
+    "name": "Badereddin",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر الدين",
+      "Urdu": "بدرالدین",
+      "Persian": "بدرالدین",
+      "Turkish": "Badereddin",
+      "Bengali": "বদরেদ্দিন",
+      "Indonesian": "Badereddin",
+      "Pashto": "بدرالدین"
+    }
+  },
+  {
+    "name": "Baderin",
+    "gender": "Boy",
+    "meaning": "Full moons",
+    "origin": "Arabic",
+    "id": "ba6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدرين",
+      "Urdu": "بدرین",
+      "Persian": "بادرین",
+      "Turkish": "Baderin",
+      "Bengali": "বাদেরিন",
+      "Indonesian": "Baderin",
+      "Pashto": "بدرین"
     }
   },
   {
@@ -786,6 +888,40 @@
     }
   },
   {
+    "name": "Badria",
+    "gender": "Girl",
+    "meaning": "Resembling the full moon",
+    "origin": "Arabic",
+    "id": "ba7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدرية",
+      "Urdu": "بدریا",
+      "Persian": "بدریا",
+      "Turkish": "Badria",
+      "Bengali": "বদরিয়া",
+      "Indonesian": "Badria",
+      "Pashto": "بدریه"
+    }
+  },
+  {
+    "name": "Badriah",
+    "gender": "Girl",
+    "meaning": "Resembling the full moon",
+    "origin": "Arabic",
+    "id": "ba8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدرية",
+      "Urdu": "بدریہ",
+      "Persian": "بدریه",
+      "Turkish": "Badriah",
+      "Bengali": "বদরিয়া",
+      "Indonesian": "Badria",
+      "Pashto": "بدریه"
+    }
+  },
+  {
     "id": "ba14",
     "name": "Badriya",
     "gender": "Girl",
@@ -943,6 +1079,48 @@
       "Indonesian": "Badrul",
       "Pashto": "بدرال"
     }
+  },
+  {
+    "name": "Badruldeen",
+    "gender": "Boy",
+    "meaning": "Full moon of the faith",
+    "origin": "Arabic",
+    "id": "ba9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر الدين",
+      "Urdu": "بدرالدین",
+      "Persian": "بادرودین",
+      "Turkish": "Badruldin",
+      "Bengali": "বদরুলদীন",
+      "Indonesian": "Badruldeen",
+      "Pashto": "بدرالدین"
+    }
+  },
+  {
+    "name": "Badrulhassan",
+    "gender": "Boy",
+    "meaning": "Full moon of beauty",
+    "origin": "Arabic",
+    "id": "ba10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدر الحسن",
+      "Urdu": "بدر الحسن",
+      "Persian": "بدرالحسن",
+      "Turkish": "Badrulhassan",
+      "Bengali": "বদরুল হাসান",
+      "Indonesian": "Badrulhassan",
+      "Pashto": "بدرالحسن"
+    }
+  },
+  {
+    "name": "Badrulhuda",
+    "gender": "Boy",
+    "meaning": "Full moon of guidance",
+    "origin": "Arabic",
+    "id": "ba1",
+    "verified": true
   },
   {
     "id": "ba16_var",
@@ -1209,6 +1387,23 @@
     }
   },
   {
+    "name": "Bahaa",
+    "gender": "Boy",
+    "meaning": "Beauty, splendor",
+    "origin": "Arabic",
+    "id": "ba11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بهاء",
+      "Urdu": "بہا",
+      "Persian": "بها",
+      "Turkish": "Bahaa",
+      "Bengali": "বাহা",
+      "Indonesian": "Bahaa",
+      "Pashto": "بها"
+    }
+  },
+  {
     "id": "ba18_var",
     "name": "Bahadoor",
     "gender": "Boy",
@@ -1241,6 +1436,23 @@
       "Bengali": "বাহাদুর",
       "Indonesian": "Bahadur",
       "Pashto": "بهادر"
+    }
+  },
+  {
+    "name": "Bahaeddin",
+    "gender": "Boy",
+    "meaning": "Splendor of the faith",
+    "origin": "Arabic",
+    "id": "ba12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بهاء الدين",
+      "Urdu": "بہا الدین",
+      "Persian": "بهاءالدین",
+      "Turkish": "Bahaeddin",
+      "Bengali": "বাহাদ্দীন",
+      "Indonesian": "Bahaeddin",
+      "Pashto": "بهاالدین"
     }
   },
   {
@@ -2135,6 +2347,23 @@
     }
   },
   {
+    "name": "Bakirah",
+    "gender": "Girl",
+    "meaning": "Virgin, pure",
+    "origin": "Arabic",
+    "id": "ba13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بكيرة",
+      "Urdu": "بکیرہ",
+      "Persian": "باکیره",
+      "Turkish": "Bakirah",
+      "Bengali": "বাকিরাহ",
+      "Indonesian": "Bakirah",
+      "Pashto": "بکیره"
+    }
+  },
+  {
     "name": "Bakka",
     "gender": "Girl",
     "meaning": "Ancient name of Mecca",
@@ -2237,6 +2466,40 @@
       "Bengali": "বকরি",
       "Indonesian": "Bakri",
       "Pashto": "بکری"
+    }
+  },
+  {
+    "name": "Bakriah",
+    "gender": "Girl",
+    "meaning": "Early, young",
+    "origin": "Arabic",
+    "id": "ba14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "البكرية",
+      "Urdu": "بکریہ",
+      "Persian": "باکریه",
+      "Turkish": "Bakriah",
+      "Bengali": "বাকরিয়া",
+      "Indonesian": "Bakria",
+      "Pashto": "بکریه"
+    }
+  },
+  {
+    "name": "Bakriyah",
+    "gender": "Girl",
+    "meaning": "Early, young",
+    "origin": "Arabic",
+    "id": "ba15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "البكرية",
+      "Urdu": "بکریہ",
+      "Persian": "باکریه",
+      "Turkish": "Bakriyah",
+      "Bengali": "বাকরিয়াহ",
+      "Indonesian": "Bakriyah",
+      "Pashto": "بکریه"
     }
   },
   {
@@ -3697,6 +3960,57 @@
     }
   },
   {
+    "name": "Basel",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ba16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بازل",
+      "Urdu": "بیسل",
+      "Persian": "بازل",
+      "Turkish": "Basel",
+      "Bengali": "বাসেল",
+      "Indonesian": "Basel",
+      "Pashto": "بیسل"
+    }
+  },
+  {
+    "name": "Basem",
+    "gender": "Boy",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "باسم",
+      "Urdu": "بیسم",
+      "Persian": "بیسم",
+      "Turkish": "Basem",
+      "Bengali": "বেসেম",
+      "Indonesian": "Dasar",
+      "Pashto": "بیسم"
+    }
+  },
+  {
+    "name": "Basemah",
+    "gender": "Girl",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "باسمة",
+      "Urdu": "بسمہ",
+      "Persian": "بسمه",
+      "Turkish": "Basemah",
+      "Bengali": "বাসমাহ",
+      "Indonesian": "Basmah",
+      "Pashto": "بسمه"
+    }
+  },
+  {
     "id": "ba75",
     "name": "Basha",
     "gender": "Boy",
@@ -4130,6 +4444,23 @@
     }
   },
   {
+    "name": "Basmaah",
+    "gender": "Girl",
+    "meaning": "A smile",
+    "origin": "Arabic",
+    "id": "ba19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بسمة",
+      "Urdu": "بسمہ",
+      "Persian": "بسمه",
+      "Turkish": "Basmaah",
+      "Bengali": "বাসমাহ",
+      "Indonesian": "Basmaah",
+      "Pashto": "بسمه"
+    }
+  },
+  {
     "id": "ba91",
     "name": "Basmah",
     "gender": "Girl",
@@ -4144,6 +4475,57 @@
       "Bengali": "বাসমাহ",
       "Indonesian": "Basmah",
       "Pashto": "بسمه"
+    }
+  },
+  {
+    "name": "Basmala",
+    "gender": "Girl",
+    "meaning": "Saying 'In the name of God'",
+    "origin": "Arabic",
+    "id": "ba20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "البسملة",
+      "Urdu": "بسمالہ",
+      "Persian": "بسملا",
+      "Turkish": "Besmele",
+      "Bengali": "বাসমালা",
+      "Indonesian": "Basmala",
+      "Pashto": "بسمله"
+    }
+  },
+  {
+    "name": "Basmalah",
+    "gender": "Girl",
+    "meaning": "Saying 'In the name of God'",
+    "origin": "Arabic",
+    "id": "ba21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "البسملة",
+      "Urdu": "بسملہ",
+      "Persian": "بسمله",
+      "Turkish": "Besmele",
+      "Bengali": "বাসমলঃ",
+      "Indonesian": "Basmalah",
+      "Pashto": "بسمله"
+    }
+  },
+  {
+    "name": "Basmalhoud",
+    "gender": "Girl",
+    "meaning": "Smiling guidance",
+    "origin": "Arabic",
+    "id": "ba22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بسملود",
+      "Urdu": "بسملہود",
+      "Persian": "بسملحود",
+      "Turkish": "Basmalhoud",
+      "Bengali": "বাসমালহৌদ",
+      "Indonesian": "Basmalhoud",
+      "Pashto": "بسملهود"
     }
   },
   {
@@ -4234,6 +4616,23 @@
     }
   },
   {
+    "name": "Bassem",
+    "gender": "Boy",
+    "meaning": "Smiling",
+    "origin": "Arabic",
+    "id": "ba23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "باسم",
+      "Urdu": "باسم",
+      "Persian": "باسم",
+      "Turkish": "Bassem",
+      "Bengali": "বাসেম",
+      "Indonesian": "Bassem",
+      "Pashto": "بسیم"
+    }
+  },
+  {
     "id": "ba93_var",
     "name": "Bateen",
     "gender": "Boy",
@@ -4267,6 +4666,14 @@
       "Indonesian": "Batin",
       "Pashto": "باتین"
     }
+  },
+  {
+    "name": "Batinah",
+    "gender": "Girl",
+    "meaning": "Hidden, inner",
+    "origin": "Arabic",
+    "id": "ba2",
+    "verified": true
   },
   {
     "name": "Batna",
@@ -4335,6 +4742,23 @@
       "Turkish": "Batool",
       "Bengali": "বাটুল",
       "Indonesian": "Batool",
+      "Pashto": "باتول"
+    }
+  },
+  {
+    "name": "Batoul",
+    "gender": "Girl",
+    "meaning": "Ascetic virgin",
+    "origin": "Arabic",
+    "id": "ba24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بتول",
+      "Urdu": "بتول",
+      "Persian": "بتول",
+      "Turkish": "Batul",
+      "Bengali": "বাতউল",
+      "Indonesian": "Batoul",
       "Pashto": "باتول"
     }
   },
@@ -4580,6 +5004,22 @@
     }
   },
   {
+    "name": "Bayzid",
+    "gender": "Boy",
+    "meaning": "Saintly, spiritual",
+    "origin": "Persian/Turkish",
+    "id": "ba3",
+    "verified": true
+  },
+  {
+    "name": "Bayzidah",
+    "gender": "Girl",
+    "meaning": "Saintly, spiritual",
+    "origin": "Persian",
+    "id": "ba4",
+    "verified": true
+  },
+  {
     "id": "ba99",
     "name": "Baz",
     "gender": "Boy",
@@ -4716,6 +5156,23 @@
       "Bengali": "বজলুর",
       "Indonesian": "Bazlur",
       "Pashto": "بازلور"
+    }
+  },
+  {
+    "name": "Bedour",
+    "gender": "Girl",
+    "meaning": "Full moons",
+    "origin": "Arabic",
+    "id": "be2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بدور",
+      "Urdu": "بیڈور",
+      "Persian": "بدور",
+      "Turkish": "Bedur",
+      "Bengali": "বেদুর",
+      "Indonesian": "Bedour",
+      "Pashto": "بیدور"
     }
   },
   {
@@ -5303,6 +5760,23 @@
     }
   },
   {
+    "name": "Belgin",
+    "gender": "Girl",
+    "meaning": "Clear and pure",
+    "origin": "Turkish",
+    "id": "be1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بلجين",
+      "Urdu": "بیلگین",
+      "Persian": "بلژین",
+      "Turkish": "Belgin",
+      "Bengali": "বেলগিন",
+      "Indonesian": "Belgia",
+      "Pashto": "بیلګین"
+    }
+  },
+  {
     "name": "Bello",
     "gender": "Boy",
     "meaning": "Helper of the faith",
@@ -5667,6 +6141,14 @@
     }
   },
   {
+    "name": "Bibi Fatima",
+    "gender": "Girl",
+    "meaning": "Lady Fatima",
+    "origin": "Arabic/Persian",
+    "id": "bi1",
+    "verified": true
+  },
+  {
     "id": "bl2",
     "name": "Bilal",
     "gender": "Boy",
@@ -5681,6 +6163,31 @@
       "Bengali": "বিলাল",
       "Indonesian": "Bilal",
       "Pashto": "بلال"
+    }
+  },
+  {
+    "name": "Bilkis",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "id": "bi2",
+    "verified": true
+  },
+  {
+    "name": "Bilqees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "id": "bi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بلقيس",
+      "Urdu": "بلقیس",
+      "Persian": "بیلقیس",
+      "Turkish": "Bilkiler",
+      "Bengali": "বিলকিস",
+      "Indonesian": "Bilqis",
+      "Pashto": "بلقیس"
     }
   },
   {
@@ -5699,6 +6206,14 @@
       "Indonesian": "Bilqis",
       "Pashto": "بلقيس"
     }
+  },
+  {
+    "name": "Bilquees",
+    "gender": "Girl",
+    "meaning": "Queen of Sheba",
+    "origin": "Arabic",
+    "id": "bi3",
+    "verified": true
   },
   {
     "name": "Bima",
@@ -5905,6 +6420,23 @@
       "Bengali": "বিশারাহ",
       "Indonesian": "Bishara",
       "Pashto": "بیشاره"
+    }
+  },
+  {
+    "name": "Bisher",
+    "gender": "Boy",
+    "meaning": "Joy, glad tidings",
+    "origin": "Arabic",
+    "id": "bi2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بشر",
+      "Urdu": "بشیر",
+      "Persian": "بیشر",
+      "Turkish": "Bişer",
+      "Bengali": "বিশার",
+      "Indonesian": "Bisher",
+      "Pashto": "بشیر"
     }
   },
   {
@@ -6920,6 +7452,23 @@
     }
   },
   {
+    "name": "Bouthaina",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body",
+    "origin": "Arabic",
+    "id": "bo1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بثينة",
+      "Urdu": "بوتھائنا۔",
+      "Persian": "بوتهینا",
+      "Turkish": "Bouhaina",
+      "Bengali": "বউঠাইনা",
+      "Indonesian": "Bouthaina",
+      "Pashto": "بوتینا"
+    }
+  },
+  {
     "name": "Bozorg",
     "gender": "Boy",
     "meaning": "Great",
@@ -7717,6 +8266,14 @@
     }
   },
   {
+    "name": "Bushra Jahan",
+    "gender": "Girl",
+    "meaning": "Good news of the world",
+    "origin": "Arabic/Persian",
+    "id": "bu1",
+    "verified": true
+  },
+  {
     "id": "bu18_var",
     "name": "Bushrah",
     "gender": "Girl",
@@ -7749,6 +8306,57 @@
       "Bengali": "বাসর",
       "Indonesian": "Busr",
       "Pashto": "بسر"
+    }
+  },
+  {
+    "name": "Busra",
+    "gender": "Girl",
+    "meaning": "Unripe dates",
+    "origin": "Arabic",
+    "id": "bu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بصرى",
+      "Urdu": "بصرہ",
+      "Persian": "بوسرا",
+      "Turkish": "Büşra",
+      "Bengali": "বুসরা",
+      "Indonesian": "Busra",
+      "Pashto": "بسرا"
+    }
+  },
+  {
+    "name": "Busrawi",
+    "gender": "Boy",
+    "meaning": "From Busra",
+    "origin": "Arabic",
+    "id": "bu2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بصراوي",
+      "Urdu": "بسراوی",
+      "Persian": "بوسراوی",
+      "Turkish": "Busravi",
+      "Bengali": "বুসরাভি",
+      "Indonesian": "Busrawi",
+      "Pashto": "بسروي"
+    }
+  },
+  {
+    "name": "Buthaina",
+    "gender": "Girl",
+    "meaning": "Of beautiful and tender body",
+    "origin": "Arabic",
+    "id": "bu3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "بثينة",
+      "Urdu": "بوتھائنا۔",
+      "Persian": "بوتاینا",
+      "Turkish": "Buthaina",
+      "Bengali": "বুথাইনা",
+      "Indonesian": "Buthaina",
+      "Pashto": "بوتینا"
     }
   },
   {

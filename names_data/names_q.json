@@ -1588,6 +1588,14 @@
     }
   },
   {
+    "name": "Qaysar",
+    "gender": "Boy",
+    "meaning": "Caesar, emperor",
+    "origin": "Arabic",
+    "id": "qa1",
+    "verified": true
+  },
+  {
     "name": "Qayyeem",
     "gender": "Boy",
     "meaning": "Straight, valuable",
@@ -2115,6 +2123,14 @@
     }
   },
   {
+    "name": "Qiyaamah",
+    "gender": "Girl",
+    "meaning": "Resurrection, standing",
+    "origin": "Arabic",
+    "id": "qi1",
+    "verified": true
+  },
+  {
     "id": "qi5",
     "name": "Qiyam",
     "gender": "Boy",
@@ -2509,6 +2525,30 @@
     }
   },
   {
+    "name": "Quadir",
+    "gender": "Boy",
+    "meaning": "Capable, powerful",
+    "origin": "Arabic",
+    "id": "qu5",
+    "verified": true
+  },
+  {
+    "name": "Quadira",
+    "gender": "Girl",
+    "meaning": "Capable, powerful",
+    "origin": "Arabic",
+    "id": "qu6",
+    "verified": true
+  },
+  {
+    "name": "Quasim",
+    "gender": "Boy",
+    "meaning": "Distributor, divider",
+    "origin": "Arabic",
+    "id": "qu7",
+    "verified": true
+  },
+  {
     "id": "qu1",
     "name": "Qubul",
     "gender": "Girl",
@@ -2541,6 +2581,14 @@
       "Indonesian": "Qudamah",
       "Pashto": "قدامه"
     }
+  },
+  {
+    "name": "Quddus",
+    "gender": "Boy",
+    "meaning": "Most Holy",
+    "origin": "Arabic",
+    "id": "qu8",
+    "verified": true
   },
   {
     "id": "qu3",
@@ -2752,6 +2800,14 @@
     }
   },
   {
+    "name": "Quran",
+    "gender": "Boy",
+    "meaning": "The Holy Book, recitation",
+    "origin": "Arabic",
+    "id": "qu1",
+    "verified": true
+  },
+  {
     "name": "Quratulaeen",
     "gender": "Girl",
     "meaning": "Delight of the eyes",
@@ -2854,6 +2910,22 @@
       "Indonesian": "Qurrat-Ul-Ain",
       "Pashto": "قرات العین"
     }
+  },
+  {
+    "name": "Qurrataulain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu9",
+    "verified": true
+  },
+  {
+    "name": "Qurratuain",
+    "gender": "Girl",
+    "meaning": "Delight of the eyes",
+    "origin": "Arabic",
+    "id": "qu10",
+    "verified": true
   },
   {
     "id": "qu8_var",
@@ -2959,6 +3031,30 @@
       "Indonesian": "Qusay",
       "Pashto": "Qusay"
     }
+  },
+  {
+    "name": "Qusayyah",
+    "gender": "Girl",
+    "meaning": "Distant, far off",
+    "origin": "Arabic",
+    "id": "qu2",
+    "verified": true
+  },
+  {
+    "name": "Qutaiba",
+    "gender": "Boy",
+    "meaning": "Impatient, irritable",
+    "origin": "Arabic",
+    "id": "qu3",
+    "verified": true
+  },
+  {
+    "name": "Qutay",
+    "gender": "Boy",
+    "meaning": "Little piece",
+    "origin": "Arabic",
+    "id": "qu4",
+    "verified": true
   },
   {
     "name": "Qutaybah",

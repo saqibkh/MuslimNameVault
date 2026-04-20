@@ -472,6 +472,23 @@
     }
   },
   {
+    "name": "Galiya",
+    "gender": "Girl",
+    "meaning": "Fragrant or sweet-smelling",
+    "origin": "Arabic",
+    "id": "ga1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاليا",
+      "Urdu": "گالیا۔",
+      "Persian": "گالیا",
+      "Turkish": "Galiya",
+      "Bengali": "গালিয়া",
+      "Indonesian": "Galia",
+      "Pashto": "ګالیه"
+    }
+  },
+  {
     "id": "ga6",
     "name": "Gamal",
     "gender": "Boy",
@@ -1121,6 +1138,57 @@
     }
   },
   {
+    "name": "Ghada",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غادة",
+      "Urdu": "گھدا",
+      "Persian": "غدا",
+      "Turkish": "Gada",
+      "Bengali": "ঘাডা",
+      "Indonesian": "Ghada",
+      "Pashto": "غده"
+    }
+  },
+  {
+    "name": "Ghadaa",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غادة",
+      "Urdu": "گھدا",
+      "Persian": "غدا",
+      "Turkish": "Ghadaa",
+      "Bengali": "ঘাদা",
+      "Indonesian": "Ghadaa",
+      "Pashto": "غده"
+    }
+  },
+  {
+    "name": "Ghadah",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "gh3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غادة",
+      "Urdu": "غدہ",
+      "Persian": "غاده",
+      "Turkish": "Gadah",
+      "Bengali": "ঘাদাঃ",
+      "Indonesian": "Ghadah",
+      "Pashto": "غده"
+    }
+  },
+  {
     "id": "ge4_var",
     "name": "Ghadeea",
     "gender": "Girl",
@@ -1349,6 +1417,23 @@
     }
   },
   {
+    "name": "Ghaleb",
+    "gender": "Boy",
+    "meaning": "Victor, conqueror",
+    "origin": "Arabic",
+    "id": "gh4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غالب",
+      "Urdu": "غالب",
+      "Persian": "غالب",
+      "Turkish": "Galip",
+      "Bengali": "গালেব",
+      "Indonesian": "Ghaleb",
+      "Pashto": "غالب"
+    }
+  },
+  {
     "id": "gh6_var",
     "name": "Ghaleea",
     "gender": "Girl",
@@ -1434,6 +1519,74 @@
       "Bengali": "গালিব",
       "Indonesian": "Ghalib",
       "Pashto": "غالب"
+    }
+  },
+  {
+    "name": "Ghalibah",
+    "gender": "Girl",
+    "meaning": "Victor, conqueror",
+    "origin": "Arabic",
+    "id": "gh5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غالبة",
+      "Urdu": "غالبؔ",
+      "Persian": "قالیبه",
+      "Turkish": "Galibah",
+      "Bengali": "গালিবাঃ",
+      "Indonesian": "Ghalibah",
+      "Pashto": "غلبه"
+    }
+  },
+  {
+    "name": "Ghaliya",
+    "gender": "Girl",
+    "meaning": "Precious, invaluable",
+    "origin": "Arabic",
+    "id": "gh6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غالية",
+      "Urdu": "غالیہ",
+      "Persian": "غالیا",
+      "Turkish": "Galiya",
+      "Bengali": "গালিয়া",
+      "Indonesian": "Ghaliya",
+      "Pashto": "غالیه"
+    }
+  },
+  {
+    "name": "Ghaliyah",
+    "gender": "Girl",
+    "meaning": "Precious, invaluable",
+    "origin": "Arabic",
+    "id": "gh7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غالية",
+      "Urdu": "غالیہ",
+      "Persian": "غالیه",
+      "Turkish": "Galiyah",
+      "Bengali": "গালিয়াঃ",
+      "Indonesian": "Ghaliyah",
+      "Pashto": "غلیظه"
+    }
+  },
+  {
+    "name": "Ghamdiyah",
+    "gender": "Girl",
+    "meaning": "From the Ghamid tribe",
+    "origin": "Arabic",
+    "id": "gh8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الغامدية",
+      "Urdu": "غامدیہ",
+      "Persian": "غمدیه",
+      "Turkish": "Ghamdiyah",
+      "Bengali": "ঘামদিয়াহ",
+      "Indonesian": "Ghamdiyah",
+      "Pashto": "غامدیه"
     }
   },
   {
@@ -1577,6 +1730,40 @@
     }
   },
   {
+    "name": "Ghaniya",
+    "gender": "Girl",
+    "meaning": "Rich, prosperous",
+    "origin": "Arabic",
+    "id": "gh9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غانية",
+      "Urdu": "ثنیہ",
+      "Persian": "غنیه",
+      "Turkish": "Ganiya",
+      "Bengali": "ঘনিয়া",
+      "Indonesian": "Ganiya",
+      "Pashto": "غنیا"
+    }
+  },
+  {
+    "name": "Ghaniyah",
+    "gender": "Girl",
+    "meaning": "Rich, prosperous",
+    "origin": "Arabic",
+    "id": "gh10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غنية",
+      "Urdu": "ثنیہ",
+      "Persian": "غنیه",
+      "Turkish": "Ganiye",
+      "Bengali": "ঘানিয়াঃ",
+      "Indonesian": "Ghaniyah",
+      "Pashto": "غنیه"
+    }
+  },
+  {
     "id": "gh12_var",
     "name": "Ghaoos",
     "gender": "Boy",
@@ -1643,6 +1830,40 @@
       "Bengali": "ঢাউস",
       "Indonesian": "Ghaus",
       "Pashto": "غوث"
+    }
+  },
+  {
+    "name": "Ghayas",
+    "gender": "Boy",
+    "meaning": "Assistance, help",
+    "origin": "Arabic",
+    "id": "gh11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غياس",
+      "Urdu": "غیاث",
+      "Persian": "غیاث",
+      "Turkish": "Ghayalar",
+      "Bengali": "ঘয়াস",
+      "Indonesian": "Ghaya",
+      "Pashto": "غیاث"
+    }
+  },
+  {
+    "name": "Ghayasuddin",
+    "gender": "Boy",
+    "meaning": "Helper of the faith",
+    "origin": "Arabic",
+    "id": "gh12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غياث الدين",
+      "Urdu": "غیاث الدین",
+      "Persian": "غیاث الدین",
+      "Turkish": "Ghayasuddin",
+      "Bengali": "গয়াসুদ্দিন",
+      "Indonesian": "Ghayasuddin",
+      "Pashto": "غیاث الدین"
     }
   },
   {
@@ -1750,6 +1971,40 @@
     }
   },
   {
+    "name": "Ghazali",
+    "gender": "Boy",
+    "meaning": "Like a gazelle",
+    "origin": "Arabic",
+    "id": "gh13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الغزالي",
+      "Urdu": "غزالی",
+      "Persian": "غزالی",
+      "Turkish": "Gazali",
+      "Bengali": "গাজ্জালী",
+      "Indonesian": "Ghazali",
+      "Pashto": "غزالي"
+    }
+  },
+  {
+    "name": "Ghazaliyah",
+    "gender": "Girl",
+    "meaning": "Like a gazelle",
+    "origin": "Arabic",
+    "id": "gh14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الغزالية",
+      "Urdu": "غزالیہ",
+      "Persian": "غزالیه",
+      "Turkish": "Gazaliyah",
+      "Bengali": "গাজালিয়াহ",
+      "Indonesian": "Ghazaliyah",
+      "Pashto": "غزالیه"
+    }
+  },
+  {
     "id": "gh16",
     "name": "Ghazanfar",
     "gender": "Boy",
@@ -1835,6 +2090,14 @@
       "Indonesian": "Ghazi",
       "Pashto": "غازي"
     }
+  },
+  {
+    "name": "Ghazia",
+    "gender": "Girl",
+    "meaning": "Warrior, conqueror",
+    "origin": "Arabic",
+    "id": "gh1",
+    "verified": true
   },
   {
     "id": "gh19",
@@ -2012,6 +2275,40 @@
     }
   },
   {
+    "name": "Ghizlan",
+    "gender": "Girl",
+    "meaning": "Gazelles",
+    "origin": "Arabic",
+    "id": "gh15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غزلان",
+      "Urdu": "غزلان",
+      "Persian": "غزلان",
+      "Turkish": "Gızlan",
+      "Bengali": "গিজলান",
+      "Indonesian": "Ghizlan",
+      "Pashto": "غزلان"
+    }
+  },
+  {
+    "name": "Ghizlane",
+    "gender": "Girl",
+    "meaning": "Gazelles",
+    "origin": "Arabic",
+    "id": "gh16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غزلان",
+      "Urdu": "غزلین",
+      "Persian": "غزلان",
+      "Turkish": "Gizlane",
+      "Bengali": "গিজলেন",
+      "Indonesian": "Ghizlane",
+      "Pashto": "غزلین"
+    }
+  },
+  {
     "name": "Ghoncheh",
     "gender": "Girl",
     "meaning": "Flower bud",
@@ -2137,6 +2434,23 @@
     }
   },
   {
+    "name": "Ghufra",
+    "gender": "Girl",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غفرة",
+      "Urdu": "غفرہ",
+      "Persian": "غفره",
+      "Turkish": "Gufra",
+      "Bengali": "ঘুফরা",
+      "Indonesian": "Ghufra",
+      "Pashto": "غفره"
+    }
+  },
+  {
     "id": "gh20",
     "name": "Ghufran",
     "gender": "Unisex",
@@ -2154,6 +2468,31 @@
     }
   },
   {
+    "name": "Ghufrana",
+    "gender": "Girl",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh2",
+    "verified": true
+  },
+  {
+    "name": "Ghufranah",
+    "gender": "Girl",
+    "meaning": "Forgiveness",
+    "origin": "Arabic",
+    "id": "gh18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غفرانة",
+      "Urdu": "غفرنہ",
+      "Persian": "غفرانه",
+      "Turkish": "Gufranah",
+      "Bengali": "ঘুফরানাহ",
+      "Indonesian": "Ghufranah",
+      "Pashto": "غفرانه"
+    }
+  },
+  {
     "id": "gh21",
     "name": "Ghulam",
     "gender": "Boy",
@@ -2168,6 +2507,48 @@
       "Bengali": "গোলাম",
       "Indonesian": "Ghulam",
       "Pashto": "غلام"
+    }
+  },
+  {
+    "name": "Ghulam Mustafa",
+    "gender": "Boy",
+    "meaning": "Servant of the Chosen One",
+    "origin": "Arabic",
+    "id": "gh3",
+    "verified": true
+  },
+  {
+    "name": "Ghulamhusain",
+    "gender": "Boy",
+    "meaning": "Servant of Husain",
+    "origin": "Arabic",
+    "id": "gh19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غلام حسين",
+      "Urdu": "غلام حسین",
+      "Persian": "غلامحسین",
+      "Turkish": "Ghulamhusain",
+      "Bengali": "গোলাম হুসাইন",
+      "Indonesian": "Ghulamhusain",
+      "Pashto": "غلامحسین"
+    }
+  },
+  {
+    "name": "Ghulamhusainah",
+    "gender": "Girl",
+    "meaning": "Servant of Husain",
+    "origin": "Arabic",
+    "id": "gh20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "غلام حسينة",
+      "Urdu": "غلام حسین",
+      "Persian": "غلامحسینه",
+      "Turkish": "Ghulamhusainah",
+      "Bengali": "গোলাম হুসাইনাহ",
+      "Indonesian": "Ghulamhusainah",
+      "Pashto": "غلام حسینه"
     }
   },
   {
@@ -3545,6 +3926,23 @@
       "Bengali": "বন্দুক",
       "Indonesian": "Gunes",
       "Pashto": "ټوپونه"
+    }
+  },
+  {
+    "name": "Gunesh",
+    "gender": "Girl",
+    "meaning": "Sun",
+    "origin": "Turkish",
+    "id": "gu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جونيش",
+      "Urdu": "گنیش",
+      "Persian": "گونش",
+      "Turkish": "Güneş",
+      "Bengali": "গুণেশ",
+      "Indonesian": "Gunesh",
+      "Pashto": "ګنیش"
     }
   },
   {

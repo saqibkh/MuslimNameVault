@@ -122,6 +122,23 @@
     }
   },
   {
+    "name": "Haami",
+    "gender": "Boy",
+    "meaning": "Protector or defender",
+    "origin": "Arabic",
+    "id": "ha1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هامي",
+      "Urdu": "حامی",
+      "Persian": "حامی",
+      "Turkish": "Haami",
+      "Bengali": "হামি",
+      "Indonesian": "Haami",
+      "Pashto": "هاامي"
+    }
+  },
+  {
     "name": "Haarees",
     "gender": "Boy",
     "meaning": "Vigilant; Guard",
@@ -874,6 +891,14 @@
     }
   },
   {
+    "name": "Hadir",
+    "gender": "Boy",
+    "meaning": "Roar of thunder, present",
+    "origin": "Arabic",
+    "id": "ha1",
+    "verified": true
+  },
+  {
     "id": "ha10",
     "name": "Hadiya",
     "gender": "Girl",
@@ -1087,6 +1112,23 @@
     }
   },
   {
+    "name": "Hafedh",
+    "gender": "Boy",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حافظ",
+      "Urdu": "حفیظ",
+      "Persian": "حافظ",
+      "Turkish": "Hafedh",
+      "Bengali": "হাফেদ",
+      "Indonesian": "Hafedh",
+      "Pashto": "حفیظ"
+    }
+  },
+  {
     "name": "Hafeed",
     "gender": "Boy",
     "meaning": "Protector",
@@ -1122,6 +1164,23 @@
     }
   },
   {
+    "name": "Hafeeza",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حفيظة",
+      "Urdu": "حفیظہ",
+      "Persian": "حافظه",
+      "Turkish": "Hafeeza",
+      "Bengali": "হাফিজা",
+      "Indonesian": "Hafeeza",
+      "Pashto": "حفیظه"
+    }
+  },
+  {
     "id": "ha77_var",
     "name": "Hafeezah",
     "gender": "Girl",
@@ -1137,6 +1196,23 @@
       "Bengali": "হাফিজাহ",
       "Indonesian": "Hafeezah",
       "Pashto": "حفیظه"
+    }
+  },
+  {
+    "name": "Hafez",
+    "gender": "Boy",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حافظ",
+      "Urdu": "حافظ",
+      "Persian": "حافظ",
+      "Turkish": "Hafız",
+      "Bengali": "হাফেজ",
+      "Indonesian": "Hafez",
+      "Pashto": "حافظ"
     }
   },
   {
@@ -1157,6 +1233,57 @@
     }
   },
   {
+    "name": "Hafidah",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حفيظة",
+      "Urdu": "حفیدہ",
+      "Persian": "حفیده",
+      "Turkish": "Hafidah",
+      "Bengali": "হাফিদাহ",
+      "Indonesian": "Hafidah",
+      "Pashto": "حفیظه"
+    }
+  },
+  {
+    "name": "Hafidh",
+    "gender": "Boy",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حافظ",
+      "Urdu": "حفیظ",
+      "Persian": "حفیض",
+      "Turkish": "Hafız",
+      "Bengali": "হাফিদ",
+      "Indonesian": "Hafidh",
+      "Pashto": "حافظ"
+    }
+  },
+  {
+    "name": "Hafidha",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حفيظة",
+      "Urdu": "حفیظہ",
+      "Persian": "حفیضه",
+      "Turkish": "Hafidha",
+      "Bengali": "হাফিদা",
+      "Indonesian": "Hafidha",
+      "Pashto": "حفيظه"
+    }
+  },
+  {
     "id": "ha12",
     "name": "Hafiz",
     "gender": "Boy",
@@ -1171,6 +1298,23 @@
       "Bengali": "হাফিজ",
       "Indonesian": "Hafiz",
       "Pashto": "حافظ"
+    }
+  },
+  {
+    "name": "Hafiza",
+    "gender": "Girl",
+    "meaning": "Guardian, protector",
+    "origin": "Arabic",
+    "id": "ha8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حفيظة",
+      "Urdu": "حافظہ",
+      "Persian": "حافظه",
+      "Turkish": "Hafıza",
+      "Bengali": "হাফিজা",
+      "Indonesian": "Hafizah",
+      "Pashto": "حافظه"
     }
   },
   {
@@ -1189,6 +1333,22 @@
       "Indonesian": "Hafizah",
       "Pashto": "حافظه"
     }
+  },
+  {
+    "name": "Hafizullah",
+    "gender": "Boy",
+    "meaning": "Protector of God",
+    "origin": "Arabic",
+    "id": "ha2",
+    "verified": true
+  },
+  {
+    "name": "Hafizur",
+    "gender": "Boy",
+    "meaning": "Protector of",
+    "origin": "Arabic",
+    "id": "ha3",
+    "verified": true
   },
   {
     "id": "ha13",
@@ -1311,6 +1471,23 @@
     }
   },
   {
+    "name": "Haijah",
+    "gender": "Girl",
+    "meaning": "Calm, tranquil",
+    "origin": "Arabic",
+    "id": "ha9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيجة",
+      "Urdu": "حیا",
+      "Persian": "هایجه",
+      "Turkish": "Haijah",
+      "Bengali": "হাইজাহ",
+      "Indonesian": "Haijah",
+      "Pashto": "حجه"
+    }
+  },
+  {
     "name": "Haikal",
     "gender": "Boy",
     "meaning": "Structure, Temple",
@@ -1379,6 +1556,23 @@
     }
   },
   {
+    "name": "Haitham",
+    "gender": "Boy",
+    "meaning": "Young eagle",
+    "origin": "Arabic",
+    "id": "ha10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيثم",
+      "Urdu": "ہیثم",
+      "Persian": "هیثم",
+      "Turkish": "Haytam",
+      "Bengali": "হাইথাম",
+      "Indonesian": "Haitham",
+      "Pashto": "هیثم"
+    }
+  },
+  {
     "name": "Hajaj",
     "gender": "Boy",
     "meaning": "Pilgrim",
@@ -1409,6 +1603,23 @@
       "Turkish": "Hacer",
       "Bengali": "হাজর",
       "Indonesian": "Hajar",
+      "Pashto": "حجره"
+    }
+  },
+  {
+    "name": "Hajarah",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Ibrahim",
+    "origin": "Arabic",
+    "id": "ha11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هاجرة",
+      "Urdu": "حجرہ",
+      "Persian": "حجره",
+      "Turkish": "Hacer",
+      "Bengali": "হাজরাহ",
+      "Indonesian": "Hajarah",
       "Pashto": "حجره"
     }
   },
@@ -1446,6 +1657,23 @@
       "Bengali": "হাজেরা",
       "Indonesian": "Hajeera",
       "Pashto": "هجیره"
+    }
+  },
+  {
+    "name": "Hajer",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Ibrahim",
+    "origin": "Arabic",
+    "id": "ha12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هاجر",
+      "Urdu": "ہجر",
+      "Persian": "هاجر",
+      "Turkish": "Hacer",
+      "Bengali": "হাজের",
+      "Indonesian": "Hajer",
+      "Pashto": "هجر"
     }
   },
   {
@@ -1501,6 +1729,23 @@
     }
   },
   {
+    "name": "Hajjah",
+    "gender": "Girl",
+    "meaning": "Female pilgrim",
+    "origin": "Arabic",
+    "id": "ha13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حجة",
+      "Urdu": "حجہ",
+      "Persian": "حجه",
+      "Turkish": "Hacca",
+      "Bengali": "হাজ্জাহ",
+      "Indonesian": "Hajjah",
+      "Pashto": "حجاج"
+    }
+  },
+  {
     "id": "ha18",
     "name": "Hajjaj",
     "gender": "Boy",
@@ -1515,6 +1760,40 @@
       "Bengali": "হাজ্জাজ",
       "Indonesian": "Haji",
       "Pashto": "حجاج"
+    }
+  },
+  {
+    "name": "Hajra",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Ibrahim",
+    "origin": "Arabic",
+    "id": "ha14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هجرة",
+      "Urdu": "ہاجرہ",
+      "Persian": "هاجره",
+      "Turkish": "Hacra",
+      "Bengali": "হাজরা",
+      "Indonesian": "Hajra",
+      "Pashto": "هاجره"
+    }
+  },
+  {
+    "name": "Hajrah",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Ibrahim",
+    "origin": "Arabic",
+    "id": "ha15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هجرة",
+      "Urdu": "ہاجرہ",
+      "Persian": "هاجره",
+      "Turkish": "Hacer",
+      "Bengali": "হাজরাহ",
+      "Indonesian": "Hajrah",
+      "Pashto": "هاجره"
     }
   },
   {
@@ -1583,6 +1862,31 @@
       "Bengali": "হাকিম",
       "Indonesian": "Hakim",
       "Pashto": "حکیم"
+    }
+  },
+  {
+    "name": "Hakima",
+    "gender": "Girl",
+    "meaning": "Wise, judicious",
+    "origin": "Arabic",
+    "id": "ha4",
+    "verified": true
+  },
+  {
+    "name": "Hakimah",
+    "gender": "Girl",
+    "meaning": "Wise, judicious",
+    "origin": "Arabic",
+    "id": "ha16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حكيمة",
+      "Urdu": "حکیمہ",
+      "Persian": "حکیمه",
+      "Turkish": "Hakimah",
+      "Bengali": "হাকিমাহ",
+      "Indonesian": "Hakimah",
+      "Pashto": "حکیمه"
     }
   },
   {
@@ -2017,6 +2321,31 @@
     }
   },
   {
+    "name": "Hamda",
+    "gender": "Girl",
+    "meaning": "Praise, commendation",
+    "origin": "Arabic",
+    "id": "ha5",
+    "verified": true
+  },
+  {
+    "name": "Hamdah",
+    "gender": "Girl",
+    "meaning": "Praise, commendation",
+    "origin": "Arabic",
+    "id": "ha17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حمدة",
+      "Urdu": "حمدہ",
+      "Persian": "حمده",
+      "Turkish": "Hamdah",
+      "Bengali": "হামদাহ",
+      "Indonesian": "Hamdah",
+      "Pashto": "حمده"
+    }
+  },
+  {
     "id": "ha25",
     "name": "Hamdan",
     "gender": "Boy",
@@ -2031,6 +2360,40 @@
       "Bengali": "হামদান",
       "Indonesian": "Hamdan",
       "Pashto": "حمدان"
+    }
+  },
+  {
+    "name": "Hamdani",
+    "gender": "Boy",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الحمداني",
+      "Urdu": "ہمدانی۔",
+      "Persian": "حمدانی",
+      "Turkish": "Hamdani",
+      "Bengali": "হামদানী",
+      "Indonesian": "Hamdani",
+      "Pashto": "همداني"
+    }
+  },
+  {
+    "name": "Hamdaniyah",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الحمدانية",
+      "Urdu": "ہمدانیہ",
+      "Persian": "حمدانیه",
+      "Turkish": "Hamdaniye",
+      "Bengali": "হামদানিয়াহ",
+      "Indonesian": "Hamdaniyah",
+      "Pashto": "حمدانیه"
     }
   },
   {
@@ -2087,6 +2450,14 @@
     }
   },
   {
+    "name": "Hamdia",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ha6",
+    "verified": true
+  },
+  {
     "id": "ha84",
     "name": "Hamdiyah",
     "gender": "Girl",
@@ -2101,6 +2472,23 @@
       "Bengali": "হামদিয়াহ",
       "Indonesian": "Hamdiyah",
       "Pashto": "حمدیه"
+    }
+  },
+  {
+    "name": "Hamed",
+    "gender": "Boy",
+    "meaning": "One who praises",
+    "origin": "Arabic",
+    "id": "ha20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حامد",
+      "Urdu": "حامد",
+      "Persian": "حامد",
+      "Turkish": "Hamid",
+      "Bengali": "হামেদ",
+      "Indonesian": "Hamed",
+      "Pashto": "حامد"
     }
   },
   {
@@ -2208,6 +2596,14 @@
     }
   },
   {
+    "name": "Hamida Begum",
+    "gender": "Girl",
+    "meaning": "Praiseworthy lady",
+    "origin": "Arabic/Turkic",
+    "id": "ha7",
+    "verified": true
+  },
+  {
     "id": "ha86",
     "name": "Hamidah",
     "gender": "Girl",
@@ -2277,6 +2673,23 @@
     }
   },
   {
+    "name": "Hammoudah",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "ha21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حمودة",
+      "Urdu": "حمودہ",
+      "Persian": "حموده",
+      "Turkish": "Hammoudah",
+      "Bengali": "হাম্মুদাহ",
+      "Indonesian": "Hammudah",
+      "Pashto": "حموده"
+    }
+  },
+  {
     "name": "Hamna",
     "gender": "Girl",
     "meaning": "Blessed sparrow",
@@ -2308,6 +2721,23 @@
       "Bengali": "হামনাহ",
       "Indonesian": "Hamnah",
       "Pashto": "حمنا"
+    }
+  },
+  {
+    "name": "Hamouda",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "ha22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حمودة",
+      "Urdu": "حمودہ",
+      "Persian": "حمودا",
+      "Turkish": "Hamouda",
+      "Bengali": "হামুদা",
+      "Indonesian": "Hamouda",
+      "Pashto": "حموده"
     }
   },
   {
@@ -2363,6 +2793,14 @@
     }
   },
   {
+    "name": "Hamza Malik",
+    "gender": "Boy",
+    "meaning": "Strong king/lion",
+    "origin": "Arabic",
+    "id": "ha8",
+    "verified": true
+  },
+  {
     "id": "ha32_var",
     "name": "Hamzah",
     "gender": "Boy",
@@ -2381,6 +2819,23 @@
     }
   },
   {
+    "name": "Hamzeh",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "ha23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حمزة",
+      "Urdu": "حمزہ",
+      "Persian": "حمزه",
+      "Turkish": "Hamze",
+      "Bengali": "হামজেহ",
+      "Indonesian": "Hamzeh",
+      "Pashto": "حمزه"
+    }
+  },
+  {
     "id": "ha87",
     "name": "Hana",
     "gender": "Girl",
@@ -2394,6 +2849,23 @@
       "Turkish": "Hana",
       "Bengali": "হানা",
       "Indonesian": "Hana",
+      "Pashto": "هانا"
+    }
+  },
+  {
+    "name": "Hanaa",
+    "gender": "Girl",
+    "meaning": "Happiness, bliss",
+    "origin": "Arabic",
+    "id": "ha24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هناء",
+      "Urdu": "حنا",
+      "Persian": "حنا",
+      "Turkish": "Hanaa",
+      "Bengali": "হানা",
+      "Indonesian": "Hanaa",
       "Pashto": "هانا"
     }
   },
@@ -3044,6 +3516,40 @@
     }
   },
   {
+    "name": "Haqiqah",
+    "gender": "Girl",
+    "meaning": "Truth, reality",
+    "origin": "Arabic",
+    "id": "ha25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حقيقة",
+      "Urdu": "حقہ",
+      "Persian": "حقيقه",
+      "Turkish": "Hakika",
+      "Bengali": "হাকীকাহ",
+      "Indonesian": "Haqiqah",
+      "Pashto": "حقیقه"
+    }
+  },
+  {
+    "name": "Haqiqat",
+    "gender": "Boy",
+    "meaning": "Truth, reality",
+    "origin": "Arabic",
+    "id": "ha26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حقائق",
+      "Urdu": "حقیت",
+      "Persian": "حقیقت",
+      "Turkish": "Hakikat",
+      "Bengali": "হকিকত",
+      "Indonesian": "Haqiqat",
+      "Pashto": "حقیقت"
+    }
+  },
+  {
     "name": "Haqq",
     "gender": "Boy",
     "meaning": "Truth",
@@ -3058,6 +3564,23 @@
       "Bengali": "হক্ব",
       "Indonesian": "Haqq",
       "Pashto": "حق"
+    }
+  },
+  {
+    "name": "Haqqi",
+    "gender": "Boy",
+    "meaning": "Pertaining to truth",
+    "origin": "Arabic",
+    "id": "ha27",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حقي",
+      "Urdu": "حقی",
+      "Persian": "حقی",
+      "Turkish": "Hakki",
+      "Bengali": "হাক্কি",
+      "Indonesian": "Haqqi",
+      "Pashto": "حقیقي"
     }
   },
   {
@@ -3406,6 +3929,14 @@
     }
   },
   {
+    "name": "Hasanuddin",
+    "gender": "Boy",
+    "meaning": "Beauty of the faith",
+    "origin": "Arabic",
+    "id": "ha9",
+    "verified": true
+  },
+  {
     "name": "Hasba",
     "gender": "Girl",
     "meaning": "Pebbles",
@@ -3491,6 +4022,14 @@
       "Indonesian": "Haseeb-Ud-Din",
       "Pashto": "حسیب الدین"
     }
+  },
+  {
+    "name": "Haseebah",
+    "gender": "Girl",
+    "meaning": "Noble, respected",
+    "origin": "Arabic",
+    "id": "ha10",
+    "verified": true
   },
   {
     "id": "ha53_var",
@@ -3600,6 +4139,23 @@
     }
   },
   {
+    "name": "Hashemah",
+    "gender": "Girl",
+    "meaning": "Destroyer of evil",
+    "origin": "Arabic",
+    "id": "ha28",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هاشمة",
+      "Urdu": "ہاشمہ",
+      "Persian": "هاشمه",
+      "Turkish": "Haşema",
+      "Bengali": "হাশেমাহ",
+      "Indonesian": "Hasemah",
+      "Pashto": "هاشمه"
+    }
+  },
+  {
     "id": "ha51",
     "name": "Hashim",
     "gender": "Boy",
@@ -3614,6 +4170,40 @@
       "Bengali": "হাশেম",
       "Indonesian": "Hasyim",
       "Pashto": "هاشم"
+    }
+  },
+  {
+    "name": "Hashimah",
+    "gender": "Girl",
+    "meaning": "Destroyer of evil",
+    "origin": "Arabic",
+    "id": "ha29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هاشمية",
+      "Urdu": "ہاشمہ",
+      "Persian": "هاشمه",
+      "Turkish": "Hashimah",
+      "Bengali": "হাশিমাহ",
+      "Indonesian": "Hasymah",
+      "Pashto": "هاشمه"
+    }
+  },
+  {
+    "name": "Hashina",
+    "gender": "Girl",
+    "meaning": "Beautiful, pretty",
+    "origin": "Arabic",
+    "id": "ha30",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هاشينا",
+      "Urdu": "حسینہ",
+      "Persian": "هاشینا",
+      "Turkish": "Haşina",
+      "Bengali": "হাশিনা",
+      "Indonesian": "hashina",
+      "Pashto": "هشینه"
     }
   },
   {
@@ -3651,6 +4241,22 @@
     }
   },
   {
+    "name": "Hashmi",
+    "gender": "Boy",
+    "meaning": "Descendant of Hashim",
+    "origin": "Arabic",
+    "id": "ha11",
+    "verified": true
+  },
+  {
+    "name": "Hashmiyah",
+    "gender": "Girl",
+    "meaning": "Descendant of Hashim",
+    "origin": "Arabic",
+    "id": "ha12",
+    "verified": true
+  },
+  {
     "id": "ha52",
     "name": "Hasib",
     "gender": "Boy",
@@ -3683,6 +4289,23 @@
       "Bengali": "হাসিব-উদ্দিন",
       "Indonesian": "Hasib-Ud-Din",
       "Pashto": "حسیب الدین"
+    }
+  },
+  {
+    "name": "Hasibah",
+    "gender": "Girl",
+    "meaning": "Respected, noble",
+    "origin": "Arabic",
+    "id": "ha31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسيبة",
+      "Urdu": "حسیبہ",
+      "Persian": "حسیبه",
+      "Turkish": "Hasibah",
+      "Bengali": "হাসিবাহ",
+      "Indonesian": "Hasibah",
+      "Pashto": "حسیبه"
     }
   },
   {
@@ -3807,6 +4430,14 @@
     }
   },
   {
+    "name": "Hasnainah",
+    "gender": "Girl",
+    "meaning": "The two beautiful ones",
+    "origin": "Arabic",
+    "id": "ha13",
+    "verified": true
+  },
+  {
     "name": "Hasret",
     "gender": "Girl",
     "meaning": "Longing; Yearning",
@@ -3824,6 +4455,40 @@
     }
   },
   {
+    "name": "Hassaan",
+    "gender": "Boy",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "ha32",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسان",
+      "Urdu": "حسن",
+      "Persian": "حسن",
+      "Turkish": "Hasan",
+      "Bengali": "হাসান",
+      "Indonesian": "Hassan",
+      "Pashto": "حسن"
+    }
+  },
+  {
+    "name": "Hassam",
+    "gender": "Boy",
+    "meaning": "Sword",
+    "origin": "Arabic",
+    "id": "ha33",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسام",
+      "Urdu": "حسام",
+      "Persian": "حسام",
+      "Turkish": "Hassam",
+      "Bengali": "হাসাম",
+      "Indonesian": "Hasam",
+      "Pashto": "حسام"
+    }
+  },
+  {
     "id": "ha56",
     "name": "Hassan",
     "gender": "Boy",
@@ -3838,6 +4503,125 @@
       "Bengali": "হাসান",
       "Indonesian": "Hasan",
       "Pashto": "حسن"
+    }
+  },
+  {
+    "name": "Hassana",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "ha34",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسنة",
+      "Urdu": "حسنہ",
+      "Persian": "حسنا",
+      "Turkish": "Hasana",
+      "Bengali": "হাসানা",
+      "Indonesian": "Hassan",
+      "Pashto": "حسنه"
+    }
+  },
+  {
+    "name": "Hassanah",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "ha35",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسنة",
+      "Urdu": "حسنہ",
+      "Persian": "حسنه",
+      "Turkish": "Hassanah",
+      "Bengali": "হাসানাহ",
+      "Indonesian": "Hassanah",
+      "Pashto": "حسنه"
+    }
+  },
+  {
+    "name": "Hassene",
+    "gender": "Boy",
+    "meaning": "Good, beautiful",
+    "origin": "Arabic",
+    "id": "ha36",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسن",
+      "Urdu": "حسین",
+      "Persian": "حسنه",
+      "Turkish": "Hassene",
+      "Bengali": "হাসেন",
+      "Indonesian": "Hassene",
+      "Pashto": "حسېن"
+    }
+  },
+  {
+    "name": "Hassina",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ha37",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسينة",
+      "Urdu": "حسینہ",
+      "Persian": "حسینا",
+      "Turkish": "Hassina",
+      "Bengali": "হাসিনা",
+      "Indonesian": "Hasina",
+      "Pashto": "حسینه"
+    }
+  },
+  {
+    "name": "Hassna",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ha38",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسنة",
+      "Urdu": "حسنہ",
+      "Persian": "حسنا",
+      "Turkish": "Hasna",
+      "Bengali": "হাসনা",
+      "Indonesian": "Hasna",
+      "Pashto": "حسنه"
+    }
+  },
+  {
+    "name": "Hassnah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ha39",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسنة",
+      "Urdu": "حسنہ",
+      "Persian": "حسنه",
+      "Turkish": "Hasnah",
+      "Bengali": "হাসনাহ",
+      "Indonesian": "Hasnah",
+      "Pashto": "حسنه"
+    }
+  },
+  {
+    "name": "Hassunah",
+    "gender": "Boy",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ha40",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسونة",
+      "Urdu": "حسنہ",
+      "Persian": "حسونه",
+      "Turkish": "Hassuna",
+      "Bengali": "হাসুনাহ",
+      "Indonesian": "Hassunah",
+      "Pashto": "حسنه"
     }
   },
   {
@@ -3944,6 +4728,14 @@
       "Indonesian": "kebencian",
       "Pashto": "حاتم"
     }
+  },
+  {
+    "name": "Hathrah",
+    "gender": "Girl",
+    "meaning": "Presence",
+    "origin": "Arabic",
+    "id": "ha14",
+    "verified": true
   },
   {
     "id": "ha58",
@@ -4239,6 +5031,23 @@
     }
   },
   {
+    "name": "Hayatullah",
+    "gender": "Boy",
+    "meaning": "Life of God",
+    "origin": "Arabic",
+    "id": "ha41",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حياة الله",
+      "Urdu": "حیات اللہ",
+      "Persian": "حیات الله",
+      "Turkish": "Hayatullah",
+      "Bengali": "হায়াতুল্লাহ",
+      "Indonesian": "Hayatullah",
+      "Pashto": "حیات الله"
+    }
+  },
+  {
     "id": "ha66",
     "name": "Haydar",
     "gender": "Boy",
@@ -4256,6 +5065,23 @@
     }
   },
   {
+    "name": "Hayfa",
+    "gender": "Girl",
+    "meaning": "Slender, of beautiful body",
+    "origin": "Arabic",
+    "id": "ha42",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيفا",
+      "Urdu": "حائفہ",
+      "Persian": "حیفا",
+      "Turkish": "Hayfa",
+      "Bengali": "হায়ফা",
+      "Indonesian": "Hayfa",
+      "Pashto": "حیفه"
+    }
+  },
+  {
     "id": "ha67",
     "name": "Haytham",
     "gender": "Boy",
@@ -4270,6 +5096,23 @@
       "Bengali": "হাইথাম",
       "Indonesian": "Haytham",
       "Pashto": "هیثم"
+    }
+  },
+  {
+    "name": "Hayya",
+    "gender": "Girl",
+    "meaning": "Life",
+    "origin": "Arabic",
+    "id": "ha43",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيا",
+      "Urdu": "حیا",
+      "Persian": "حیا",
+      "Turkish": "Hayya",
+      "Bengali": "হায়া",
+      "Indonesian": "Hayya",
+      "Pashto": "حیا"
     }
   },
   {
@@ -4305,6 +5148,31 @@
       "Indonesian": "Hazan",
       "Pashto": "هزان"
     }
+  },
+  {
+    "name": "Hazar",
+    "gender": "Girl",
+    "meaning": "Nightingale",
+    "origin": "Arabic",
+    "id": "ha44",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هزار",
+      "Urdu": "ہزار",
+      "Persian": "هزار",
+      "Turkish": "Hazar",
+      "Bengali": "হাজার",
+      "Indonesian": "Bahaya",
+      "Pashto": "هزاره"
+    }
+  },
+  {
+    "name": "Hazara",
+    "gender": "Girl",
+    "meaning": "From Hazara",
+    "origin": "Persian",
+    "id": "ha15",
+    "verified": true
   },
   {
     "id": "ha69_var",
@@ -4431,6 +5299,23 @@
     }
   },
   {
+    "name": "Hazimah",
+    "gender": "Girl",
+    "meaning": "Resolute, firm",
+    "origin": "Arabic",
+    "id": "ha45",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حزيمة",
+      "Urdu": "حزیمہ",
+      "Persian": "حزیمه",
+      "Turkish": "Hazima",
+      "Bengali": "হাজিমাহ",
+      "Indonesian": "Hazimah",
+      "Pashto": "حزیمه"
+    }
+  },
+  {
     "id": "ha70",
     "name": "Hazina",
     "gender": "Girl",
@@ -4515,6 +5400,14 @@
       "Indonesian": "Hazirah",
       "Pashto": "هزاره"
     }
+  },
+  {
+    "name": "Hazrat",
+    "gender": "Boy",
+    "meaning": "Honorific title, presence",
+    "origin": "Arabic",
+    "id": "ha16",
+    "verified": true
   },
   {
     "id": "ha100",
@@ -5521,6 +6414,57 @@
     }
   },
   {
+    "name": "Hibat",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "hi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيبات",
+      "Urdu": "ہیبت",
+      "Persian": "هیبت",
+      "Turkish": "Hibat",
+      "Bengali": "হিবাত",
+      "Indonesian": "Hibat",
+      "Pashto": "هیبت"
+    }
+  },
+  {
+    "name": "Hibatallah",
+    "gender": "Boy",
+    "meaning": "Gift of God",
+    "origin": "Arabic",
+    "id": "hi2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هبة الله",
+      "Urdu": "ہیبت اللہ",
+      "Persian": "هیبت الله",
+      "Turkish": "Hibatallah",
+      "Bengali": "হিবাতাল্লাহ",
+      "Indonesian": "Hibatallah",
+      "Pashto": "هبت الله"
+    }
+  },
+  {
+    "name": "Hibatollah",
+    "gender": "Boy",
+    "meaning": "Gift of God",
+    "origin": "Arabic",
+    "id": "hi3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هبة الله",
+      "Urdu": "ہیبت اللہ",
+      "Persian": "هیبت الله",
+      "Turkish": "Hibatullah",
+      "Bengali": "হিবাতুল্লাহ",
+      "Indonesian": "Hibatollah",
+      "Pashto": "هیبت الله"
+    }
+  },
+  {
     "name": "Hibatoollah",
     "gender": "Unisex",
     "meaning": "Gift of Allah",
@@ -5539,6 +6483,23 @@
     }
   },
   {
+    "name": "Hibatulla",
+    "gender": "Boy",
+    "meaning": "Gift of God",
+    "origin": "Arabic",
+    "id": "hi4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هيباتولا",
+      "Urdu": "ہیبت اللہ",
+      "Persian": "هیباتولا",
+      "Turkish": "Hibatulla",
+      "Bengali": "হিবাতুল্লা",
+      "Indonesian": "Hibatulla",
+      "Pashto": "هیبت الله"
+    }
+  },
+  {
     "name": "Hibatullah",
     "gender": "Unisex",
     "meaning": "Gift of Allah",
@@ -5553,6 +6514,40 @@
       "Bengali": "হিবাতুল্লাহ",
       "Indonesian": "Hibatullah",
       "Pashto": "هیبت الله"
+    }
+  },
+  {
+    "name": "Hibba",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "hi5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هبة",
+      "Urdu": "حبہ",
+      "Persian": "هیبا",
+      "Turkish": "Hibba",
+      "Bengali": "হিব্বা",
+      "Indonesian": "hibba",
+      "Pashto": "هیبا"
+    }
+  },
+  {
+    "name": "Hibbah",
+    "gender": "Girl",
+    "meaning": "Gift",
+    "origin": "Arabic",
+    "id": "hi6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هبة",
+      "Urdu": "حبہ",
+      "Persian": "هیبه",
+      "Turkish": "Hibbah",
+      "Bengali": "হিব্বাহ",
+      "Indonesian": "Hibbah",
+      "Pashto": "هبه"
     }
   },
   {
@@ -5674,6 +6669,14 @@
       "Indonesian": "Hikmat",
       "Pashto": "حکمت"
     }
+  },
+  {
+    "name": "Hikmatullah",
+    "gender": "Boy",
+    "meaning": "Wisdom of God",
+    "origin": "Arabic",
+    "id": "hi1",
+    "verified": true
   },
   {
     "name": "Hikmet",
@@ -5913,6 +6916,23 @@
       "Bengali": "হিশাম",
       "Indonesian": "Hisham",
       "Pashto": "هشام"
+    }
+  },
+  {
+    "name": "Hishamah",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "hi7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "هشامة",
+      "Urdu": "ہشام",
+      "Persian": "هشامه",
+      "Turkish": "Hişame",
+      "Bengali": "হিশামাহ",
+      "Indonesian": "Hishamah",
+      "Pashto": "هشامه"
     }
   },
   {
@@ -7014,6 +8034,23 @@
     }
   },
   {
+    "name": "Hudaifah",
+    "gender": "Boy",
+    "meaning": "A companion of the Prophet",
+    "origin": "Arabic",
+    "id": "hu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حذيفة",
+      "Urdu": "حدیفہ",
+      "Persian": "حدیفه",
+      "Turkish": "Hudaife",
+      "Bengali": "হুদাইফাহ",
+      "Indonesian": "Hudaifah",
+      "Pashto": "حذیفه"
+    }
+  },
+  {
     "id": "hu3",
     "name": "Hudhayfah",
     "gender": "Boy",
@@ -7205,6 +8242,23 @@
     }
   },
   {
+    "name": "Humaid",
+    "gender": "Boy",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "hu2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حميد",
+      "Urdu": "حمید",
+      "Persian": "حمید",
+      "Turkish": "İnsani",
+      "Bengali": "হুমাইদ",
+      "Indonesian": "manusia",
+      "Pashto": "حميد"
+    }
+  },
+  {
     "id": "hu6",
     "name": "Humair",
     "gender": "Boy",
@@ -7307,6 +8361,14 @@
       "Indonesian": "Humayl",
       "Pashto": "همېل"
     }
+  },
+  {
+    "name": "Humayra",
+    "gender": "Girl",
+    "meaning": "Reddish (Nickname of Aisha)",
+    "origin": "Arabic",
+    "id": "hu1",
+    "verified": true
   },
   {
     "id": "hu10",
@@ -7605,6 +8667,23 @@
     }
   },
   {
+    "name": "Husainah",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسينة",
+      "Urdu": "حسینہ",
+      "Persian": "حسینه",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসাইনাহ",
+      "Indonesian": "Husainah",
+      "Pashto": "حسینه"
+    }
+  },
+  {
     "name": "Husam",
     "gender": "Boy",
     "meaning": "Sword",
@@ -7657,6 +8736,31 @@
     }
   },
   {
+    "name": "Husayn",
+    "gender": "Boy",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسين",
+      "Urdu": "حسین",
+      "Persian": "حسین",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসেন",
+      "Indonesian": "Husain",
+      "Pashto": "حسین"
+    }
+  },
+  {
+    "name": "Husaynah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "hu2",
+    "verified": true
+  },
+  {
     "name": "Huseen",
     "gender": "Boy",
     "meaning": "Beautiful",
@@ -7673,6 +8777,14 @@
       "Indonesian": "Husein",
       "Pashto": "حسین"
     }
+  },
+  {
+    "name": "Husein",
+    "gender": "Boy",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu3",
+    "verified": true
   },
   {
     "name": "Husin",
@@ -7741,6 +8853,40 @@
       "Bengali": "হুসনাহ",
       "Indonesian": "Husnah",
       "Pashto": "حسنه"
+    }
+  },
+  {
+    "name": "Husnain",
+    "gender": "Boy",
+    "meaning": "The two beautiful ones (Hasan and Husain)",
+    "origin": "Arabic",
+    "id": "hu5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسين",
+      "Urdu": "حسنین",
+      "Persian": "حسین",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসনাইন",
+      "Indonesian": "Husnain",
+      "Pashto": "حسنین"
+    }
+  },
+  {
+    "name": "Husnay",
+    "gender": "Girl",
+    "meaning": "Beauty",
+    "origin": "Arabic",
+    "id": "hu6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسني",
+      "Urdu": "حسنے",
+      "Persian": "حسینی",
+      "Turkish": "Hüsnay",
+      "Bengali": "হুসনে",
+      "Indonesian": "Husnay",
+      "Pashto": "حسنی"
     }
   },
   {
@@ -7867,6 +9013,40 @@
     }
   },
   {
+    "name": "Hussaina",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسينة",
+      "Urdu": "حسینہ",
+      "Persian": "حسینه",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসাইনা",
+      "Indonesian": "Hussaina",
+      "Pashto": "حسینه"
+    }
+  },
+  {
+    "name": "Hussainah",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسينة",
+      "Urdu": "حسینہ",
+      "Persian": "حسینه",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসাইনাহ",
+      "Indonesian": "Husainah",
+      "Pashto": "حسینه"
+    }
+  },
+  {
     "id": "hu21",
     "name": "Hussam",
     "gender": "Boy",
@@ -7915,6 +9095,40 @@
       "Turkish": "Hüseyin",
       "Bengali": "হুসাইন",
       "Indonesian": "Husein",
+      "Pashto": "حسین"
+    }
+  },
+  {
+    "name": "Husseinah",
+    "gender": "Girl",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الحسينية",
+      "Urdu": "حسینہ",
+      "Persian": "حسینه",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসাইনাহ",
+      "Indonesian": "Huseinah",
+      "Pashto": "حسینه"
+    }
+  },
+  {
+    "name": "Hussien",
+    "gender": "Boy",
+    "meaning": "Beautiful, handsome",
+    "origin": "Arabic",
+    "id": "hu10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "حسين",
+      "Urdu": "حسین",
+      "Persian": "حسین",
+      "Turkish": "Hüseyin",
+      "Bengali": "হুসেন",
+      "Indonesian": "Hussien",
       "Pashto": "حسین"
     }
   },

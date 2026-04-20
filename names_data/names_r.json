@@ -139,6 +139,14 @@
     }
   },
   {
+    "name": "Raafat",
+    "gender": "Boy",
+    "meaning": "Compassion, pity",
+    "origin": "Arabic",
+    "id": "ra1",
+    "verified": true
+  },
+  {
     "name": "Raafe",
     "gender": "Boy",
     "meaning": "Exalted; High",
@@ -259,6 +267,14 @@
       "Indonesian": "Raamis",
       "Pashto": "رامیس"
     }
+  },
+  {
+    "name": "Raana",
+    "gender": "Girl",
+    "meaning": "Elegant, beautiful",
+    "origin": "Arabic",
+    "id": "ra2",
+    "verified": true
   },
   {
     "name": "Raaseem",
@@ -487,6 +503,22 @@
     }
   },
   {
+    "name": "Rabbaniyah",
+    "gender": "Girl",
+    "meaning": "Divine, heavenly",
+    "origin": "Arabic",
+    "id": "ra3",
+    "verified": true
+  },
+  {
+    "name": "Rabea",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ra4",
+    "verified": true
+  },
+  {
     "name": "Rabee",
     "gender": "Boy",
     "meaning": "Spring",
@@ -594,6 +626,14 @@
     }
   },
   {
+    "name": "Rabeeya",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ra72",
+    "verified": true
+  },
+  {
     "name": "Rabi",
     "gender": "Boy",
     "meaning": "Breeze",
@@ -679,6 +719,14 @@
     }
   },
   {
+    "name": "Rabina",
+    "gender": "Girl",
+    "meaning": "Blessed",
+    "origin": "Arabic",
+    "id": "ra73",
+    "verified": true
+  },
+  {
     "name": "Rabit",
     "gender": "Boy",
     "meaning": "Binding; Fastening",
@@ -694,6 +742,30 @@
       "Indonesian": "Kelinci",
       "Pashto": "رباط"
     }
+  },
+  {
+    "name": "Rabiya",
+    "gender": "Girl",
+    "meaning": "Spring, princess",
+    "origin": "Arabic",
+    "id": "ra5",
+    "verified": true
+  },
+  {
+    "name": "Rabiyah",
+    "gender": "Girl",
+    "meaning": "Spring, princess",
+    "origin": "Arabic",
+    "id": "ra74",
+    "verified": true
+  },
+  {
+    "name": "Rachid",
+    "gender": "Boy",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra6",
+    "verified": true
   },
   {
     "name": "Rachmat",
@@ -798,6 +870,22 @@
       "Indonesian": "Radi",
       "Pashto": "رادی"
     }
+  },
+  {
+    "name": "Raed",
+    "gender": "Boy",
+    "meaning": "Pioneer, leader",
+    "origin": "Arabic",
+    "id": "ra7",
+    "verified": true
+  },
+  {
+    "name": "Raedah",
+    "gender": "Girl",
+    "meaning": "Pioneer, leader",
+    "origin": "Arabic",
+    "id": "ra8",
+    "verified": true
   },
   {
     "name": "Raeed",
@@ -925,6 +1013,14 @@
     }
   },
   {
+    "name": "Raeesah",
+    "gender": "Girl",
+    "meaning": "Leader, princess",
+    "origin": "Arabic",
+    "id": "ra75",
+    "verified": true
+  },
+  {
     "name": "Rafa",
     "gender": "Girl",
     "meaning": "Happiness",
@@ -1027,6 +1123,22 @@
     }
   },
   {
+    "name": "Rafea",
+    "gender": "Boy",
+    "meaning": "High, noble",
+    "origin": "Arabic",
+    "id": "ra9",
+    "verified": true
+  },
+  {
+    "name": "Rafeal",
+    "gender": "Boy",
+    "meaning": "God has healed",
+    "origin": "Hebrew",
+    "id": "ra10",
+    "verified": true
+  },
+  {
     "name": "Rafee",
     "gender": "Boy",
     "meaning": "Exalted",
@@ -1081,6 +1193,14 @@
     }
   },
   {
+    "name": "Rafeeda",
+    "gender": "Girl",
+    "meaning": "Support, assistance",
+    "origin": "Arabic",
+    "id": "ra11",
+    "verified": true
+  },
+  {
     "name": "Rafeef",
     "gender": "Girl",
     "meaning": "Glittering",
@@ -1132,6 +1252,22 @@
       "Indonesian": "Rafiqa",
       "Pashto": "رفيقه"
     }
+  },
+  {
+    "name": "Rafeeqah",
+    "gender": "Girl",
+    "meaning": "Companion, friend",
+    "origin": "Arabic",
+    "id": "ra12",
+    "verified": true
+  },
+  {
+    "name": "Rafeeuddin",
+    "gender": "Boy",
+    "meaning": "Noble of the faith",
+    "origin": "Arabic",
+    "id": "ra76",
+    "verified": true
   },
   {
     "name": "Rafi",
@@ -1272,6 +1408,30 @@
     }
   },
   {
+    "name": "Rafiuddin",
+    "gender": "Boy",
+    "meaning": "Nobility of the faith",
+    "origin": "Arabic",
+    "id": "ra13",
+    "verified": true
+  },
+  {
+    "name": "Rafiullah",
+    "gender": "Boy",
+    "meaning": "High status from Allah",
+    "origin": "Arabic",
+    "id": "ra14",
+    "verified": true
+  },
+  {
+    "name": "Raga",
+    "gender": "Girl",
+    "meaning": "Hope, wish",
+    "origin": "Arabic",
+    "id": "ra15",
+    "verified": true
+  },
+  {
     "name": "Raghad",
     "gender": "Girl",
     "meaning": "Pleasant",
@@ -1287,6 +1447,14 @@
       "Indonesian": "Raghad",
       "Pashto": "رغاد"
     }
+  },
+  {
+    "name": "Raghda",
+    "gender": "Girl",
+    "meaning": "Pleasant life",
+    "origin": "Arabic",
+    "id": "ra16",
+    "verified": true
   },
   {
     "name": "Ragheeb",
@@ -1324,6 +1492,14 @@
     }
   },
   {
+    "name": "Raghida",
+    "gender": "Girl",
+    "meaning": "Pleasant life",
+    "origin": "Arabic",
+    "id": "ra17",
+    "verified": true
+  },
+  {
     "name": "Rah",
     "gender": "Boy",
     "meaning": "Path, way",
@@ -1356,6 +1532,14 @@
       "Indonesian": "Raha",
       "Pashto": "راهه"
     }
+  },
+  {
+    "name": "Rahaf",
+    "gender": "Girl",
+    "meaning": "Delicate, fine",
+    "origin": "Arabic",
+    "id": "ra18",
+    "verified": true
   },
   {
     "name": "Rahah",
@@ -1391,6 +1575,14 @@
       "Indonesian": "Rahal",
       "Pashto": "راحل"
     }
+  },
+  {
+    "name": "Rahaqah",
+    "gender": "Girl",
+    "meaning": "Nectar",
+    "origin": "Arabic",
+    "id": "ra19",
+    "verified": true
   },
   {
     "name": "Rahat",
@@ -1462,6 +1654,14 @@
     }
   },
   {
+    "name": "Raheelah",
+    "gender": "Girl",
+    "meaning": "Traveler",
+    "origin": "Arabic",
+    "id": "ra20",
+    "verified": true
+  },
+  {
     "name": "Raheem",
     "gender": "Boy",
     "meaning": "Merciful",
@@ -1495,6 +1695,14 @@
       "Indonesian": "Raheema",
       "Pashto": "رحیمه"
     }
+  },
+  {
+    "name": "Raheemah",
+    "gender": "Girl",
+    "meaning": "Merciful, compassionate",
+    "origin": "Arabic",
+    "id": "ra21",
+    "verified": true
   },
   {
     "name": "Raheeq",
@@ -1703,6 +1911,14 @@
     }
   },
   {
+    "name": "Raida",
+    "gender": "Girl",
+    "meaning": "Leader, pioneer",
+    "origin": "Arabic",
+    "id": "ra22",
+    "verified": true
+  },
+  {
     "name": "Raif",
     "gender": "Boy",
     "meaning": "Compassionate",
@@ -1858,6 +2074,14 @@
     }
   },
   {
+    "name": "Rajaa",
+    "gender": "Girl",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "ra23",
+    "verified": true
+  },
+  {
     "name": "Rajab",
     "gender": "Boy",
     "meaning": "Seventh month",
@@ -1911,6 +2135,14 @@
     }
   },
   {
+    "name": "Rajeh",
+    "gender": "Boy",
+    "meaning": "Sensible, rational",
+    "origin": "Arabic",
+    "id": "ra24",
+    "verified": true
+  },
+  {
     "name": "Raji",
     "gender": "Boy",
     "meaning": "Hopeful",
@@ -1928,6 +2160,22 @@
     }
   },
   {
+    "name": "Rajia",
+    "gender": "Girl",
+    "meaning": "Hopeful",
+    "origin": "Arabic",
+    "id": "ra77",
+    "verified": true
+  },
+  {
+    "name": "Rajiha",
+    "gender": "Girl",
+    "meaning": "Sensible, rational",
+    "origin": "Arabic",
+    "id": "ra25",
+    "verified": true
+  },
+  {
     "name": "Rakan",
     "gender": "Boy",
     "meaning": "Dignity; Firmness",
@@ -1943,6 +2191,14 @@
       "Indonesian": "Rakan",
       "Pashto": "رکان"
     }
+  },
+  {
+    "name": "Rakaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ra78",
+    "verified": true
   },
   {
     "name": "Rakhshan",
@@ -1994,6 +2250,31 @@
       "Bengali": "রক্ষনদাহ",
       "Indonesian": "Rakhshandah",
       "Pashto": "رخشنده"
+    }
+  },
+  {
+    "name": "Rakia",
+    "gender": "Girl",
+    "meaning": "Bowing in prayer",
+    "origin": "Arabic",
+    "id": "ra26",
+    "verified": true
+  },
+  {
+    "name": "Rakin",
+    "gender": "Boy",
+    "meaning": "Respectful and firm",
+    "origin": "Arabic",
+    "id": "ra1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "راكين",
+      "Urdu": "راکین",
+      "Persian": "راکین",
+      "Turkish": "Rakin",
+      "Bengali": "রাকিন",
+      "Indonesian": "Rakin",
+      "Pashto": "راکین"
     }
   },
   {
@@ -2066,6 +2347,14 @@
     }
   },
   {
+    "name": "Ramee",
+    "gender": "Boy",
+    "meaning": "Archer",
+    "origin": "Arabic",
+    "id": "ra27",
+    "verified": true
+  },
+  {
     "name": "Rameen",
     "gender": "Boy",
     "meaning": "Tamer",
@@ -2082,6 +2371,14 @@
       "Indonesian": "Ramin",
       "Pashto": "رامین"
     }
+  },
+  {
+    "name": "Ramees",
+    "gender": "Boy",
+    "meaning": "Winter",
+    "origin": "Arabic",
+    "id": "ra28",
+    "verified": true
   },
   {
     "name": "Rameesh",
@@ -2119,6 +2416,22 @@
     }
   },
   {
+    "name": "Ramez",
+    "gender": "Boy",
+    "meaning": "Symbol",
+    "origin": "Arabic",
+    "id": "ra29",
+    "verified": true
+  },
+  {
+    "name": "Rami",
+    "gender": "Boy",
+    "meaning": "Archer",
+    "origin": "Arabic",
+    "id": "ra30",
+    "verified": true
+  },
+  {
     "name": "Ramin",
     "gender": "Boy",
     "meaning": "Tamer",
@@ -2134,6 +2447,14 @@
       "Indonesian": "Ramin",
       "Pashto": "رامین"
     }
+  },
+  {
+    "name": "Ramina",
+    "gender": "Girl",
+    "meaning": "Joyful",
+    "origin": "Arabic",
+    "id": "ra79",
+    "verified": true
   },
   {
     "name": "Ramish",
@@ -2153,6 +2474,22 @@
     }
   },
   {
+    "name": "Ramiya",
+    "gender": "Girl",
+    "meaning": "Archer",
+    "origin": "Arabic",
+    "id": "ra31",
+    "verified": true
+  },
+  {
+    "name": "Ramiyah",
+    "gender": "Girl",
+    "meaning": "Archer",
+    "origin": "Arabic",
+    "id": "ra32",
+    "verified": true
+  },
+  {
     "name": "Ramiz",
     "gender": "Boy",
     "meaning": "Symbol",
@@ -2168,6 +2505,22 @@
       "Indonesian": "Ramiz",
       "Pashto": "رمیز"
     }
+  },
+  {
+    "name": "Ramiza",
+    "gender": "Girl",
+    "meaning": "Symbol, sign",
+    "origin": "Arabic",
+    "id": "ra80",
+    "verified": true
+  },
+  {
+    "name": "Ramizah",
+    "gender": "Girl",
+    "meaning": "Symbol",
+    "origin": "Arabic",
+    "id": "ra33",
+    "verified": true
   },
   {
     "name": "Ramla",
@@ -2240,6 +2593,14 @@
     }
   },
   {
+    "name": "Ramona",
+    "gender": "Girl",
+    "meaning": "Protecting hands",
+    "origin": "Spanish",
+    "id": "ra34",
+    "verified": true
+  },
+  {
     "name": "Ramsah",
     "gender": "Girl",
     "meaning": "Face like moon",
@@ -2292,6 +2653,14 @@
     }
   },
   {
+    "name": "Ramy",
+    "gender": "Boy",
+    "meaning": "Archer",
+    "origin": "Arabic",
+    "id": "ra35",
+    "verified": true
+  },
+  {
     "name": "Ramzee",
     "gender": "Boy",
     "meaning": "Symbolic",
@@ -2327,6 +2696,22 @@
     }
   },
   {
+    "name": "Ramziya",
+    "gender": "Girl",
+    "meaning": "Symbolic",
+    "origin": "Arabic",
+    "id": "ra36",
+    "verified": true
+  },
+  {
+    "name": "Ramziyah",
+    "gender": "Girl",
+    "meaning": "Symbolic",
+    "origin": "Arabic",
+    "id": "ra37",
+    "verified": true
+  },
+  {
     "name": "Rana",
     "gender": "Girl",
     "meaning": "To gaze; Look",
@@ -2360,6 +2745,22 @@
       "Indonesian": "Rana",
       "Pashto": "رانه"
     }
+  },
+  {
+    "name": "Rand",
+    "gender": "Girl",
+    "meaning": "Bay tree",
+    "origin": "Arabic",
+    "id": "ra38",
+    "verified": true
+  },
+  {
+    "name": "Randa",
+    "gender": "Girl",
+    "meaning": "Scented tree",
+    "origin": "Arabic",
+    "id": "ra39",
+    "verified": true
   },
   {
     "name": "Ranee",
@@ -2468,6 +2869,14 @@
     }
   },
   {
+    "name": "Raniahah",
+    "gender": "Girl",
+    "meaning": "Queen, gazing",
+    "origin": "Arabic",
+    "id": "ra40",
+    "verified": true
+  },
+  {
     "name": "Ranim",
     "gender": "Girl",
     "meaning": "Singing",
@@ -2483,6 +2892,22 @@
       "Indonesian": "Ranim",
       "Pashto": "رانيم"
     }
+  },
+  {
+    "name": "Ranjana",
+    "gender": "Girl",
+    "meaning": "Delightful",
+    "origin": "Sanskrit",
+    "id": "ra81",
+    "verified": true
+  },
+  {
+    "name": "Ranwa",
+    "gender": "Girl",
+    "meaning": "Delight, beautiful view",
+    "origin": "Arabic",
+    "id": "ra41",
+    "verified": true
   },
   {
     "name": "Ranya",
@@ -2574,6 +2999,14 @@
     }
   },
   {
+    "name": "Raouf",
+    "gender": "Boy",
+    "meaning": "Merciful, compassionate",
+    "origin": "Arabic",
+    "id": "ra42",
+    "verified": true
+  },
+  {
     "name": "Raqeeb",
     "gender": "Boy",
     "meaning": "Observer",
@@ -2607,6 +3040,14 @@
       "Indonesian": "Raqib",
       "Pashto": "رقیب"
     }
+  },
+  {
+    "name": "Raquiba",
+    "gender": "Girl",
+    "meaning": "Guardian, observer",
+    "origin": "Arabic",
+    "id": "ra43",
+    "verified": true
   },
   {
     "name": "Ras",
@@ -2731,6 +3172,14 @@
     }
   },
   {
+    "name": "Rashda",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra82",
+    "verified": true
+  },
+  {
     "name": "Rashdan",
     "gender": "Boy",
     "meaning": "Guidance",
@@ -2746,6 +3195,30 @@
       "Indonesian": "Rashdan",
       "Pashto": "راشدان"
     }
+  },
+  {
+    "name": "Rashed",
+    "gender": "Boy",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra44",
+    "verified": true
+  },
+  {
+    "name": "Rasheda",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra45",
+    "verified": true
+  },
+  {
+    "name": "Rashedah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra46",
+    "verified": true
   },
   {
     "name": "Rasheed",
@@ -2799,6 +3272,14 @@
       "Indonesian": "Rasheeda",
       "Pashto": "رشیده"
     }
+  },
+  {
+    "name": "Rasheedah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ra47",
+    "verified": true
   },
   {
     "name": "Rashid",
@@ -2887,6 +3368,14 @@
     }
   },
   {
+    "name": "Rasimah",
+    "gender": "Girl",
+    "meaning": "Planner, designer",
+    "origin": "Arabic",
+    "id": "ra48",
+    "verified": true
+  },
+  {
     "name": "Rasin",
     "gender": "Boy",
     "meaning": "Calm; Composed",
@@ -2955,6 +3444,22 @@
       "Indonesian": "Rasmi",
       "Pashto": "راسمي"
     }
+  },
+  {
+    "name": "Rasmiya",
+    "gender": "Girl",
+    "meaning": "Official, formal",
+    "origin": "Arabic",
+    "id": "ra49",
+    "verified": true
+  },
+  {
+    "name": "Rasmiyah",
+    "gender": "Girl",
+    "meaning": "Official, formal",
+    "origin": "Arabic",
+    "id": "ra50",
+    "verified": true
   },
   {
     "name": "Rasool",
@@ -3079,6 +3584,14 @@
     }
   },
   {
+    "name": "Raudha",
+    "gender": "Girl",
+    "meaning": "Garden, paradise",
+    "origin": "Arabic",
+    "id": "ra51",
+    "verified": true
+  },
+  {
     "name": "Rauf",
     "gender": "Boy",
     "meaning": "Merciful",
@@ -3094,6 +3607,14 @@
       "Indonesian": "Rauf",
       "Pashto": "رؤف"
     }
+  },
+  {
+    "name": "Raufa",
+    "gender": "Girl",
+    "meaning": "Merciful, compassionate",
+    "origin": "Arabic",
+    "id": "ra52",
+    "verified": true
   },
   {
     "name": "Rauha",
@@ -3148,6 +3669,22 @@
     }
   },
   {
+    "name": "Rawan",
+    "gender": "Girl",
+    "meaning": "River, watering",
+    "origin": "Arabic",
+    "id": "ra53",
+    "verified": true
+  },
+  {
+    "name": "Rawand",
+    "gender": "Girl",
+    "meaning": "Rhubarb",
+    "origin": "Persian",
+    "id": "ra54",
+    "verified": true
+  },
+  {
     "name": "Rawda",
     "gender": "Girl",
     "meaning": "Garden",
@@ -3181,6 +3718,14 @@
       "Indonesian": "Rawdah",
       "Pashto": "روده"
     }
+  },
+  {
+    "name": "Rawdha",
+    "gender": "Girl",
+    "meaning": "Garden",
+    "origin": "Arabic",
+    "id": "ra55",
+    "verified": true
   },
   {
     "name": "Raweea",
@@ -3306,6 +3851,14 @@
     }
   },
   {
+    "name": "Rawya",
+    "gender": "Girl",
+    "meaning": "Storyteller",
+    "origin": "Arabic",
+    "id": "ra56",
+    "verified": true
+  },
+  {
     "name": "Ray",
     "gender": "Boy",
     "meaning": "Ancient city (Tehran)",
@@ -3323,6 +3876,30 @@
     }
   },
   {
+    "name": "Raya",
+    "gender": "Girl",
+    "meaning": "Sated with drink, flag",
+    "origin": "Arabic",
+    "id": "ra57",
+    "verified": true
+  },
+  {
+    "name": "Rayaan",
+    "gender": "Boy",
+    "meaning": "Doors of Heaven",
+    "origin": "Arabic",
+    "id": "ra58",
+    "verified": true
+  },
+  {
+    "name": "Rayaanah",
+    "gender": "Girl",
+    "meaning": "Sated with drink",
+    "origin": "Arabic",
+    "id": "ra59",
+    "verified": true
+  },
+  {
     "id": "ra60",
     "name": "Rayan",
     "gender": "Boy",
@@ -3338,6 +3915,14 @@
       "Indonesian": "Rayan",
       "Pashto": "ریان"
     }
+  },
+  {
+    "name": "Rayees",
+    "gender": "Boy",
+    "meaning": "Leader, chief",
+    "origin": "Arabic",
+    "id": "ra83",
+    "verified": true
   },
   {
     "name": "Rayhan",
@@ -3409,6 +3994,14 @@
     }
   },
   {
+    "name": "Rayya",
+    "gender": "Girl",
+    "meaning": "Breeze, fragrance",
+    "origin": "Arabic",
+    "id": "ra60",
+    "verified": true
+  },
+  {
     "name": "Rayyan",
     "gender": "Boy",
     "meaning": "Gate of Paradise",
@@ -3478,6 +4071,14 @@
     }
   },
   {
+    "name": "Razak",
+    "gender": "Boy",
+    "meaning": "Provider",
+    "origin": "Arabic",
+    "id": "ra61",
+    "verified": true
+  },
+  {
     "name": "Razan",
     "gender": "Girl",
     "meaning": "Sensibility",
@@ -3493,6 +4094,22 @@
       "Indonesian": "Razan",
       "Pashto": "رازان"
     }
+  },
+  {
+    "name": "Razane",
+    "gender": "Girl",
+    "meaning": "Calm, composed",
+    "origin": "Arabic",
+    "id": "ra62",
+    "verified": true
+  },
+  {
+    "name": "Razaullah",
+    "gender": "Boy",
+    "meaning": "Pleasure of Allah",
+    "origin": "Arabic",
+    "id": "ra84",
+    "verified": true
   },
   {
     "name": "Razee-Ud-Deen",
@@ -3549,6 +4166,14 @@
     }
   },
   {
+    "name": "Razeena",
+    "gender": "Girl",
+    "meaning": "Calm, composed",
+    "origin": "Arabic",
+    "id": "ra63",
+    "verified": true
+  },
+  {
     "name": "Razeeq",
     "gender": "Boy",
     "meaning": "Provider",
@@ -3564,6 +4189,31 @@
       "Bengali": "রাজীক",
       "Indonesian": "Razeeq",
       "Pashto": "رازق"
+    }
+  },
+  {
+    "name": "Razek",
+    "gender": "Boy",
+    "meaning": "Provider",
+    "origin": "Arabic",
+    "id": "ra64",
+    "verified": true
+  },
+  {
+    "name": "Razi",
+    "gender": "Boy",
+    "meaning": "Satisfied or content",
+    "origin": "Arabic",
+    "id": "ra2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرازي",
+      "Urdu": "رازی",
+      "Persian": "رازی",
+      "Turkish": "Razi",
+      "Bengali": "রাজী",
+      "Indonesian": "Razi",
+      "Pashto": "رازي"
     }
   },
   {
@@ -3619,6 +4269,22 @@
     }
   },
   {
+    "name": "Razieh",
+    "gender": "Girl",
+    "meaning": "Satisfied",
+    "origin": "Persian/Arabic",
+    "id": "ra65",
+    "verified": true
+  },
+  {
+    "name": "Razik",
+    "gender": "Boy",
+    "meaning": "Provider",
+    "origin": "Arabic",
+    "id": "ra66",
+    "verified": true
+  },
+  {
     "name": "Razin",
     "gender": "Boy",
     "meaning": "Grave; Serious",
@@ -3636,6 +4302,14 @@
     }
   },
   {
+    "name": "Razina",
+    "gender": "Girl",
+    "meaning": "Calm, composed",
+    "origin": "Arabic",
+    "id": "ra67",
+    "verified": true
+  },
+  {
     "name": "Raziq",
     "gender": "Boy",
     "meaning": "Provider",
@@ -3651,6 +4325,38 @@
       "Indonesian": "Raziq",
       "Pashto": "رازق"
     }
+  },
+  {
+    "name": "Raziya",
+    "gender": "Girl",
+    "meaning": "Satisfied, delighted",
+    "origin": "Arabic",
+    "id": "ra68",
+    "verified": true
+  },
+  {
+    "name": "Razoukiyah",
+    "gender": "Girl",
+    "meaning": "Provided for",
+    "origin": "Arabic",
+    "id": "ra69",
+    "verified": true
+  },
+  {
+    "name": "Razwan",
+    "gender": "Boy",
+    "meaning": "Acceptance, goodwill",
+    "origin": "Arabic",
+    "id": "ra70",
+    "verified": true
+  },
+  {
+    "name": "Razzaq",
+    "gender": "Boy",
+    "meaning": "Provider",
+    "origin": "Arabic",
+    "id": "ra71",
+    "verified": true
   },
   {
     "name": "Reea",
@@ -4154,6 +4860,14 @@
     }
   },
   {
+    "name": "Refaat",
+    "gender": "Boy",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "re1",
+    "verified": true
+  },
+  {
     "name": "Reha",
     "gender": "Boy",
     "meaning": "Salvation; Rescue",
@@ -4169,6 +4883,30 @@
       "Indonesian": "Reha",
       "Pashto": "ریحا"
     }
+  },
+  {
+    "name": "Rehab",
+    "gender": "Girl",
+    "meaning": "Vastness, spaciousness",
+    "origin": "Arabic",
+    "id": "re2",
+    "verified": true
+  },
+  {
+    "name": "Rehaba",
+    "gender": "Girl",
+    "meaning": "Spaciousness",
+    "origin": "Arabic",
+    "id": "re3",
+    "verified": true
+  },
+  {
+    "name": "Rehabah",
+    "gender": "Girl",
+    "meaning": "Spaciousness",
+    "origin": "Arabic",
+    "id": "re4",
+    "verified": true
   },
   {
     "name": "Rehah",
@@ -4187,6 +4925,14 @@
       "Indonesian": "Reha",
       "Pashto": "ریحه"
     }
+  },
+  {
+    "name": "Reham",
+    "gender": "Girl",
+    "meaning": "Light rain",
+    "origin": "Arabic",
+    "id": "re5",
+    "verified": true
   },
   {
     "name": "Rehan",
@@ -4276,6 +5022,46 @@
     }
   },
   {
+    "name": "Rehman",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "re6",
+    "verified": true
+  },
+  {
+    "name": "Rehmana",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "re15",
+    "verified": true
+  },
+  {
+    "name": "Rehmat",
+    "gender": "Unisex",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "id": "re16",
+    "verified": true
+  },
+  {
+    "name": "Rehmatullah",
+    "gender": "Boy",
+    "meaning": "Mercy of Allah",
+    "origin": "Arabic",
+    "id": "re17",
+    "verified": true
+  },
+  {
+    "name": "Rema",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "re7",
+    "verified": true
+  },
+  {
     "name": "Rengeen",
     "gender": "Girl",
     "meaning": "Colorful; Bright",
@@ -4328,6 +5114,22 @@
     }
   },
   {
+    "name": "Reshad",
+    "gender": "Boy",
+    "meaning": "Right guidance",
+    "origin": "Arabic",
+    "id": "re18",
+    "verified": true
+  },
+  {
+    "name": "Reshama",
+    "gender": "Girl",
+    "meaning": "Silky",
+    "origin": "Persian/Urdu",
+    "id": "re19",
+    "verified": true
+  },
+  {
     "name": "Reshma",
     "gender": "Girl",
     "meaning": "Silk",
@@ -4363,6 +5165,14 @@
     }
   },
   {
+    "name": "Reshman",
+    "gender": "Girl",
+    "meaning": "Silky",
+    "origin": "Persian/Urdu",
+    "id": "re20",
+    "verified": true
+  },
+  {
     "name": "Reya",
     "gender": "Girl",
     "meaning": "Grace",
@@ -4378,6 +5188,30 @@
       "Indonesian": "Rey",
       "Pashto": "رییا"
     }
+  },
+  {
+    "name": "Reyad",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re8",
+    "verified": true
+  },
+  {
+    "name": "Reyadh",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re9",
+    "verified": true
+  },
+  {
+    "name": "Reyadhah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re10",
+    "verified": true
   },
   {
     "name": "Reyah",
@@ -4398,6 +5232,14 @@
     }
   },
   {
+    "name": "Reyaz",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "re11",
+    "verified": true
+  },
+  {
     "name": "Reyhan",
     "gender": "Girl",
     "meaning": "Sweet basil",
@@ -4413,6 +5255,22 @@
       "Indonesian": "Reyhan",
       "Pashto": "ریحان"
     }
+  },
+  {
+    "name": "Reyhana",
+    "gender": "Girl",
+    "meaning": "Sweet-smelling flower",
+    "origin": "Arabic",
+    "id": "re12",
+    "verified": true
+  },
+  {
+    "name": "Reyhaneh",
+    "gender": "Girl",
+    "meaning": "Sweet-smelling flower",
+    "origin": "Persian",
+    "id": "re13",
+    "verified": true
   },
   {
     "name": "Reza",
@@ -4450,6 +5308,14 @@
     }
   },
   {
+    "name": "Rezqallah",
+    "gender": "Boy",
+    "meaning": "Provision of Allah",
+    "origin": "Arabic",
+    "id": "re14",
+    "verified": true
+  },
+  {
     "name": "Rezwan",
     "gender": "Boy",
     "meaning": "Keeper of heaven",
@@ -4465,6 +5331,22 @@
       "Indonesian": "Rezwan",
       "Pashto": "رضوان"
     }
+  },
+  {
+    "name": "Rhada",
+    "gender": "Girl",
+    "meaning": "Graceful young woman",
+    "origin": "Arabic",
+    "id": "rh1",
+    "verified": true
+  },
+  {
+    "name": "Rhita",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic/Latin",
+    "id": "rh2",
+    "verified": true
   },
   {
     "name": "Ria",
@@ -4588,6 +5470,40 @@
     }
   },
   {
+    "name": "Ridha",
+    "gender": "Boy",
+    "meaning": "Contentment",
+    "origin": "Arabic",
+    "id": "ri1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رضا",
+      "Urdu": "ردا",
+      "Persian": "ریدا",
+      "Turkish": "Ridha",
+      "Bengali": "রিধা",
+      "Indonesian": "Ridha",
+      "Pashto": "ردا"
+    }
+  },
+  {
+    "name": "Ridwaan",
+    "gender": "Boy",
+    "meaning": "Contentment, acceptance",
+    "origin": "Arabic",
+    "id": "ri2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رضوان",
+      "Urdu": "رضوان",
+      "Persian": "رضوان",
+      "Turkish": "Ridwaan",
+      "Bengali": "রিদওয়ান",
+      "Indonesian": "Ridwaan",
+      "Pashto": "رضوان"
+    }
+  },
+  {
     "id": "ri3",
     "name": "Ridwan",
     "gender": "Boy",
@@ -4622,6 +5538,57 @@
     }
   },
   {
+    "name": "Rifa",
+    "gender": "Girl",
+    "meaning": "Happiness, prosperity",
+    "origin": "Arabic",
+    "id": "ri3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفا",
+      "Urdu": "ریفا",
+      "Persian": "ریفا",
+      "Turkish": "Rifa",
+      "Bengali": "রিফা",
+      "Indonesian": "Rifa",
+      "Pashto": "ریفا"
+    }
+  },
+  {
+    "name": "Rifaa",
+    "gender": "Girl",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "ri4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعة",
+      "Urdu": "رفاع",
+      "Persian": "رفاع",
+      "Turkish": "Rifaa",
+      "Bengali": "রিফা",
+      "Indonesian": "Rifaa",
+      "Pashto": "رفعه"
+    }
+  },
+  {
+    "name": "Rifaah",
+    "gender": "Girl",
+    "meaning": "High standing",
+    "origin": "Arabic",
+    "id": "ri5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفاعة",
+      "Urdu": "رفاہ",
+      "Persian": "رفعت",
+      "Turkish": "Rifaah",
+      "Bengali": "রিফাহ",
+      "Indonesian": "Rifaah",
+      "Pashto": "رفاه"
+    }
+  },
+  {
     "name": "Rifaat",
     "gender": "Boy",
     "meaning": "High Rank",
@@ -4639,6 +5606,116 @@
     }
   },
   {
+    "name": "Rifaie",
+    "gender": "Boy",
+    "meaning": "High ranking",
+    "origin": "Arabic",
+    "id": "ri6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعي",
+      "Urdu": "رفائی",
+      "Persian": "رفاعی",
+      "Turkish": "Rifaie",
+      "Bengali": "রিফাই",
+      "Indonesian": "Rifaie",
+      "Pashto": "رفای"
+    }
+  },
+  {
+    "name": "Rifaieh",
+    "gender": "Girl",
+    "meaning": "High ranking",
+    "origin": "Arabic",
+    "id": "ri7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرفاعية",
+      "Urdu": "رفائیہ",
+      "Persian": "رفائیه",
+      "Turkish": "Rifaieh",
+      "Bengali": "রিফাইহ",
+      "Indonesian": "Rifaieh",
+      "Pashto": "رفیعه"
+    }
+  },
+  {
+    "name": "Rifaq",
+    "gender": "Girl",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفق",
+      "Urdu": "رفیق",
+      "Persian": "رفاق",
+      "Turkish": "Rıfak",
+      "Bengali": "রিফাক",
+      "Indonesian": "Rifaq",
+      "Pashto": "رفیق"
+    }
+  },
+  {
+    "name": "Rifaqah",
+    "gender": "Girl",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقه",
+      "Turkish": "Rifaka",
+      "Bengali": "রিফাকাহ",
+      "Indonesian": "Rifaqah",
+      "Pashto": "رفيقه"
+    }
+  },
+  {
+    "name": "Rifaqat",
+    "gender": "Boy",
+    "meaning": "Companionship",
+    "origin": "Arabic",
+    "id": "ri32",
+    "verified": true
+  },
+  {
+    "name": "Rifat",
+    "gender": "Boy",
+    "meaning": "High rank, greatness",
+    "origin": "Arabic",
+    "id": "ri10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفعت",
+      "Urdu": "رفعت",
+      "Persian": "رفعت",
+      "Turkish": "Rıfat",
+      "Bengali": "রিফাত",
+      "Indonesian": "Rifat",
+      "Pashto": "رفعت"
+    }
+  },
+  {
+    "name": "Rifatullah",
+    "gender": "Boy",
+    "meaning": "High rank of Allah",
+    "origin": "Arabic",
+    "id": "ri11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفعت الله",
+      "Urdu": "رفعت اللہ",
+      "Persian": "رفعت الله",
+      "Turkish": "Rıfatullah",
+      "Bengali": "রিফাতুল্লাহ",
+      "Indonesian": "Rifatullah",
+      "Pashto": "رفعت الله"
+    }
+  },
+  {
     "id": "ri4",
     "name": "Riffat",
     "gender": "Unisex",
@@ -4653,6 +5730,40 @@
       "Bengali": "রিফাত",
       "Indonesian": "Riffat",
       "Pashto": "رفعت"
+    }
+  },
+  {
+    "name": "Rifqa",
+    "gender": "Girl",
+    "meaning": "Kindness, gentleness",
+    "origin": "Arabic",
+    "id": "ri12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقا",
+      "Turkish": "Rıfka",
+      "Bengali": "রিফকা",
+      "Indonesian": "Rifqa",
+      "Pashto": "رفقا"
+    }
+  },
+  {
+    "name": "Rifqah",
+    "gender": "Girl",
+    "meaning": "Kindness, gentleness",
+    "origin": "Arabic",
+    "id": "ri13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رفقة",
+      "Urdu": "رفقہ",
+      "Persian": "رفقه",
+      "Turkish": "Rıfka",
+      "Bengali": "রিফকাহ",
+      "Indonesian": "Rifqah",
+      "Pashto": "رفيقه"
     }
   },
   {
@@ -4704,6 +5815,23 @@
       "Bengali": "রিহাম",
       "Indonesian": "Riham",
       "Pashto": "ريحام"
+    }
+  },
+  {
+    "name": "Rihan",
+    "gender": "Boy",
+    "meaning": "Sweet basil",
+    "origin": "Arabic",
+    "id": "ri14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريحان",
+      "Urdu": "ریحان",
+      "Persian": "ریحان",
+      "Turkish": "Rihan",
+      "Bengali": "রিহান",
+      "Indonesian": "Rihan",
+      "Pashto": "ریحان"
     }
   },
   {
@@ -4811,6 +5939,74 @@
     }
   },
   {
+    "name": "Rimawi",
+    "gender": "Boy",
+    "meaning": "From the Rimawi family",
+    "origin": "Arabic",
+    "id": "ri15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الريماوي",
+      "Urdu": "رماوی",
+      "Persian": "ریماوی",
+      "Turkish": "Rimavi",
+      "Bengali": "রিমাউই",
+      "Indonesian": "Rimawi",
+      "Pashto": "ريماوي"
+    }
+  },
+  {
+    "name": "Rimaz",
+    "gender": "Boy",
+    "meaning": "Respected, honored",
+    "origin": "Arabic",
+    "id": "ri16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريماز",
+      "Urdu": "رماز",
+      "Persian": "ریماز",
+      "Turkish": "Rimaz",
+      "Bengali": "রিমাজ",
+      "Indonesian": "Rimaz",
+      "Pashto": "رمز"
+    }
+  },
+  {
+    "name": "Rimon",
+    "gender": "Boy",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ri17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمون",
+      "Urdu": "ریمون",
+      "Persian": "ریمون",
+      "Turkish": "Rimon",
+      "Bengali": "রিমন",
+      "Indonesian": "Rimon",
+      "Pashto": "ريمون"
+    }
+  },
+  {
+    "name": "Rimona",
+    "gender": "Girl",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ri18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمونا",
+      "Urdu": "ریمونا",
+      "Persian": "ریمونا",
+      "Turkish": "Rimona",
+      "Bengali": "রিমোনা",
+      "Indonesian": "Rimona",
+      "Pashto": "ريمونا"
+    }
+  },
+  {
     "id": "ri10",
     "name": "Rimsha",
     "gender": "Girl",
@@ -4843,6 +6039,23 @@
       "Bengali": "রিমশাহ",
       "Indonesian": "Rimshah",
       "Pashto": "رمشا"
+    }
+  },
+  {
+    "name": "Rimy",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "ri19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريمي",
+      "Urdu": "رمی",
+      "Persian": "ریمی",
+      "Turkish": "Rimy",
+      "Bengali": "রিমি",
+      "Indonesian": "Yg dilapisi dgn embun beku",
+      "Pashto": "ريمي"
     }
   },
   {
@@ -4898,6 +6111,74 @@
     }
   },
   {
+    "name": "Risala",
+    "gender": "Girl",
+    "meaning": "Message, mission",
+    "origin": "Arabic",
+    "id": "ri20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رسالة",
+      "Urdu": "رسالہ",
+      "Persian": "ریسالا",
+      "Turkish": "Risala",
+      "Bengali": "রিসালা",
+      "Indonesian": "Risala",
+      "Pashto": "رساله"
+    }
+  },
+  {
+    "name": "Rita",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Latin",
+    "id": "ri21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريتا",
+      "Urdu": "ریٹا",
+      "Persian": "ریتا",
+      "Turkish": "Rita",
+      "Bengali": "রিতা",
+      "Indonesian": "Rita",
+      "Pashto": "ریټا"
+    }
+  },
+  {
+    "name": "Riya",
+    "gender": "Girl",
+    "meaning": "Fragrance",
+    "origin": "Arabic",
+    "id": "ri22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريا",
+      "Urdu": "ریا",
+      "Persian": "ریا",
+      "Turkish": "Riya",
+      "Bengali": "রিয়া",
+      "Indonesian": "Riya",
+      "Pashto": "ریا"
+    }
+  },
+  {
+    "name": "Riyaad",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyad",
+      "Bengali": "রিয়াদ",
+      "Indonesian": "Riyaad",
+      "Pashto": "ریاض"
+    }
+  },
+  {
     "id": "ri11",
     "name": "Riyad",
     "gender": "Boy",
@@ -4913,6 +6194,82 @@
       "Indonesian": "Riyad",
       "Pashto": "ریاض"
     }
+  },
+  {
+    "name": "Riyadah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رياضه",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyada",
+      "Bengali": "রিয়াদাহ",
+      "Indonesian": "Riyadah",
+      "Pashto": "ریاض"
+    }
+  },
+  {
+    "name": "Riyadh",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الرياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyad",
+      "Bengali": "রিয়াদ",
+      "Indonesian": "Riyadh",
+      "Pashto": "ریاض"
+    }
+  },
+  {
+    "name": "Riyan",
+    "gender": "Boy",
+    "meaning": "Door of heaven",
+    "origin": "Arabic",
+    "id": "ri1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ريان",
+      "Urdu": "ریان",
+      "Persian": "ریان",
+      "Turkish": "Riyan",
+      "Bengali": "রিয়ান",
+      "Indonesian": "Riyan",
+      "Pashto": "ریان"
+    }
+  },
+  {
+    "name": "Riyaz",
+    "gender": "Boy",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رياض",
+      "Urdu": "ریاض",
+      "Persian": "ریاض",
+      "Turkish": "Riyaz",
+      "Bengali": "রিয়াজ",
+      "Indonesian": "Riyaz",
+      "Pashto": "ریاض"
+    }
+  },
+  {
+    "name": "Riyazah",
+    "gender": "Girl",
+    "meaning": "Gardens",
+    "origin": "Arabic",
+    "id": "ri33",
+    "verified": true
   },
   {
     "name": "Riza",
@@ -4967,6 +6324,40 @@
     }
   },
   {
+    "name": "Rizk",
+    "gender": "Boy",
+    "meaning": "Provision, blessing",
+    "origin": "Arabic",
+    "id": "ri27",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق",
+      "Urdu": "رزق",
+      "Persian": "ریزک",
+      "Turkish": "Rizk",
+      "Bengali": "রিজক",
+      "Indonesian": "Rizk",
+      "Pashto": "رزق"
+    }
+  },
+  {
+    "name": "Rizkallah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri28",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rızkallah",
+      "Bengali": "রিজকাল্লাহ",
+      "Indonesian": "Rizkallah",
+      "Pashto": "رضي الله عنه"
+    }
+  },
+  {
     "name": "Rizki",
     "gender": "Unisex",
     "meaning": "Sustenance",
@@ -5018,6 +6409,57 @@
     }
   },
   {
+    "name": "Rizqah",
+    "gender": "Girl",
+    "meaning": "Provision",
+    "origin": "Arabic",
+    "id": "ri29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزقة",
+      "Urdu": "رزق",
+      "Persian": "رزقه",
+      "Turkish": "Rızka",
+      "Bengali": "রিজকাহ",
+      "Indonesian": "Rizqah",
+      "Pashto": "رزق"
+    }
+  },
+  {
+    "name": "Rizqallah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri30",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rizqallah",
+      "Bengali": "রিজকাল্লাহ",
+      "Indonesian": "Rizqallah",
+      "Pashto": "رضي الله عنه"
+    }
+  },
+  {
+    "name": "Rizqullah",
+    "gender": "Boy",
+    "meaning": "Provision from Allah",
+    "origin": "Arabic",
+    "id": "ri31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رزق الله",
+      "Urdu": "رزق اللہ",
+      "Persian": "رزق الله",
+      "Turkish": "Rızkulla",
+      "Bengali": "রিজকুল্লাহ",
+      "Indonesian": "Rizqullah",
+      "Pashto": "رزق الله"
+    }
+  },
+  {
     "id": "ri12",
     "name": "Rizwan",
     "gender": "Boy",
@@ -5033,6 +6475,14 @@
       "Indonesian": "Rizwan",
       "Pashto": "رضوان"
     }
+  },
+  {
+    "name": "Rizwan Ahmad",
+    "gender": "Boy",
+    "meaning": "Acceptance and praised",
+    "origin": "Arabic",
+    "id": "ri34",
+    "verified": true
   },
   {
     "id": "ri13",
@@ -5068,6 +6518,14 @@
       "Indonesian": "Rizwanah",
       "Pashto": "رضوانه"
     }
+  },
+  {
+    "name": "Roaa",
+    "gender": "Girl",
+    "meaning": "Visions, dreams",
+    "origin": "Arabic",
+    "id": "ro1",
+    "verified": true
   },
   {
     "name": "Robeena",
@@ -5193,6 +6651,70 @@
     }
   },
   {
+    "name": "Rohai",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro2",
+    "verified": true
+  },
+  {
+    "name": "Rohaia",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro85",
+    "verified": true
+  },
+  {
+    "name": "Rohaib",
+    "gender": "Boy",
+    "meaning": "Generous, wide",
+    "origin": "Arabic",
+    "id": "ro3",
+    "verified": true
+  },
+  {
+    "name": "Rohaiba",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "ro4",
+    "verified": true
+  },
+  {
+    "name": "Rohaibah",
+    "gender": "Girl",
+    "meaning": "Generous",
+    "origin": "Arabic",
+    "id": "ro5",
+    "verified": true
+  },
+  {
+    "name": "Rohaida",
+    "gender": "Girl",
+    "meaning": "Gentle, pure",
+    "origin": "Arabic",
+    "id": "ro6",
+    "verified": true
+  },
+  {
+    "name": "Rohaideh",
+    "gender": "Girl",
+    "meaning": "Gentle, pure",
+    "origin": "Arabic",
+    "id": "ro7",
+    "verified": true
+  },
+  {
+    "name": "Rohaifa",
+    "gender": "Girl",
+    "meaning": "Compassionate",
+    "origin": "Arabic",
+    "id": "ro8",
+    "verified": true
+  },
+  {
     "name": "Rohail",
     "gender": "Boy",
     "meaning": "Traveler",
@@ -5210,6 +6732,126 @@
     }
   },
   {
+    "name": "Rohaim",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro9",
+    "verified": true
+  },
+  {
+    "name": "Rohaimah",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro10",
+    "verified": true
+  },
+  {
+    "name": "Rohaimeh",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro11",
+    "verified": true
+  },
+  {
+    "name": "Rohain",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro12",
+    "verified": true
+  },
+  {
+    "name": "Rohaina",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro13",
+    "verified": true
+  },
+  {
+    "name": "Rohainah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro14",
+    "verified": true
+  },
+  {
+    "name": "Rohaiyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro15",
+    "verified": true
+  },
+  {
+    "name": "Rohaiz",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro16",
+    "verified": true
+  },
+  {
+    "name": "Rohaiza",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro86",
+    "verified": true
+  },
+  {
+    "name": "Rohaizad",
+    "gender": "Boy",
+    "meaning": "Spiritual born",
+    "origin": "Arabic",
+    "id": "ro17",
+    "verified": true
+  },
+  {
+    "name": "Rohaizadah",
+    "gender": "Girl",
+    "meaning": "Spiritual born",
+    "origin": "Arabic",
+    "id": "ro18",
+    "verified": true
+  },
+  {
+    "name": "Rohaizah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro19",
+    "verified": true
+  },
+  {
+    "name": "Rohaizal",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro20",
+    "verified": true
+  },
+  {
+    "name": "Rohaizat",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro21",
+    "verified": true
+  },
+  {
+    "name": "Rohama",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro22",
+    "verified": true
+  },
+  {
     "name": "Rohan",
     "gender": "Boy",
     "meaning": "Ascending",
@@ -5225,6 +6867,22 @@
       "Indonesian": "Rohan",
       "Pashto": "روهان"
     }
+  },
+  {
+    "name": "Rohana",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro23",
+    "verified": true
+  },
+  {
+    "name": "Rohanah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro87",
+    "verified": true
   },
   {
     "name": "Rohanee",
@@ -5260,6 +6918,62 @@
       "Indonesian": "Rohani",
       "Pashto": "روحاني"
     }
+  },
+  {
+    "name": "Rohaniyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro24",
+    "verified": true
+  },
+  {
+    "name": "Rohay",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro25",
+    "verified": true
+  },
+  {
+    "name": "Rohaya",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro26",
+    "verified": true
+  },
+  {
+    "name": "Rohayn",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro27",
+    "verified": true
+  },
+  {
+    "name": "Rohayna",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro28",
+    "verified": true
+  },
+  {
+    "name": "Rohayya",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro29",
+    "verified": true
+  },
+  {
+    "name": "Rohayyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro30",
+    "verified": true
   },
   {
     "name": "Rohee",
@@ -5314,6 +7028,14 @@
       "Indonesian": "Roheena",
       "Pashto": "روهینه"
     }
+  },
+  {
+    "name": "Roheyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro31",
+    "verified": true
   },
   {
     "name": "Rohi",
@@ -5385,6 +7107,126 @@
     }
   },
   {
+    "name": "Rohma",
+    "gender": "Girl",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "id": "ro32",
+    "verified": true
+  },
+  {
+    "name": "Rohmaan",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro33",
+    "verified": true
+  },
+  {
+    "name": "Rohmah",
+    "gender": "Girl",
+    "meaning": "Mercy",
+    "origin": "Arabic",
+    "id": "ro88",
+    "verified": true
+  },
+  {
+    "name": "Rohman",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro34",
+    "verified": true
+  },
+  {
+    "name": "Rohollah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro35",
+    "verified": true
+  },
+  {
+    "name": "Rohul",
+    "gender": "Boy",
+    "meaning": "Spirit of",
+    "origin": "Arabic",
+    "id": "ro36",
+    "verified": true
+  },
+  {
+    "name": "Rohulamin",
+    "gender": "Boy",
+    "meaning": "Spirit of the trustworthy",
+    "origin": "Arabic",
+    "id": "ro37",
+    "verified": true
+  },
+  {
+    "name": "Rohullah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro38",
+    "verified": true
+  },
+  {
+    "name": "Roja",
+    "gender": "Girl",
+    "meaning": "Sunrise, red",
+    "origin": "Persian/Spanish",
+    "id": "ro89",
+    "verified": true
+  },
+  {
+    "name": "Rojbeh",
+    "gender": "Boy",
+    "meaning": "Fortunate",
+    "origin": "Persian",
+    "id": "ro39",
+    "verified": true
+  },
+  {
+    "name": "Rojda",
+    "gender": "Girl",
+    "meaning": "Sunrise",
+    "origin": "Kurdish",
+    "id": "ro40",
+    "verified": true
+  },
+  {
+    "name": "Rokaya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro41",
+    "verified": true
+  },
+  {
+    "name": "Rokia",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro42",
+    "verified": true
+  },
+  {
+    "name": "Rola",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "id": "ro43",
+    "verified": true
+  },
+  {
+    "name": "Rolaah",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "id": "ro44",
+    "verified": true
+  },
+  {
     "name": "Roma",
     "gender": "Girl",
     "meaning": "Truthful",
@@ -5438,6 +7280,14 @@
     }
   },
   {
+    "name": "Romaine",
+    "gender": "Girl",
+    "meaning": "Roman",
+    "origin": "Latin",
+    "id": "ro45",
+    "verified": true
+  },
+  {
     "name": "Romaisa",
     "gender": "Girl",
     "meaning": "Bunch of flowers; Heavens",
@@ -5471,6 +7321,14 @@
       "Indonesian": "Romaisah",
       "Pashto": "روميسه"
     }
+  },
+  {
+    "name": "Romaissa",
+    "gender": "Girl",
+    "meaning": "Bouquet of flowers",
+    "origin": "Arabic",
+    "id": "ro46",
+    "verified": true
   },
   {
     "name": "Romana",
@@ -5740,6 +7598,14 @@
     }
   },
   {
+    "name": "Roohallah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro47",
+    "verified": true
+  },
+  {
     "name": "Roohan",
     "gender": "Boy",
     "meaning": "Spiritual",
@@ -5809,6 +7675,14 @@
       "Indonesian": "Roohool",
       "Pashto": "روحول"
     }
+  },
+  {
+    "name": "Roohullah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro90",
+    "verified": true
   },
   {
     "name": "Rookan",
@@ -6207,6 +8081,78 @@
     }
   },
   {
+    "name": "Roqaia",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro48",
+    "verified": true
+  },
+  {
+    "name": "Roqaiah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro49",
+    "verified": true
+  },
+  {
+    "name": "Roqaiyah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro50",
+    "verified": true
+  },
+  {
+    "name": "Roqaya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro51",
+    "verified": true
+  },
+  {
+    "name": "Roqayah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro52",
+    "verified": true
+  },
+  {
+    "name": "Roqayya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro53",
+    "verified": true
+  },
+  {
+    "name": "Roqayyah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro54",
+    "verified": true
+  },
+  {
+    "name": "Roqui",
+    "gender": "Boy",
+    "meaning": "Spiritual, gentle",
+    "origin": "Arabic",
+    "id": "ro91",
+    "verified": true
+  },
+  {
+    "name": "Roquia",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ro92",
+    "verified": true
+  },
+  {
     "name": "Ros",
     "gender": "Girl",
     "meaning": "Rose",
@@ -6274,6 +8220,22 @@
       "Indonesian": "Roshan",
       "Pashto": "روښان"
     }
+  },
+  {
+    "name": "Roshdi",
+    "gender": "Boy",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ro55",
+    "verified": true
+  },
+  {
+    "name": "Roshdiyah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ro56",
+    "verified": true
   },
   {
     "name": "Roshnee",
@@ -6361,6 +8323,222 @@
       "Indonesian": "Rosman",
       "Pashto": "روسمن"
     }
+  },
+  {
+    "name": "Rosy",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Latin",
+    "id": "ro57",
+    "verified": true
+  },
+  {
+    "name": "Roua",
+    "gender": "Girl",
+    "meaning": "Visions, dreams",
+    "origin": "Arabic",
+    "id": "ro58",
+    "verified": true
+  },
+  {
+    "name": "Rouaa",
+    "gender": "Girl",
+    "meaning": "Visions, dreams",
+    "origin": "Arabic",
+    "id": "ro59",
+    "verified": true
+  },
+  {
+    "name": "Rouaida",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ro60",
+    "verified": true
+  },
+  {
+    "name": "Rouba",
+    "gender": "Girl",
+    "meaning": "Hills",
+    "origin": "Arabic",
+    "id": "ro61",
+    "verified": true
+  },
+  {
+    "name": "Roubaa",
+    "gender": "Girl",
+    "meaning": "Hills",
+    "origin": "Arabic",
+    "id": "ro62",
+    "verified": true
+  },
+  {
+    "name": "Roubeh",
+    "gender": "Boy",
+    "meaning": "Fox",
+    "origin": "Persian",
+    "id": "ro63",
+    "verified": true
+  },
+  {
+    "name": "Rouda",
+    "gender": "Girl",
+    "meaning": "Garden",
+    "origin": "Arabic",
+    "id": "ro64",
+    "verified": true
+  },
+  {
+    "name": "Roudaina",
+    "gender": "Girl",
+    "meaning": "Old Arabian name",
+    "origin": "Arabic",
+    "id": "ro65",
+    "verified": true
+  },
+  {
+    "name": "Roudi",
+    "gender": "Boy",
+    "meaning": "Pioneer",
+    "origin": "Arabic",
+    "id": "ro66",
+    "verified": true
+  },
+  {
+    "name": "Rouf",
+    "gender": "Boy",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro67",
+    "verified": true
+  },
+  {
+    "name": "Roufa",
+    "gender": "Girl",
+    "meaning": "Merciful",
+    "origin": "Arabic",
+    "id": "ro68",
+    "verified": true
+  },
+  {
+    "name": "Roufaida",
+    "gender": "Girl",
+    "meaning": "Support",
+    "origin": "Arabic",
+    "id": "ro69",
+    "verified": true
+  },
+  {
+    "name": "Rouh",
+    "gender": "Boy",
+    "meaning": "Spirit, soul",
+    "origin": "Arabic",
+    "id": "ro70",
+    "verified": true
+  },
+  {
+    "name": "Rouha",
+    "gender": "Girl",
+    "meaning": "Spirit, soul",
+    "origin": "Arabic",
+    "id": "ro71",
+    "verified": true
+  },
+  {
+    "name": "Rouheyda",
+    "gender": "Girl",
+    "meaning": "Spirit",
+    "origin": "Arabic",
+    "id": "ro72",
+    "verified": true
+  },
+  {
+    "name": "Rouhi",
+    "gender": "Boy",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro73",
+    "verified": true
+  },
+  {
+    "name": "Rouhiyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ro74",
+    "verified": true
+  },
+  {
+    "name": "Rouhollah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro75",
+    "verified": true
+  },
+  {
+    "name": "Rouhullah",
+    "gender": "Boy",
+    "meaning": "Spirit of Allah",
+    "origin": "Arabic",
+    "id": "ro76",
+    "verified": true
+  },
+  {
+    "name": "Roukaya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ro77",
+    "verified": true
+  },
+  {
+    "name": "Roula",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "id": "ro78",
+    "verified": true
+  },
+  {
+    "name": "Roum",
+    "gender": "Boy",
+    "meaning": "Roman, Byzantine",
+    "origin": "Arabic",
+    "id": "ro79",
+    "verified": true
+  },
+  {
+    "name": "Roumiyah",
+    "gender": "Girl",
+    "meaning": "Roman, Byzantine",
+    "origin": "Arabic",
+    "id": "ro80",
+    "verified": true
+  },
+  {
+    "name": "Rouwaida",
+    "gender": "Girl",
+    "meaning": "Unhurried, gentle",
+    "origin": "Arabic",
+    "id": "ro81",
+    "verified": true
+  },
+  {
+    "name": "Rouya",
+    "gender": "Girl",
+    "meaning": "Vision, dream",
+    "origin": "Arabic",
+    "id": "ro82",
+    "verified": true
+  },
+  {
+    "name": "Rowaida",
+    "gender": "Girl",
+    "meaning": "Unhurried, gentle",
+    "origin": "Arabic",
+    "id": "ro83",
+    "verified": true
   },
   {
     "name": "Roya",
@@ -6486,6 +8664,22 @@
     }
   },
   {
+    "name": "Roziyah",
+    "gender": "Girl",
+    "meaning": "Satisfied",
+    "origin": "Arabic",
+    "id": "ro84",
+    "verified": true
+  },
+  {
+    "name": "Ruaa",
+    "gender": "Girl",
+    "meaning": "Visions, dreams",
+    "origin": "Arabic",
+    "id": "ru1",
+    "verified": true
+  },
+  {
     "name": "Ruba",
     "gender": "Girl",
     "meaning": "Hills, heights",
@@ -6520,6 +8714,14 @@
     }
   },
   {
+    "name": "Rubaba",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "ru2",
+    "verified": true
+  },
+  {
     "name": "Rubah",
     "gender": "Girl",
     "meaning": "Hills, heights",
@@ -6536,6 +8738,38 @@
       "Indonesian": "Ruba",
       "Pashto": "روباه"
     }
+  },
+  {
+    "name": "Rubaiya",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ru3",
+    "verified": true
+  },
+  {
+    "name": "Rubaiyah",
+    "gender": "Girl",
+    "meaning": "Spring season",
+    "origin": "Arabic",
+    "id": "ru4",
+    "verified": true
+  },
+  {
+    "name": "Rubayya",
+    "gender": "Girl",
+    "meaning": "Little hill",
+    "origin": "Arabic",
+    "id": "ru5",
+    "verified": true
+  },
+  {
+    "name": "Rubayyah",
+    "gender": "Girl",
+    "meaning": "Little hill",
+    "origin": "Arabic",
+    "id": "ru6",
+    "verified": true
   },
   {
     "id": "ru2_var",
@@ -6626,6 +8860,14 @@
     }
   },
   {
+    "name": "Ruby",
+    "gender": "Girl",
+    "meaning": "Red gemstone",
+    "origin": "Latin",
+    "id": "ru7",
+    "verified": true
+  },
+  {
     "id": "ru3_var",
     "name": "Rudaeenah",
     "gender": "Girl",
@@ -6642,6 +8884,14 @@
       "Indonesian": "Rudaenah",
       "Pashto": "رودینه"
     }
+  },
+  {
+    "name": "Rudaina",
+    "gender": "Girl",
+    "meaning": "Spinning wheel",
+    "origin": "Arabic",
+    "id": "ru8",
+    "verified": true
   },
   {
     "id": "ru3",
@@ -6783,6 +9033,14 @@
     }
   },
   {
+    "name": "Ruhiyah",
+    "gender": "Girl",
+    "meaning": "Spiritual",
+    "origin": "Arabic",
+    "id": "ru9",
+    "verified": true
+  },
+  {
     "id": "ru7",
     "name": "Ruhul",
     "gender": "Boy",
@@ -6798,6 +9056,38 @@
       "Indonesian": "Ruhul",
       "Pashto": "روحل"
     }
+  },
+  {
+    "name": "Rukaida",
+    "gender": "Girl",
+    "meaning": "Gentle support",
+    "origin": "Arabic",
+    "id": "ru10",
+    "verified": true
+  },
+  {
+    "name": "Rukainah",
+    "gender": "Girl",
+    "meaning": "Pillar, support",
+    "origin": "Arabic",
+    "id": "ru11",
+    "verified": true
+  },
+  {
+    "name": "Rukaiya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru12",
+    "verified": true
+  },
+  {
+    "name": "Rukaiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru13",
+    "verified": true
   },
   {
     "name": "Rukan",
@@ -6817,6 +9107,46 @@
     }
   },
   {
+    "name": "Rukaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru14",
+    "verified": true
+  },
+  {
+    "name": "Rukayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru15",
+    "verified": true
+  },
+  {
+    "name": "Rukayya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru16",
+    "verified": true
+  },
+  {
+    "name": "Rukayyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru17",
+    "verified": true
+  },
+  {
+    "name": "Rukhaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru18",
+    "verified": true
+  },
+  {
     "id": "ru8",
     "name": "Rukhsana",
     "gender": "Girl",
@@ -6832,6 +9162,14 @@
       "Indonesian": "Rukhsana",
       "Pashto": "رخسانه"
     }
+  },
+  {
+    "name": "Rukhsana Begum",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced lady",
+    "origin": "Persian/Turkic",
+    "id": "ru58",
+    "verified": true
   },
   {
     "id": "ru8_var",
@@ -6867,6 +9205,95 @@
       "Indonesian": "Rukhsar",
       "Pashto": "رخسار"
     }
+  },
+  {
+    "name": "Rukhsarunnisa",
+    "gender": "Girl",
+    "meaning": "Face of women",
+    "origin": "Persian/Arabic",
+    "id": "ru59",
+    "verified": true
+  },
+  {
+    "name": "Rukhshan",
+    "gender": "Boy",
+    "meaning": "Dazzling, shining",
+    "origin": "Persian",
+    "id": "ru19",
+    "verified": true
+  },
+  {
+    "name": "Rukhshana",
+    "gender": "Girl",
+    "meaning": "Brilliant, beautiful",
+    "origin": "Persian",
+    "id": "ru20",
+    "verified": true
+  },
+  {
+    "name": "Rukhshanda",
+    "gender": "Girl",
+    "meaning": "Shining, brilliant",
+    "origin": "Persian",
+    "id": "ru21",
+    "verified": true
+  },
+  {
+    "name": "Rukhshannah",
+    "gender": "Girl",
+    "meaning": "Brilliant, beautiful",
+    "origin": "Persian",
+    "id": "ru22",
+    "verified": true
+  },
+  {
+    "name": "Rukiah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru23",
+    "verified": true
+  },
+  {
+    "name": "Rukiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru24",
+    "verified": true
+  },
+  {
+    "name": "Rukiye",
+    "gender": "Girl",
+    "meaning": "Charming or spellbinding",
+    "origin": "Turkish/Arabic",
+    "id": "ru1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "رقية",
+      "Urdu": "رکوعے",
+      "Persian": "روکیه",
+      "Turkish": "Rukiye",
+      "Bengali": "রুকিয়ে",
+      "Indonesian": "Rukiye",
+      "Pashto": "رکوع"
+    }
+  },
+  {
+    "name": "Rukmini",
+    "gender": "Girl",
+    "meaning": "Adorned with gold",
+    "origin": "Sanskrit",
+    "id": "ru25",
+    "verified": true
+  },
+  {
+    "name": "Rukminiyah",
+    "gender": "Girl",
+    "meaning": "Adorned with gold",
+    "origin": "Sanskrit",
+    "id": "ru26",
+    "verified": true
   },
   {
     "name": "Rukn",
@@ -6921,6 +9348,30 @@
     }
   },
   {
+    "name": "Ruksana",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced",
+    "origin": "Persian",
+    "id": "ru60",
+    "verified": true
+  },
+  {
+    "name": "Ruksar",
+    "gender": "Girl",
+    "meaning": "Cheek, face",
+    "origin": "Persian",
+    "id": "ru27",
+    "verified": true
+  },
+  {
+    "name": "Rula",
+    "gender": "Girl",
+    "meaning": "Name of an Arab tribe",
+    "origin": "Arabic",
+    "id": "ru28",
+    "verified": true
+  },
+  {
     "name": "Rum",
     "gender": "Boy",
     "meaning": "Rome (Anatolia/Byzantium)",
@@ -6936,6 +9387,14 @@
       "Indonesian": "Rum",
       "Pashto": "رم"
     }
+  },
+  {
+    "name": "Rumaan",
+    "gender": "Boy",
+    "meaning": "Pomegranate",
+    "origin": "Arabic",
+    "id": "ru29",
+    "verified": true
   },
   {
     "id": "ru10_var",
@@ -6989,6 +9448,14 @@
       "Indonesian": "Rumaisah",
       "Pashto": "رمیصه"
     }
+  },
+  {
+    "name": "Rumaiyah",
+    "gender": "Girl",
+    "meaning": "Little archer",
+    "origin": "Arabic",
+    "id": "ru30",
+    "verified": true
   },
   {
     "id": "ru11",
@@ -7078,6 +9545,38 @@
     }
   },
   {
+    "name": "Ruqaiya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru31",
+    "verified": true
+  },
+  {
+    "name": "Ruqaiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru32",
+    "verified": true
+  },
+  {
+    "name": "Ruqaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru33",
+    "verified": true
+  },
+  {
+    "name": "Ruqayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru34",
+    "verified": true
+  },
+  {
     "id": "ru12",
     "name": "Ruqayya",
     "gender": "Girl",
@@ -7111,6 +9610,126 @@
       "Indonesian": "Ruqayyah",
       "Pashto": "رقيه"
     }
+  },
+  {
+    "name": "Ruqqaiyah",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ru61",
+    "verified": true
+  },
+  {
+    "name": "Ruqqaya",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru35",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayaah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru36",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru37",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayya",
+    "gender": "Girl",
+    "meaning": "Gentle, ascent",
+    "origin": "Arabic",
+    "id": "ru62",
+    "verified": true
+  },
+  {
+    "name": "Ruqqayyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru38",
+    "verified": true
+  },
+  {
+    "name": "Ruqqiah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru39",
+    "verified": true
+  },
+  {
+    "name": "Ruqqiyah",
+    "gender": "Girl",
+    "meaning": "Ascent, gentle",
+    "origin": "Arabic",
+    "id": "ru40",
+    "verified": true
+  },
+  {
+    "name": "Ruqsan",
+    "gender": "Girl",
+    "meaning": "Beautiful-faced",
+    "origin": "Persian",
+    "id": "ru63",
+    "verified": true
+  },
+  {
+    "name": "Ruqsana",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru41",
+    "verified": true
+  },
+  {
+    "name": "Ruqsar",
+    "gender": "Girl",
+    "meaning": "Cheek, face",
+    "origin": "Persian",
+    "id": "ru42",
+    "verified": true
+  },
+  {
+    "name": "Ruqsaya",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru43",
+    "verified": true
+  },
+  {
+    "name": "Ruqsayya",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru44",
+    "verified": true
+  },
+  {
+    "name": "Ruqsayyah",
+    "gender": "Girl",
+    "meaning": "Brilliant, shining",
+    "origin": "Persian",
+    "id": "ru45",
+    "verified": true
+  },
+  {
+    "name": "Ruqyah",
+    "gender": "Girl",
+    "meaning": "Spell, charm, recitation",
+    "origin": "Arabic",
+    "id": "ru46",
+    "verified": true
   },
   {
     "name": "Rusafa",
@@ -7235,6 +9854,22 @@
     }
   },
   {
+    "name": "Rushdiya",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ru47",
+    "verified": true
+  },
+  {
+    "name": "Rushdiyah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ru48",
+    "verified": true
+  },
+  {
     "name": "Ruslee",
     "gender": "Boy",
     "meaning": "Prophet",
@@ -7304,6 +9939,22 @@
     }
   },
   {
+    "name": "Rustom",
+    "gender": "Boy",
+    "meaning": "Strong, brave",
+    "origin": "Persian",
+    "id": "ru49",
+    "verified": true
+  },
+  {
+    "name": "Rustum",
+    "gender": "Boy",
+    "meaning": "Strong, brave",
+    "origin": "Persian",
+    "id": "ru50",
+    "verified": true
+  },
+  {
     "name": "Ruuhee",
     "gender": "Girl",
     "meaning": "Soul",
@@ -7337,6 +9988,22 @@
       "Indonesian": "Ruuhi",
       "Pashto": "روهي"
     }
+  },
+  {
+    "name": "Ruwa",
+    "gender": "Girl",
+    "meaning": "Beauty, grace",
+    "origin": "Arabic",
+    "id": "ru51",
+    "verified": true
+  },
+  {
+    "name": "Ruwaaida",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru52",
+    "verified": true
   },
   {
     "id": "ru16_var",
@@ -7374,6 +10041,30 @@
     }
   },
   {
+    "name": "Ruwaida",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru53",
+    "verified": true
+  },
+  {
+    "name": "Ruwaideh",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "ru54",
+    "verified": true
+  },
+  {
+    "name": "Ruwaifa",
+    "gender": "Boy",
+    "meaning": "Little elevated one",
+    "origin": "Arabic",
+    "id": "ru55",
+    "verified": true
+  },
+  {
     "id": "ru17",
     "name": "Ruwayda",
     "gender": "Girl",
@@ -7409,6 +10100,22 @@
     }
   },
   {
+    "name": "Ruwwad",
+    "gender": "Boy",
+    "meaning": "Pioneers, explorers",
+    "origin": "Arabic",
+    "id": "ru56",
+    "verified": true
+  },
+  {
+    "name": "Ruzanna",
+    "gender": "Girl",
+    "meaning": "Calm, composed",
+    "origin": "Russian/Arabic",
+    "id": "ru57",
+    "verified": true
+  },
+  {
     "name": "Ruzgar",
     "gender": "Boy",
     "meaning": "Wind",
@@ -7426,6 +10133,22 @@
     }
   },
   {
+    "name": "Rwa'Idah",
+    "gender": "Girl",
+    "meaning": "Gentle, unhurried",
+    "origin": "Arabic",
+    "id": "rw1",
+    "verified": true
+  },
+  {
+    "name": "Rwan",
+    "gender": "Girl",
+    "meaning": "River, watering",
+    "origin": "Arabic",
+    "id": "rw2",
+    "verified": true
+  },
+  {
     "id": "ry1",
     "name": "Ryan",
     "gender": "Boy",
@@ -7441,6 +10164,14 @@
       "Indonesian": "RYAN",
       "Pashto": "ریان"
     }
+  },
+  {
+    "name": "Rym",
+    "gender": "Girl",
+    "meaning": "White antelope",
+    "origin": "Arabic",
+    "id": "ry1",
+    "verified": true
   },
   {
     "id": "ry2",

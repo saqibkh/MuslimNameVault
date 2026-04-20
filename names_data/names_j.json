@@ -225,6 +225,14 @@
     }
   },
   {
+    "name": "Jabbarah",
+    "gender": "Girl",
+    "meaning": "Mighty, powerful",
+    "origin": "Arabic",
+    "id": "ja1",
+    "verified": true
+  },
+  {
     "name": "Jabeen",
     "gender": "Girl",
     "meaning": "Forehead",
@@ -256,6 +264,23 @@
       "Turkish": "Jabir",
       "Bengali": "জাবির",
       "Indonesian": "Jabir",
+      "Pashto": "جابر"
+    }
+  },
+  {
+    "name": "Jaber",
+    "gender": "Boy",
+    "meaning": "Comforter, consoler",
+    "origin": "Arabic",
+    "id": "ja4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جابر",
+      "Urdu": "جابر",
+      "Persian": "جابر",
+      "Turkish": "Jaber",
+      "Bengali": "জাবের",
+      "Indonesian": "jaber",
       "Pashto": "جابر"
     }
   },
@@ -342,6 +367,23 @@
       "Bengali": "জাদ-আল্লাহ",
       "Indonesian": "Jad-Allah",
       "Pashto": "جاد الله"
+    }
+  },
+  {
+    "name": "Jadaan",
+    "gender": "Boy",
+    "meaning": "Good, beneficent",
+    "origin": "Arabic",
+    "id": "ja5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جدعان",
+      "Urdu": "جداں ۔",
+      "Persian": "جادان",
+      "Turkish": "Jadaan",
+      "Bengali": "জাদান",
+      "Indonesian": "Jadaan",
+      "Pashto": "جادان"
     }
   },
   {
@@ -502,6 +544,31 @@
     }
   },
   {
+    "name": "Jafari",
+    "gender": "Boy",
+    "meaning": "Small stream",
+    "origin": "Arabic",
+    "id": "ja2",
+    "verified": true
+  },
+  {
+    "name": "Jafariyah",
+    "gender": "Girl",
+    "meaning": "Small stream",
+    "origin": "Arabic",
+    "id": "ja6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الجعفرية",
+      "Urdu": "جعفریہ",
+      "Persian": "جعفریه",
+      "Turkish": "Caferiye",
+      "Bengali": "জাফরিয়াহ",
+      "Indonesian": "Jafariyah",
+      "Pashto": "جعفریه"
+    }
+  },
+  {
     "name": "Jafeeya",
     "gender": "Girl",
     "meaning": "To ensure peace",
@@ -552,6 +619,23 @@
       "Bengali": "জাফ্ফ",
       "Indonesian": "Jaffah",
       "Pashto": "جفا"
+    }
+  },
+  {
+    "name": "Jaffar",
+    "gender": "Boy",
+    "meaning": "Small stream",
+    "origin": "Arabic",
+    "id": "ja7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جعفر",
+      "Urdu": "جعفر",
+      "Persian": "جعفر",
+      "Turkish": "Cafer",
+      "Bengali": "জাফর",
+      "Indonesian": "Jafar",
+      "Pashto": "جعفر"
     }
   },
   {
@@ -886,6 +970,23 @@
     }
   },
   {
+    "name": "Jaida",
+    "gender": "Girl",
+    "meaning": "Good, excellent",
+    "origin": "Arabic",
+    "id": "ja8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيدة",
+      "Urdu": "جیدا",
+      "Persian": "جایدا",
+      "Turkish": "Jaida",
+      "Bengali": "জাইদা",
+      "Indonesian": "Jaida",
+      "Pashto": "جایده"
+    }
+  },
+  {
     "name": "Jaiyana",
     "gender": "Girl",
     "meaning": "Strength",
@@ -1005,6 +1106,40 @@
       "Bengali": "জল",
       "Indonesian": "Jal",
       "Pashto": "جل"
+    }
+  },
+  {
+    "name": "Jala",
+    "gender": "Girl",
+    "meaning": "Clarity or elucidation",
+    "origin": "Arabic",
+    "id": "ja3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جالا",
+      "Urdu": "جالا",
+      "Persian": "جالا",
+      "Turkish": "Jala",
+      "Bengali": "জালা",
+      "Indonesian": "Jala",
+      "Pashto": "جاله"
+    }
+  },
+  {
+    "name": "Jalaal",
+    "gender": "Boy",
+    "meaning": "Glory or grandeur",
+    "origin": "Arabic",
+    "id": "ja2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جلال",
+      "Urdu": "جلال",
+      "Persian": "جلال",
+      "Turkish": "Celal",
+      "Bengali": "জালাল",
+      "Indonesian": "Jalaal",
+      "Pashto": "جلال"
     }
   },
   {
@@ -1425,6 +1560,14 @@
     }
   },
   {
+    "name": "Jamaldeen",
+    "gender": "Boy",
+    "meaning": "Beauty of the faith",
+    "origin": "Arabic",
+    "id": "ja3",
+    "verified": true
+  },
+  {
     "name": "Jamalooddin",
     "gender": "Boy",
     "meaning": "Beauty of the Faith",
@@ -1478,6 +1621,14 @@
     }
   },
   {
+    "name": "Jamaludin",
+    "gender": "Boy",
+    "meaning": "Beauty of the faith",
+    "origin": "Arabic",
+    "id": "ja4",
+    "verified": true
+  },
+  {
     "name": "Jameel",
     "gender": "Boy",
     "meaning": "Beautiful",
@@ -1510,6 +1661,22 @@
       "Indonesian": "Jameela",
       "Pashto": "جمیله"
     }
+  },
+  {
+    "name": "Jameela Khatoon",
+    "gender": "Girl",
+    "meaning": "Beautiful lady",
+    "origin": "Arabic/Turkic",
+    "id": "ja5",
+    "verified": true
+  },
+  {
+    "name": "Jameelaah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ja6",
+    "verified": true
   },
   {
     "name": "Jameelah",
@@ -1616,6 +1783,39 @@
     }
   },
   {
+    "name": "Jamilahah",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ja9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جميلة",
+      "Urdu": "جمیلہ",
+      "Persian": "جمیله",
+      "Turkish": "Cemilehahah",
+      "Bengali": "জামিলাহ",
+      "Indonesian": "Jamilahah",
+      "Pashto": "جمیله"
+    }
+  },
+  {
+    "name": "Jamilla",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Arabic",
+    "id": "ja7",
+    "verified": true
+  },
+  {
+    "name": "Jamiyah",
+    "gender": "Girl",
+    "meaning": "Gathering, university",
+    "origin": "Arabic",
+    "id": "ja8",
+    "verified": true
+  },
+  {
     "name": "Jamshed",
     "gender": "Boy",
     "meaning": "Shining river",
@@ -1667,6 +1867,40 @@
     }
   },
   {
+    "name": "Janaan",
+    "gender": "Girl",
+    "meaning": "Heart, soul",
+    "origin": "Arabic",
+    "id": "ja10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جنان",
+      "Urdu": "جانان",
+      "Persian": "جانان",
+      "Turkish": "Janaan",
+      "Bengali": "জনান",
+      "Indonesian": "Janaan",
+      "Pashto": "جانان"
+    }
+  },
+  {
+    "name": "Janaanah",
+    "gender": "Girl",
+    "meaning": "Heart, soul",
+    "origin": "Arabic",
+    "id": "ja11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جنانة",
+      "Urdu": "جاناہ",
+      "Persian": "جانانه",
+      "Turkish": "Janaanah",
+      "Bengali": "জনানঃ",
+      "Indonesian": "Janaanah",
+      "Pashto": "جانانه"
+    }
+  },
+  {
     "name": "Janah",
     "gender": "Girl",
     "meaning": "Harvest",
@@ -1699,6 +1933,23 @@
       "Bengali": "জনান",
       "Indonesian": "Janan",
       "Pashto": "جانان"
+    }
+  },
+  {
+    "name": "Janat",
+    "gender": "Girl",
+    "meaning": "Gardens, paradise",
+    "origin": "Arabic",
+    "id": "ja12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جنات",
+      "Urdu": "جنت",
+      "Persian": "جنت",
+      "Turkish": "Janat",
+      "Bengali": "জনাত",
+      "Indonesian": "Janat",
+      "Pashto": "جنت"
     }
   },
   {
@@ -1786,6 +2037,14 @@
       "Indonesian": "Jaoohar",
       "Pashto": "جوهر"
     }
+  },
+  {
+    "name": "Jarah",
+    "gender": "Unisex",
+    "meaning": "Surgeon, healer",
+    "origin": "Arabic",
+    "id": "ja9",
+    "verified": true
   },
   {
     "name": "Jarash",
@@ -1997,6 +2256,14 @@
     }
   },
   {
+    "name": "Jarrah",
+    "gender": "Boy",
+    "meaning": "Surgeon, healer",
+    "origin": "Arabic",
+    "id": "ja10",
+    "verified": true
+  },
+  {
     "name": "Jarrar",
     "gender": "Boy",
     "meaning": "Brave; Huge army",
@@ -2050,6 +2317,40 @@
     }
   },
   {
+    "name": "Jasem",
+    "gender": "Boy",
+    "meaning": "Good health, strong",
+    "origin": "Arabic",
+    "id": "ja13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاسم",
+      "Urdu": "جاسم",
+      "Persian": "جاسم",
+      "Turkish": "Jasem",
+      "Bengali": "জেসেম",
+      "Indonesian": "jasem",
+      "Pashto": "جاسم"
+    }
+  },
+  {
+    "name": "Jaser",
+    "gender": "Boy",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ja14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاسر",
+      "Urdu": "جیسر",
+      "Persian": "جاسر",
+      "Turkish": "Jaser",
+      "Bengali": "জাসের",
+      "Indonesian": "jaser",
+      "Pashto": "جاسر"
+    }
+  },
+  {
     "name": "Jasim",
     "gender": "Boy",
     "meaning": "Strong",
@@ -2064,6 +2365,40 @@
       "Bengali": "জসিম",
       "Indonesian": "jasim",
       "Pashto": "جاسم"
+    }
+  },
+  {
+    "name": "Jasimah",
+    "gender": "Girl",
+    "meaning": "Strong, healthy",
+    "origin": "Arabic",
+    "id": "ja15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جسيمة",
+      "Urdu": "جسیمہ",
+      "Persian": "جاسیمه",
+      "Turkish": "Jasimah",
+      "Bengali": "জসিমাঃ",
+      "Indonesian": "Jasimah",
+      "Pashto": "جاسیمه"
+    }
+  },
+  {
+    "name": "Jasira",
+    "gender": "Girl",
+    "meaning": "Brave",
+    "origin": "Arabic",
+    "id": "ja16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جزيرة",
+      "Urdu": "جسیرہ",
+      "Persian": "جسیرا",
+      "Turkish": "Jasira",
+      "Bengali": "জাসিরা",
+      "Indonesian": "Jasira",
+      "Pashto": "جسیره"
     }
   },
   {
@@ -2155,6 +2490,23 @@
     }
   },
   {
+    "name": "Jasmine",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "id": "ja17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الياسمين",
+      "Urdu": "چمیلی",
+      "Persian": "یاسمن",
+      "Turkish": "Yasemin",
+      "Bengali": "জুঁই",
+      "Indonesian": "Melati",
+      "Pashto": "جیسمین"
+    }
+  },
+  {
     "name": "Jasoor",
     "gender": "Boy",
     "meaning": "Brave",
@@ -2173,6 +2525,23 @@
     }
   },
   {
+    "name": "Jassar",
+    "gender": "Boy",
+    "meaning": "Brave or courageous",
+    "origin": "Arabic",
+    "id": "ja1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جسار",
+      "Urdu": "جسر",
+      "Persian": "جاسر",
+      "Turkish": "Jassar",
+      "Bengali": "জাসার",
+      "Indonesian": "jassar",
+      "Pashto": "جسر"
+    }
+  },
+  {
     "name": "Jasser",
     "gender": "Boy",
     "meaning": "Fearless",
@@ -2187,6 +2556,23 @@
       "Bengali": "জাসের",
       "Indonesian": "jasser",
       "Pashto": "جاسر"
+    }
+  },
+  {
+    "name": "Jassim",
+    "gender": "Boy",
+    "meaning": "Great, huge",
+    "origin": "Arabic",
+    "id": "ja18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاسم",
+      "Urdu": "جاسم",
+      "Persian": "جاسم",
+      "Turkish": "Yasemin",
+      "Bengali": "জসিম",
+      "Indonesian": "jassim",
+      "Pashto": "جاسم"
     }
   },
   {
@@ -2220,6 +2606,23 @@
       "Turkish": "Yauhar",
       "Bengali": "জওহর",
       "Indonesian": "Jauhar",
+      "Pashto": "جوهر"
+    }
+  },
+  {
+    "name": "Jauhara",
+    "gender": "Girl",
+    "meaning": "Jewel, gem",
+    "origin": "Arabic",
+    "id": "ja19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جوهرة",
+      "Urdu": "جوہرا۔",
+      "Persian": "جوهارا",
+      "Turkish": "Jauhara",
+      "Bengali": "জওহারা",
+      "Indonesian": "Jauhara",
       "Pashto": "جوهر"
     }
   },
@@ -2293,6 +2696,14 @@
     }
   },
   {
+    "name": "Javedah",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Persian",
+    "id": "ja11",
+    "verified": true
+  },
+  {
     "name": "Javereea",
     "gender": "Girl",
     "meaning": "Name of Wife of Prophet",
@@ -2346,6 +2757,31 @@
     }
   },
   {
+    "name": "Javid",
+    "gender": "Boy",
+    "meaning": "Eternal, living forever",
+    "origin": "Persian",
+    "id": "ja20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جافيد",
+      "Urdu": "جاوید",
+      "Persian": "جاوید",
+      "Turkish": "Cavid",
+      "Bengali": "জাভিদ",
+      "Indonesian": "Javid",
+      "Pashto": "جاوید"
+    }
+  },
+  {
+    "name": "Javidah",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Persian",
+    "id": "ja12",
+    "verified": true
+  },
+  {
     "name": "Jawad",
     "gender": "Boy",
     "meaning": "Generous",
@@ -2359,6 +2795,23 @@
       "Turkish": "Cevad",
       "Bengali": "জাওয়াদ",
       "Indonesian": "Jawad",
+      "Pashto": "جواد"
+    }
+  },
+  {
+    "name": "Jawadah",
+    "gender": "Girl",
+    "meaning": "Generous, liberal",
+    "origin": "Arabic",
+    "id": "ja21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جوادة",
+      "Urdu": "جواد",
+      "Persian": "جواده",
+      "Turkish": "Cevade",
+      "Bengali": "জাওয়াদাহ",
+      "Indonesian": "Jawadah",
       "Pashto": "جواد"
     }
   },
@@ -2415,6 +2868,22 @@
     }
   },
   {
+    "name": "Jawahira",
+    "gender": "Girl",
+    "meaning": "Jewels, gems",
+    "origin": "Arabic",
+    "id": "ja13",
+    "verified": true
+  },
+  {
+    "name": "Jawairiah",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ja14",
+    "verified": true
+  },
+  {
     "name": "Jawareea",
     "gender": "Girl",
     "meaning": "Bringer of happiness",
@@ -2468,6 +2937,23 @@
     }
   },
   {
+    "name": "Jawdah",
+    "gender": "Girl",
+    "meaning": "Excellence, high quality",
+    "origin": "Arabic",
+    "id": "ja22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جودة",
+      "Urdu": "جودہ",
+      "Persian": "جوده",
+      "Turkish": "Cevde",
+      "Bengali": "জাওদাহ",
+      "Indonesian": "Jawadah",
+      "Pashto": "جوده"
+    }
+  },
+  {
     "name": "Jawdan",
     "gender": "Boy",
     "meaning": "Goodness",
@@ -2500,6 +2986,65 @@
       "Indonesian": "Jawdat",
       "Pashto": "جوادت"
     }
+  },
+  {
+    "name": "Jawed",
+    "gender": "Boy",
+    "meaning": "Eternal, living forever",
+    "origin": "Persian",
+    "id": "ja23",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاويد",
+      "Urdu": "جاوید",
+      "Persian": "فک شده",
+      "Turkish": "Çeneli",
+      "Bengali": "জাভেদ",
+      "Indonesian": "Ternganga",
+      "Pashto": "جاوېد"
+    }
+  },
+  {
+    "name": "Jawedah",
+    "gender": "Girl",
+    "meaning": "Eternal, living forever",
+    "origin": "Persian",
+    "id": "ja24",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جويدة",
+      "Urdu": "جاویدہ",
+      "Persian": "جواده",
+      "Turkish": "Cevdeh",
+      "Bengali": "জাভেদাহ",
+      "Indonesian": "Jawadah",
+      "Pashto": "جاویده"
+    }
+  },
+  {
+    "name": "Jaweed",
+    "gender": "Boy",
+    "meaning": "Eternal, living forever",
+    "origin": "Persian",
+    "id": "ja25",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جاويد",
+      "Urdu": "جاوید",
+      "Persian": "جاوید",
+      "Turkish": "Çeweed",
+      "Bengali": "জাভেদ",
+      "Indonesian": "rahang",
+      "Pashto": "جاوید"
+    }
+  },
+  {
+    "name": "Jaweria",
+    "gender": "Girl",
+    "meaning": "Damask rose",
+    "origin": "Arabic",
+    "id": "ja15",
+    "verified": true
   },
   {
     "name": "Jawf",
@@ -2568,6 +3113,82 @@
       "Bengali": "জওহরাহ",
       "Indonesian": "Jawharah",
       "Pashto": "جوهر"
+    }
+  },
+  {
+    "name": "Jawher",
+    "gender": "Boy",
+    "meaning": "Jewel, gem",
+    "origin": "Arabic",
+    "id": "ja26",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جوهر",
+      "Urdu": "جوہر",
+      "Persian": "جوهر",
+      "Turkish": "Jawher",
+      "Bengali": "জওহের",
+      "Indonesian": "Jawher",
+      "Pashto": "جوهر"
+    }
+  },
+  {
+    "name": "Jawhera",
+    "gender": "Girl",
+    "meaning": "Jewel, gem",
+    "origin": "Arabic",
+    "id": "ja27",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جوهرة",
+      "Urdu": "جویرہ",
+      "Persian": "جوهره",
+      "Turkish": "Cevhera",
+      "Bengali": "জাওহেরা",
+      "Indonesian": "Jawhera",
+      "Pashto": "جوهره"
+    }
+  },
+  {
+    "name": "Jawid",
+    "gender": "Boy",
+    "meaning": "Eternal, living forever",
+    "origin": "Persian",
+    "id": "ja28",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جويد",
+      "Urdu": "جاوید",
+      "Persian": "جاوید",
+      "Turkish": "Javid",
+      "Bengali": "জাভিদ",
+      "Indonesian": "Jawid",
+      "Pashto": "جاوید"
+    }
+  },
+  {
+    "name": "Jawida",
+    "gender": "Girl",
+    "meaning": "Eternal",
+    "origin": "Persian",
+    "id": "ja16",
+    "verified": true
+  },
+  {
+    "name": "Jawwad",
+    "gender": "Boy",
+    "meaning": "Generous, open-handed",
+    "origin": "Arabic",
+    "id": "ja29",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جواد",
+      "Urdu": "جواد",
+      "Persian": "جواد",
+      "Turkish": "Çene",
+      "Bengali": "জাওয়াদ",
+      "Indonesian": "Rahang",
+      "Pashto": "جواد"
     }
   },
   {
@@ -2765,6 +3386,23 @@
     }
   },
   {
+    "name": "Jazia",
+    "gender": "Girl",
+    "meaning": "Reward, compensation",
+    "origin": "Arabic",
+    "id": "ja30",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جازية",
+      "Urdu": "جزیہ",
+      "Persian": "جزیه",
+      "Turkish": "Ceziye",
+      "Bengali": "জাজিয়া",
+      "Indonesian": "Jazia",
+      "Pashto": "جزیه"
+    }
+  },
+  {
     "name": "Jazib",
     "gender": "Boy",
     "meaning": "Attractive",
@@ -2815,6 +3453,14 @@
       "Indonesian": "Jazibah",
       "Pashto": "جایزبه"
     }
+  },
+  {
+    "name": "Jazim",
+    "gender": "Boy",
+    "meaning": "Determined, decisive",
+    "origin": "Arabic",
+    "id": "ja17",
+    "verified": true
   },
   {
     "name": "Jazira",
@@ -2884,6 +3530,23 @@
       "Bengali": "জাযিয়াহ",
       "Indonesian": "Jaziyah",
       "Pashto": "جزیه"
+    }
+  },
+  {
+    "name": "Jazmin",
+    "gender": "Girl",
+    "meaning": "Jasmine flower",
+    "origin": "Persian",
+    "id": "ja31",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جازمين",
+      "Urdu": "جازمین",
+      "Persian": "جازمین",
+      "Turkish": "Jazmin",
+      "Bengali": "জাজমিন",
+      "Indonesian": "Jazmin",
+      "Pashto": "جازمین"
     }
   },
   {
@@ -3311,6 +3974,14 @@
     }
   },
   {
+    "name": "Jenab",
+    "gender": "Unisex",
+    "meaning": "Title of respect, majesty",
+    "origin": "Persian/Arabic",
+    "id": "je1",
+    "verified": true
+  },
+  {
     "name": "Jenah",
     "gender": "Girl",
     "meaning": "Paradise",
@@ -3503,6 +4174,14 @@
     }
   },
   {
+    "name": "Jibrael",
+    "gender": "Boy",
+    "meaning": "Angel Gabriel",
+    "origin": "Arabic",
+    "id": "ji1",
+    "verified": true
+  },
+  {
     "name": "Jibran",
     "gender": "Boy",
     "meaning": "Reward",
@@ -3602,6 +4281,23 @@
       "Bengali": "জিহান",
       "Indonesian": "Jihan",
       "Pashto": "جهان"
+    }
+  },
+  {
+    "name": "Jihane",
+    "gender": "Girl",
+    "meaning": "Universe, world",
+    "origin": "Persian",
+    "id": "ji1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "جيهان",
+      "Urdu": "جیہنے",
+      "Persian": "جیهان",
+      "Turkish": "Cihane",
+      "Bengali": "জিহানে",
+      "Indonesian": "Jihane",
+      "Pashto": "جهاني"
     }
   },
   {
@@ -4364,6 +5060,14 @@
     }
   },
   {
+    "name": "Joumana",
+    "gender": "Girl",
+    "meaning": "Silver pearl",
+    "origin": "Arabic",
+    "id": "jo1",
+    "verified": true
+  },
+  {
     "name": "Jubaeel",
     "gender": "Boy",
     "meaning": "Small mountain; City in KSA",
@@ -4432,6 +5136,14 @@
       "Indonesian": "Jubair",
       "Pashto": "جبیر"
     }
+  },
+  {
+    "name": "Jubayer",
+    "gender": "Boy",
+    "meaning": "Mender, consoler",
+    "origin": "Arabic",
+    "id": "ju1",
+    "verified": true
   },
   {
     "name": "Jud",
@@ -4622,6 +5334,14 @@
       "Indonesian": "Jumanah",
       "Pashto": "جمعه"
     }
+  },
+  {
+    "name": "Jumma",
+    "gender": "Unisex",
+    "meaning": "Friday, congregation",
+    "origin": "Arabic",
+    "id": "ju2",
+    "verified": true
   },
   {
     "name": "Jumoke",

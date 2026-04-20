@@ -1,5 +1,13 @@
 [
   {
+    "name": "Xanthe",
+    "gender": "Girl",
+    "meaning": "Golden, yellow",
+    "origin": "Greek",
+    "id": "xa1",
+    "verified": true
+  },
+  {
     "name": "Xasan",
     "gender": "Boy",
     "meaning": "Handsome",

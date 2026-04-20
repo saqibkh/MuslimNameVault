@@ -278,6 +278,23 @@
     }
   },
   {
+    "name": "Aabida",
+    "gender": "Girl",
+    "meaning": "Worshipper or devoted",
+    "origin": "Arabic",
+    "id": "aa1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيدة",
+      "Urdu": "عابدہ",
+      "Persian": "ابیدا",
+      "Turkish": "Aabida",
+      "Bengali": "আবিদা",
+      "Indonesian": "Aabida",
+      "Pashto": "عابده"
+    }
+  },
+  {
     "id": "aa4",
     "name": "Aabidah",
     "transliteration": "‘Ābidah",
@@ -2427,6 +2444,14 @@
     }
   },
   {
+    "name": "Aalima",
+    "gender": "Girl",
+    "meaning": "Scholar, learned woman",
+    "origin": "Arabic",
+    "id": "aa1",
+    "verified": true
+  },
+  {
     "id": "aa45",
     "name": "Aalimah",
     "transliteration": "‘Ālimah",
@@ -4140,6 +4165,23 @@
     }
   },
   {
+    "name": "Aasma",
+    "gender": "Girl",
+    "meaning": "Excellent, precious",
+    "origin": "Arabic",
+    "id": "aa2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسماء",
+      "Urdu": "عاصمہ",
+      "Persian": "آسما",
+      "Turkish": "Aasma",
+      "Bengali": "আসমা",
+      "Indonesian": "Aasma",
+      "Pashto": "اسما"
+    }
+  },
+  {
     "id": "aa78",
     "name": "Aasmaa",
     "transliteration": "Asmā’",
@@ -5357,6 +5399,74 @@
     }
   },
   {
+    "name": "Abdalah",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالله",
+      "Urdu": "عبد اللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdalah",
+      "Bengali": "আবদালাহ",
+      "Indonesian": "Abdalah",
+      "Pashto": "عبدالله"
+    }
+  },
+  {
+    "name": "Abdalla",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الله",
+      "Urdu": "عبد اللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdullah",
+      "Bengali": "আবদাল্লা",
+      "Indonesian": "Abdullah",
+      "Pashto": "عبدالله"
+    }
+  },
+  {
+    "name": "Abdallah",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالله",
+      "Urdu": "عبداللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdullah",
+      "Bengali": "আবদুল্লাহ",
+      "Indonesian": "Abdallah",
+      "Pashto": "عبدالله"
+    }
+  },
+  {
+    "name": "Abdalrahman",
+    "gender": "Boy",
+    "meaning": "Servant of the Merciful",
+    "origin": "Arabic",
+    "id": "ab4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالرحمن",
+      "Urdu": "عبدالرحمن",
+      "Persian": "عبدالرحمن",
+      "Turkish": "Abdalrahman",
+      "Bengali": "আবদালরহমান",
+      "Indonesian": "Abdalrahman",
+      "Pashto": "عبدالرحمن"
+    }
+  },
+  {
     "id": "ab52_var",
     "name": "Abdee",
     "transliteration": "‘Abdī",
@@ -5446,6 +5556,40 @@
     }
   },
   {
+    "name": "Abdelmalek",
+    "gender": "Boy",
+    "meaning": "Servant of the King",
+    "origin": "Arabic",
+    "id": "ab5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الملك",
+      "Urdu": "عبدالملک",
+      "Persian": "عبدالمالک",
+      "Turkish": "Abdelmalek",
+      "Bengali": "আবদেলমালেক",
+      "Indonesian": "Abdelmalek",
+      "Pashto": "عبدالملک"
+    }
+  },
+  {
+    "name": "Abdelrahman",
+    "gender": "Boy",
+    "meaning": "Servant of the Merciful",
+    "origin": "Arabic",
+    "id": "ab6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الرحمن",
+      "Urdu": "عبدالرحمن",
+      "Persian": "عبدالرحمن",
+      "Turkish": "Abdurrahman",
+      "Bengali": "আবদেলরহমান",
+      "Indonesian": "Abdelrahman",
+      "Pashto": "عبدالرحمن"
+    }
+  },
+  {
     "id": "ab52",
     "name": "Abdi",
     "transliteration": "‘Abdī",
@@ -5483,6 +5627,23 @@
       "Bengali": "আবদির রহমান",
       "Indonesian": "Abdirahman",
       "Pashto": "عبدالرحمن"
+    }
+  },
+  {
+    "name": "Abdirizak",
+    "gender": "Boy",
+    "meaning": "Servant of the Provider",
+    "origin": "Arabic",
+    "id": "ab7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الرزاق",
+      "Urdu": "عبدریزاک",
+      "Persian": "آبدیریزک",
+      "Turkish": "Abdirizak",
+      "Bengali": "আবদিরিজাক",
+      "Indonesian": "Abdirizak",
+      "Pashto": "عبدالرزاق"
     }
   },
   {
@@ -8175,6 +8336,23 @@
       "Bengali": "আবদু",
       "Indonesian": "Abdu",
       "Pashto": "عبدو"
+    }
+  },
+  {
+    "name": "Abduallah",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالله",
+      "Urdu": "عبداللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdullah",
+      "Bengali": "আবদুল্লাহ",
+      "Indonesian": "Abdullah",
+      "Pashto": "عبدالله"
     }
   },
   {
@@ -11594,6 +11772,116 @@
     }
   },
   {
+    "name": "Abdulatif",
+    "gender": "Boy",
+    "meaning": "Servant of the Gentle",
+    "origin": "Arabic",
+    "id": "ab9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبداللطيف",
+      "Urdu": "عبدالطیف",
+      "Persian": "عبدالطیف",
+      "Turkish": "Abdulatif",
+      "Bengali": "আব্দুলাতিফ",
+      "Indonesian": "Abdulatif",
+      "Pashto": "عبدالطیف"
+    }
+  },
+  {
+    "name": "Abdulazizah",
+    "gender": "Girl",
+    "meaning": "Servant of the Almighty",
+    "origin": "Arabic",
+    "id": "ab10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالعزيزة",
+      "Urdu": "عبدالعزیزہ",
+      "Persian": "عبدالعزیزه",
+      "Turkish": "Abdülazizah",
+      "Bengali": "আব্দুল আজিজাহ",
+      "Indonesian": "Abdulazizah",
+      "Pashto": "عبدالعزیزه"
+    }
+  },
+  {
+    "name": "Abdulelah",
+    "gender": "Boy",
+    "meaning": "Servant of the Deity",
+    "origin": "Arabic",
+    "id": "ab11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الاله",
+      "Urdu": "عبد اللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdulelah",
+      "Bengali": "আবদুল্লাহ",
+      "Indonesian": "Abdullah",
+      "Pashto": "عبد الله"
+    }
+  },
+  {
+    "name": "Abdulgafar",
+    "gender": "Boy",
+    "meaning": "Servant of the Forgiver",
+    "origin": "Arabic",
+    "id": "ab12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الغفار",
+      "Urdu": "عبدالغفار",
+      "Persian": "عبدالغفر",
+      "Turkish": "Abdülgafar",
+      "Bengali": "আব্দুলগাফর",
+      "Indonesian": "Abdulgafar",
+      "Pashto": "عبدالغفار"
+    }
+  },
+  {
+    "name": "Abdulilah",
+    "gender": "Boy",
+    "meaning": "Servant of the Deity",
+    "origin": "Arabic",
+    "id": "ab13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الإله",
+      "Urdu": "عبد اللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdulilah",
+      "Bengali": "আবদুলিল্লাহ",
+      "Indonesian": "Abdulilah",
+      "Pashto": "عبد الله"
+    }
+  },
+  {
+    "name": "Abduljabar",
+    "gender": "Boy",
+    "meaning": "Servant of the Compeller",
+    "origin": "Arabic",
+    "id": "ab1",
+    "verified": true
+  },
+  {
+    "name": "Abdulla",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالله",
+      "Urdu": "عبداللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdullah",
+      "Bengali": "আবদুল্লাহ",
+      "Indonesian": "Abdullah",
+      "Pashto": "عبدالله"
+    }
+  },
+  {
     "id": "ab54",
     "name": "Abdullah",
     "transliteration": "‘Abd Allāh",
@@ -11614,6 +11902,124 @@
       "Bengali": "আবদুল্লাহ",
       "Indonesian": "Abdullah",
       "Pashto": "عبدالله"
+    }
+  },
+  {
+    "name": "Abdullahah",
+    "gender": "Girl",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالله",
+      "Urdu": "عبداللہ",
+      "Persian": "عبدالله",
+      "Turkish": "Abdullahah",
+      "Bengali": "আবদুল্লাহ",
+      "Indonesian": "Abdullahah",
+      "Pashto": "عبدالله"
+    }
+  },
+  {
+    "name": "Abdullahi",
+    "gender": "Boy",
+    "meaning": "Servant of God",
+    "origin": "Arabic",
+    "id": "ab16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبد الله",
+      "Urdu": "عبداللہی",
+      "Persian": "عبداللهی",
+      "Turkish": "Abdullahi",
+      "Bengali": "আবদুল্লাহি",
+      "Indonesian": "Abdullahi",
+      "Pashto": "عبداللهی"
+    }
+  },
+  {
+    "name": "Abdulmomin",
+    "gender": "Boy",
+    "meaning": "Servant of the Giver of Faith",
+    "origin": "Arabic",
+    "id": "ab2",
+    "verified": true
+  },
+  {
+    "name": "Abdulmuhaimin",
+    "gender": "Boy",
+    "meaning": "Servant of the Protector",
+    "origin": "Arabic",
+    "id": "ab3",
+    "verified": true
+  },
+  {
+    "name": "Abdulrahman",
+    "gender": "Boy",
+    "meaning": "Servant of the Merciful",
+    "origin": "Arabic",
+    "id": "ab17",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالرحمن",
+      "Urdu": "عبدالرحمن",
+      "Persian": "عبدالرحمن",
+      "Turkish": "Abdurrahman",
+      "Bengali": "আব্দুর রহমান",
+      "Indonesian": "Abdulrahman",
+      "Pashto": "عبدالرحمن"
+    }
+  },
+  {
+    "name": "Abdulrahmane",
+    "gender": "Boy",
+    "meaning": "Servant of the Merciful",
+    "origin": "Arabic",
+    "id": "ab18",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالرحمن",
+      "Urdu": "عبدالرحمن",
+      "Persian": "عبدالرحمن",
+      "Turkish": "Abdurrahmane",
+      "Bengali": "আব্দুর রহমান",
+      "Indonesian": "Abdulrahmane",
+      "Pashto": "عبدالرحمن"
+    }
+  },
+  {
+    "name": "Abdulrazak",
+    "gender": "Boy",
+    "meaning": "Servant of the Provider",
+    "origin": "Arabic",
+    "id": "ab19",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالرزاق",
+      "Urdu": "عبدالرزاق",
+      "Persian": "عبدالرزاق",
+      "Turkish": "Abdülrazak",
+      "Bengali": "আব্দুলরাজাক",
+      "Indonesian": "Abdulrazak",
+      "Pashto": "عبدالرزاق"
+    }
+  },
+  {
+    "name": "Abdulrehman",
+    "gender": "Boy",
+    "meaning": "Servant of the Merciful",
+    "origin": "Arabic",
+    "id": "ab20",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبدالرحمن",
+      "Urdu": "عبدالرحمن",
+      "Persian": "عبدالرحمن",
+      "Turkish": "Abdurrehman",
+      "Bengali": "আব্দুর রহমান",
+      "Indonesian": "Abdulrahman",
+      "Pashto": "عبدالرحمن"
     }
   },
   {
@@ -12001,6 +12407,23 @@
     }
   },
   {
+    "name": "Abeerah",
+    "gender": "Girl",
+    "meaning": "Fragrance, perfume",
+    "origin": "Arabic",
+    "id": "ab21",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيره",
+      "Urdu": "عبیرہ",
+      "Persian": "عبیره",
+      "Turkish": "Abeerah",
+      "Bengali": "আবিরাহ",
+      "Indonesian": "Abeerah",
+      "Pashto": "عبیره"
+    }
+  },
+  {
     "name": "Abees",
     "gender": "Boy",
     "meaning": "Stern; A Companion",
@@ -12314,6 +12737,23 @@
       "Bengali": "আবির",
       "Indonesian": "Abir",
       "Pashto": "عبیر"
+    }
+  },
+  {
+    "name": "Abirah",
+    "gender": "Girl",
+    "meaning": "Transient, fleeting",
+    "origin": "Arabic",
+    "id": "ab22",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عبيره",
+      "Urdu": "ابیرہ",
+      "Persian": "ابیره",
+      "Turkish": "Abirah",
+      "Bengali": "আবিরাহ",
+      "Indonesian": "Abirah",
+      "Pashto": "ابیره"
     }
   },
   {
@@ -13318,6 +13758,14 @@
     }
   },
   {
+    "name": "Abulhassan",
+    "gender": "Boy",
+    "meaning": "Father of Hassan (the handsome one)",
+    "origin": "Arabic",
+    "id": "ab4",
+    "verified": true
+  },
+  {
     "name": "Abyad",
     "gender": "Boy",
     "meaning": "White",
@@ -14264,6 +14712,23 @@
     }
   },
   {
+    "name": "Adel",
+    "gender": "Boy",
+    "meaning": "Just, fair",
+    "origin": "Arabic",
+    "id": "ad1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عادل",
+      "Urdu": "عدیل",
+      "Persian": "عادل",
+      "Turkish": "Adel",
+      "Bengali": "আদেল",
+      "Indonesian": "Adel",
+      "Pashto": "عادل"
+    }
+  },
+  {
     "id": "ad10",
     "name": "Aden",
     "gender": "Boy",
@@ -14712,6 +15177,31 @@
       "Indonesian": "Adnan",
       "Pashto": "عدنان"
     }
+  },
+  {
+    "name": "Adnanah",
+    "gender": "Girl",
+    "meaning": "Settler",
+    "origin": "Arabic",
+    "id": "ad2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العدنانة",
+      "Urdu": "عدنانہ",
+      "Persian": "عدنانه",
+      "Turkish": "Adnanah",
+      "Bengali": "আদনানঃ",
+      "Indonesian": "Adnanah",
+      "Pashto": "عدنان"
+    }
+  },
+  {
+    "name": "Adnaneh",
+    "gender": "Girl",
+    "meaning": "Settler",
+    "origin": "Arabic",
+    "id": "ad1",
+    "verified": true
   },
   {
     "id": "ad20_var",
@@ -15798,6 +16288,23 @@
     }
   },
   {
+    "name": "Aesha",
+    "gender": "Girl",
+    "meaning": "Alive, living",
+    "origin": "Arabic",
+    "id": "ae1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عائشة",
+      "Urdu": "عائشہ",
+      "Persian": "عایشه",
+      "Turkish": "Aesha",
+      "Bengali": "আয়েশা",
+      "Indonesian": "Aesha",
+      "Pashto": "عایشه"
+    }
+  },
+  {
     "id": "ae8",
     "name": "Aeshah",
     "gender": "Girl",
@@ -15898,6 +16405,23 @@
       "Bengali": "আফাফ",
       "Indonesian": "Afaf",
       "Pashto": "عفاف"
+    }
+  },
+  {
+    "name": "Afafah",
+    "gender": "Girl",
+    "meaning": "Chaste, virtuous",
+    "origin": "Arabic",
+    "id": "af2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عفافه",
+      "Urdu": "عفافہ",
+      "Persian": "عفافه",
+      "Turkish": "Afafah",
+      "Bengali": "আফাফঃ",
+      "Indonesian": "Affah",
+      "Pashto": "عفافه"
     }
   },
   {
@@ -16091,6 +16615,23 @@
       "Bengali": "আফিয়া",
       "Indonesian": "Afeeya",
       "Pashto": "عافيه"
+    }
+  },
+  {
+    "name": "Afet",
+    "gender": "Girl",
+    "meaning": "Enchanting beauty",
+    "origin": "Turkish",
+    "id": "af1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عفت",
+      "Urdu": "افیٹ",
+      "Persian": "آفت",
+      "Turkish": "Afet",
+      "Bengali": "Afet",
+      "Indonesian": "Afet",
+      "Pashto": "افیټ"
     }
   },
   {
@@ -16315,6 +16856,23 @@
       "Bengali": "আফনান",
       "Indonesian": "Afnan",
       "Pashto": "افنان"
+    }
+  },
+  {
+    "name": "Afnanah",
+    "gender": "Girl",
+    "meaning": "Branches, twigs",
+    "origin": "Arabic",
+    "id": "af3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أفنانة",
+      "Urdu": "افنانہ",
+      "Persian": "افنانه",
+      "Turkish": "Afnana",
+      "Bengali": "আফনানঃ",
+      "Indonesian": "Afnanah",
+      "Pashto": "افنانه"
     }
   },
   {
@@ -16555,6 +17113,23 @@
       "Bengali": "আফশান",
       "Indonesian": "Afshan",
       "Pashto": "افشان"
+    }
+  },
+  {
+    "name": "Afshin",
+    "gender": "Boy",
+    "meaning": "Shining star",
+    "origin": "Persian",
+    "id": "af4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أفشين",
+      "Urdu": "افشین",
+      "Persian": "افشین",
+      "Turkish": "Afşin",
+      "Bengali": "আফশিন",
+      "Indonesian": "Afshin",
+      "Pashto": "افشین"
     }
   },
   {
@@ -17286,6 +17861,48 @@
     }
   },
   {
+    "name": "Ahmadah",
+    "gender": "Girl",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدة",
+      "Urdu": "احمدہ",
+      "Persian": "احمده",
+      "Turkish": "Ahmede",
+      "Bengali": "আহমাদ",
+      "Indonesian": "Ahmadah",
+      "Pashto": "احمده"
+    }
+  },
+  {
+    "name": "Ahmadi",
+    "gender": "Boy",
+    "meaning": "Of Ahmad, praiseworthy",
+    "origin": "Arabic",
+    "id": "ah3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الاحمدي",
+      "Urdu": "احمدی",
+      "Persian": "احمدی",
+      "Turkish": "Ahmedi",
+      "Bengali": "আহমদী",
+      "Indonesian": "Ahmadi",
+      "Pashto": "احمدي"
+    }
+  },
+  {
+    "name": "Ahmadiyah",
+    "gender": "Girl",
+    "meaning": "Praiseworthy",
+    "origin": "Arabic",
+    "id": "ah1",
+    "verified": true
+  },
+  {
     "id": "ah22_var",
     "name": "Ahmadoollah",
     "gender": "Boy",
@@ -17355,6 +17972,226 @@
     }
   },
   {
+    "name": "Ahmed Shahid",
+    "gender": "Boy",
+    "meaning": "Praised witness",
+    "origin": "Arabic",
+    "id": "ah2",
+    "verified": true
+  },
+  {
+    "name": "Ahmeda",
+    "gender": "Girl",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدة",
+      "Urdu": "احمدہ",
+      "Persian": "احمدا",
+      "Turkish": "Ahmeda",
+      "Bengali": "আহমেদা",
+      "Indonesian": "Ahmeda",
+      "Pashto": "احمده"
+    }
+  },
+  {
+    "name": "Ahmedabad",
+    "gender": "Boy",
+    "meaning": "City of Ahmed",
+    "origin": "Persian/Arabic",
+    "id": "ah3",
+    "verified": true
+  },
+  {
+    "name": "Ahmedah",
+    "gender": "Girl",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أحمدة",
+      "Urdu": "احمدہ",
+      "Persian": "احمده",
+      "Turkish": "Ahmedah",
+      "Bengali": "আহমেদঃ",
+      "Indonesian": "Ahmedah",
+      "Pashto": "احمده"
+    }
+  },
+  {
+    "name": "Ahmedallah",
+    "gender": "Boy",
+    "meaning": "Praise of God",
+    "origin": "Arabic",
+    "id": "ah6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدالله",
+      "Urdu": "احمد اللہ",
+      "Persian": "احمدالله",
+      "Turkish": "Ahmedallah",
+      "Bengali": "আহমদআল্লাহ",
+      "Indonesian": "Ahmedallah",
+      "Pashto": "احمدالله"
+    }
+  },
+  {
+    "name": "Ahmede",
+    "gender": "Boy",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أحمدي",
+      "Urdu": "احمدے",
+      "Persian": "احمده",
+      "Turkish": "Ahmede",
+      "Bengali": "আহমেদ",
+      "Indonesian": "Ahmede",
+      "Pashto": "احمدي"
+    }
+  },
+  {
+    "name": "Ahmedin",
+    "gender": "Boy",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدين",
+      "Urdu": "احمدین",
+      "Persian": "احمدین",
+      "Turkish": "Ahmedin",
+      "Bengali": "আহমেদিন",
+      "Indonesian": "Ahmedin",
+      "Pashto": "احمدین"
+    }
+  },
+  {
+    "name": "Ahmedina",
+    "gender": "Girl",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدينا",
+      "Urdu": "احمدینہ",
+      "Persian": "احمدینا",
+      "Turkish": "Ahmedina",
+      "Bengali": "আহমেদিনা",
+      "Indonesian": "Ahmadina",
+      "Pashto": "احمدينې"
+    }
+  },
+  {
+    "name": "Ahmedine",
+    "gender": "Girl",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الأحمدين",
+      "Urdu": "احمدین",
+      "Persian": "احمدین",
+      "Turkish": "Ahmedine",
+      "Bengali": "আহমেদিন",
+      "Indonesian": "Ahmedin",
+      "Pashto": "احمدین"
+    }
+  },
+  {
+    "name": "Ahmedinejad",
+    "gender": "Boy",
+    "meaning": "Of the praiseworthy race",
+    "origin": "Persian",
+    "id": "ah11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أحمدي نجاد",
+      "Urdu": "احمدی نژاد",
+      "Persian": "احمدی نژاد",
+      "Turkish": "Ahmedinejad",
+      "Bengali": "আহমেদিনেজাদ",
+      "Indonesian": "Ahmadinejad",
+      "Pashto": "احمدي نژاد"
+    }
+  },
+  {
+    "name": "Ahmedinezhad",
+    "gender": "Boy",
+    "meaning": "Of the praiseworthy race",
+    "origin": "Persian",
+    "id": "ah12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أحمدي نجاد",
+      "Urdu": "احمدی نژاد",
+      "Persian": "احمدی نژاد",
+      "Turkish": "Ahmedinezhad",
+      "Bengali": "আহমেদিনেজহাদ",
+      "Indonesian": "Ahmedinezhad",
+      "Pashto": "احمدي نژاد"
+    }
+  },
+  {
+    "name": "Ahmednur",
+    "gender": "Boy",
+    "meaning": "Light of Ahmad",
+    "origin": "Arabic",
+    "id": "ah13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدنور",
+      "Urdu": "احمدنور",
+      "Persian": "احمدنور",
+      "Turkish": "Ahmednur",
+      "Bengali": "আহমেদনুর",
+      "Indonesian": "Ahmednur",
+      "Pashto": "احمدنور"
+    }
+  },
+  {
+    "name": "Ahmedou",
+    "gender": "Boy",
+    "meaning": "Highly praised",
+    "origin": "Arabic",
+    "id": "ah14",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدو",
+      "Urdu": "احمدو",
+      "Persian": "احمدو",
+      "Turkish": "Ahmedou",
+      "Bengali": "আহমেদু",
+      "Indonesian": "Ahmedou",
+      "Pashto": "احمدو"
+    }
+  },
+  {
+    "name": "Ahmedullah",
+    "gender": "Boy",
+    "meaning": "Praise of God",
+    "origin": "Arabic",
+    "id": "ah15",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احمدالله",
+      "Urdu": "احمد اللہ",
+      "Persian": "احمدالله",
+      "Turkish": "Ahmedullah",
+      "Bengali": "আহমেদুল্লাহ",
+      "Indonesian": "Ahmadullah",
+      "Pashto": "احمدالله"
+    }
+  },
+  {
     "id": "ah10",
     "name": "Ahmer",
     "gender": "Boy",
@@ -17370,6 +18207,14 @@
       "Indonesian": "Ahmer",
       "Pashto": "احمر"
     }
+  },
+  {
+    "name": "Ahmida",
+    "gender": "Girl",
+    "meaning": "Praised",
+    "origin": "Arabic",
+    "id": "ah4",
+    "verified": true
   },
   {
     "id": "ah23",
@@ -17563,6 +18408,14 @@
     }
   },
   {
+    "name": "Ahsanuddin",
+    "gender": "Boy",
+    "meaning": "Excellence of the faith",
+    "origin": "Arabic",
+    "id": "ah5",
+    "verified": true
+  },
+  {
     "id": "ah13",
     "name": "Ahsanul",
     "gender": "Boy",
@@ -17577,6 +18430,23 @@
       "Bengali": "আহসানুল",
       "Indonesian": "Ahsanul",
       "Pashto": "احسنول"
+    }
+  },
+  {
+    "name": "Ahsen",
+    "gender": "Boy",
+    "meaning": "The best, most beautiful",
+    "origin": "Arabic",
+    "id": "ah16",
+    "verified": true,
+    "spellings": {
+      "Arabic": "احسن",
+      "Urdu": "احسن",
+      "Persian": "احسن",
+      "Turkish": "Ahsen",
+      "Bengali": "আহসেন",
+      "Indonesian": "Ahsen",
+      "Pashto": "احسن"
     }
   },
   {
@@ -17612,6 +18482,23 @@
       "Bengali": "আহতিশাম",
       "Indonesian": "Ahtisham",
       "Pashto": "احتشام"
+    }
+  },
+  {
+    "name": "Ahu",
+    "gender": "Girl",
+    "meaning": "Beautiful eyes or gazelle",
+    "origin": "Turkish/Persian",
+    "id": "ah1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أهو",
+      "Urdu": "آہو",
+      "Persian": "آهو",
+      "Turkish": "Ahu",
+      "Bengali": "আহু",
+      "Indonesian": "Ahu",
+      "Pashto": "آهو"
     }
   },
   {
@@ -18009,6 +18896,14 @@
     }
   },
   {
+    "name": "Ainatul",
+    "gender": "Girl",
+    "meaning": "Eyes of",
+    "origin": "Arabic",
+    "id": "ai1",
+    "verified": true
+  },
+  {
     "id": "ai11",
     "name": "Aini",
     "gender": "Girl",
@@ -18093,6 +18988,48 @@
       "Bengali": "আইনুল",
       "Indonesian": "Ainul",
       "Pashto": "عینول"
+    }
+  },
+  {
+    "name": "Ainun",
+    "gender": "Girl",
+    "meaning": "Eyes",
+    "origin": "Arabic",
+    "id": "ai1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عينون",
+      "Urdu": "عینون",
+      "Persian": "عینون",
+      "Turkish": "Aynun",
+      "Bengali": "আইনুন",
+      "Indonesian": "Ainun",
+      "Pashto": "عینون"
+    }
+  },
+  {
+    "name": "Ainunnabeha",
+    "gender": "Girl",
+    "meaning": "Eyes of the vigilant",
+    "origin": "Arabic",
+    "id": "ai2",
+    "verified": true
+  },
+  {
+    "name": "Ainur",
+    "gender": "Girl",
+    "meaning": "Light of the eyes",
+    "origin": "Arabic",
+    "id": "ai2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اينور",
+      "Urdu": "عینور",
+      "Persian": "آینور",
+      "Turkish": "Aynur",
+      "Bengali": "আইনুর",
+      "Indonesian": "Ainur",
+      "Pashto": "عینور"
     }
   },
   {
@@ -18287,6 +19224,14 @@
     }
   },
   {
+    "name": "Aishaah",
+    "gender": "Girl",
+    "meaning": "Alive, living",
+    "origin": "Arabic",
+    "id": "ai3",
+    "verified": true
+  },
+  {
     "id": "ai20",
     "name": "Aishah",
     "gender": "Girl",
@@ -18302,6 +19247,31 @@
       "Indonesian": "Aisyah",
       "Pashto": "عایشه"
     }
+  },
+  {
+    "name": "Aishatou",
+    "gender": "Girl",
+    "meaning": "Alive, living",
+    "origin": "Arabic",
+    "id": "ai3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عايشاتو",
+      "Urdu": "عائشہتو",
+      "Persian": "آیشاتو",
+      "Turkish": "Aishatou",
+      "Bengali": "আইশাতু",
+      "Indonesian": "Aishatou",
+      "Pashto": "عائشاتو"
+    }
+  },
+  {
+    "name": "Aishwarya",
+    "gender": "Girl",
+    "meaning": "Prosperity, wealth",
+    "origin": "Sanskrit",
+    "id": "ai4",
+    "verified": true
   },
   {
     "name": "Aisyah",
@@ -18338,6 +19308,14 @@
     }
   },
   {
+    "name": "Aiyaan",
+    "gender": "Boy",
+    "meaning": "Gift of God, era",
+    "origin": "Arabic",
+    "id": "ai5",
+    "verified": true
+  },
+  {
     "id": "ai21_var",
     "name": "Aiyah",
     "gender": "Girl",
@@ -18370,6 +19348,40 @@
       "Bengali": "আইয়াজ",
       "Indonesian": "Aiyaz",
       "Pashto": "ایاز"
+    }
+  },
+  {
+    "name": "Aiyda",
+    "gender": "Girl",
+    "meaning": "Returning, visitor",
+    "origin": "Arabic",
+    "id": "ai4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عايدة",
+      "Urdu": "آئیڈا",
+      "Persian": "آیدا",
+      "Turkish": "Aiyda",
+      "Bengali": "আইয়দা",
+      "Indonesian": "Aiida",
+      "Pashto": "آییدا"
+    }
+  },
+  {
+    "name": "Aiyub",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Job)",
+    "origin": "Arabic",
+    "id": "ai5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أيوب",
+      "Urdu": "ایوب",
+      "Persian": "ایوب",
+      "Turkish": "Eyyub",
+      "Bengali": "আইয়ুব",
+      "Indonesian": "Aiyub",
+      "Pashto": "ایوب"
     }
   },
   {
@@ -18456,6 +19468,14 @@
       "Indonesian": "Aizaz",
       "Pashto": "اعزاز"
     }
+  },
+  {
+    "name": "Ajab",
+    "gender": "Unisex",
+    "meaning": "Wonder, marvel",
+    "origin": "Arabic",
+    "id": "aj1",
+    "verified": true
   },
   {
     "id": "aj1_var",
@@ -19082,6 +20102,31 @@
     }
   },
   {
+    "name": "Akbaruddin",
+    "gender": "Boy",
+    "meaning": "Greatest of the faith",
+    "origin": "Arabic",
+    "id": "ak1",
+    "verified": true
+  },
+  {
+    "name": "Akber",
+    "gender": "Boy",
+    "meaning": "Greatest",
+    "origin": "Arabic",
+    "id": "ak1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أكبر",
+      "Urdu": "اکبر",
+      "Persian": "اکبر",
+      "Turkish": "Ekber",
+      "Bengali": "আকবর",
+      "Indonesian": "Akber",
+      "Pashto": "اکبر"
+    }
+  },
+  {
     "name": "Akeef",
     "gender": "Boy",
     "meaning": "Attached; Devoted",
@@ -19223,6 +20268,22 @@
     }
   },
   {
+    "name": "Akhlaque",
+    "gender": "Boy",
+    "meaning": "Good manners, morals",
+    "origin": "Arabic",
+    "id": "ak2",
+    "verified": true
+  },
+  {
+    "name": "Akhlas",
+    "gender": "Boy",
+    "meaning": "Sincerity, purity",
+    "origin": "Arabic",
+    "id": "ak3",
+    "verified": true
+  },
+  {
     "name": "Akhtar",
     "gender": "Boy",
     "meaning": "Star",
@@ -19324,6 +20385,14 @@
       "Indonesian": "Akil",
       "Pashto": "اکیل"
     }
+  },
+  {
+    "name": "Akila",
+    "gender": "Girl",
+    "meaning": "Wise, intelligent",
+    "origin": "Arabic",
+    "id": "ak4",
+    "verified": true
   },
   {
     "name": "Akilah",
@@ -19448,6 +20517,23 @@
     }
   },
   {
+    "name": "Aklima",
+    "gender": "Girl",
+    "meaning": "Step-sister of Cain and Abel",
+    "origin": "Arabic",
+    "id": "ak2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أكليما",
+      "Urdu": "اکلیمہ",
+      "Persian": "آکلیما",
+      "Turkish": "İklima",
+      "Bengali": "আকলিমা",
+      "Indonesian": "Aklima",
+      "Pashto": "اکلیما"
+    }
+  },
+  {
     "name": "Akmal",
     "gender": "Boy",
     "meaning": "Perfect",
@@ -19479,6 +20565,23 @@
       "Bengali": "আকরাম",
       "Indonesian": "Akram",
       "Pashto": "اکرم"
+    }
+  },
+  {
+    "name": "Akrama",
+    "gender": "Boy",
+    "meaning": "More generous",
+    "origin": "Arabic",
+    "id": "ak3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عكرمة",
+      "Urdu": "اکراما۔",
+      "Persian": "اکراما",
+      "Turkish": "Akrama",
+      "Bengali": "আকরাম",
+      "Indonesian": "Akrama",
+      "Pashto": "اکرامه"
     }
   },
   {
@@ -19637,6 +20740,23 @@
     }
   },
   {
+    "name": "Alaa",
+    "gender": "Unisex",
+    "meaning": "Excellence, elevation",
+    "origin": "Arabic",
+    "id": "al1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علاء",
+      "Urdu": "الا",
+      "Persian": "علا",
+      "Turkish": "Alaa",
+      "Bengali": "আলা",
+      "Indonesian": "Alaa",
+      "Pashto": "الا"
+    }
+  },
+  {
     "id": "al2_var",
     "name": "Aladdeen",
     "gender": "Boy",
@@ -19672,6 +20792,23 @@
     }
   },
   {
+    "name": "Alaeddin",
+    "gender": "Boy",
+    "meaning": "Nobility of faith",
+    "origin": "Arabic",
+    "id": "al2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علاء الدين",
+      "Urdu": "علاء الدین",
+      "Persian": "علاءالدین",
+      "Turkish": "Alaeddin",
+      "Bengali": "আলাউদ্দিন",
+      "Indonesian": "Alaeddin",
+      "Pashto": "علاءالدین"
+    }
+  },
+  {
     "id": "al1_var",
     "name": "Alah",
     "gender": "Boy",
@@ -19687,6 +20824,23 @@
       "Bengali": "আলাহ",
       "Indonesian": "Alah",
       "Pashto": "الله"
+    }
+  },
+  {
+    "name": "Alaia",
+    "gender": "Girl",
+    "meaning": "Sublime, elevated",
+    "origin": "Arabic",
+    "id": "al3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علياء",
+      "Urdu": "عالیہ",
+      "Persian": "علایا",
+      "Turkish": "Alaia",
+      "Bengali": "আলেয়া",
+      "Indonesian": "Alaia",
+      "Pashto": "الیا"
     }
   },
   {
@@ -19756,6 +20910,56 @@
       "Bengali": "আলমগীর",
       "Indonesian": "Alamgir",
       "Pashto": "عالمګير"
+    }
+  },
+  {
+    "name": "Alamia",
+    "gender": "Girl",
+    "meaning": "Worldly, universe",
+    "origin": "Arabic",
+    "id": "al1",
+    "verified": true
+  },
+  {
+    "name": "Alamoudi",
+    "gender": "Boy",
+    "meaning": "From Al Amoud",
+    "origin": "Arabic",
+    "id": "al4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العمودي",
+      "Urdu": "عالمودی",
+      "Persian": "علامودی",
+      "Turkish": "Alamoudi",
+      "Bengali": "আলামাউদি",
+      "Indonesian": "Alamoudi",
+      "Pashto": "علامودي"
+    }
+  },
+  {
+    "name": "Alamoudin",
+    "gender": "Boy",
+    "meaning": "Pillar of the faith",
+    "origin": "Arabic",
+    "id": "al2",
+    "verified": true
+  },
+  {
+    "name": "Alamuddin",
+    "gender": "Boy",
+    "meaning": "Banner of faith",
+    "origin": "Arabic",
+    "id": "al5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علم الدين",
+      "Urdu": "عالم الدین",
+      "Persian": "علم الدین",
+      "Turkish": "Alamuddin",
+      "Bengali": "আলামুদ্দিন",
+      "Indonesian": "Alamuddin",
+      "Pashto": "عالم الدین"
     }
   },
   {
@@ -19897,6 +21101,23 @@
       "Bengali": "আলাউদ্দিন",
       "Indonesian": "Alauddin",
       "Pashto": "علاؤالدین"
+    }
+  },
+  {
+    "name": "Albab",
+    "gender": "Unisex",
+    "meaning": "Minds, intellects",
+    "origin": "Arabic",
+    "id": "al6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الباب",
+      "Urdu": "الباب",
+      "Persian": "آلباب",
+      "Turkish": "Albab",
+      "Bengali": "আলবাব",
+      "Indonesian": "Alba",
+      "Pashto": "الباب"
     }
   },
   {
@@ -20339,6 +21560,14 @@
     }
   },
   {
+    "name": "Ali Hassan",
+    "gender": "Boy",
+    "meaning": "Exalted and handsome",
+    "origin": "Arabic",
+    "id": "al3",
+    "verified": true
+  },
+  {
     "id": "al14",
     "name": "Alia",
     "gender": "Girl",
@@ -20352,6 +21581,23 @@
       "Turkish": "Alia",
       "Bengali": "আলেয়া",
       "Indonesian": "Alia",
+      "Pashto": "علیا"
+    }
+  },
+  {
+    "name": "Aliaa",
+    "gender": "Girl",
+    "meaning": "Exalted, highest social standing",
+    "origin": "Arabic",
+    "id": "al7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علياء",
+      "Urdu": "عالیہ",
+      "Persian": "آلیا",
+      "Turkish": "Aliaa",
+      "Bengali": "আলিয়া",
+      "Indonesian": "Aliaa",
       "Pashto": "علیا"
     }
   },
@@ -20406,6 +21652,14 @@
       "Indonesian": "Alia",
       "Pashto": "عالیه"
     }
+  },
+  {
+    "name": "Alika",
+    "gender": "Girl",
+    "meaning": "Love, beautiful",
+    "origin": "Arabic/African",
+    "id": "al4",
+    "verified": true
   },
   {
     "id": "al16",
@@ -20495,6 +21749,23 @@
     }
   },
   {
+    "name": "Alireza",
+    "gender": "Boy",
+    "meaning": "Ali is satisfied",
+    "origin": "Persian",
+    "id": "al8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "علي رضا",
+      "Urdu": "علیرضا",
+      "Persian": "علیرضا",
+      "Turkish": "Alirıza",
+      "Bengali": "আলিরেজা",
+      "Indonesian": "Alireza",
+      "Pashto": "علیرضا"
+    }
+  },
+  {
     "id": "al9_var",
     "name": "Alisa",
     "gender": "Girl",
@@ -20565,6 +21836,31 @@
     }
   },
   {
+    "name": "Aliya Fatima",
+    "gender": "Girl",
+    "meaning": "Exalted Fatima",
+    "origin": "Arabic",
+    "id": "al5",
+    "verified": true
+  },
+  {
+    "name": "Aliyaan",
+    "gender": "Boy",
+    "meaning": "High, tall",
+    "origin": "Arabic",
+    "id": "al9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عليان",
+      "Urdu": "عالیان",
+      "Persian": "علیان",
+      "Turkish": "Aliyaan",
+      "Bengali": "আলিয়ান",
+      "Indonesian": "Aliaan",
+      "Pashto": "علیان"
+    }
+  },
+  {
     "id": "al19_var",
     "name": "Aliyah",
     "gender": "Girl",
@@ -20579,6 +21875,23 @@
       "Turkish": "Aliya",
       "Bengali": "আলিয়া",
       "Indonesian": "Aliyah",
+      "Pashto": "عالیه"
+    }
+  },
+  {
+    "name": "Aliyahh",
+    "gender": "Girl",
+    "meaning": "High, exalted",
+    "origin": "Arabic",
+    "id": "al10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاليه",
+      "Urdu": "عالیہ",
+      "Persian": "عالیه",
+      "Turkish": "Aliyah",
+      "Bengali": "আলিয়াহহ",
+      "Indonesian": "Aliyahh",
       "Pashto": "عالیه"
     }
   },
@@ -20598,6 +21911,31 @@
       "Indonesian": "Aliyan",
       "Pashto": "علیان"
     }
+  },
+  {
+    "name": "Aliyu",
+    "gender": "Boy",
+    "meaning": "High, exalted",
+    "origin": "Arabic",
+    "id": "al11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عليو",
+      "Urdu": "علیو",
+      "Persian": "علیو",
+      "Turkish": "Aliyu",
+      "Bengali": "আলিউ",
+      "Indonesian": "Aliyu",
+      "Pashto": "علیو"
+    }
+  },
+  {
+    "name": "Aliyuddin",
+    "gender": "Boy",
+    "meaning": "High status of the faith",
+    "origin": "Arabic",
+    "id": "al6",
+    "verified": true
   },
   {
     "id": "al20",
@@ -20683,6 +22021,40 @@
       "Bengali": "আল্লাম",
       "Indonesian": "Baiklah",
       "Pashto": "علامه"
+    }
+  },
+  {
+    "name": "Alma",
+    "gender": "Girl",
+    "meaning": "Apple",
+    "origin": "Turkish",
+    "id": "al12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ألما",
+      "Urdu": "الما",
+      "Persian": "آلما",
+      "Turkish": "Alma",
+      "Bengali": "আলমা",
+      "Indonesian": "Alma",
+      "Pashto": "الما"
+    }
+  },
+  {
+    "name": "Almaaz",
+    "gender": "Girl",
+    "meaning": "Diamond",
+    "origin": "Arabic",
+    "id": "al13",
+    "verified": true,
+    "spellings": {
+      "Arabic": "المعز",
+      "Urdu": "الماز",
+      "Persian": "الماز",
+      "Turkish": "Almaaz",
+      "Bengali": "আলমাজ",
+      "Indonesian": "Almaaz",
+      "Pashto": "الماز"
     }
   },
   {
@@ -21362,6 +22734,23 @@
     }
   },
   {
+    "name": "Amalika",
+    "gender": "Girl",
+    "meaning": "Hopeful",
+    "origin": "Arabic",
+    "id": "am1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عماليقة",
+      "Urdu": "عمالقہ",
+      "Persian": "آمالیکا",
+      "Turkish": "Amalika",
+      "Bengali": "অমালিকা",
+      "Indonesian": "Amalika",
+      "Pashto": "املیکا"
+    }
+  },
+  {
     "name": "Amam",
     "gender": "Boy",
     "meaning": "Safety",
@@ -21515,6 +22904,23 @@
       "Bengali": "আমানুল্লাহ",
       "Indonesian": "Amanullah",
       "Pashto": "امان الله"
+    }
+  },
+  {
+    "name": "Amar",
+    "gender": "Boy",
+    "meaning": "Long life",
+    "origin": "Arabic",
+    "id": "am2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عمار",
+      "Urdu": "عمار",
+      "Persian": "عمار",
+      "Turkish": "Amar",
+      "Bengali": "অমর",
+      "Indonesian": "Amar",
+      "Pashto": "امر"
     }
   },
   {
@@ -21953,6 +23359,14 @@
     }
   },
   {
+    "name": "Amena",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Arabic",
+    "id": "am1",
+    "verified": true
+  },
+  {
     "name": "Amer",
     "gender": "Boy",
     "meaning": "Prince",
@@ -22056,6 +23470,31 @@
     }
   },
   {
+    "name": "Amina Begum",
+    "gender": "Girl",
+    "meaning": "Trustworthy lady",
+    "origin": "Arabic/Turkic",
+    "id": "am2",
+    "verified": true
+  },
+  {
+    "name": "Aminaah",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Arabic",
+    "id": "am3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمينة",
+      "Urdu": "آمنہ",
+      "Persian": "آمنه",
+      "Turkish": "Aminaah",
+      "Bengali": "আমিনাহ",
+      "Indonesian": "Aminah",
+      "Pashto": "آمنه"
+    }
+  },
+  {
     "name": "Aminah",
     "gender": "Girl",
     "meaning": "Trustworthy",
@@ -22068,6 +23507,48 @@
       "Persian": "آمینه",
       "Turkish": "Aminah",
       "Bengali": "আমিনাহ",
+      "Indonesian": "Aminah",
+      "Pashto": "امینه"
+    }
+  },
+  {
+    "name": "Aminaullah",
+    "gender": "Boy",
+    "meaning": "Trust of Allah",
+    "origin": "Arabic",
+    "id": "am3",
+    "verified": true
+  },
+  {
+    "name": "Amine",
+    "gender": "Boy",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Arabic",
+    "id": "am4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمين",
+      "Urdu": "امین",
+      "Persian": "آمین",
+      "Turkish": "Amin",
+      "Bengali": "আমিন",
+      "Indonesian": "Amin",
+      "Pashto": "امین"
+    }
+  },
+  {
+    "name": "Amineh",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Arabic",
+    "id": "am5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمينة",
+      "Urdu": "امینہ",
+      "Persian": "آمینه",
+      "Turkish": "Amine",
+      "Bengali": "আমিনেহ",
       "Indonesian": "Aminah",
       "Pashto": "امینه"
     }
@@ -22160,6 +23641,56 @@
     }
   },
   {
+    "name": "Amirah Bashirah",
+    "gender": "Girl",
+    "meaning": "Princess bringing good news",
+    "origin": "Arabic",
+    "id": "am4",
+    "verified": true
+  },
+  {
+    "name": "Amiruddin",
+    "gender": "Boy",
+    "meaning": "Commander of the faith",
+    "origin": "Arabic",
+    "id": "am6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمير الدين",
+      "Urdu": "امیر الدین",
+      "Persian": "امیرالدین",
+      "Turkish": "Emiruddin",
+      "Bengali": "আমিরুদ্দিন",
+      "Indonesian": "Amiruddin",
+      "Pashto": "امیرالدین"
+    }
+  },
+  {
+    "name": "Amirul",
+    "gender": "Boy",
+    "meaning": "Commander of",
+    "origin": "Arabic",
+    "id": "am5",
+    "verified": true
+  },
+  {
+    "name": "Amirullah",
+    "gender": "Boy",
+    "meaning": "Commander of God",
+    "origin": "Arabic",
+    "id": "am7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمير الله",
+      "Urdu": "امیر اللہ",
+      "Persian": "امیرالله",
+      "Turkish": "Emirullah",
+      "Bengali": "আমিরুল্লাহ",
+      "Indonesian": "Amirullah",
+      "Pashto": "امیرالله"
+    }
+  },
+  {
     "name": "Amjad",
     "gender": "Boy",
     "meaning": "Glorious",
@@ -22173,6 +23704,23 @@
       "Turkish": "Amjad",
       "Bengali": "আমজাদ",
       "Indonesian": "Amjad",
+      "Pashto": "امجد"
+    }
+  },
+  {
+    "name": "Amjed",
+    "gender": "Boy",
+    "meaning": "More glorious",
+    "origin": "Arabic",
+    "id": "am8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "امجد",
+      "Urdu": "امجد",
+      "Persian": "امجد",
+      "Turkish": "Amjed",
+      "Bengali": "আমজেদ",
+      "Indonesian": "Amjed",
       "Pashto": "امجد"
     }
   },
@@ -22211,6 +23759,40 @@
     }
   },
   {
+    "name": "Ammara",
+    "gender": "Girl",
+    "meaning": "One who builds or establishes",
+    "origin": "Arabic",
+    "id": "am9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العمارة",
+      "Urdu": "عمارہ",
+      "Persian": "عماره",
+      "Turkish": "Amara",
+      "Bengali": "আম্মারা",
+      "Indonesian": "Ammara",
+      "Pashto": "عماره"
+    }
+  },
+  {
+    "name": "Ammarah",
+    "gender": "Girl",
+    "meaning": "One who builds or establishes",
+    "origin": "Arabic",
+    "id": "am10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عمارة",
+      "Urdu": "عمارہ",
+      "Persian": "عماره",
+      "Turkish": "Amara",
+      "Bengali": "আম্মারাহ",
+      "Indonesian": "Ammarah",
+      "Pashto": "عماره"
+    }
+  },
+  {
     "name": "Amna",
     "gender": "Girl",
     "meaning": "Peace",
@@ -22243,6 +23825,40 @@
       "Bengali": "আমনাহ",
       "Indonesian": "Amnah",
       "Pashto": "آمنه"
+    }
+  },
+  {
+    "name": "Amnai",
+    "gender": "Girl",
+    "meaning": "Peace, safety",
+    "origin": "Arabic",
+    "id": "am11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمني",
+      "Urdu": "امنائی",
+      "Persian": "آمنای",
+      "Turkish": "Amnai",
+      "Bengali": "আমনাই",
+      "Indonesian": "Amnai",
+      "Pashto": "امنی"
+    }
+  },
+  {
+    "name": "Amneh",
+    "gender": "Girl",
+    "meaning": "Safe, secure",
+    "origin": "Arabic",
+    "id": "am12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آمنة",
+      "Urdu": "آمنہ",
+      "Persian": "آمنه",
+      "Turkish": "Amneh",
+      "Bengali": "আমনেহ",
+      "Indonesian": "Amne",
+      "Pashto": "امنه"
     }
   },
   {
@@ -22402,6 +24018,14 @@
     }
   },
   {
+    "name": "Amyn",
+    "gender": "Boy",
+    "meaning": "Trustworthy, honest",
+    "origin": "Arabic",
+    "id": "am6",
+    "verified": true
+  },
+  {
     "id": "an1",
     "name": "Ana",
     "gender": "Girl",
@@ -22416,6 +24040,57 @@
       "Bengali": "আনা",
       "Indonesian": "Ana",
       "Pashto": "انا"
+    }
+  },
+  {
+    "name": "Anaam",
+    "gender": "Girl",
+    "meaning": "Blessings, gifts",
+    "origin": "Arabic",
+    "id": "an1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أنعام",
+      "Urdu": "انعم",
+      "Persian": "آنام",
+      "Turkish": "Anaam",
+      "Bengali": "আনাম",
+      "Indonesian": "Anaam",
+      "Pashto": "انام"
+    }
+  },
+  {
+    "name": "Anaan",
+    "gender": "Girl",
+    "meaning": "Clouds",
+    "origin": "Arabic",
+    "id": "an2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عنان",
+      "Urdu": "عنان",
+      "Persian": "عنان",
+      "Turkish": "Anaan",
+      "Bengali": "আনান",
+      "Indonesian": "Anaan",
+      "Pashto": "عنان"
+    }
+  },
+  {
+    "name": "Anaas",
+    "gender": "Boy",
+    "meaning": "Friendliness, sociability",
+    "origin": "Arabic",
+    "id": "an3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أنس",
+      "Urdu": "انس",
+      "Persian": "اناس",
+      "Turkish": "Anaas",
+      "Bengali": "আনাস",
+      "Indonesian": "Anaas",
+      "Pashto": "اناس"
     }
   },
   {
@@ -22523,6 +24198,22 @@
       "Indonesian": "Anahid",
       "Pashto": "اناهید"
     }
+  },
+  {
+    "name": "Anaisha",
+    "gender": "Girl",
+    "meaning": "Special, unique",
+    "origin": "Arabic/Indian",
+    "id": "an1",
+    "verified": true
+  },
+  {
+    "name": "Anaissah",
+    "gender": "Girl",
+    "meaning": "Friendly, sociable",
+    "origin": "Arabic",
+    "id": "an2",
+    "verified": true
   },
   {
     "name": "Anam",
@@ -22750,6 +24441,14 @@
     }
   },
   {
+    "name": "Andalusah",
+    "gender": "Girl",
+    "meaning": "From Andalusia",
+    "origin": "Arabic",
+    "id": "an3",
+    "verified": true
+  },
+  {
     "name": "Aneeka",
     "gender": "Girl",
     "meaning": "Graceful",
@@ -22853,6 +24552,14 @@
       "Indonesian": "Aneesah",
       "Pashto": "انیسه"
     }
+  },
+  {
+    "name": "Aneesha",
+    "gender": "Girl",
+    "meaning": "Friendly, good companion",
+    "origin": "Arabic",
+    "id": "an4",
+    "verified": true
   },
   {
     "name": "Anfal",
@@ -23076,6 +24783,23 @@
       "Bengali": "আনিসঃ",
       "Indonesian": "Anisa",
       "Pashto": "انیسه"
+    }
+  },
+  {
+    "name": "Anita",
+    "gender": "Girl",
+    "meaning": "Grace",
+    "origin": "Arabic",
+    "id": "an4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أنيتا",
+      "Urdu": "انیتا",
+      "Persian": "آنیتا",
+      "Turkish": "Anita",
+      "Bengali": "অনিতা",
+      "Indonesian": "Anita",
+      "Pashto": "انیتا"
     }
   },
   {
@@ -24073,6 +25797,23 @@
     }
   },
   {
+    "name": "Arafah",
+    "gender": "Girl",
+    "meaning": "A plain near Mecca",
+    "origin": "Arabic",
+    "id": "ar2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عرفة",
+      "Urdu": "عرفہ",
+      "Persian": "عرفه",
+      "Turkish": "Arafat",
+      "Bengali": "আরাফাহ",
+      "Indonesian": "Arafah",
+      "Pashto": "عرفه"
+    }
+  },
+  {
     "id": "ar3",
     "name": "Arafat",
     "gender": "Boy",
@@ -24701,6 +26442,23 @@
     }
   },
   {
+    "name": "Arfat",
+    "gender": "Boy",
+    "meaning": "A plain near Mecca",
+    "origin": "Arabic",
+    "id": "ar3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عرفات",
+      "Urdu": "عرفات",
+      "Persian": "عرفات",
+      "Turkish": "Arfat",
+      "Bengali": "আরফাত",
+      "Indonesian": "Arfat",
+      "Pashto": "عرفات"
+    }
+  },
+  {
     "id": "ar12",
     "name": "Arham",
     "gender": "Boy",
@@ -24959,6 +26717,23 @@
       "Bengali": "আরিম",
       "Indonesian": "Arim",
       "Pashto": "ارم"
+    }
+  },
+  {
+    "name": "Arin",
+    "gender": "Unisex",
+    "meaning": "Full of joy",
+    "origin": "Arabic",
+    "id": "ar4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أرين",
+      "Urdu": "آرین",
+      "Persian": "آرین",
+      "Turkish": "Arın",
+      "Bengali": "অরিন",
+      "Indonesian": "Arin",
+      "Pashto": "ارین"
     }
   },
   {
@@ -25377,6 +27152,14 @@
     }
   },
   {
+    "name": "Arshadah",
+    "gender": "Girl",
+    "meaning": "Rightly guided",
+    "origin": "Arabic",
+    "id": "ar1",
+    "verified": true
+  },
+  {
     "id": "ar26_var",
     "name": "Arshee",
     "gender": "Girl",
@@ -25462,6 +27245,31 @@
       "Bengali": "আরশিয়াহ",
       "Indonesian": "Arshiah",
       "Pashto": "ارشیه"
+    }
+  },
+  {
+    "name": "Arshiya",
+    "gender": "Girl",
+    "meaning": "Heavenly, divine",
+    "origin": "Persian",
+    "id": "ar2",
+    "verified": true
+  },
+  {
+    "name": "Arslan",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Turkish",
+    "id": "ar1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أرسلان",
+      "Urdu": "ارسلان",
+      "Persian": "ارسلان",
+      "Turkish": "Arslan",
+      "Bengali": "আরসলান",
+      "Indonesian": "Arslan",
+      "Pashto": "ارسلان"
     }
   },
   {
@@ -26022,6 +27830,40 @@
     }
   },
   {
+    "name": "Asem",
+    "gender": "Boy",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "as1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاصم",
+      "Urdu": "عاصم",
+      "Persian": "عاصم",
+      "Turkish": "Asem",
+      "Bengali": "আসেম",
+      "Indonesian": "Asem",
+      "Pashto": "عاصم"
+    }
+  },
+  {
+    "name": "Asemah",
+    "gender": "Girl",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "as2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاصمه",
+      "Urdu": "عاصمہ",
+      "Persian": "آسمه",
+      "Turkish": "Asemah",
+      "Bengali": "আসেমাহ",
+      "Indonesian": "Asema",
+      "Pashto": "عاصمه"
+    }
+  },
+  {
     "id": "as8",
     "name": "Asfa",
     "gender": "Girl",
@@ -26105,6 +27947,23 @@
       "Bengali": "আশ'আথ",
       "Indonesian": "Asy'Ath",
       "Pashto": "اشعث"
+    }
+  },
+  {
+    "name": "Asha",
+    "gender": "Girl",
+    "meaning": "Alive, living",
+    "origin": "Arabic",
+    "id": "as3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آشا",
+      "Urdu": "آشا",
+      "Persian": "آشا",
+      "Turkish": "Aşa",
+      "Bengali": "আশা",
+      "Indonesian": "Asha",
+      "Pashto": "آشا"
     }
   },
   {
@@ -26351,6 +28210,39 @@
     }
   },
   {
+    "name": "Ashraff",
+    "gender": "Boy",
+    "meaning": "Most noble, honorable",
+    "origin": "Arabic",
+    "id": "as1",
+    "verified": true
+  },
+  {
+    "name": "Ashrafi",
+    "gender": "Boy",
+    "meaning": "Noble, honorable",
+    "origin": "Arabic",
+    "id": "as4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اشرفي",
+      "Urdu": "اشرفی",
+      "Persian": "اشرفی",
+      "Turkish": "Eşrefi",
+      "Bengali": "আশরাফি",
+      "Indonesian": "Ashrafi",
+      "Pashto": "اشرفي"
+    }
+  },
+  {
+    "name": "Ashrafuzzaman",
+    "gender": "Boy",
+    "meaning": "Noblest of the age",
+    "origin": "Arabic",
+    "id": "as2",
+    "verified": true
+  },
+  {
     "name": "Ashura",
     "gender": "Girl",
     "meaning": "10th of Muharram",
@@ -26491,6 +28383,14 @@
     }
   },
   {
+    "name": "Asifuddin",
+    "gender": "Boy",
+    "meaning": "Forgiver of the faith",
+    "origin": "Arabic",
+    "id": "as3",
+    "verified": true
+  },
+  {
     "id": "as18",
     "name": "Asil",
     "gender": "Boy",
@@ -26576,6 +28476,14 @@
       "Indonesian": "Asimah",
       "Pashto": "عاصمه"
     }
+  },
+  {
+    "name": "Asimuddin",
+    "gender": "Boy",
+    "meaning": "Defender of the faith",
+    "origin": "Arabic",
+    "id": "as4",
+    "verified": true
   },
   {
     "name": "Asir",
@@ -26716,6 +28624,23 @@
     }
   },
   {
+    "name": "Asmaa",
+    "gender": "Girl",
+    "meaning": "Names, prestige",
+    "origin": "Arabic",
+    "id": "as5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسماء",
+      "Urdu": "اسماء",
+      "Persian": "اسماء",
+      "Turkish": "Esmaa",
+      "Bengali": "আসমা",
+      "Indonesian": "Asmaa",
+      "Pashto": "اسماء"
+    }
+  },
+  {
     "id": "as23_var",
     "name": "Asmah",
     "gender": "Girl",
@@ -26731,6 +28656,23 @@
       "Bengali": "আসমাহ",
       "Indonesian": "Asmah",
       "Pashto": "عاصمه"
+    }
+  },
+  {
+    "name": "Asmahan",
+    "gender": "Girl",
+    "meaning": "Seeker of excellence",
+    "origin": "Arabic",
+    "id": "as6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسمهان",
+      "Urdu": "اسماء",
+      "Persian": "اسماهان",
+      "Turkish": "Asmahan",
+      "Bengali": "আসমাহান",
+      "Indonesian": "Asmahan",
+      "Pashto": "اسمان"
     }
   },
   {
@@ -26785,6 +28727,31 @@
       "Indonesian": "Asmara",
       "Pashto": "اسماره"
     }
+  },
+  {
+    "name": "Asmat",
+    "gender": "Girl",
+    "meaning": "Chastity, purity",
+    "origin": "Arabic",
+    "id": "as7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عصمت",
+      "Urdu": "عصمت",
+      "Persian": "عصمت",
+      "Turkish": "Asmat",
+      "Bengali": "আসমত",
+      "Indonesian": "Asmat",
+      "Pashto": "عصمت"
+    }
+  },
+  {
+    "name": "Asmatullah",
+    "gender": "Boy",
+    "meaning": "Protection of Allah",
+    "origin": "Arabic",
+    "id": "as5",
+    "verified": true
   },
   {
     "name": "Asmaul",
@@ -26922,6 +28889,91 @@
       "Bengali": "আসরি",
       "Indonesian": "Asri",
       "Pashto": "اسری"
+    }
+  },
+  {
+    "name": "Assa",
+    "gender": "Girl",
+    "meaning": "Hope",
+    "origin": "Arabic",
+    "id": "as8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آسا",
+      "Urdu": "آسا",
+      "Persian": "آسا",
+      "Turkish": "Assa",
+      "Bengali": "আসসা",
+      "Indonesian": "Assa",
+      "Pashto": "آسا"
+    }
+  },
+  {
+    "name": "Assa'D",
+    "gender": "Boy",
+    "meaning": "Very happy, fortunate",
+    "origin": "Arabic",
+    "id": "as9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أسعد",
+      "Urdu": "Assa'D",
+      "Persian": "اسعد",
+      "Turkish": "Assa'D",
+      "Bengali": "আসাদ",
+      "Indonesian": "Assa'D",
+      "Pashto": "د"
+    }
+  },
+  {
+    "name": "Assem",
+    "gender": "Boy",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "as10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاصم",
+      "Urdu": "اسسم",
+      "Persian": "Assem",
+      "Turkish": "Montaj",
+      "Bengali": "এসেম",
+      "Indonesian": "berkumpul",
+      "Pashto": "اسسم"
+    }
+  },
+  {
+    "name": "Assia",
+    "gender": "Girl",
+    "meaning": "One who tends to the weak",
+    "origin": "Arabic",
+    "id": "as11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آسيا",
+      "Urdu": "آسیہ",
+      "Persian": "آسیا",
+      "Turkish": "Asya",
+      "Bengali": "আসিয়া",
+      "Indonesian": "Asia",
+      "Pashto": "آسیا"
+    }
+  },
+  {
+    "name": "Assim",
+    "gender": "Boy",
+    "meaning": "Protector, guardian",
+    "origin": "Arabic",
+    "id": "as12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاصم",
+      "Urdu": "اسم",
+      "Persian": "آسیم",
+      "Turkish": "Assim",
+      "Bengali": "আসিম",
+      "Indonesian": "Asim",
+      "Pashto": "اسسیم"
     }
   },
   {
@@ -27345,6 +29397,23 @@
     }
   },
   {
+    "name": "Atef",
+    "gender": "Boy",
+    "meaning": "Sympathetic, affectionate",
+    "origin": "Arabic",
+    "id": "at1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عاطف",
+      "Urdu": "عاطف",
+      "Persian": "عاطف",
+      "Turkish": "Atef",
+      "Bengali": "আতেফ",
+      "Indonesian": "Atef",
+      "Pashto": "عاطف"
+    }
+  },
+  {
     "id": "at7",
     "name": "Athar",
     "gender": "Boy",
@@ -27446,6 +29515,14 @@
       "Indonesian": "Athir",
       "Pashto": "اتمر"
     }
+  },
+  {
+    "name": "Atia",
+    "gender": "Girl",
+    "meaning": "Gift, present",
+    "origin": "Arabic",
+    "id": "at1",
+    "verified": true
   },
   {
     "id": "at4_var",
@@ -28104,6 +30181,23 @@
     }
   },
   {
+    "name": "Awadh",
+    "gender": "Boy",
+    "meaning": "Reward, compensation",
+    "origin": "Arabic",
+    "id": "aw1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عوض",
+      "Urdu": "اودھ",
+      "Persian": "عوض",
+      "Turkish": "Awadh",
+      "Bengali": "অবধ",
+      "Indonesian": "Awadh",
+      "Pashto": "اواد"
+    }
+  },
+  {
     "id": "aw2_var",
     "name": "Awadoollah",
     "gender": "Boy",
@@ -28285,6 +30379,23 @@
     "id": "aw9_var",
     "verified": true,
     "variant_of": "Awatif",
+    "spellings": {
+      "Arabic": "عواطف",
+      "Urdu": "اوطیف",
+      "Persian": "عواطف",
+      "Turkish": "Uyanık",
+      "Bengali": "আওয়াতেফ",
+      "Indonesian": "Awatef",
+      "Pashto": "اوطیف"
+    }
+  },
+  {
+    "name": "Awatef",
+    "gender": "Girl",
+    "meaning": "Emotions, feelings",
+    "origin": "Arabic",
+    "id": "aw2",
+    "verified": true,
     "spellings": {
       "Arabic": "عواطف",
       "Urdu": "اوطیف",
@@ -28484,6 +30595,23 @@
     }
   },
   {
+    "name": "Ayaat",
+    "gender": "Girl",
+    "meaning": "Signs, verses",
+    "origin": "Arabic",
+    "id": "ay1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آيات",
+      "Urdu": "آیات",
+      "Persian": "آیات",
+      "Turkish": "Ayat",
+      "Bengali": "আয়াত",
+      "Indonesian": "Ayaat",
+      "Pashto": "آیات"
+    }
+  },
+  {
     "name": "Ayah",
     "gender": "Girl",
     "meaning": "Sign; Verse",
@@ -28587,6 +30715,31 @@
     }
   },
   {
+    "name": "Ayatollah",
+    "gender": "Boy",
+    "meaning": "Sign of God",
+    "origin": "Arabic",
+    "id": "ay2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "آية الله",
+      "Urdu": "آیت اللہ",
+      "Persian": "آیت الله",
+      "Turkish": "Ayetullah",
+      "Bengali": "আয়াতুল্লাহ",
+      "Indonesian": "Ayatollah",
+      "Pashto": "ایت الله"
+    }
+  },
+  {
+    "name": "Ayatollah Fatma",
+    "gender": "Girl",
+    "meaning": "Sign of God Fatima",
+    "origin": "Arabic",
+    "id": "ay1",
+    "verified": true
+  },
+  {
     "name": "Ayatoollah",
     "gender": "Boy",
     "meaning": "Sign of Allah",
@@ -28636,6 +30789,23 @@
       "Bengali": "আয়াজ",
       "Indonesian": "Ayaz",
       "Pashto": "ایاز"
+    }
+  },
+  {
+    "name": "Ayda",
+    "gender": "Girl",
+    "meaning": "Returning, visitor",
+    "origin": "Arabic",
+    "id": "ay3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عايدة",
+      "Urdu": "آیدہ",
+      "Persian": "آیدا",
+      "Turkish": "Ayda",
+      "Bengali": "আয়দা",
+      "Indonesian": "Ayda",
+      "Pashto": "آیده"
     }
   },
   {
@@ -28901,6 +31071,23 @@
     }
   },
   {
+    "name": "Aymen",
+    "gender": "Boy",
+    "meaning": "Blessed, lucky",
+    "origin": "Arabic",
+    "id": "ay4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ايمن",
+      "Urdu": "ایمن",
+      "Persian": "ایمن",
+      "Turkish": "Eymen",
+      "Bengali": "আয়মেন",
+      "Indonesian": "Ya ampun",
+      "Pashto": "ایمن"
+    }
+  },
+  {
     "name": "Ayn",
     "gender": "Unisex",
     "meaning": "Eye",
@@ -28915,6 +31102,23 @@
       "Bengali": "আয়ন",
       "Indonesian": "Ayn",
       "Pashto": "عین"
+    }
+  },
+  {
+    "name": "Ayni",
+    "gender": "Girl",
+    "meaning": "Genuine, authentic",
+    "origin": "Arabic",
+    "id": "ay5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عيني",
+      "Urdu": "عینی",
+      "Persian": "عینی",
+      "Turkish": "Ayni",
+      "Bengali": "আয়নি",
+      "Indonesian": "Aini",
+      "Pashto": "عیني"
     }
   },
   {
@@ -29077,6 +31281,23 @@
     }
   },
   {
+    "name": "Aysar",
+    "gender": "Boy",
+    "meaning": "Easier, more prosperous",
+    "origin": "Arabic",
+    "id": "ay6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عيسار",
+      "Urdu": "عیسر",
+      "Persian": "آیسار",
+      "Turkish": "Ayşar",
+      "Bengali": "আয়সার",
+      "Indonesian": "Aysar",
+      "Pashto": "آیسر"
+    }
+  },
+  {
     "name": "Ayser",
     "gender": "Boy",
     "meaning": "Easy",
@@ -29125,6 +31346,23 @@
       "Turkish": "Ayşe",
       "Bengali": "আয়শাহ",
       "Indonesian": "Aisyah",
+      "Pashto": "عایشه"
+    }
+  },
+  {
+    "name": "Ayshe",
+    "gender": "Girl",
+    "meaning": "Alive, living",
+    "origin": "Arabic",
+    "id": "ay7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عائشة",
+      "Urdu": "عائشہ",
+      "Persian": "عایشه",
+      "Turkish": "Ayşe",
+      "Bengali": "আয়েশে",
+      "Indonesian": "Aduh",
       "Pashto": "عایشه"
     }
   },
@@ -29246,6 +31484,47 @@
       "Bengali": "আইয়ুব",
       "Indonesian": "Ayub",
       "Pashto": "ایوب"
+    }
+  },
+  {
+    "name": "Ayyuba",
+    "gender": "Girl",
+    "meaning": "Patience (from Prophet Job)",
+    "origin": "Arabic",
+    "id": "ay2",
+    "verified": true
+  },
+  {
+    "name": "Ayyubah",
+    "gender": "Girl",
+    "meaning": "Patience",
+    "origin": "Arabic",
+    "id": "ay3",
+    "verified": true
+  },
+  {
+    "name": "Ayyubuddin",
+    "gender": "Boy",
+    "meaning": "Patience of the faith",
+    "origin": "Arabic",
+    "id": "ay4",
+    "verified": true
+  },
+  {
+    "name": "Ayzah",
+    "gender": "Girl",
+    "meaning": "Replacement, compensation",
+    "origin": "Arabic",
+    "id": "ay8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عايزة",
+      "Urdu": "عائزہ",
+      "Persian": "ایزه",
+      "Turkish": "Ayza",
+      "Bengali": "আয়জাহ",
+      "Indonesian": "Aizah",
+      "Pashto": "عائزه"
     }
   },
   {
@@ -29631,6 +31910,23 @@
     }
   },
   {
+    "name": "Azharuddin",
+    "gender": "Boy",
+    "meaning": "Flowers of the faith",
+    "origin": "Arabic",
+    "id": "az1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أزهر الدين",
+      "Urdu": "اظہر الدین",
+      "Persian": "ازهرالدین",
+      "Turkish": "Ezhereddin",
+      "Bengali": "আজহারউদ্দিন",
+      "Indonesian": "Azharuddin",
+      "Pashto": "اظهرالدین"
+    }
+  },
+  {
     "id": "az10",
     "name": "Azheen",
     "gender": "Boy",
@@ -29802,6 +32098,14 @@
       "Indonesian": "Aziza",
       "Pashto": "عزیزه"
     }
+  },
+  {
+    "name": "Azizur",
+    "gender": "Boy",
+    "meaning": "Mighty, powerful",
+    "origin": "Arabic",
+    "id": "az1",
+    "verified": true
   },
   {
     "id": "az15",
@@ -30257,6 +32561,14 @@
     }
   },
   {
+    "name": "Azura",
+    "gender": "Girl",
+    "meaning": "Blue sky",
+    "origin": "Persian/Spanish",
+    "id": "az2",
+    "verified": true
+  },
+  {
     "name": "Azwad",
     "gender": "Boy",
     "meaning": "Better",
@@ -30288,6 +32600,23 @@
       "Bengali": "আজওয়ার",
       "Indonesian": "Azwer",
       "Pashto": "ازور"
+    }
+  },
+  {
+    "name": "Azza",
+    "gender": "Girl",
+    "meaning": "Young female gazelle",
+    "origin": "Arabic",
+    "id": "az2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "عزة",
+      "Urdu": "عزہ",
+      "Persian": "آزا",
+      "Turkish": "Azza",
+      "Bengali": "আজ্জা",
+      "Indonesian": "Azza",
+      "Pashto": "عزا"
     }
   },
   {

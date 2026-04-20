@@ -454,6 +454,23 @@
     }
   },
   {
+    "name": "Daher",
+    "gender": "Boy",
+    "meaning": "Clear, evident",
+    "origin": "Arabic",
+    "id": "da5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ضاهر",
+      "Urdu": "داہر",
+      "Persian": "داهر",
+      "Turkish": "Daher",
+      "Bengali": "দাহের",
+      "Indonesian": "baiklah",
+      "Pashto": "داهر"
+    }
+  },
+  {
     "name": "Dahhak",
     "gender": "Boy",
     "meaning": "One who laughs much",
@@ -485,6 +502,23 @@
       "Bengali": "ডাহলান",
       "Indonesian": "Dahlan",
       "Pashto": "دهلان"
+    }
+  },
+  {
+    "name": "Dahlia",
+    "gender": "Girl",
+    "meaning": "Dahlia flower",
+    "origin": "Arabic",
+    "id": "da6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "الداليا",
+      "Urdu": "ڈاہلیا",
+      "Persian": "کوکب",
+      "Turkish": "Dalya",
+      "Bengali": "ডালিয়া",
+      "Indonesian": "Dahlia",
+      "Pashto": "دهلیا"
     }
   },
   {
@@ -592,6 +626,23 @@
     }
   },
   {
+    "name": "Daiyanah",
+    "gender": "Girl",
+    "meaning": "Judge, ruler",
+    "origin": "Arabic",
+    "id": "da7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ديانة",
+      "Urdu": "دایانا",
+      "Persian": "دایانه",
+      "Turkish": "Daiyana",
+      "Bengali": "দাইয়ানঃ",
+      "Indonesian": "Daiyanah",
+      "Pashto": "دایانا"
+    }
+  },
+  {
     "name": "Dajla",
     "gender": "Girl",
     "meaning": "Tigris River (Variant of Dijla)",
@@ -645,6 +696,23 @@
     }
   },
   {
+    "name": "Dakhil",
+    "gender": "Boy",
+    "meaning": "Foreigner or guest",
+    "origin": "Arabic",
+    "id": "da2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "دخيل",
+      "Urdu": "دخیل",
+      "Persian": "دخیل",
+      "Turkish": "Dahil",
+      "Bengali": "দাখিল",
+      "Indonesian": "Dakhil",
+      "Pashto": "دخیل"
+    }
+  },
+  {
     "name": "Dakilah",
     "gender": "Girl",
     "meaning": "Country",
@@ -676,6 +744,23 @@
       "Bengali": "দালাল",
       "Indonesian": "Dalaal",
       "Pashto": "دلال"
+    }
+  },
+  {
+    "name": "Dalaj",
+    "gender": "Boy",
+    "meaning": "A mufti of Baghdad",
+    "origin": "Arabic",
+    "id": "da3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "دلج",
+      "Urdu": "دلاج",
+      "Persian": "دلاج",
+      "Turkish": "Dalaj",
+      "Bengali": "দলজ",
+      "Indonesian": "Dalaj",
+      "Pashto": "دالج"
     }
   },
   {
@@ -767,6 +852,23 @@
     }
   },
   {
+    "name": "Daler",
+    "gender": "Boy",
+    "meaning": "Brave and valiant",
+    "origin": "Persian",
+    "id": "da1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "دالر",
+      "Urdu": "دلیر",
+      "Persian": "دالر",
+      "Turkish": "Daler",
+      "Bengali": "ডালার",
+      "Indonesian": "Daler",
+      "Pashto": "دلیر"
+    }
+  },
+  {
     "name": "Dalia",
     "gender": "Girl",
     "meaning": "Dahlia flower",
@@ -780,6 +882,23 @@
       "Turkish": "Dalia",
       "Bengali": "ডালিয়া",
       "Indonesian": "Dalia",
+      "Pashto": "دالیا"
+    }
+  },
+  {
+    "name": "Daliaa",
+    "gender": "Girl",
+    "meaning": "Grape vine",
+    "origin": "Arabic",
+    "id": "da8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "داليا",
+      "Urdu": "ڈالیا",
+      "Persian": "دالیا",
+      "Turkish": "Daliaa",
+      "Bengali": "ডালিয়া",
+      "Indonesian": "Daliaa",
       "Pashto": "دالیا"
     }
   },
@@ -1430,6 +1549,23 @@
     }
   },
   {
+    "name": "Danya",
+    "gender": "Girl",
+    "meaning": "Closer or near",
+    "origin": "Arabic",
+    "id": "da4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "دانيا",
+      "Urdu": "دانیہ",
+      "Persian": "دانیا",
+      "Turkish": "Danya",
+      "Bengali": "দনিয়া",
+      "Indonesian": "Dannya",
+      "Pashto": "ډانیا"
+    }
+  },
+  {
     "name": "Daood",
     "gender": "Boy",
     "meaning": "Beloved",
@@ -1481,6 +1617,40 @@
       "Bengali": "দাওলত",
       "Indonesian": "Daoolat",
       "Pashto": "داولات"
+    }
+  },
+  {
+    "name": "Daoud",
+    "gender": "Boy",
+    "meaning": "Beloved, A Prophet's name (David)",
+    "origin": "Arabic",
+    "id": "da9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "داود",
+      "Urdu": "داؤد",
+      "Persian": "داوود",
+      "Turkish": "Davud",
+      "Bengali": "দাউদ",
+      "Indonesian": "Daoud",
+      "Pashto": "داود"
+    }
+  },
+  {
+    "name": "Daouda",
+    "gender": "Boy",
+    "meaning": "Beloved, A Prophet's name (David)",
+    "origin": "Arabic",
+    "id": "da10",
+    "verified": true,
+    "spellings": {
+      "Arabic": "داودا",
+      "Urdu": "داؤدا",
+      "Persian": "داودا",
+      "Turkish": "Daouda",
+      "Bengali": "দাউদা",
+      "Indonesian": "Daouda",
+      "Pashto": "داود"
     }
   },
   {
@@ -2094,6 +2264,23 @@
     }
   },
   {
+    "name": "Dawoud",
+    "gender": "Boy",
+    "meaning": "Beloved, A Prophet's name (David)",
+    "origin": "Arabic",
+    "id": "da11",
+    "verified": true,
+    "spellings": {
+      "Arabic": "داود",
+      "Urdu": "داؤد",
+      "Persian": "داوود",
+      "Turkish": "Davud",
+      "Bengali": "দাউদ",
+      "Indonesian": "Dawoud",
+      "Pashto": "داود"
+    }
+  },
+  {
     "name": "Dawud",
     "gender": "Boy",
     "meaning": "Beloved",
@@ -2108,6 +2295,23 @@
       "Bengali": "দাউদ",
       "Indonesian": "Daud",
       "Pashto": "داود"
+    }
+  },
+  {
+    "name": "Dawudah",
+    "gender": "Girl",
+    "meaning": "Beloved",
+    "origin": "Arabic",
+    "id": "da12",
+    "verified": true,
+    "spellings": {
+      "Arabic": "داودة",
+      "Urdu": "داؤد",
+      "Persian": "داوده",
+      "Turkish": "Davudah",
+      "Bengali": "দাউদাহ",
+      "Indonesian": "Dawudah",
+      "Pashto": "داوداه"
     }
   },
   {
@@ -4030,6 +4234,40 @@
     }
   },
   {
+    "name": "Diaa",
+    "gender": "Unisex",
+    "meaning": "Light, splendor",
+    "origin": "Arabic",
+    "id": "di1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ضياء",
+      "Urdu": "دیا",
+      "Persian": "دیا",
+      "Turkish": "Diaa",
+      "Bengali": "দিয়া",
+      "Indonesian": "dia",
+      "Pashto": "دیا"
+    }
+  },
+  {
+    "name": "Diala",
+    "gender": "Girl",
+    "meaning": "Name of a river in Iraq",
+    "origin": "Arabic",
+    "id": "di2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ديالا",
+      "Urdu": "دیالا",
+      "Persian": "دیالا",
+      "Turkish": "Diala",
+      "Bengali": "দিয়ালা",
+      "Indonesian": "Diala",
+      "Pashto": "دیالا"
+    }
+  },
+  {
     "name": "Dian",
     "gender": "Unisex",
     "meaning": "Candle, light",
@@ -4044,6 +4282,23 @@
       "Bengali": "দিয়ান",
       "Indonesian": "Dian",
       "Pashto": "دیان"
+    }
+  },
+  {
+    "name": "Diana",
+    "gender": "Girl",
+    "meaning": "Divine, heavenly",
+    "origin": "Latin",
+    "id": "di3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ديانا",
+      "Urdu": "ڈیانا",
+      "Persian": "دیانا",
+      "Turkish": "Diana",
+      "Bengali": "ডায়ানা",
+      "Indonesian": "Diana",
+      "Pashto": "ډيانا"
     }
   },
   {
@@ -5502,6 +5757,23 @@
     }
   },
   {
+    "name": "Driss",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Enoch)",
+    "origin": "Arabic",
+    "id": "dr1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إدريس",
+      "Urdu": "ڈریس",
+      "Persian": "دریس",
+      "Turkish": "Dris",
+      "Bengali": "ড্রিস",
+      "Indonesian": "Driss",
+      "Pashto": "ډریس"
+    }
+  },
+  {
     "name": "Du",
     "gender": "Girl",
     "meaning": "Pearl",
@@ -5707,6 +5979,23 @@
       "Bengali": "দুময়াত",
       "Indonesian": "Dumyat",
       "Pashto": "دومیت"
+    }
+  },
+  {
+    "name": "Dunia",
+    "gender": "Girl",
+    "meaning": "World",
+    "origin": "Arabic",
+    "id": "du1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "دنيا",
+      "Urdu": "دنیا",
+      "Persian": "دنیا",
+      "Turkish": "Dünya",
+      "Bengali": "দুনিয়া",
+      "Indonesian": "Dunia",
+      "Pashto": "نړۍ"
     }
   },
   {

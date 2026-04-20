@@ -35,6 +35,23 @@
     }
   },
   {
+    "name": "Laayla",
+    "gender": "Girl",
+    "meaning": "Night, dark beauty",
+    "origin": "Arabic",
+    "id": "la1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليلى",
+      "Urdu": "لیلہ",
+      "Persian": "لیلا",
+      "Turkish": "Laayla",
+      "Bengali": "লায়লা",
+      "Indonesian": "Laila",
+      "Pashto": "لایله"
+    }
+  },
+  {
     "name": "Labeeb",
     "gender": "Boy",
     "meaning": "Sensible",
@@ -335,6 +352,14 @@
     }
   },
   {
+    "name": "Laeeqah",
+    "gender": "Girl",
+    "meaning": "Worthy, deserving",
+    "origin": "Arabic",
+    "id": "la1",
+    "verified": true
+  },
+  {
     "name": "Laees",
     "gender": "Boy",
     "meaning": "Lion",
@@ -369,6 +394,14 @@
       "Indonesian": "Laeth",
       "Pashto": "لایت"
     }
+  },
+  {
+    "name": "Laheebah",
+    "gender": "Girl",
+    "meaning": "Flame",
+    "origin": "Arabic",
+    "id": "la2",
+    "verified": true
   },
   {
     "name": "Lahore",
@@ -664,6 +697,23 @@
     }
   },
   {
+    "name": "Lamaa",
+    "gender": "Girl",
+    "meaning": "Beautiful dark lips",
+    "origin": "Arabic",
+    "id": "la2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لمع",
+      "Urdu": "لاما",
+      "Persian": "لما",
+      "Turkish": "Lamaa",
+      "Bengali": "লামা",
+      "Indonesian": "Lamaa",
+      "Pashto": "لاما"
+    }
+  },
+  {
     "name": "Lamah",
     "gender": "Girl",
     "meaning": "Dark lips",
@@ -718,6 +768,23 @@
     }
   },
   {
+    "name": "Lameesah",
+    "gender": "Girl",
+    "meaning": "Soft to the touch",
+    "origin": "Arabic",
+    "id": "la3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لميسة",
+      "Urdu": "لمیسہ",
+      "Persian": "لامسه",
+      "Turkish": "Lameesah",
+      "Bengali": "লামিসঃ",
+      "Indonesian": "Lameesah",
+      "Pashto": "لمسیه"
+    }
+  },
+  {
     "name": "Lamia",
     "gender": "Girl",
     "meaning": "Shining",
@@ -731,6 +798,23 @@
       "Turkish": "Lamia",
       "Bengali": "লামিয়া",
       "Indonesian": "Perempuan sihir tua buruk",
+      "Pashto": "لامیا"
+    }
+  },
+  {
+    "name": "Lamiaa",
+    "gender": "Girl",
+    "meaning": "Beautiful, dark lips",
+    "origin": "Arabic",
+    "id": "la4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لمياء",
+      "Urdu": "لامیا",
+      "Persian": "لامیا",
+      "Turkish": "Lamiaa",
+      "Bengali": "লামিয়া",
+      "Indonesian": "Lamiaa",
       "Pashto": "لامیا"
     }
   },
@@ -787,6 +871,23 @@
     }
   },
   {
+    "name": "Lamyaa",
+    "gender": "Girl",
+    "meaning": "Beautiful, dark lips",
+    "origin": "Arabic",
+    "id": "la5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لمياء",
+      "Urdu": "لامیہ",
+      "Persian": "لامیا",
+      "Turkish": "Lamyaa",
+      "Bengali": "লামিয়া",
+      "Indonesian": "Lamyaa",
+      "Pashto": "لاميا"
+    }
+  },
+  {
     "name": "Lamyah",
     "gender": "Girl",
     "meaning": "Dark-lipped",
@@ -802,6 +903,57 @@
       "Bengali": "লামিয়াহ",
       "Indonesian": "Lamyah",
       "Pashto": "لامیه"
+    }
+  },
+  {
+    "name": "Lana",
+    "gender": "Girl",
+    "meaning": "Tender, soft",
+    "origin": "Arabic",
+    "id": "la6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لانا",
+      "Urdu": "لانا",
+      "Persian": "لانا",
+      "Turkish": "Lana",
+      "Bengali": "লানা",
+      "Indonesian": "Lana",
+      "Pashto": "لانا"
+    }
+  },
+  {
+    "name": "Lara",
+    "gender": "Girl",
+    "meaning": "Shining, water fairy",
+    "origin": "Turkish/Latin",
+    "id": "la7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لارا",
+      "Urdu": "لارا",
+      "Persian": "لارا",
+      "Turkish": "Lara",
+      "Bengali": "লারা",
+      "Indonesian": "Lara",
+      "Pashto": "لارا"
+    }
+  },
+  {
+    "name": "Laraa",
+    "gender": "Girl",
+    "meaning": "Shining",
+    "origin": "Arabic",
+    "id": "la8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لارا",
+      "Urdu": "لارا",
+      "Persian": "لارا",
+      "Turkish": "Laraa",
+      "Bengali": "লারা",
+      "Indonesian": "Laraa",
+      "Pashto": "لارا"
     }
   },
   {
@@ -837,6 +989,23 @@
       "Bengali": "লারাইব",
       "Indonesian": "Laraib",
       "Pashto": "لاریب"
+    }
+  },
+  {
+    "name": "Laraibi",
+    "gender": "Unisex",
+    "meaning": "Without a doubt, faultless",
+    "origin": "Arabic",
+    "id": "la9",
+    "verified": true,
+    "spellings": {
+      "Arabic": "العريبي",
+      "Urdu": "لاریبی۔",
+      "Persian": "لارایبی",
+      "Turkish": "Laraibi",
+      "Bengali": "লারাইবি",
+      "Indonesian": "Laraibi",
+      "Pashto": "لاریبي"
     }
   },
   {
@@ -1114,6 +1283,23 @@
       "Bengali": "লাজিম",
       "Indonesian": "Lazim",
       "Pashto": "لازیم"
+    }
+  },
+  {
+    "name": "Leah",
+    "gender": "Girl",
+    "meaning": "Wife of Prophet Jacob",
+    "origin": "Hebrew",
+    "id": "le1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليا",
+      "Urdu": "لیہ",
+      "Persian": "لیا",
+      "Turkish": "Lea",
+      "Bengali": "লিয়া",
+      "Indonesian": "Lea",
+      "Pashto": "ليه"
     }
   },
   {
@@ -1455,6 +1641,23 @@
     }
   },
   {
+    "name": "Leilaah",
+    "gender": "Girl",
+    "meaning": "Night",
+    "origin": "Arabic",
+    "id": "le2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليلى",
+      "Urdu": "لیلیٰ",
+      "Persian": "لیلا",
+      "Turkish": "Leilaah",
+      "Bengali": "লীলাহ",
+      "Indonesian": "Leilaah",
+      "Pashto": "لیله"
+    }
+  },
+  {
     "name": "Leilah",
     "gender": "Girl",
     "meaning": "Dark beauty",
@@ -1470,6 +1673,57 @@
       "Bengali": "লেইলা",
       "Indonesian": "Leilah",
       "Pashto": "ليله"
+    }
+  },
+  {
+    "name": "Leilani",
+    "gender": "Girl",
+    "meaning": "Heavenly flower",
+    "origin": "Hawaiian",
+    "id": "le3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليلاني",
+      "Urdu": "لیلانی",
+      "Persian": "لیلانی",
+      "Turkish": "Leilani",
+      "Bengali": "লীলানি",
+      "Indonesian": "Leilani",
+      "Pashto": "ليلاني"
+    }
+  },
+  {
+    "name": "Leith",
+    "gender": "Boy",
+    "meaning": "Lion",
+    "origin": "Arabic",
+    "id": "le4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليث",
+      "Urdu": "لیتھ",
+      "Persian": "لیث",
+      "Turkish": "Leith",
+      "Bengali": "লেইথ",
+      "Indonesian": "Leit",
+      "Pashto": "لیت"
+    }
+  },
+  {
+    "name": "Lena",
+    "gender": "Girl",
+    "meaning": "Tender, devoted",
+    "origin": "Arabic",
+    "id": "le5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لينا",
+      "Urdu": "لینا",
+      "Persian": "لنا",
+      "Turkish": "Lena",
+      "Bengali": "লেনা",
+      "Indonesian": "Lena",
+      "Pashto": "لينا"
     }
   },
   {
@@ -1560,6 +1814,23 @@
     }
   },
   {
+    "name": "Leysan",
+    "gender": "Girl",
+    "meaning": "Spring rain",
+    "origin": "Tatar",
+    "id": "le6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليسان",
+      "Urdu": "لیسن",
+      "Persian": "لیسان",
+      "Turkish": "Leysan",
+      "Bengali": "লেসান",
+      "Indonesian": "Leysan",
+      "Pashto": "ليسان"
+    }
+  },
+  {
     "name": "Lia",
     "gender": "Girl",
     "meaning": "Bearer of news",
@@ -1592,6 +1863,23 @@
       "Bengali": "লিয়া",
       "Indonesian": "Liah",
       "Pashto": "ليه"
+    }
+  },
+  {
+    "name": "Liana",
+    "gender": "Girl",
+    "meaning": "To wrap around, vine",
+    "origin": "Arabic/French",
+    "id": "li1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليانا",
+      "Urdu": "لیانا",
+      "Persian": "لیانا",
+      "Turkish": "Liana",
+      "Bengali": "লিয়ানা",
+      "Indonesian": "Liana",
+      "Pashto": "لیانا"
     }
   },
   {
@@ -1769,6 +2057,23 @@
     }
   },
   {
+    "name": "Linaa",
+    "gender": "Girl",
+    "meaning": "Tender, soft",
+    "origin": "Arabic",
+    "id": "li2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لينا",
+      "Urdu": "لینا",
+      "Persian": "لینا",
+      "Turkish": "Linaa",
+      "Bengali": "লিনা",
+      "Indonesian": "Linaa",
+      "Pashto": "لينا"
+    }
+  },
+  {
     "name": "Linah",
     "gender": "Girl",
     "meaning": "Palm Tree",
@@ -1909,6 +2214,23 @@
     }
   },
   {
+    "name": "Liyakath",
+    "gender": "Boy",
+    "meaning": "Worth, capability, merit",
+    "origin": "Arabic",
+    "id": "li3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لياكاث",
+      "Urdu": "لیاقت",
+      "Persian": "لیاکات",
+      "Turkish": "Liyakath",
+      "Bengali": "লিয়াকত",
+      "Indonesian": "Liyakath",
+      "Pashto": "لیاقت"
+    }
+  },
+  {
     "name": "Liyana",
     "gender": "Girl",
     "meaning": "Softness",
@@ -1979,6 +2301,57 @@
     }
   },
   {
+    "name": "Loai",
+    "gender": "Boy",
+    "meaning": "Shield, protector",
+    "origin": "Arabic",
+    "id": "lo1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لؤي",
+      "Urdu": "لوئی",
+      "Persian": "لوای",
+      "Turkish": "Loai",
+      "Bengali": "লোয়াই",
+      "Indonesian": "Loai",
+      "Pashto": "لوئی"
+    }
+  },
+  {
+    "name": "Loay",
+    "gender": "Boy",
+    "meaning": "Shield, protector",
+    "origin": "Arabic",
+    "id": "lo2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لؤي",
+      "Urdu": "لوئے",
+      "Persian": "لوی",
+      "Turkish": "Loay",
+      "Bengali": "লয়",
+      "Indonesian": "setia",
+      "Pashto": "لوئی"
+    }
+  },
+  {
+    "name": "Lobna",
+    "gender": "Girl",
+    "meaning": "A tree yielding sweet milk",
+    "origin": "Arabic",
+    "id": "lo3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لبنى",
+      "Urdu": "لوبنا",
+      "Persian": "لوبنا",
+      "Turkish": "Lobna",
+      "Bengali": "লোবনা",
+      "Indonesian": "Lobna",
+      "Pashto": "لوبنا"
+    }
+  },
+  {
     "name": "Lod",
     "gender": "Boy",
     "meaning": "Lydda (Palestine)",
@@ -2028,6 +2401,23 @@
       "Bengali": "লোধি",
       "Indonesian": "Lodhi",
       "Pashto": "لودي"
+    }
+  },
+  {
+    "name": "Lofti",
+    "gender": "Boy",
+    "meaning": "Kind, gentle",
+    "origin": "Arabic",
+    "id": "lo4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطفي",
+      "Urdu": "بلندی",
+      "Persian": "لوفتی",
+      "Turkish": "Lofti",
+      "Bengali": "লোফটি",
+      "Indonesian": "Loteng",
+      "Pashto": "لوفټي"
     }
   },
   {
@@ -2443,6 +2833,57 @@
     }
   },
   {
+    "name": "Louai",
+    "gender": "Boy",
+    "meaning": "Shield, protector",
+    "origin": "Arabic",
+    "id": "lo5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لؤي",
+      "Urdu": "لوئی",
+      "Persian": "لوایی",
+      "Turkish": "Louai",
+      "Bengali": "লুই",
+      "Indonesian": "Louai",
+      "Pashto": "لوئی"
+    }
+  },
+  {
+    "name": "Louay",
+    "gender": "Boy",
+    "meaning": "Shield, protector",
+    "origin": "Arabic",
+    "id": "lo6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لؤي",
+      "Urdu": "لوئے",
+      "Persian": "لوای",
+      "Turkish": "Louay",
+      "Bengali": "লুয়ে",
+      "Indonesian": "Louay",
+      "Pashto": "Louay"
+    }
+  },
+  {
+    "name": "Loubna",
+    "gender": "Girl",
+    "meaning": "A tree yielding sweet milk",
+    "origin": "Arabic",
+    "id": "lo7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لبنى",
+      "Urdu": "لوبنا",
+      "Persian": "لوبنا",
+      "Turkish": "Loubna",
+      "Bengali": "লাউবনা",
+      "Indonesian": "Loubna",
+      "Pashto": "لوبنا"
+    }
+  },
+  {
     "name": "Loujaeen",
     "gender": "Girl",
     "meaning": "Silver",
@@ -2563,6 +3004,14 @@
       "Indonesian": "Lubaba",
       "Pashto": "لوبا"
     }
+  },
+  {
+    "name": "Lubaba Bibi",
+    "gender": "Girl",
+    "meaning": "Innermost essence lady",
+    "origin": "Arabic/Persian",
+    "id": "lu1",
+    "verified": true
   },
   {
     "name": "Lubabah",
@@ -2703,6 +3152,23 @@
     }
   },
   {
+    "name": "Lulua",
+    "gender": "Girl",
+    "meaning": "Pearl",
+    "origin": "Arabic",
+    "id": "lu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لولو",
+      "Urdu": "لولوا",
+      "Persian": "لولوا",
+      "Turkish": "Lulua",
+      "Bengali": "লুলুয়া",
+      "Indonesian": "Lulua",
+      "Pashto": "لولا"
+    }
+  },
+  {
     "name": "Lulwa",
     "gender": "Girl",
     "meaning": "Pearl",
@@ -2738,6 +3204,23 @@
     }
   },
   {
+    "name": "Luma",
+    "gender": "Girl",
+    "meaning": "Dark lips (a sign of beauty)",
+    "origin": "Arabic",
+    "id": "lu2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لوما",
+      "Urdu": "لوما",
+      "Persian": "لوما",
+      "Turkish": "Luma",
+      "Bengali": "লুমা",
+      "Indonesian": "Luma",
+      "Pashto": "لوما"
+    }
+  },
+  {
     "id": "lu7",
     "name": "Luna",
     "gender": "Girl",
@@ -2770,6 +3253,23 @@
       "Bengali": "লুনাহ",
       "Indonesian": "bulan",
       "Pashto": "لونه"
+    }
+  },
+  {
+    "name": "Luqmaan",
+    "gender": "Boy",
+    "meaning": "A Prophet's name, wise man",
+    "origin": "Arabic",
+    "id": "lu3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لقمان",
+      "Urdu": "لقمان",
+      "Persian": "لقمان",
+      "Turkish": "Lokman",
+      "Bengali": "লুকমান",
+      "Indonesian": "Luqmaan",
+      "Pashto": "لقمان"
     }
   },
   {
@@ -2821,6 +3321,23 @@
       "Bengali": "লুৎফ",
       "Indonesian": "Lutf",
       "Pashto": "لوطف"
+    }
+  },
+  {
+    "name": "Lutfallah",
+    "gender": "Boy",
+    "meaning": "Kindness of God",
+    "origin": "Arabic",
+    "id": "lu4",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطف الله",
+      "Urdu": "لطف اللہ",
+      "Persian": "لطف الله",
+      "Turkish": "Lütfallah",
+      "Bengali": "লুৎফাল্লাহ",
+      "Indonesian": "Lutfallah",
+      "Pashto": "لطف الله"
     }
   },
   {
@@ -2895,6 +3412,23 @@
     }
   },
   {
+    "name": "Lutfia",
+    "gender": "Girl",
+    "meaning": "Kind, gentle",
+    "origin": "Arabic",
+    "id": "lu5",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطفية",
+      "Urdu": "لطفیہ",
+      "Persian": "لطفیا",
+      "Turkish": "Lütfia",
+      "Bengali": "লুৎফিয়া",
+      "Indonesian": "Lutfia",
+      "Pashto": "لطفیه"
+    }
+  },
+  {
     "name": "Lutfiya",
     "gender": "Girl",
     "meaning": "Graceful",
@@ -2947,6 +3481,40 @@
     }
   },
   {
+    "name": "Lutfiyya",
+    "gender": "Girl",
+    "meaning": "Kind, gentle",
+    "origin": "Arabic",
+    "id": "lu6",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطفية",
+      "Urdu": "لطفیہ",
+      "Persian": "لطفیه",
+      "Turkish": "Lütfiyya",
+      "Bengali": "লুৎফিয়া",
+      "Indonesian": "Lutfiyya",
+      "Pashto": "لطفیه"
+    }
+  },
+  {
+    "name": "Lutfiyyah",
+    "gender": "Girl",
+    "meaning": "Kind, gentle",
+    "origin": "Arabic",
+    "id": "lu7",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطفية",
+      "Urdu": "لطفیہ",
+      "Persian": "لطفیه",
+      "Turkish": "Lütfiyye",
+      "Bengali": "লুৎফিয়াহ",
+      "Indonesian": "Lutfiyyah",
+      "Pashto": "لطفیه"
+    }
+  },
+  {
     "name": "Lutfullah",
     "gender": "Boy",
     "meaning": "Kindness of God",
@@ -2961,6 +3529,47 @@
       "Bengali": "লুৎফুল্লাহ",
       "Indonesian": "Lutfullah",
       "Pashto": "لطف الله"
+    }
+  },
+  {
+    "name": "Lutfun",
+    "gender": "Girl",
+    "meaning": "Grace, kindness",
+    "origin": "Arabic",
+    "id": "lu2",
+    "verified": true
+  },
+  {
+    "name": "Lutfunnah",
+    "gender": "Girl",
+    "meaning": "Grace, kindness",
+    "origin": "Arabic",
+    "id": "lu3",
+    "verified": true
+  },
+  {
+    "name": "Lutfunnisa",
+    "gender": "Girl",
+    "meaning": "Grace of women",
+    "origin": "Arabic",
+    "id": "lu4",
+    "verified": true
+  },
+  {
+    "name": "Lutfur",
+    "gender": "Boy",
+    "meaning": "Kindness of the Merciful",
+    "origin": "Arabic",
+    "id": "lu8",
+    "verified": true,
+    "spellings": {
+      "Arabic": "لطففور",
+      "Urdu": "لطففر",
+      "Persian": "لوتفور",
+      "Turkish": "Lutfur",
+      "Bengali": "লুৎফুর",
+      "Indonesian": "Lutfur",
+      "Pashto": "لوطفور"
     }
   },
   {
@@ -2979,6 +3588,31 @@
       "Indonesian": "Luxor",
       "Pashto": "لوکسر"
     }
+  },
+  {
+    "name": "Lyam",
+    "gender": "Boy",
+    "meaning": "Harmony, peace",
+    "origin": "Arabic",
+    "id": "ly1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليام",
+      "Urdu": "لیام",
+      "Persian": "لیام",
+      "Turkish": "Lyam",
+      "Bengali": "লায়াম",
+      "Indonesian": "Lyam",
+      "Pashto": "ليام"
+    }
+  },
+  {
+    "name": "Lyamah",
+    "gender": "Girl",
+    "meaning": "Peace, harmony",
+    "origin": "Arabic",
+    "id": "ly1",
+    "verified": true
   },
   {
     "name": "Lyana",
@@ -3067,5 +3701,47 @@
       "Indonesian": "Lidia",
       "Pashto": "ليديا"
     }
+  },
+  {
+    "name": "Lynda",
+    "gender": "Girl",
+    "meaning": "Beautiful",
+    "origin": "Spanish",
+    "id": "ly2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليندا",
+      "Urdu": "لنڈا",
+      "Persian": "لیندا",
+      "Turkish": "Lynda",
+      "Bengali": "লিন্ডা",
+      "Indonesian": "Lynda",
+      "Pashto": "ليندا"
+    }
+  },
+  {
+    "name": "Lyra",
+    "gender": "Girl",
+    "meaning": "Constellation, lyre",
+    "origin": "Greek",
+    "id": "ly3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ليرا",
+      "Urdu": "لیرا",
+      "Persian": "لیرا",
+      "Turkish": "Lyra",
+      "Bengali": "লিরা",
+      "Indonesian": "Lyra",
+      "Pashto": "ليرا"
+    }
+  },
+  {
+    "name": "Lyutha",
+    "gender": "Girl",
+    "meaning": "Lioness",
+    "origin": "Arabic",
+    "id": "ly2",
+    "verified": true
   }
 ]

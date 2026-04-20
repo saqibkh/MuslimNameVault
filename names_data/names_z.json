@@ -1123,6 +1123,14 @@
     }
   },
   {
+    "name": "Zaiba",
+    "gender": "Girl",
+    "meaning": "Beautiful, adornment",
+    "origin": "Persian",
+    "id": "za5",
+    "verified": true
+  },
+  {
     "name": "Zaid",
     "gender": "Boy",
     "meaning": "Growth",
@@ -1243,6 +1251,23 @@
     }
   },
   {
+    "name": "Zaina",
+    "gender": "Girl",
+    "meaning": "Beautiful or adorned",
+    "origin": "Arabic",
+    "id": "za2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زينة",
+      "Urdu": "زینہ",
+      "Persian": "زینا",
+      "Turkish": "Zaina",
+      "Bengali": "জয়না",
+      "Indonesian": "Zaina",
+      "Pashto": "زینه"
+    }
+  },
+  {
     "name": "Zainab",
     "gender": "Girl",
     "meaning": "Fragrant flower",
@@ -1260,6 +1285,22 @@
     }
   },
   {
+    "name": "Zainabah",
+    "gender": "Girl",
+    "meaning": "Fragrant flower",
+    "origin": "Arabic",
+    "id": "za1",
+    "verified": true
+  },
+  {
+    "name": "Zainabdeen",
+    "gender": "Boy",
+    "meaning": "Adornment of religion",
+    "origin": "Arabic",
+    "id": "za6",
+    "verified": true
+  },
+  {
     "name": "Zainal",
     "gender": "Boy",
     "meaning": "Beauty of",
@@ -1275,6 +1316,22 @@
       "Indonesian": "Zainal",
       "Pashto": "زینال"
     }
+  },
+  {
+    "name": "Zainul",
+    "gender": "Boy",
+    "meaning": "Adornment of",
+    "origin": "Arabic",
+    "id": "za2",
+    "verified": true
+  },
+  {
+    "name": "Zainulabideen",
+    "gender": "Boy",
+    "meaning": "Ornament of the worshippers",
+    "origin": "Arabic",
+    "id": "za7",
+    "verified": true
   },
   {
     "name": "Zaitoon",
@@ -1573,6 +1630,22 @@
       "Indonesian": "Zakir",
       "Pashto": "ذاکر"
     }
+  },
+  {
+    "name": "Zakiya",
+    "gender": "Girl",
+    "meaning": "Pure, intelligent",
+    "origin": "Arabic",
+    "id": "za3",
+    "verified": true
+  },
+  {
+    "name": "Zakiyah",
+    "gender": "Girl",
+    "meaning": "Pure, intelligent",
+    "origin": "Arabic",
+    "id": "za4",
+    "verified": true
   },
   {
     "name": "Zaleeka",
@@ -2415,6 +2488,23 @@
     }
   },
   {
+    "name": "Zayden",
+    "gender": "Boy",
+    "meaning": "Growth or increase",
+    "origin": "Arabic",
+    "id": "za1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زيدن",
+      "Urdu": "زیڈن",
+      "Persian": "زیدن",
+      "Turkish": "Zayden",
+      "Bengali": "জায়েডেন",
+      "Indonesian": "Zaiden",
+      "Pashto": "زیډن"
+    }
+  },
+  {
     "name": "Zayn",
     "gender": "Boy",
     "meaning": "Beauty",
@@ -2998,6 +3088,22 @@
     }
   },
   {
+    "name": "Zeina",
+    "gender": "Girl",
+    "meaning": "Beautiful, adornment",
+    "origin": "Arabic",
+    "id": "ze1",
+    "verified": true
+  },
+  {
+    "name": "Zeinab",
+    "gender": "Girl",
+    "meaning": "Fragrant flower",
+    "origin": "Arabic",
+    "id": "ze2",
+    "verified": true
+  },
+  {
     "name": "Zekee",
     "gender": "Boy",
     "meaning": "Intelligent; Clever",
@@ -3065,6 +3171,23 @@
       "Bengali": "জেকিয়ে",
       "Indonesian": "Zekiye",
       "Pashto": "زیکی"
+    }
+  },
+  {
+    "name": "Zeliha",
+    "gender": "Girl",
+    "meaning": "Water fairy",
+    "origin": "Turkish/Arabic",
+    "id": "ze1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زليخة",
+      "Urdu": "زلیحہ",
+      "Persian": "زلیها",
+      "Turkish": "Zeliha",
+      "Bengali": "জেলিহা",
+      "Indonesian": "Zeliha",
+      "Pashto": "زلیحه"
     }
   },
   {
@@ -3154,6 +3277,14 @@
       "Indonesian": "Zerrin",
       "Pashto": "زرين"
     }
+  },
+  {
+    "name": "Zeyad",
+    "gender": "Boy",
+    "meaning": "Growth, abundance",
+    "origin": "Arabic",
+    "id": "ze3",
+    "verified": true
   },
   {
     "name": "Zeynab",
@@ -3518,6 +3649,23 @@
     }
   },
   {
+    "name": "Zirak",
+    "gender": "Boy",
+    "meaning": "Intelligent or clever",
+    "origin": "Persian",
+    "id": "zi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زيراك",
+      "Urdu": "زیرک",
+      "Persian": "زیرک",
+      "Turkish": "Zirak",
+      "Bengali": "জিরাক",
+      "Indonesian": "Zirak",
+      "Pashto": "زرک"
+    }
+  },
+  {
     "name": "Zishan",
     "gender": "Boy",
     "meaning": "Peaceful",
@@ -3569,6 +3717,14 @@
     }
   },
   {
+    "name": "Ziyadah",
+    "gender": "Girl",
+    "meaning": "Increase, growth",
+    "origin": "Arabic",
+    "id": "zi1",
+    "verified": true
+  },
+  {
     "id": "zi9_var",
     "name": "Ziyah",
     "gender": "Unisex",
@@ -3584,6 +3740,23 @@
       "Bengali": "জিয়াহ",
       "Indonesian": "Ziyah",
       "Pashto": "زیاه"
+    }
+  },
+  {
+    "name": "Ziyan",
+    "gender": "Girl",
+    "meaning": "Elegance or ornament",
+    "origin": "Arabic",
+    "id": "zi2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زيان",
+      "Urdu": "زیان",
+      "Persian": "زیان",
+      "Turkish": "Ziyan",
+      "Bengali": "জিয়ান",
+      "Indonesian": "Ziyan",
+      "Pashto": "زیان"
     }
   },
   {
@@ -3655,6 +3828,14 @@
       "Indonesian": "Zohaib",
       "Pashto": "زوهیب"
     }
+  },
+  {
+    "name": "Zohair",
+    "gender": "Boy",
+    "meaning": "Little flower",
+    "origin": "Arabic",
+    "id": "zo1",
+    "verified": true
   },
   {
     "id": "zo3",
@@ -4985,6 +5166,23 @@
     }
   },
   {
+    "name": "Zulfa",
+    "gender": "Girl",
+    "meaning": "First part of the night",
+    "origin": "Arabic",
+    "id": "zu1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "زلفا",
+      "Urdu": "زلفہ",
+      "Persian": "زلفا",
+      "Turkish": "Zülfa",
+      "Bengali": "জুলফা",
+      "Indonesian": "Zulfa",
+      "Pashto": "زلفه"
+    }
+  },
+  {
     "name": "Zulfaqar",
     "gender": "Boy",
     "meaning": "Sword of Ali",
@@ -5053,6 +5251,14 @@
       "Indonesian": "Zulfi",
       "Pashto": "زلفي"
     }
+  },
+  {
+    "name": "Zulfikar",
+    "gender": "Boy",
+    "meaning": "Sword of Ali",
+    "origin": "Arabic",
+    "id": "zu1",
+    "verified": true
   },
   {
     "id": "zu9",

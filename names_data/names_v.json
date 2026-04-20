@@ -35,6 +35,23 @@
     }
   },
   {
+    "name": "Vafi",
+    "gender": "Boy",
+    "meaning": "Complete or loyal",
+    "origin": "Persian",
+    "id": "va1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فافي",
+      "Urdu": "وافی",
+      "Persian": "وافی",
+      "Turkish": "Vafi",
+      "Bengali": "ভাফি",
+      "Indonesian": "Vafi",
+      "Pashto": "وفي"
+    }
+  },
+  {
     "name": "Vahap",
     "gender": "Boy",
     "meaning": "Giver; Bestower",
@@ -245,6 +262,23 @@
     }
   },
   {
+    "name": "Varda",
+    "gender": "Girl",
+    "meaning": "Rose",
+    "origin": "Persian",
+    "id": "va2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فاردا",
+      "Urdu": "وردہ",
+      "Persian": "واردا",
+      "Turkish": "Varda",
+      "Bengali": "ভার্দা",
+      "Indonesian": "Varda",
+      "Pashto": "وردا"
+    }
+  },
+  {
     "name": "Vareesha",
     "gender": "Girl",
     "meaning": "Lightning",
@@ -330,6 +364,23 @@
       "Bengali": "ভাসিম",
       "Indonesian": "Vasim",
       "Pashto": "وسیم"
+    }
+  },
+  {
+    "name": "Veda",
+    "gender": "Girl",
+    "meaning": "Farewell or goodbye",
+    "origin": "Turkish/Arabic",
+    "id": "ve1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيدا",
+      "Urdu": "وید",
+      "Persian": "ودا",
+      "Turkish": "Veda",
+      "Bengali": "বেদ",
+      "Indonesian": "Weda",
+      "Pashto": "ویدا"
     }
   },
   {
@@ -557,6 +608,23 @@
       "Bengali": "ভিল্ডান",
       "Indonesian": "Vidan",
       "Pashto": "ویلډان"
+    }
+  },
+  {
+    "name": "Viqar",
+    "gender": "Boy",
+    "meaning": "Majesty or dignity",
+    "origin": "Arabic",
+    "id": "vi1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "فيقار",
+      "Urdu": "وقار",
+      "Persian": "ویقار",
+      "Turkish": "Vikar",
+      "Bengali": "ভিকার",
+      "Indonesian": "Viqar",
+      "Pashto": "وقار"
     }
   },
   {

@@ -35,6 +35,22 @@
     }
   },
   {
+    "name": "Padina",
+    "gender": "Girl",
+    "meaning": "A field of mint",
+    "origin": "Persian",
+    "id": "pa1",
+    "verified": true
+  },
+  {
+    "name": "Padma",
+    "gender": "Girl",
+    "meaning": "Lotus",
+    "origin": "Persian/Sanskrit",
+    "id": "pa2",
+    "verified": true
+  },
+  {
     "id": "pa3_var",
     "name": "Paeegham",
     "gender": "Boy",

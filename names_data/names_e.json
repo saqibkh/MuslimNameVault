@@ -190,6 +190,23 @@
     }
   },
   {
+    "name": "Ebrahimeh",
+    "gender": "Girl",
+    "meaning": "Father of a multitude",
+    "origin": "Arabic",
+    "id": "eb1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابراهيمه",
+      "Urdu": "ابراہیم",
+      "Persian": "ابراهیمه",
+      "Turkish": "İbrahim",
+      "Bengali": "ইব্রাহিমহ",
+      "Indonesian": "Ibrahimeh",
+      "Pashto": "ابراهیمي"
+    }
+  },
+  {
     "id": "eb6_var",
     "name": "Ebroo",
     "gender": "Girl",
@@ -665,6 +682,23 @@
     }
   },
   {
+    "name": "Efdal",
+    "gender": "Boy",
+    "meaning": "Best or most excellent",
+    "origin": "Turkish",
+    "id": "ef1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ايفدال",
+      "Urdu": "ایفدل",
+      "Persian": "افدل",
+      "Turkish": "Efdal",
+      "Bengali": "এফডাল",
+      "Indonesian": "Efdal",
+      "Pashto": "افدال"
+    }
+  },
+  {
     "id": "ef1",
     "name": "Efe",
     "gender": "Boy",
@@ -818,6 +852,14 @@
     }
   },
   {
+    "name": "Ehsaan",
+    "gender": "Boy",
+    "meaning": "Favor, goodness",
+    "origin": "Arabic",
+    "id": "eh1",
+    "verified": true
+  },
+  {
     "id": "eh3",
     "name": "Ehsan",
     "gender": "Unisex",
@@ -904,6 +946,14 @@
     }
   },
   {
+    "name": "Eidah",
+    "gender": "Girl",
+    "meaning": "Festival, joyous",
+    "origin": "Arabic",
+    "id": "ei1",
+    "verified": true
+  },
+  {
     "id": "ei2",
     "name": "Eidam",
     "gender": "Boy",
@@ -952,6 +1002,23 @@
       "Bengali": "ইলাফ",
       "Indonesian": "Eilaf",
       "Pashto": "ایلاف"
+    }
+  },
+  {
+    "name": "Eiliyah",
+    "gender": "Girl",
+    "meaning": "The beautiful one to grow in peace and love",
+    "origin": "Arabic",
+    "id": "ei1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إيليا",
+      "Urdu": "ایلیا",
+      "Persian": "ایلیا",
+      "Turkish": "Eiliyah",
+      "Bengali": "ইলিয়াহ",
+      "Indonesian": "Eiliyah",
+      "Pashto": "ایلیا"
     }
   },
   {
@@ -1493,6 +1560,23 @@
     }
   },
   {
+    "name": "Elira",
+    "gender": "Girl",
+    "meaning": "Freedom",
+    "origin": "Albanian",
+    "id": "el1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إليرا",
+      "Urdu": "ایلیرا",
+      "Persian": "الیرا",
+      "Turkish": "Elira",
+      "Bengali": "এলিরা",
+      "Indonesian": "Elira",
+      "Pashto": "ایلیرا"
+    }
+  },
+  {
     "id": "el9",
     "name": "Elisha",
     "gender": "Boy",
@@ -1667,6 +1751,23 @@
     }
   },
   {
+    "name": "Elyas",
+    "gender": "Boy",
+    "meaning": "A Prophet's name (Elijah)",
+    "origin": "Arabic",
+    "id": "el2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إلياس",
+      "Urdu": "الیاس",
+      "Persian": "الیاس",
+      "Turkish": "Elyas",
+      "Bengali": "ইলিয়াস",
+      "Indonesian": "Elias",
+      "Pashto": "الیاس"
+    }
+  },
+  {
     "id": "em1",
     "name": "Emad",
     "gender": "Boy",
@@ -1698,6 +1799,23 @@
       "Bengali": "ইমল",
       "Indonesian": "Emal",
       "Pashto": "ایمل"
+    }
+  },
+  {
+    "name": "Emam",
+    "gender": "Boy",
+    "meaning": "Leader",
+    "origin": "Arabic",
+    "id": "em1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "امام",
+      "Urdu": "امام",
+      "Persian": "امام",
+      "Turkish": "İmam",
+      "Bengali": "এমাম",
+      "Indonesian": "Em",
+      "Pashto": "ایمام"
     }
   },
   {
@@ -1856,6 +1974,23 @@
       "Bengali": "এমিনাহ",
       "Indonesian": "Eminah",
       "Pashto": "امینه"
+    }
+  },
+  {
+    "name": "Emine",
+    "gender": "Girl",
+    "meaning": "Trustworthy, faithful",
+    "origin": "Turkish",
+    "id": "em2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "أمينة",
+      "Urdu": "ایمن",
+      "Persian": "امین",
+      "Turkish": "Emine",
+      "Bengali": "এমিন",
+      "Indonesian": "Emine",
+      "Pashto": "ایمین"
     }
   },
   {
@@ -2743,6 +2878,23 @@
     }
   },
   {
+    "name": "Esin",
+    "gender": "Girl",
+    "meaning": "Inspiration or morning breeze",
+    "origin": "Turkish",
+    "id": "es1",
+    "verified": true,
+    "spellings": {
+      "Arabic": "ايسين",
+      "Urdu": "ایسن",
+      "Persian": "اسین",
+      "Turkish": "Esin",
+      "Bengali": "এসিন",
+      "Indonesian": "Esin",
+      "Pashto": "ایسین"
+    }
+  },
+  {
     "id": "es6",
     "name": "Esma",
     "gender": "Girl",
@@ -2796,6 +2948,23 @@
     }
   },
   {
+    "name": "Esmaiel",
+    "gender": "Boy",
+    "meaning": "God will hear, A Prophet's name (Ishmael)",
+    "origin": "Arabic",
+    "id": "es2",
+    "verified": true,
+    "spellings": {
+      "Arabic": "اسماعيل",
+      "Urdu": "اسماعیل",
+      "Persian": "اسماعیل",
+      "Turkish": "İsmail",
+      "Bengali": "ইসমাইল",
+      "Indonesian": "Esmail",
+      "Pashto": "اسماعیل"
+    }
+  },
+  {
     "id": "es7",
     "name": "Esmail",
     "gender": "Boy",
@@ -2843,6 +3012,23 @@
       "Turkish": "Esra",
       "Bengali": "এসরা",
       "Indonesian": "Esra",
+      "Pashto": "اسرا"
+    }
+  },
+  {
+    "name": "Esraa",
+    "gender": "Girl",
+    "meaning": "Night journey",
+    "origin": "Arabic",
+    "id": "es3",
+    "verified": true,
+    "spellings": {
+      "Arabic": "إسراء",
+      "Urdu": "ایسرا",
+      "Persian": "اسراء",
+      "Turkish": "Esraa",
+      "Bengali": "এসরা",
+      "Indonesian": "Esraa",
       "Pashto": "اسرا"
     }
   },
