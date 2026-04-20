@@ -74561,7 +74561,16 @@
     "meaning": "Father of a multitude (Abraham)",
     "origin": "Arabic",
     "id": "ib1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابراهيم",
+      "Urdu": "ابراہیم",
+      "Persian": "ابراهیم",
+      "Turkish": "İbrahim",
+      "Bengali": "ইব্রাহিম",
+      "Indonesian": "Ibrahim",
+      "Pashto": "ابراهیم"
+    }
   },
   {
     "name": "Ibrahim",
@@ -74603,7 +74612,16 @@
     "meaning": "Helpful, peaceful",
     "origin": "Arabic",
     "id": "ib2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابرار",
+      "Urdu": "ابرار",
+      "Persian": "ایبرار",
+      "Turkish": "İbrar",
+      "Bengali": "ইবরার",
+      "Indonesian": "Ibrar",
+      "Pashto": "ابرار"
+    }
   },
   {
     "name": "Ibreeseem",
@@ -74751,7 +74769,16 @@
     "meaning": "Smile",
     "origin": "Arabic",
     "id": "ib3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "ابتسام",
+      "Urdu": "ابتسام",
+      "Persian": "ابتصام",
+      "Turkish": "İbtissam",
+      "Bengali": "ইবতিসাম",
+      "Indonesian": "Ibtissam",
+      "Pashto": "ابتسام"
+    }
   },
   {
     "name": "Iceem",
@@ -75000,7 +75027,16 @@
     "meaning": "Chaste forehead",
     "origin": "Arabic/Persian",
     "id": "if1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عفت جابين",
+      "Urdu": "عفت جبین",
+      "Persian": "عفت جبین",
+      "Turkish": "Iffat Jabeen",
+      "Bengali": "ইফফাত জাবীন",
+      "Indonesian": "Iffat Jabeen",
+      "Pashto": "عفت جبین"
+    }
   },
   {
     "name": "Ifra",
@@ -75302,7 +75338,16 @@
     "meaning": "Permission, certificate",
     "origin": "Arabic",
     "id": "ij1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إجازة",
+      "Urdu": "اعجازہ",
+      "Persian": "ایجازه",
+      "Turkish": "Ijazah",
+      "Bengali": "ইজাযাহ",
+      "Indonesian": "Ijazah",
+      "Pashto": "اعجازه"
+    }
   },
   {
     "name": "Ijlal",
@@ -75827,7 +75872,16 @@
     "meaning": "Prophet's name and Praised",
     "origin": "Arabic",
     "id": "il1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إلياس أحمد",
+      "Urdu": "الیاس احمد",
+      "Persian": "الیاس احمد",
+      "Turkish": "İlyas Ahmed",
+      "Bengali": "ইলিয়াস আহমেদ",
+      "Indonesian": "Ilyas Ahmad",
+      "Pashto": "الیاس احمد"
+    }
   },
   {
     "name": "Ilyasah",
@@ -76318,7 +76372,16 @@
     "meaning": "Empathy, care",
     "origin": "Arabic",
     "id": "in1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عناية",
+      "Urdu": "عنایہ",
+      "Persian": "اینایا",
+      "Turkish": "Inaaya",
+      "Bengali": "ইনায়া",
+      "Indonesian": "Inaaya",
+      "Pashto": "انایا"
+    }
   },
   {
     "name": "Inab",
@@ -76620,7 +76683,16 @@
     "meaning": "Beautiful",
     "origin": "Old Norse",
     "id": "in2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "انغريد",
+      "Urdu": "انگرڈ",
+      "Persian": "اینگرید",
+      "Turkish": "Ingrid",
+      "Bengali": "ইনগ্রিড",
+      "Indonesian": "Ingrid",
+      "Pashto": "انګریډ"
+    }
   },
   {
     "name": "Insaf",
@@ -76662,7 +76734,16 @@
     "meaning": "Creation of God",
     "origin": "Arabic",
     "id": "in3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إنشاءات",
+      "Urdu": "انشا",
+      "Persian": "انشاا",
+      "Turkish": "İnşaa",
+      "Bengali": "ইনশা",
+      "Indonesian": "Insyaa",
+      "Pashto": "انشاالله"
+    }
   },
   {
     "name": "Inshah",
@@ -77156,7 +77237,16 @@
     "meaning": "Knowledge, wisdom",
     "origin": "Arabic",
     "id": "ir1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "عرفان",
+      "Urdu": "عرفان",
+      "Persian": "عرفان",
+      "Turkish": "İrfaan",
+      "Bengali": "ইরফান",
+      "Indonesian": "Irfaan",
+      "Pashto": "عرفان"
+    }
   },
   {
     "name": "Irfan",
@@ -77509,7 +77599,16 @@
     "meaning": "A Prophet's name (Isaac)",
     "origin": "Arabic",
     "id": "is1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إسحاق",
+      "Urdu": "اسحاق",
+      "Persian": "اسحاق",
+      "Turkish": "İshak",
+      "Bengali": "ইসহাক",
+      "Indonesian": "Ishaaq",
+      "Pashto": "اسحاق"
+    }
   },
   {
     "name": "Ishac",
@@ -77637,7 +77736,16 @@
     "meaning": "Radiance, sunrise",
     "origin": "Arabic",
     "id": "is2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "إشراقة",
+      "Urdu": "اشراق",
+      "Persian": "اشراقه",
+      "Turkish": "İşraka",
+      "Bengali": "ইশরাকাহ",
+      "Indonesian": "Ishraqah",
+      "Pashto": "اشراقه"
+    }
   },
   {
     "name": "Ishrat",
@@ -176196,7 +176304,16 @@
     "meaning": "Ease, comfort",
     "origin": "Arabic",
     "id": "yo1",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یوسرا",
+      "Turkish": "Yosra",
+      "Bengali": "ইয়োসরা",
+      "Indonesian": "Yosra",
+      "Pashto": "یوسرا"
+    }
   },
   {
     "name": "Yosuf",
@@ -176204,7 +176321,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo2",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Youcef",
@@ -176212,7 +176338,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo3",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Youcef",
+      "Bengali": "ইউসেফ",
+      "Indonesian": "kamucef",
+      "Pashto": "یوسف"
+    }
   },
   {
     "id": "yo2",
@@ -176250,14 +176385,6 @@
     }
   },
   {
-    "name": "Younas",
-    "gender": "Boy",
-    "meaning": "A Prophet's name (Jonah)",
-    "origin": "Arabic",
-    "id": "yo27",
-    "verified": true
-  },
-  {
     "id": "yo3",
     "name": "Younes",
     "gender": "Boy",
@@ -176280,7 +176407,16 @@
     "meaning": "A Prophet's name (Jonah)",
     "origin": "Arabic",
     "id": "yo4",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনিস",
+      "Indonesian": "Younis",
+      "Pashto": "یونس"
+    }
   },
   {
     "name": "Younisah",
@@ -176288,7 +176424,16 @@
     "meaning": "Dove",
     "origin": "Arabic",
     "id": "yo5",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونسه",
+      "Urdu": "یونسہ",
+      "Persian": "یونسه",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনিসাহ",
+      "Indonesian": "Younisah",
+      "Pashto": "یونسه"
+    }
   },
   {
     "name": "Younus",
@@ -176296,7 +176441,16 @@
     "meaning": "A Prophet's name (Jonah)",
     "origin": "Arabic",
     "id": "yo6",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونس",
+      "Urdu": "یونس",
+      "Persian": "یونس",
+      "Turkish": "Yunus",
+      "Bengali": "ইউনুস",
+      "Indonesian": "Younus",
+      "Pashto": "یونس"
+    }
   },
   {
     "name": "Younusah",
@@ -176304,7 +176458,16 @@
     "meaning": "Dove",
     "origin": "Arabic",
     "id": "yo7",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يونسه",
+      "Urdu": "یونسہ",
+      "Persian": "یونسه",
+      "Turkish": "Yunusah",
+      "Bengali": "ইউনুসাহ",
+      "Indonesian": "Younusah",
+      "Pashto": "یونسه"
+    }
   },
   {
     "name": "Yousaf",
@@ -176312,7 +176475,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo8",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousaf",
+      "Pashto": "یوسف"
+    }
   },
   {
     "id": "yo4",
@@ -176337,7 +176509,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo9",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousefah",
+      "Pashto": "یوسفي"
+    }
   },
   {
     "name": "Yousif",
@@ -176345,7 +176526,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo10",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফ",
+      "Indonesian": "Yousif",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Yousifah",
@@ -176353,7 +176543,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo11",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফাহ",
+      "Indonesian": "Yousifah",
+      "Pashto": "یوسفه"
+    }
   },
   {
     "id": "yo5",
@@ -176396,7 +176595,16 @@
     "meaning": "Wealthy, comfortable",
     "origin": "Arabic",
     "id": "yo12",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Yousri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Yousri",
+      "Pashto": "یوسری"
+    }
   },
   {
     "name": "Yousriyah",
@@ -176404,7 +176612,16 @@
     "meaning": "Wealthy, comfortable",
     "origin": "Arabic",
     "id": "yo13",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرية",
+      "Urdu": "یوسریہ",
+      "Persian": "یسریه",
+      "Turkish": "Yousriyah",
+      "Bengali": "ইউসরিয়াহ",
+      "Indonesian": "Yousriyah",
+      "Pashto": "یوسریه"
+    }
   },
   {
     "name": "Yousry",
@@ -176412,7 +176629,16 @@
     "meaning": "Wealthy, comfortable",
     "origin": "Arabic",
     "id": "yo14",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Sen",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Maaf",
+      "Pashto": "یوسري"
+    }
   },
   {
     "name": "Yousryyah",
@@ -176420,7 +176646,16 @@
     "meaning": "Wealthy, comfortable",
     "origin": "Arabic",
     "id": "yo15",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرية",
+      "Urdu": "یوسریہ",
+      "Persian": "یسریه",
+      "Turkish": "Senryyah",
+      "Bengali": "ইউসরিয়্যাহ",
+      "Indonesian": "Yousryyah",
+      "Pashto": "یوسریه"
+    }
   },
   {
     "name": "Youssef",
@@ -176428,7 +176663,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo16",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yousef",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Youssefa",
@@ -176436,7 +176680,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo17",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفی",
+      "Persian": "یوسفی",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফা",
+      "Indonesian": "Youssefa",
+      "Pashto": "یوسفی"
+    }
   },
   {
     "name": "Youssefah",
@@ -176444,7 +176697,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo18",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفی",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Youssefah",
+      "Pashto": "یوسفي"
+    }
   },
   {
     "name": "Youssif",
@@ -176452,7 +176714,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo19",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "kamusif",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Youssifah",
@@ -176460,7 +176731,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo20",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفی",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসিফাহ",
+      "Indonesian": "Youssifah",
+      "Pashto": "یوسفیه"
+    }
   },
   {
     "name": "Youssouf",
@@ -176468,7 +176748,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo21",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Youssouf",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Youssra",
@@ -176476,7 +176765,16 @@
     "meaning": "Ease, comfort",
     "origin": "Arabic",
     "id": "yo22",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسرا",
+      "Urdu": "یوسرہ",
+      "Persian": "یسرا",
+      "Turkish": "Youssra",
+      "Bengali": "ইউসরা",
+      "Indonesian": "Youssra",
+      "Pashto": "یوسرا"
+    }
   },
   {
     "name": "Youssri",
@@ -176484,7 +176782,16 @@
     "meaning": "Wealthy, comfortable",
     "origin": "Arabic",
     "id": "yo23",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يسري",
+      "Urdu": "یوسری۔",
+      "Persian": "یسری",
+      "Turkish": "Youssri",
+      "Bengali": "ইউসরি",
+      "Indonesian": "Youssri",
+      "Pashto": "یوسفي"
+    }
   },
   {
     "name": "Youssuf",
@@ -176492,7 +176799,16 @@
     "meaning": "A Prophet's name (Joseph)",
     "origin": "Arabic",
     "id": "yo24",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "يوسف",
+      "Urdu": "یوسف",
+      "Persian": "یوسف",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফ",
+      "Indonesian": "Yusuf",
+      "Pashto": "یوسف"
+    }
   },
   {
     "name": "Youssufah",
@@ -176500,7 +176816,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo25",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليوسفة",
+      "Urdu": "یوسف",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফাহ",
+      "Indonesian": "Youssufah",
+      "Pashto": "یوسفه"
+    }
   },
   {
     "name": "Yousuf",
@@ -176525,7 +176850,16 @@
     "meaning": "God will add",
     "origin": "Arabic",
     "id": "yo26",
-    "verified": true
+    "verified": true,
+    "spellings": {
+      "Arabic": "اليوسفة",
+      "Urdu": "یوسفہ",
+      "Persian": "یوسفه",
+      "Turkish": "Yusuf",
+      "Bengali": "ইউসুফা",
+      "Indonesian": "Yusufah",
+      "Pashto": "یوسفه"
+    }
   },
   {
     "name": "Yudee",
